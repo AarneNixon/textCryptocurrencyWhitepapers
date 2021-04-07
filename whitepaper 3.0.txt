@@ -1,0 +1,1858 @@
+Over the Reality
+The decentralized world scale Spatial Web platform
+
+EXECUTIVE SUMMARY
+OVR is a World Scale, open-source, AR platform powered by Ethereum Blockchain.
+OVR makes it possible for users provided with a mobile device or smart glasses to
+live interactive augmented reality experiences customized in the real world.
+OVR can be defined as a new standard in augmented reality experiences by placing
+itself as the first content browser where the user does not choose the contents
+but the world submits the possible experiences based on its geographical position.
+OVR adopts the open source philosophy, meaning that the entire OVR community
+contributes to its growth, thus making the platform independent of its creators.
+OVR use Ethereum blockchain to decentralize all the token exchange dynamics
+between the users.
+OVR token is an utility token based on the Ethereum’s smart contract ERC-20
+standard.
+OVRLands are parcels stored inside a blockchain-based ledger that make up the
+digital layer of subdivision of our planet into hexagons.
+OVRLand token is a non-fungible token based on the ERC-721 standard that also
+allows decentralized possession of digital assets such as OVRLands and
+OVRExperiences, that superimposed on reality through the eye of a mobile device
+or a smart glass, give life to augmented reality experiences.
+OVRLands are freely tradable among users in a decentralized fashion through the
+use of the marketplace OVROwner. This means that OVRLand owners can decide
+what kind of experience the user will experience once entered in the OVRLand.
+Therefore the community has complete control over OVRLands, OVRExperiences.
+AR experiences can range from static 3D content and interactive highly complex
+and hyper real scenes that make virtual content merge with the real world by
+engaging the user to a physical interaction with the surrounding world. So far, the
+system exploiting these experiences are mobile devices based on iOS and Android
+and Smart glasses such as Hololens, Magic Leap and AR low cost headset based
+on the holokit project.
+OVR, acting as a platform, supports the current hardware available on the market
+and with software integrations will support all-next generation hardware launched
+
+2
+
+on the market. The platform therefore stands as a hardware-independent
+standard.
+The OVRExperiences can be realized thanks to a Unity3D-based SDK and
+community users can undertake buying and selling experiences inside the
+platform.
+Unity3D, among the leading real time 3D development environments on the market,
+has been chosen for its versatility, diffusion and ability to manage a cross-platform
+compilation of projects thus supporting mobile devices and smart glasses.
+OVR implements a decentralized advertising system based on publisher/advertiser
+principle where the OVROwner can earn OVR token by inserting the sponsored
+content proposed by advertisers into the augmented reality experience.
+OVR is unstoppable because, once implemented in the blockchain, no one will
+have the power to change the software rules, the OVRLand contents and the
+crypto token economy.
+The moderation activity will be managed by the community itself with a reporting
+system with a management of blacklists maintained by the nodes.
+OVR is focused on the rapid growth of the mobile AR and Smart Glasses sector and
+introduces the following main innovations:
+• Development of a decentralized and unstoppable open source platform
+managed by the community with its own coin and its own ecosystem.
+• Buying and selling digital assets (lands, contents, advertising) with the OVR
+utility token
+• Development of a combined tracking system that uses GPS, computer vision
+algorithms and the inertial system on board the device to bring the user
+experience to a new state of the art of outdoor AR.
+• The use of the IPFS* like protocol to decentralize the storage of 2D/3D assets
+by making the entire platform unstoppable and independent and
+remunerating the nodes that share their storage space.
+• Decentralization and community powered ecosystem
+OVR, as you will realize in the following paragraphs, is disruptive for different
+sectors in addition to augmented reality such as:
+•
+•
+•
+•
+
+Digital content monetization
+Digital advertising
+Digital experience monetization
+P2P jobs
+
+3
+
+TABLE OF CONTENTS
+
+1.0 The Market
+
+7
+
+1.1 Overview
+
+7
+
+1.2 Market opportunities
+
+8
+
+2.0 Addressing Market Needs
+
+9
+
+End User - The explorer of the OVR World
+
+9
+
+Digital assets investor - The one who collects OVRLands
+
+10
+
+Digital Media Agencies
+
+10
+
+For the advertiser - A brand who wants to promote its product/service
+
+11
+
+3D digital artists - The builders of the OVR experience
+
+11
+
+OFFLINE SHOPS and Chain stores in general
+
+12
+
+3.0 OVR Key Features
+
+13
+
+3.1 OVR Ecosystem
+
+14
+
+3.2 OVRLands
+
+15
+
+3.2.1 Why hexagons
+
+15
+
+3.2.2 Neighbor Transversal
+
+15
+
+3.2.3 Distortion
+
+16
+
+3.2.4 OVRLands Natura Language URI
+
+17
+
+3.2.5 Private Utility Layer and Public Utility Layer
+
+17
+
+3.3 Marketplace
+
+18
+
+3.4 OVRLands: Buy, Sell, Rent
+
+18
+
+3.5 OVRExperience: Buy and Sell
+
+19
+
+3.6 OVRAdv: Buy and Sell
+
+19
+
+4.0 OVR Tech
+
+20
+
+4.1 Augmented Reality Technologies
+
+20
+
+4.2 Persistent AR Experience and Shared Experience
+
+20
+
+4.3 OVR Geo Positioning and Tracking
+
+20
+
+4.3.1 GPS Issues
+
+20
+
+4.3.2 New Positioning Technique – The Fourth Dimension
+
+20
+
+4.3.3 Target and Scanning
+
+23
+
+4.3.4 Next Development
+
+24
+
+4.4 The OVR SDK and Unity 3D
+
+25
+
+4.5 OVR Land scanner
+
+25
+
+4.6 IPFS and OVRNode
+
+25
+
+4.7 Sidechain
+
+26
+
+4.8 OVRAssistant, the Plug and Play AI avatar
+
+29
+
+4.8.1 What is the OVRAssistant
+
+29
+
+4.8.2 OVR Virtual Assistant Natural Language Processing (NLP) technologies
+
+30
+
+4
+
+5 Token Economy
+
+32
+
+5.1 Two kind of tokens, one ecosystem
+
+33
+
+5.2 Token Economics
+
+33
+
+6 OVR Nodes and staking
+
+34
+
+6.1 OVR Nodes
+
+34
+
+6.2 Lock-Up and additional developments
+
+35
+
+6.3 OVR Core Team
+
+35
+
+6.4 OVR IBCO
+
+35
+
+6.4.1 OVRLand emission
+
+36
+
+6.4.2 OVRLands Token After First Acquisition
+
+39
+
+6.4.3 OVR Token Rewards
+
+39
+
+7 Platform Launch
+
+40
+
+7.1 Roadmap
+
+40
+
+7.2 Marketing plan
+
+43
+
+7.2.1 Definition of Target audience
+
+43
+
+7.2.2 Digital Marketing Strategy Channels - (RACE -Reach, Act, Convert, Engage)
+
+43
+
+7.2.3 Branding and offline marketing strategy
+
+46
+
+7.3 Competitor Analysis
+
+48
+
+8 Initial Bonding Curve Offer
+
+49
+
+8.1 Terms and Conditions
+
+49
+
+8.2 Uses of Funds
+
+53
+
+8.2.1 Budget allocation
+
+54
+
+9.0 Team
+
+55
+
+Advisors
+
+58
+
+10 Legal Disclaimer
+
+60
+
+5
+
+6
+
+1.0 The Market
+1.1 Overview
+In 2018 several Augmented Reality technologies were introduced on the market.
+Technological giants such as Apple, Facebook and Google made major investments
+and acquisitions increasingly aimed at implementing such technology with
+contents devoted to consumer market.
+According to a recent forecast published by IDC, consumer industry will expand its
+position as the largest spender in AR and VR closely followed by Retail. This growth
+is also due to the fact that the smartphone market goes in such a direction that all
+the devices produced since 2018 fully support Augmented Reality. Also the market
+related to smart glasses technologies is growing fast and many technological
+companies are investing to launch a powerful and affordable product on the
+market.
+According to IDC, the augmented reality market will reach $11 billion in 2020, while
+is expected to reach $137 billion by the end of 2024.
+Research highlights how the investments of the most important technological
+giants show how these companies have understood the enormous potential of the
+Augmented Reality, not only as a technology, but as a new and powerful
+communication channel, able to convey any type of content and usable in any
+sector.
+
+AR Revenue
+
+Source: IDC
+* h!ps://www.idc.com/getdoc.jsp?containerId=prEUR146720420
+
+7
+
+Point of interest
+
+Source: google.com and openstreetmap.org
+
+1.2 Market opportunities
+After almost 2 years of research and analysis, we have identified the following pain
+points that the OVR Platform will address:
+• Mobile app ecosystem fragmentation
+• Attention drop in digital ADV
+• Difficulty to monetize digital assets
+• AR as single experiences in a multitude of vertical apps
+• AR as simple marker augmentation with low
+
+8
+
+2.0 Addressing Market Needs
+OVR is an aggregator, a community that uses a real economic system that can
+revolutionize AR world-scale experiences. Thanks to this system, OVR represents
+the solution to various market segments needs.
+OVR aims at provide a single free augmented reality tool that allows you to live 3D
+quality experience contextualized in the surrounding environment.
+
+End User - The explorer of the OVR World
+NEEDS
+
+SOLUTIONS
+
+A single AR worldscale platform as a
+new 3D browser on the world
+
+A single mobile application for
+smartphones / tablets / smart glasses
+compatible with all platforms on the
+market
+
+A new advertising channel, going
+beyond the classic and overcrowded
+mobile advertising
+
+Advertising merges coherently with AR
+experiences, making promotional
+initiatives less invasive and more
+engaging
+
+Multiplayer engagement experiences in
+augmented reality
+
+OVR allows realtime interaction
+between multiple users in the same
+place
+
+Stable and geolocalized experiences in
+order to fuse virtuality and reality
+
+OVR guarantees a precise positioning
+of 3D elements in the real world for a
+quality user experience and consistent
+with the surrounding environment
+thanks to the software innovations
+introduced
+
+New medium to explore open
+knowledge
+
+OVR will be will be a seamless and fast
+way to access to Wikipedia and open
+strest map knowledge. Informations
+will be delivered both by
+superimposing contend that through AI
+powered virtual assistant
+
+9
+
+Digital assets investor - The one who collects OVRLands
+
+NEEDS
+
+SOLUTIONS
+
+Create passive income from digital
+assets
+
+Collect fees from publishers who want
+to use your OVRLand for distributing
+their contents
+
+Enhance the value of digital asset
+
+The selection of the experience present
+on the OVRLand and the promotion
+aimed at bringing more visitors
+increases the potential resale value
+
+Digital Media Agencies
+NEEDS
+
+SOLUTIONS
+
+New communication channels
+
+OVR provides a new way of conveying
+brand contents thanks to world scale
+experience of augmented reality
+
+Technological opportunities to catch
+the customer’s attention
+
+Augmented reality is a fast-growing
+trend that is increasingly requested in
+brand’s communication methods. OVR
+responds to this trend with the state of
+the art of augmented reality
+experiences
+
+Geolocalized customers experiences
+
+OVR is based on geolocation of
+contents and on their tracking inside
+the augmented reality experience
+
+New investment opportunities
+
+When acquiring strategic OVRLand the
+agency can associate sponsored
+experiences in strategic locations of
+interest to the brands
+
+10
+
+For the advertiser - A brand who wants to promote its product/service
+OVR provides the advertiser with the opportunity to enjoy an innovative and noncongested new communication channel.
+
+NEEDS
+
+SOLUTIONS
+
+Innovative communication channel
+
+Advertising in OVR merges with the 3D
+experience, thus enhancing the
+sponsored message.
+
+A not congested communication
+channel
+
+The OVR platform, born at a time when
+there is no standard for augmented
+reality, creates a new and not over
+crowded communication channel
+
+An advertising system with a
+transparent pricing
+
+The decentralization of the marketplace
+on the blockchain allows to manage
+supply and demands with utmost
+transparency and traceability
+
+3D digital artists - The builders of the OVR experience
+NEEDS
+
+SOLUTIONS
+
+Global platform to sell augmented
+reality experiences
+
+World scale distribution channel for AR
+and VR content
+
+Possibility to receive requests for new
+projects in a quick and practical way
+
+OVR Marketplace where to find
+OVROwners development requests
+
+Monetize from your augmented reality
+experiences
+
+By becoming an OVROwner the 3D
+digital artists will be able to insert
+advertisers’ content and monetize with
+their experiences
+
+11
+
+OFFLINE SHOPS and Chain stores in general
+NEEDS
+
+SOLUTIONS
+
+Provide trade proposal even at a closed
+shop
+
+Experiences on an OVRLand in front of
+stores can stimulate users even in a
+closed shop
+
+Provide interactive gamification
+situations
+
+Gaming experiences or general
+engagement on OVRLand in front of
+shops become a pretext for generating
+store traffic
+
+Increase the number of customers with
+new initiatives
+
+The user is invited to access the store
+through augmented reality experiences
+located in strategic areas or near the
+store itself
+
+Virtual assistant interactions
+
+OVR platform will provide a plug and
+play virtual assistant powered by state
+of the art NLP AI algorithms
+
+12
+
+3.0 OVR Key Features
+OVR uses augmented reality, a technology capable of adding different types of
+content to the surrounding environment (video, audio, 2D and 3D), creating the
+illusion that reality and virtuality live together in the same space.
+All this in real time and from any device with a camera, such as smartphones and
+smart glasses. This innovation makes it possible to “trace” the elements present in
+the real world and add other virtual ones. The union between real and digital
+generates a unique merged experience.
+
+The Augmented Reality, in this
+sense, generates a new dimension,
+a completely new media space and
+a rapidly growing market.
+The OVR platform is made up of:
+• OVR Ecosystem
+• OVRLands
+• Marketplace
+• OVRLands: Buy, Sell, Rent
+• OVRExperience: Buy and Sell
+• OVRAdv: Buy and Sell
+
+13
+
+3.1 OVR Ecosystem
+
+OVR Owner
+Who uses OVR token to buy the digital lands (OVRLand) and
+anchor an AR experience.
+
+OVR Creator
+Who creates the 3D digital experiences (OVRExperience).
+
+OVR Miner
+Who activates an OVR Node.
+
+OVR User
+Who has the AR experiences.
+
+OVR Advertiser
+Who uses OVR token to publish sponsored AR elements on
+digital lands (OVRLand).
+
+OVR Staker
+Who uses OVR token to stake and vote for IPFS OVRNodes.
+
+14
+
+3.2 OVRLands
+The OVR ecosystem is underpinned by a grid of hexagons covering the whole
+earth’s surface. The hexagons are called OVRLands, have specific geographic
+positions and
+a standard dimension of 300 Square Meters. The total number of OVRLands is
+1.660.954.464.112. OVRLands can be further divided in 7 hexagons allowing for even
+more precise localizations.
+OVRlands are not only a reference system used to position AR and VR content, they
+are also the fundamental digital asset that will enable our community to generate
+the economic incentives for development and growth. OVRLands will be bought*
+by OVROwners, their property will be granted by a non-fungible token – ERC-721
+standard – recorded on the Ethereum blockchain allowing for decentralized and
+censorship resistant property rights.
+Property of OVRLands will ground the economic incentives to generate, distribute
+and curate high quality AR and VR content.
+OVRLand is a scarce and unique resource, only the private keys of the Ethereum
+address owning the OVRLand NFT can control it. In the case of private keys loss,
+the control on OVRLand would be lost forever. In order to prevent this eventuality,
+we require the owner of the OVRLand to prove the control of the private keys by
+performing any kind of action on the blockchain (could be a simple ping function)
+at least once every 3 years. In the case OVROwner is not capable to provide such
+prove of private key ownership in 3 years the OVRLand will be made available again
+for public sale.
+3.2.1 Why hexagons
+There are only 3 regular polygon tilings that can be used to cover earth’s surface:
+Squares, Triangles and Hexagons. We chose hexagons because of two specific
+properties that well combine with OVR project:
+3.2.2 Neighbor Transversal
+We envision multiple opportunities of interaction between neighbor OVRLands and
+geometry will have huge impact on those relations. Our objective is to multiply
+interaction opportunities while keeping those simple. Hexagons exhibit a very
+simple neighborhood distribution: contact points are only on sides, never on
+angles, moreover all neighbors are positioned at the same distance from the
+center. Those qualities are not shared by triangles and squares and allow for faster
+and easier neighbor map calculations.
+
+15
+
+3.2.3 Distortion
+OVRLands are covering the whole planet and we want the same coherence
+between coordinates and OVRLands in all possible locations. Sounds reasonable
+but is not that easy! Projecting the spherical earth surface on a plane causes map
+distortions, indeed most classic earth map projection techniques such as Mercator
+creates huge distortions while we are moving towards the poles.
+Tiling the earth’s surface with hexagons allows for Dymaxion projection which
+minimizes distortion.
+
+Dymaxion VS Mercator with Tissot's indicatrices of deformation
+
+16
+
+3.2.4 OVRLands Natura Language URI
+Humans have an exceptional ability to process natural language, generally at the
+age of 4 a child can already recognize and remember more than 5.000 words and
+this number grows to a range between 20.000 and 35.000 for an adult. The same
+ability does not extend to numbers, our cognitive functions are not wired to
+recognize and remember not even dozens of number sequences.
+OVRLands are defined by their geographic position, a pair of numbers defining
+latitude and longitude. In order to align with the aforementioned human cognitive
+abilities we developed an algorithm – that will be open source – capable of
+mapping the pair of coordinates of each single OVRLand with a unique triplet of
+english words (e.g. blue. sky.dream).
+Each one of the single 1,66 trillions of OVRLands will be defined by unique an easy
+to remember triplet of english words. To achieve this result we used a word list
+extracted by Google N-Grams containing 20K of the most commonly used english
+words.
+
+3.2.5 Private Utility Layer and Public Utility Layer
+OVRLand property is the fundamental substrate for the whole OVR token
+economics. Total control on OVRLands content is granted to OVROwners as it
+underpins the existence of the economic incentives of our ecosystem. This space is
+defined as the Private Utility Layer.
+OVR aims to became the reference decentralized platform for AR content, with
+such a vision while establishing the Private Utility Layer we also need to enable the
+creation of contents that have a public scope and are not privately owned.
+There are contents that have public utility but cannot be created and maintained
+by private owners of single OVRLands, both for lack of coordination between
+individual owners and lack of sufficient economic incentives. Some examples of
+such contents could be: information on public buildings and services,
+infrastructures, public institutions. For this reason we decided to create the Public
+Utility Layer, it will coexist on the same coordinates of the hexagons of the Private
+Utility Layer but will not be owned by any entity.
+Public Utility layer will also be the kickstarter for the utility of the OVR Platform,
+we will populate it with the whole Wikipedia’s geolocalized knowledge corpus.
+Informations will be presented to the final user both by using AR superimposition
+and by a virtual assistant powered by state of the art NLP technologies* trained on
+Wikipedia knowledge corpus.
+Wikipedia knowledge base, virtual assistant AR Asset and trained Neural Network for
+NLP will be maintained by OVR Nodes**.
+
+*Please refer to chapter OVRAssistant for more details.
+**Please refer to chapter OVRNodes for more details.
+
+17
+
+3.3 Marketplace
+The OVR marketplace is decentralized and managed by smart contracts. The main
+function is to facilitate the intersection between supply and demand for every
+digital asset that can be traded on the OVR platform.
+All transactions are handled in OVR tokens and the smart-contract ensures
+decentralized assets exchange.
+
+3.4 OVRLands: Buy, Sell, Rent
+BUY
+After the closing phase of the ICO using the OVRs (“token”), the OVRLand can be
+purchased on the OVR Marketplace through an ascending price auction with a
+starting price of 100 OVR. If an OVRLand has already been purchased and has been
+put on sale on the marketplace, it will be possible to buy it at the proposed value.
+OVRLand is compliant with the ERC-721 standard, thus the token can also be
+stored and sold peer-to peer on platforms outside the OVR Platform.
+SELL/RENT
+The OVROwners can sell or rent their OVRLands at any time using the marketplace
+features. The OVRLands are sold or rent with the existing OVRExperience.
+
+18
+
+3.5 OVRExperience: Buy and Sell
+Community users can develop AR experiences with SDK OVR based on Unity3D and
+can then decide to sell it on the marketplace.
+The asset storage takes place on IPFS OVRNodes.
+The amount desired is passed on from OVR Owner to Content creator upon
+association OVRLand->OVRExperience. The smart contract guarantees the
+correctness of the transaction.
+
+3.6 OVRAdv: Buy and Sell
+The functions offered by the SDK contain the objects required to manage
+promotional items such as 3D virtual banners or, generally, plans with dynamically
+assignable textures to give the advertisers the possibility to insert their
+promotional elements.
+The marketplace manages the buying and selling of these spaces on a time basis
+or on performance.
+
+19
+
+4.0 OVR Tech
+4.1 Augmented Reality Technologies
+Augmented Reality is a technology capable of superimposing various types of
+contents (video, audio, 2D, 3D) in the surrounding environment. All this happens in
+real time and from any device equipped with a camera. This innovation actually
+makes it possible to “track” the elements present in the real scene and virtually
+add others. The spectacular combination of real and digital generates a unique
+experience.
+
+4.2 Persistent AR Experience and Shared Experience
+For persistent AR, we mean the possibility for a user to relive the same augmented
+reality experience in time and in the surrounding world. This is possible thanks to a
+first environmental scan saving.
+The ability to reload the environment mapping allows to obtain a shared
+experience where users see the virtual elements positioned in the same way in the
+space.
+
+4.3 OVR Geo Positioning and Tracking
+4.3.1 GPS Issues
+The OVR app aims at making the users live various AR experiences depending on
+where they are. For this reason the app uses the GPS device data to track the
+user’s geographical position.
+The data obtained from the GPS report the geographical coordinates and the
+relative accuracy level. The value of this last data does not allow a precise
+positioning of the AR contents. Moreover, in addition to the metric accuracy error,
+there is a percentage uncertainty not guaranteed in the location; this causes a
+potential reception of anomalous data, which also deviates a few tens of meters
+from the actual position. An augmented reality experience that relies only on GPS
+for anchoring content is approximate, uncertain, and not sufficiently stable.
+
+4.3.2 New Positioning Technique – The Fourth Dimension
+The first development phase focused on the matching between localization and
+coordinates of the hexagonal OVRLand, and then moved on to work out a method
+for positioning contents in an augmented reality beyond the GPS limits.
+The logical concept is to merge two positioning technologies: SLAM, with high local
+accuracy, and GPS, which works at a global level, so as to identify similar data and
+cancel anomalous data.
+SLAM is a technology that, thanks to the use of a camera, recognizes key elements
+of the framed environment and to create a three-dimensional point map. This map
+allows you to calculate the camera position very precisely compared to other
+physical objects around it. The conceptual innovation that led us to an optimal
+20
+
+result was to understand that, SLAM technology makes it possible to add a
+variable to the GPS information that was not usable so far: time.
+In fact, the system detects GPS data recorded at a specific point in time and
+compares them with those surveyed at the later moment. This is made possible by
+checking any modification of local positioning data returned by the SLAM
+technology.
+
+21
+
+Example
+We assume that the user is using his device in a given geographical position.
+Following the activation of the GPS and the framing of the surrounding
+environment by means of the camera, two data blocks are identified: the position
+in geographical coordinates, and the position of the camera relative to the framed
+environment.
+We assume latitude α, longitude β and a position related to the surrounding
+environment equal to coordinates in meters x = 0 and y = 0 (point of origin). The
+GPS reports a hypothetical accuracy datum of 5 meters.
+
+If the user moves two meters to the right, given the accuracy of the SLAM
+technology, the coordinates of the position become x = 2 and y = 0.
+The expectation is that the GPS also registers the same position but, given its
+inaccuracy, notifies a shift of one meter in the opposite direction with an accuracy
+of 4 meters.
+
+22
+
+The purple area represents the expected GPS data, the blue the recorded ones.
+
+Analyzing them independently we have no possibility of understanding which of the
+two data shows the information of the correct user coordinates, but intersecting
+the uncertainties of the two data we identify a more accurate uncertainty area
+(orange area). The geolocalizing datum is then approximated at the center of the
+intersection zone. The consideration of more than two recorded moments allows
+to constantly improve the determined position provided by the GPS.
+4.3.3 Target and Scanning
+This technology makes it possible to better compensate for the inaccuracy due to
+GPS geolocation technology without additional tools, technologies or
+methodologies that help to correctly position the virtual elements in the world.
+Two possible techniques have been identified. The first involves the use of a
+graphic “Target” recognizable by the system. Given its size, position and exact
+inclination in the world, the “Target” can provide the device with its correct
+geographical coordinates.
+We assume that we are in a historical square where, on a façade of a building, a
+fresco has been painted, or, in front of the door, at a shopping center where a sign
+is affixed.
+Framing one of these images, if previously uploaded to the system, the app is able
+to recognize these images thanks to the use of computer vision algorithms (SIFT /
+SURF).
+These technologies provide the inclination with which we are framing the “Target”
+images and, consequently, the direction in which the user is positioned relative to
+the latter. By also entering the “Target” image size, you can calculate the exact
+distance between the target and the device (user). In this way we obtain the
+relative distance vector (offset). Adding the information previously obtained, that is
+the geographical position of the image and its inclination, to the relative distance
+vector you can easily calculate the exact geographical coordinates of the device.
+
+23
+
+Once these coordinates are obtained, SLAM technology proceeds with anchoring
+the contents, which can be positioned at the desired point with higher precision
+compared to the information given exclusively by GPS.
+The second methodology for the recognition of the user’s coordinates consists of
+the prior scanning of the place of interest by recording the points that the SLAM
+uses to anchor the contents.
+To use this technique, a figure is required (OVRLandscanner) that goes to the
+physical place during the development phase and that, through the OVR app, scans
+the surface where you want to show the experience. The information collected
+(position and scanned points) provide a precise map of the environment in which
+the augmented reality contents will appear.
+4.3.4 Next Development
+New generation GPS, GNSS, is already present on the market and represents a
+possible strengthening of the methods adopted for OVR. SLAM technology is in
+constant development and the implementation of 2D image recognition or 3D
+models would improve the AR experience. Bluetooth Beacons, on the other hand,
+will allow accurate for location recognition even in places where GPS does not
+provide accurate data, such as building interiors.
+
+24
+
+4.4 The OVR SDK and Unity 3D
+OVRContent are developed in the Unity3D* and the OVR SDK permits to implement
+the OVR platform functionalities.
+OVR SDK permits to manage:
+• OVRUser Wallet transactions calls
+• Preview the OVRLands spaces on the editor to manage the correct 3D assets
+positioning and spatial borders
+• Manage AR persistence
+• Manage AR shared experience
+• Interactions with gateways like infura** and oracles
+• Manage resources limits provided by the OVR client app
+• Desktop side OVRContent preview
+• Avatar integration and knowledge management
+
+4.5 OVR Land scanner
+The OVR SDK allows the content creator to define the tracking modalities of the AR
+experience. The most precise mode provides a pre-scan of the OVRLand with the
+help of the mobile OVR app. The OVRLand scanner is a community user paid by the
+OVRLandOwner to scan with the assigned OVRLand. This service is purchased
+through a marketplace where the OVROwner defines the willingness and the price
+reserved for the interested OVRLand scanner.
+
+4.6 IPFS and OVRNode
+OVR assets are hosted by the OVRNodes powered by a P2P IPFS*** protocol
+ensuring storage decentralization. In the first phase there will be 10 master-nodes
+dislocated in different geographical areas. At lunch of the platform nodes will be
+subsidized by OVR. Subsequently an update of the OVRNode software will
+introduce the automatic remuneration of the nodes based on the storage and the
+band-with shared by private users. The OVRLand Owner will pay an hosting fee for
+hosting the content on IPFS, such a fee will be distributed on the nodes
+proportionally to the resources deployed.
+
+* h!ps://unity3d.com/
+** h!ps://infura.io/
+*** h!ps://en.wikipedia.org/wiki/InterPlanetary_File_System
+
+25
+
+4.7 Sidechain
+We selected Ethereum to deploy our decentralized platform because Ethereum
+already won the race to become the foundation of Web 3.0. Ethereum remains the
+most robust smart contract platform in existence. Of the top 100 tokens by market
+cap, 96% are built off Ethereum. Of the top 1000 tokens, 89% are built off
+Ethereum*.
+Ethernode reports over 9,000 active nodes and looking about the community of
+developers, Truffle, a development environment ad testing framework, is
+downloaded with an average of 100,000 a month with a 1M of lifetime downloads
+since its release in May 2015. However today, Ethereum is limited in terms of
+throughput (approx. 25tx/s) and gas costs are prohibitive for a high volume of
+transactions. Due to this scalability and costs limits we decided to integrate in
+OVR project a sidechain technology bridged to the Ethereum mainnet. NFTs
+representing OVRLands will be directly minted and exchanged on XDai eliminating
+gas costs. It will always be possible to transfer minted NFTs to the Ethereum
+mainchain and trade those on marketplaces such as OpenSea. The security is
+guaranteed by the Ethereum thanks to bridging smart contracts that permits to
+securely exchange tokens from the mainnet to the sidechain and vice versa.
+
+* h!ps://coinmarketcap.com/
+
+26
+
+Thanks to the XDai sidechain the mobile experience is enhanced removing the
+friction subject to blockchain and fee mechanics understanding. OVR users will
+have a user experience similar to the web 2.0 improving in this way the mass
+adoption.
+** Please refer to chapter Token Economics for more details.
+
+27
+
+28
+
+4.8 OVRAssistant, the Plug and Play AI avatar
+4.8.1 What is the OVRAssistant
+The OVRAssistant is a 3D realistic human avatar who use artificial intelligence,
+speech recognition and speech synthesis to give geospatial contextual
+informations with a neural network trained on Wikipedia corpus and a
+programmable knowledge managed by the OVRLand owner.
+
+The way the OVRUser can interact with the Avatar is by voice. Some examples of
+the OVRAssistant interactions are: answering questions, guide the user to POI
+(Point of interests) near him, move himself on the OVRLand, change his position
+based on the OVRUser activity, invite the OVRUser to follow him, change face
+expressions, point in a direction, navigate a user inside a shop.
+
+The OVRAssistant appears superimposed on the current view of the real world like
+the augmented reality experiences and can coexist with the OVRContents
+anchored to the OVRLand.
+
+29
+
+4.8.2 OVR Virtual Assistant Natural Language Processing (NLP) technologies
+The virtual assistant will be powered by text to speech and speech to text
+algorithms, interactions will be by spoken natural language, no typing will be
+required. Virtual Assistant’s intelligence will be powered by an ensemble of
+different NLP technologies that can be used both independently or jointly:
+• Tree search model: this is the simplest and most common NLP technique used to
+power a virtual assistant, questions and answers are structured inside a nested
+tree structure and the Virtual assistant exploits such an hardcoded knowledge to
+interact with the user.
+
+Sample of tree search model.
+
+• Local pa!ern recognition Question Answering System: OVR uses state of the art
+NLP algorithms built on BERT*, a deep neural network developed by Google AI.
+BERT is the first deeply bidirectional, unsupervised language representation, pretrained using only a plain text corpus on the whole English Wikipedia corpus. Pretrained representations can either be context-free or contextual, and contextual
+representations can further be unidirectional or bidirectional. Context-free
+30
+
+models such as word2vec or GloVe generate a single word embedding
+representation for each word in the vocabulary. For example, the word “bank”
+would have the same context-free representation in “bank account” and “bank of
+the river.” Contextual models - like the one used by OVR - instead generate a
+representation of each word that is based on the other words in the sentence.
+Such an architecture reaches super-human performances on open Q&A tasks. An
+example of BERT’s performance on the open Q&A benchmark dataset for NLP
+developed by Stanford University:
+
+OVR AI Virtual Assistant will be Plug & Play, Virtual Assistant’s interactions can be
+fully customized by simply uploading a text file containing the knowledge that
+need to be delivered in the specific circumstance. Both the Text to Speech and the
+NLP technologies are already functional on the MVP app. The features will be under
+continuous development in order to improve ease of configuration by the owner
+and vastness of possible interactions between the Virtual Assistant and the final
+user.
+
+*h!ps://arxiv.org/abs/1810.04805
+
+31
+
+5 Token Economy
+The OVR token is a utility token based on the ERC-20 standard, and acts as an
+exchange medium in the whole OVR ecosystem.
+The token makes it possible to fully leverage the Ethereum Blockchain and easily
+integrate with the existing infrastructure (i.e. wallets & exchanges).
+
+32
+
+5.1 Two kind of tokens, one ecosystem
+OVR Token Economics it’s based on the utilization of 2 different kind of tokens,
+OVRToken and OVRLand. OVRToken is a fungible token (ERC-20) that will be
+distributed during the IBCO and will be the only mean of exchange of value inside
+the platform. The OVR Token is used to interact with the platform in the following
+ways:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Governance;
+Buy OVRLand;
+Stake for nodes and liquidity mining;
+Buy products on OVR marketplace to create your own OVR
+experience;
+Pay an OVRCreator to build an OVRExperience for you;
+Get paid in OVR by users that want to interact with the
+experience;
+User may pay to make the experience start;
+User may pay to buy products from OVRExperiences;
+Get paid by advertisers;
+Virtual space rent;
+Pay per view/interaction;
+Pay for virtual goods;
+Use all services present on the OVR platform and
+marketplace.
+
+OVRLand it’s a non-fungible token (ERC-721) which will represent the ownership of
+Virtual Lands. The first opportunity to use OVRTokens will be the OVRLands
+acquisition*.
+
+5.2 Token Economics
+All of the economic activity inside OVR will be based on OVRToken exchange, funds
+for the kickstart of the platform and its community will be mainly based on the
+IBCO and the equity sale. The other form of financing for the first development of
+the community will be the OVRTokens collected from the OVRLand distribution,
+such funds will be fully used for Users and OVROwner acquisition*.
+Long term financial sustainability of the platform will be granted by three different
+and uncorrelated token streams:
+
+• Exchange Fees:
+OVRLand exchange fees: every time a OVRLand NFT is exchanged a 5% fee is
+applied to the transaction value. OVR Content exchange fees: a transaction fee of
+5% will be applied on all OVR Asset exchange.
+OVR Publisher exchange fees: a transaction fee of 5% will be applied to all
+revenues generated by leasing out OVRLand to publishers and advertisers.
+33
+
+• In-app purchases:
+Users will be able to buy skins and special virtual clothes for their avatars,
+access to private Virtual rooms, tickets for virtual events or credits to participate
+to AR/VR games.
+• IPFS Private Utility Asset Hosting fees:
+AR and VR assets will be stored on IPFS, nodes hosting the assets will be
+remunerated by OVRLand Owners with OVR Tokens. Placing Private Utility Assets
+on OVRLAnds will have a cost of 1$ per month payed in OVR tokens - per month
+with a cap of 100 Mb for each Land, half of the collected tokens will be used to
+remunerate the IFPS service providers, the other half will be used for:
+remunerate the network maintainers, develop the platform software and to
+constantly expand the user-base.
+*Please refer to chapter OVRLands Token First Acquisition Mechanic for more details.
+
+6 OVR Nodes and staking
+6.1 OVR Nodes
+OVR is based on two main protocols, Ethereum and IPFS. While Ethereum is the
+base layer granting the ownership of OVRLand and the circulation of the hard
+capped OVRToken, IPFS will allow for decentralized storage of the OVR
+Experiences.
+In order to grant AR assets availability, bandwidth and low latency to the final
+user, OVR designed an incentive system for the OVR Nodes – IPFS maintainers –
+and its stakers. Staking will grant a vested interest of the nodes and of the voters
+on the performance of the network.
+In order to operate an OVR IPFS Node the minimum direct staking requirements it
+is 500.000 OVR. OVRToken owners that do not directly operate an OVR IPFS Node
+will be able to vote for their preferred node by staking their tokens to the chosen
+Node
+Nodes will be scored by two metrics with 50% weight each:
+• The number of tokens directly and indirectly staked to the node
+• The resources deployed by the node in terms bandwidth and latency
+During the first 3 years since the launch of the platform OVR will grant rewards to
+the Nodes and to the stakers by using a fund that has been reserved from the Hard
+Cap total emission*, no inflation will be created in order to subsidize the Nodes
+and Voters staking.
+Subsidy from OVR will be gradually replaced by hosting fees distributed to the
+nodes and to the voters/stakers while the platform is growing.
+
+34
+
+Rewards granted to OVRNodes for the first 3 years will be 6% APR of their staking
+plus a bonus depending on their ranking position.
+Rewards granted to OVR Voters/Stakers for the first 3 years will be a 5,5% APR.
+
+6.2 Lock-Up and additional developments
+In order to maximize nodes and stakers on-boarding, no lockup will be required
+during the first year. Later a voting pool system inspired to Dan Larimer’s voters
+purposal** will be adopted in order to avoid the risk of exchanges and in general
+actors with no direct interest in the long term decentralized growth of the
+platform to overtake the IPFS Nodes.
+*Please refer to Public Sale chapter for more details on the reserved tokens to subsidize nodes and
+stakers
+** h!ps://medium.com/@bytemaster/blockchain-governance-proposal-470478e42686
+
+6.3 OVR Core Team
+All of the OVR software will be completely opensource and the community will be
+invited to contribute, despite this we’re aware that in order to maintain quality,
+throughput and complete independence from industry sponsors in an open source
+project, the project itself needs its independent founding source. For this reason
+we budgeted a minimum of 500 K per year, covering expenses for 10 FTE
+developers that will be financed by the above mentioned continuous funding
+streams.
+
+6.4 OVR IBCO
+Traditional ICOs reached their peak of adoption in late 2017 and during the bear
+market lost most of their value creating huge damage to token holders and
+cryptocurrency ecosystem in general. The new paradigm combined with the
+liquidity provided by immediate access to secondary markets during the bull run
+created the perfect storm of hyper-valued tokens ready to explode. The bigger
+problem with ICOs is that the Utility Tokens that has been sold, in 99% of the
+projects, had no real utility, at least not in the near future… those were only used
+as a means for raising funds. Since there was no way to use them they became a
+purely speculative asset blindly replicating Bitcoin and Ethereum market swings
+with a very high Beta. The only tokens that were able to maintain their value were
+the ones that actually had a utility, real use cases to be spent, BAT and BNB are
+examples of such tokens. Despite last two years price dynamics, we strongly
+believe that utility tokens are a true revolution creating a new form of financing for
+crypto projects, an hybrid between equity and sales that opens up a world of new
+opportunities both in finance and governance.
+Another strong limitation of ICOs was implied market cap and lack of liquidity on
+exchanges: what usually happened was that the project aggressively marketed
+their token at a fixed price than later on quoted the token onto a centralized
+35
+
+market providing a small percentage of what was raised as liquidity and using
+market makers to create fake liquidity. This process made the token very sensitive
+to even the smallest sale pressure and created the classic price dump chart that
+could be observed on 99% of ICOs.
+In order to avoid this situation OVR will raise funds with a new fundraising
+primitive: Initial Bonding Curve Offering (IBCO). There will be no pre-determined
+price for the OVR token, token price will be determined by it’s demand following a
+Bonding Curve, if there is no demand the price will stay low, if there’s demand the
+price will grow and tokens will be minted, in this way price discovery is
+immediately entrusted to the market. But that’s not all, tokens will be distributed
+through the Bancor Protocol* the majority of the funds raised will stay on the
+curve ensuring liquidity for sellers and collateral (funds raised) withdrawal will be
+regulated by a smart contract from Aragon’s DAO framework. Investors will
+continuously be able to both buy and sell from the bonding curve avoiding the
+illiquidity problem that traditionally afflicted ICOs and centralized exchanges for
+long tail assets.
+Beside this, in order to sustain the price of the OVRToken other three strategies described in the following chapters - will be used: double purchasing power of the
+token over other means of payment for OVRLand auction; cashback policy on the
+first 9 months since the start of the auction; rewards for staking to the IPFS Nodes
+and liquidity mining.
+*h!ps://support.bancor.network/hc/en-us/sections/360002084771-Whitepaper-
+
+6.4.1 OVRLand emission
+OVRLand emission will run until the last one of the 1.6 trillion hexagons (OVRLands)
+covering the planet will be minted.
+The assignment of OVRLand is based on a bidding war where every bid extends the
+period of closing of 24h. The first minimum value is fixed at 10$ with a 100%
+increment on the last bid value for every following bid. This method will allow for
+fast and reliable price discovery.
+Considered the centrality of OVRLand in OVR ecosystem we engineered OVRLand
+acquisition in order to minimize friction and to incentivize OVRLand acquisition by
+OVRToken holders.
+To minimize friction it will be possible to buy the OVRLand with a wide range of
+means of exchange including Fiat (USD, EUR, RMB with an in app purchase), ETH,
+DAI, USDC and OVRTokens.
+Buyers using OVRTokens instead of other means of payment will be incentivized by
+two distinct policies:
+Double purchasing power over Fiat, ETH, DAI, USDC; the smart contract minting
+the NFT representing OVRLands will always assign double purchasing power
+36
+
+OVRTokens over all the other means of payment, so for example in order to equal a
+10$ OVR bid the ETH payer will need to use 20$ worth of ETH. For the first 9
+months, the smart contract minting OVRLand NFTs will consider the value of the
+OVRToken with a floor of 0.1 USD such a price will only be applied if the market
+price for OVR is less of 0.1 USD. This will also protect the value of the token in his
+infancy since in case the OVR Token get devaluated on the market, - assuming
+demand for OVRLands - the fixed and double purchasing power of the token over
+the other means of payment will create an arbitrage pressure that will drive the
+value of the token up again.
+Cashback Policy: During the first 9 months from the start date of the public sale,
+OVRLand acquisition will be incentivized by a decreasing cash back policy. For
+every OVRLand purchase, after a 30 days lockup period, OVRTokens will be
+returned to the buying address with a decreasing ratio. Cash back does not include
+Gas Fees paid in OVR. Cash back will be applied to the first N lands sold in that
+month, please refer to the top banner on the land auction page.
+
+37
+
+Cash Back Coefficients:
+Month 1: 95%
+Month 2: 85%
+Month 3: 75%
+
+Month 4: 65%
+Month 5: 55%
+Month 6: 45%
+
+Month 7: 35%
+Month 8: 25%
+Month 9: 15%
+
+Cashback policy will create a very strong incentive to utilize the OVRToken for the
+OVRLand acquisition subtracting liquidity from the market and avoiding the risk of
+price dumps.
+The 9 months window of the cash back policy will also allow for the token
+economics ecosystem to develop thus further supporting the OVRToken value with
+its increased utility.
+
+38
+
+OVRTokens not redistributed to OVRLand acquirers will be invested in customer
+acquisition campaigns. Such a redistribution policy will guarantee a gradual shift
+from sustaining OVRLand purchase to sustaining OVR ecosystem and user
+adoption.
+
+6.4.2 OVRLands Token A"er First Acquisition
+A user can buy an OVRLand owned by another user through the decentralized
+marketplace following the dynamic of demand and supply. In this case there will
+be only a fee (5%) applied on the transaction and not redistribution activities.
+6.4.3 OVR Token Rewards
+The OVR Token will also be the way to stimulate the growth of the OVR platform,
+rewarding users based on their interaction and value added to the platform. Token
+rewards will also decrease over time as the OVR platform grows.
+The OVR Token will also be used in bounty programs and campaigns aimed to
+acquire new users and stimulate their engagement with the platform:
+• Bounty (App download): OVR Token given as a reward to users for
+downloading the OVR app at launch;
+• Bounty (OVR engagement): OVR Token given as a reward to users who [create
+experiences] and [interact with experiences].
+
+39
+
+7 Platform Launch
+7.1 Roadmap
+
+40
+
+41
+
+42
+
+7.2 Marketing plan
+Goals:
+• Position OVR website as industry leader for augmented reality platform aimed
+at highlighting opportunities related to at OVRToken.
+• Favor a long-term conversion strategy linked to the use of the app and the
+time spent by the user on the same.
+
+7.2.1 Definition of Target audience
+The general target audience are man and woman of different age groups. They
+include:
+Financial investor: a type of user who seizes investment opportunities in the
+purchase of OVRlands and identifies a financial return on them. Has a high
+educational qualification aged 25 and over and their interests are related to
+investments and the finance of digital markets.
+End User: the most heterogeneous target including types of users of different age
+groups, educational qualifications, geographical origin and interests. The
+interests to be considered as for segmentation are augmented reality and games
+via app. In this target you can find users interested in the purchasing of OVRlands.
+Companies: a specific target with a good chance to buy OVRlands, specifically
+linked to their physical locations, and which see the app as one digital marketing
+possibility.
+Digital Marketer: specific target with medium-high degree, mainly aged from 25
+years over, with interests in the field of digital marketing and advertising. To be
+taken into consideration as he/she will be able to advice customers to invest in the
+target company.
+Developers: a specific target that falls into subjects with, probably, a medium-high
+level of education, with a high percentage from 25 years on, with interest in the
+field of apps, software, gaming and development. To be considered as a possible
+content provider for the app.
+7.2.2 Digital Marketing Strategy Channels - (RACE -Reach, Act, Convert, Engage)
+Use the following digital platforms to attain the reference targets previously
+mentioned.
+
+PHASE 1 / REACH
+Content Publication and promotion with the aim of attracting users to OVR. The
+communication means will be as follows:
+
+43
+
+Google ADS
+1. Strategic analysis of the main search keywords related to apps and augmented
+reality world to assess CPC and setup multilingual ads (Initially English and
+Spanish);
+2. Creation of campaigns on search network and display network aimed at the
+four target groups;
+3. Create ads with A/B tests to evaluate performance.
+Measurable value: Site visits.
+Facebook & Instagram ADS
+Setting up multilingual campaigns aimed at:
+1. Traffic: bring people to the site or digital stores
+2. Engagement: to entice users to interact with content
+3. Brand positioning: to make the brand more and more recognizable.
+Measurable values: Site visits, app downloads, user interactions with contents.
+Listings on specific platforms for advertising on the app and possibility of
+monetization such as:
+A. AdMob: setting up promotional campaigns for the app using channels like
+Search for Google, Google Play, Youtube, Gmail and the Google Display Network
+complementary to Google ADS;
+B. InMobi: campaigns focused on use habits of apps downloaded from users;
+C. ChartBoost: campaigns focused on target players.
+Measurable values: Download of the app.
+
+PHASE 2 / ACT
+Publication and promotion of content with the aim of informing users that have
+already shown interest in OVR.
+Means used will be as follows:
+Google ADS
+1. Strategic analysis of collected data and navigation flows;
+2. Creation of remarketing campaigns on search network and display network
+addressed to the four target groups;
+3. Create ads with A/B tests to assess performance.
+Measurable value: Visits to specific site sections, contact acquisition.
+Facebook & Instagram ADS
+Setting up multilingual campaigns aimed at:
+1. Traffic: on digital stores;
+44
+
+2. Engagement: to entice users to interact with targeted content;
+3. Lead: acquire data on users.
+Measurable values: app download, user interactions with content; contact
+acquisition.
+Advertisement on specific platforms for advertising on apps and possibility of
+monetization as:
+A. AdMob: arranging promotional app campaigns using channels like Google
+Search, Google Play, Youtube, Gmail and the Google Display Network
+complementary to Google ADS;
+B. InMobi: campaigns focused on use habits of the apps downloaded by users;
+C. ChartBoost: campaigns focused on the target players.
+
+PHASE 3 / CONVERT
+Publication and promotion of content with the aim of piloting the collected users
+from the ACT phase to a conversion.
+The means used will be:
+Facebook & Instagram ADS
+Setting up multilingual campaigns aimed at:
+1. Traffic: on digital stores;
+2. Engagement: targeted content following the download of the app linked to
+marketplace;
+3. Use of the App Events and specific campaigns based on the events completed
+by users.*
+Measurable values: app download, interactions of users with the app.
+A. AdMob: arranging promotional app campaigns using channels like
+B. Search for Google, Google Play, Youtube, Gmail and the Google Display Network
+complementary to Google ADS;
+C. InMobi: campaigns focused on the use habits of the apps downloaded from
+users;
+D. ChartBoost: campaigns focused on target players.
+E. Fyber: cost-by-engagement campaigns in order to reward users
+F. Unity ADS: revenue campaigns through video insertion. This strategy can be
+connected to a “rewards” system related to the OVR world and therefore to
+encourage the user to view the advert.
+*h!ps://developers.facebook.com/docs/app-ads
+
+PHASE 4 / ENGAGE
+Publication and promotion of useful contents for people who are already app users
+such as:
+45
+
+• selfie related to the use of the app and sharing (eg PS Share of Playstation);
+• recording of experience through screen recording and sharing (eg PS Share
+Playstation).
+
+The means used will be:
+Facebook
+Setting up multilingual campaigns with the goal:
+A. Engagement: targeted content following the download of the app linked to
+marketplace;
+B. Use of the App Events and specific campaigns based on the events completed
+by users.*
+Measurable values: user interactions with the app.
+Advertisement on specific platforms for app advertising and possibility of
+monetization as:
+A. Fyber: cost-per-engagement campaigns in order to reward users;
+B. Unity ADS: revenue campaigns through video insertion. This strategy can be
+connected to a “rewards” system linked to the OVR world and therefore
+stimulate the user to view the advertisement.
+Direct Email Marketing Support
+Sending users targeted emails with weekly promotions:
+• land of the week;
+• experience of the week;
+• discounts coupons at some brands if the experience is lived.
+
+*h!ps://developers.facebook.com/docs/app-ads
+
+7.2.3 Branding and offline marketing strategy
+Local events
+Organization of local events targeted in major cities such as Milan, Tokyo, New York,
+Berlin, London, Sydney, Los Angeles and Paris aimed at specific segments of
+identified public. (Roadshow).
+Exhibitions
+Attendance at the most important technology-related conventions with public
+events speaking and demonstrations on the stand, setting up purchase and virtual
+simulations experience.
+46
+
+Media Offline
+Press releases to traditional media related to brand and innovation technology. Adhoc press releases related to blockchain and ICO will be targeted at specific
+media.
+Guerrilla Marketing
+Creation of flash mobs in major cities such as Milan, Tokyo, New York, Berlin,
+London, Sydney, Los Angeles and Paris where they will live experiences by groups
+of users thus creating an attention towards passers-by who will use their
+Smartphone to highlight the event on their profiles social transforming it into
+something viral.
+Organization of thematic flash mobs within the brand franchises that have become
+early app adopters and advertisers (eg from Burger King, McDonald’s, Apple Store
+etc) inviting people to download and use the app to live experiences related to the
+brand and that will give access to information, discounts or exclusive services.
+Influencers
+Involvement of youtubers from different countries belonging to the gaming world
+who will become app promoters and will highlight the possibilities of play and
+purchase in the marketplace.
+Involvement of sports champions or high-level sports teams like testimonials that
+promote experiences and services related to the use of the app in sports facilities
+during events.
+
+47
+
+7.3 Competitor Analysis
+
+OVR
+
+Arround
+
+Fully decentralized
+
+Blockchain Scalability
+Sidechain integration
+with DPOS consensus
+Full lands availability
+Uniform lands
+management
+Strategic partnerships
+Avatar with artificial
+intelligence QA
+Deep learning for
+tracking and scene
+understanding
+Circular economy with
+demand/offer tasks
+Cashback system for
+land activity scaleup
+Intelligent realtime
+marketing budget geo
+distribution
+Business model with
+auto incremental user
+acquisition budget
+allocation
+AR glasses client ready
+
+48
+
+Arcona
+
+Infiniverse
+
+8 Initial Bonding Curve Offer
+8.1 Terms and Conditions
+OVRGLOBAL OÜ is a company based in Tallinn managing the issuing of OVR utility
+token. The token will act as medium to interact with OVR, as well as to be used on
+services and products available on the OVR platform.
+Token Emission
+OVR Token is based on ERC-20 standard, the emission of tokens is governed by a
+DAO under Aragon framework. OVR token will be created in two main phases: the
+Initial Token Distribution event and Initial Bonding Curve Offering event.
+During the initial token distribution event tokens will be created for the following
+categories: equity sale investors, private sale investors, team members, advisors,
+community rewards, bounty program. All the rest of the tokens will be created and
+distributed with an Initial Bonding Curve Offer (IBCO). 15 days after the launch of
+the IBCO an OVR/DAI market will be created also on Uniswap.
+The IBCO is scheduled by November 2020 and has the following rules:
+• Is open to partecipants from permitted jurisdictions who perform KYC.
+• There is no minimum contribution to participate in the Initial Bonding Curve
+Offering.
+• Tokens purchased from the IBCO has no cliff or vesting period, those can be
+immediately claimed, transferred or sold back to the Curve.
+• When tokens are bought from the Curve new OVR tokens are created and price
+of the token increases, when tokens are sold back to the Curve OVR tokens are
+destroyed and price of the token decreases. Bonding curve is based on Bancor*
+continuous liquidity protocol.
+
+*h!ps://support.bancor.network/hc/en-us/sections/360002084771-Whitepaper-
+
+49
+
+• There is no theoretical hardcap for the number of tokens that can be minted by
+the Bonding Curve. Indeed there’s a practical limit given by the market infact a
+linear growth in token emission corresponds to an exponential growth in token
+cost.
+
+• Liquidity for sellers on the Bonding Curve is granted by the DAO smart
+contracts that limits the ability of OVR Holding to withdraw the DAI collateral.
+Maximum DAI collateral withdraw per month is set to 50k DAI with a floor
+liquidity of 250k. Changes to such a policy can only by applied by token holders
+vote.*
+*More on this mechanics on h!ps://fundraising.aragon.black/.
+
+50
+
+The initial token distribution will have the following structure and smart contract
+enforced vesting:
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Tokens reserved to equity investors: 4.250.000 OVR reserved to equity
+investors cliff period IBCO launch + 15 days; vesting period linear release of 48
+months.
+Vesting Smart Contract: 0xE07f85362fe0d14d4F2b272b98d67B50A3148072
+Private Sale investors: 3.168.000 OVR Tokens to early investors of permitted
+jurisdictions who performed KYC. Cliff period IBCO launch + 15 days; with
+variable vesting period from no lock-up to 12 months. Before the Cliff date,
+OVR will release the smart contract for the private sale investors to convert
+the genesis token to OVR token.
+Team Fund: 26.500.000 OVR tokens reserved to incentivize the OVR team
+members and contribute full time to the project with a long term mindset.
+Cliff period IBCO + 15 days; vesting period linear release of 48 months.
+Vesting Smart Contract: 0xCEE8fcBC9676A08B0a048180d99b41a7F080bB78
+Advisors: 5.950.000 OVR tokens reserved to Advisors to support the project.
+Cliff period IBCO + 15 days; vesting period linear release of 24 months. Vesting
+Smart Contract: 0xC1D9261cBc6DeD410dC81929EBB0871471E7e9D3
+Bounty program: 1.500.000 OVR tokens reserved to the community members
+who participated to the treasure hunt and other token incentivized campaigns.
+Cliff period IBCO + 15 days; vesting period linear release of 3 months.
+Community rewards: 20.000.000 OVR Tokens reserved for rewards to
+community members participating to the ecosystem, such activities include
+IPFS nodes operating and staking, liquidity mining, voting. Cliff period IBCO +
+15 days; vesting period linear release of 72 months.
+Vesting Smart Contract: 0x0965cBf02906b8c854037A16D4f39456444cE600
+Foundation: 20.000.000 OVR Tokens reserved for supporting the ecosystem,
+the release of those tokens will be controlled by token holder voting, yet
+whether the community voting result, funds will not be available faster than
+the following hardcoded release schedule: Cliff period IBCO + 15 days; vesting
+period linear release of 72 months. Also the mentioned fund may be burned in
+case the token holder community decides so.
+Vesting Smart Contract: 0xe3729fA98e1bC66750F986E95b37044B06D26D73
+Contingency liquidity bootstrapping: 320.000 OVR funds are reserved for
+liquidity bootstrapping with partner exchanges. The reserve will be used only
+in case of network congestion or excessive price volatility on the initial
+moments of the IBCO launch will not allow for liquidity supplying. Unused
+tokens will be burned.
+
+51
+
+Why so many pre-minted tokens? Why not just going out with a minimum amount
+of tokens and then mint those later with the consent of the token holders?
+For the following reasons:
+A. We believe that declaring a total amount of circulating tokens in advance is
+much more fair than minting those later on. This first solution allows for fully
+informed price discovery since investors have a clear idea of both circulating
+market cap and maximum* fully diluted market cap.
+B. There can be coordination problems in proposing to token holders to allow for
+minting new tokens since while those can be used with a positive impact for
+the project, dilution fear can prevail. Better have a reserve than later on can be
+burned, the coordination problem is minimal in such a scenario, in-fact reserve
+token burn has strait-forward benefits for token holders
+C. In a crypto project governed by DAO pre-minting and assigning tokens to
+specific tasks equals to algorithmically committing to a business plan.
+
+*tokens sold to the bonding curve get destroyed diminishing supply.
+
+52
+
+Token Release schedule
+
+8.2 Uses of Funds
+Funds will be used to ensure the development and launch of the platform, as well
+as to maximize its success and growth chances.
+Development: Dedicated Dev team focused on managing the launch of OVR most
+amazing features. They include all expenses related to product development.
+Marketing: Marketing activities to guarantee a worldwide diffusion and success.
+3-Year Budget allocation:
+Year 1 - 40% Initial boost to create a mass critic user base (early stage)
+Year 2 - 30% Guarantee budget for user acquisition integrated with the OVR
+platform marketing reinvestments: (expansion stage) Year 3 - 30% Guarantee
+budget for user acquisition integrated with the OVR platform marketing
+reinvestments (maturity stage)
+Operating costs: General operating costs.
+Partnerships: Investments finalized in creating partnerships and initiatives.
+Legal costs: IBCO-related legal costs, ensuring continuous legal compliance over
+the growth of the platform.
+
+53
+
+8.2.1 Budget allocation
+
+Legal
+
+8,0%
+
+Marketing
+
+35,0%
+
+Partnership
+
+12,0%
+
+Operating Costs
+
+10,0%
+
+Development
+
+35,0%
+
+54
+
+9.0 Team
+Davide Cu!ini
+CEO
+Davide is a Software Engineer with expertise in augmented reality, deep
+learning and blockchain smart contracts. Davide has a wide experience in
+the development of engine for augmented reality; engine development
+within computer vision on mobile and embedded systems; machine
+learning models for videos, audio and text use. He also has interests in
+System Integration, and Robotics with specific application in the industrial
+field. He works out solutions in the industrial field for companies like
+Bosch and Danieli Automation and he collaborates with IBM to scale up
+industrial AI solutions.
+
+Diego Di Tommaso
+COO
+Graduate in Theoretical Philosophy and MBA in SDA Bocconi with
+specialization in Finance at UCLA. Diego has an extensive expertise in
+innovation management. He has been working in the fashion industry for
+over 10 years with positions of growing responsability up to the CEO.
+Lately collaborating with PwC as Senior Advisor working on strategy, open
+innovation, operation excellence and internationalization. Diego is also a
+startup advisor and one of the founders of Unicorn Trainers, a club
+focused on new technologies and startup support. Since 2014 Diego
+developed a specific interest in blockchain and decentralized consensus
+mechanics, he has been Keynote Speaker and organizer of several
+Blockchain events.
+
+Ma!ia Crespi
+CSO
+Futurist, technology evangelist, entrepreneur. Mattia interacts with
+innovators and innovation centers globally, to bridge research on new
+technologies, future ecosystems and the business environment.
+Technology strategist and innovation expert, Mattia is a Research Affiliate
+of the Institute For The Future, and a Member of the NATO ACT Innovation
+Hub. In 2012 Mattia founds Qbit Technologies, an award- winning Start-up,
+developing Virtual and Augmented Reality solutions for enterprises, after
+over 15 years of experience working on virtual reality and virtual worlds
+projects such as Second Life and High Fidelity and many virtual reality
+implementation projects, for both research and industrial purposes
+
+Carlo Davide
+AR Architect & Developer
+Senior Developer specialized in the development of experiences in
+Augmented Reality and Virtual Reality. Expert of Unity platform. Constantly
+researching about potential developments of new technologies for Mixed
+Reality experiences.
+
+55
+
+Angelica Bordon
+Head of Communication
+Graduated from the Academy of Fine Arts in Venice. It is specialized in the
+application of new technologies in the field of visual communication.
+Expert in UI / UX design and concept design.
+
+Antonio Dal Cin
+Full Stack Developer
+Full Stack Developer and Web Designer with expertise in analysis, design,
+development, management and maintenance of web based systems.
+Autonomous freelancer on many custom CMRs, company portfolio
+websites and e-commerces, part of the developing team in an ambitious
+art investments platform and a national career management system.
+Constantly developing skills acquired through University and work
+experiences, looking to gain further progression within AI and BlockChain.
+
+Lydia Wang
+Marketing Director
+Graduated from London School of Economic and Political Science, Master
+degree in media and communication. Worked as consultant in FMCG
+market research area with Coke Cola and J&J China, focus on quantitative
+analysis of consumer behaviors.
+
+Saul Clemente
+Head of 3D development area
+Associate Consultant for a renown strategic consulting firm, with
+experience in distribution models and organizational transformation for
+large corporations. He has extensive experience in strategic planning and
+project management.
+Engineer with academic background at Politecnico di Milano, Imperial
+College of London and Shanghai Jiaotong University.
+
+Marco Toppano
+UX/UI Designer
+Passionate User Interface Designer blending his IT background with design
+thinking approach. He’s graduated in Science & Multimedia Technologies at
+Università di Udine with a thesis on “Designing a User Interface for
+Microsoft Hololens”. For the past 5 years he has been working with
+brands, startups and digital agencies to help them enhancing their digital
+presence. Marco is currently interested in BlockChain and he is developing
+an art platform based on Ethereum.
+
+56
+
+Alex Faraone
+Community Manager
+Community and Client management, revenue generation, sales,
+relationship building, networking, communication, engagement strategies.
+Expert and Specialist for more than 10 years I have collaborated for
+several Italians and Worldwide startups. Serious, honest, accurate,
+respectful and punctual I am passionate about blockchain and Crypto
+World.
+
+Victor Amaechi
+Social Media Manager
+Digital marketer and content creator with over 4 years of experience in
+the blockchain industry. He has worked with more than 10 reputable
+projects in the past and has once co-founded a startup in the industry.
+
+Federico Palla
+Unity Developer
+Master Graduation degree in Computer Science, I'm a Junior Software
+Engineer competent in Game Design and Programming in Unity 3D, Web
+Technologies as well as Machine Learning solution for Natural Language
+Processing, experienced as University student and developer in OVR.
+
+Ma!ia Di Nunzio
+3D Designer
+3D artist expert in creating assets for Real-time render engines.
+Master degree in Computer Graphics, Autodesk Certificated and full
+knowledge of the main 3d modeling softwares. Constantly researching for
+new technology to enhance his creativity
+
+57
+
+Advisors
+John Henry Clippinger
+Advisor
+Throughout my career I have always been interested in complex self
+organizing systems and new approaches to organizational and institutional
+design to address fundamental civic, economic and ecological issues. I
+have held senior positions in government, large enterprises and founded 4
+software companies. I been engaged with non-profit organizations and
+institutes – Santa Fe Institute, Aspen Institute, World Economic Forum,
+Kauffman Foundation – and I have started new programs at Harvard and
+Harvard Law School, Brandeis Florence Heller School, MIT Media Lab, and,
+co-founded ID3 with Sandy Pentland of MIT Media Lab.
+
+Richard Shibi
+Advisor
+Richard Shibi has more than 15 years of experience in the IT industry. He
+has served as a senior management consultant and a regional account
+executive for IT projects deployed at global scale in the
+Telecommunication industry (North America, Europe, Russia, Middle East,
+China & South Africa). Richard is currently studying MBA at Imperial
+Collage Business School in London, running a Blockchain consultancy
+development start-up in Europe (PureGo OOD) and is serving as a board
+member and ICO advisor for Coinnup, TYDO, Cyber Capital Invest,
+MyEarthID, WMpro and ZeeRing blockchain projects.
+
+Sean Ness
+Advisor
+Sean Ness is a Director, Business Development at Institute for the Future,
+an independent, nonprofit research group with almost 50 years of
+forecasting experience. Sean oversees business development at Institute
+for the Future. After earning a BS in polymer science with a minor in
+chemistry from Pennsylvania State University, Sean ping-ponged between
+research organizations including Forrester Research and scrappy software
+start-ups like ComputerWire before joining IFTF in 2004. In 2006, Sean cofounded the STIRR Network, a group that helped catalyze early- stage
+entrepreneurial activity in Silicon Valley and beyond, through 2009.
+
+Felix Mago
+Advisor
+Felix is Co-Founder of Dash NEXT & Dash Thailand. Dash is the leading
+cryptocurrency for real-life payments. Dash Next is focused on biz-dev
+and partnerships. He published the “Bitcoin Handbook” and is Co-Founder
+of FUTERIO and the Blocktech Institute. Felix focus is on mass adoption of
+cryptocurrencies and decentralized businesses.
+
+58
+
+Gianmarco Boggio
+Advisor
+Gianmarco has worked in the commercial sector with telecommunications
+companies, including IBM and Set Telecomunicazioni. Since 2006, he has
+been the director of the Italian branch of Allot Communications, an Israeli
+manufacturer of control, management and security systems. Since 2008
+he is also Vodafone customer manager in the European, African, Asian and
+Australian territories. Since 2019 he has been involved in the expansion in
+Europe of an Israeli company active in government supplies. He has been
+registered as an executive at Manageritalia since January 2011.
+
+59
+
+10 Legal Disclaimer
+The delivery of this White-paper and the offer, sale of Coins, do not constitute a
+representation that the information contained here in is correct after the date of
+this White-paper. The directors of the Company have taken all reasonable care to
+ensure that the facts stated here in are true and correct in all material respects
+and that there are no other material facts, the omission of which would make
+misleading any statement herein whether of fact or opinion.
+The contents of this White-paper should not be construed as investment, legal or
+tax advice. Each prospective coin buyer is urged to seek independent investment,
+legal and tax advice concerning the consequences of purchasing the Coins.
+
+60
+
+

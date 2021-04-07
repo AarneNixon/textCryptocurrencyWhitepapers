@@ -1,0 +1,232 @@
+The USDJ ​Stablecoin System
+White Paper
+
+https://just.network
+
+By the JUST ​Team
+
+I. About USDJ Stablecoin
+II. USDJ Stablecoin System
+III. Use Collateralized Debt Positions (CDPs) to Generate USDJ
+1. Obtaining the collateral assets
+2. Creating CDPs to deposit collateral assets
+3. Generating USDJ through CDPs
+4. Redeeming the collateral
+IV. Price Stability Mechanism
+V. Global Settlement Mechanism
+1. Global Settlement is activated
+2. Global Settlement claims are processed
+3. USDJ and CDP holders claim their collateral
+VI. Risk Management
+1. Modification of Sensitivity Parameter
+2. Modification of Target Rate
+3. Choosing a set of trusted Oracles
+4. Modification of Price Feed Sensitivity
+5. Choosing a set of global setters
+6. Setting up parameters for risk-control
+1). Debt ceiling
+2). Liquidation ratio
+3). Stability fee
+4). Penalty ratio
+VII. JUST System Governance
+1. Single action proposal contract
+2. Delegating Proposal Contracts
+VIII. Resources
+
+1
+
+I. ​About USDJ ​Stablecoin
+
+TRON network offers varieties of quality assets, but most of them are not viable for everyday
+use because of their high volatility.
+USDJ is a new currency generated through decentralized smart contracts on the TRON
+network. Anyone can pledge ​TRX ​as collateral to generate ​USDJ​. ​USDJ enters into free
+circulation as any other cryptocurrency does once generated. It is pegged to the US dollar
+through Collateralized Debt Positions (​CDPs​), and also has autonomous feedback mechanisms.
+USDJ Stablecoin is a USD-pegged cryptocurrency backed by collateral assets. We believe that
+USDJ​ will become an integral part of the TRON ​DeFi​ ecosystem.
+
+II. ​USDJ​ Stablecoin System
+
+Figure 1. Core Mechanism of the ​JUST​ System
+
+2
+
+USDJ mortgage lending system and decentralized autonomous incentive mechanism are the
+core parts of JUST. Please find the details below.
+
+III. Use Collateralized Debt Positions (​CDPs​) to
+Generate ​USDJ
+USDJ​ is generated through depositing collateral assets into ​CDP​. Here are the steps:
+
+1​. Obtaining the collateral assets
+Exchange the ​TRX to be pledged for ​PTRX​, ​which is the only collateral assets accepted by the
+system for the moment.
+
+2​. Creating ​CDP​s to deposit collateral assets
+Send a transaction to ​JUST to create a ​CDP​, then send another transaction to deposit ​PTRX​,
+the collateral asset, into the ​CDP​ to generate ​USDJ​.
+
+3​. Generating ​USDJ​ through ​CDPs
+The CDP holder sends a transaction to specify the amount of ​USDJ generated in the ​CDP​.
+Meanwhile, the same amount of debt will be created, and the collateral asset is locked up and
+not available for redemption until the debt is repaid.
+
+4​. Redeeming the collateral
+To redeem the collateral, the debt must be repaid with ​USDJ along with a stability fee paid with
+JUST platform token, ​JST​. Finally, ​CDP holders can send a transaction to ​JUST to retrieve all
+collateral assets.
+If a price slump of the collateral makes it at risk of being unable to cover the debt, the ​CDP
+liquidation will be triggered to auction the collateral for repayment. Any remaining value net of
+the debt and the penalty fee will be kept in the ​CDP​ for withdrawal.
+
+3
+
+IV. Price Stability Mechanism
+The starting Target Price of USDJ is pegged at ​1.0 to the US dollar. In the ​JUST system, ​USDJ
+Target Price serves two main functions​:
+1​. To calculate the debt-to-collateral ratio of the CDP.
+2​. To determine the value of collateral assets that ​USDJ holders will receive upon Global
+Settlement.
+In the event of market instability, a Target​ ​Rate​ ​Feedback​ ​Mechanism​ ​(TRFM) will be triggered
+to maintain the same denomination of ​USDJ​. The​ ​Target​ ​Rate​ ​Feedback​ ​Mechanism​ is a
+process in which the ​USDJ Stablecoin System helps to adjust the Target Rate, so as to mobilize
+market forces to maintain the stability of ​USDJ​ price.
+The Target Rate determines the change of the Target Price, which incentivizes people to hold
+USDJ when the value is positive and lend ​USDJ when it's negative. Such a feedback
+mechanism maintains the market price of ​USDJ around the Target Price, thus dampening the
+price volatility of ​USDJ​ and injecting liquidity during demand shocks.
+Under the Target​ ​Rate​ ​Feedback​ ​Mechanism, once the market price of ​USDJ falls below the
+Target Price, the Target Rate will increase, making it more expensive to generate ​USDJ with
+CDPs​. In the meantime, an increased Target Rate will drive up the capital gains of holding
+USDJ​, thus increasing the demand for ​USDJ​. In this way, the reduced supply and increased
+demand will push up the market price of ​USDJ​ back towards its Target Price.
+Likewise, when the market price of ​USDJ rises above the Target Price, the same mechanism
+takes effect by decreasing the Target Rate, and thus driving down the market price back
+towards the Target Price.
+
+V. Global Settlement Mechanism
+When the ​USDJ price that the system receives from ​Oracles deviates drastically from the US
+Dollar during a system attack or malicious control which causes intolerable risks within the
+system, global settlers designated by ​JST holders can trigger the Global Settlement Mechanism
+that is carried out in the following steps:
+
+4
+
+1​. Global Settlement is activated
+After Global Settlement is activated, ​CDPs can no longer be created or adjusted and the Price
+Feed will be frozen at a certain value to process all users' claims.
+
+2​. Global Settlement claims are processed
+Meanwhile, ​Keepers in the ​JUST system will auction the debt and collateral assets based on the
+fixed Price Feed in a decentralized way in order to process corresponding claims of all ​USDJ
+and CDP holders.
+
+3​. ​USDJ​ and CDP holders claim their collateral
+After Keepers process all Global Settlement claims, each ​USDJ and ​CDP holder can submit a
+claim request on ​JUST to directly exchange their ​USDJ or CDPs for a fixed amount of ​TRX
+based on the Target Price of ​USDJ​. No time limit is set as for when users can take this step.
+
+VI. Risk Management
+To effectively manage and control potential risks, ​USDJ ​stablecoin system is armed with a
+comprehensive risk-management system. On one hand​, JST holders elect key decision makers
+through their votes to regulate risks across the system. On the other hand​, JST ​holders may
+also vote with ​JST​ to participate in setting up and modifying the risk parameters.
+Risk management consists of the following components:
+
+1​. Modification of Sensitivity Parameter
+Modify the sensitivity of the Target Rate Feedback Mechanism (TRFM).
+
+2.​ Modification of Target Rate
+Administrators may change Target Rate. In real practice​, when JST holders want to peg the
+price of ​USDJ to the current Target Price, they may set Sensitivity Parameter and ​Target ​Rate
+at zero to achieve the goal.
+
+5
+
+3.​ Choosing a set of trusted Oracles
+JUST platform obtains the internal price of collateral and the market price of USDJ through
+decentralized Oracles. JST holders can control the number of Oracle nodes and designate
+specific nodes as trusted Oracles. The system operates safely as long as over half of the
+Oracles function properly.
+
+4. ​Modification of Price Feed Sensitivity
+Changes in Price Feed Sensitivity affects the system's internal prices to a certain extent.
+
+5.​ Choosing a set of global setters
+Global setter is a crucial mechanism for JUST platform to survive attacks against the Oracles
+and the governance steps. The mechanism chooses a set of global setters and determines how
+many global setters are needed to activate a global settlement.
+
+6. Setting up ​parameters for risk-control
+To maintain the stability of the price of USDJ, the JUST system sets up multiple parameters for
+risk-control to regulate the Collateralized Debt Positions, all of which will be put up for vote and
+determined by JST holders.
+
+1). Debt ceiling
+Debt ceiling is the maximum ​amount of debt that can be created by CDP. Once the debt ceiling
+is reached, it becomes impossible for CDP to create new USDJ unless existing CDPs are
+closed.
+
+2). Liquidation ratio
+Liquidation ratio is a ratio of the collateral-to-debt when a CDP ​is liquidated. A low liquidation
+ratio means JST voters expect low price volatility of the collateral, while a high liquidation ratio
+means high volatility is expected.
+
+6
+
+3).​ Stability fee
+A stability fee is the ​extra fee ​charged on users when they pay back the debt after borrowing
+USDJ from CDPs. The stability fee is priced by USDJ and repaid only in JST. Once repaid, the
+JST will be burned and removed from the supply. The price of stability fee regulates the
+incentive of borrowing, and therefore controls the risk from the supply-and-demand end.
+
+4). ​Penalty ratio
+
+Penalty ratio is used to determine the maximum amount of ​USDJ bought and destroyed in
+liquidation auctions. The remaining collateral assets after the CDP liquidation will be refunded to
+the CDP holders before the liquidation. Penalty ratio is used to improve the efficiency of the
+liquidation mechanism, and the liquidation penalty will be used to buy and burn PTRX,
+benefitting the PTRX to TRX ratio.
+
+VII. ​JUST ​System Governance
+JUST ​system governance relies mainly on JST ​holders. While JST ​holders earn revenue from
+the stability fees of USDJ​, they are also responsible for the governance of the JUST ​system,
+which is done through selecting valid proposals ​ by JST ​voters.
+Each JST ​holder ​can vote and select the contract he/she supports among all the smart
+contracts that modify the system parameters. The contract with the highest number of votes
+becomes a valid proposal and has the system permit to modify variables of JUST ​internal
+system governance as per the established logic. Valid contract proposals can be in two forms:
+
+1​. Single action proposal contract
+Single action proposal contracts are proposals that can only be executed after gaining the root
+access, and after execution immediately applies its changes to the variables of internal system
+governance. The single action proposal will delete itself and become invalid. It’s easy to use but
+not flexible. This type of proposal will be adopted in the early stage of the system.
+
+2​. Delegating Proposal Contracts
+Delegating Proposal Contracts are proposals that continuously utilize their root access through
+second layer governance logic. The second layer governance logic can be relatively simple,
+
+7
+
+such as defining a protocol for holding a weekly vote on updated risk parameters. It can also
+implement more advanced logic, such as restrictions on the magnitude of governance actions
+within defined time periods, or even deleting permissions of its third layer Delegating Proposal
+Contracts with restrictions.
+There is no special requirement for proposal initiation. Any TRON account can submit
+suggestions for improving the JUST ​system by deploying valid smart contracts. ​JST ​holders can
+use their JST tokens to cast approval votes for one or multiple proposals that they want to select
+as the valid proposal. This mechanism ensures that JST ​holders fulfill their obligation of
+governance in a fair and just manner, and that suggestions carried in these valid proposals are
+safely deployed in the​ JUST ​system.
+We believe that under successful community governance, USDJ will bring into full play its
+advantages as a stablecoin and be widely applied across the TRON network.
+
+VIII. Resources
+JUST Official Website:​ ​www.just.network
+Product Website: ​just.tronscan.org
+
+8
+
+

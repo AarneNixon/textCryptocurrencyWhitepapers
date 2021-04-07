@@ -1,0 +1,4918 @@
+White Paper
+
+Ver. 1.1 
+
+March 2021
+
+SmartKey. The
+
+BoT Connector.
+Generation
+
+Oracle 2nd
+
+by Blockchain
+
+Secured
+
+Blockchain of Things
+
+BoT
+
+to implement
+
+Easy
+
+Unique Token
+
+NFT
+
+SmartKey is 
+
+the missing part
+of the puzzle
+„BoT” Blockchain Of Things
+
+that connects the world of
+decentralized finance
+(DeFi) and blockchain with
+
+We
+
+are
+
+the
+
+first
+
+connect
+
+physical
+
+Things)
+
+with
+
+working
+assets
+
+DeFi
+
+platform
+
+(„BoT”
+
+projects
+
+that
+
+Blockchain
+based
+
+on
+
+can
+Of
+the
+
+Ethereum blockchain.
+
+
+
+the world of physical
+assets.
+
+smartkeyplatform.io
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+Table of Content.
+
+Smartkey_DeFi gate makes
+it possible to create new
+economic models based on
+ETH Smart Contracts
+carried out by hundreds of
+DeFi projects.
+
+Blockchain - connective tissue for the smart 
+
+cities of the future
+
+Introduction
+
+The three phases of blockchain market
+
+
+Token Metrics and Distribution
+
+Technical
+
+Launch
+
+Allocation, numbers of tokens
+
+
+development
+
+
+SmartKey Units
+
+
+SmartKey is a bridge
+
+
+Token Distributions
+
+
+Barriers to BoT
+
+
+Allocation of funds
+
+
+What is a NFT Access token
+
+
+Decentralized and centralized exchanges
+
+
+SmartKey - a BoT connector and solution
+
+
+SmartKey Products
+
+
+Advanced level of integration
+
+
+Technical pages
+
+
+Level I
+
+
+SmartKey Partners
+
+
+Level II
+
+
+Media & Press
+
+
+SmartKey capabilities - BoT connector
+
+
+Company, Legal disclaimer
+
+
+Future market
+
+
+smartkeyplatform.io
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+Blockchain
+
+SmartKey - the connective
+tissue for the smart cities
+of the future.
+SmartKey will be the connective tissue for the smart cities of
+
+SmartKey was created to maximize the opportunities offered
+
+the
+
+by
+
+future.
+
+bridge
+
+We’re
+
+DeFi
+
+SmartKey
+
+to
+
+and
+
+the
+
+world’s
+
+the
+
+Internet
+
+become
+
+the
+
+first
+of
+
+platform
+Things,
+
+platform
+
+for
+
+a
+
+to
+
+successfully
+
+which
+new
+
+will
+
+allow
+
+economy
+
+of
+
+physical assets know as the “Blockchain of Things” (BoT). 
+
+
+
+We
+
+are
+
+developing
+
+technical
+
+solutions.
+
+a
+
+range
+These
+
+of
+
+products,
+
+products
+
+partnerships,
+
+use
+
+the
+
+decentralized
+
+finance.
+
+The
+
+network
+
+will
+
+allow
+
+users
+
+to
+
+create new business models around traditional services such
+as carsharing, car rental, or home rental. A simple web page is
+enough to connect your business to the SmartKey platform. 
+
+
+
+and
+
+The
+
+Smartkey
+
+platform
+
+combines
+
+Oracle
+
+II
+
+technology with BoT technology, This creates a unique smart
+
+platform to connect IoT devices, technologies, systems, and
+
+contract in the form of a NFT token called SmartKey which
+
+clouds to blockchain platforms such as Ethereum and Waves.
+
+defines
+
+rules
+
+of
+
+access
+
+via
+
+an
+
+IoT
+
+platform with multiple live integrations
+with
+
+household
+
+name
+
+brands
+
+and
+
+companies. 
+
+
+
+generation
+
+SmartKey
+
+the
+
+The SmartKey project is a working BoT
+
+device.
+
+The
+
+NFT-SmartKey contract is an IT record and manages activity. 
+
+
+
+smartkeyplatform.io
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+Introduction.
+
+Vitalik
+Buterin’s 
+
+Three Phases
+
+no. 1
+
+no. 3
+
+Token Market and digital payments
+
+
+
+DeFi + BoT in a hybrid model 
+
+
+
+
+Passive digital value. Tokens become traded on
+
+Integrating digital assets ​to the physical world
+
+exchanges and can be used for digital payments. 
+
+
+through the process of automatic access and
+management of these values. Ability to process
+digital
+
+of Digital Value
+
+for
+
+payments
+
+the
+
+bridge
+
+Development:
+
+
+BoT
+to
+
+without
+
+(Blockchain
+
+physical
+
+intermediaries
+of
+
+values.
+
+Things)
+The
+
+use
+
+to
+of
+
+and
+be
+
+a
+
+DeFi
+
+no. 2
+
+projects
+
+Tokens + DeFi in a closed ecosystem
+
+
+
+digital technology, electronic data, information
+
+in
+
+the
+
+physical
+
+world
+
+managed
+
+by
+
+f rom sensors, and automated access.
+
+Working
+Ethereum
+(DeFi)
+
+smart
+
+network.
+
+projects
+
+systems.
+
+
+contracts
+
+that
+
+are
+
+used
+
+Decentralized
+can
+
+use
+
+more
+
+on
+
+the
+
+economy
+advanced
+
+SmartKey
+
+is part of
+
+Phase
+
+3:
+
+
+Blockchain projects that connect decentralized
+finance
+
+world
+
+(DeFi)
+
+will
+
+SmartKey
+
+proven
+
+with
+
+open
+
+the
+
+up
+
+assets
+
+an
+
+of
+
+entire
+
+the
+
+physical
+
+new
+
+market.
+
+is already a leading BoT network with
+
+real-world
+
+examples
+
+of
+
+its
+
+technology
+
+being used, and will be at the foref ront of this
+new market.
+
+
+smartkeyplatform.io
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+Connecting the two sides of the
+market.
+
+
+Physical World
+
+99,9%
+
+SmartKey is a
+bridge for:
+
+Way
+
+Using
+
+smart
+
+contracts,
+
+limited-time-access
+
+and
+
+Smartkey
+
+payment
+
+services
+
+will
+to
+
+enable
+
+be
+
+fulfilled
+
+through IoT devices such as electronic locks and sensors, with
+
+.
+
+
+
+full profile verification
+
+Fiat Gate
+
+j
+
+The SmartKey pro ect focuses on heavily on automating billing
+and
+
+service
+
+providing
+
+- decentralized assets exchange protocols.
+
+
+access
+
+secure
+
+(e.g.
+
+home
+
+unlocking
+access
+
+to
+
+cars
+
+for
+
+ride-sharing,
+
+authorized
+
+persons
+
+via
+
+ 
+
+
+
+security gates).
+
+- active deposits, primary bank farm.
+
+- dependent processes implemented between smart
+
+SmartKey
+
+contracts linking deposits, processes, and DEX.
+
+
+partners,
+
+- other experimental economic model and processes.
+
+
+will
+
+companies,
+
+applications.
+
+- an attempt to connect blockchain with external databases.
+
+
+provide
+
+This
+
+the
+
+and
+
+will
+
+universal
+
+individuals
+
+allow
+
+for
+
+platform
+can
+
+wide
+
+build
+
+on
+
+which
+
+their
+
+own
+
+implementation
+
+of
+
+ 
+
+
+
+SmartKey in various business models.
+
+Dex
+
+Barriers to BoT:
+
+Y, in order to transact
+
+As SmartKey requires a utility token, SKE
+
+ 
+
+
+
+network grows.
+
+Blockchain oracle: connecting the smart cities of the future
+
+
+Transactions between physical and digital assets often require
+
+and then converting a digital asset into FIAT currency. As it
+stands, value is lost at each stage of this transaction through
+intermediaries
+
+which
+
+charge
+
+(often
+
+high)
+
+fees
+
+and
+
+commissions. This dissipates value throughout the chain and
+
+MarketCap 08 . 2020
+
+multiple stages e.g. converting one digital asset to another
+
+SmartKey is a decentralized oracle network which works on
+both the Ethereum and
+
+370 mld
+
+38-41,3 mln
+
+1 way
+
+USD
+
+Users
+
+( 9 9, 9 %)
+
+erodes value for asset-holders.
+
+
+Waves blockchains. 
+
+
+
+Blockchain oracles are the bridges between the on-chain and
+off-chain world. They allow blockchains and smart contracts to
+access off-chain assets, making them far more powerful and
+
+
+
+
+interoperable.
+
+SmartKey will act as the single bridge between physical and
+
+Using blockchain oracles, SmartKey will connect
+
+the on-chain world of digital assets, smart contacts, and DeFi
+
+digital assets, significantly reducing the network fees accrued
+by asset-holders.
+
+
+
+Y stand to benefit as the
+
+on the network, early investors in SKE
+
+with off-chain data, services, and devices.
+Digital currencies into FIAT model. 
+
+FIAT gate (exchange) – a middleman in the exchange process.
+
+smartkeyplatform.io
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+An NFT access token is a combination
+of three different technologies. 
+
+
+
+The
+
+What is 
+
+
+first
+
+technology
+
+is
+
+BoT
+
+(Blockchain
+
+of
+
+Things). BoT is used to connect an IoT device’s
+unique IT record to the Blockchain. IoT devices
+can be installed in cars, gates, homes, parking
+lots, offices, parcel locker systems, and so on.
+
+
+a NFT
+
+The
+
+second
+
+unique
+
+Access
+
+NFT
+
+SmartKey
+
+token
+
+uses
+
+a
+
+is
+
+used
+the
+
+second
+
+to
+
+make
+
+Oracle
+
+the
+
+system.
+
+generation
+
+Oracle
+
+system. It can be used to verify elements that
+will affect the value, such as weather conditions
+or
+
+Token?
+
+technology
+
+seasonality.
+
+It
+
+may
+
+be
+
+also
+
+used
+
+to
+
+verify
+
+information about the user such as his credit
+record.
+creating
+
+This
+
+is
+
+smart
+
+especially
+contracts
+
+in
+
+important
+order
+
+to
+
+when
+
+rent
+
+an
+
+apartment or a car. Verifying the user and his
+ability to pay for possible damages to the asset
+may be crucial in those cases.
+
+smartkeyplatform.io
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+Assets flow between active Smart Contracts.
+
+
+What is a NFT Access Token
+
+Closed ecosystem ETH, DeFi Internal ledger - digital assets.
+
+The third technology that is used to create the
+access token are the Smart Contract conditions.
+Those conditions can be decided by the person
+issuing
+
+the
+
+contract
+
+customization.
+are
+
+not
+
+These
+
+limited
+
+to):
+
+with
+
+various
+
+conditions
+contract
+
+levels
+
+include
+
+of
+
+(but
+
+expiration
+
+Oracle
+
+time,
+
+time of access, price, rules of user verification,
+deposit amount, and others.
+
+
+
+Combining those three technologies creates a
+unique
+
+smart
+
+contract
+
+in
+
+the
+
+form
+
+of
+
+a
+
+NFT
+
+token called SmartKey. The token defines the
+rules
+
+of
+
+access
+
+to
+
+a
+
+given
+
+physical
+
+NFT - SmartKey 
+
+
+value
+
+Unique Token
+
+managed by an IoT sensor.
+
+
+Sell &Trade on
+Exchange
+
+This
+
+value
+
+can
+
+then
+
+be
+
+sold
+
+using
+
+a
+
+simple
+
+website or application, traded on exchanges, or
+
+BoT
+
+Smart
+
+Management
+
+Contract
+Conditions
+
+used to build new business models.
+
+
+
+Access and
+
+New Business
+Models
+
+This creates a solution that will become critical
+to the sharing economy of the 21st century.
+
+
+
+What is more it will bring NFT tokens to a whole
+new level where they will be used for more than
+speculation.
+
+SmartKey
+
+technology
+
+will
+
+bring
+
+NFT tokens real physical value and utility to the
+world.
+
+
+smartkeyplatform.io
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+SmartKey BoT
+Connector
+Solution.
+Blockchain
+
+SmartKey BoT connector
+
+is a platform already operating on the market and used by a
+
+Physical World
+
+number of international companies including Kia, Wekta, and
+Ferguson.
+physical
+
+It
+
+worlds
+
+technology.
+Blockchain
+
+allows
+
+We
+
+you
+
+using
+
+to
+
+safely
+
+the
+
+connect
+
+BoT
+
+connect
+
+the
+
+digital
+
+"Blockchain
+
+Blockchain
+
+Ethereum
+
+of
+
+and
+
+Things"
+
+ecosystem
+
+(Waves) with digital devices and software through the SM_BoT
+gateway.
+
+The
+
+SmartKey
+
+BoT
+
+connector
+
+supports
+
+two
+
+blockchain
+
+ecosystems: Ethereum and Waves. The choice of the gate, i.e.
+the ETH vs Waves smart contract, is made by the customer of
+the technology connector.
+
+
+
+We partner with Chainlink as our oracle of choice, You can
+learn
+
+more
+
+about
+
+blockchain
+
+oracles
+
+and
+
+the
+
+SmartKey
+
+network on our Medium.
+
+smartkeyplatform.io
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+Integration
+
+Advanced
+levels of
+integration.
+The SmartKey platform provides blockchain integration at two
+levels. The parties to the contract choose the solution, i.e. the
+level of integration with the blockchain.
+
+smartkeyplatform.io
+
+DeFi Connector
+
+
+Blockchain
+
+
+Connector 1 - SM DeFi API
+
+
+ETH Smart Contract
+
+Ethereum
+
+Connector 2 - SM DeFi BoT
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+Integration
+
+Level I
+Level I consists of services provided in
+DeFi
+
+a purely digital form, such as mobile
+
+DEX
+
+applications, dedicated systems,
+websites, support systems, or passive
+sensors as well as supervision
+
+
+Tokens
+Blockchain
+
+Smart
+
+Contracts
+
+Physical Values
+
+systems or data centers.
+
+Level I is implemented by the SM_DeFi_API connector, which
+allows
+
+any
+
+mobile application
+
+to
+
+be
+
+connected
+
+to
+
+Tokens
+
+DEX
+
+the
+
+Ethereum or Waves blockchain, or with software based on
+shallow integration
+
+(intermediary),
+
+an
+
+external
+
+client. It
+
+provides purely digital services such as mobile applications.
+Level
+
+I
+
+integration
+
+is
+
+modelled
+
+on
+
+payment
+
+platforms
+
+and
+
+task-oriented services.
+
+Digital integration, access to services, applications and systems.
+Version
+
+0.3
+
+of
+
+actions
+
+with
+
+SM_DeFi_API
+on-chain
+
+allows
+
+you
+
+commands
+
+e.g.
+
+to
+
+trigger
+
+off-chain
+
+accessing
+
+securely
+
+located gates via an app. It creates the possibility to integrate
+with 1/3 of decentralized exchanges and ETH deposit contacts
+and payments for digital service.
+
+smartkeyplatform.io
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+Integration
+
+Level II
+Level II consists of advanced electronic
+services: connection of the payment
+and access application (operator), i.e.
+the performance of the contract,
+completed with a generated
+
+temporary access key.
+
+DeFi
+
+DEX
+
+Blockchain
+
+Smart
+
+
+Tokens
+
+Physical Values
+
+Contracts
+
+Tokens
+
+DEX
+
+Projects such as Airbnb platforms, carsharing, HotDesk offices
+paid
+
+by
+
+access
+
+the
+
+hour,
+
+zones
+
+parking lots,
+
+that
+
+use
+
+controlled
+
+intermediary
+
+and
+
+limited
+
+systems
+
+paid
+
+between
+
+the service provider and the recipient.
+
+SM_DeFi_BoT version 0.7 Smart Contract allows for integration
+with advanced digital devices connected to the Internet.
+
+The
+
+system
+
+in
+
+version
+
+0.7
+
+is
+
+dedicated
+
+to
+
+solutions
+
+with
+
+The
+
+service
+
+provider
+
+receives
+
+a
+
+digital
+
+payment
+
+and
+
+the
+
+Access
+
+and
+
+product
+
+recipient receives an electronic key in the form of a smart
+
+access right.
+
+Smart Contract ETH in the form of a SmartKey key that allows
+
+contract that allows temporary access to the physical assets,
+
+smart contract key.
+
+temporary access to physical assets.
+
+i.e. devices such as:
+
+
+L
+
+evel
+
+The system generates smart contracts which define the rules
+of access, payment method, time (service completion date -
+
+-
+
+digital
+
+lock
+
+(access
+
+to
+
+the
+
+Carsharing,
+
+premises or apartment - Airbnb hotel).
+
+Car
+
+Rental,
+
+office,
+
+II
+
+interacting
+
+with
+
+the
+
+aunching advanced services by generating the
+
+gives
+
+the
+
+possibility
+
+of
+
+developing
+
+more
+
+advanced
+
+economic models such as the sharing economy, i.e. building
+business
+
+processes
+
+access), and other dependencies that can be verified in
+
+
+complete automation
+
+digital form.
+
+currencies.
+
+smartkeyplatform.io
+
+by
+
+L
+
+extended functionality, i.e. the possibility of receiving a signed
+
+- camera, sensors.
+
+
+management
+
+and
+of
+
+access
+
+models
+
+based
+
+contracted
+
+White Paper
+
+in
+
+on
+digital
+
+Ve r . 1 . 1
+
+March 2021
+
+Opportunities
+
+SmartKey
+
+Future market.
+
+capabilities -
+
+By
+
+combining
+
+Blockchain
+
+of
+
+Things
+
+technology
+
+with
+
+decentralized finances (DeFi) SmartKey creates the possibility
+of integrating each verified Ethereum contract with solutions
+
+BoT connector.
+
+
+such as Airbnb, carsharing, HotDesk, parking services.
+
+
+
+Limited,
+
+time-access
+
+combination
+
+- Automatic access and the ability to build new
+
+of
+
+a
+
+services
+
+payment
+
+where
+
+smart
+
+service,
+
+the
+
+contracts
+asset
+
+are
+
+a
+
+providing
+
+company’s profile verification service, as well as vehicle and
+
+models based on decentralized finance in the
+
+digital
+
+world of physical services.
+
+
+key
+
+transfer
+
+system.
+
+The
+
+transfer
+
+of
+
+the
+
+key
+
+and
+
+physical asset (vehicle) is triggered by a smart contract.
+
+
+
+- Opportunities to create new value projections,
+new services or markets for automated services
+combined with decentralized finances.
+
+
+The
+
+
+
+
+billing
+
+- Diversification of financing of physical world
+
+The
+
+services, an alternative to payment systems or
+
+business
+
+traditional banking operators.
+
+
+carsharing, car rental or Airbnb services without
+
+platform
+
+allows
+
+models,
+
+you
+
+your
+
+to
+
+own
+
+create
+
+your
+
+systems
+
+own
+
+such
+
+as
+
+SmartKey
+
+project
+
+process
+
+booking
+
+to
+
+and
+
+access,
+
+focuses
+
+service
+are
+
+access.
+
+mostly
+
+systems such as sensors or
+
+heavily
+
+on
+
+All
+
+carried
+
+automating
+operations,
+
+out
+
+using
+
+the
+
+f rom
+
+simple
+
+electronic locks that can be easily
+
+connected to the SmartKey gateway by selecting integration
+level 1 or 2.
+
+
+
+
+
+the need to create your own advanced software.
+
+- Harmonization, access to customers f rom all
+
+A simple web page is enough to connect your
+
+SmartKey is a project that was created to combine the above
+
+over the world thanks to the universal ETH data
+
+service to the SmartKey platform.
+
+
+assets
+
+bus.
+
+
+
+
+
+w
+​ ith
+
+access
+
+to
+
+the
+
+opportunities
+
+offered
+
+by
+
+decentralized finance today.
+
+
+
+
+
+smartkeyplatform.io
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+Token
+
+Token Metrics
+
+Unit Icon
+
+Full logo
+
+and Distribution.
+Technical description:
+
+- name: SmartKey (SKey) token, ERC20 utility
+
+- platform: Ethereum (ETH)
+
+- Supply: 1,000,000,000 closed collections
+
+- SmartKey unit value: 1 ETH = 20.000 SmartKey (ERC20)
+
+- price of the SmartKey unit 2.0 cents at the rate of 1 ETH = 400 USD
+
+Lu
+a
+
+nch
+
+.
+
+
+
+Phase I – project price evaluation.
+
+
+
+Phase II – project price evaluation.
+
+
+
+Phase III
+
+Pre-Sales starting stage (20% - SmartKey)
+
+
+Entrance I offering in dex pools. (10% - SmartKey)
+
+
+Entry to centrali ed exchanges
+
+Stage A Sale 10%, average price: 1 SmartKey = 0,0172 / 0,0178 USD
+
+
+Stage A Sale 5%
+
+
+Stock exchange – liquidity 5%.
+
+Stage B Sale 10%, average price: 1 SmartKey unit = 0,025 / 0,035 USD
+
+
+Stage B Sale 5%
+
+
+The process is implemented by a Smart Contract connected
+
+Minimal
+
+with the wallet of the company. The goal of this phase is to
+
+0,0558 USD (may be subjected to change) Expected operating
+
+gain community supporting the project.
+
+reserve + 5% to keep liquidity (supply) highly valued. (may be
+
+3
+
+-
+
+5%
+
+of
+
+ETH
+
+collected
+
+will
+
+enter
+
+Phase
+
+II
+
+as
+
+Pool
+
+Cover
+
+price:
+
+1
+
+SmartKey
+
+unit,
+
+price
+
+in
+
+range
+
+z
+
+of
+
+0,0524
+
+.
+
+
+/
+
+subjected to change).
+
+(Uniswap, Bancor).
+
+smartkeyplatform.io
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+SmartKey
+
+units
+
+BOT Global
+The owner of the SmartKey project, the operator of funds
+obtained
+
+Allocation, number
+of tokens.
+
+f rom
+
+the sale
+
+of
+
+SmartKey
+
+tokens.
+
+The
+
+funds
+
+guarantee the project development, administration (license,
+legal services, security and economic audit of the company in
+accordance with the reporting standard of the organization in
+Estonia),
+
+maintenance
+
+of
+
+personnel,
+
+foreign representative
+
+offices and project development. The company will undertake
+a number of activities to build partnerships, implementations,
+and analyze risks that affect project development.
+
+Justification
+
+for
+
+the
+
+allocation
+
+of
+
+SmartKey
+
+tokens.
+
+Crowdfunding
+The process of obtaining financing for the project is carried
+out in the second phase.
+
+Marketing
+A
+
+set
+
+of
+
+marketing
+
+activities
+
+presenting
+
+the
+
+value
+
+of
+
+the
+
+project, its usefulness and its possible implementations.
+
+
+
+Sales
+-
+
+No
+
+restrictions:
+
+possibility to purchase tokens by VAT payers. If you have
+
+purchased units or are going to, please contact us.
+
+
+Phase I
+Is gaining a community supporting the SmartKey project and
+
+the
+
+first
+
+period
+
+of
+
+marketing
+
+and
+
+promotional
+
+activities, target markets will be covered for the purposes of
+
+its solutions.
+
+creating a recognizable brand with function identification and
+
+- Transactions over EUR 15,000 must be notified prior to their
+execution.
+
+In
+
+value.
+
+Phase II
+
+units
+
+in
+
+opening
+
+of
+
+offices
+
+-
+
+representative
+
+offices
+
+in
+
+Seoul that will announce the solution and obtain partnerships,
+
+Is the project's entry into the liquid market of open exchange
+of
+
+The
+
+the
+
+form of
+
+creating
+
+a
+
+pool
+
+on
+
+the
+
+which is a key implementation activity.
+
+Uniswap
+
+Team
+
+exchange.
+
+Securing the team in the company. Allocation for the team will
+
+Phase III
+
+allow us to keep a team that is attractive on the labor market
+
+Is listing and maintaining liquidity for SmartKey units for the
+
+for competitive projects. The basic team is 11 people.
+
+purposes
+
+the
+
+of
+
+covering a
+
+number
+
+of
+
+risks
+
+associated
+
+investing and securing individuals with SmartKey units.
+
+smartkeyplatform.io
+
+with
+
+project
+
+development
+
+the
+
+team
+
+will
+
+increase
+
+During
+
+to
+
+25-35
+
+people.
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+SmartKey units
+
+UniSwap
+
+Stock
+
+Exchange
+
+Liquidity
+
+10%
+
+5%
+
+Marketing
+10%
+Pre-Sale
+
+Stage A
+
+BoTGlobal
+
+
+10%
+
+Company
+Pre-Sale
+
+30%
+
+Stage B
+
+Reserve
+
+Team
+
+Liquidity
+
+5%
+
+20%
+
+10%
+
+30% - BoTGlobal Company
+
+
+10% - Pre-Sale stage A
+
+
+5% - Stock Exchange - liquidity
+
+
+20% - Team
+
+
+10% - Pre-Sale stage B
+
+
+5% - Reserve - liquidity
+
+
+10% - Marketing
+
+10% - UniSwap (may be subjected to change)
+
+smartkeyplatform.io
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+Token Distribution
+
+Shares held (%)
+
+Tokens owner
+
+Date
+
+token release value (%)
+
+2021
+
+2022
+
+2023
+
+2024
+
+2,5% per QTR
+
+Company BoT Global
+
+30%
+Lock
+
+2,5%
+
+2,5%
+
+2,5%
+
+2,5%
+
+2,5%
+
+2,5%
+
+2,5%
+
+2,5%
+
+2,5%
+
+2,5%
+
+2,5%
+
+2,5%
+
+Reserve to maintain liquidity, asset position or implement corrective actions. Release of the provision by BoT Global management
+
+Reserve - liquidity
+
+5%
+decision in case of significant risk.
+
+1,5% per QTR
+
+Team
+
+20%
+Lock
+
+smartkeyplatform.io
+
+2% per QTR
+
+1,5%
+
+1,5%
+
+1,5%
+
+1,5%
+
+1,5%
+
+1,5%
+
+1,5%
+
+1,5%
+
+2%
+
+2%
+
+White Paper
+
+2%
+
+2%
+
+Ve r . 1 . 1
+
+March 2021
+
+SmartKey funds
+
+Allocation of 
+
+funds.
+
+Promoting project value – Marketing:
+
+Crypto exchange – liquidity support:
+
+- Promoting project value through partnerships and active
+
+- Strategy of supporting the position of the SmartKey token
+
+promotional activities in target markets such as Korea.
+
+
+on crypto exchanges.
+
+
+-
+
+Information
+
+and
+
+advertising
+
+activity
+
+to
+
+create
+
+a
+
+project
+
+- Active support of events organized by the crypto-exchanges
+
+community and a group of ambassadors.
+
+
+for the purpose of presenting the SmartKey solution.
+
+
+- Participation in industry events to present the value of the
+
+- Strategy to build investor confidence in the project.
+
+solution. 
+
+-
+
+The project's relational strategy
+
+Targeted
+
+participation
+
+in
+
+trade
+
+fairs
+
+of
+
+the
+
+automotive
+
+market and the hotel industry
+
+consists of three components:
+Marketing:
+
+Operating reserve:
+
+- Acquiring partners interested in SmartKey technology.
+
+
+
+Crypto with financial resources for the purpose of undertaking
+
+- SmartKey platform. Programming and technical tasks.
+
+
+
+- Marketing activities, support and communication
+
+'
+
+.
+
+
+
+concerning the project s achievements regarding exchanges
+
+extra-curricular
+- Promoting the product with partners and
+
+joint-marketing
+
+activities, supporting
+
+the
+
+effectiveness
+
+of
+
+implemented activities. Unforeseen risks.
+
+with partners such as KIA and Teltonika. These partners are
+- Taking part in investor conferences organized by the
+crypto exchanges in order to report stories and milestone
+
+the foundation of the company that will contribute towards
+better results in the second stage of obtaining funds.
+
+completion.
+
+
+
+All funds go to
+
+Estonia).
+
+BoTGlobal OÜ (a company registered in
+
+smartkeyplatform.io
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+Exchanges
+
+Decentralized
+and centralized
+exchanges.
+
+Metamask - SALE 10/2020
+
+
+Probit - Listing 12/2020
+
+Sale in 2 rounds (5%)
+
+
+Smart contract between the buyer and the official SmartKey
+
+Probit (created in 2016) is a stable, fast-growing exchange in
+
+wallet.
+
+the Asian market – mostly in Korea. Avg. daily volume 65/100M
+USD
+
+secures
+
+listing
+
+on
+
+liquidity. Lack
+
+the
+
+of
+
+barriers
+
+exchange. Listings
+
+of
+
+for
+
+SmartKey
+
+Waves
+
+token
+
+blockchain
+
+available. Strong partnership with exchange.
+
+KuCoin - Listing Start 19/03/2021 
+
+
+Uniswap - SALE 11-12/2020
+
+One of the Top 5 Exchanges
+
+smartkeyplatform.io
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+Products Roadmap
+Cloud Connector
+
+Product development stage
+
+Product development
+
+
+SmartKey
+
+1
+
+stages description:
+
+Products.
+
+The Smartkey
+
+1
+
+Analysis Stage
+
+ 
+
+
+
+and Waves.
+
+’
+
+Business analysis of our product s potential strengths, weaknesses,
+
+of the future. In order to do that, we are developing a range of
+
+opportunities, and threats. The analysis stage helps the project team
+
+partnerships
+
+and
+
+technical
+
+solutions.
+
+These
+
+Cloud Connector will provide hundreds of cloud-based apps with
+
+access to an array of blockchain ecosystems, including Ethereum, Polkadot, Tron,
+
+SmartKey vision is to lay the foundations for the smart cities
+
+products,
+
+4
+
+3
+
+2
+
+’
+
+’
+
+x
+
+to identify business partner s/client s needs and e pectations.
+
+This solution makes it possible to use SmartKey technology for every project that
+is using the cloud which has implemented the connector. Projects that could
+
+.
+
+
+
+benefit f rom these solutions are IT services, applications, and systems
+
+products use the universal BoT / Oracle Standard system to
+connect
+
+devices,
+
+technologies,
+
+systems
+
+and
+
+clouds
+
+to
+
+2
+
+x
+
+MVP Stage
+
+:
+
+
+E ample of use
+
+The operator provides commercial cloud resources and structure to companies
+
+blockchain platforms.
+
+
+
+Minimum
+
+Viable
+
+Product
+
+is
+
+a
+
+version
+
+of
+
+a
+
+product
+
+with
+
+enough
+and users.
+
+working features to be usable by early adopters/consumers who can
+
+After
+
+adding SmartKey
+
+Cloud Connector,
+
+the operator obtains new
+
+.
+
+
+
+technological and economic possibilities for its applications and systems
+
+Below are the main business areas for which we have created
+
+provide feedback. Quick feedback is important for effective future
+product development.
+
+Hundreds
+
+connectors combining IoT technologies with Blockchain and
+
+of
+
+cloud-based
+
+applications
+
+can
+
+automatically
+
+start
+
+providing
+
+Blockchain access services for various ecosystems - Ethereum, Polkadot, Tron,
+
+Oracles. We chose these areas due to the possible scale of
+3
+
+Beta Stage
+
+Waves.
+
+
+implementation of our technology and the market value of
+Beta testing is the first end-to-end testing of a product carried out by
+
+possible implementations.
+
+
+APP
+
+the SmartKey team.
+
+
+
+SmartKey products are more than just an application for each
+of our partners. Our solutions are a universal base on which
+
+4
+
+Implementation Test Stage
+
+APP
+APP
+
+our partners and later other companies or individuals can
+build
+
+their
+
+own
+
+applications.
+
+This
+
+allows
+
+for
+
+a
+
+wider
+
+implementation of SmartKey in various business models. 
+
+
+Implementation tests are used to provide the product to real users
+who
+
+can
+
+help
+
+with
+
+uncovering
+
+any
+
+bugs
+
+or
+
+issues
+
+that
+
+can
+
+be
+
+addressed before the final release.
+
+
+
+
+In
+
+the
+
+long
+
+run,
+
+cryptocurrency
+
+it
+
+is
+
+a
+
+will
+
+benefit
+
+utility
+
+coin.
+
+our
+
+investors
+
+This
+
+means
+
+because
+that
+
+our
+
+SKEY
+
+5
+
+Service Provider
+
+Data Cloud
+
+Release Stage
+
+is
+
+needed to enable connection with the blockchain to service
+
+Launch of production version of the product.
+
+providers.
+
+
+Cloud Connector
+
+smartkeyplatform.io
+
+White Paper
+
+Ve r . 1 . 0
+
+March 2021
+
+Key Manager
+
+Product development stage
+
+1
+
+Business
+
+Wallet
+
+Product development stage
+
+4
+
+3
+
+2
+
+1
+
+2
+
+Product development stage
+
+3
+
+4
+
+1
+
+2
+
+SmartKey Key Manager is a control panel dedicated for service providers. It allows
+
+SmartKey Wallet is a crypto wallet that can be used to save and manage access
+
+This module is dedicated for partners and service providers that have a lot of
+
+to generate access keys for the devices and manage the IoT devices that are using
+
+keys. The keys are generated by the service providers and sent to the device users
+
+assets that could benefit f rom being connected to the blockchain ecosystem. 
+
+
+
+our connector.
+
+
+
+wallets. The additional function of the wallet is sharing the keys between other
+users.
+
+It
+
+The operator of the applications and systems that provide his services can decide
+on
+
+the
+
+parameters
+
+of
+
+the
+
+keys.
+
+In
+
+other
+
+words,
+
+he
+
+creates
+
+smart
+
+will
+
+be
+
+used
+
+in
+
+management
+
+systems
+
+for
+
+hotels,
+
+home
+
+and
+
+office
+
+rentals,
+
+parking lots, and other zones with paid access.
+
+
+
+contract
+
+parameters such as: access time to sensors or devices, contract expiration date,
+
+Using the Business module, service providers can leverage automation and smart
+
+access cost, user verification, or any other parameters relevant to a given service.
+
+
+contracts to manage access to their physical assets. New economic models for
+
+
+
+
+your business will be possible in future smart cities using the SmartKey Business
+
+The service provider (resource owner), for example, a hotel, creates a contract
+
+module.
+
+
+
+model that he will put up for sale. The given contract is a digital equivalent of the
+service performed by the operator. When creating the contract, the supplier will
+select basic parameters such as: period of access to the service, method of user
+verification, and defining the currency of payment for the service (e.g. SKEY, ETH,
+USDT). The contract will be visible in the wallet for managing basic keys or paid
+services. Keys can be created based on the economic parameters of the provider.
+For example, the key can be paid or f ree.
+
+
+Commercial Keys
+
+Private
+
+Keys
+Business
+
+Powered By
+
+Models
+
+SmartKey
+
+Service provider ID
+Smart Contract
+
+SmartKey
+
+API_OPEN
+
+Key Creator:
+
+Smart Contract Conditions:
+
+Time
+
+User Verification
+
+Payment
+
+Other
+
+Conditions
+
+New
+
+Shared Keys
+smartkeyplatform.io
+
+Product
+
+Business Keys
+
+White Paper
+
+Ve r . 1 . 0
+
+March 2021
+
+Rental
+
+Product development stage
+
+1
+
+Product development stage
+
+3
+
+2
+
+Rescue
+
+Access to Services
+
+4
+
+1
+
+Product development stage
+
+4
+
+3
+
+2
+
+1
+
+3
+
+2
+
+4
+
+5
+
+Our Rental module is designed specifically to meet the needs of automotive and
+
+Our
+
+as
+
+SmartKey Rescue module is used by emergency services to reduce travel time to
+
+transport businesses. With the Rental module, users can automate access to their
+
+residential properties. This can be to provide limited access to trusted services
+
+the scene of an incident. Rescue opens gates to guarded communities using the
+
+fleet of vehicles for rental or other purposes.
+
+such as couriers, builders, cleaners, and repair teams. Using the Service module,
+
+SmartKey network. This solution eliminates the need for emergency services to
+
+users will be able to provide access to multiple authorized persons or companies
+
+track down the keyholder before being able to enter a restricted zone. The system
+
+without the need for multiple keys or devices. The big advantage of using our
+
+allows for opening gates to guarded communities by combining the functionality
+
+technology in providing access to residential areas is the ability to issue virtual
+
+of Blockchain technology with the Internet of Things (IoT). 
+
+
+
+service
+
+module
+
+is
+
+designed
+
+to
+
+manage
+
+access
+
+to
+
+private
+
+assets
+
+such
+
+keys with a set expiration date. A good example of the usefulness of this system is
+giving access to a building to a repair team.
+
+The Rescue module is already released and used in Warmian - Masurian region of
+Poland. The SmartKey project assumes wider adoption of this module in the near
+future.
+
+Vehicles Rental
+
+Access to Services
+
+Rescue
+
+Universal System
+
+Open to use by emergency
+services all around the world
+
+smartkeyplatform.io
+
+White Paper
+
+Ve r . 1 . 0
+
+March 2021
+
+Technical Pages
+
+Technological description of the
+integration of technological partners
+with the SmartKey technical
+IoT Cloud
+
+blockchain.
+
+In order to connect to the SmartKey technical blockchain,
+each of the Partners is treated as a 'provider' of a new service,
+
+LISTENER
+
+Provider API
+
+Transaction Monitoring
+
+which must implement elements of the SmartKey
+architecture on its side, such as:
+
+
+
+- REST API as an interface for managing the main dApp of the
+BLOCKCHAIN
+
+provider.
+
+
+dApp
+
+SmartKey
+
+Ecosystem
+
+- Listener that listens to events on the provider's dApp and
+sends a signal to the IoT cloud with the command at the right
+moment.
+
+- The elements that consist of the entire ecosystem called
+Oracle
+
+
+Application + Wallet
+
+smartkeyplatform.io
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+Technical Pages
+
+After connecting to the Oracle, partners can communicate
+and transfer data via Blockchain and SmartKey dApp. 
+
+
+
+The tangent element of both providers is the blockchain and
+the device keys (tokens) generated in it.
+
+
+
+For proper operation, each of the elements is described with
+procedures for easy and intuitive integration of the Partner
+with
+IoT Cloud
+
+IoT Cloud
+
+Send ‘open’
+
+Send ‘open’
+
+request via HttPS
+
+request via HttPS
+
+LISTENER
+
+the
+
+SmartKey
+
+ecosystem
+
+platform.
+
+One
+
+of
+
+the
+
+main
+
+procedures are, among others, the following processes:
+
+
+• setting up a user account, i.e. a wallet
+f rom a dedicated application
+
+LISTENER
+Provider API
+
+Transaction Monitoring
+
+Provider API
+
+Transaction Monitoring
+
+SmartKey
+
+Ecosystem
+
+Observe dApp
+
+Observe dApp
+
+Blockchain
+
+Mobile App
+
+BLOCKCHAIN
+
+dApp
+
+BLOCKCHAIN
+
+dApp
+
+ 
+
+
+create user
+
+address request
+
+w address
+
+return ne
+
+Application
+
+smartkeyplatform.io
+
+Other Application
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+Technical Pages
+
+• Adding an IoT device
+
+Partner
+
+INTERFACE
+
+APP
+
+REST API
+
+Blockchain
+
+create device request
+
+get blockchain address
+
+return new address
+
+set device account script
+
+response - 201 OK
+
+setup device on IoT Platform
+
+smartkeyplatform.io
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+Technical Pages
+
+• Generating and transferring the SmartKey key
+
+User Application
+
+INTERFACE APP
+
+REST API
+
+Blockchain
+
+create key for device
+request (valid to param)
+
+issue NFT token on dApp
+
+response 200
+
+add key to device whitelist
+
+response - 200 OK
+
+request transfer to user
+
+transfer Key (new NFT token for device)
+
+smartkeyplatform.io
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+Technical Pages
+
+BoT (Blockchain of Things). BoT is a combination
+of
+
+Blockchain
+
+functionality
+
+and
+
+Internet
+
+of
+
+Things devices. IoT devices are becoming more
+and more common in the world that surrounds
+
+The
+
+Oracle
+
+BoT
+
+Examples
+are
+
+of
+
+where
+
+gates,
+
+such
+
+cars,
+
+devices
+
+parking
+
+lots,
+
+can
+
+be
+
+parcel
+
+locker systems, apartments and buildings. Our
+project is focusing mainly on devices that grant
+access to assets, but is not limited to them.
+Value
+
+to create the
+
+us.
+
+installed
+
+technologies
+that combine
+
+NFT
+
+Oracle. A set of servers that are used to retrieve data f rom the
+
+NFT access
+
+internet and store it on the blockchain in a form of a smart
+contract. On the previous graphs the PROVIDER API and the
+
+token are as
+
+LISTENERS are our solutions Oracles.
+
+In the case of SmartKey,
+
+Oracles can be used to verify elements that will affect the
+value of the Smart Contract such as weather conditions
+
+follows:
+
+or
+
+seasonality. They can have also other functions like verifying
+the parties of the smart contract. An example of this would be
+2018
+
+2019
+
+2020
+
+Time
+
+a case in which the Oracle is used to make a contract that will
+be validatable only when it’s raining. The Oracle will connect
+to the internet to check the weather conditions and then
+decide if the contract can be executed.
+
+smartkeyplatform.io
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+Technical Pages
+
+Contract conditions. These can be
+decided by the party issuing the smart
+
+NFT Access tokens are unique non-fungible keys made out
+
+Used by a company for asset access managing – for example
+
+of the combination of above mentioned technologies. The
+
+giving their employees access to the companies office.
+
+
+
+key can then be:
+
+contract. They can include:
+
+Used by an individual person for his own needs – like opening
+
+- Rented
+
+
+and closing a house or giving access to an apartment to the
+
+- Sold
+
+- Time in which the contract is validatable. For example, the access
+
+cleaning services.
+
+- Traded
+
+to a hotel room may be active from 4pm to 10am the next day.
+
+- Contract expiration date. For example, a car may be accessed for
+
+Used
+
+24 hours.
+
+
+Economy – car rental, Airbnb services etc.
+
+
+
+to
+
+form
+
+new
+
+business
+
+models
+
+based
+
+on
+
+Sharing
+
+- Payment and payment method. SmartKey will give its users
+
+access to gates linking various cryptocurrencies as well as FIAT
+
+Used in other business models based on providing access to
+
+payments.
+
+
+
+assets – parcel lockers, storage lockers etc. and so on.
+
+
+Open API
+External Data
+Base f rom
+services
+
+Stacking
+
+
+Web
+Services
+
+Ecosystem
+
+Loans
+
+Exchanges
+
+DeFi
+
+Trade
+
+Smart Contract
+
+Company
+
+BoT
+
+Access and
+
+DeFi
+
+Management
+
+Oracle
+
+Unique
+
+Devices ID
+
+
+
+Key Creator:
+Smart Contract Conditions:
+
+Technical
+Blockchain.
+
+
+Time
+
+Pair with Devices
+User Verification
+
+NFT
+
+SmartKey
+
+Unique
+Token
+
+Payment
+
+Ideas
+New Business
+
+Models
+
+Other Conditions
+
+DEX
+
+Closed API
+
+Data
+Services
+
+smartkeyplatform.io
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+Technical Pages
+
+GitHub
+Documentation
+in 2Q 2021
+All documentation describing the processes will
+be published in Q2 2021 on GitHub along with
+the source code of the solution.
+
+smartkeyplatform.io
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+Project Partners
+
+SmartKey Partners.
+
+Chainlink
+
+GeoDB
+
+Wekta
+
+Chainlink and SmartKey are proven blockchain technologies
+
+SmartKey will deliver car and mobility data via GeoDB to
+
+Our integration with leading intercoms manufacturer, Wekta,
+
+which aim to revolutionize the IoT market and connect future
+
+data-buyers
+
+will give over 3.5 million households across Poland the ability
+
+smart
+
+segments,
+
+cities.
+
+Chainlink
+
+is
+
+SmartKey
+
+blockchain
+
+oracle
+
+of
+
+choice. 
+
+By
+
+Analytics,
+
+simplifying
+
+resources,
+useful
+
+Chainlink
+
+IoT
+
+capability
+
+how
+
+a
+
+smart
+step
+
+smart
+is
+
+contracts
+
+accelerating
+
+contracts.
+
+further
+
+by
+
+the
+
+SmartKey
+
+enabling
+
+access
+
+off-chain
+
+development
+takes
+
+easy
+
+of
+
+Chainlink
+
+connections
+
+such
+
+weather
+
+conditions,
+
+authorized
+
+access
+
+to
+
+will
+
+in
+
+Flame
+
+turn
+
+use
+
+to
+
+as
+
+automatic activation of emergency response systems during
+bad
+
+buyers
+
+Nisgo,
+
+time,
+
+SmartKey
+
+home
+
+data:
+
+sensors,
+
+will
+
+grow
+
+including
+
+to
+
+provide
+
+utilities,
+
+temperature
+
+smart
+
+weather
+
+gauges,
+
+city
+
+about
+
+blockchain
+
+oracles
+
+the
+
+SmartKey network on our Medium.
+
+https://smartkeyplatform.medium.com/smartkey-and-chainli
+
+video
+
+cameras,
+
+home
+
+access,
+
+garage access, and safe and secure access to other areas
+
+households
+
+using
+
+access
+
+Wekta
+
+control
+
+intercoms
+
+with
+
+can
+
+SmartKey.
+
+benefit
+
+Residents
+
+f rom
+and
+
+or be on site. Access can be granted for a limited time-period
+
+liquid
+
+level
+
+movement, and mobile solutions (GPS and GSM).
+
+
+
+gated
+
+and
+
+control
+
+controllers,
+
+(e.g. for a delivery or home movers) offering a greater degree
+of security.
+
+You can read more about the SmartKey + Wekta partnership
+
+on our Medium.
+
+more
+
+to
+
+taxis, and tradesmen without having to call, exchange keys,
+
+other possibilities.
+
+learn
+
+SmartKey
+
+and
+
+You can read more about the SmartKey + GeoDB partnership
+
+can
+
+use
+
+landlords can grant access to courier and delivery services,
+
+municipal areas when city-wide alerts are issued, and many
+
+You
+
+to
+
+seamless
+
+pressure
+
+IoT,
+
+These
+
+Abacus,
+
+intelligence
+
+many others. 
+
+
+
+data-driven
+
+in
+
+Datalytics.
+
+market
+
+All
+
+smart
+
+cases
+
+AboutGoods,
+
+&
+
+brands such as Carrefour, McDonald’s, Telefonica, Audi, and
+
+The partnership of SmartKey and Chainlink will open up new
+use
+
+and
+
+as
+
+data
+
+using Wekta technology.
+
+
+Over
+
+contract
+
+such
+
+big
+
+SmartKey to provide data-driven analytics to leading global
+
+physical devices performing key IoT-enabled services.
+
+
+smart
+
+representing
+
+on our Medium.
+
+
+https://smartkeyplatform.medium.com/smartkey-to-integrate
+
+https://smartkeyplatform.medium.com/smartkey-to-integrat
+
+-with-geodb-delivering-data-to-the-biggest-brands-to-build-t
+
+e-with-leading-intercom-manufacturer-wekta-giving-3-5m-
+
+7
+
+7f33
+
+he- 0bfb2c3
+
+7
+
+cdf331f
+
+6719
+
+nk-to-collaborate-in-government-approved-blockchain-proje
+ct-to-power-smart-e205e2a2ac13
+
+smartkeyplatform.io
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+Project Partners
+
+SmartKey Partners.
+
+Teltonika
+
+Ferguson
+
+Teltonika bestselling GPS trackers (FMB920) are mounted on
+
+Ferguson
+
+is
+
+every single emergency vehicle, as well as closed district and
+
+consumer
+
+electronics,
+
+private
+
+SmartKey-enabled devices every year. 
+
+
+active investment model that will be used in the modern
+
+Ferguson will implement the SmartKey technology in all its
+
+sharing economy of the cities of the future. The SmartKey
+
+SmartHome
+
+fully
+
+ecosystem will provide transparent mechanisms for gaining
+
+and
+
+access
+
+property
+
+barriers,
+
+gates,
+
+and
+
+building
+
+intercom
+
+systems. 
+
+
+
+Integration
+
+with
+
+SmartKey
+
+will
+
+allow
+
+users
+
+to
+
+track
+
+their
+
+configurable
+
+Ferrum Network
+a
+
+global
+
+devices,
+to
+
+the
+
+manufacturer
+
+established
+
+which
+user’s
+
+use
+
+in
+
+and
+
+1989.
+
+intelligent
+
+needs,
+
+distributor
+It
+
+sells
+
+300,000
+
+solutions,
+
+increasing
+
+of
+
+comfort
+
+Ferrum Network is a part of new product solution. The new
+implementation
+
+to
+
+will
+
+physical
+
+be
+
+based
+
+assets
+
+while
+
+on
+
+the
+
+users
+
+active
+
+will
+
+be
+
+deposit
+
+able
+
+to
+
+and
+
+use
+
+device’s location and control the corresponding locks via GPS
+
+automating their use. We are talking here, among others,
+
+staking mechanisms in their own business models.
+
+
+and remote command sent f rom the mobile app through the
+
+about
+
+
+
+
+SmartKey network.
+
+
+intercoms, smart remote controls or E-mio electric scooters.
+
+Modern economics is based on the sharing of physical goods.
+
+In partnership with Teltonika, the city of Olsztyn in Northern
+
+All these devices will now be compatible with the Ethereum
+
+Blockchain can automate deposit and investment processes
+
+Poland
+
+and Waves blockchain systems.
+
+
+
+in the modern economy of the physical world while a deposit
+
+became
+
+the
+
+first
+
+in
+
+the
+
+world
+
+to
+
+successfully
+
+security
+
+systems,
+
+SmartEye
+
+cameras,
+
+Wi-Fi
+
+video
+
+introduce SmartKey-controlled building access for municipal
+emergency services. 
+
+You
+
+can
+
+read
+
+more
+
+product
+You
+
+about
+
+the
+
+pioneering
+
+project
+
+on
+
+can
+
+read
+
+more
+
+about
+
+the
+
+SmartKey
+
++
+
+Ferguson
+
+is
+
+often
+
+needed
+
+and
+
+can
+
+be
+
+paid
+
+in
+
+the
+
+form
+
+of
+
+tuxedo mechanisms. 
+
+
+partnership on our Medium.
+
+Teltonika’s website.
+
+
+https://ferrum.network/
+
+https://teltonika-gps.com/about-us/pioneering-blockchain-pr
+
+https://smartkeyplatform.medium.com/ferguson-a-giant-in-t
+
+oject-for-emergency-services/
+
+he-world-of-intelligent-solutions-will-sell-300-000-devices-co
+nnected-to-476db2fb3179
+
+smartkeyplatform.io
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+Project Partners
+
+SmartKey Partners.
+
+Oasis Bloc
+OASISBloc
+
+is
+
+a
+
+blockchain
+
+based
+
+data
+
+trading
+
+platform.
+
+OASISBloc aims to create collaborative value by providing a
+global data trading platform due to increase in demand for
+access to global data and to overcome limitations of current
+blockchains which are focused on each industry domains.
+Every Domain Chain plays a given role as a fundamental and
+core member of the OASISBloc platform and receives various
+benefits. OASISBloc supports SmartKey with users data and
+legal documents processes to enable full access control and
+make sharing economy available to mass users.
+
+https://www.oasisbloc.io/
+
+smartkeyplatform.io
+
+White Paper
+
+Ver. 1.1
+
+March 2021
+
+Media & Press
+
+X FORMER EXECUTIVE ANDY CHEUNG JOINS SMARTKEY
+
+Olsztyn claims world-first by linking blockchain to emergency services – English
+
+Smartkey to integrate with leading intercom manufacturer, Wekta – English
+
+BITWORK CEO AND OKE
+
+https://www.smartcitiesworld.net/news/olsztyn-claims-world-first-by-linking-block
+
+https://www.marketwatch.com/press-release/smartkey-to-integrate-with-leading-i
+
+BLOCKCHAIN PRO ECT – English
+
+chain-to-emergency-services--5900
+
+
+
+ntercom-manufacturer-wekta-2021-02-19
+
+
+
+https://financialit.net/news/people-moves/bitwork-ceo-and-oke -former-e ecutive
+
+J
+
+x
+
+j
+
+x
+
+n
+
+
+
+-andy-cheung- oins-smartkey-blockchai
+Polish city becomes first to adopt Ethereum blockchain for emergency services –
+
+City in Poland uses blockchain to assist emergency services – English
+
+English
+
+https://finance.yahoo.com/news/city-poland-uses-blockchain-assist-110051021.html
+
+Une ville polonaise devient la premi
+
+https://cointelegraph.com/news/polish-city-becomes-first-to-adopt-ethereum-blo
+
+?guccounter=1
+
+
+
+d urgence- French
+
+ckchain-for-emergency-services
+
+
+
+ère à utiliser Ethereum (ETH) pour ses services
+
+’
+
+https://www.cointribune.com/actualites/une-ville-polonaise-devient-la-premiere-a
+SMARTKEY TO INTEGRATE WITH LEADING INTERCOM MANUFACTURER, WEKTA,
+
+/
+
+
+
+-utiliser-ethereum-eth-pour-ses-services-durgence/amp
+
+Invest in SmartKey: Why this Cryptocurrency could have Big impact – English
+
+GIVING 3.5M HOUSEHOLDS BLOCKCHAIN-ENABLED ACCESS CONTROL IN
+
+https://cryptoworldnews.us/invest-in-smartkey-why-this-cryptocurrency-could-ha
+
+LATEST STEP TO BUILDING THE SMART CITIES OF THE FUTURE – English
+
+
+'스마트키'와 '체인링크', 스마트 시티 동력 공급 위한 파트너십 체결 – Korean
+
+ve-big-impact/
+
+
+
+https://www.greatreporter.com/content/4034/smartkey-integrate-leading-interco
+
+http://www.newsbrite.net/news/articleView.html?id no=14394
+
+x
+
+8
+
+
+
+m-manufacturer-wekta-giving-35m-households-blockchain
+
+
+Polish city becomes first to adopt Ethereum blockchain for emergency services –
+
+Global Intelligent Solutions Manufacturer, Ferguson To Adopt Ethereum
+Blockchain As Standard Across All Devices Using Smartkey – English
+
+City in Poland uses blockchain to assist emergency services – English
+
+
+English
+
+https://www.buzzblockchain.com/2020/11/19/global-intelligent-solutions-manufact
+
+https://coinrivet.com/city-in-poland-uses-blockchain-to-assist-emergency-services/
+
+https://www.investing.com/news/cryptocurrency-news/polish-city-becomes-first-t
+
+urer-ferguson-to-adopt-ethereum-blockchain-as-standard-across-all-devices-usin
+
+7734
+
+
+
+o-adopt-ethereum-blockchain-for-emergency-services-235
+
+g-smartkey/
+
+smartkeyplatform.io
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+Media & Press
+
+Check out our
+
+Famous
+
+videos:
+
+YouTubers talk
+about our
+
+SmartKey Connector - How does it work - Explainer Video
+
+https://www.youtube.com/watch?v=TWC6yUrTM8E
+
+
+
+project:
+
+Solution for Smart Key Emergency Service - Ethereum Blockchain
+
+https://www.youtube.com/watch?v=dUPeP7OHvd8&ab_channel=SmartKey
+
+
+
+Smartkey solution presentation for Airbnb (Korean version)
+
+
+BitBoy Crypto - One Crypto Project Changes Everything (KEY To The Future)
+
+https://www.youtube.com/watch?v=jC7RspD63X0&feature=emb_title
+
+
+
+https://www.youtube.com/watch?v=Hk2ok1KJ7Pw&t=107s
+
+
+
+Payment for renting a Mercedes with the DeFi service.
+
+Presentation
+
+of
+
+MVP
+
+SmartKey,
+
+Blockchain
+
+BitBoy Crypto - 7 Coins to
+of
+
+Things
+
+technology.
+
+$
+
+!  
+
+
+7 Million Dollars in 2021 (Teeka Tiwari DeFi Picks )
+
+https://www.youtube.com/watch?v=odUic8xcSiY&ab_channel=BitBoyCrypto
+
+
+
+https://www.youtube.com/watch?v=kpqRgGoGgTA&feature=emb_title
+
+
+
+Крипто Батенька Какую криптовалюту купить в
+сделал Х и это еще не предел
+-
+
+Presentation of the SmartKey solution for the project partner KIA corporation.
+
+https://www.youtube.com/watch?v=eUOF0HERDZw&feature=emb_title
+
+
+
+Project presentation for the Korean community.
+
+https://www.youtube.com/watch?v=oFYdD2Tm4tY&feature=emb_title
+
+2021
+
+году
+
+? Smart Key
+
+30
+
+https://www.youtube.com/watch?v=lvYd9rmj_Wo&feature=youtu.be
+
+
+
+Крипто Батенька
+
+- SMARTKEY
+
+и
+
+N N объявили о сотрудничестве
+
+CHAI
+
+LI
+
+K
+
+https://www.youtube.com/watch?v=xt0Z0TbOILg&t=5s
+
+
+
+!!
+
+Davincij15 - OMG
+
+N N !!!! [
+
+IMMI
+
+E
+
+T
+
+N
+
+EPIC MOVEME
+
+'
+
+N
+]
+
+TS I
+
+N N
+
+THE BITCOI
+
+A
+
+D CRYPTO MARKET
+
+here s what I am buying
+
+https://www.youtube.com/watch?v=VvWFslDG5eM&t=1856s
+
+
+
+платформа которая позволяет связать друг с
+другом физические предметы
+
+Made in Blockchain - SmartKey
+
+,
+
+https://www.youtube.com/watch?v=kyVVaSBMsUc
+
+smartkeyplatform.io
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+Company, Legal disclaimer.
+
+Project implemented by the company:
+
+BoTGlobal OÜ (registry code 14808450):
+
+
+Social
+
+Networks:
+
+Estonia, Tallinn, Kesklinna linnaosa, 
+
+Maakri tn 19/1-7K, 10145
+
+Discord
+
+Twitter
+
+Security - project reporting.
+
+DeFi
+
+D9K
+
+https://twitter.com/SmartKey
+
+https://discord.com/invite/gM89
+
+The company operates in accordance with the European
+Youtube
+
+Medium
+
+Union law regarding the principles of accounting and
+reporting. Financial data and risk reporting by a certified
+
+6
+
+W9yysYFAXBou6sA
+
+https://www.youtube.com/channel/UC oK-S1x
+
+https://smartkeyplatform.medium.com/decentralized-oracles
+
+auditing company, CIA audit standard (Certified Internal
+
+-why-ethereum-needs-smartkey-and-not-the-other-way-aro
+
+Auditor).
+
+
+und-9a708
+
+6f15f67
+
+Reddit
+Contact:
+
+https://www.reddit.com/r/Smartkeyplatform
+Kakao Talk
+
+Information
+
+https://open.kakao.com/o/g9fgzwPc
+
+office@smartkeyplatform.io
+
+
+Telegram
+
+Trade & exchange support
+
+
+News
+
+https://t.me/SmartKey
+
+trade@smartkeyplatform.io
+
+
+https://t.me/SmartKeyChat
+Integration and tests of the SmartKey platform
+
+support@smartkeyplatform.io
+
+_
+
+https://t.me/SmartKeyChat Korea
+
+Ru
+
+https://t.me/SmartKeyChat
+This document is not an issue prospectus, an offer to take up shares in a project, to sell property
+
+rights on the basis of Estonian or other country's jurisdiction. By purchasing SmartKey tokens, you
+
+_
+
+_ NDONESIA
+
+https://t.me/SmartKey Chat I
+
+acquire the possibility to use the SmartKey system services of the Blockchaincars.io application as
+
+well as platforms and solutions that will be created in the future using SmartKey technology. You
+
+L
+
+https://t.me/SmartKeyChatP
+
+will be able to use the BCC platform as a private individual, entity, organization or company.
+
+SmartKey tokens allow access to the platform's technological resources and its capabilities.
+
+smartkeyplatform.io
+
+_Vietnam
+
+https://t.me/SmartKey
+
+White Paper
+
+Ve r . 1 . 1
+
+March 2021
+
+

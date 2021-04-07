@@ -1,0 +1,1605 @@
+Version 1.0
+© 2019 Tokoin. All rights reserved.
+
+Table of Contents
+Disclaimer …………………………………………………………………………………………………………………………………..2
+Abstract …………………………………………………………………………………………………………………………………….. 5
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+Background ………………………………………………………………………………………………………………………………. 7
+1.1.
+
+Industry Overview …………………………………………………………………………………………………………. 8
+
+1.2.
+
+Problems ……………………………………………………………………………………………………………………….. 9
+
+1.3.
+
+Challenges …………………………………………………………………………………………………………………… 12
+
+1.4.
+
+Solution ……………………………………………………………………………………………………………………….. 12
+
+1.5.
+
+Mission ………………………………………………………………………………………………………………………… 14
+
+About Tokoin ………………………………………………………………………………………………………………………….. 15
+2.1.
+
+Overview ……………………………………………………………………………………………………………………… 16
+
+2.2.
+
+Value Proposition ………………………………………………………………………………………………………. 16
+
+2.3.
+
+Characteristic of Tokoin ……………………………………………………………………………………………. 17
+
+2.4.
+
+Ecosystem …………………………………………………………………………………………………………………… 18
+
+2.5.
+
+How to a Get Digital Identity …………………………………………………………………………………….. 21
+
+2.6.
+
+How to Get data …………………………………………………………………………………………………………. 23
+
+Token Economy ……………………………………………………………………………………………………………………... 25
+3.1.
+
+TOKO Token ………………………………………………………………………………………………………………… 26
+
+3.2.
+
+TOKO Incentive Pool ………………………………………………………………………………………………….. 28
+
+Product & Technology …………………………………………………………………………………………………………… 29
+4.1.
+
+Technological Aspects ……………………………………………………………………………………………… 30
+
+4.2.
+
+Features ………………………………………………………………………………………………………………………. 32
+
+4.3.
+
+Products ………………………………………………………………………………………………………………………. 33
+
+Fundraising Plan …………………………………………………………………………………………………………………….. 34
+5.1 Roadmap …………………………………………………………………………………………………………………………… 35
+5.2 Token Distribution …………………………………………………………………………………………………………… 36
+5.3 Team …………………………………………………………………………………………………………………………………. 38
+
+6.
+
+Business Partners ………………………………………………………………………………………………………………….. 41
+
+7.
+
+Reference ..………………………………………………………………………………………………………………………………. 44
+
+PAGE 1
+
+Disclaimer
+PLEASE REVIEW CAREFULLY THE PRESENT SECTION OF “DISCLAIMER OF LIABILITY”. IF YOU
+HAVE ANY DOUBTS AS TO WHAT ACTIONS YOU SHOULD TAKE, WE RECOMMEND THAT YOU
+CONSULT WITH YOUR LEGAL, FINANCIAL, TAX OR OTHER PROFESSIONAL ADVISOR(S). No part of
+this Whitepaper is to be reproduced, distributed or disseminated without including this section
+“Disclaimer of Liability”. The sole purpose of this Whitepaper is to present Tokoin and TOKO Tokens
+to potential Token holders in connection with the proposed ICO. The information is provided for
+INFORMING PURPOSES only. It may not be exhaustive and does not imply any elements of a
+contractual relationship or obligations. Despite the fact that we make every effort to ensure the
+accuracy, up-to-dateness, and relevance of any material in this Whitepaper, this document and
+materials contained herein are not professional advice and in no way constitute the provision of
+professional advice of any kind. Furthermore, Tokoin reserves the right to modify or update this
+Whitepaper and information contained herein at any moment and without notice. To the maximum
+extent permitted by any applicable laws, regulations and rules, Tokoin does not guarantee or accept
+legal responsibility of any nature, for any indirect, special, incidental, consequential, or other losses
+of any kind, in tort, contract or otherwise (including but not limited to loss of revenue, income or
+proﬁts, and loss of use or data), arising from or related to the accuracy, reliability, relevance, or
+completeness of any material contained in this Whitepaper. Furthermore, Tokoin does not make or
+purport to make, and hereby disclaims, any representation, warranty, or undertaking in any form
+whatsoever to any entity, person, or authority, including any representation, warranty or undertaking
+in relation to the truth, accuracy, and completeness of any of the information set out in this
+Whitepaper. You should contact relevant independent professional advisors before relying or
+making any commitments or transactions based on the material published in this Whitepaper. This
+Whitepaper is not subject to any legal system and is not governed by any law. No regulatory
+authority has examined or approved of any of the information set out in this Whitepaper, and no
+such action has been or will be taken under the laws, regulatory requirements, or rules of any
+jurisdiction.
+
+PAGE 2
+
+Disclaimer
+The publication, distribution, or dissemination of this Whitepaper does not imply that the applicable
+laws, regulatory requirements or rules have been complied with. You do not have the right and
+should not buy TOKO Tokens if you are: (i) A green card holder of the United States of America, or
+(ii) a citizen or a resident (tax or otherwise) of the United States of America, Puerto Rico, the Virgin
+Islands of United States, or any other possessions of the United States of America, Singapore,
+People’s Republic of China or South Korea, or a person of that state, or (iii) a citizen or resident (tax
+or otherwise) of any country or territory where transactions with digital Tokens and/or digital
+currencies are prohibited or in any other manners restricted by applicable laws. (“Person” is
+generally deﬁned as a natural person residing in the relevant state or any entity organized or
+incorporated under the laws of the relevant state). Purchased Tokens cannot be offered, distributed,
+or resold or otherwise alienated by their holders to mentioned persons. It is your sole responsibility
+to establish, by consulting (if necessary) with your legal, tax, accounting, or other professional
+advisors, what requirements and limitations, if any, apply to your particular jurisdiction and ensure
+that you have observed and complied with all restrictions at your own expense and without liability
+to Tokoin. TOKO Tokens are not and will not be intended to constitute securities, digital currency,
+commodity, or any other kinds of ﬁnancial instruments and have not been registered under relevant
+securities regulations, including the securities laws of any jurisdiction in which a potential Token
+holder is a resident. This Whitepaper is not a prospectus or a proposal, and its purpose is not to
+serve as a security offer or request for investments in the form of securities in any jurisdiction.
+However, in spite of the above, legislation of certain jurisdictions may, now or in the future,
+recognize TOKO Tokens as securities. Tokoin does not accept any liability for such recognition
+and\or any legal and other consequences of such recognition for potential owners of TOKO Tokens
+or provide any opinions or advice regarding the acquisition, sale or other operations using TOKO
+Tokens, and the fact of the provision of this Whitepaper does not form the basis of or should not be
+relied on in matters related to the conclusion of contracts or acceptance of investment decisions.
+This Whitepaper does not oblige anyone to enter into any contract, to take legal obligations with
+respect to the sale or purchase of TOKO Tokens, or to accept any cryptocurrency or another form of
+payment.
+
+PAGE 3
+
+Disclaimer
+Potential owners of TOKO Tokens are advised to contact relevant independent professional
+advisors on the above matters. Certain statements, estimates, and ﬁnancial information contained
+herein constitute forward-looking statements or information. Such forward-looking statements or
+information involve known and unknown risks and uncertainties, which may cause actual events or
+results to differ materially from the estimates or the results implied or expressed in such
+forward-looking statements. Furthermore, all examples of calculation of income and proﬁts used in
+this paper were provided only for demonstration purposes or for demonstrating the industry's
+averages. For the avoidance of doubt, nothing contained in this Whitepaper is or may be relied on as
+a guarantee, promise, representation, or undertaking as to the future performance of Tokoin and/or
+TOKO Tokens, and/or a promise or guarantee for future proﬁt resulting from the purchase of TOKO
+Tokens. TOKO Tokens cannot be used for any purposes other than as provided in this Whitepaper,
+including but not limited to any investment, speculation, or other ﬁnancial purposes. TOKO Tokens
+confer no other rights in any form, including but not limited to any ownership, distribution (including,
+but not limited to, proﬁt), redemption, liquidation, property (including all forms of intellectual
+property), or other ﬁnancial or legal rights other than those speciﬁcally set forth below. While the
+community's opinions and feedback can be taken into account, the possession of TOKO Tokens
+does not give any right to participate in decision-making or any direction of business related to
+Tokoin’s services. The section "Risk Factors" below does not include all risks that Tokoin project can
+face. While Tokoin’s team does itheir best to identify main risks, you are advised to do your own risk
+assessment before making a decision on purchasing TOKO Tokens. English language of this
+Whitepaper is the primary oﬃcial source of information about TOKO Tokens, and any information
+contained herein may from time to time be translated into other languages or used in the course of
+written or oral communications with customers, contractors, partners, etc. In the course of such
+translation or communication, some of the information contained herein may be lost, corrupted, or
+misrepresented. In the event of any conﬂicts or inconsistencies between such translations and
+communications and this English language of Whitepaper, the provision of this English language of
+Whitepaper as the original document shall prevail. By continuing reading this Whitepaper and/or by
+making any further steps related to solicitation of information about Tokoin’s ICO and\or the
+purchase of TOKO Tokens, you conﬁrm that you have read, understood, accepted, and agreed with
+the above section "Disclaimer of Liability".
+
+PAGE 4
+
+Abstract
+Technology has shrunk time and space. Hence, businesses are always advancing their
+processes using technology to achieve eﬃciency. Blockchain technology, developed as a
+distributed ledger of transaction, works as a platform to facilitate the distribution of information
+between participants involved by creating a distributed database. Data information distributed
+on the Blockchain is a valuable asset, and blockchain acts as a system that secures the data.
+Every business transaction consists of a set of data, among which are the participants, buyers
+and sellers, orders, payment method, the amount of discount, and detailed payment invoices. In
+an online marketplace, the set of data are stored centrally on the marketplace’s platform.
+Adapting the data in a blockchain-based platform, all information is accurately recorded using
+cryptography and stored in blocks.
+The trading ecosystem is about to implement Tokoin as a highway of data distribution. By
+recording transactions on Tokoin, all participants involved are guaranteed a secure ecosystem
+of blockchain with Tokens as signs of credibility scoring. Every participant will beneﬁt
+depending on his/hero own needs. Partners get relevant data, while users as the downstream
+participants will beneﬁt from access to business expansion and funding opportunities. In the
+transaction stage, Tokoin provides a permanent record of information and transactions. The
+accuracy is guaranteed, for each transaction recorded is traceable and immutable. Tokoin will
+operate as an infrastructure that stores data in a decentralised manner. After MSMEs as users
+input their proﬁle and transaction data properly, they can secure their reputation proﬁle. As a
+note, data from users will be validated as valuable assets. Partners as service providers stack
+Tokens to acquire the data to determine the credibility of their prospective clients.
+We have made an important positive development to welcome more participants in our
+ecosystem. With the proposed ideas and approach to utilise data distribution for credit scoring
+and business growth, Tokoin aims to bring an elevation in the economic growth by leveraging
+and sustaining MSMEs as the powerful driver of a country’s economy in the emerging markets.
+
+PAGE 5
+
+”
+
+The brutal fact is that there is no
+infrastructure for MSMEs to
+leverage their business by
+creating valuable data and digital
+assets to build a valid reputation.
+
+PAGE 6
+PAGE 6
+
+Industry Overview 1.1
+Problems 1.2
+Unavailability of Data 1.2.1
+High Barriers to Funding 1.2.2
+Scaling Up in the Emerging Markets 1.2.3
+The Absence of Reputation 1.2.4
+Challenges 1.3
+Solution 1.4
+Establishment of Business Proﬁle 1.4.1
+Provision of Access to Funding 1.4.2
+Scaling Up through Access to Expansion Opportunities 1.4.3
+Mission 1.5
+
+PAGE 7
+
+1.1. Industry Overview
+Not only known as the economic driving force behind developing countries, MSMEs have also
+become the growth and innovation drivers for global economic expansion. They account for 90
+percent of the world’s registered businesses and have made signiﬁcant contributions to production,
+job creation, exports, and the bridging of income gaps, particularly in developing economies. Having
+unique characteristics and being small-sized, they are highly ﬂexible and better than corporations at
+adapting to the rapidly changing business environment.
+The United Nations (UN) has stated that there is no universally accepted deﬁnition for the Micro,
+Small, and Medium Enterprises. Each country has a different deﬁnition based on many
+characteristics that differentiate them from other business segments. Indonesia classiﬁes MSMEs
+according to the MSME Act of 2008, which is based on their asset possession and annual revenue.
+Accordingly, an enterprise is deemed micro in size if its annual revenue is less than IDR300M
+(~C$28,000), considered small with an annual revenue of between IDR300M and IDR2.5B
+(~C$234,000), and regarded as medium if it generates an annual revenue of more than IDR2.5B2.
+Excluding unregistered entities, MSMEs alone have contributed up to 40 percent of GDP in emerging
+economies and up to 60 percent of total employment. The governments of many countries have
+also put the growth of MSMEs as a top priority, intending to create 600 million jobs needed by 2030
+to meet global demand. However, there is still a question of how existing MSMEs will sustain and
+survive in today’s economy as 40% of formal MSMEs in developing countries have unmet ﬁnancing
+needs to support business growth and operations3.
+Indonesia is one of the countries in Southeast Asia which has huge untapped MSME potential. The
+Ministry of Communication and Information Technology states that Indonesia has 59.2 million
+people currently running MSMEs4. The increased number of MSMEs each year has raised the ‘ease
+of doing business’ indicator and boosted Indonesia’s position from the 120th to 72nd between 2015
+and 2018 according to the World Bank’s rating. The number of Indonesian MSMEs that are operating
+independently keeps growing persistently each year, even when there is neither access to credit
+ﬁnance nor governmental support. Despite the multiplied number, in 2015, only 27.4% of Indonesian
+ﬁrms had a bank loan or a credit line, and only 12.8% of business investment was ﬁnanced by bank
+loans5.
+
+PAGE 8
+
+However, many external factors have hindered MSMEs from living up to their potential. For instance,
+their small-scale operations are vulnerable to deterioration in highly competitive business
+environment where the economies of scale in large production provide a competitive advantage.
+Moreover, they face diﬃculties in gaining support from governmental institutions, and this results in
+high costs of borrowing and, consequently, few resources to draw on during struggling times. To
+make matters worse, MSME-related issues regarding collateral and alignment with international
+ﬁnancial standards complicate lending applications. As a result, established ﬁnancial institutions
+have less experience in lending to small businesses and often negatively perceive this to be a more
+complicated investment than what it ought to be.
+1.2. Problems
+1.2.1. Unavailability of Data
+Leveraging data has become an important part of modern business. Unfortunately, many MSMEs
+are still behind the curve when it comes to understanding the data they have and how the data can
+help them in decision-making. In the case of some MSMEs, this comes out as no surprise.
+Businesses like local restaurants and hair salons are largely oﬄine and/or lack systems to collect
+data. Even when data are available, these are often siloed by the stakeholders in the industry.
+Nothing is shared, so there is no tangible beneﬁt to the industry. In other cases, data are collected
+but not utilized due to a lack of data science expertise. Big Data, as they are popularly known, have
+become dominated by the largest corporations which have the resources to collect, store, and
+process a vast amount of diverse data.
+1.2.2 High Barriers to Funding
+Since the ﬁnancial crisis, banks have grown skeptical of lending to MSMEs. They follow a commonly
+held stereotype that MSMEs do not have enough cash ﬂow to make the loan payments. Overall,
+ﬁnancial inclusion is still low in emerging markets as 70% of MSMEs still lack access to ﬁnancing
+opportunities. This is often encountered because, as relatively new or small businesses, most
+MSMEs lack proper legal documentation, collateral, and/or long-term credit history. Those in rural
+areas also lack physical access to formal ﬁnancial institutions. Even if this access exists, the cost of
+borrowing would be beyond their ability to pay.
+
+PAGE 9
+
+Figure 1.1 Credit Portion of MSMEs VS Corporations
+
+Credit is the lifeline of MSMEs since it helps them cope with unexpected market conditions and
+delays in payments by their forward supply chain, secure working capital for day-to-day operations,
+and face other ﬁnancial dynamics to ensure their business survival.
+Ironically, despite the huge number of MSMEs, the system of national licensing remains complex for
+the MSMEs to get authorization, and more than half of the operating MSMEs are enduring in the
+micro, informal sectors. As micro enterprises, many of them have to resort to individual funding
+when establishing their business. While MSMEs are, in fact, the dominant form of business entities,
+they start their business with a quite small funding and operate with limited facilities.
+
+PAGE 10
+
+Figure 2.2
+
+Figure 1.2 Business Permit Ownership
+
+1.2.3. Scaling Up in the Emerging Markets
+Most MSMEs do not produce enough to take advantage of the economies of scale. They also have
+low order volume, which means that they hold little leverage with suppliers and do no receive
+volume discounts. This results in higher production and transaction costs compared to large
+enterprises. Also, unlike corporations who have whole departments dedicated to procurement and
+ﬁnance, MSMEs have fewer resources to search for better suppliers or appropriate ﬁnancing.
+International expansion is similarly problematic. Large corporations can tap into rich global
+networks and leverage their low production costs to offer competitive products in any market they
+enter. MSMEs, on the other hand, lack these valuable networks and often struggle to compete in
+new markets.
+The government of Indonesia has taken signiﬁcant measures to increase access to ﬁnancial aids
+for MSMEs. Most importantly, these include the requirement for all banks to allocate 20% of their
+business loans to SMEs. Still, this does not solve the credit gap. The chart shows the gap between
+credit portions allocated by different ﬁnancial institutions. There is such a huge difference in
+numbers between how much corporations are able to receive in terms of business loans and the
+loan portion for MSMEs. Access to ﬁnancing is frequently identiﬁed as a critical barrier to growth for
+MSMEs. Creating opportunities for MSMEs in the emerging markets is a key avenue towards
+advancing economic development and reducing poverty. The private and public sectors can better
+address this matter if they have better insights about the magnitude and nature of the ﬁnancial gap.
+
+PAGE 11
+
+The MSME environment has its own characteristics, such as a small number of employees, simple
+procedures of traditional manufacturing, manual methods of recording transactions, and typical
+operations in domestic and retail sectors. MSMEs’ business status is also unseen and unreputable
+due to the unfulﬁlled registration requirements. Indonesia’s business license and permit system is
+fairly complex and leads to Indonesia’s low position (144th) in the World Bank’s speciﬁc Doing
+Business indicator of “starting a business”6.
+1.2.4. The Absence of Reputation
+Given those problems, MSMEs often feel trapped in a cycle of high costs, minimal ﬁnancial support,
+and tough competition. At the root of this cycle is a lack of trust. Suppliers do not trust them, banks
+do not trust them, and, ultimately, customers do not trust them. What is missing is a way for MSMEs
+to build a reputation that engenders trust and opens up access to a wide variety of services that
+promote growth.
+Addressing all the problems above, we need a trusted platform that can give opportunities for
+MSMEs to establish a reputation proﬁle that helps them build trust with banks, suppliers, and
+ﬁnancial service providers. This way, the business growth of MSMEs can be accelerated, while
+simultaneously more job opportunities are opened.
+1.3. Challenges
+A recurring problem for new or existing MSMEs is that they lack the capital needed to boost
+productivity. Because many MSMEs are dependent on labor-intensive operations (and not
+capital-intensive), the limitations of labor-dependent production have hampered their growth.
+Without the capital needed for business expansion, the economies of scale may seem unattainable
+for small-scale businesses that are struggling to stay in the competitive market. This can and will
+negatively affect Indonesia’s economy that is dependent on those MSMEs.
+1.4. Solution
+Tokoin ﬁnds an opportunity to create a trusted and reputable proﬁle for MSMEs by assembling
+non-ﬁnancial data from MSMEs, such as the data submitted in the KYC protocol to be developed
+into a Digital Business ID. All the business data from daily operations which are previously scattered
+will also be transformed into a Digital Ledger to strengthen the digital proﬁle of each business and
+grant it a solid reputation.
+
+PAGE 12
+
+1.4.1. Establishment of Business Proﬁles
+Tokoin platform gives MSMEs the opportunity to establish a reputation proﬁle that helps them build
+trust from banks, suppliers, and other service providers. It is a solution that levels up the playing
+ﬁeld so that MSMEs can get access to services that were previously unavailable. MSMEs which, for
+example, struggle to secure loans will now have a solution that allows them to approach banks with
+conﬁdence. Service providers, in turn, will be given access to the reputation proﬁles of a diverse
+network of trusted MSMEs. They will be able to check these MSMEs’ reputation data at the tap of a
+button to help them make more timely and informed decisions. Additionally, with the revenue
+generated from data requests going directly to the MSMEs, it will be a win-win solution for both
+sides.
+1.4.2. Provision of Access to Funding
+One of the main barriers that most MSMEs face to survive in today’s economy is funding, while it is
+actually the power source for MSMEs to enable better productivity and answer the call for business
+expansion. Apparently, there are several terms and conditions set by the banks which MSMEs, in
+most cases, are not able to fulﬁll. One of them is credibility. MSMEs with lack of business proﬁles
+have been neglected in the emerging markets. To illustrate, start-ups are one of the business
+sectors that sprout recently in the society, and most of them were established just recently. Thus,
+they commonly have less than 5 years of operation and experience.
+For that short duration of running time, most start-ups and MSMEs do not have the perfect
+credibility to fulﬁll the requirements to apply for a loan. In order to gain the credibility required by
+banks’ regulations, MSMEs need to complete their credentials. The document veriﬁcation referred
+above is a business proﬁle veriﬁcation, a standard process which requires MSMEs to comply with
+the details.
+1.4.3. Scaling Up through Access to Expansion Opportunities
+Through a blockchain network, information data containing business transactions can be veriﬁed in
+the ecosystem. Tokoin utilizes data recorded in the blockchain network as a valid metric for building
+a business reputation. In other words, this reputation will be built based on a client’s buying behavior
+in trading activities, and this information will become an important part of the client’s proﬁle. With
+this mindset, Tokoin is able to transform an accurate record of data into a valuable asset that
+MSMEs can use as a leverage to make up for their lack of conditions that can satisfy lending
+requirements, such as credibility scoring. This will let MSMEs as users get access to the ﬁnancial
+services needed to achieve business growth.
+
+PAGE 13
+
+OUR MISSION is to facilitate trustworthy
+data exchanges in a speciﬁed platform so
+that MSMEs will be able to meet their needs
+for ﬁnancing and business services without
+complicating intermediaries. The more
+prosperous MSMEs’ economy will lead to
+the sustainability of a country’s economy.
+
+PAGE 14
+
+Overview 2.1
+Value Proposition 2.2
+Building a Digital Identity for MSMEs that represents a valid reputation. 2.2.1
+Accommodating MSMEs to utilize their data to create more funding opportunities. 2.2.2
+Providing growth opportunities for MSMEs by bringing business partnerships. 2.2.3
+Characteristics of Tokoin 2.3
+Digital Identity 2.3.1
+Digital Ledger 2.3.2
+Ecosystem 2.4
+Participants’ Roles 2.4.1
+Participants’ Functions 2.4.2
+Business Flow 2.5
+
+PAGE 15
+
+2.1. Overview
+Tokoin is a platform that establishes the identity of MSMEs as an acceptable reputation in the
+business ecosystem. Tokoin presents a better and modern business ecosystem that offers valuable
+partnerships to address inclusive growth. As a platform, Tokoin captures and processes business
+information from the users as a valuable asset, which, in our ecosystem, translates into a marker for
+trusted reputation of the MSMEs as our users. This enables them to access previously inaccessible
+ﬁnancial business services from providers, which act as our partners. Therefore, Tokoin links the
+business and ﬁnancial sectors to launch a scheme of ﬁnancial inclusion. The partnerships formed in
+Tokoin will subsequently contribute to the national economic growth.
+2.2. Value Proposition
+Tokoin: A trusted solution
+Tokoin offers a trusted solution that can help MSMEs in solving the problems they are facing in three
+ways.
+2.2.1. Building a Digital Identity for MSMEs that Represents a Valid Reputation
+Business proﬁles, activities, and buying behaviors are key elements for SMEs to generate valuable
+assets on Tokoin’s platform. Tokoin’s platform works by compiling data, starting from the KYC
+process, routine transactions, records of behavior, to the creation of credibility for Tokoin’s users.
+2.2.2. Accommodating MSMEs to Utilize Their Data to Create More Funding Opportunities
+Tokoin provides a suitable technology infrastructure that records and manages data of transactions
+and leverage the data by putting value into them.
+2.2.3. Providing Growth Opportunities for MSMEs by Bringing Business Partnerships
+Tokoin’s partnerships with various institutions allow users to access the services they need. On the
+users’ side, Tokoin will allow them to build their reputation and credibility by keeping track of their
+behaviors, so they will be able to reach any ﬁnancial institutions for the purpose of business
+expansion. Meanwhile, ﬁnancial institutions will beneﬁt from an effective buyer acquisition process
+by attributing to the business credit reputation of Tokoin’s users.
+
+PAGE 16
+
+2.3 Characteristics of Tokoin
+2.3.1. Digital Identity (Business Proﬁles)
+To address MSMEs’ needs for reputable and valid identities, Tokoin utilizes the digital sector as a
+facility and privilege. By obtaining a Digital Business ID, MSMEs are able to record and keep track
+of their business processes in a digital ledger, while simultaneously distributing the credit scoring
+that they are building to other partners in the ecosystem of Tokoin. This is the decentralized nature
+of the blockchain technology, in which there is no central point of authority that records the data.
+Applying the blockchain technology in a business process, Tokoin aims to create an ecosystem
+which is powered by data distribution and concurrently beneﬁtting the participants.
+
+Brand or service providers
+can access users’ proﬁles
+
+Brand or service providers are
+able to see business reputation
+
+Brand or service providers are
+able to see real-time business transactions
+Brand or service providers are
+able to see aﬃliate networks
+
+PAGE 17
+
+2.3.2. Digital ledger (data)
+All of the transaction data from business operations by MSMEs as our users are going to be kept
+digitally and simultaneously in a computerized record called a digital ledger. Any information,
+starting from the KYC (which is to identify the initial business proﬁle) to more detailed information,
+such as cash ﬂow, sales and earnings, and routine business purchases, will be recorded as valuable
+assets. These assets will also be compiled, processed, and given value according to the depth of
+the information contained. The value embedded to the data can serve as an indicator of credit
+scoring that builds the reputation related to a business’ proﬁle. With the underlying technology of
+our platform, the data in the digital ledger are possible to be distributed in our ecosystem to
+generate interrelationships between all participants.
+
+2.4. Ecosystem
+These three circles consist with Tokoin
+partners classiﬁcation, chart showing
+the interaction for each participant
+inside tokoin platform
+Financial intermediaries:
+●
+Banks
+●
+Multiﬁnance
+Supplier:
+●
+Brands
+●
+Companies
+●
+Logistics partners
+Service Provider:
+●
+Consulting
+●
+Property Agent
+●
+Advertisers
+
+Tokoin ecosystem consists of an order of arrangement to convey the experience of distributing
+values from one participants to another. Each participant holds a determining role in order to keep
+the ecosystem fruitful to every business involved. The interaction between Tokoin user and partners
+is enabled by the blockchain technology to ensure every participant with security to every
+transaction and a more trustworthy relationship, resulting to valuable partnership between every
+partakers. In the business activity of Tokoin. MSME as the data provider, submit their transaction
+data activity through Tokoin dApp. Tokoin process and validate the data into valuable asset.
+Partners can acquire the data by staking Toko tokens.
+
+PAGE 18
+
+2.4.1. Participants’ Roles
+2.4.1.1. MSMEs
+Micro, Small, and Medium Enterprises are at the core of Tokoin’s ecosystem. To start using the
+Tokoin’s platform, MSMEs will create a business account as their Digital Business Identity. As
+Tokoin’s users, their activities on Tokoin’s platform mainly revolved around recording their business
+activities through Tokoin’s app which can be accessed via mobile phones. These business records
+are then processed in a Digital Ledger and compiled in their Digital Business ID.
+The transaction data that they record become the fuel to run the ecosystem. For every set of data
+recorded, they earn TOKO Tokens as a direct incentive. The amount of the TOKO Tokens collected
+determines their credit scoring. Once their Digital Business ID reaches a certain amount of credit
+scores, they are able to access business facilities provided by Tokoin’s partners.
+2.4.1.2. Financial Intermediaries
+In Tokoin, banks can accord their credit allocation for MSMEs. As loan providers, banks are the
+most likely to serve clients who have a good reputation. Tokoin aims at providing a reputation
+establishment by capturing the MSMEs’ transaction data to build their credit scoring. In Tokoin’s
+ecosystem, banks are Tokoin’s partners which accommodate the ecosystem with their business
+facilities for MSMEs. Financial intermediaries can sort their potential clients from Tokoin’s users by
+accessing the data containing KYC materials and transaction history on Tokoin’s platform.
+2.4.1.3. Suppliers
+Tokoin will act as a data custodian partner in online and off-line transactions to generate a data
+transaction ledger. Suppliers can also access the data containing KYC materials and transaction
+history on Tokoin’s platform to get insights about the characteristics and behaviours of the MSMEs
+as business buyers. Accordingly, suppliers and brand companies can market their products to the
+targeted business buyers.
+2.4.1.4. Service Providers
+In helping MSMEs, Tokoin is also supported by partners who provide ﬁnancial and business
+services, such as business loans and credit, insurance services, logistic, shipping, and
+warehousing. As Tokoin’s users, MSMEs may be able to choose any relevant business services
+based on their preferences and development plan. On the side of service providers, they are able to
+closely monitor the MSMEs by accessing their data and learning the overview about their potential
+clients.
+
+PAGE 19
+
+Indirect Participants
+As the platform ecosystem expands, this will engage more participants to collaborate to the
+platform usage and make use of the data accumulated in the platform.. Indirect participants are
+any potential institutions that wish to access the data generated in the Tokoin platform. Research
+companies, government institutions can access the data through Tokoin platform also by staking
+amounts of TOKO token, but without providing services for MSME. Advertisers can place their
+targeted advertisements and promotions for the platform user also by exchanging amounts of
+TOKO token. The indirect participants do not contribute directly for the MSME, but the TOKO token
+that they exchanged for the data will be reserved for user incentives.
+Data Miners
+Data miners act as the data veriﬁer that responsible for verifying raw data input by MSME. Tokoin
+will act as data veriﬁer in the ecosystem.
+2.4.2. Participant Function
+Data Supplier
+MSME acts as the data provider in this ecosystem. Their role is to submit and record their
+transaction data activity. The Data Supplier can provide data from online transaction which is
+through the Tokoin app, or provide oﬄine transaction data through Tokoin POS.
+Data User
+This refers to any institutional participant that wish to obtain the transaction information stored in
+the Tokoin ecosystem for their business purposes. As industry players data user can embrace
+wide range of use and beneﬁt from the data obtained, such as; client appraisal to scout potential
+clients, market prediction and product dispersion possibilities, market characteristics and many
+other tailored usage based on their criteria. The industry players, commercial banks and insurance
+companies, brand companies, investment companies and property developers are the direct
+participants that contributes to the ecosystem by staking the TOKO token to access the data from
+MSME.
+
+PAGE 20
+
+2.5 How to get a Digital Identity
+Online transaction process:
+●
+MSMEs create a business
+account on Tokoin’s app.
+●
+Tokoin performs a KYC
+procedure to validate MSMEs’
+proﬁle details.
+●
+Once the KYC is successful,
+MSMEs earn an oﬃcial Digital
+Business Identity from Tokoin.
+●
+MSMEs use their Digital
+Business ID to log in and carry
+out transactions on Tokoin’s
+aﬃliated marketplace.
+●
+By doing transactions using
+their Digital Business ID,
+MSMEs will automatically
+maintain their Digital Ledger
+and create transaction records.
+
+Step 1 Registration (Basic Information)
+●
+●
+●
+●
+
+MSMEs ﬁll in basic information, including name, ID card number, driving license, place of birth,
+and date of birth.
+Information on business location is also needed.
+To complete the ﬁrst step of registration, MSMEs need to upload readable pictures of
+documents, such as ID card and driving license.
+MSMEs proceed to the next step after those ﬁles are successfully uploaded.
+
+Step 2 Registration (Basic Business Information)
+●
+●
+●
+●
+●
+
+MSMEs ﬁll in the name of the company
+They need to select the type of industry based on Tokoin’s classiﬁcation. If they cannot ﬁnd
+one, they can add a new type by choosing “others”.
+MSMEs inform their business scale based on business GMV.
+MSMEs add a business address to explain information on business coverage
+Details on phone number and e-mail address will be input last before proceeding to the last
+step of the business KYC.
+
+Step 3 Registration (Business Information)
+●
+●
+●
+●
+
+MSMEs create a business account on Tokoin’s app.
+Tokoin performs a KYC procedure to validate MSMEs’ proﬁle details.
+Once the KYC is successful, MSMEs earn a legitimate Digital Business Identity from Tokoin.
+MSMEs use their Digital Business ID to log in and carry out transactions on Tokoin’s aﬃliated
+marketplace.
+
+PAGE 21
+
+How to Build Business Credibility (Off-line)
+●
+●
+
+●
+
+●
+
+●
+
+MSMEs visit a Tokoin’s kiosk to
+register manually.
+Tokoin performs a KYC
+procedure to validate MSMEs’
+proﬁle details.
+Once the KYC is successful,
+MSMEs earn an oﬃcial Digital
+Business Identity from Tokoin.
+MSMEs use their Digital
+Business ID to log in and carry
+out transactions with other
+Tokoin’s users by using POS or
+QR scan.
+By doing transactions using
+their Digital Business ID,
+MSMEs will automatically
+maintain their Digital Ledger
+and create transaction records.
+
+How to Build Business Credibility (Online)
+●
+●
+
+●
+
+●
+
+●
+
+MSMEs create a business
+account on Tokoin’s app.
+Tokoin performs a KYC
+procedure to validate
+MSMEs’ proﬁle details.
+Once the KYC is successful,
+MSMEs earn an oﬃcial
+Digital Business Identity
+from Tokoin.
+MSMEs use their Digital
+Business ID to log in and
+carry out transactions on
+Tokoin’s aﬃliated
+marketplace.
+By doing transactions using
+their Digital Business ID,
+MSMEs will automatically
+maintain their Digital Ledger
+and create transaction
+records.
+
+PAGE 22
+
+2.6 How to Get Data
+2.6.1 Online
+
+BUSINESS RELATION
+To engage MSMEs and sellers, Tokoin covers the entire transactions of MSMEs using online sourcing
+from the point of product order to payment. As shown in the chart below, various events lead to data
+collection at each stage. On the marketplace’s environment, Tokoin captures all completed activities as
+every transaction between an online seller and an MSME is recorded. The marketplace, acting as
+Tokoin’s partner, will update the corresponding data upon each occurrence.
+
+Stage
+
+Data Collected
+
+Data Providers
+
+Frequency
+
+KYC
+
+1.
+2.
+3.
+4.
+
+Company’s name
+Business sector
+Store’s location
+Number of employees
+
+MSME
+
+Once
+
+Transaction
+
+1.
+2.
+3.
+4.
+5.
+
+Product type & amount
+Product sourcing & amount
+Preferred shipment
+Payment details
+Delivery details
+
+MSME,
+Marketplace
+
+Periodical
+
+Operation
+
+1.
+2.
+3.
+4.
+
+Consumer type
+Product type & amount
+Selling price
+Shipment
+
+MSME
+
+Periodical
+
+PAGE 23
+
+2.6.2 Off-line
+
+BUSINESS RELATION
+To engage off-line distributors on Tokoin’s ecosystem, Tokoin covers the entire transactions of
+MSMEs using online sourcing from the point of product order to payment completion with the POS
+device and mobile app. As shown in the chart below, various events lead to data collection at each
+stage. All participants will record their activities using the tools provided. While MSMEs can submit
+their data via the mobile app, off-line distributors will submit transaction data using the POS device.
+
+Stage
+
+Data Collected
+
+Data Providers
+
+Frequency
+
+KYC
+
+1.
+2.
+3.
+4.
+5.
+
+Company’s name
+Business sector
+Business type
+Store’s location
+Number of employees
+
+MSME
+
+Once
+
+Transaction
+
+1.
+2.
+3.
+
+Product type & amount
+Product sourcing
+Payment details
+
+MSME,
+Distributors
+
+Periodical
+
+Operation
+
+1.
+2.
+3.
+4.
+
+Consumer type
+Product type
+Selling price
+Shipment
+
+MSME
+
+Periodical
+
+PAGE 24
+
+25
+
+TOKO Token 3.1
+Evaluation Framework 3.1.1
+TOKO Incentive Pool 3.2
+
+PAGE 25
+
+3.1 TOKO Token
+Tokoin’s platform issues TOKO on the blockchain as a means of interaction between participants.
+TOKO is used as an incentive when a participant in the ecosystem submits transaction data and
+validates the data. Also, it is a prequisite for using certain services on TOKO’s platform, including
+the business insights service provided by Tokoin. For service providers, TOKO is used for accessing
+advertisements and transaction data of MSMEs. With more and more participants using Tokoin’s
+services, the participants will have to stake and/or use the Tokens to use Tokoin’s platform, and this
+later raises the price of TOKO.
+TOKO is generated by ERC-20 tokens and can be converted onto certain main net protocols if the
+team decides that it is necessary.This way, TOKO will be converted into new tokens based on the
+new protocol.
+As Utility Tokens, the usage of TOKO Tokens is supposed to be within the ecosystem. MSMEs use
+TOKO Tokens to build credit scoring that can be used later to access business services. Partners,
+such as ﬁnancial institutions, use TOKO Token as a prerequisite for accessing MSMEs’ data and
+information.
+
+PAGE 26
+
+27
+
+FINANCIAL
+INTERMEDIARIES
+
+Receive
+TOKO
+
+Pay TOKO
+
+Data
+subscription
+
+Loan issue
+
+Targeted AD
+Service
+
+Transaction
+Data
+
+Pay TOKO
+
+Receive TOKO
+Pay TOKO
+
+Receive TOKO
+
+BUYER
+
+Provide Services
+Receive
+TOKO
+
+Targeted AD
+Service
+
+Pay TOKO
+
+Receive
+Services
+
+SERVICE
+PROVIDER
+
+Group
+buying
+
+SELLER
+
+1.
+
+Tokoin’s Platform
+Tokoin is an autonomous system that manages data distribution and provides rewards for data
+contribution within the Tokoin’s ecosystem. Tokoin is also an incentive tool that determines the
+value regarding to an activity.
+
+2.
+
+Buyers
+MSMEs as product buyers contribute as data providers by submitting transaction information into
+Tokoin’s platform. Data that they provide include KYC information, transaction details, and
+business operation details.
+
+3.
+
+Financial intermediaries
+As one of the main actors on Tokoin’s platform, ﬁnancial intermediaries will be able to capture
+reputable MSMEs’ digital identity to perfectly tap the real market by sorting MSMEs’ personal
+rating and type of services they are looking for from ﬁnancial intermediaries, e.g. amount of loan.
+
+4.
+
+Sellers
+They are recognized as product sellers and distributors that market their products to MSMEs. By
+paying for TOKO Tokens, sellers obtain targeted advertising on Tokoin’s platform.
+
+5.
+
+Service Providers
+Providing business facilities for MSMEs, service providers can also place their advertisements and
+offers on Tokoin’s platform, speciﬁcally targeting the MSMEs that meet their criteria.
+
+PAGE 27
+
+3.2 TOKO Incentive Pool
+The participants who contribute their activities in Tokoin platform will receive TOKO as an incentive.
+These incentive will be rewarded from Tokoin incentive pool, and the incentive pool will be gathered
+from additional token issuance, platform usage fee, and reserve pool.
+
+INFLATION
+
+PLATFORM
+FEE
+INCENTIVE
+POOL
+
+PARTICIPANTS
+
+RESERVE
+POOL
+
+To reward incentives for platform participants, Tokoin can issue additional tokens, which will only be
+used as rewarding incentives. This means that only participants who help the growth of the platform
+will receive the rewards. The inﬂation rate will be less than the average inﬂation of the world so that
+we can prevent token depreciation.
+Also, a certain percentage of platform fee will be accumulated in the incentive pool. Therefore, any
+revenue earned by the participants will be partially shared to the participants as well. This will also
+reduce the additional tokens issued.
+Lastly, tokens from the reserve pool will be used to reward the participants. It will gradually decrease
+as the incentive pool will be supplied by platform fee and inﬂations.
+Inﬂation rate will follow the formula below for supplying incentive pool.
+
+PAGE 28
+
+Technological Aspects 4.1
+Features 4.2
+Lending Marketplace 4.2.1
+Crowdlending 4.2.2
+Cross-merchant Loyalty Program 4.2.3
+Product Survey/Voting 4.2.4
+Invoice-based Financing 4.2.5
+Installment Buying 4.2.6
+Group Buying 4.2.7
+Products 4.3
+POS 4.3.1
+dApps 4.3.2
+
+PAGE 29
+
+4.1 Technological Aspects
+Tokoin uses a permissioned blockchain for sharing private data in a distributed network. The
+requirement is for data to replicate across multiple independent nodes in a controlled way. The data
+must be immutable, encrypted, and available for users to query and access.
+Most blockchains are designed purely for value transfer and not usually well-suited for data storage.
+They have limited transaction throughput, limited data capacity, and lacking interfaces for querying
+the ledger content. A few solutions can be done by adopting hashes (IPFS) and pointers
+(Multi-Chain) with data stored in ﬂat ﬁles or isolated databases.
+Tokoin requires a larger quantity of data to be cryptographically secured while being replicated to
+the participants in its distributed network.
+Tokoin adopts the blockchain in a novel way. It embodies design principles of a replicated database
+model for storing credit data in a high-throughput data store. Tokoin uses DynamoDB for its storage
+layer in a NoSQL database. This allows for ﬂexible JSON data models for hierarchy and
+classiﬁcation. Importantly, this database implementation allows for querying across large data sets.
+
+PAGE 30
+
+Since Tokoin will operate in an environment without a centralized control, a consensus mechanism
+to coordinate data replication between nodes with low latency is required. We use Tendermint for
+the underlying consensus mechanism to ensure Byzantine Fault Tolerance (BFT) across Tokoin’s
+network. By design, Tendermint runs validators on each node for the consensus of broadcast
+transactions. As this middleware focuses only on consensus, it can handle transaction rates of up
+to thousands of transactions per second.
+In order for Tendermint to interact with the data store, we adopt the ABCI interface to interconnect
+the consensus network to the database engine. ABCI is a messaging protocol coordinating the
+requests (business logic) received from Tokoin’s network and applying them to the database (e.g.
+add record, append record).
+Tokoin must guarantee that records are immutable and non-fungible. To attach all submitted data to
+an owner, we leverage BigchainDB for its interfaces to the data layer and strict conditions on the
+ownership of the data. It enforces rules to ensure that data are cryptographically signed prior to
+being inserted into the database. This also prevents malicious interference with one node and does
+not affect the rest of the network.
+• Inter Planetary File System (IPFS) IPFS is a distributed ﬁle system protocol to connect all
+computing devices with the same system of ﬁles. It can access, manage, and store ﬁles, as well as
+tracking versions over time. IPFS also accounts for how those ﬁles move across the network.
+• DynamoDB Amazon DynamoDB is a fully managed NoSQL database service that provides fast and
+predictable performance with a seamless scalability. DynamoDB allows oﬄoading the
+administrative burdens of operating and scaling a distributed database so that users do not need to
+worry about hardware provisioning, setup and conﬁguration, replication, software patching, or
+cluster scaling. Also, DynamoDB offers encryption at rest, which eliminates the operational burden
+and complexity involved in protecting sensitive data.
+
+PAGE 31
+
+4.2 Features
+4.2.1 Lending Marketplace
+Tokoin can become a matchmaker between MSMEs that need funds and Banks which will give
+Lending Solutions.
+4.2.2 Crowdlending (Debt Crowdfunding)
+Crowdlending works in almost the same way as Lending Marketplace Solution, except that the
+source of fund will come from multiple Investors.
+4.2.3 Cross-merchant Loyalty Program
+An MSME company (as a merchant) can give rewards to other companies (as customers) on
+Tokoin’s ecosystem in the form of movable digital assets called TOKO Points. TOKO Points can be
+used to redeem discount vouchers for not only the issuing Merchant but also other Merchants on
+the ecosystem.
+4.2.4 Product Survey/Voting
+Brands as Tokoin Partners can conduct product surveys by broadcasting product questionnaires on
+Tokoin’s ecosystem. The blockchain will ensure the authenticity of each participant to avoid the
+same participant ﬁlling in more than once (double voting) by applying a Unique Private Key for each
+participant.
+4.2.5 Invoice-based Financing
+This solution will help MSMEs when experiencing late payments from customers and smoothen
+their business cash ﬂow. MSMEs can use unpaid invoices as collaterals to get funds. This feature
+will involve at least three parties: Invoice Issuer (MSMEs that need funds), Invoice Payer (Buyer), and
+Bank/Creditor.
+4.2.6 Installment Buying
+This solution facilitates MSMEs who need to buy products/services but have limited funds at that
+time. Based on a history of trading activities (also recorded on the blockchain) as a basis for
+evaluating the reputation of MSMEs, Merchants on the ecosystem can provide installments that are
+more ﬂexible than a one-time payment in advance.
+4.2.7 Group Buying
+Also known as collective buying, this solution offers products and services at signiﬁcantly reduced
+prices by applying quantity discount under the condition that a minimum number of buyers would
+make the purchase. This only applies to buyers and sellers who have joined Tokoin’s ecosystem.
+
+PAGE 32
+
+4.3 Products
+4.3.1 POS
+The Point of Sale (POS) or Point of Purchase (POP) is where a retail transaction is completed.
+Through POS, merchants input and clarify the MSMEs’ purchase transactions as the system records
+it in a Digital Ledger. Tokoin’s POS system is a device released by Tokoin’s platform. It functions to
+keep track of transactions done by a Digital Business ID. The speciﬁc use of Tokoin’s POS is to
+capture off-line purchases. Tokoin will provide this device for off-line seller partners, such as
+distributors and wholesalers. Data, such as product type, amount, price, buying intensity, payment
+details, and other relevant information, will be recorded through this POS in a Digital Ledger which
+belongs to a speciﬁc Digital Business ID.
+4.3.2 dApp
+The activities on our platform’s ecosystem are generated in a blockchain-based digital system.
+Through a decentralized computer application, the data captured on Tokoin’s platform are stored in
+a distributed ledger. Every set of data stored on Tokoin’s platform through the dApp is secured, and
+this is enabled by the blockchain’s characteristics of being secure, trusted, and immutable.
+When users submit their data, it will store the data decentrally, meaning that there is no single point
+of authority in the data ownership. Therefore, each set of data belongs to each provider. This
+characteristic of the platform allows MSMEs as data providers to gain proﬁt in the form of “data
+monetization”. Tokoin’s app also allows MSMEs to build their credibility through records of
+transactions.
+
+PAGE 33
+
+Roadmap 5.1
+Token Distribution 5.2
+Team 5.3
+
+PAGE 31
+PAGE 34
+
+5.1 Roadmap
+Q4 2018
+●
+Selling Tokoin Tokens through Private Sales and Pre-Sales
+●
+Development & distribution of Tokoin Wallet
+Q1 2019
+●
+Grand Launching of Tokoin
+●
+Selling Tokoin Tokens through crowd sales
+Q2 2019
+●
+On-board Blockchain Advisor for Tokoin’s ecosystem
+●
+Launching of POC on TestNet
+Q3 2019
+●
+On-board Warehousing Partners for Tokoin’s ecosystem
+●
+On-board Financial Partners for Tokoin’s ecosystem
+●
+Expansion of local operations to 10 tier-one cities in Indonesia
+Q4 2019
+●
+Launching of Data Reputation engine
+●
+Launching of Data Visualization platform
+●
+Launching of Partner Suite platform
+●
+On-board 50,000 users on Tokoin’s ecosystem
+Q1 2020
+●
+Launching of dApps on MainNet
+●
+Launching of Tokoin POS system
+●
+Launching of Data Exchange platform for Token stacking and loyalty program
+●
+Expansion of local operations to all capital cities in Indonesia
+●
+On-board 10,000 users in Tokoin’s POS system
+Q2 2020
+●
+Launching of Tokoin’s POS System
+●
+Expansion of pilot hyper-local operations to Thailand
+●
+On-board 1000 users on Tokoin’s ecosystem in the regional hyper-local market
+●
+Development of AI Solutions for Tokoin to scale up Operations
+Q3 2020
+●
+Expansion of hyper-local operations to Vietnam and the Philippines
+●
+On-board 500,000 users on Tokoin’s ecosystem in the Indonesian market
+●
+Expansion of local operations to 10 top tier-one cities in Indonesia
+●
+On-board 50,000 users on Tokoin’s ecosystem
+Q4 2020
+●
+Deployment of AI as part of Business Intelligence Capabilities
+●
+Introduction of Forecast & Prediction platform into Tokoin’s ecosystem
+Q1 2021
+●
+Integration of AI solutions for Financing and Logistics partners
+Q2 2021
+●
+Expansion of hyper-local operations to other potential emerging markets
+●
+On-board 10,000 users on Tokoin’s hyper-local ecosystem
+
+PAGE 35
+
+5.2 Token Distribution
+
+5.2.1 Token Allocation
+
+ICO Contributors
+
+Intended for Private Sale, Pre-sale, and Public Sale contributors. Private and
+Pre-sale contributors will be awarded bonus Tokens for their early support,
+but these will be subject to vesting periods.
+
+Industry Fund
+
+Required to drive platform adoption, ongoing platform use, and engagement
+over time through incentives for key partners, producers, resellers,
+distributors, data buyers, data sellers, and contributors (e.g. via bounties and
+airdrops). These Tokens may also be used to drive broader industry
+initiatives and partners. Tokens are subject to a maximum release of 10% in
+a single quarter (e.g. for large initiatives, promotions, or campaigns).
+
+Treasury
+
+Used to support the business on an ongoing basis, i.e. treasury, liquidity
+management, operations, and administrations. Up to 20% will be released
+initially to fund liquidity management. The remaining will be locked for 24
+months with a maximum release of 20% in a single month.
+
+Team & Early
+Contributors
+
+Distributed to Tokoin’s team and early contributors. Tokens will be subject to
+vesting periods.
+
+Advisors
+
+Distributed to advisors that are critical for the project’s success. Tokens will
+be subject to vesting periods.
+
+PAGE 36
+
+5.2.2 Allocation of Funds
+
+Product
+Development
+
+Funds will be utilized to develop Tokoin’s ecosystem infrastructure, mainly on
+the top of blockchain technology. Tokoin adopts the blockchain in a novel way.
+It embodies design principles of a replicated database model for storing credit
+data in a high-throughput data store. Tokoin uses DynamoDB for its storage
+layer in a NoSQL database. This allows for ﬂexible JSON data models for
+hierarchy and classiﬁcation. We use Tendermint for the underlying consensus
+mechanism to ensure Byzantine Fault Tolerance (BFT) across Tokoin’s
+network. By design, Tendermint runs validators on each node for the
+consensus of broadcast transactions. In order for Tendermint to interact with
+the data store, we adopt the ABCI interface to interconnect the consensus
+network to the database engine. Extensive technology usage is driven to
+ensure Tokoin’s mature infrastructure.
+
+Marketing &
+Business
+Development
+
+Funds will be utilized to drive platform adoption, ongoing platform use, and
+engagement over time through incentives for key partners, producers, resellers,
+distributors, data buyers, data sellers, and contributors (e.g. via bounties and
+airdrops). The Business Development’s role shall assist Tokoin in acquiring
+new customers and selling additional services to existing clients.
+
+Operations
+
+Funds will be utilized for operational expenses, i.e. salaries (full-time and
+part-time employees), rental expenses (working spaces and cloud services),
+and consultants/advisors fees (legal and ﬁnaniale work).
+
+Reserve
+
+Funds will be utilized for unexpected overhead in any operational and
+marketing expenses. Unutilized reserve funds would be used for Token
+repurchase program, hence indirectly disbursing funds back to Token holders
+by price appreciations.
+
+PAGE 37
+
+5.3 Team
+Team & Advisor
+REINER RAHARDJA
+linkedin.com/in/lordreiner
+
+WELLY SALIM
+linkedin.com/in/wellysalim/
+
+CEO, CO-Founder
+● Indonesia’s Top 2
+successful young
+entrepreneurs under 40
+● Accelerating Indonesia’s
+economy in various MSME
+development using his
+non-proﬁt organization,
+The Accelerator
+● Has diversiﬁed portfolio in
+some of Indonesia’s major
+industries.
+● His holding group consist
+of multi industries
+portfolio, eg: Andesite
+Mining, General Trading,
+Fishery and Maritime,
+Corporate merchandising,
+Retail Product,
+Agribusiness
+
+CTO
+●
+Experienced Tech Leader with
+15+ years of experience
+●
+Former VP of Engineering
+and Operation of
+Booster.com, acquired by
+CustomInk
+●
+Former Iteration Manager of
+MYOB
+●
+Former Tech lead of
+Mig33.com, helping to get
+them publicly listed in ASX
+●
+Founder of early social
+networks in SE Asia
+(Emeimei.com, friendx.com,
+ekawan.com), acquired by
+NX, listed in MYX
+●
+University of Strathclyde
+(MBA in Strategic
+Management)
+
+Eddy Christian Ng
+linkedin.com/in/eddy-christi
+an-ng-74593520/
+COO
+● Co-Founder of
+livaza.com
+● 10+ years experience in
+Business development
+and Banking
+
+PAGE 38
+
+Niko Tanadi
+linkedin.com/in/nikotanadi/
+
+Adi Darda Gaudiamo
+linkedin.com/in/adidarda
+
+Project Manager
+● 10 years of experience in
+Technology Consulting
+● An expert in Blockchain
+investment
+
+Head of Creative
+● 23 years of experience in
+content and creative ﬁeld
+● Former head of creative
+in Ralali.com
+
+Ignasius Michael
+linkedin.com/in/ignasiusmich
+ael
+Generalist Manager
+● 3 years of experience in
+Stock and Futures
+Market
+● Former Finance
+Specialist in Ralali.com
+
+Oktaﬁa Putri
+linkedin.com/in/oktaﬁaputri
+Community Manager
+● 4 years of experience in
+international relations &
+event management
+system ﬁelds
+● Former Operations
+Manager at
+PouchNATION Indonesia
+
+Mutia Anisa
+linkedin.com/in/mutiaanisara
+hma/
+
+Syifa Mutiara Putri
+llinkedin.com/in/syifamutiarapu
+tri/
+
+Graphic Designer
+● 2 years of experience in
+graphic designing
+● Former Design &
+Branding Executive at
+Mobilkamu.com
+
+Event Coordinator
+● 3 years of experience in
+live event industries
+● Former Business
+Executive at ST22
+Consulting
+
+Stephanus Andreas
+linkedin.com/in/stephanusan
+dreas/
+Operations Executive
+● Bachelor of Accounting,
+Kwik Kian Gie
+● Operational and ﬁnance
+at Tokoin
+
+PAGE 39
+
+40
+
+DAHLAN ISKAN
+linkedin.com/in/dahlaniskan
+
+TIAGO ALVES
+linkedin.com/in/tiagoalves
+
+Advisor
+● One of Indonesia’s top 100
+Forbes-listed entrepreneurs
+● Indonesia’s media mogul,
+Founder and Former CEO of
+Jawa Pos Group
+● Former Minister of the
+country’s State-owned
+enterprises (BUMN)
+● Former Minister of the
+country’s State-Owned
+Enterprises (BUMN)
+
+Advisor
+● VP Asia Paciﬁc at
+Aptoide
+● 12 years at Portugal
+Telecom
+
+Richard Yoon
+linkedin.com/in/richard-yun
+Advisor
+● Senior Financial Analyst,
+Cisco Systems, Inc.
+● CFO of Exio
+Communications., Inc.
+
+PAGE 40
+
+HongZhuang Lim
+linkedin.com/in/hongzhuan
+g-lim
+Project Consultant
+● CEO of ShuttleOne
+● Former Managing
+Director of Pac-Fung
+Agora Pte Ltd.,
+
+Suyong Park
+linkedin.com/in/suyongpark
+/
+
+Joseph Aditya
+linkedin.com/in/josephadit
+ya
+
+Project Consultant
+● CEO of Block Crafters
+Co., Ltd.
+
+Advisor
+●
+Founder of Ralali.com
+●
+Successful
+entrepreneur
+●
+12+ years of
+experience in B2B
+and supply chain
+industry
+
+BUSINESS
+PARTNERS
+Block Crafters Capital
+D.Street
+Refereum
+Ralali.com
+PasarPolis
+Sahabat UMKM
+Tomochain
+
+PAGE 41
+
+Block Crafters Capital is a professional group of experts in the ﬁeld of blockchain, start-ups, and
+ﬁnance. This group is our bridge to reach the largest possibilities and opportunities in the
+crypto-currencies world. Based on their experience, Tokoin can project a bigger adoption in the
+larger market. The strategies that we build with Block Crafters Capital are technology, investment,
+blockchain market and adoption, infrastructure utilisation, and business partnership. Partnering with
+Block Crafters Capital also accelerates our practice in the aspect of ideation of our market
+adaptation.
+
+We are also partnering with dstreet.io, a Korean blockchain media platform, to support our
+international coverage. As a joint-venture of three industry leaders in South Korea, MK Media
+Goup, DAYLI Financial Group, and Block Crafters, D.Street provides Tokoin with media contents
+and strategies with wide coverage to news readers, blockchain inﬂuencers, and marketing
+channels to increase awareness and feedback from public and blockchain enthusiasts.
+
+Known as a blockchain-based platform that aims to reward inﬂuencers (such as streamers,
+youtubers) who help advertise video games, Refereum is now assisting Tokoin with its growth
+engine to grow our community by giving incentives for participants’ engagement. During our
+campaigns, Refereum’s widget is available on the homepage of tokoin.io.
+
+PAGE 42
+
+Ralali.com is the current largest business platform in Indonesia, helping MSMEs to source, scale up,
+and sustain their operations digitally. In its 5 years of operation, Ralali.com has successfully
+managed to connect more than 250.000 small and medium businesses with 15.000 suppliers
+across 34 provinces in Indonesia. By being plugged in to Ralali.com’s business experience and
+thriving ecosystem, TOKOIN can accelerate the adoption and use while simultaneously enabling the
+most important segment of a developing country to better compete and join a global marketplace.
+
+PT PasarPolis Indonesia is the ﬁrst insurance marketplace in Indonesia. As a partner of Tokoin,
+PasarPolis aspires to provide MSMEs with business insurance that is affordable yet helpful to cover
+their business operations. With PasarPolis on Tokoin’s platform, MSMEs will be assisted with
+relevant property insurance protection for their business property asset.
+
+To optimize the strength of the ecosystem, Tokoin equips MSMEs with the power of fellowship
+approach to one another. Sahabat UMKM is a community of Indonesian MSMEs which facilitates
+MSMEs in gaining beneﬁcial access to networks, leading to fruitful partnerships and their boosted
+conﬁdence when entering the bigger business ecosystem. With Sahabat UMKM on Tokoin’s
+platform, Indonesian MSME actors will be able to explore their capabilities and opportunities to
+cultivate their business potentials by means of the blockchain technology.
+
+Tokoin is partnering with Tomochain to support the infrastructure on the Tokoin’s decentralized
+application. For Tokoin dApp, Tomochain provides scalable blockchain infrastructure, which is
+trustworthy in terms of transparency and auditability, and a fast and easy token integration.
+Tomochain is compatible with Ethereum Virtual Machine-based protocol, enabling public chains and
+private chains, as well as cross-chain token transfers.
+PAGE 43
+
+References
+1)
+
+http://www.un.org/en/events/smallbusinessday/
+
+2)
+
+https://apfcanada-msme.ca/sites/default/ﬁles/2018-10/2018%20Survey%20of%20Entrepreneur
+s%20and%20MSMEs%20in%20Indonesia_0.pdf
+
+3)
+
+https://www.worldbank.org/en/topic/smeﬁnance
+
+4)
+
+https://www.kominfo.go.id/content/detail/11526/kemenkop-ukm-379-juta-umkm-sudah-go-onlin
+e/0/sorotan_media
+
+5)
+
+http://www.oecd.org/cfe/SME%20Indonesia_English.pdf
+
+6)
+
+Ibid
+
+Figure 1.1
+https://www.kompasiana.com/exo_sura/58b567e5917e612c13f2b196/jurang-pemisah-pengembang
+an-umkm-dan-akses-permodalan-ke-bank#&gid=1&pid=1
+
+Figure 1.2
+https://www.researchgate.net/publication/304782183_The_Proﬁle_of_Micro_Small_and_Medium_Ent
+erprises_in_Indonesia_and_the_Strategy_to_Enhance_Islamic_Financial_Services_through_Baitul_Maa
+l_wa_Tamwiel
+
+PAGE 44
+
+

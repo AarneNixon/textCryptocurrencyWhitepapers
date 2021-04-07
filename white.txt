@@ -1,0 +1,716 @@
+ArdCoin - the Alpha token
+
+Democratizing money, Democratizing banking, Democratizing privatizations - Democratizing wealth
+
+ArdCoin Whitepaper - The Alpha is born
+
+Ticker: 		
+
+ARDX
+
+Total ARDX:
+
+5,158,308,000
+
+Incorporation: Ard Bit Global Pte Ltd, Singapore
+
+ArdCoin - the Alpha token
+
+		
+
+Ard Bit LLC, Mongolia
+
+Governance:
+
+Board of Trustees
+
+Listing: 		
+
+Trade.mn, BTCEXA
+
+Platform:
+
+ERC20
+
+Executive Summary
+
+Democratizing money, Democratizing banking, Democratizing privatizations - Democratizing wealth
+
+Businesses across the world are shifting from a product-centered to a customer-centered strategy. Putting the customer under the focus generates the greatest and lasting value to the business and, ultimately, its shareholders. As an
+outcome, a large number of loyalty programs are available on the market today, but the rewards are anything but liquid
+and do not have real value outside the single brand.
+Many loyalty programs are launched by companies in various industries around the world on a daily basis. However,
+most of these programs are identical in their nature and share similar features and conditions, which are, most of
+the time, inefficient and annoying. It is always nice to learn that you are earning points by purchasing items in a shop,
+ordering food in a restaurant, or flying on an airplane.
+But how do you redeem your points if you are visiting that particular outlet just this once? Can I get cash instead? Why
+can’t you just gift your miles to someone you care about? Or what do you do when you learn that your favorite airline
+stops flying? Why can’t you sell your points? Above all, how do you keep track track of each loyalty card that you accumulated over the years and make sure that you redeem them before expiration? Did you find it inconvenient to carry
+a load of cards around all the time? By the way did you know that any one of these companies can cease their loyalty
+programs at anytime and that they give no guarantees to their customers to honor their commitments? And finally
+why can’t we earn loyalty points while banking with your financial services provider?
+These are the issues that we set out to solve through our pioneering blockchain-based loyalty program, ArdCoin.
+ArdCoin (ARDX) - is an innovative blockchain-based loyalty program that has been integrated into a mobile super wallet which is backed by an existing financial infrastructure which includes banking services, insurance provider, stock
+brokerage, investment banking and a pension fund. Ard App offers e-commerce on top of financial services and is
+supported by a nationwide network of postal branches.
+ArdCoin will serve as a blockchain-based loyalty program for all existing and future services and products of Ard
+Financial Group (Ard Holdings), its subsidiaries and ArdCoin merchants.
+ArdCoin is a ERC20 based smart contract issued by Ard Bit LLC. It is owned by Ard Bit Global Pte. Ltd. Ard Bit currently
+holds 15 percent of Ard Holdings, which is listed on the Mongolian Stock Exchange (AARD). ArdCoin can be found on
+etherscan.io under ARDX, and is listed on Mongolia’s first crypto exchange trade.mn (investee of Ard Holdings) from
+April 2019. We intend to list ArdCoins on international crypto-bourses throughout 2019. All and any proceeds from the
+sale of ArdCoins by Ard Bit is intended to be directed towards the provision of reserves and liquidity for ArdCoins.
+Ard Holdings is a full-service financial services conglomerate operating out of Mongolia listed on the Mongolian Stock
+Exchange. Its main investments, Ard Credit NBFI, Ard Insurance, and Mongol Post, were all IPO’d and listed on the
+Mongolian Stock Exchange over the course of past 3 years. Our mission is to become a leading financial services
+group in the country by fully digitizing our services and delivering them using Mongol Post’s network. Moreover, we are
+working to invest in Central Asian and South East Asian banking and financial institutions to replicate and scale our
+business model.
+As of this writing, ArdCoin offers a unique investment opportunity in the blockchain space – it is a token backed by
+a well-run, publicly listed and regulated financial services conglomerate operating in a crypto-neutral environment.
+Mongolia is strategically located between Russia and China. Moreover, by providing a safe and compliant gateway
+between fiat and cryptocurrencies via Ard Holdings’ unique ecosystem, ArdCoin resolves a central problem facing the
+industry today.
+This is not a standard utility token offering: this token is issued by a special purpose vehicle, Mongolia-domiciled Ard
+Bit LLC, which holds 15 percent of Ard Holdings. It’s not a brilliant idea that investors in ArdCoin are buying into; rather,
+they are entering into a top level organization, a well-run machine designed and managed by seasoned professionals
+in banking, capital markets and ICT/fintech.
+Ard Bit is governed by a seven-person Board of Trustees appointed by the Ard Bit Global Pte Ltd. The Board includes
+representatives of Ard Financial Group, Grape City Mongolia, Most Money PSP and ICT Group. ArdCoin as a project is
+advised by a group of prominent business people and public figures.
+
+ArdCoin - the Alpha token
+
+Rationale
+
+Democratizing money, Democratizing banking, Democratizing privatizations - Democratizing wealth
+
+The main problem facing crypto investors today remains the conversion of their crypto holdings into traditional or fiat currencies or other assets, while facing a banking system that appears hostile and unfriendly
+towards the nascent crypto industry.
+Ard Holdings is determined to respond to this problem by offering an exchange platform and a digital
+wallet, which are to be integrated with our existing KYC and AML compliant banking systems. In 2018, we
+invested in trade.mn and GoPay wallet and introduced a mobile banking super wallet - Ard App with the
+help of the largest core banking systems provider in Mongolia.
+Ard App is a super wallet by all measures: it was designed to be an all-in-one solution for everyone. Ard
+App enables AI-based self-enrollment and credit-scoring, online banking, stock trading, foreign currency
+transactions, cryptocurrency trading and online access to insurance and pension products topped with
+a seamless e-shopping experience. It is connected to the interbank clearing via Most Money PSP. It is a
+unique product that, thus far, has no parallels elsewhere.
+Mongolia is commonly referred to as an oasis of democracy on the Eurasian plateau and has a thriving
+economy mainly based on mineral resources. Consecutive governments have announced plans to move
+away from a heavy dependence on natural resources and diversify the economy. The Mongolian government has stated its openness to blockchain technology and a digital transformation working group has
+been established at the Parliament level. Despite seemingly volatile politics and unfavorable geographic
+location, the country has managed to stay the course in terms of sticking to democratic values and market economy principles, despite or because of being geographically squeezed between the World’s two
+major antagonists - China and Russia. The Tugrog or MNT, Mongolia’s currency, is freely convertible and
+the country does not have capital controls, in sharp contrast with its large southern neighbor and, unlike
+its northern neighbor, is under no international sanctions. China is by far Mongolia’s largest trading partner,
+with Russia supplying most of its oil and energy needs.
+The management of Ard Holdings has a solid track record in conventional banking, having founded one
+of the most successful banking groups in the nation. In the past several years, we became pioneers in
+blockchain and crypto space with the CryptoNation Inaugural Forum, angel investing in startups, the
+founding of Blockchain Academy and Blockchain Association, launching of the country’s first crypto fund
+and investing our resources in various initiatives and projects. Extensive lobbying with the government
+and public advocacy produced visible results, such as establishment of a parliamentary working group on
+nation’s digital transformation and overwhelming public support for blockchain-related technologies. In
+2019, Mongolia’s government approved its sovereign bonds to be traded on a blockchain-based platform.
+Privatization of state-owned enterprises has been ongoing since 1991, albeit sporadically, and is a major
+
+ArdCoin - the Alpha token
+
+opportunity for investors in emerging or so-called frontier economies. The next phase of privatizations,
+which was announced at the Mongolia Economic Forum 2018, includes partial privatization of the Mongolian Stock Exchange (MSE), State Bank and Mongol Post through a public auction on the MSE that is of
+particular interest to Ard Holdings, which already owns over 80 percent of the free-float of Mongol Post.
+Ard Holdings is invested in trade.mn and Ard App is the country’s first universal digital wallet, which integrates traditional financial services, such as payments, loans and savings with crypto. Ard App provides
+access to an extensive platform created by Ard Holdings that includes insurance and pension products,
+banking services, FX and stock trading, and day-to-day online shopping. Ard Financial Group’s digital
+banking solution is complemented by Mongol Post’s nationwide branch network. Ard Holdings owns over
+27 percent of Mongol Post (MSE:MNP), in which the government has a controlling 66 percent stake. Ard
+Credit (MSE:ADB) and Ard Insurance (MSE:AIC) were IPO’d in 2018 and 2019, respectively, and Ard Holdings became a publicly traded company (MSE:AARD) through a reverse acquisition of a traded vehicle in
+August of 2019.
+Ard Financial Group is a diversified financial services holding company that aims to increase shareholder value by investing in and developing leading financial services companies. Our investment portfolio
+consists of companies such as Ard Insurance, Ard Credit, Ard Securities, Ard Life, Ard Assets, Ard Management, Ard Bit, Investor Nation, TenGer Systems, Mongol Post, GoPay, Nomyn Hishig and CryptoNation
+SPV. Investor Nation is a registered trademark of the Group. Ard App, Ard Digital Banking, GoPay, ArdCoin
+are digital products based on artificial intelligence and blockchain and are registered as the intellectual
+property of Ard Financial Group.
+
+Democratizing money, Democratizing banking, Democratizing privatizations - Democratizing wealth
+
+ArdCoin - the Alpha token
+
+Current State of the
+Crypto Market
+
+Democratizing money, Democratizing banking, Democratizing privatizations - Democratizing wealth
+
+Questionable underlying asset value
+
+Not backed by existing financial infrastructure
+
+Limited real-world use case
+
+Difficult access to fiat
+
+Vague appreciation of compliance and regulation.
+
+ArdCoin - the Alpha token
+
+ArdCoin
+
+Democratizing money, Democratizing banking, Democratizing privatizations - Democratizing wealth
+
+A total of 5.158 billion ArdCoins were issued by Ard Bit LLC on ERC20 smart contract platform in January
+2019. ICT Group was behind its development while its integration with the Ard Digital Banking app was
+overseen by Grape City Mongolia, country’s leading banking solutions provider. Upon its launch it was
+listed on trade.mn and integrated into Ard App.
+Five percent of total ArdCoins are to be given to the Board, team, developers and 5 percent will be allocated to advisors and marketing. Another 20 percent was awarded to Ard Financial Group’s shareholders in
+April 2019. 30 percent will be reserved by Ard Bit and sold to Ard Holdings subsidiaries for their marketing
+and promotion purposes as customer loyalty points. The cash proceeds will be used by Ard Bit for building
+up cash reserves and investments. The remaining 20 percent will be put into a strategic reserve by Ard Bit.
+Depending on the demand for ArdCoins on the market we reserve the right to issue additional 5 billion ArdCoins in the coming three years, if more than 50 percent of coinholders vote in favor upon Ard Bit’s Board
+unanimous decision to double the number of ARDX in circulation before 2022. Ard Bit will issue an additional 5.158 billion ArdCoins, bringing the total to 10.317 billion. This decision, however, can only be made
+if assets equivalent to or more than 20 percent of Ard Holdings are acquired by Ard Bit.
+
+ArdCoin - the Alpha token
+
+Intro to Ard
+
+Democratizing money, Democratizing banking, Democratizing privatizations - Democratizing wealth
+
+Ard Financial Group was founded by the initiative of the management of XacBank as an Employee Investment Trust, or EIT, in September 2005, creating a foundation for Mongolia’s first institutional investment
+entity. It was made possible by the United Nations Development Program and Mercy Corps, a US-based
+NGO, making a donation of MNT600 million to the investment fund of XacBank employees in 2001. By the
+end of 2018, Ard Holdings owned over 20 different companies and had grown to MNT60 billion in assets
+with over 3,000 shareholders.
+Under the new strategy adopted by the Group, rebranding into Ard Financial Group was initiated in 2013
+and the focus was placed on the development of Ard Credit, Ard Insurance, Ard Securities, Ard Life and Ard
+Assets. By 2019, Ard Insurance and Ard Credit had been IPO’d on the Mongolian Stock Exchange and Ard
+Holdings became a public company through a RTO.
+In 2016, we successfully participated in the privatization of Mongol Post, a 100-year-old state monopoly,
+and became its principal shareholder with over 80 percent of its free float. In 2017, we added Ard Management, an investment fund management company, and ArdBit, which was initially designed to enable
+cryptocurrency trading, to our investment portfolio. In 2018, TenGer Systems was overhauled to focus on
+blockchain technology on top of its role as the ICT support and systems integrator for the Group.
+Based on our belief that people should benefit from the wealth they help produce, and sensing their
+general desire to become owners of their banks, we decided to offer Ard Holdings’ shares to the public.
+As a result Ard Financial Group converted into a closed joint stock company in 2015. By the end of 2017,
+Investor Nation JSC reversed into Jinst-Uvs, a publicly listed company, and started trading on the MSE.
+This served as a launchpad for Ard Holdings’ eventual public listing in 2019. Ard Holdings ventured into
+the blockchain space by piloting bitcoin trading in Mongolia in 2017 and setting up Blockchain Academy.
+We organized the highly successful Investor Nation and CryptoNation Forums. Ard Holdings launched the
+nation’s first cryptofund under the name CryptoNation in 2017 and became the first institutional investor
+in crypto assets in Mongolia.
+Ard Digital Bazaar will be launched at ard.mn. ArdShop and Ard Digital Bank or ArdApp will be the first
+ones to be integrated into Ard Bazaar.
+Mongolia’s parliament decided to modernize and implement digital transformation of Mongol Post with
+the aim of enabling the government to provide one-stop public services through the Post. This move reinforces our belief that Mongol Post will play a key role in our ambitious play to become a leading financial
+services provider in Mongolia.
+ArdCoin was launched as a loyalty bonus program for our customers in December 2018. It is used to
+promote new and repeat business with Ard Holdings and encourages people to refer their friends to us. ArdCoin can be found on Etherscan.io as ARDX and will be rolled out publicly in the second quarter of 2019.
+ArdCoin started trading on trade.mn in April.
+
+ArdCoin - the Alpha token
+
+Solution - ArdCoin
+
+Democratizing money, Democratizing banking, Democratizing privatizations - Democratizing wealth
+
+Existing infrastructure
+
+General Insurance
+
+Banking
+
+Investment Banking
+and Brokerage
+
+Postal company
+
+E-commerce
+
+Pension fund
+
+Loyalty
+
+Payment Medium
+
+Investment
+
+Digital transformation
+
+Digital Banking Platform
+
+Core Banking System
+
+ArdCoin - the Alpha token
+
+Crypto wallet
+
+Blockchain Technology
+
+Digital Exchange
+
+Our existing infrastructure
+
+Democratizing money, Democratizing banking, Democratizing privatizations - Democratizing wealth
+
+Financial
+
+Crypto
+
+BIT
+
+Technology
+
+Infrastructure
+
+ArdCoin - the Alpha token
+
+MONGOL
+POST
+
+Ard’s All-in-One Platform
+
+Stock
+
+Crypto
+
+Pension fund
+Insurance
+
+Loan
+
+Credit score
+
+Exch
+
+Digital Bank
+
+Comm
+Savings
+
+Co
+Money remittance
+
+Self-Enrollment
+Discount
+Payment
+
+Loy
+
+Cash-in-out
+
+Redem
+
+Democratizing money, Democratizing banking, Democratizing privatizations - Democratizing wealth
+
+Brands
+
+Market
+
+k market
+
+hange
+
+e-Commerce
+
+Grocery
+
+Logistics
+Flash sales
+
+Currency
+
+Open banking
+
+modity
+
+3rd party
+
+oin
+
+yalty
+
+Addresses
+
+Priority
+access
+
+mption
+
+ArdCoin - the Alpha token
+
+Invisible payment
+
+API
+
+Channel
+
+Call center
+
+Devices
+
+Messenger
+
+API
+
+Agent
+
+Mongol Post branches
+
+Front office
+
+Marketing
+
+Sales
+
+Customer care
+
+Democratizing money, Democratizing banking, Democratizing privatizations - Democratizing wealth
+
+Back office
+
+Integration
+
+Loyalty
+
+Payments
+
+Database
+
+ArdCoin - the Alpha token
+
+Core banking
+
+Roadmap
+
+АrdCoin Pro
+
+2005
+
+2013
+
+2016
+
+2017
+
+Established EIT,
+a predecessor of Ard
+
+Ard
+Acquisition of various
+financial institutions,
+establishment of Ard
+Financial Group
+
+Investor Nation,
+Mongol Post privatization
+
+Core bankin
+integration
+
+Democratizing money, Democratizing banking, Democratizing privatizations - Democratizing wealth
+
+ArdX
+
+oject
+
+Issued ERC20 token
+
+ng system
+
+Loyalty, Integration,
+Exchange listing
+
+Consolidation,
+IEO, STO
+
+International stock
+exchange listing
+
+2018
+
+2019
+
+2020
+
+2021
+
+IPO on local stock exchange;
+
+International expansion
+in Asia
+
+Multi-market universal
+financial institution
+
+Conversion
+
+Digital banking app
+
+ArdCoin - the Alpha token
+
+Ard App
+
+Democratizing money, Democratizing banking, Democratizing privatizations - Democratizing wealth
+
+ArdCoin - the Alpha token
+
+Alpha Wallet
+
+Democratizing money, Democratizing banking, Democratizing privatizations - Democratizing wealth
+
+Cross-border transactions within seconds
+
+World leading customer data protection based on
+blockchain technology
+
+Real-time monitoring with big data and AI
+Real-time alerts for suspicious transactions.
+
+Keep your assets safe with a cold wallet, and QR
+code generated with cutting-edge encryption
+
+ArdCoin - the Alpha token
+
+The Business Proposition
+
+Use of Proceeds
+
+TERMS
+
+Democratizing money, Democratizing banking, Democratizing privatizations - Democratizing wealth
+
+Currently the management is contemplating to offer ArdCoin holders a priority access to the share ownership of the regional banking conglomerate upon IPO on the major international exchange by Ard Holdings.
+ArdCoin holders will be able to benefit from any appreciation of ArdCoins in the meantime.
+ArdCoin will continue to be used as a loyalty program within Ard ecosystem guaranteeing minimum demand on the market. ArdCoins as loyalty points are budgeted for in all group companies.
+
+Ard Financial Group’s strategic acquisitions fit in-line with its stated mission of democratizing access to
+banking. We will be targeting privatizations by the government and controlling stakes in financial intermediaries in the region.
+
+The nominal price of ArdCoin tokens at the launch will be MNT1.
+Listing of ArdCoins on trade.mn was in April and initially will only be available to residents of Mongolia.
+This enables Ard Holdings to reward its loyal customers and shareholders.
+Listing on the reputable international exchange will be targeted for the fall of 2019.
+Hard cap (total tokens in circulation): ARDX 5,158,308,000
+ArdBit LLC owns 15 percent of Ard Financial Group to date.
+Up to five percent of tokens will be distributed to the management team as a performance-based remuneration for developing the ArdCoin ecosystem and regional fintech bank’s native tokens. Tokens will be
+allocated over time under scrutiny of the Board. Reporting will be timely and objective with the rigorous
+review of this performance based bonus to team-members.
+Up to five percent will be allocated to the international advisors, who will advise for several years until a
+fully functional regional bank is operational. A bounty program and marketing budget will be allocated
+from this pot.
+20 percent was paid as one-time prorated bonus payment to Ard Financial Group’s shareholders in April.
+Another 50 percent will be allocated to the loyalty program of Ard Financial Group. The cash proceeds
+from the sale of ArdCoins will be used for building up reserves and investment at ArdBit level.
+Management plans to set aside 20 percent of the total supply into a strategic reserve. The Board may decide to put ArdCoins on sale from this reserve only. It will take into consideration the market demand and
+the funding needs while making this decision. Cash proceeds will be held for investments.
+
+ArdCoin - the Alpha token
+
+Board of Trustees
+
+Democratizing money, Democratizing banking, Democratizing privatizations - Democratizing wealth
+
+Ganhuyag Ch. Hutagt
+CEO, Ard Financial Group
+Founder of XacBank and TenGer Financial Group
+Former Vice Minister of Finance
+Founder of first NBFI in Mongolia
+25+ years of experience in banking and capital markets
+
+Suhdorj Avir
+Founder and executive Chairman, Grapecity
+Founder and CEO, Most Fintech
+20+ years of experience in core banking system
+10+ years of experience in payment gateway
+
+ArdCoin - the Alpha token
+
+Lhamsuren Ganbold
+CEO, ICT Group
+Founder of first local digital exchange, Trade.mn
+Founder of leading IT developer, DataScience
+Founder, Asian Blockchain Corporation
+15+ years’ experience in financial market
+
+Ganzorig Chuluun
+CEO, Ard Credit
+Founder of Aravt Bit
+10+ years of experience in banking and finance
+
+Democratizing money, Democratizing banking, Democratizing privatizations - Democratizing wealth
+
+Tenuun Garid
+Chief Digital Officer, Ard Financial Group
+Founder, Blockchain Academy Mongolia
+Co-Founder, Mongolian FinTech Association
+10+ years of experience in banking and IT
+15+ years’ experience in financial market
+
+Zolboo Batbileg
+Chief Financial Officer, Ard Financial Group
+Extensive knowledge in financial analysis and portfolio management
+5+ years of experience in investment banking
+
+ArdCoin - the Alpha token
+
+Chadraabal Davaanyam
+Chief Operating Officer, Ard Bit
+3+ years of experience in financial sector
+2+ years of experience in cryptocurrency markets
+
+Myagmarjav Ganzorig
+Chief Financial Officer, Ard Bit
+2+ years of experience in financial sector
+
+Democratizing money, Democratizing banking, Democratizing privatizations - Democratizing wealth
+
+Ilyas Sadvakassov
+Chief Development Officer, Ard Bit
+Founder, Pyrexchange Cryprocurrency Exchange
+Founder, CreativeReality LLP
+8+ years of experience in IT
+5+ years’ experience in Blockchain Technology
+
+ArdCoin - the Alpha token
+
+Advisors
+
+Democratizing money, Democratizing banking, Democratizing privatizations - Democratizing wealth
+
+Arnaud Ventura
+Founder/CEO, BaoBab, MicroCred, PlanetFinance
+Built multinational financial institution with over 1 million
+customers
+15 years of experience in microfinance and international
+development
+
+Michael Madden
+Chairman/Founder, Ronoc, Teneo Capital, XacBank, Renaissance Capital
+Active involvement in the financial services business in
+emerging markets for 20 years
+Launched first retail financial services JV with IKEA - IKANO
+Has inventive business intelligence and ability to engage with
+international partners and cross cultural teams
+
+ArdCoin - the Alpha token
+
+Stephen Roux
+CEO, DragonTree Capital
+Currently involved in innovation, technology and mining
+Experienced CEO and project developer in mining and property development sector
+15 years of experience in investment and advisory
+
+SAM Lee
+CEO, Blockchain Global Limited
+Involved in commercialization of blockchain technology
+through international blockchain investments, blockchain
+innovation hubs, and network infrastructure services
+Invested in 80 blockchain-enabled projects
+
+Democratizing money, Democratizing banking, Democratizing privatizations - Democratizing wealth
+
+Joseph Weinberg
+Co-Founder, Shyft Network
+Co-founder and CEO of Paycase
+Co-founder and Chairman of Shyft
+Blockchain Advisor for OECD
+An early investor in Bitcoin and director at Coinsetter until its acquisition
+by Kraken FX in 2016.
+Former Fintech Advisor for Committee Ontario Securities Commission.
+
+ArdCoin - the Alpha token
+
+Target Token Distribution And
+Bounty Program
+
+Democratizing money, Democratizing banking, Democratizing privatizations - Democratizing wealth
+
+Ard Holdings dividends
+
+1,000,000,000
+
+19.39%
+
+Management team
+
+250,000,000
+
+4.85%
+
+Advisors + Bounty, Airdrops
+
+250,000,000
+
+4.85%
+
+2,500,000,000
+
+48.66%
+
+158,308,000
+
+3.07%
+
+1,000,000,000
+
+19.46%
+
+Loyalty for Ard Financial Group
+Miscallaneous
+Reserves at ArdBit
+
+ArdCoin - the Alpha token
+
+Investment Risk Factors
+
+Democratizing money, Democratizing banking, Democratizing privatizations - Democratizing wealth
+
+Risk of Market Trends: The ArdCoin may be significantly influenced by Cryptocurrency Market trends may be
+severely depreciated, due to related events in the Cryptocurrency Markets.
+Risk of Regulation / Legislation: Token Market may be or might be coming under Global or Local Regulation
+/ Legislation, that may limit the use of ArdCoin tokens as a method of payment, and/or limit, prevent and/or
+sanction the sale and resale of ArdCoin. ICO, STO and relevant technologies have been subject of scrutiny by
+various regulatory bodies, all over the world. The functioning of ArdCoin could be impacted by one or more
+regulatory inquiries or actions, including, but not limited to restrictions on the use or possession of security
+tokens, which could impede or limit the development of ArdCoin program.
+Risk of High Volatility: Cryptocurrencies are extremely volatile and ArdCoin may suffer from such volatility.
+Risk of Taxation: The ownership of ArdCoin tokens may fall under existing and/or new and unpredicted Taxation Laws that will erode ArdCoin benefits.
+High Risk Purchase: There is no guarantee that the ArdCoin you purchase will increase in value.
+Risk of Insufficient Interest in the ArdCoin activity: It, maybe possible that the ArdCoin will not be used by a
+large number of businesses individuals and other organizations and that there will be a limited public interest
+in its creation and development.
+
+ArdCoin - the Alpha token
+
+Disclaimer
+
+Democratizing money, Democratizing banking, Democratizing privatizations - Democratizing wealth
+
+Please read the following notice carefully. This notice applies to all people who read this document. The
+Whitepaper has been prepared solely in respect of the Ard Bit’s crowd sale of ArdCoin. The Whitepaper is
+being made publicly available for information purposes only.
+All information and materials published, distributed or otherwise made available on this website are
+provided for informational purposes, for your non-commercial and personal use, only. The content of this
+document should not be considered as a financial advice in any circumstance. You are responsible for
+your personal finances.
+Although we attempt to bring accurate information, under no circumstances the Ard Bit’s owners, contributors, authors and partners can warrant the completeness or accuracy of the content found on our site,
+or its usefulness for any particular purpose. We also are unable to and don’t make any promises that our
+content or service will be delivered to you uninterruptedly, timely, secure, or error-free. All information and
+content provided on this whitepaper is to be used on an “as it is” basis.
+We strongly encourage you to research all information provided on our website thoroughly, along with
+other advice out on the web and from other sources and weigh it to your particular circumstances to be
+applied accordingly. None of the information provided on this whitepaper is meant to be used in replacement of professional advice and users are encouraged to seek such advice before making any decision. It
+is solely up to the user to determine if advice is safe and suitable to their particular situation.
+The tokens referred to this whitepaper have not been registered, approved, or disapproved by any security
+and exchange commission any states security commission or any other regulatory authority nor any of
+the foregoing authorities examined or approved the characteristics or the economic realities of these token sale or the accuracy or adequacy of the information contained in this white paper, under the securities
+laws of any state or any other jurisdiction. Purchasers of the tokens referred to in this whitepaper should
+be aware that they bear any risk involved in the purchase of tokens, if any, for an indefinite period of time.
+
+ArdCoin - the Alpha token
+
+The Alpha is born
+
+Democratizing money, Democratizing banking, Democratizing privatizations - Democratizing wealth
+
+

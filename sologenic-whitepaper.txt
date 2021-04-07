@@ -1,0 +1,1928 @@
+White Paper
+
+Sologenic
+Ecosystem
+Backed by
+
+Sologenic Ecosystem
+Tokenize, Trade, Earn & Spend
+Built on the XRP Ledger
+
+Disclaimer
+This document does not constitute nor implies a prospectus of any sort. No wording contained herein should be construed as
+a solicitation for investment. Accordingly, this White Paper does not pertain in any way to an offering of securities in any
+jurisdiction worldwide whatsoever. Rather, this White Paper constitutes a technical description of the functionality of the
+Sologenic ecosystem and its various sub-components. Please review the legal section at the end of this White Paper. White
+Paper version 2.0 and last updated on April 27th, 2020.
+
+Sologenic Ecosystem
+Tokenize, Trade, Earn & Spend
+Sologenic is introducing a sophisticated ecosystem that facilitates users with investing,
+trading, and on-demand tokenization of assets such as stocks, ETFs, and fiat on top of
+the XRP Ledger. A tokenized stablecoin of TSLA stock or USD fiat is presented as TSLAƨ
+or USDƨ, respectively. These stablecoins are tradable and redeemable against XRP and
+SOLO on both CoinField exchange & XRPL DEX.
+There are two types of tokens available within the Sologenic ecosystem:
+●
+●
+
+SOLO Coin:​ A utility Token which is listed on global crypto exchanges.
+Tokenized Assets:​ Securities Stablecoins backed by Fiat or Stocks which are only
+available to trade on Sologenic due to required securities brokerage licenses.
+
+Key Business
+On-demand Tokenization ◆ Trade Non-Blockchain Assets
+Staking Rewards ◆ Cryptocurrency Cards ◆ Community Participation
+
+Abstract
+Since its launch in April 2018, CoinField Exchange has been growing daily and has expanded
+its operations rapidly across all continents around the globe.
+In this paper, CoinField reveals full details of the Sologenic ecosystem that strives to build a
+modern, fast, and secure platform to enable billions of people to tokenize different
+non-blockchain based assets such as stocks and ETFs from over 25 different global stock
+exchanges and trade them against cryptocurrencies in a straightforward platform.
+Sologenic deploys SOLO coins for market-making and liquidity providing. SOLO coins and
+subsequent stablecoins are issued on the XRP Ledger allowing liquidity to be moved almost
+instantly. This creates a dynamic bridge between crypto assets and non-blockchain-based
+assets by being paired directly with fiat as a collateral to settle with third-party brokerage
+firms.
+SOLO coins are available for trading on the XRPL DEX and other major global crypto
+exchanges. SOLO holders can take advantage of the SOLO Cards to convert their assets
+
+1
+
+towards purchases of goods/services globally and are eligible for Liquidity Provider Reward
+Program (LPRP) run within the Sologenic ecosystem.
+Sologenic is the most ambitious project ever built on top of XRP Ledger supporting the
+mass adoption of XRP blockchain globally.
+
+2
+
+Table of Contents
+Sologenic Ecosystem
+
+1
+
+Tokenize, Trade, Earn & Spend
+
+1
+
+Key Business
+
+1
+
+Abstract
+
+1
+
+Table of Contents
+
+3
+
+Sologenic Ecosystem
+Redefining Asset Trading
+CoinField
+About CoinField
+Track Record
+CoinField Existing Products
+Centralized Exchange
+Fiat & Crypto Wallet
+iOS & Android App
+OTC Desk
+White Label Exchange Solution
+Mission, Vision, Core Values & Competencies
+
+6
+6
+7
+7
+7
+8
+8
+8
+9
+9
+9
+10
+
+Mission
+Vision
+Core Values
+Competencies
+
+10
+10
+10
+10
+
+Market Consideration
+
+11
+
+State of the Industry
+Asset Classes
+A Shift in Institutional Portfolios
+Challenges in the Traditional Asset Trading Industry
+Regional Economic Markets
+Limited Access to Global Assets
+No Technology for Cross-Asset Trading
+
+11
+12
+13
+14
+14
+14
+14
+
+Tokenization
+
+15
+
+Sologenic Ecosystem
+
+16
+
+Introduction
+XRP Ledger (XRPL)
+Why the XRP ledger (XRPL)
+Architecture
+CoinField Role
+Brokerage Gateway
+Tokenization & the XRP Ledger
+
+16
+16
+17
+18
+18
+20
+20
+
+3
+
+Stablecoin Assets
+Integration and Open SDK suite
+Custody & Proof of Solvency
+Transactions
+Products in Development
+Sologenic Decentralized Exchange
+Tokenized Assets Trading
+SOLO Credit Card
+Coinomics
+Coin Information
+Burn Mechanism
+Token Distribution
+Use of Proceeds
+Team Vesting Schedule
+Incentives & Benefits for Platform Users
+Sologenic Users:
+The Liquidity Provider Reward Program (LPRP)
+Transfer and Transaction Fees on DEX
+Liquidity Provider Reward Program (LPRP) on CoinField Centralized Exchange
+Monthly Rebate
+Exclusive VIP Perks
+CoinField Users:
+Trading Fee Discounts on CoinField Centralized Exchange
+Value Proposition for Sologenic Community
+SOLO Community Fund (SCF)
+Community Participation Program
+SOLO Expansion Fund (SEF)
+Global Exchange Listings
+Value Proposition for Sologenic Users
+Access to global assets
+Complete ownership of crypto assets
+Hassle-free trading with no middlemen
+Ability to use SOLO for daily financial needs
+Roadmap
+Milestones
+
+21
+22
+22
+22
+23
+23
+24
+24
+25
+25
+26
+27
+27
+28
+29
+29
+29
+30
+30
+31
+33
+33
+33
+34
+34
+34
+34
+35
+36
+36
+36
+36
+36
+37
+37
+
+Team
+
+38
+
+Leadership & Advisors
+
+39
+
+Legal
+
+42
+
+Important Legal Disclaimer
+KYC/AML
+KYC Policy
+Licenses
+
+42
+42
+43
+44
+
+4
+
+Jurisdictions
+User’s Eligibility, Representation and Warranties
+RISK WARNING
+References
+
+44
+44
+46
+47
+
+5
+
+Sologenic Ecosystem
+Redefining Asset Trading
+The Blockchain and its related technologies are paving the foundation for our self-sovereign
+digital lives. With the advent of these technologies and the development of some of its
+prominent protocols such as the XRP Ledger, traditional financial markets and their
+transactions will soon become obsolete.
+One of the most profound and bold use cases in the Blockchain space is the financial
+technology (FinTech) industry. By utilizing Blockchain technology, financial transactions
+become fast, secure, and transparent. Blockchain technology provides an immutable ledger
+for storing these transactions, thereby preventing any manipulation or tampering of
+financial records.
+The growing mainstream adoption and popularity of cryptocurrencies have garnered
+investor interest. Institutional, as well as retail investors, are exhibiting more significant
+interest in cryptocurrencies, who consider them to be a new asset class.
+Sologenic is a sophisticated ecosystem that facilitates the process of on-demand, secure
+and low-cost tokenization of non-Blockchain based assets on the XRP Ledger. The
+Sologenic ecosystem essentially acts as a bridge between Blockchain and other asset
+classes such as stocks and ETFs.
+Tokenized assets are tradable against Sologenic's native coin, SOLO and XRP. SOLO coins
+can be traded against cryptocurrencies as the tokens act as a market maker and liquidity
+provider.
+Sologenic intends to offer discounts on trading fees, along with the Liquidity Provider
+Reward Program (LPRP) for SOLO holders. Additionally, Sologenic users receive a FREE
+crypto card for everyday purchases and transactions around the globe.
+The ecosystem aims to eliminate entry barriers for individual and institutional crypto
+investors, allowing them to trade non-blockchain asset classes with one single
+cryptocurrency - SOLO.
+Sologenic reduces the cost, friction, and complexity of traditional trading and transferring of
+assets by creating a simple, fast, and secure infrastructure tailored for the modern era.
+Users receive exceptional benefits such as trading discounts, crypto cards, and our
+Liquidity Provider Reward Program (LPRP).
+
+6
+
+CoinField
+About CoinField
+Established in 2018, CoinField is a preeminent fiat-to-crypto trading platform. It is one of
+the most advanced fiat-to-crypto trading platforms, offering a wide range of digital assets
+along with 6 fiat currencies such as USD ($), GBP (£), EUR (€), JPY (¥), CAD, and AED. The
+exchange added 30 XRP based trading pairs in November 2018.
+CoinField has one goal in mind: to make cryptocurrency accessible worldwide. Our mission
+is to take the crypto ecosystem to the next level, by enabling everyone around the world to
+participate in cryptocurrency markets in a fully regulated, efficient, and accessible manner.
+As of today, CoinField is operational in more than 100 countries, providing an exchange
+service to individual and institutional investors. The exchange infrastructure was developed
+by an in-house team of experts who cumulatively have 120+ years of experience under their
+belts, ranging from blockchain to high-frequency trading software implementation.
+Cutting-edge technologies, robust security, and intuitive user experience are the core
+elements of our development philosophy. The advanced platform is built for global
+cryptocurrency traders, providing a hassle-free trading experience; let it be eliminating long
+verification times, or facilitating seamless fund transfers.
+The company is fully regulated by FIU and has obtained both fiat-to-crypto exchange and
+virtual wallet licenses under license numbers FVR001049 and FRK000941.
+
+Track Record
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+Established in 2018
+Daily trading volume of approximately: $20M USD
+Number of users: 200,000+
+Fully Regulated by FIU under license numbers FVR001049 & FRK000941
+Strong Banking Relationships
+An experienced development team including Senior blockchain developers, Security
+analysts, Backend and Frontend developers
+An experienced team of advisors including top well-known figures in the
+Cryptocurrency industry
+Supported by the XRP community
+Operating an XRP ledger validator, published on the Ripple official UNL
+
+7
+
+CoinField Existing Products
+Centralized Exchange
+CoinField operates one of the fastest-growing
+crypto-to-crypto exchanges in the world.
+
+centralized
+
+fiat-to-crypto
+
+and
+
+The exchange maintains the highest level of security to protect its users from ongoing
+attacks on crypto exchanges and prides itself on offering a wide selection of pairs available
+to traders globally. The enterprise-grade matching engine utilizes low-latency algorithms to
+handle up to 20 million transactions per second (TPS).
+One of the prerequisites of providing the same footing to the cryptocurrency trading
+industry as that of the traditional markets is to develop a robust underlying infrastructure.
+CoinField exchange is built to offer advanced trading options to cryptocurrency traders and
+investors.
+
+Fiat & Crypto Wallet
+CoinField provides a state-of-the-art wallet management system to enable a secure and
+efficient interaction of user accounts and corresponding blockchains. The robust wallet
+system was built on top of CoinField's proprietary infrastructure and conducted Atomic,
+Consistent, Isolated, and Durable (ACID) transactions to prevent multiple transactions from
+interfering with one another.
+The wallets connected to the Blockchain through nodes are fully synchronized with the
+corresponding chains and hosted on CoinField's private servers. In addition to hosting
+nodes at CoinField, the system uses third-party custodian services such as BitGo
+Enterprise to manage wallets with higher transaction volumes.
+CoinField's wallet management system uses multi-signature authentication to ensure the
+legitimacy and accuracy of transactions.
+As a part of its multi-layer security approach, CoinField stores the majority of the digital
+assets in cold-storage wallets, securing ourselves from cyber-attacks and security
+breaches. Fiat wallets utilize the same technology and security to allow users to safeguard
+their balances.
+
+8
+
+iOS & Android App
+While other players focus solely on "Web" or "App" versions of crypto exchange services,
+CoinField provides an on-the-go solution for participating in cryptocurrency markets
+through its intuitive Android & iOS apps, along with its state-of-the-art web-based
+exchange for advanced trading strategies.
+CoinField web and mobile apps pull data from API, which provides accurate and consistent
+market data regardless of what platform you are using. The primary focus - to provide
+real-time data, allowing the exchange users to trade with confidence.
+The application is easy-to-use and intuitive, yet it provides advanced and powerful
+features to enable on-the-go trading for users. The mobile apps support all features
+provided on the web version of CoinField and maintain the same level of security.
+Novice users can trade cryptocurrencies with ease, while more experienced traders can
+leverage advanced features like trading charts, price alerts, depth charts, and limit orders.
+
+OTC Desk
+Institutions and high-net-worth individuals can take advantage of CoinField's OTC desk with
+24/7 service. OTC trading desk offers a personable approach such as liquidity sourcing,
+favorable pricing, and custodial services.
+
+White Label Exchange Solution
+CoinField offers a turnkey solution for running a digital asset exchange. CoinField’s White
+Label Exchange Package comes with an intuitive dashboard for operators and feature-rich
+trading panel for users.
+
+9
+
+Mission, Vision, Core Values & Competencies
+Mission
+Our mission is to become the most influential blockchain-based company in the world. We
+aim to modernize traditional functions of financial markets, by enabling cryptocurrency to
+be used in any way imaginable.
+
+Vision
+Our vision is to facilitate the growth of mass adoption of cryptocurrency globally by
+enabling people to tokenize the economy on XRP’s blockchain.
+
+Core Values
+● Transparency​ - ​providing a Proof-of-Solvency (PoS) mechanism to allow users to
+audit assets at any given time.
+
+● Asset Security​ - ​complying with proven cybersecurity standards to safeguard
+user and exchange funds.
+
+● Regulatory Compliance​ - ​adhering to government regulations and international
+AML laws.
+
+● Dynamic​ - ​enabling integrated trading environment for global user base.
+● Community​ - ​cultivating an active community of crypto enthusiasts and investors
+for encouraging mass adoption and development of blockchain projects.
+
+Competencies
+Our core team excels in software engineering, research and development (R&D), regulatory
+compliance, and banking relationships.
+
+10
+
+Market Consideration
+State of the Industry
+Diversification is one of the critical strategies investors employ to minimize investment
+risks. Retail and institutional investors strive to diversify their portfolio by spreading the
+capital among various asset classes. Traditionally, investors considered stocks and bonds
+as the most liquid financial instruments and the go-to choice for building a diversified
+portfolio with an optimal risk profile. Although these asset classes are substantial vehicles
+for building wealth and economic opportunities for the society, they can be unattainable for
+people residing in emerging economies, where capital markets are not sufficiently
+developed, regulated, or efficient.
+For example, if Tesla Inc. (TSLA) stock is not traded on overseas marketplaces, such as
+Shanghai Stock Exchange (SSE) or Tokyo Stock Exchange (TSE), it becomes nearly
+impossible for people living in those regions to purchase this asset.
+The traditional trading systems indirectly prevent billions of people from participating in
+global capital markets and slow down the economic growth in emerging economies.
+The world's financial infrastructures are highly advanced, but some regions are extremely
+saturated like North America and Western Europe. To illustrate this point, Securities
+Industry and Financial Markets Association (SIFMA) has estimated the US accounts for 38%
+and 39% of global equities and bond markets, respectively [1].
+
+11
+
+Asset Classes
+There is a wide range of asset classes that investors can choose from to achieve a desired
+rate of return.
+The common perception among investors is to rely on real-estate, stocks, and bond
+investments to increase their standard of living and provide economic security.
+Interestingly enough, these conventional asset classes interlinked together through the
+unregulated housing market, mortgage-backed securities, and REIT funds, which brought
+the entire financial system to the brink of failure.
+The financial crisis of 2008 suggests that investing is not so simple, and systemic risks may
+occur. Certain economic events can wipe out as much as 50% of the portfolio value within a
+year, bringing panic and chaos into the economy.
+
+The global derivatives market has increased dramatically over the last 20 years; beginning
+with just under $100 trillion in 1999 and now reaching an almost $545 trillion market value
+[2].
+
+12
+
+Each financial asset has its unique characteristics. The trading, risk profile, and mode of
+acquisition of individual assets vary from other financial instruments. For instance, the
+nature and behavior of fiat currencies are different from real estate or traditional financial
+markets. When an individual wants to add stocks to his portfolio, he must exchange his fiat
+money with the desired shares from another seller. This entire process must go through a
+third-party broker that mediates and oversees this transaction. The broker is responsible
+for verifying the authenticity of the transaction and the legitimacy of the traded assets. In
+short, both the parties must trust this mediator or broker to process the transaction.
+While cryptocurrencies represent a class of assets that hold a specific value in their
+respective markets, converting fiat to cryptocurrencies requires a third-party service
+similar to the conventional brokerage. Unlike traditional asset transactions, cryptocurrency
+trading does not require a trusted third-party as blockchain transactions are executed
+using cryptographic functions and subject to the on-chain rules. For example, a user can
+sell bitcoin (BTC) to buy ethereum (ETH) by simply connecting to the decentralized
+exchange that facilitates the transaction flow on a blockchain.
+
+A Shift in Institutional Portfolios
+Financial institutions like banks, pension funds, and insurance companies with massive
+stakes in capital markets, are gradually adjusting their positions. It appears that during 2018,
+ETFs funds grew by $238.4 billion to a total market value of $3.4 trillion while mutual funds
+shrank by $91.3 billion, and now account for a total market value of $16.3 trillion [3]. In
+comparison to retail investors, institutional fund managers have large positions in
+derivatives markets for the purposes of risk-management and speculation. Financial
+institutions also have greater exposure to residential and commercial real estate markets.
+According to the 2019 report from Black Rock, the figures suggest that institutional money
+moved away from stocks into more stable assets, such as bonds and real estate [4]. Also,
+the collective sentiment indicates that corporate players increased portfolio exposure to
+private equity (+37%), real estate assets (+50%), and cash (+4%) amid a slowdown in
+economic growth. According to this trend, it appears that institutional investors plan on
+diversifying by increasing stakes in other asset classes.
+
+13
+
+Challenges in the Traditional Asset Trading
+Industry
+Regional Economic Markets
+Despite the technological development in the US, Canada, the UK, the EU, or Asia - the
+existing economic infrastructures do not support value exchange on a cross-border scale.
+An investor in Canada must go through multiple brokerages to invest in a particular stock in
+China or Japan. Furthermore, to make direct investments in a foreign market, the investor
+must be accredited or invest a certain amount of capital in qualifying for direct access to
+certain assets. The regional nature of economic markets prevents small investors from
+acquiring global assets.
+
+Limited Access to Global Assets
+Billions of people in emerging economies cannot access essential financial services to
+participate in capital markets or engage in global commerce. Geopolitical uncertainty,
+financial literacy, low levels of income, high-cost of intermediary, and lack of trust in
+financial institutions are the major factors contributing to this outcome.
+Traditional firms are not economically motivated to offer services in countries that have low
+levels of disposable income. For instance, large investment banks are not interested in
+serving the underdeveloped markets since populations can hardly afford to absorb the
+monthly fees for keeping a small chequing account.
+
+No Technology for Cross-Asset Trading
+One of the primary reasons behind the slow adoption of crypto assets among regular
+investors is the lack of underlying financial infrastructure. The existing trading systems are
+limited to a specific set of assets, such as stocks and ETFs. These trading platforms lack the
+technology necessary for facilitating cross-asset trading. A trader is unable to exchange
+cryptocurrencies to other traditional financial instruments. Additionally, the development of
+the crypto infrastructure has focused on particular regions, with very few global venues for
+international investors.
+
+14
+
+Tokenization
+The conventional securitization process gets transformed through the use of blockchain
+technology, which maintains the benefits while addressing the core issues associated with
+the lack of transparency and the risk of defaults. Central issuers can act as custodians of
+the assets and issue digital tokens that are designed to replicate market behavior of stocks,
+bonds, currencies, and commodities.
+By employing tokenization, investments can be made using alternative assets. Examples
+include commercial real-estate, antique art, cryptocurrency baskets, and business projects
+to the general public. Under such a system, each digital token represents an ownership
+stake in the underlying asset and provides direct control to the end-user. In short, each
+token holder has the liberty to access and trade digital tokens on global markets that
+operate 24/7 throughout the year in a decentralized exchange setting.
+In combination with smart-contract technology, Blockchain can provide transparency over
+the entire tokenization process. Removing third-parties that are responsible for buying,
+securitizing, and selling assets to the public.
+Investors can tokenize or burn any assets on-demand and trade them with other assets
+without additional overhead and points-of-failure within a system.
+Tokenization helps:
+●
+●
+●
+●
+
+Unlock the economic value of assets
+Create a global market for assets
+Remove multiple intermediaries
+Fast and secure transfer of assets
+
+15
+
+Sologenic Ecosystem
+Introduction
+The Sologenic ecosystem and it's SOLO coin provides a one-stop solution to tokenizing
+assets. Assets such as stocks and ETFs can be traded on over 25 different global stock
+exchanges against cryptocurrencies.
+The Sologenic ecosystem aims to make it effortless for crypto investors to exchange assets
+and invest in different types of traditional financial instruments. These financial operations
+require a robust underlying infrastructure that operates in real-time and provides fast,
+secure, and transparent transactions.
+Current financial gateways such as VISA have been striving to make it faster for users to
+transact with an average of 65,000 transactions per second [5]. The changing business
+landscape and financial requirements of investors demand a swift, global financial
+infrastructure.
+With the invention of Bitcoin, other decentralized protocols for exchanging value came into
+existence such as the Ethereum network and XRP Ledger. These blockchain protocols have
+been around since the early days of Bitcoin and dedicated significant time and resources to
+building a more scalable blockchain infrastructure. Although each blockchain protocol
+differs from the other and designed for specific use cases, they effectively address
+different problems.
+Building on top of an existing blockchain is desirable as it allows the development team to
+focus on the functionalities of the ecosystem rather than underlying technology such as the
+consensus mechanism, immutability, and mining.
+
+XRP Ledger (XRPL)
+The XRP Ledger is a decentralized cryptographic ledger powered by a network of
+peer-to-peer servers [6]. The company behind the core development of the XRPL is
+"Ripple", which also integrates XRP as a native token in their ecosystem. Ripple believes in
+making "a world in which money moves the way information does today. [7]"
+
+16
+
+Why the XRP ledger (XRPL)
+Today, many Blockchain technologies exist, offering niches and uniqueness in many
+different aspects. When we created the technical requirements of this project, it became
+self-evident that XRP Ledger is, in fact, is the most scalable blockchain that offers the
+technologies and tools required to build the Sologenic ecosystem. After all, we think XRP is
+built to cater to this exact system for the following reasons:.
+●
+
+Censorship-Resistant Transaction Processing
+No single party decides which XRP transactions succeed or fail, and no one can
+"rollback" a transaction after it completes. As long as those who choose to
+participate in the network keep it healthy, they can send and receive XRP in seconds.
+
+●
+
+Fast & Efficient Consensus Algorithm
+The XRP Ledger's consensus algorithm settles transactions in 4 to 5 seconds,
+processing at a throughput of up to 1,500 transactions per second.
+
+●
+
+Responsible Software Governance
+A team of full-time, world-class developers at Ripple maintains and continually
+improves the XRP Ledger's underlying software. Ripple acts as a steward for the
+technology and an advocate for its interests and builds constructive relationships
+with governments and financial institutions worldwide.
+
+●
+
+Secure, Adaptable Cryptography
+The XRP Ledger relies on industry-standard digital signature systems like ECDSA
+(the same scheme used by Bitcoin) but also supports modern, efficient algorithms
+like Ed25519. The extensible nature of the XRP Ledger's software makes it possible to
+add and disable algorithms as state of the art in cryptography advances.
+
+●
+
+Modern Features for Smart Contracts
+Features like Escrow, Checks, and Payment Channels support cutting-edge financial
+applications, including the Interledger Protocol. This toolbox of advanced features
+comes with safety features like a process for amending the network and separate
+checks against invariant constraints.
+
+●
+
+On-Ledger Decentralized Exchange
+The XRP Ledger also has a fully-functional accounting system for tracking and
+trading obligations denominated in any way users want, and an exchange built into
+the protocol. The XRP Ledger can settle long, cross-currency payment paths and
+exchanges of multiple currencies in atomic transactions, bridging gaps of trust with
+XRP.
+
+It is crucial to understand that Ripple is working with more than 200 financial institutions
+from 40 different countries, which is a clear indicator of its growing prowess in the
+payments industry. Some of the leading global financial institutions, such as American
+Express, PNC, SBI (SBI Remit), and Moneygram, are using Ripple’s payment network,
+RippleNet, for international transactions.
+17
+
+Architecture
+Sologenic ecosystem consists of five main components that together facilitate the process
+of on-demand tokenization of non-blockchain based assets and trading against
+cryptocurrencies. These components are CoinField Platform, Brokerage Gateway, XRPL
+Native DEX, XRP Ledger, and the Open SDK suite.
+
+CoinField Role
+The CoinField platform is used to connect all components. The first step for users is to
+create accounts and undergo KYC/AML verifications.
+
+18
+
+Once approved, users can make either fiat deposits or crypto deposits into their newly
+created wallets hosted on CoinField's secure infrastructure. Users can deposit funds from a
+wide range of fiat or crypto options.
+
+When funds are deposited, users can convert these assets directly to SOLO coins. SOLO is
+the only coin able to be converted to tokenized non-blockchain based assets.
+The process of buying these assets happens at the CoinField's proprietary gateway where
+the user's SOLO is liquidated to fiat in real-time, to be used as liquidity to settle with the
+stock brokerage firms.
+
+Conversion automatically takes place at one of CoinField’s existing markets where the
+user’s asset paired with SOLO coin e.g., SOLO/USD.
+19
+
+Using SOLO as the sole liquidity to settle with the brokerage house has many advantages,
+such as:
+●
+●
+●
+
+Unifying the liquidity pool to be used for settlements
+Allowing SOLO holders to participate in the liquidity pool and take benefits through
+Liquidity Provider Reward Program (LPRP).
+An increased trade volume of SOLO across different markets.
+
+Sologenic uses external brokerage companies to buy and sell different types of assets, such
+as Stocks.
+
+Brokerage Gateway
+Sologenic works with top brokerage firms to facilitate the process of buying and selling
+different stocks from over 25 global stock exchanges.
+By using third-party FIX APIs provided by the brokerage firm, it ensures that tokenization or
+burning on the XRP Ledger can happen immediately after the trade is complete.
+
+Tokenization & the XRP Ledger
+CoinField's Gateway connects to the XRP Ledger via existing rippled nodes in place on the
+platform. Each corresponding tokenized asset has an XRP address on the XRP Ledger that
+has an established TrustLine to the main SOLO issuing Gateway on the XRPL.
+
+Upon successful callback from the third-party API, the system issues the corresponding
+currency from the main SOLO gateway to the XRP address that belongs to the issued asset.
+
+20
+
+Sample ​pseudo-transaction to be sent on the XRP ledger​:
+
+Asset-backed token’s XRP addresses are in HEX format and are made public for users to
+view and confirm the transactions. A mapping of HEX addresses to their corresponding
+currencies are also publish via a feed.
+
+ƨ​
+
+Once tokenized, the asset issued on the XRP Ledger is denominated with the suffix of “​ ”
+(e.g. AAPL​Ƨ​, TSLA​Ƨ, ​USD​Ƨ​). In the meantime, CoinField’s internal ledger is connected to a
+rippled node to scan the recent transactions and adjust the user balances accordingly.
+At this point, the user can hold their assets on CoinField or withdraw to another exchange
+that has integrated their system with Sologenic’s proposed SDK to allow for deposits and
+withdrawals to take place or to XRP Ledger’s native decentralized exchange.
+
+Stablecoin Assets
+Tokenized assets are Stablecoins in nature and pegged to the real value of the
+non-blockchain based assets. They are redeemable via CoinField’s centralized platform or
+traded on Sologenic’s XRPL Decentralized Exchange against XRP and SOLO. This means
+tokenized asset holders are free to independently redeem their assets for XRP and SOLO in
+the Decentralized Exchange regardless of the status of the Brokerage Gateway.
+The value stabilized tokens remain by the real value of the assets due to arbitrage
+opportunities for market makers and the fact that CoinField’s Gateway always redeems at
+the current market prices outside of the Blockchain network.
+The Gateway follows the rules of external markets to make sure transactions always go
+through and without devaluation or inflation.
+When a stock is being tokenized or burned, the Gateway only accepts the transaction
+during the hours of operation of the specific stock exchange.
+
+21
+
+An example of trading assets and tokenization could be for TSLA shares, where trading can
+only happen during the market hours of 9:30 AM to 4:30 PM EST Monday through Friday).
+
+Integration and Open SDK suite
+As part of mass adoption strategies with Sologenic and integration with other exchanges
+including DEX, Sologenic plans to release a suite of open-source software development
+toolkits that makes it possible to seamlessly integrate the process of transferring tokenized
+assets and SOLO coins to and from XRP addresses. Users are free to withdraw their
+tokenized assets and trade them on Sologenic’s decentralized exchange, XRP’s native DEX.
+Sologenic highly encourages the developer community to contribute to developing these
+toolkits.
+Sologenic is open to community recommendations/involvement for the development of
+SDKs and APIs and decentralization of these services through projects such as Codius and
+Interledger by providing the necessary tools and sandboxes to create such systems.
+Besides community efforts, the core developers of Sologenic are researching and
+developing these systems on an ongoing basis.
+Sologenic strongly supports the community and businesses to use the Interledger protocol
+to run connector nodes to act as an intermediary for transfers of micropayments across
+wallets and exchanges.
+
+Custody & Proof of Solvency
+As the world of blockchain permeates our financial institutions, it becomes critical to verify
+the legitimacy of relationships, such as confirming the relationship of a tokenized asset to a
+real-world asset held in a trust. To be transparent, Sologenic exposes an endpoint that
+allows for the public to view the inventory of real-world assets fetched via the third-party
+APIs and their corresponding digitized asset on the XRP Ledger.
+In addition to providing a public section to view assets and liabilities via the platform,
+Sologenic plans to conduct third party audits that would certify the authenticity of the
+assets.
+
+Transactions
+All transactions, including issuing, burning, and transfers, are executed on the XRP
+Ledger, and the current XRP transaction fees applies.
+CoinField uses the same Open SDK that is developed to handle transactions on the
+XRPL.
+22
+
+Products in Development
+Sologenic Decentralized Exchange
+One of the major products to be added into the Sologenic ecosystem is Decentralized
+Exchange, built on top of XRP Ledger’s fully-functional decentralized exchange where users
+can trade issued tokenized assets for SOLO or XRP. Sologenic is building a simple, intuitive,
+and powerful UI with the same development standards as used within CoinField Centralized
+Exchange.
+Features of Sologenic Decentralized Exchange include:
+●
+
+Sologenic DEX users will host private keys:
+The users of Sologdnic’s DEX holds the private keys of their wallets, providing them
+complete ownership/authority over their crypto assets. It facilitates swift
+transactions, quick settlements, and improved security of a user’s cryptocurrencies.
+
+●
+
+Major platform for SOLO trading:
+Sologenic DEX is a significant platform for the trading of SOLO coins & tokenized
+non-blockchain assets. CoinField’s centralized exchange plays a crucial role in
+market making for SOLO coins and provides sufficient liquidity to third-party
+exchanges facilitating the trading of SOLO coins.
+
+●
+
+Development and market-making of Sologenic DEX:
+CoinField uses its real experience in running a successful cryptocurrency exchange
+for the development of Sologenic DEX.
+
+The transaction fees and trading charges generated from the financial activity on Sologenic
+DEX is used to reward liquidity pool providers.
+●
+
+Eliminating a single point of failure:
+One of the primary challenges in front of the crypto trading community and
+investors is safeguarding assets. Cryptocurrencies are designed with built-in
+protection, through encryption and consensus protocols, from cyberattacks or
+malicious transactions. The distributed nature of blockchain, the underlying
+technology of crypto assets, prevents any single point of failure within its network.
+However, since centralized exchanges store user data, trading activity, and
+transactions on traditional servers, they’re vulnerable to cyber attacks.
+
+Sologenic’s decentralized exchange uses the XRPL distributed ledger, protecting any
+exploitation. The distributed nature of the exchange and the presence of multiple validator
+nodes, including the ones run by CoinField, ensures regular operation even if a handful of
+nodes are compromised.
+23
+
+●
+
+Ownership of private keys:
+Sologenic’s decentralized exchange is committed to providing the ownership of
+crypto assets to its holders through the ownership of private keys. It is critical to
+understand that a crypto investor or owner has complete ownership of his/her
+cryptocurrencies only if he/she controls the private keys. It ensures that in case of a
+shutdown of the exchange, the investor still owns/controls his cryptocurrencies.
+Additionally, it prevents any impact of exchange-level security breaches on crypto
+owners.
+
+Tokenized Assets Trading
+The world of finance is ripe for technological transformation. Through tokenization, the
+industry can achieve interconnected markets and global 24/7 liquidity. SOLO holders have
+access to a wide range of stocks from over 25 global stock exchanges. This infrastructure
+connects the legacy financial systems with blockchain-based assets and enables new
+markets, allowing cryptocurrency trading for the other asset classes.
+
+SOLO Credit Card
+SOLO holders can be eligible to obtain a FREE Crypto Card to spend their cryptos instantly
+anywhere in the world. SOLO holders have various benefits on the Crypto cards, such as
+Monthly Rebate Cash Back, Airport Lounge Access, Discount on Select Hotels and Private
+events.
+Tier
+
+SOLO Holdings
+
+SOLO Card Type
+
+Monthly Rebate
+Cashback
+
+Card Setup Fee
+
+1
+
+500 < 10,000
+
+SOLO Black
+
+-
+
+FREE
+
+2
+
+< 100,000
+
+SOLO Black Metal
+
+0.5%
+
+FREE
+
+3
+
+< 400,000
+
+SOLO Black Prestige
+
+1%
+
+FREE
+
+4
+
+> 400,000
+
+SOLO Black Whale
+
+2%
+
+FREE
+
+SOLO cardholders have to maintain the minimum balance in the wallets for their respective
+tiers for the card to remain activated.
+
+24
+
+Coinomics
+Coin Information
+Total Max Supply:​ 400,000,000 SOLO
+IEO Value:​ 1 SOLO = 0.25 USDT
+TOKEN SYMBOL
+
+SOLO
+
+TOKEN SIGN
+
+TOKENIZED ASSET SUFFIX
+
+Ƨ
+
+(.i.e TSLA​Ƨ,​ AAPL​Ƨ​, and ..)
+character
+
+Ƨ
+
+character encoding
+
+decimal
+
+hex
+
+decimal
+
+hex
+
+Unicode
+
+423
+
+01A7
+
+424
+
+01A8
+
+UTF-8
+
+198 167
+
+C6 A7
+
+198 168
+
+C6 A8
+
+Numeric reference
+
+&#423;
+
+&#x01A7;
+
+&#424;
+
+&#x01A8;
+
+Ƨ
+
+MAX SUPPLY
+
+400,000,000 ​Ƨ
+(No additional tokens will ever be created)
+
+TrustLine Address
+
+r​soLo​2S1kiGeCcn6hCUXVrCpGMWLrRrLZz
+
+Decimals
+
+15 decimal digits of precision
+
+160-bit (40-character)
+hexadecimal
+
+534f4c4f00000000000000000000000000000000
+
+25
+
+Burn Mechanism
+100% of the transaction fees generated through transfers and decentralized trading will be
+burned instantly by being sent to the gateway’s issuing address (Black hole). The system
+practices this deflationary mechanism to bring down the total supply of SOLO coins which
+in turn makes remaining SOLO coins more valuable. This practice makes an equilibrium that
+in the long term makes it impossible for the SOLO coins to deplete due to higher valuation
+of coins and lower supply.
+
+26
+
+Token Distribution
+Allocation
+
+Proportion
+
+Vesting Period
+
+Team
+
+35%
+
+36 Month Lockup Schedule
+
+Public
+
+15%
+
+No Lockup
+
+SOLO Liquidity & Operation
+
+15%
+
+No Lockup
+
+SOLO Community Fund “SCF”
+
+20%
+
+No Lockup
+
+SOLO Expansion Fund “SEF”
+
+15%
+
+No Lockup
+
+Use of Proceeds
+Issued SOLO coins are to be sold and distributed through one or more rounds of sales
+conducted by the Sologenic team via CoinField and third party platforms. Token sales and
+distributions are dedicated to Initial Investors, VIP private sale, and IEO. Funds raised in all
+rounds of token sales are used primarily for R&D, product development, marketing, legal,
+licensing, and strategic partnerships. Additionally any portion of allocated VIP Pre-Sale or
+IEO tokens which are not sold will be added to SOLO Liquidity & Operation Fund.
+
+27
+
+Team Vesting Schedule
+Holding Period
+
+Percentage
+
+Within 3 months
+
+15%
+
+After 12 months
+
+15%
+
+After 18 months
+
+20%
+
+After 24 months
+
+20%
+
+After 36 months
+
+30%
+
+28
+
+Incentives & Benefits for Platform Users
+Sologenic Users:
+The Liquidity Provider Reward Program (LPRP)
+The Sologenic ecosystem rewards its users for their participation in providing liquidity for
+transactions. The ecosystem provides multiple participation avenues for its users, including
+the Sologenic liquidity pool, CoinField DEX, and CoinField centralized exchange.
+
+29
+
+Transfer and Transaction Fees on DEX
+Transferring SOLO in and out of XRP wallets incur a transaction fee in XRP Drops (network
+fees differ depending on the network load and other factors, but currently is at 10 drops)
+and a burn amount of 0.01% charged to the sender of the transaction. The system practices
+this deflationary burn mechanism to bring down the total supply of SOLO coins which in
+turn makes remaining SOLO coins more valuable.
+The sender of any payment is debited an extra 0.01% based on the size of the transaction.
+The recipient of the payment receives a credit for the intended amount.
+This process also applies to trades on the DEX where the seller is charged an extra fee of
+0.01% while the buyer receives the amount disclosed on the original order volume meaning
+the seller/sender of the transaction must take into account the extra fee for the
+payment/order to go through.
+This burn mechanism makes an equilibrium that in the long term makes it impossible for the
+SOLO coins to deplete due to higher valuation of coins and lower supply.
+
+Liquidity Provider Reward Program (LPRP) on CoinField
+Centralized Exchange
+SOLO holders can voluntarily participate in the Liquidity Provider Reward Program (LPRP),
+receive rewards of up to ​20% annually​. CoinField launch multiple time-based programs,
+with both weekly or monthly participation models. Some of these programs come with
+flexible withdrawal terms, whereas others come with a fixed time-based deposit model.
+CoinField implements a daily reward payout mechanism for flexible programs and
+time-based payouts for fixed-term reward programs.
+Note: ​CoinField source the financial resources for these reward programs through the trading fees
+generated on CoinField’s centralized exchange.
+
+Example Of Program:
+Program Name
+
+Lock-up period
+
+Gain
+
+E.g. Starter
+
+1 Month
+
+%12 (annually, paid daily)
+
+E.g. Pro
+
+3 Months
+
+%20 (annually, paid daily)
+
+E.g. Flexible
+
+No Lock-up
+
+%8 (annually, paid daily)
+
+Please note that there can be more than one program that has a lock-up period of 1 or any other
+time with different gain percentages depending on the promotion.
+
+30
+
+Monthly Rebate
+SOLO holders are entitled to a FREE Crypto Card for spending their SOLO coins instantly
+anywhere in the world. The primary intent behind releasing a crypto card is to promote the
+use of cryptocurrencies in daily transactions. Sologenic reward SOLO cardholders
+depending on the total amount spent via these cards. Cashback is paid to holders in SOLO
+coins on the 1st of each month.
+Solo cards have no lock-up time. The users must maintain the minimum SOLO amount in
+their wallets to qualify for the rewards for individuals tiers.
+If you do not maintain the minimum balance required on account for 30 consecutive days,
+Sologenic reserves the right to cancel your card.
+Here is the schedule for cashback payments and different types of cards provided by
+Sologenic.
+
+Card Tier
+
+SOLO Black
+
+SOLO Black
+Metal
+
+SOLO Black
+Prestige
+
+SOLO Black
+Whale
+
+Card Material
+
+Plastic
+
+Metal
+
+Metal
+
+Carbon Fiber
+
+Card Limit​1
+
+$1,000
+
+$2,000
+
+$5,000
+
+$10,000
+
+Transaction Fee
+
+1.39%
+
+0.99%
+
+0.85%
+
+0.85%
+
+Max Transaction​2
+
+$500
+
+$750
+
+$1000
+
+$10,000
+
+Monthly Cashback​3
+
+-
+
+0.25%
+
+1%
+
+2%
+
+Collateral Load Up
+
+FREE
+
+FREE
+
+FREE
+
+FREE
+
+Manual Load Up
+
+1%
+
+1%
+
+1%
+
+1%
+
+Min SOLO
+Holdings​4
+
+500
+
+2,000
+
+100,000
+
+400,000
+
+200 SOLO
+
+600 SOLO
+
+1,000 SOLO
+
+2,000 SOLO
+
+Spotify (Logo)​6
+
+25% Rebate​7
+
+50% Rebate​7
+
+100% Rebate​7
+
+100% Rebate​7
+
+Netflix (Logo)​6
+
+25% Rebate​7
+
+50% Rebate​7
+
+100% Rebate​7
+
+100% Rebate​7
+
+PlayStation Plus
+(Logo)​6
+
+25% Rebate​7
+
+50% Rebate​7
+
+100% Rebate​7
+
+100% Rebate​7
+
+Locked Amount​5
+
+31
+
+Amazon Prime
+(Logo)​6
+
+25% Rebate​7
+
+50% Rebate​7
+
+100% Rebate​7
+
+100% Rebate​7
+
+Airport Lounge
+Access​8
+
+-
+
+FREE
+
+FREE
+
+FREE
+
+SOLO Merchandise
+Store Credit
+
+-
+
+$50 USD
+
+$75 USD
+
+$100 USD
+
+1.
+2.
+3.
+4.
+5.
+
+6.
+
+7.
+8.
+
+The card limit shown is in USD or equivalent in EUR and GBP.
+Max amount per each transaction.
+Cashback for the current month is paid in SOLO on the first day of each next month.
+Minimum amount of SOLO required to be qualified for the card level at the time of card issuance.
+This amount is locked for 12 months. If the minimum amount of SOLO holdings goes below 50% of the
+minimum SOLO holdings requirement, the locked amount will be deducted from your account to cover the
+cost of the card. The locked amount will be required per each year.
+This benefit is being offered directly by Sologenic independently without any partnership with these
+merchants. Sologenic reserves the right to amend or discontinue this offer at any time without prior notice.
+Rebate is only available for one service in a month. The maximum rebate per month is $10 USD.
+The rebates are paid in SOLO on the first day of each next month.
+Airport Lounge Access is coming soon.
+* SOLO Cards are being offered in a partnership with coinfield.com
+
+32
+
+Exclusive VIP Perks
+SOLO holders have various benefits on the SOLO Crypto cards, such as Monthly Rebate
+Cash Back, Airport Lounge Access, Discount on Select Hotels and Private events.
+
+CoinField Users:
+Trading Fee Discounts on CoinField Centralized Exchange
+Sologenic offers up to 50% discount on the trading fee for traders who use SOLO coins to
+pay the fees. The discount on trading fees depends on the balance of SOLO in users'
+wallets. Sologenic uses the real-time balance of the wallet at the time of execution of trade
+for calculating discounts.
+Tier
+
+SOLO Holdings
+
+Trading Incentive
+
+1
+
+< 1,000 Ƨ
+
+5%
+
+2
+
+< 50,000 Ƨ
+
+10%
+
+3
+
+< 100,000 Ƨ
+
+20%
+
+4
+
+< 400,000 Ƨ
+
+25%
+
+5
+
+> 400,000 Ƨ
+
+50%
+
+33
+
+Value Proposition for Sologenic Community
+SOLO Community Fund (SCF)
+The purpose of the Sologenic Community Fund “SCF” is to help the blockchain &
+cryptocurrency ecosystem grow globally by supporting various projects from the
+community. Sologenic is committed to building the infrastructure required for the
+large-scale adoption of cryptocurrencies. SCF is used for funding decentralized
+community-based projects, community events and emergency situations.
+
+Community Participation Program
+Sologenic deploys a specific algorithm to analyze the community feedback in different
+events such as SCF, allowing SOLO holders to participate in the selection process. The
+selected projects receive funding and guidance in the development and management from
+the Sologenic team and the community.
+The community participation weight of a SOLO holder depends on the number of SOLO
+coins they hold. For example, community participation from a user with 100 SOLO coins is
+considered as 100 points in an event, whereas community participation from a user with 1
+SOLO coin considered with the weight of 1 towards the calculation.
+Community participation takes place on CoinField’s platform, and results are public for
+anyone to audit, which prevents the users’ private information from being obfuscated in the
+results section.
+SOLO Holdings
+
+Community Participation Weight
+
+1Ƨ
+
+1x
+
+1000 Ƨ
+
+1000x
+
+SOLO Expansion Fund (SEF)
+The purpose of the SOLO Expansion Fund “SEF” is to “directly” grow the Sologenic
+ecosystem, increase its global reach, and help to increase the value of the SOLO coin in the
+long term to protect all the initial investors and backers. This fund goes towards the
+marketing and promotional activities for the Sologenic ecosystem, such as listing fees for
+SOLO on global exchanges, summits, gatherings, and worldwide marketing campaigns
+explicitly promoting the Sologenic ecosystem and SOLO coins as well as community
+Airdrops.
+34
+
+Global Exchange Listings
+The CoinField exchange has built many great relationships with global exchanges through
+either partnerships or via the community. In addition to this existing relationship,
+Sologenic’s advisors play a vital role in the listing of SOLO coins with other major global
+exchanges.
+
+35
+
+Value Proposition for Sologenic Users
+Access to global assets
+Sologenic aims to provide access to the top global stock exchanges to the users. Instead of
+being limited only to the stocks available in their respective regions, Sologenic users can
+trade a wide range of stocks from over 25 global stock exchanges using cryptocurrencies.
+
+Complete ownership of crypto assets
+Sologenic aims to create a decentralized trading environment where users have complete
+ownership of their crypto assets. Sologenic users will keep their own private keys, allowing
+them to transfer or trade their crypto assets without any third-party involvement.
+
+Hassle-free trading with no middlemen
+Sologenic eliminates the need for intermediaries in international investments. The users can
+purchase tokenized asset classes in a single platform without having to deal with multiple
+brokers.
+
+Ability to use SOLO for daily financial needs
+Sologenic intends to launch a crypto card for SOLO holders allowing them to use their
+crypto assets for daily expenditures, ATM withdrawals, shopping, and utility bill payments.
+The primary intent behind launching the SOLO crypto card is to promote the use of
+cryptocurrencies in daily lives.
+
+36
+
+Roadmap
+Milestones
+Milestone
+
+Date
+
+Status
+
+Sologenic Decentralized Wallet App
+
+January 2020
+
+Done
+
+Filling the Application for MiFID II Investment Firm
+License
+
+April 2020
+
+In progress
+
+Sologenic Securities Tokenizing Engine
+
+August 2020
+
+In development
+
+Sologenic Securities Trading Platform
+
+August 2020
+
+In development
+
+August 2020
+
+Scheduled
+
+Launch of Sologenic Live Securities Trading Platform
+
+(Upon successful
+issuance of MiFID
+License by FSA)
+
+Pending
+
+Launch of Marketing Plan
+
+(Upon successful
+issuance of MiFID
+License by FSA)
+
+Pending
+
+Launch of
+Platform
+
+Sologenic
+
+Simulator
+
+Securities
+
+Trading
+
+(Simulator Platform for users’ demonstration and practice with
+NO real money)
+
+37
+
+Team
+
+Sologenic employs a vibrant mix of 30+ experts from a wide range of backgrounds, and a
+variety of different skill sets. We are an energetic young and professional team aiming to
+shape the world's new financial future through digital assets. We are continuously looking
+for ways to facilitate a seamless and more secure system that makes trading feel effortless.
+
+38
+
+Leadership & Advisors
+
+Bob Ras
+
+CEO & Founder
+Bob has established several ventures within
+the manufacturing, tech, and marketing
+industries. His manufacturing businesses
+have over a hundred distribution outlets in 62
+countries worldwide. In 2018, Bob switched
+his focus to Cryptocurrency & Blockchain
+technology with one goal in mind : ​To create
+a new financial ecosystem for the new era.
+
+Mike Stephens
+
+Reza Bashash
+CTO & Founder
+
+Reza is an experienced engineer with a
+demonstrated history of working in Artificial
+Intelligence and Fintech sectors over the past
+ten years. Reza has founded several
+successful tech companies throughout his
+career and has proven to be a solid
+entrepreneur with a proven track record. He is
+an influential Blockchain advocate.
+
+Virgi Nael
+
+Securities Legal Advisor
+
+EU Securities Legal Advisor
+
+Mike is a leading information technology &
+blockchain law Partner at ​Fasken Martineau​.
+A recognized leader in technology ecosystem
+and a dedicated advocate for clients. ​An
+experienced M&A and securities lawyer, he
+also counsels emerging growth companies
+from their foundation all the way to IPO or an
+exit event.
+
+Virgi Nael is a Senior Associate at ​NJORD in
+the fields of Securities Market Law and
+Banking, Finance, Business & Contract Law.
+She has also worked 3 years at Bigbank as
+Head of Legal which gave her a great
+understanding of the lending and banking
+business.
+
+39
+
+.
+
+Dmitri Litvinovich
+CPO
+
+Eman Pulis
+
+Marketing & Media Advisor
+
+Dmitri’s background includes more than ten
+years of C-Level role in some of the most
+successful securities & derivatives trading
+platforms in the EU. His financial product
+development expertise brings a significant
+value to the team.
+
+Eman is the CEO of ​Malta AI & Blockchain
+Summit and SiGMA. His summit has grown
+into one of the world's largest dedicated
+Blockchain events.
+
+Yaroslav Konoplov
+
+Roberto Valdes
+
+Core Blockchain Integration Development
+
+Chief Compliance Officer (AML)
+
+Yaroslav is amongst some of the top
+programmers and best talents in the software
+world. He is an experienced software
+architect with a demonstrated history of
+working in the Blockchain and ultra-fast
+optimized exchange systems.
+
+Roberto has more than 13 years of extensive
+experience in the Forex markets and Banking
+industries such as ​HSBC​. He is extremely
+Goal-oriented, achiever and always fighting
+against money laundering and terrorist
+financing.
+
+40
+
+Darren Amner
+Marketing Head
+
+Darren possesses a wealth of international
+marketing experience. During his time in the
+UK, he managed complex product portfolios
+for several global academic publishers
+working in print and digital media. Darren is
+also a qualified Journalist who has been
+published both in print and online — working
+as a film journalist led him to attend film
+festivals in London, Venice, and Berlin.
+
+41
+
+Legal
+Important Legal Disclaimer
+1.
+
+This White Paper shall not and cannot be considered as an invitation to enter into an investment.
+SOLO tokens do not constitute or relate in any way nor should SOLO tokens be considered as an
+offering of securities in any jurisdiction. The White Paper do not include or contain any
+information or indication that might be considered as a recommendation or that might be used
+to base any investment decision. This document does not constitute an offer or an invitation to
+sell shares, securities or rights belonging to the Company.
+2. Any information in the White Paper is given for general information purposes only and the
+Company does not provide any warranty as to the accuracy and completeness of this
+information.
+3. The offering of SOLO token is done in order to allow the utilization of software services and not
+for speculative purposes.
+4. Regulatory authorities are carefully scrutinizing businesses and operations associated with
+cryptocurrencies in the world. In that respect, regulatory measures, investigations or actions may
+affect Company’s business and even limit or prevent it from developing its operations in the
+future.
+5. Any person undertaking to acquire SOLO token must be aware that the Company business
+model and the White Paper may change or need to be modified because of new regulatory and
+compliance requirements from any applicable laws in any jurisdictions. In such case, any person
+undertaking to acquire SOLO token acknowledge and understand that the Company shall not be
+held liable for any direct or indirect loss or damages caused by such changes.
+6. Acquiring SOLO token shall not grant any right or influence over Company’s organization and
+governance to the buyers.
+
+KYC/AML
+Compliance program requirements are drafted and applied in accordance with the Estonian Money
+Laundering and Terrorist Financing Prevention Act (MLTFPA).
+In accordance with the prescribed legislative requirements, CoinField has certain recordkeeping,
+identification and reporting requirements. Our compliance program includes:
+●
+●
+●
+●
+●
+
+Compliance officer: The appointment of a chief anti-money laundering officer to supervise the AML/KYC team.
+Compliance policies and procedures including AML/Compliance policy, Executing Know Your Customer (“KYC”)
+procedures, Ongoing monitoring and business. relationship, Recordkeeping requirements.
+Risk assessment to evaluate all risks related to money laundering and terrorist financing.
+Ongoing compliance training program for our AML/KYC Compliance team.
+Reporting Procedure of suspicious as unusual transactions.
+
+For more information on our AML/KYC policy, please send an email to ​compliance@coinfield.com
+
+42
+
+KYC Policy
+Individual Accounts Verification
+We verify the identity of all users through one of the following methods:
+Automated Verification (In partnership with Jumio)
+We have partnered up with Jumio to verify the identity of each user automatically in order to save time.
+To be verified, the details in which the client has entered must match with the documentation provided
+by the individual client. Jumio also has face recognition technology to verify the client with the
+documentation. If any of the information does not match, the verification process has to be done
+manually by one of our KYC officers.
+Manual Verification (By our KYC team)
+If the automated verification fails, the file will be sent to our compliance team to be reviewed
+carefully. As part of the account sign up process, all our clients are asked to upload to our site their
+government-issued photo ID, Selfie photo with a signature (If you use the app to sign up you only
+need a Selfie with no note or signature). Our compliance team may ask for any additional documents
+such as proof of address or a second ID (with an expiration date). All documents must appear to be
+valid and unaltered in order to be acceptable. If any information has been redacted, it is not
+acceptable.
+Corporate Account Verification
+For Institutional clients, we are obligated to confirm the existence of the entity, and the entity's
+beneficial ownership.
+Corporations
+In order to confirm the existence of a corporation as well as the corporation's name and address, we
+require the following documents:
+●
+
+●
+
+●
+●
+
+Original Certificate of Incorporation and Business Registration
+Memorandum and Articles of Association, aka Operating Agreement, Constitution, By-laws (which defines company
+structure and management policy)
+An official Company Report which was issued within the last year, including a list of current directors (until natural
+person), a list of ultimate beneficial owners (until natural person), their nationalities/jurisdictions, their passport
+number, and their percentage of holdings, etc.
+A URL of Government website containing your company details that verify the authenticity of registration
+Completed the CoinField signup application form.
+
+We will also ask some questions about your business such as:
+●
+●
+●
+●
+●
+
+How did you accumulate these funds?
+Your estimated monthly volume?
+Is your business cash-intensive?
+Are there any nominee shareholders owning over 25%?
+Please state if any of the mentioned above are PEP’s? (​PEPs in the financial world means, "​Po
+​ litically E
+​ x​ posed
+P​erson)
+
+43
+
+Licenses
+a.
+
+CoinField intends to operate in full compliance with applicable laws and regulations and obtain
+the necessary licenses and approvals. Regulatory licenses and/or approvals are likely to be
+required in several jurisdictions in which SOLO token sale may take place. It is not possible to
+guarantee, and no person makes any assurances that any such licenses or approvals will be
+obtained within a particular timeframe or at all.
+b. CoinField is supervised by the FIU and has obtained both fiat-to-crypto exchange and virtual
+licenses under license numbers FVR001049 and FRK000941.
+c. CoinField intends to obtain required licenses to be able to offer stocks and ETFs before enabling
+the trading of stocks and ETFs. The Company will apply the licenses upon the IEO is launched
+and funds are raised.
+
+Jurisdictions
+CoinField does not offer SOLO token in all jurisdictions such as but not limited to the United States
+of America and countries which are listed on UN & EU imposed sanctions. You may view a current list
+of all jurisdictions in which SOLO sale is prohibited at the Website of the Company under “CoinField
+Restricted Locations”.
+By participating in the SOLO token sale, the user must agree to the Terms & Conditions and in
+particular, they represent and warrant that they:
+a) Are not a U.S. citizen, resident or entity (a “U.S. Person”) nor are they purchasing SOLO
+token or signing on behalf of a U.S. Person;
+b) Are familiar with all related regulations in the specific jurisdiction in which they are based
+and that purchasing cryptographic tokens in that jurisdiction is not prohibited, restricted
+or subject to additional conditions of any kind;
+c) Are not acting for the purpose of speculative investment;
+d) Live in a jurisdiction which allows the Company to sell the SOLO through an IEO without
+requiring any local authorization;
+e) Do not live in a jurisdiction which is qualifying token issued through an IEO sale as
+securities;
+f) Will not use the SOLO token sale for any illegal activity, including but not limited to
+money laundering and the financing of terrorism;
+g) Are solely responsible for determining whether the acquisition of SOLO token is
+appropriate for them.
+Restricted transmission
+This White Paper must not be taken or transmitted to any jurisdiction where distribution or
+dissemination of this White Paper is prohibited or restricted.
+
+User’s Eligibility, Representation and Warranties
+You are at least 18 years of age or, if the age of majority in the jurisdiction in which you reside is
+greater than 18 years of age, you are at least that age. You are otherwise fully competent and have
+the active legal capacity to enter into and be bound by these Terms and to perform your obligations
+as herein set out.
+44
+
+a) Understand the risks associated with the SOLO token sale and understand the use of
+cryptocurrencies and its associated risks.
+b) You will not hack into, interfere with, disrupt, disable, overburden, modify, publish, reverse
+engineer, participate in the transfer or sale of, create derivative works, or otherwise
+impair the Website, platform and SOLO token. Company shall have the right to
+implement necessary measures to monitor compliance of this Section.
+c) You acknowledge and agree that if the SOLO tokens are purchased during the VIP sale or
+before the IEO launch, SOLO tokens are not tradable until the IEO is finished.
+d) If the purchase the SOLO tokens during the VIP sale or before the IEO launched, there will
+not be able to trade tokens until the trading is enabled.
+e) You agree that the Company has the right to amend IEO milestones and timeline as set in
+the SOLO White Paper.
+f) You agree and acknowledge that the Company does not currently holds the licenses to
+enable trading of stocks and ETFs.
+g) You acknowledge and agree that the Company’s team (including employees and
+management) can sell the shares of SOLO token based on the vesting time period
+indicated on this White Paper.
+No representations
+No representations or warranties have been made to the recipient or its advisers as to the accuracy
+or completeness of the information, statements, opinions or matters (express or implied) arising out
+of, contained in or derived from this White Paper or any omission from this document or of any other
+written or oral information or opinions provided now or in the future to any interested party or their
+advisers. No representation or warranty is given as to the achievement or reasonableness of any
+plans, future projections or prospects and nothing in this document is or should be relied upon as a
+promise or representation as to the future. To the fullest extent possible, all liability for any loss or
+damage of whatsoever kind (whether foreseeable or not) which may arise from any person acting on
+any information and opinions contained in this White Paper or any information which is made
+available in connection with any further enquiries, notwithstanding any negligence, default or lack of
+care, is disclaimed.
+Translations
+This White Paper and related materials are issued in English. Any translation is for reference purposes
+only and is not certified by any person. If there is any inconsistency between a translation and the
+English version of this White Paper, the English version prevails.
+Third party references
+References in this White Paper to specific companies, networks and/ or potential use cases are for
+illustrative purposes only. The use of any company and/or platform names and trademarks does not
+imply any affiliation with, or endorsement by, any of those parties. All references to ‘dollars’, USD or
+‘$’ are references to United States dollars unless otherwise stated.
+Graphics
+All graphics included in this White Paper are for illustrative purposes only. In particular, graphics with
+price reference do not translate into actual pricing information.
+
+45
+
+RISK WARNING
+Trading and investing in cryptocurrencies involve substantial risk of loss and is not suitable for all
+types of investors. Please make sure you are investing mindfully after understanding the nature,
+complexity and risks inherent in the trading of cryptocurrency. You should not purchase
+cryptocurrency unless you understand the extent of your exposure to potential loss.
+Cryptocurrencies price can be affected by many factors, including, but not limited to, national and
+international economic, financial, regulatory, political, terrorist, military, and other events. Extreme
+changes in price may occur at any time, resulting in a potential loss of value of your entire
+investment in cryptocurrencies, complete or partial loss of purchasing power, and difficulty or a
+complete inability to sell or exchange your currency. Please make sure you are not risking funds you
+cannot afford to lose. In no event shall CoinField will be liable to any loss or damage of any kind
+incurred as a result of the use of this site or the services found at this site. COINFIELD VENTURES OÜ
+- Reg. number: 14719663 - Maakri street 19/1 10145 Tallinn, Harjumaa, Estonia. Licenses numbers
+FVR001049 and FRK000941.
+
+46
+
+References
+[1]​ - Kolchin, K. (2018). ​Global Capital Markets & Financial Institutions Primer​. ​Global Capital Markets
+& Financial Institutions Primer​. New York, NY: SIFMA INSIGHTS.
+URL:
+https://www.sifma.org/wp-content/uploads/2018/09/SIFMA-Insights-Capital-Markets-Primer.pdf
+[2]​ - BIS Statistics. (2018, December 31). ​BIS Statistics​. Retrieved from
+https://stats.bis.org/statx/srs/tseries/OTC_DERIV/H:D:A:A:5J:A:5J:A:TO1:TO1:A:A:3:C?t=D5.1&p=20181&
+x=DER_TYPE.1.CL_OD_TYPE.H:D:A&o=w:20041.20181​,s:line,t:Derivatives measure
+[3]​ - Desjardins, J. (2019, March 11). Where Investors Put Their Money in 2018. Retrieved from
+https://www.visualcapitalist.com/where-investors-put-their-money-in-2018/
+[4]​ - Institutional Trends in Asset Allocation. (2019, January 14). Retrieved from
+https://www.blackrock.com/institutions/en-gb/insights/rebalancing-survey
+[5]​ - VISA Fact Sheet. (2018). ​VISA Fact Sheet​. Retrieved from
+https://www.visa.gr/dam/VCOM/download/corporate/media/visanet-technology/aboutvisafactsheet
+.pdf
+[6]​ - Powering the Internet of Value. (2018, December 31). Retrieved from ​https://xrpl.org/
+[7]​ - XRP Ledger Overview. (2018, December 31). Retrieved from
+https://xrpl.org/xrp-ledger-overview.html
+[8]​ - CIA. (2017). ​Stock of Broad Money​. ​Stock of Broad Money.​ Retrieved from
+https://www.cia.gov/library/publications/the-world-factbook/rankorder/2215rank.html
+[9]​ - Gold Council. (2018). ​How Much Gold​. Retrieved from
+https://www.gold.org/about-gold/gold-supply/gold-mining/how-much-gold
+[10]​ - Global Charts. (2019, September 26). Retrieved from ​https://coinmarketcap.com/charts/
+[11] ​- HSBC. (2017). ​Global Real Estate: Trends in the World’s Largest Asset Class.​ Retrieved from
+https://internationalservices.hsbc.com/content/dam/hsbcis/pdf/HSBC_Global_Real_Estate_Report
+_July2017.pdf
+
+47
+
+https://coinﬁeld.com
+https://sologenic.com
+
+@CoinFieldEX
+
+@CoinFieldCHAT
+
+@CoinField
+
+@coinﬁeldexchange
+
+

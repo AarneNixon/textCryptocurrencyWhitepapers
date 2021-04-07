@@ -1,0 +1,288 @@
+SUN WHITEPAPER
+SUN is a social experiment filled with unlimited imaginations. It is a crucial
+component of the TRON DeFi. Together with the other developed decentralized
+finance (DeFi) projects, it enriches the whole TRON ecosystem. It may also take part
+in decentralized lending, insurance, liquidity, stable coins, etc.
+
+SUN is completely initiated, driven and developed by the SUN community. All of
+SUN’s functionalities will be implemented by open-source smart contracts, and is
+wholly operated by the community. The functionalities are developed based on
+community initiatives. All proposals and decision making are voted via SUN within
+the community, minority obeys majority.
+
+SUN will be deployed to the TRON Virtual Machine with smart contract, becoming a
+nexus closely correlated with other existing DeFi projects.
+
+SUN’s Spirit
+Manifesting a long lasting, decentralized and a total community self-governance.
+
+SUN’s Vision
+We hope that it would be an utterly self-governed social experiment. The SUN
+community would initiate more bold, radical, yet sincere and vigorous discussions, or
+even put them into practice.
+
+SUN’s Future
+We are uncertain about SUN’s future, yet we believe SUN’s future is determined by
+SUN’s community itself. The SUN community belongs to the SUN’s beliefs, belongs
+to SUN’s miner, belongs to SUN’s HOLDER.
+
+YOU SHOULD NOT MISS THIS!
+There are no pre-mined, no reserves for the team, no venture capital (VC) or private
+investments. SUN could only be mined! We inherit Bitcoin’s trait of absolute fair
+distribution on SUN.
+
+I. SUN Issuance
+
+SUN is the digital asset, SUN in abbreviation, based on the TRC20, the technical
+standard used for tokens within smart contracts on the TRON blockchain. Total token
+supply is 19,900,730.
+
+II. SUN Distribution
+The distribution of the SUN is completely decentralized via mining based on the
+smart contract. The only way to mine SUN is to stake TRX or TRC20 Tokens
+(include Liquidity Provider LP Tokens).
+
+1. Mining Method
+Genesis Mining: Stake TRX into SUN’s smart contract. After the completion of
+Genesis Mining, the smart contract will reward SUN and refund all assets back to
+users’ accounts, charging no handling fees.
+Regular Mining: During Regular Mining, TRX, JST, USDT, SUN, USDJ, WIN, BTT,
+high-quality community projects, and liquidity mining pools will be set up. Users can
+participate in mining by staking different tokens.
+
+2. Mining Timeline
+SUN Genesis Mining will formally kick off on September 2, 2020 and ends on
+September 16, 2020, 2 weeks in total. Regular Mining of TRX staking mining pool will
+start right after the end of Genesis Mining, 16 weeks in total.
+Genesis Mining starts at 2020/9/2 21:00 SGT
+Regular Mining starts at 2020/9/16 23:00 SGT
+We will celebrate the official launch date of SUN, 2020/9/16 by naming that day ‘SUN
+Day’.
+
+3. Mining Reward
+Genesis Mining: Every week, 930,301 SUN will be mined. A total of 1,860,602 SUN
+can be mined in 2 weeks, equivalent to 9.34% of the total supply.
+Regular Mining: There are TRX mining pool, TRC20 token mining pools and
+liquidity provider token mining pools.
+
+Regular Mining in TRX mining pool:
+The quantity of SUN obtained by users participating in mining is determined by the
+number of staked TRX and its lock-up duration. Users can participate in staking TRX,
+release their staked TRX, and claim the SUN at any time.
+Daily Minable SUN of TRX mining pool is as follow:
+
+TRX SUN / Day
+TRX
+
+Period（HKT）
+
+10000
+
+2020.09.16 23:00:00 -- 2020.9.30 23:00:00
+
+3000
+
+2020.9.30 23:00:00 -- 2020.10.14 23:10:00
+
+Status
+
+Regular Mining in TRC20 Tokens mining pool:
+The quantity of SUN obtained by users participating in mining is determined by the
+number of staked TRC20 Tokens and its lock-up duration. Users can participate in
+staking TRC20 Tokens, release their staked TRC20 Tokens, and claim the SUN at
+any time.
+Daily Minable SUN of different TRC20 token mining pools are as follow:
+
+TRC20 Token SUN / Day
+
+Period（HKT）
+
+SUN
+
+3000
+
+2020.9.30 23:00:00 -- 2020.10.14 23:10:00
+
+JST
+
+500
+
+2020.9.30 23:00:00 -- 2020.10.14 23:10:00
+
+USDT
+
+500
+
+2020.9.30 23:00:00 -- 2020.10.14 23:10:00
+
+Status
+
+WBTT
+
+500
+
+2020.9.30 23:00:00 -- 2020.10.14 23:10:00
+
+USDJ
+
+500
+
+2020.9.30 23:00:00 -- 2020.10.14 23:10:00
+
+HT
+
+1400
+
+2020.9.23 14:00:00 -- 2020.10.8 14:00:00
+
+The number of daily minable SUN will not decrease.
+
+Related TRC20 token contract address:
+SUN：TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9
+JST：TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9
+USDT：TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t
+WBTT：TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt
+USDJ：TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT
+HT：TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h
+
+Regular Mining in Liquidity mining pool:
+During Regular Mining, the quantity of SUN obtained by users participating in mining
+is determined by the number of staked LP (Liquidity Provider) tokens and its lock-up
+duration. Users can participate in staking LP tokens, release their staked LP tokens,
+and claim the SUN at any time.
+Daily Minable SUN of different LP token mining pools are as follow:
+
+LP Token
+
+SUN / DAY
+
+Period（HKT）
+
+TRX-SUN-LP
+
+49000
+
+2020.09.16 23:00:00 -- 2020.9.30 23:00:00
+
+7000
+
+2020.9.30 23:00:00 -- 2020.10.14 23:10:00
+
+39000
+
+2020.09.16 23:00:00 -- 2020.9.30 23:00:00
+
+3000
+
+2020.9.30 23:00:00 -- 2020.10.14 23:10:00
+
+29000
+
+2020.09.16 23:00:00 -- 2020.9.30 23:00:00
+
+3000
+
+2020.9.30 23:00:00 -- 2020.10.14 23:10:00
+
+TRX-WBTT-LP
+
+1500
+
+2020.9.30 23:00:00 -- 2020.10.14 23:10:00
+
+TRX-WIN-LP
+
+1500
+
+2020.9.30 23:00:00 -- 2020.10.14 23:10:00
+
+TRX-USDJ-LP
+
+1000
+
+2020.9.30 23:00:00 -- 2020.10.14 23:10:00
+
+TRX-JST-LP
+
+TRX-USDT-LP
+
+Status
+
+TRX-HT-LP
+
+600
+
+2020.9.23 14:00:00 -- 2020.10.8 14:00:00
+
+The number of daily minable SUN will not decrease.
+
+Related LP token contract address:
+TRX-SUN-LP：TUEYcyPAqc4hTg1fSuBCPc18vGWcJDECVw
+TRX-JST-LP：TYukBQZ2XXCcRCReAUguyXncCWNY9CEiDQ
+TRX-USDT-LP：TQcia2H2TU3WrFk9sKtdK9qCfkW8XirfPQ
+TRX-WBTT-LP：TH2mEwTKNgtg8psR6Qx2RBUXZ48Lon1ygu
+TRX-WIN-LP：TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7
+TRX-USDJ-LP：TQcia2H2TU3WrFk9sKtdK9qCfkW8XirfPQ
+TRX-HT-LP：TLLBBiX3HqVZZsUQTBXgurA3pdw317PmjM
+
+4. Mining Fairness
+During the Genesis Mining period, the mining reward will be distributed fairly
+according to the number of staked TRX over time. All mining rewards are calculated
+based on the smart contract implementation.
+
+Formula: Amount of genesis-mined SUN the user receives = the share of SUN the
+user is entitled to * total amount of genesis-mined SUN
+In which:
+Total Minable SUN in Genesis Mining = 1,860,602
+Total amount of genesis-mined SUN = SUN total supply * genesis-mined percentage
+Share of SUN the user is entitled to = (amount of TRX the user staked * lock-up
+duration) / (∑amount of TRX staked by all users * lock-up duration)
+
+For Example: Assume there are 1860602 SUN mined during the Genesis Mining,
+and there are 3 people participating: A, B & C.
+
+A staked 10,000 TRX to the smart contract on DAY 1.
+B staked 20,000 TRX to the smart contract on DAY 6.
+C staked 50,000 TRX to the smart contract on DAY 9.
+When the Genesis Mining ends, the mining rewards they receive are as follow:
+A staked period: 14 days
+B staked period: 9 days
+C staked period: 6 days
+
+Mining Contribution weighted with time = 10,000 * 14 + 20,000 * 9 + 50,000 * 6 =
+620,000
+A’s Mining Contribution Ratio = 10,000 * 14 / 620,000 = 22.58%
+B’s Mining Contribution Ratio = 20,000 * 9 / 620,000 = 29.03%
+C’s Mining Contribution Ratio = 50,000 * 6 / 620,000 = 48.39%
+
+Finally, the amount of their SUN reward would be:
+A’s mining reward: 1,860,602 * 22.58% = 420,123.93 SUN
+B’s mining reward: 1,860,602 * 29.03% = 540,132.76 SUN
+C’s mining reward: 1,860,602 * 48.39% = 900,345.31 SUN
+
+5. Mining Security
+The smart contract of SUN has already been audited by professional security audit
+authorities. The source code of the smart contract will be publicly disclosed when the
+project launches, assuring that there will be no security risk involved in staking
+different assets to the smart contract.
+
+III. Roadmap
+Phase 1: Genesis Mining
+Following the implementation of the smart contract, the mining reward will not be
+decreased. The staked TRX cannot be unstaked until the end of the Genesis Mining
+period. A one-off SUN reward will be distributed after the completion of Genesis
+Mining in 24 hours.
+
+Phase 2: Regular Mining
+Following the implementation of the smart contract, the staked TRX can be unstaked
+anytime, and claim the SUN reward in real time.
+
+Phase 3: Ecosystem Docking
+Docking to numerous DeFi projects within the TRON ecosystem.
+
+Phase 4: Community Self-Governance
+
+SUN holders are able to govern the SUN community themselves. The more SUN you
+own, the greater power you have.
+
+

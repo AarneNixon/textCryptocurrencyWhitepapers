@@ -1,0 +1,1228 @@
+SmartMesh® : HyperMeshTM Ecosystem
+
+SmartMesh®
+HyperMeshTM Ecosystem
+Whitepaper
+Version 3.0
+2019.07.07
+
+© 2017-2019 SmartMesh® and Meshbox® Foundation Pte. Ltd, MeshPlusPlusTM Confidential
+1
+
+SmartMesh® : HyperMeshTM Ecosystem
+
+Table of Contents
+
+1.
+
+Executive Summary ..................................................................................................... 3
+
+2.
+
+SmartMesh® and Meshbox® Introduction ................................................................... 6
+
+3.
+
+HyperMeshTM versus Traditional Communications ...................................................... 8
+3.1
+
+HyperMeshTM Infrastructure and 5G Cellular Interworking ................................ 10
+
+4.
+
+Smart Grid Transactive Energy .................................................................................. 13
+
+5.
+
+Cyber-Physical Infrastructure Services Monetization ................................................. 16
+5.1 SmartMesh® Adds a New Dimension to Blockchain Technology........................ 17
+5.2 Shared-ROI ......................................................................................................... 17
+5.3 MeshBox® Requirements for Integrated Blockchain Technology ........................ 17
+5.4 Spectrum and Photon Architecture...................................................................... 19
+5.5 Spectrum and Photon Meets and Exceeds Blockchain Requirements ................ 20
+
+6.
+
+Conclusion ................................................................................................................. 22
+
+7.
+
+References................................................................................................................. 24
+
+© 2017-2019 SmartMesh® and Meshbox® Foundation Pte. Ltd, MeshPlusPlusTM Confidential
+2
+
+SmartMesh® : HyperMeshTM Ecosystem
+
+1. Executive Summary
+Our current Cyber-Physical Infrastructure is a technological marvel, gifting mankind with tools to
+innovate at an ever-increasing exponential rate. We depend on such innovation if we are to
+survive and thrive as a species.
+However, the need for faster, ubiquitous, exchange of information and value continues to expand
+in scope, even bringing in everyday objects and machines. The current infrastructure, which was
+built by corporations focusing on maximizing share-holder profits, is flawed, due to the centralized
+nature of the business model, and by the resulting centralized networks which have been created.
+In March, 2018, the world-wide-web turned 29 years old. In an open letter to mark the 29th
+anniversary of his invention, Berners-Lee made some sharp criticisms on how the technology has
+been deployed:
+In recent years, we’ve seen conspiracy theories trend on social media platforms, fake
+Twitter and Facebook accounts stoke social tensions, external actors interfere in elections, and
+criminals steal troves of personal data.
+These problems have proliferated because of the concentration of power in the hands of a
+few platforms – including Facebook, Google, and Twitter – which control which ideas and
+opinions are seen and shared.
+Furthermore, centralized data in the hands of a few corporations constitute single-points-offailure and are susceptible to a myriad of internet attacks such as DDOS, malware, etc.
+While many in the developed countries enjoy advanced technology, there is a growing divide with
+the rest of the world. There are currently 3.9 Billion people without internet access, 2 Billion
+people who are unbanked, and 1.2 Billion without access to electricity [Paygo]. The current
+system cannot effectively address such needs. A new paradigm is needed.
+The next generation infrastructure will not be just another iteration on the previous architectures.
+Rather, it will be a HyperMeshTM architecture, a distributed, synergized blend of networking,
+computing, content distribution, financial technology, and cyber-physical infrastructures.
+The HyperMeshTM Infrastructure is being built from the ground-up, in a distributed fault-tolerant
+manner, incentivized by blockchain cryptocurrencies, powered by renewable transactive energy,
+and enabled by a world-wide Satellite Internet with local peer-to-peer (P2P) Meshed
+communication on the ground.
+
+© 2017-2019 SmartMesh® and Meshbox® Foundation Pte. Ltd, MeshPlusPlusTM Confidential
+3
+
+SmartMesh® : HyperMeshTM Ecosystem
+
+SmartMesh®, along with and ecosystem partners such as Meshbox ®, are in a unique position to
+speed up the realization of such a HyperMeshTM Infrastructure architecture. Rather than focus
+on maximizing share-holder profits and supporting the costly requirements associated with
+bleeding-edge applications, SmartMesh® strategy aims to achieve:
+
+
+Inclusivity: Provide basic cyber-physical infrastructure for all peoples, including those
+without access. Provide adequate performance for the most common applications:
+Support of Wifi communication (which is more prevalent than cellular connectivity);
+secured, fault-tolerant content and data storage; and low-latency, high-throughput
+payment network; and renewable energy resources.
+
+
+
+Social Entrepreneurship: Provide a means to bring dignity and a sustainable livelihood to
+the masses. Enables common people to earn a living by selling Internet of Value (IoV)
+services to neighbors and keeping the ROI within the community. People become service
+providers and have the freedom to deploy infrastructure as they wish.
+
+The key value-propositions being offered are.
+
+
+SmartMesh® has deployed a Public Blockchain and Applications
+o Spectrum Blockchain solution running with SmartMesh® Token (SMT) coin.
+o High throughput, low latency Photon Payment Network with secured backing on
+Spectrum.
+o SmartMesh® Wallet and Distributed-Applications for monetized Wifi, Internet,
+Storage, and Payments.
+
+© 2017-2019 SmartMesh® and Meshbox® Foundation Pte. Ltd, MeshPlusPlusTM Confidential
+4
+
+SmartMesh® : HyperMeshTM Ecosystem
+
+
+
+Meshbox® has built MeshBox® Wifi Routers
+o Indoor and Outdoor MeshBox®es, communicating through Mesh networking to
+seamlessly cover any application area.
+o Global connectivity with interfaces to various Wide-Area-Networks (WAN)
+o Disk Space for data storage, content delivery, and offline-data access.
+
+
+
+SmartMesh® and Meshbox® are optimized to deliver
+o First Blockchain-enabled Communication Infrastructure
+o Offline payments and Content Delivery, via Wifi Mesh Network, with or without
+Internet connection.
+o Low-cost MeshBox® hardware, plug-and-play operation, unlicensed spectrum, and
+a blockchain-based monetization mechanism.
+
+The MeshBox® product is an implementation of the above key value-propositions and is an
+essential building block of the HyperMesh TM Infrastructure.
+In the following, key attributes of SmartMesh® and differentiation from other technologies are
+described, with the following interpretation of the various font colors.
+•
+•
+•
+
+Expensive, Heavy Technologies
+Traditional (outdated) Technologies
+Cost-Effective, Lightweight Technologies (using SmartMesh®)
+Hyper-MeshTM Ecosystem:
+
+SmartMesh®
+
+Content and Data Storage
+PC Hard-Disk
+SAN
+Network-File-System
+Content Delivery Networks
+
+Inter-Galactic-File-SystemTM
+
+Cyber-Physical Infrastructure Services Monetization
+Customers paying Service Providers : Internet, Cloud, Storage
+Fiat Currency Transfers with high fees: SWIFT ACH
+Remittance
+Banking Infrastructure with high fees: Credit/Debit/Gift Cards
+
+Customers paying Utilities
+
+Social Entrepreneurship
+Spectrum Blockchain
+PhotonTM Payment Network
+SMT / MESH Token Transfers
+Wormhole Universal ChannelsTM
+Token-SwitchingTM
+AtmosphereTM
+Peer-to-Peer Transactive Energy
+
+The terms above are described in this whitepaper in more detail.
+© 2017-2019 SmartMesh® and Meshbox® Foundation Pte. Ltd, MeshPlusPlusTM Confidential
+5
+
+SmartMesh® : HyperMeshTM Ecosystem
+
+2. SmartMesh® and Meshbox® Introduction
+Meshbox® Foundation has been partnering with SmartMesh® Foundation from the beginning to
+realize the HyperMeshTM Infrastructure. SmartMesh® blockchain technology has been optimized
+to run on MeshBox®es.
+SmartMesh® has deployed the Spectrum public blockchain, which supports the following coins
+and tokens.
+ SmartMesh® Token coin, listed on Huobi.pro and Gate.io, and used for Spectrum
+blockchain.
+ MESH tokens, listed on FCoin.com and HitBTC, and used for the Content Delivery
+Networks, supporting video streaming.
+Meshbox® and SmartMesh® bring about a paradigm shift to enable Infrastructure deployment
+which is highly robust, yet flexible, due to the ability to operate
+ With or without the Internet (or Intermittent Internet)
+ With or without a blockchain; with Photon high-throughput Payment Network,
+ With or without an electrical grid; with renewable battery and solar technology.
+MeshBox®es are used to form large, highly-scalable Wifi Mesh Networks spanning both indoors,
+and outdoors, over which SmartMesh®’s blockchain technology is layered.
+
+Indoor MeshBox®
+
+Outdoor MeshBox++TM [MB++]
+
+Hereafter, “MeshBox®” refers to both the Indoor MeshBox® and outdoor MeshBox++TM versions,
+“Indoor MeshBox®” refers to the indoor version, and “MeshBox++TM” refers to the outdoor
+version.
+MeshBox®, as a key component of the HyperMeshTM architecture, works well with several key
+market trends:
+© 2017-2019 SmartMesh® and Meshbox® Foundation Pte. Ltd, MeshPlusPlusTM Confidential
+6
+
+SmartMesh® : HyperMeshTM Ecosystem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wireless communications. MeshBox® provides dense (many users per area), high datarate coverage, much like Small Cells in 5G Cellular Networks.
+Meshed-Networking uses distributed, ad-hoc networking to provide fault tolerance to
+failures, and can be deployed automatically without complicated network configuration
+tools
+Edge-computing, Edge Storage. MeshBox® supports distributed Data storage through
+Inter-Galactic-File-System (IGFS). Keeping computations and data local reduces traffic,
+latency, and energy.
+Peer-to-peer communications (e.g Device-to-Device) through Mesh networking
+Transactive-IoT with Energy efficient computing and communication. Multi-Core CPUs
+are used to process both data-routing, data-storage, content delivery, and blockchainbased payment networks. MeshBox® provides a control point for Transactive IoT
+networks (interfacing to LoRa technology).
+Transactive Energy. The outdoor MeshBox++TM integrates solar panels and batteries for
+self-sufficient operation. MeshBox® acts as a control point for managing the flow and
+payment of electricity between Distributed-Energy-Resources.
+Monetization of Infrastructure services with Blockchain and Crypto-currency: Spectrum
+blockchain and Photon secondary architecture supports peer-to-peer payments.
+Wormhole Universal ChannelsTM enable interoperability between various third-party
+blockchains, using the AtmosphereTM architecture.
+AI and Big Data Services: Applications and services built on MeshBox® support SharedROI and double-auction buying and selling of products and services, on behalf of the user.
+
+© 2017-2019 SmartMesh® and Meshbox® Foundation Pte. Ltd, MeshPlusPlusTM Confidential
+7
+
+SmartMesh® : HyperMeshTM Ecosystem
+
+3. HyperMeshTM versus Traditional Communications
+MeshBox®es are used to build a HyperMesh TMed Infrastructure, which incorporates a newly
+emerging networking paradigm.
+In First-generation Circuit-Switching, each connection between communicating parties receives
+dedicated (reserved) Bandwidth, even when not being used. Examples include Plain-OldTelephone System (POTS), SONET/SDH, and DWDM for fiber communications.
+Second-generation Packet Switching is comprised of storing-and-forwarding of message-segments
+(packets) in routers, which dynamically arbitrate/schedule which packets are transmitted on
+shared transmission lines. This sharing provides better resource sharing of shared resources and
+makes use of buffers (memory) to temporarily store packets, thus greatly improving the utilization
+and efficiency of networking resources. Examples are Switched Ethernet, Internet Routers, and
+Voice-over-IP.
+The newly emerging Third-generation is called Token-SwitchingTM and is enabled by Blockchain.
+In this new paradigm the scope is greatly expanded from information exchange to a selfsustainable Internet of Value (IoV), represented by the exchange of tokens. Tokens can represent
+not only monetary value (e.g. Ethers, SMT, MESH), but also non-monetary entities such as a car or
+house title, personal identity, medical records, a vote in an election, and can even be linked to
+physical objects in a supply chain.
+The following shows the progression of networking and computer architecture from the
+mainframe era to today’s HyperMeshTM infrastructure, which supports the Internet of Value.
+
+© 2017-2019 SmartMesh® and Meshbox® Foundation Pte. Ltd, MeshPlusPlusTM Confidential
+8
+
+SmartMesh® : HyperMeshTM Ecosystem
+
+Mainframe Computers and Voice-Communications
+Centralized
+Circuit-Switched
+Mainframe
+Cellular 1G 1980s ; 2G 1990s
+
+Terminal
+
+Terminal
+
+Terminal
+
+Shared Bus
+Communication
+
+Internet : Personal-Computers, Data-Communications
+Centralized
+Content
+Cellular 3G 2000s
+Delivery
+Web
+Circuit-Switched Voice
+Servers
+Packet-Switched Data
+Content
+Delivery
+Router
+
+Web
+Servers
+
+Router
+Router
+PC
+
+PC
+PC
+PC
+
+Cloud : Software defined Networking/Computing/Storage
+De-Centralized
+Cloud
+Cloud
+Cellular 4G 2010s
+Servers
+Servers
+Packet-Switched Voice
+Internet
+Packet-Switched Data
+Network of Networks
+
+Evolved Packet Core
+Modem
+
+Wifi
+Router
+Laptop
+CellPhone
+
+CellPhone
+
+CellPhone
+
+Wearables
+
+$
+
+MB
+
+$
+
+MB
+
+MB
+
+Hyper-Mesh : Internet of Value with Mesh Networking
+Distributed
+Cellular 5G 2020s Interoperability
+Packet-Switching
+Peer-to-Peer Communications
+Token-Switching and Blockchain
+Transactive IoT
+Transactive Energy
+
+$
+
+$
+
+$
+MB
+
+$
+
+MB
+
+$
+
+© 2017-2019 SmartMesh® and Meshbox® Foundation Pte. Ltd, MeshPlusPlusTM Confidential
+9
+
+SmartMesh® : HyperMeshTM Ecosystem
+
+3.1
+
+HyperMeshTM Infrastructure and 5G Cellular Interworking
+
+In a traditional networks with 4G cellular communications, all traffic goes to Data Center
+Cloud Servers for Economy-of-Scale of compute and storage resources. However, this
+requires many hops (at least 13) between terminals, even those which are physically close
+to each other, and thus suffers from high energy and latency requirements. In Cellular
+5G’s Cloud RAN architecture, traffic from Wifi networks only needs to go to the Cloud
+RAN, which is located close to Base-Stations. Value-add for Over-the-Top applications
+are moved to the Cloud RAN in an effort to support Edge-Intelligence. This results in
+fewer hops, (at least 8), but is still expensive. In both 4G and 5G scenarios, while Wifi is
+an essential part of the architecture, a Wifi Mesh is not desirable since such mesh traffic
+cannot be seen, and thus cannot be monetized or analyzed for value-add to Over-the-Top
+Applications (Facebook, Baidu, etc).
+Data-Center
+Cloud Servers
+
+Data-Center
+Cloud Servers
+
+Internet
+Network of Networks
+Evolved Packet Core
+
+eNodeB
+
+4G
+Basesations
+5G Cloud
+RAN
+5G Small Cells
+Wifi
+
+Wifi
+Wifi
+Wifi
+
+Wifi
+
+Wifi
+Router
+
+Wifi
+Wifi
+
+Wifi
+
+Wifi
+
+Wifi
+
+> 13 Hops
+
+8 Hops
+
+SmartMesh and Meshbox are differentiated from the convention 4G/5G network
+architecture by supporting billing, analytics, and value-added services within the Mesh
+network. Thus, network operators can deploy Wifi equipment for the Access network,
+and support many of the functions which were previously supported only in the Cloud RAN
+© 2017-2019 SmartMesh® and Meshbox® Foundation Pte. Ltd, MeshPlusPlusTM Confidential
+10
+
+SmartMesh® : HyperMeshTM Ecosystem
+
+or Data-Center Cloud servers.
+This allows the operator to dramatically reduce costs for
+access networks, reduce the number of hops (3 or 4) and still retain the capability to
+monetize value-added services.
+For inclusiveness, members of a community are not dependent on Operators, and can
+setup and run their own HyperMesh Infrastructure.
+Thus, wealth is re-circulated within
+the community through Peer-to-Peer payments for Wifi, Content delivery, Banking, and ECommerce.
+
+Cyber-Physical Hyper-Mesh Infrastructure:
+Transactive Energy and IoT
+SmartMesh
+Protocols enable
+Monetization of
+Wifi Mesh Traffic
+
+$
+
+MB
+
+MB
+
+$
+
+$
+
+$
+MB
+
+3 Hops
+
+$
+
+MB
+
+$
+
+MB
+
+$
+
+IoT
+GateWays
+
+4 Hops
+Hyper-Meshed
+Fractal
+Network
+
+Deployment of MeshBox is incentivized through a Return-on-Investment model in which
+MeshBox Owners (e.g. home-owners, shop-keepers) or Investors of MeshBoxes receive
+the following revenue, in the form of SmartMesh Tokens (SMT) or MESH Tokens, for
+sharing various services to community members.
+© 2017-2019 SmartMesh® and Meshbox® Foundation Pte. Ltd, MeshPlusPlusTM Confidential
+11
+
+SmartMesh® : HyperMeshTM Ecosystem
+
+
+
+
+
+
+
+
+MeshBox Wifi network and Internet.
+Photon payment network Fees for exchanging of payments and tokens between people
+and machines.
+Storage of audio/video content, websites, and community data, on the MeshBoxes’
+internal Disk Storage.
+IoT Sensor and Actuator networks using MeshBoxes as a control and data logging node.
+Gas fees for signing blocks on the Spectrum blockchain
+Targeted advertisement and location based services
+
+© 2017-2019 SmartMesh® and Meshbox® Foundation Pte. Ltd, MeshPlusPlusTM Confidential
+12
+
+SmartMesh® : HyperMeshTM Ecosystem
+
+4. Smart Grid Transactive Energy
+Consider the traditional Electric Power System (EPS) which is composed of centralized Utility
+Plants (coal, gas, nuclear) and a transmission and distribution network to the end customers.
+Such a system is designed for the peak energy needed and is thus over-engineered for the worstcase. The energy transmission is one-way and is delivered just-in-time with no storage of energy
+along the path (no buffering) from utility to consumers. Due to this Just-in-time nature, all the
+energy produced must match the energy consumed, on microsecond timescales.
+The EPS is one massive machine such that small variations in frequency and voltage can easily
+occur, causing the entire system to crash, leading to black-outs.
+Traditional Electric Power System :
+Centralized, one-way, just-in-time Energy delivery
+
+Recently, the penetration of Distributed Energy Resources (DER) such as solar, batteries, and wind
+is intensifying due to an exponential decrease in cost; while the cost of traditional energy sources
+continues to rise. Rooftop solar will soon become cheaper than the transmission of electricity
+from Centralized Utilities. So, even if the generation of energy is free at the centralized utility,
+just the cost of transmitting that energy to customers will be more than the cost of solar panel
+systems at each customer’s house [Seba].
+Thus, consumers of electricity will also be producers of energy, and are treated as Prosumers.
+This in turn enables the future Smart Grid, which supports peer-to-peer exchange of Energy
+between Prosumers, which is cheaper, fault-tolerant, and can be controlled by the people (versus
+a centralized authority, the Utility).
+
+© 2017-2019 SmartMesh® and Meshbox® Foundation Pte. Ltd, MeshPlusPlusTM Confidential
+13
+
+SmartMesh® : HyperMeshTM Ecosystem
+
+Transactive Energy Electric Power System : Distributed, Peer-to-Peer Energy
+Auction with SmartMesh/MESH Tokens as payment system
+
+Mesh
+Box
+
+Mesh
+Box
+
+Mesh
+Box
+
+SmartMesh
+Token-based
+Auction for
+Energy
+Packets
+
+Mesh
+Box
+
+The US Department of Energy (DOE) Gridwise Alliance proposes a Transactive Energy architecture
+for such a future Smart Grid [Gridwise]. Such systems have been implemented at several testsites [Powermatcher] [TeMix]. Transactive-Energy enables the next generation EPS revolution to
+an Energy Internet (Enernet).
+A Transactive Energy system requires optimizing an Ultra-Large-Scale System-of-Systems, the
+most complex machine in the world (the Electric Grid)
+Transactive Energy is composed of
+1.
+2.
+3.
+4.
+
+Electric Power System (EPS)
+Distributed, Meshed Communications Network
+Realtime Control
+Blockchain
+
+The Electrical Network (IEEE 1547, 2030) must evolve from supporting Centralized one-way flows
+to that of Decentralized and Distributed two-way flows. This network enables efficient energy
+sharing between DERs, traditional generators, and prosumers. This architecture is likely to be a
+Mesh architecture due to its distributed, fault tolerant nature.
+As such, a Distributed, Meshed Communications Network is needed for Prosumers (IoT devices
+and DERs) to communicate to each other to determine when and how to exchange Energy. A
+MeshBox® network, using P2P communication is leveraged for communication between
+Prosumers.
+© 2017-2019 SmartMesh® and Meshbox® Foundation Pte. Ltd, MeshPlusPlusTM Confidential
+14
+
+SmartMesh® : HyperMeshTM Ecosystem
+
+Real-time control is needed in order to schedule Energy transfers between Prosumers. Such an
+exchange of Energy can leverage Double-Auction Applications, with the help of AI, and
+implemented in MeshBox®es, in order to support a distributed online or offline auction between
+prosumers.
+Blockchain is needed to support trusted peer-to-peer payment system between prosumers with
+high Transactions-per-Second (TPS) throughput needed for such machine-to-machine type
+communications and micro-payments. Only Blockchain provides the low-latency, high throughput,
+and low-cost transaction fee performance which is required by Transactive-Energy. Traditional
+fintech technologies are not suitable.
+In a SmartMesh® and Meshbox® enabled Transactive Energy system, both Critical (hospitals) and
+Flexible (Household appliances) Loads represent Application Tasks, each with Energy ServiceLevel-Agreements (SLAs: deadline, max power, energy, etc). Each Prosumer can thus run an
+optimization algorithm based on an utility function such as Benefits minus Cost (primal-dual
+optimization). Benefits include meeting Energy requirements, such as charging an Electric
+Vehicle by 7am deadline; and Cost is measured as LCOE (Levelized Cost of Energy).
+The Fractals Realtime Autonomic Control Transactive Anti-fragile Layered System (FRACTALSTM)
+[FRACTALS] is proposed for Transactive Energy, with the following benefits.
+
+
+During natural disasters, there is often a lack of both power and communications.
+makes sense to address both of these issues with a single, optimized solution.
+
+
+
+SmartMesh® and Meshbox® enables off-internet communication between P2P User
+Equipment, much like FRACTALS enables off-grid energy exchange between P2P
+Distributed Energy Resources and Prosumers. That is, SmartMesh® and Meshbox® can
+work without the Internet and FRACTALS constructs an Islanded Microgrid which can work
+without the EPS Grid.
+
+
+
+SmartMesh®/Meshbox® needs the energy provided by FRACTALS in order to operate,
+while FRACTALS needs the communication and real-time control provided by
+SmartMesh®/Meshbox® in order to implement the P2P auction between the energy
+prosumers.
+
+It
+
+© 2017-2019 SmartMesh® and Meshbox® Foundation Pte. Ltd, MeshPlusPlusTM Confidential
+15
+
+SmartMesh® : HyperMeshTM Ecosystem
+
+5. Cyber-Physical Infrastructure Services Monetization
+Together, SmartMesh® and Meshbox® support an Shared-ROI architecture, which is a
+sophisticated monetization architecture, implemented on MeshBox®es.
+The figure below illustrates the key differences between a Traditional Infrastructure and the
+HyperMeshTM Infrastructure in terms of technology and monetization.
+Technology Comparison
+Traditional Infrastructure
+
+Hyper-Mesh Infrastructure
+
+WAN Technologies
+Wired and Wireless technologies
+
+WAN Technologies (optimized with MeshBox)
+ Satellite Internet
+ TV Whitespace
+
+5G Cellular ($$$$)
+Macro Basestations for Wide Area (10's km) coverage
+Small Cells (Pico and Femto Basestations) ~300 meters
+coverage
+Data-rates 1 to 10 Gbps
+Millimeter wave (up to 60 GHz) licensed Spectrum
+Beamforming and Massive MIMO (100s of Antennas)
+
+Wifi Mesh Network ($)
+ Meshed Wifi networks with ~200 meters
+coverage
+ Data-rates ~100s Mbps to 1 Gbps
+ Wifi 2.4 GHz and 5 GHz Unlicensed Spectrum
+ 4 Omni-directional or Directional Antennas (up
+to 4x4 MIMO)
+
+Internet of Things
+NB-IoT
+
+Internet of Things
+ Wifi and Bluetooth
+ LoRa Technologyy
+
+Cost and Monetization (ROI) Comparison
+Traditional Infrastructure
+Users pay Centralized Entities
+ Network Operators monetize Data-usage (Verizon,
+China Mobile
+ Cloud services monetize Data Storage (Google,
+Amazon, Baidu)
+ Content Delivery Networks monetize streaming of
+content (Netflix, Youku)
+ Payment networks monetize Payments (Paypal,
+Wechat Pay)
+Requires internet connectivity to work
+
+Sophisticated QoS and Ultra-Low-Latency Reliable
+Communications (ULLRC): Virtual Reality, Remote
+Robotic Surgery, Automous vehicle control are very
+expensive to implement and are targeted for high-end,
+bleeding edge applications.
+
+Hyper-Mesh Infrastructure
+Share-ROI Blockchain Based Billing System
+ MeshBox supports multiple services with built in
+Monetization using Smartmesh Blockchain
+ MeshBox owners, advertisers, investors earn tokens
+for providing services.
+
+Can work even with intermittent Internet connectivity
+ Wifi network and Internet Access
+ Data-Storage via IPFS and Content Delivery
+ Payment network via Smartmesh Blockchain
+ Transactive IoT payments and Transactive Energy
+Adequate QoS and high data-rates suitable for Web
+access, Streaming-Media, Transactive Energy, and
+blockchain fintech.
+
+© 2017-2019 SmartMesh® and Meshbox® Foundation Pte. Ltd, MeshPlusPlusTM Confidential
+16
+
+SmartMesh® : HyperMeshTM Ecosystem
+
+5.1 SmartMesh® Adds a New Dimension to Blockchain Technology
+Similar to the progression of networking technology to the Internet of Value, Blockchain
+technologies are also progressing from 1st generation Bitcoin; 2nd generation Ethereum with the
+addition of Smart Contracts; to the 3rd generation of Programmable Societies.
+SmartMesh® has added a 4th dimension, with a HyperMeshTM Blockchain, layering blockchainbased applications onto the MeshBox® Mesh network, and the ability to operate with
+intermittent connection the Internet.
+
+5.2 Shared-ROI
+Owners (e.g. farmers, shop keepers) or Investors of MeshBox®es receive ROI through
+
+
+Revenue from other Customers/Owners/Investors accessing the MeshBox® Wifi network
+and Internet.
+
+
+
+Revenue from storage of audio/video content, websites, and community data, on the
+MeshBox®es’ internal SSD Storage.
+
+
+
+Targeted advertisement and location based services
+
+
+
+IoT Sensor and Actuator networks using MeshBox®es as a control and data logging node.
+
+
+
+Fees for exchanging of payments and value tokens between people and machines.
+
+
+
+Gas fees for signing block on the Spectrum blockchain
+
+
+
+Direct rewards from SmartMesh® and Meshbox®, which are distributed to each MeshBox®
+owner whenever the total number of MeshBox®es sold reaches certain milestones.
+
+The time-frame for ROI is expected to be 3 to 12 months depending on the volume of the above
+transactions using the deployed MeshBox®es.
+
+5.3 MeshBox® Requirements for Integrated Blockchain Technology
+The ROI is paid in terms of SMT and MESH tokens, which are exchanged on the SmartMesh®
+public blockchain, Spectrum. SmartMesh® blockchain technology has been co-optimized with
+the MeshBox® architecture.
+© 2017-2019 SmartMesh® and Meshbox® Foundation Pte. Ltd, MeshPlusPlusTM Confidential
+17
+
+SmartMesh® : HyperMeshTM Ecosystem
+
+The following illustrates the hardware (MeshBox®) and software (SmartMesh®) protocol stack.
+
+Smartmesh and Meshbox Protocol Stack
+Directly Supported in
+MeshBox, powered by
+Smartmesh technology
+
+Smartmesh Software
+
+Application
+
+Internet
+Online and
+Offline
+Apps
+
+Fintech
+(Remittances,
+P2P Payments)
+
+KYC / AML
+DoubleAuctions
+
+Supported through
+MeshBox interface to
+External Hardware or App
+
+Shared-ROI
+Monetization
+
+5G eMBB
+M-to-M
+ULLRC
+
+Inter-Galactic File
+System (IGFS) Data
+Storage Services,
+Content Delivery
+
+Middleware
+Ozone, Dapp Development tools
+
+Smart-Contract
+
+Photon
+Payment
+Channels
+
+Lightening
+Payment
+Channels
+
+Blockchain
+Spectrum
+
+Real-time IoT
+and Transactive
+Energy Control
+
+Perception
+
+Atmosphere
+Crosschain
+Interoperability
+
+Wormhole
+Universal
+Channels
+
+Ethereum ETH
+Exchange with
+SMT
+
+Bitcoin BTC
+Exchange with
+SMT
+
+Transport
+
+MeshBox Hardware
+
+TCP/UDP
+
+Network
+Data-Link
+Physical
+
+Meshed Wifi
+
+802.11 WiFi
+
+Satellite
+Internet
+TV
+Whitespace
+
+LowPower
+Wireless
+Network
+LoRaWAN
+NB-IoT
+Zig-Bee
+
+4G / 5G
+Cellular
+Macro,
+Pico,
+Femto,
+Small
+cells
+
+IP
+
+Ethernet
+
+OFDMA
+
+The following shows the protocol stack’s relationship with a Smartphone, which runs the
+SmartMesh application. The network on the left is a network formed from Smartphones. The
+network on the right is the public Spectrum Blockchain, with peer-to-peer nodes. Perception
+allows for a Smartphone to run a light client to access and control full nodes such as Spectrum
+blockchain node and IGFS.
+
+© 2017-2019 SmartMesh® and Meshbox® Foundation Pte. Ltd, MeshPlusPlusTM Confidential
+18
+
+SmartMesh® : HyperMeshTM Ecosystem
+
+In order to minimize the cost of MeshBox®, the requirements on the blockchain technology to be
+integrated into MeshBox® are very stringent.
+ Light-footprint CPU and Storage: The blockchain must be very light, able to run on a lowcost embedded CPU, and requiring very low Disk space requirements.
+ High TPS: The blockchain and associated Smart-Contracts must be able to support
+100,000s and millions of Transactions-per-Second to scale to a world-wide payment
+system between people, as well as between IoT devices.
+ Scalable TPS: As the number of MeshBox®es grows, the TPS must scale well. Some
+consensus protocols, such as voting protocols require more consensus time as the number
+of nodes increases, which is the opposite of what is needed.
+ Multi-blockchain and tokens : Support multiple blockchain ecosystems and associated
+Token-switchingTM between such blockchains, since different applications may make use
+of different blockchains and tokens.
+
+5.4 Spectrum and Photon Architecture
+The following illustrates how Spectrum and Photon work.
+Ethereum blockchain, and is now a public blockchain.
+
+Spectrum was forked from the
+
+Ethereum Raiden
+Before discussing Photon, a basic State-Channel architecture, such as Ethereum Raiden is first
+described. The following shows an arbitrary Raiden network (which SmartMesh® has also
+© 2017-2019 SmartMesh® and Meshbox® Foundation Pte. Ltd, MeshPlusPlusTM Confidential
+19
+
+SmartMesh® : HyperMeshTM Ecosystem
+
+implemented as “Smart-Raiden”), composed of an interconnection of State-Channels (Channels)
+between Raiden nodes, which are required to be connected to the Internet.
+
+Mediated Transfer through Raiden Nodes A, B, C, M, Z
+
+M
+This route would
+have succeeded
+
+Step 1:
+A wants to send 10 tokens to Z
+
+A
+
+Step 2:
+A-B Channel has AvailableBalance = 15, so 10 tokens can
+be transferred from A to B.
+10
+
+B
+
+Step 3:
+B-C Channel has AvailableBalance = 16, so 10 tokens can
+be transferred from B to C. 10
+
+Step 4:
+C-Z Channel has
+Available-Balance = 6,
+so FAILURE to transfer
+10 tokens from C to Z
+
+C
+
+Z
+
+A transfer is successful when a Route can be found from Initiator (A, the payer) to Target (Z, the
+payee). Raiden payment (Transfers) can be either Direct-Transfers, which take place directly
+between two Photon nodes, or Mediated-Transfers, which are routed through intermediate
+Raiden nodes.
+One issue is that, since Channels are setup by users, the associated Deposits (tokens which users
+must lock into the system) will be minimal, and sometimes, routes cannot be found between
+Initiator and Target. Also, the Raiden network cannot work without continuous connection to
+the Internet.
+SmartMesh® Photon
+To solve the above limitations with Raiden, SmartMesh® has developed Photon, which is similar to
+Raiden, but which is optimized to work on MeshBox®es, which, in-turn, do not require continuous
+Internet connectivity. Also, using statistical multiplexing techniques and economy of scale
+principles, high-deposit Core Channels are established between MeshBox® Photon nodes, which
+ensures that routes are quickly found between payer and payee.
+
+5.5 Spectrum and Photon Meets and Exceeds Blockchain Requirements
+From the beginning of the partnership SmartMesh® blockchain technology, consisting of the
+Spectrum blockchain, and Photon Payment Network (Secondary layer, Smart-Contract) has been
+carefully crafted in order to meet the above requirements.
+
+© 2017-2019 SmartMesh® and Meshbox® Foundation Pte. Ltd, MeshPlusPlusTM Confidential
+20
+
+SmartMesh® : HyperMeshTM Ecosystem
+
+Light-footprint CPU and Storage
+Spectrum is very light-weight, running on low-cost mobile CPUs in MeshBox®. This is due to
+Spectrum’s Proof-of-Capability consensus algorithm which securely, and fairly gives all Spectrum
+nodes an opportunity to Sign blocks. Since Spectrum is deployed with Photon from the
+beginning, most transactions take place on Photon, which minimizes the transactions which need
+to go on the Spectrum blockchain, therefore minimizing the disk-space storage requirements of
+Spectrum.
+Thus, Spectrum is much lighter than other blockchains, such as Bitcoin and Ethereum, which
+require hundreds of GBytes of storage in order to run the corresponding blockchains. With such
+a low storage foot-print, MeshBox® Disk Space can be primarily used to store Data and Content,
+rather than being used to support the Spectrum blockchain.
+The Photon network offloads most of the transactions from Spectrum by establishing StateChannels between Photon nodes and allowing for an unlimited number of peer-to-peer
+transactions to take place between two Photon nodes, without needing to be recorded on the
+Spectrum blockchain.
+High TPS
+Spectrum blockchain takes care of securely Allocating and Settling State-Channels, and then
+allows Photon to manage all transactions between Photon nodes. Since only the allocation and
+settling of Channels requires Spectrum consensus, and an unlimited number of transactions can
+flow between the Photon nodes which use the State-Chanels, much of the burden is removed
+from Spectrum and results in the entire Spectrum + Photon architecture being able support
+millions of TPS.
+Scalable TPS
+As the number of MeshBox®es grows, the Spectrum+Photon TPS scales very well. This is
+because the peer-to-peer transactions between Photon nodes can all take place concurrently, and
+are thus highly parallelizable. Thus, the more Photon nodes there are, the higher the TPS scales.
+Multi-blockchain and tokens
+Not only does the SmartMesh® blockchain support the SMT (SmartMesh® Token) coin and MESH
+token, but other blockchain tokens are supported as well, including ERC-20 tokens from Ethereum
+and BTC from Bitcoin. This is done with Wormhole Universal Channel technology and the
+Atmosphere architecture being developed by SmartMesh®.
+
+© 2017-2019 SmartMesh® and Meshbox® Foundation Pte. Ltd, MeshPlusPlusTM Confidential
+21
+
+SmartMesh® : HyperMeshTM Ecosystem
+
+6. Conclusion
+The human race is at a fork in the road in which existential threats loom, even while innovation
+provides us with the key to avoid extinction level events and strive towards a prosperous utopia.
+Everything we do has the potential to move us toward either a Utopian or Dystopian world.
+A HyperMeshTM Infrastructure leapfrogs that found in developed countries, through a socialeconomic paradigm shift.
+
+Leap-Frog
+
+ 4 Billion People
+in the World
+Remain without
+affordable
+Internet Access
+ 2 Billion people
+without banking
+services
+ 1.3 Billion
+people without
+electrical power
+ 0.7 Billion
+people without
+clean water
+Natural Disasters
+on the Rise, wiping
+out
+Communications
+and Electricity
+Infrastructure
+
+Distributed and Decentralized Energy
+Generation and Communication
+
+Centralized Energy Generation
+Centralized Communication System
+
+Online or Off-Line
+On-Chain or Off-Chain
+On-Grid or Off-Grid
+
+Wealth taken out of
+community and given to
+Corporations
+
+$
+
+$
+
+$
+
+Community Enrichment:
+Keep wealth within the
+community
+$
+
+Mesh
+Box
+
+$
+
+Mesh
+Box
+
+$
+
+$
+
+$
+
+$
+Evolved Packet Core
+
+Evolved Packet Core
+
+Wealth taken out of
+community and given to
+Corporations
+
+$
+
+$
+Internet
+Data Centers
+Suffer from DDOS and
+other attacks to
+centralized facilities
+
+$
+
+$
+
+$
+$
+
+Mesh
+Box
+
+$
+
+Mesh
+Box
+
+$
+Secured Blockchain-based
+Sharing of Data,
+Communications, and
+Energy between People and
+IoT
+
+$
+
+Mesh
+Box
+
+$
+
+In conventional infrastructure economics, consumers pay the service provider (internet,
+electricity, etc) for the service. The service provider decides when and where to deploy services
+(e.g. whether to install new cellular base-stations and where) and how much to charge for such
+services.
+A HyperMeshTM Infrastructure enables a Shared-ROI paradigm shift to enable social well-being
+with grassroots Infrastructure deployment.
+ Instead of the service provider determining when and where to roll out service, the
+residents of a community decide when and where to deploy infrastructure such as
+MeshBox® routers.
+© 2017-2019 SmartMesh® and Meshbox® Foundation Pte. Ltd, MeshPlusPlusTM Confidential
+22
+
+SmartMesh® : HyperMeshTM Ecosystem
+
+
+
+
+Residents earn tokens (money) by providing services (communication, content storage,
+video streaming, and transactive energy) to their community neighbors.
+This keeps the money within the community and keeps all of the autonomy for the
+infrastructure deployment in the hands of the people who use the services. The
+community, and residents, and guests help each other in a synergistic relationship in order
+to bring prosperity to the entire community.
+
+SmartMesh®, Meshbox®, and our ecosystem partners aim to move society in the right direction,
+by providing a highly advanced Wifi Mesh Network solution with the Spectrum blockchain to
+enable an Internet of Value. Such a HyperMeshTM infrastructure will soon be extended with
+Transactive Energy using renewable energy and battery systems to provide highly robust energy
+sources for remote areas.
+The proposed solution enables blockchain based Fin-tech, high-throughput wifi-communications,
+and a distributed content storage system, while operating
+
+
+
+
+with or without the Internet
+with or without a blockchain; with Photon state-channel secondary architecture,
+with or without an electrical grid; with renewable battery and solar technology.
+
+Together, with partners such as Satellite operators, LoRa technology providers, and SmartMesh®,
+Meshbox® brings about a paradigm shift to enable Infrastructure deployment with Shared-ROI.
+Instead of the service provider determining when and where to roll out service, the residents of a
+community decide when and where to deploy infrastructure such as MeshBox® routers.
+This whitepaper highlights how a HyperMeshTM Infrastructure, enabled with SmartMesh® and
+Meshbox® technology can speed up the realization of an IoV Infrastructure, to bring dignity and a
+sustainable livelihood for the 3.9 Billion people without internet access, 2 Billion people who are
+unbanked, and 1.2 Billion without access to electricity [Paygo].
+
+© 2017-2019 SmartMesh® and Meshbox® Foundation Pte. Ltd, MeshPlusPlusTM Confidential
+23
+
+SmartMesh® : HyperMeshTM Ecosystem
+
+7. References
+[Paygo] UN Climate Change Newsroom, Using Pay-As-You-Go Solar Home Systems in Sub-Saharan
+Africa, March, 2017
+[MB++] MeshBox++TM is designed by Mesh++ Inc., a close partner to SmartMesh® and Meshbox®
+[PLDT] 3. PLDT Wired Internet Costs
+
+https://www.imoney.ph/broadband
+
+[WSJ] https://www.youtube.com/watch?v=9gi_0KR80TQ&t=197s. John Hodulik, UBS Media and
+Telecom Analyst.
+[EEN] Jonathan Koomey, MIT Technology Review The Computing Trend that Will Change
+Everything, April 9, 2012. https://www.technologyreview.com/s/427444/the-computing-trendthat-will-change-everything/
+[Seba] James Arbib and Tony Seba, Rethinking Transportation 2020-2030, The Disruption of
+Transportation and the Collapse of the Internal-Combustion Vehicle and Oil Industries. May 2017
+[GridWise] GridWise Architecture Council, US Department of Energy, GridWise Transactive
+Energy Framework Version 1.0, January, 2015
+[PowerMatcher] Koen Kok, The PowerMatcher: Smart Coordination for the Smart Electricity Grid,
+Dissertation at Dutch Research School for Information and Knowledge Systems, sponsored by the
+Netherlands Organisation for applied scientific research TNO, May 13, 2013
+[TeMix] Edward G. Cazalet (CEO, TeMix Inc), Business and Regulatory Models for Transactive
+Energy, GWAC Transactive Energy Conference, www.tea-web.org, December 10, 2014
+[FRACTALS] Peter Yan, FRACTALS Realtime Autonomic Control Anti-fragile Layered System
+Architecture -- SmartMesh® and Meshbox® Ecosystem, September, 2018
+
+© 2017-2019 SmartMesh® and Meshbox® Foundation Pte. Ltd, MeshPlusPlusTM Confidential
+24
+
+

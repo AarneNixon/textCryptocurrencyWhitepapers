@@ -1,0 +1,307 @@
+TenX Whitepaper:
+Programmable Money
+
+1/15
+
+Table of Contents
+1. TenX: ​An Introduction
+2. TenX:​ Our Vision
+3. The Opportunity for TenX: ​Programmable Money
+4. TenX:​ Our Mission
+5. TenX: ​The Ecosystem
+a. Wallet and Card
+i.
+
+TenX Card
+
+ii.
+
+TenX Wallet
+
+b. PAY Utility Token
+c. The TENX Rewards Token
+i.
+
+Token Structure
+
+ii.
+
+Rewards Framework
+
+2/15
+
+Since the publication of the original whitepaper on 21 June 2017 (the “​Whitepaper​”) and the
+supplemental whitepaper on 25 April 2018 (the “​Supplemental Whitepape​r”), TenX has deeply reflected
+on its vision, mission and values against the backdrop of the recent developments in the industries
+relating to blockchain technology and payment services. This whitepaper (the “​Third Whitepape​r”) serves
+as our renewed commitment to our community with a clearer articulation of the TenX’s vision, mission and
+values.
+Unless otherwise defined or the context requires otherwise, capitalised terms used in this Third
+Whitepaper shall have the same meanings as adopted in the Whitepaper. For purposes of this Third
+Whitepaper, “​TenX​”, “​we​” or “​us​” shall mean TenX Pte. Ltd. (as defined in the Companies Act (Cap. 50)
+of Singapore), and “​our​” shall be construed accordingly. No regulatory authority in any jurisdiction has
+examined or approved of this Third Whitepaper or any part thereof. No action to obtain such examination
+or approval has been or will be taken by TenX or any other person under the laws, regulations or rules of
+any jurisdiction. The publication of this Third Whitepaper does not imply in any way that the laws,
+regulations or rules in any jurisdiction have been complied with to any extent.
+Pages 2 to 11 of the Whitepaper shall apply ​mutatis mutandis t​ o this Third Whitepaper to the extent
+applicable on the basis that any reference to “this Whitepaper” on such pages of the Whitepaper shall be
+construed as references to “this Third Whitepaper”.
+To the best of knowledge of TenX, save as disclosed in this Third Whitepaper, there has been no
+significant new factor or inaccurate information included in the Whitepaper since the date of publication of
+the Whitepaper.
+Save for authorised representatives of TenX, no person has been authorised by TenX to provide any
+information to make any representation which is not consistent with the Whitepaper, the Supplemental
+Whitepaper, and this Third Whitepaper, any information provided by TenX to the public or such other
+information in the public domain. Any such information provided or such representation made by any
+person other than an authorised representative of TenX should not be relied upon as having been
+authorised by TenX. The publication of the Whitepaper, the Supplemental Whitepaper and/or this Third
+Whitepaper at any time does not imply that there has been no change in the affairs of TenX since the
+date hereof, or that the information contained in either the Whitepaper or the Supplemental Whitepaper or
+this Third Whitepaper is correct as at any time subsequent to each of their respective dates.
+
+3/15
+
+TenX:​ An Introduction
+TenX was founded by Toby Hoenisch and Paul Kittiwongsunthorn in 2015. The two co-founders
+met in Japan at a crypto meetup and went on to found one of the world’s leading global fintech
+companies today - according to KPMG’s Fintech 2018 report. Michael Sperk joined Toby and
+Paul soon after, as the third co-founder to complete the initial founding team.
+After winning first prize at the DBS Blockchain Hackathon in 2015, they used the prize money
+as initial capital to fund the business. By 2016 they were incubated in the PayPal Innovation Lab
+as part of it’s inaugural batch and shortly after received additional seed funding from angel
+investors Danny Toe and Steven Liew in Singapore. Toby and Paul worked hard on building
+their product from scratch - a card that would let you spend your cryptocurrencies in real-time.
+TenX grew in popularity and saw USD $80 million in funding at their sole ICO.
+TenX is not just a card that lets you spend crypto. The company aims to be the bridge that will
+transition the world from old money to a future with Programmable Money, which gives people
+full control, whilst educating and protecting customers along the way.
+The existing TenX payment system consists of
+
+the ​TenX Wallet ​that can be funded with
+
+different cryptocurrencies (available on iOS and Android) and the ​TenX Card​, which can be
+used in almost 200 countries at over 42 million VISA points of acceptance online and offline.
+TenX is headquartered in Singapore and is currently serving customers across several
+countries in APAC including Thailand, Australia, New Zealand, Hong Kong, and The Philippines.
+With a fully passportable licence from the Liechtenstein Financial Market Authority in 2019,
+TenX will be able to provide Electronic Money Institution (EMI) services across the European
+Economic Area (EEA).
+
+4/15
+
+TenX: ​Our Vision
+TenX believes in a future with Programmable Money - by the people, for the
+people.
+
+When blockchains power financial networks and all money becomes digital, it will not matter
+where a person lives, they will have equal access to the global economy. It will not matter what
+currency or assets they want to send someone, they will be able to. Whether they sit across the
+table or in another country, they will be able to access a world without borders.
+This will be possible, because with complete control over their money, entrepreneurs
+everywhere will be able to create new services and will overhaul existing outdated financial
+infrastructure. This will give birth to a truly global, digital economy that is accessible by all, with
+programmability at its core. We will see rapid innovation bring down prices, the same way rapid
+innovation came about when people got connected to the internet. Not only will the money of
+the future be truly digital, it will also be programmable.
+
+5/15
+
+The Opportunity for TenX: ​Programmable Money
+We believe that Programmable Money is on the brink of mass adoption. According to the last
+published Global Findex Database in 2017, there were 1.7 billion adults that still remained
+unbanked. In 2014 that number was 2 billion.
+The key reasons for Programmable Money being on the brink of mass adoption are that people
+either don’t have access to basic banking services or that they face problems with the existing
+banking in their market, for example, costly FX rates, issues with savings and investments or
+even just basic transaction fees. This problem differs market-to-market and the spectrum of
+impact is vast.
+In our view, there are currently three types of money in existence:
+1. Cash: ​Cash is a public payment infrastructure that anyone can use to do transactions in
+the physical world. Cash allows for full ownership.
+2. Digital Money: ​Digital money is the money in your bank account or favourite challenger
+bank. Compared to cash, it is run and operated by private institutions who can decide
+whom they want as a customer as well as which services they want to offer to their
+customers. This brings big limitations to the availability of digital money in the world. The
+need for digital money - the money that is currently held in banks for example - is clear,
+but there are limitations. It does not come with ownership, as it always requires an
+intermediary to manage the money on the customers behalf and this impacts day-to-day
+efficiency as well as potential for this type of money.
+3. Programmable Money: Programmable Money, also known as cryptocurrencies or New
+Money, solves the problems stated above by giving people full ownership and control as
+well as allowing them access to this money anytime, anywhere, and in a borderless
+manner. With its programmable nature, it is already used as a base for innovation and
+allows us to build a global economy that is truly inclusive by being built on top of money
+that has no borders.
+
+6/15
+
+TenX:​ Our Mission
+Our mission is to transition the world from old money to Programmable Money ​by
+providing global banking services built on top of crypto.
+TenX will give users freedom from being able to access financial services that they do not have
+today.
+
+7/15
+
+TenX: ​The Ecosystem
+We envision a future where TenX gives our users access to any asset they wish to use. With
+tokenization being a strong driving force in our industry, we can see a future where
+cryptocurrencies, stablecoins, precious metals as well as loyalty points and air miles can be
+accessed, used and seamlessly transacted on a global level.
+
+Our existing products are the TenX Wallet app and the TenX Card.
+The TenX Wallet allows you to hold, send, and receive cryptocurrencies such as Bitcoin, Ether,
+and Litecoin, and the TenX Card allows you to spend supported cryptocurrencies at over 42
+million points of acceptance globally.
+We believe that spending crypto should be simple. Users just need to top up the TenX Wallet
+app with Bitcoin and Ether, and spend seamlessly with their TenX Card.
+The TenX Ecosystem also includes the PAY Utility Token and the TENX Rewards Token, both
+of which are ERC-20 tokens built on the Ethereum blockchain.
+
+8/15
+
+a) Wallet & Card
+TenX allows users to spend supported cryptocurrencies using a TenX Card that is paired with
+their TenX Wallet.
+
+The TenX Wallet is a mobile application that can be downloaded on users' iOS or Android
+phones. It can receive, hold, and send supported cryptocurrencies.
+The TenX Card is a physical payment card that can be ordered from the TenX Wallet by eligible
+users. It allows the user to spend cryptocurrencies in their TenX Wallet seamlessly. The TenX
+Card works via a tap, swipe, or chip-and-pin at 42 million payment terminals worldwide. When a
+user spends with the TenX Card, the merchant receives payment in their local currency,
+allowing for a seamless transaction.
+
+9/15
+
+i) The TenX Wallet
+Serving as an important starting point for helping people get into crypto, the TenX Wallet allows
+users to hold supported cryptocurrencies and complete transactions with their cryptocurrencies
+easily. As we believe that ease of use is vital in the adoption of cryptocurrencies, the highly
+intuitive and user-friendly mobile application for accessing the TenX Wallet offers a seamless
+user experience.
+With a view towards maintaining high standards of security for users, the private key to each
+TenX Wallet address is secured through both the hot and cold storage solutions of TenX, and
+other solutions are also being continuously explored.
+Continuous software development, product design, and testing are a mainstay at TenX so that
+we may provide regular updates to the mobile application with the objective of offering nothing
+but the best-in-class user experience. Since January 2019, the TenX Wallet app has been
+successfully been rebuilt in React Native, which allows for quicker iterations of over-the-air
+(OTA) updates and other vast improvements to the user experience.
+
+10/15
+
+ii) The TenX Card
+Eligible users of the TenX Wallet may apply for a physical TenX Card directly from the TenX
+Wallet mobile application. The TenX Card allows users to spend their cryptocurrency balance
+on the TenX Wallet with ease by paying at any supported payment point or withdrawing at
+supported ATMs worldwide, as conveniently as local currency is used today.
+All eligible users who apply for a TenX Card have to complete a simple account verification
+process that is also known as Know Your Customer (KYC). Our teams review the data and
+documents provided by the user applying for the TenX Card. After the verification process has
+been successfully completed, the user receives their TenX Card at their physical address. They
+can then link the card to the TenX Wallet app, and the TenX Card will now be ready for use with
+merchants accepting VISA cards.
+
+At any time, including at the time of a TenX Card transaction, a user is able to view in the TenX
+Wallet an indicative exchange rate for their cryptocurrencies. A user is also able to select the
+cryptocurrency with which they would like to make payment. For enhanced card security, users
+can choose to receive real-time notifications upon the completion of each TenX Card
+Transaction, and lock or unlock their TenX Card at any time. Full transaction details of payment
+and withdrawals using the TenX Card can also be viewed on the TenX Wallet.
+
+11/15
+
+b) PAY Utility Token
+The PAY Token is an ERC-20 token on the Ethereum blockchain, with a total supply of
+205,218,256 tokens.
+It will be the preferred token in our ecosystem. As the preferred token, we plan to allow the PAY
+Token holders to:
+●
+
+Carry out TenX Wallet transactions using the PAY Token
+
+●
+
+Use the PAY Token as a fee payment asset
+
+●
+
+Receive referral rewards
+
+●
+
+Benefit from cashback features
+
+●
+
+Receive discounts
+
+12/15
+
+c) TENX Rewards Token
+The TENX Rewards Token is an ERC-20 token on Ethereum with features of ERC-1400. There
+is a total supply of 205,218,256 tokens. The TENX Token allows the token holder to accumulate
+daily rewards that can be withdrawn by eligible holders at any time.
+
+Rewards on the TENX Tokens are paid in PAY Tokens. The amount of rewards is announced
+quarterly, with the amount depending on factors such as TenX Pte Ltd’s revenues, financial
+position, cash flow, capital needs and general business conditions.
+We acknowledge and are humbled by the support and trust we have received from the
+community over the years. We know that TenX would not be where it is today without their
+unwavering support from the early days of the token sale to present day. We envision our
+community to be part of a decision-making framework that taps on the collective genius for
+certain areas of TenX functions.
+
+13/15
+
+i) Token Structure
+The token implements the ERC-20 and ERC-1400 (ERC-1644 and ERC-1594) specifications. It
+grants holders the right to receive an amount of rewards that is calculated as such quarterly:
+Rewards = (Quarter’s Deposited Rewards * Holder’s Token Balance / Total Token Cap)
+Total Token Cap = 205,218,256
+An eligible user can withdraw their share of PAY Token from the reward contract. A user is
+eligible if they successfully complete account verification and meet these eligibility conditions:
+●
+
+Are natural persons (as opposed to a private or public organisation)
+
+●
+
+Are not citizens of North Korea
+
+●
+
+Are not residents of Afghanistan, China, Crimea Peninsula, Cuba, Eritrea, Gaza Strip,
+India, Iran, Iraq, Kosovo, Lebanon, Libya, Myanmar (Burma), North Korea (the
+Democratic People’s Republic of Korea), Northern Cyprus, Palestine, Somalia, South
+Sudan, Sudan, Syria, United States of America, Venezuela, or Yemen
+
+●
+
+Pass our Customer Due Diligence checks
+
+The TENX Token smart contracts have been analysed with state-of-the-art tools for verification
+of generic vulnerabilities and custom functional requirements.
+A full technical overview of the TENX Token design can be found ​here​.
+The architecture of the TENX Token smart contracts can be found ​here​.
+The TENX Token source code is available ​here​.
+A security audit of the TENX Token smart contracts was completed by ​ChainSecurity​. The audit
+report can be found ​here​.
+
+14/15
+
+ii) Rewards Framework
+Rewards are determined every quarter by the TenX Board of Directors, depending on financial
+performance such as revenue in the previous quarter and other relevant factors.
+We are committed to buying a number of PAY Tokens from the open market for the purpose of
+paying out rewards and such number is disclosed during the quarterly awards announcements.
+The rewards are then distributed into the TENX Token smart contracts in the following quarter.
+Token holders accumulate their rewards daily, and eligible token holders can withdraw their
+accumulated rewards at any time.
+To learn about the process of withdrawing TENX Token rewards, please see ​this guide​.
+
+15/15
+
+

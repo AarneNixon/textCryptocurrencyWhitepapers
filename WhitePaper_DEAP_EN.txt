@@ -1,0 +1,2104 @@
+DEA Project:
+The Future of Digital×Entertainment
+Using Blockchain Technology
+- White Paper -
+
+Whitepaper Ver.2.2
+Copyright ©Digital Entertainment Asset Pte. Ltd. All Rights Reserved.
+
+1
+
+Contents
+
+Chapter 1. Introduction ............................................................................................................................................ 5
+1.1 Our Mission .................................................................................................................................................... 5
+1.2 The Problem We Want to Solve .................................................................................................................... 6
+1.3 A Brand New Concept: PlayMining ............................................................................................................. 7
+Chapter 2. DEAP Overview & Digital Entertainment Asset ................................................................................. 8
+2.1 DEAP Overview ............................................................................................................................................. 8
+2.2 Digital Entertainment Asset (hereinafter Digital Asset) ........................................................................... 10
+*Reference 1: Creators Scheduled to Participate ..............................................................................................11
+Chapter 3. DEAP in detail....................................................................................................................................... 14
+3.1 Digital Entertainment Asset Bank (DEA Bank)....................................................................................... 14
+3.2 Digital Art Auction ....................................................................................................................................... 18
+3.3 Game/Manga ................................................................................................................................................ 21
+*Reference 2: The Power of “Distributing Money” to Gain New Users ......................................................... 22
+3.4 Why will PlayMiners Buy Digital Assets? .................................................................................................. 23
+*Reference 3: The lithograph market of Japanese anime/manga artworks ................................................... 23
+Chapter4. Theme & Title ........................................................................................................................................ 27
+4.1 First Game, “JobTribes” –Job/Career Personification Game- ................................................................ 27
+4.2 Second Game: “World FLAGS” –Flags Around the World: Personification Project– ......................... 30
+4.3 Game Entertainment Platform’s Expandability ....................................................................................... 32
+Chapter 5. Token Economy ................................................................................................................................... 33
+5.1 The DEAPcoin’s Value ................................................................................................................................. 33
+5.3 DEAPcoin Specification ............................................................................................................................... 36
+Chapter 6. Road Map ............................................................................................................................................ 38
+6.1 Milestones for 2019 - 2020 ........................................................................................................................... 38
+6.2 The Allocation and Use of Funds ................................................................................................................ 39
+6.3 The Mass Circulation Amount of DEAP Coin within the DEAP Economic Zone.................................. 42
+6.4 Proof of Play (PoP) ....................................................................................................................................... 43
+6.5 Additional Information Regarding this Chapter ...................................................................................... 45
+Chapter 7. Project Plans and Strategy ................................................................................................................. 46
+7.1 Why Games?................................................................................................................................................. 46
+7.2 Our Competitors .......................................................................................................................................... 47
+7.3 The “Rule Change” We Want to Achieve................................................................................................... 48
+7.4 Business Development and Monetization Methods ................................................................................... 50
+7.5 Mid-Term Business Plan.............................................................................................................................. 52
+Chapter 8. Company Profile and Team Members............................................................................................... 54
+2
+
+8.1 DEA Project’s Organization ........................................................................................................................ 54
+8.2 Management Team ....................................................................................................................................... 55
+8.3 Development ................................................................................................................................................. 59
+Chapter 9. Legal Matters ...................................................................................................................................... 62
+9.1 Risk Warnings .............................................................................................................................................. 62
+9.2 Disclaimer ..................................................................................................................................................... 64
+Chapter 10. Version History ................................................................................................................................... 65
+
+Table of Figures/Tables
+FIG. 1 SOCIAL GAME PAY-TO-PLAY MARKET GROWTH .......................................................................................... 6
+FIG. 2 PLAYMINING / PLAYMINER IMAGE LOGO ..................................................................................................... 7
+FIG. 3 PLAYMINING ECOSYSTEM OVERVIEW ........................................................................................................... 9
+FIG. 4 DIGITAL ASSET EXAMPLE (CHARACTER CARDS) ......................................................................................... 10
+FIG. 5 REPRESENTATIVE WORKS BY PARTICIPATING CREATORS .......................................................................... 12
+FIG. 6 ORIGINAL ILLUSTRATION DRAWN SPECIALLY FOR DEA PROJECT (PARTIAL COLLECTION) .................... 13
+FIG. 7 DEAPCOIN ISSUE AND DIGITAL ASSET MANAGEMENT BY BLOCKCHAIN.................................................... 14
+FIG. 8 DEA BANK SYSTEM DIAGRAM ...................................................................................................................... 17
+FIG. 9 DIGITAL ART TRADING AND ROYALTY PAYMENT TO CREATORS .................................................................. 19
+FIG. 10 DIGITAL ASSET TRANSACTION IMAGE ......................................................................................................... 20
+FIG. 11 AN EXAMPLE OF A SUCCESSFUL “GIVING OUT MONEY” CAMPAIGNS ......................................................... 22
+FIG. 12 LITHOGRAPHS OF FAMOUS MANGA CHARACTERS ...................................................................................... 23
+FIG. 13 A DIAGRAM SHOWING HOW THE GAME AND THE DIGITAL ART AUCTION OPERATES TOGETHER TO SET
+THE VALUES OF DIGITAL ASSETS...................................................................................................................... 24
+
+FIG. 14 CHRISTIE’S AND SOTHEBY’S ART AUCTION GROSS SALES ASSESSMENT .................................................... 25
+FIG. 15 EXAMPLES OF JOB PERSONIFIED CHARACTERS FROM THE BOOK, JAPAN WAGES AND CAREER
+ENCYCLOPEDIA .................................................................................................................................................. 27
+FIG. 16 SHIN KIBAYASHI’S ORIGINAL SCENARIO WORKS...................................................................................... 28
+FIG. 17 “JOBTRIBES” GAME SCREEN EXAMPLE ...................................................................................................... 29
+FIG. 18 "WORLD FLAGS" FEATURED BY MANY MEDIA INFLUENCERS ................................................................. 30
+FIG. 19 DELIVERING EACH COUNTRY’S CHARACTERS TO THEIR AMBASSADORS IN JAPAN .................................. 31
+FIG. 20 EDITOR-IN-CHIEF NORIAKI MATSUKI ........................................................................................................ 32
+FIG. 21 DEAPCOIN VALUE CALCULATION (ART STANDARD) .................................................................................. 35
+FIG. 22 DEAPCOIN BASIC INFORMATION ............................................................................................................... 37
+FIG. 23 DEA PROJECT SCHEDULE ........................................................................................................................... 38
+3
+
+FIG. 24 DEAPCOIN ALLOCATION (INITIAL CIRCULATION) ..................................................................................... 39
+FIG. 25 DEAPCOIN AGGREGATE CIRCULATION ...................................................................................................... 40
+FIG. 25 DEAPCOIN SALES ALLOCATION .................................................................................................................. 41
+FIG. 27 PLAYMINING ECONOMIC ZONE’S DEAPCOIN AMOUNT AND IP RELEASES (YEARS ARE ESTIMATED) ..... 42
+FIG. 28 “PLAYMINING ECONOMIC ZONE” CIRCULATION MODEL AND ITS RELATIONS TO THE MINABLE
+RESERVE ........................................................................................................................................................... 44
+FIG. 29 AVERAGE SMARTPHONE USAGE TIME ....................................................................................................... 46
+FIG. 30 GOOGLE PRESENTING “STADIA.” THEY WILL BEGIN FULL-SCALE DEVELOPMENT IN 2020 .................. 47
+FIG. 31 THE WORLD’S BANK ACCOUNT-LESS POPULATION AND DISTRIBUTION .................................................... 48
+FIG. 32 FACEBOOK’S AFTER LAUNCH USER GROWTH AND OUR COMPANY’S MILESTONE .................................... 49
+FIG. 33 THIS PROJECT’S MILESTONES ..................................................................................................................... 50
+FIG. 34 THREE MONETIZATION STRATEGY.............................................................................................................. 51
+FIG. 35 REVENUE/PROFIT PLAN OF DIGITAL ENTERTAINMENT ASSET PTE. LTD. FOR 3 YEARS.......................... 52
+FIG. 36 DIGITAL ENTERTAINMENT ASSET PTE. LTD. (MARINA ONE EAST TOWER) ........................................... 54
+FIG. 37 FAMOUS GAMES DEVELOPED BY TECOTEC ............................................................................................... 59
+TABLE. 1 DEA PROJECT PARTICIPATING CREATORS *2020/2/06 .........................................................................11
+TABLE. 2 DEAPCOIN ALLOCATION TABLE (PROPORTION TO TOTAL DEAPCOIN ISSUED) ................................... 40
+TABLE. 3 DEAPCOIN SALES ALLOCATION TABLE ................................................................................................... 41
+TABLE. 4 COMPANY INFORMATION ......................................................................................................................... 54
+
+4
+
+Chapter 1. Introduction
+1.1 Our Mission
+
+“With blockchain as our foundation
+and digital entertainment and digital assets as our tools,
+we are a company set out to change the rules of game playing
+and the rules of the world.”
+
+Do you remember those days in your childhood when you spent hours playing a game to defeat monsters for
+money, experience points, or stronger weapons?
+And the emptiness that you feel when you had nothing to show for your efforts once you turned off the power
+switch of your game console?
+You, and many others, must have thought at least once,
+
+“if only I could be as rich in real life as I am in the game…”
+
+We have set out to make that “if” into a reality.
+Until now, playing games have been an activity you paid money for to enjoy.
+We intend to completely change that basic premise.
+You will not have to spend a single penny to enjoy games any longer.
+Instead, you will earn money while you play games.
+
+Change the Games, Change the World!
+
+5
+
+1.2 The Problem We Want to Solve
+The game industry has grown rapidly circa 2010 due to the growth of social media games. The games
+themselves are free to download, but the charging system within the games allowed for an unstoppable growth
+in the online social game industry, growing to as much as 10 trillion yen (approximately 92 billion US dollars).
+
+14
+
+[Trillion JPY]
+
+10.3
+
+12
+10
+8
+6
+4
+2
+0
+
+1.4
+2012
+
+1.9
+
+2013
+
+2.7
+
+2014
+
+3.4
+
+2015
+
+4.6
+
+2016
+
+6.1
+
+2017
+
+7.6
+
+2018
+
+8.9
+
+2019
+
+2020
+
+2021
+
+【Source】 IT Navigator 2020 ver. Published by: Nomura Research Institute
+
+Fig. 1 Social Game Pay-to-Play Market Growth
+
+Most users begin playing online social games as a pastime, but in order to win in the games and to
+satisfy the desire to be recognized as a strong player, they end up paying an exorbitant amount of money.
+Moreover, the game makers use activity data as well marketing theories to create a system that makes
+it easier to use more money in the games.
+For example, the inflation of buyable items is one way that encourages players to continuously pay
+money. Items that players bought become worthless after a certain period, so they decide to pay for the next
+better item.
+Many players gradually start to regret the amount of money they have used for something that
+repeatedly becomes worthless over time. That is precisely the kind of reality that our project wants to change.
+
+6
+
+1.3 A Brand New Concept: PlayMining
+The DEA Project began with the goal to overturn the preconception of continuously charging users to
+play and as a result, making them feel tired of playing the game. Instead we want to reward our most loyal
+players who spend their time and enjoy our services.
+In order to realize this goal, we issued an original cryptocurrency that we will use to “reward game users
+instead of charging them.” Moreover, we are also creating an online platform where users can make use of the
+cryptocurrency they earned, and for this currency to circulate in its own economic zone.
+In this new concept that we are proposing, users can play/appreciate to earn/mine rewards
+(cryptocurrency), so we have decided to name it “PlayMining.”
+Moreover, to mirror how Youtubers who make a living by uploading videos on Youtube, or TikTokers
+doing the same on TikTok, we wanted to create a system in which there will be a growing population of people
+who make a living by PlayMining. As such, people who hold this new “job” will be called “PlayMiners.”
+
+Fig. 2 PlayMining / PlayMiner Image Logo
+
+Our Project’s Game Changer:
+
+From Spending on Games and Manga
+
+To Earning by Playing Games and Reading Manga
+
+7
+
+Chapter 2. DEAP Overview & Digital Entertainment Asset
+2.1 DEAP Overview
+The DEA Project will provide the “PlayMining Platform” which is a blockchain based multimedia
+digital entertainment platform featuring digital arts, games, and various other forms of entertainment.
+The “PlayMining Platform” is composed of three elements, namely the “DEA Bank,” the “Digital Art
+Auction,” and the “Game.” All three of these elements are linked with the Digital Entertainment Asset
+(hereinafter Digital Asset) owned by the user of the platform (hereinafter PlayMiners), and the platforms are
+designed to operate in an interconnected manner. Below are the description of each element.
+
+1) DEA Bank：
+The DEA Bank is where PlayMiners can manage their Digital Assets. PlayMiners can manage their
+Digital Assets in a secure environment by the implementation of blockchain technology.
+2) Digital Art Auction ：
+The Digital Art Auction is the market in which Digital Assets are traded and distributed. It has features
+to allow for new sales of Digital Asserts as well as secondary distribution between PlayMiners;
+PlayMiners can buy new Digital Assets as well as trade Digital Assets that they own with other
+PlayMiners. We want to make the auction site a highly entertaining and intuitively usable platform to
+allow for the experience of trading of Digital Assets a highly engaging one.
+3) Game/Manga：
+To break away from the common sense of the entertainment industry so far, we set our concept so that
+“users earn wealth from games/manga.” The points that can be earned in the game can be exchanged
+for the virtual currency (DEAPcoin) used on the PlayMining Platform, realizing our concept above.
+Moreover, the games we are releasing on our platform will be all free to play, and there are no charging
+systems in our games. Conversely, the more game one plays, and the more manga one reads, the more
+DEAPcoin one can gain.
+In addition, the Game/Manga and the Digital Art Auction are designed so that they will interact with
+each other to decide the value of the Digital Assets collaboratively.
+
+8
+
+Fig. 3 PlayMining Ecosystem Overview
+*More details can be found in 3. DEAP in detail
+
+The “DEA Bank,” the “Digital Art Auction,” and the “Game” will influence each other and encourage
+the distribution of Digital Assets between PlayMiners and value circulation. In order to create such an economic
+sphere, and to allow for the buying and selling of Digital Assets, we created and issued a brand-new
+cryptocurrency called the DEAPcoin.
+
+9
+
+2.2 Digital Entertainment Asset (hereinafter Digital Asset)
+Digital Entertainment Assets are digital assets such as digital art and digital entertainment content that
+are traded on the PlayMining Platform.
+Digital Assets are managed in a private blockchain created in the ERC721 format, which is one of the
+Ethereum standards, and each asset is distributed as a unique Non-Fungible Token (NFT).
+Digital Assets are not only the object of art enjoyment, but also provide various value to owners within
+the PlayMining Platform.
+
+Fig. 4 Digital Asset Example (character cards)
+
+At the start of our service, Digital Assets will be illustration data by famous Japanese manga artists
+and illustrators. Since audio data, image data including live action, video data and any other form of digital data
+can be stored on our platform, we plan to increase the variety and uses of Digital Assets.
+
+10
+
+*Reference 1: Creators Scheduled to Participate
+Many manga artists and creators support our project’s mission, and as of February 2020, the following
+list of manga artists and creators have agreed to provide newly drawn original illustration to be released as
+Digital Assets on our PlayMining Platform.
+
+Table. 1 DEA Project Participating Creators *2020/2/06
+Creator
+
+Famous Works
+
+1)
+
+Haruhiko Mikimoto
+
+“Super Dimension Fortress Macross”, “Mobile Suit Gundam 0080”
+
+2)
+
+Tatsuya Egawa
+
+“Magical ☆ Tarrouto”, “The University of Tokyo Story”
+
+3)
+
+Shinji Hiramatsu
+
+"Detective Doberman", "Black Angels"
+
+4)
+
+Takumi Ayamine
+
+“GetBackers”, “Psycho Busters”
+
+5)
+
+Kayo Saeki
+
+“Smash! "Meg", "Lipstick Combat"
+
+6)
+
+Kaoru Shintani
+
+“Area 88”, “Futaritaka”
+
+7)
+
+Hiro Mashima
+
+“FAIRY TALE”, “RAVE”, “EDENS ZERO”
+
+8)
+
+Kya Asamiya
+
+“Silent Mobius”, “Kamiseiki Vagrant”
+
+9)
+
+Fujiwara Kamui
+
+“Dragon Quest Retsuden Loto's Emblem” Series
+
+10)
+
+Ebihara Takeshi
+
+“Machichingu Machiko-sensei”
+
+11)
+
+Junji Ogawa
+
+“Chinese first! Series, "Angel's Frying Pan"
+
+12)
+
+Hidenori Yamachi
+
+“Marie Grave”, “Atlantide”
+“MADMAX Angry Death Road”, “Tokaido Shinkansen 50th Anniversary
+
+13)
+
+Keiichiro Ito
+
+Dream Super Express”
+
+14)
+
+Chiyou
+
+“Uniform Supreme” series
+
+15)
+
+Tatsuo Kanai
+
+“Hall in One”, “Izumi-chan Graffiti”
+
+16)
+
+Nishimi Terumi
+
+“JoJo's Bizarre Adventure: Diamonds Can't Break”, “Netflix Seiya”
+
+17)
+
+Yuji Kaida
+
+“Mobile Suit Gundam”
+
+18)
+
+Kazuki Sugawara
+
+“BASTARD !!
+
+19)
+
+Ryoji Minagawa
+
+“Spriggan”, “ARMS”
+
+20)
+
+Keishū Ando
+
+“Kyukyoku! Hentai Kamen” series
+
+21)
+
+Takayuki Doi
+
+“Momotaro Dentetsu” series
+
+22)
+
+Keiichi Tanaka
+
+“Utsunuke”, “Dr. Chichibuyama"
+
+23)
+
+Takashi Morita
+
+“A Story of Arsene Lupin Aventurier”
+
+24)
+
+Hiroshi Motomiya
+
+“Salaryman Kintaro”, “Ore no Sora”
+
+25)
+
+Ume
+
+“Tokyo Toybox”, “Steves”
+
+26)
+
+Hiromi Morishita
+
+“Shōnen Ashibe”, “Koko Dake no Futari”
+
+27)
+
+Takatoshi Yamada
+
+“Dr. Kotō Shinryojo”
+11
+
+28)
+
+Yumiko Igarashi
+
+“Candy Candy”
+
+29)
+
+Leiji Matsumoto
+
+“Galaxy Express 999”, “Space Battleship Yamato”
+
+30)
+
+Kouji Ogata
+
+“Boogiepop Phantom”
+
+31)
+
+Tsukasa Oshima
+
+“Shoot!”
+
+32)
+
+Buichi Terasawa
+
+“Cobra the Space Pirate”
+
+33)
+
+VOFAN
+
+Nisio Isin’s “Monogatari” series
+
+34)
+
+Renault Lemaire
+
+“Dreamland”
+
+35)
+
+Mirka Andolfo
+
+“Harley Quinn”, “Hex Wives(Vertigo)”
+
+36)
+
+Tony Valente
+
+“Radiant”, “Hana Attori”
+
+37)
+
+Kenny Ruiz
+
+“Telemaque”, “Magic 7”
+
+38)
+
+Belen Ortega
+
+“Millennium”
+
+39)
+
+Olivier Vatine
+
+“Aquablue”
+
+In addition to the creators listed above, we are continuing to recruit popular creators to this platform.
+By the time the Digital Art Auction is released, we plan to have recruited 100 well-known creators, and begin
+the services on the platform with a highly attractive set of Digital Assets already lined up.
+
+Fig. 5 Representative Works by Participating Creators
+
+12
+
+①
+
+②
+
+④
+
+⑤
+
+③
+
+⑥
+
+Fig. 6 Original Illustration Drawn Specially for DEA Project (partial collection)
+① Astronaut
+
+(by Kazushi Hagiwara)
+
+② Jockey
+
+(by Kamui Fujiwara)
+
+③ Chinese Master Chef
+
+(by Etsushi Ogawa)
+
+④ Prime Minister
+
+(by Hidenori Yamaji)
+
+⑤ Potter
+
+(by Terumi Nishii)
+
+⑥ Riot Officer
+
+(by Hiroshi Motomiya)
+
+13
+
+Chapter 3. DEAP in detail
+3.1 Digital Entertainment Asset Bank (DEA Bank)
+The DEA Bank is a system in which PlayMiners can manage and issue the cryptocurrency they can
+use on the PlayMining Platform (Token name: DEAPcoins), as well as manage their Digital Assets securely and
+easily. Moreover, the DEA Bank is not just for managing assets, but it will be linked with other services within
+the PlayMining Platform to allow for a quick and easy payment.
+When we first release the platform, we plan to link the DEA Bank with the Digital Art Auction and
+the Game/Manga. For example, if a PlayMiner bought or sold their Digital Asset at the Digital Art Auction, or
+gained DEAPcoins in a game, the DEA Bank will carry out the transaction of assets between users, allowing
+for a smooth transaction.
+As we expand the platform, we are planning to add new services that are also linked with the DEA
+Bank, and the DEA Bank will be used for a variety of services and transactions.
+[DEAP Coin]
+-
+
+Token Standard: ERC20
+
+-
+
+Issued in August 2019, by Digital Entertainment Asset Pte. Ltd.
+
+[DEA Bank’s Basic Function]
+-
+
+Each user’s DEAP Coins and Digital Assets will be stored in the PlayMiner’s account.
+
+-
+
+Based on the usage data of the Digital Art Auction or the Game, Digital Assets and/or DEAPcoins will
+be transferred between the involved PlayMiners’ accounts.
+
+Fig. 7 DEAPcoin issue and Digital Asset management by blockchain
+14
+
+[The Link Between the DEA Bank, the Digital Art Auction, and the Game/Manga]
+In our project’s services, you will be able to use DEAPcoin to purchase Digital Arts, and further
+appreciate the artworks you purchased in the Games. To realize such a service, our three main services, the DEA
+Bank, Digital Art Auction, and the Game/Manga are designed to work collaboratively with the DEA Bank’s
+system working at its core.
+We show on page 17, in “Fig.8 DEA Bank system diagram,” how the three systems collaborate when
+PlayMiners trade Digital Arts, and use it in the Game.
+First, a PlayMiner who wants to sell a Digital Art accesses the Digital Art Auction and places it in the
+market. At the same time, the Digital Art which was placed on the market for auction is locked to ensure a secure
+delivery to the successful bidder.
+This line of actions is the diagram’s “1. Place Digital Art for sale,” “2. Lock request for the Digital Art
+put on sale,” and “3. Lock carried out based on the request.” As shown there, the Digital Art Auction system
+sends a request, the DEA Bank carries out the lock, and then the procedures for putting a Digital Art on sale is
+completed.
+On the other hand, a PlayMiner who wishes to buy a Digital Art can search for a Digital Art they wish
+to purchase, and then places a bid. At this instance also, in order to securely deliver the bid price to the seller,
+the amount of DEAPcoin for the bid price will be locked momentarily. These actions are shown on the diagram
+as “4. Bidding at the auction,” “5. Bid price DEAPcoin lock request,” and “6. Bid price DEP lock.”
+When the Digital Art is won by the highest bidder, the Digital Art Auction will move to “7. Processing
+the successful bid” as well as send a request to DEA Bank. This request is to transfer the Digital Art and
+DEAPcoin between the account of the bidder and seller based on the transaction information. This action is
+shown on the system diagram as “8. DEAPcoin balance transfer request & Digital Art transfer request.”
+The DEA Bank which received such request will update its internal database based on the transaction
+information, and updates the DEAPcoin balance. Moreover, the DEA Bank updates the blockchain data, and
+transfers the Digital Art to the new owner. These actions are shown on the system diagram as “9-1. Bid price
+DEAPcoin balance transfer” and “9-2. Digital Art ownership transfer.”
+In this way, the Digital Art ownership information which was updated based on the transactions which
+happened on Digital Art Auction, will also be shared with the Game/Manga system. Based on the Digital Art
+ownership information it received from the DEA Bank, the Game/Manga system can now provide a special
+experience for the PlayMiner who acquired the Digital Art. These actions are shown as “10. Sharing the Digital
+Art ownership information,” and “11. Services provided based on the ownership information.”
+
+15
+
+As shown above, the system collaboration provides PlayMiners with limitless entertainment, and
+incurs value onto the Digital Art. Moreover, a PlayMiner could use the DEAPcoin they gained by selling one
+Digital Art to purchase another. Because all Digital Art are digitally stored data, it will not weather or deteriorate
+over time. For example, if the Digital Art has a rarity premium at the time of its sale, it is possible to sell it with
+a higher price than when it was bought. It is possible therefore, to continually make profit by reading the trend
+for various types of Digital Art within the PlayMining economic zone.
+As the PlayMining economic zone grows, some PlayMiners may start to think that gaining a profit by
+trading Digital Art in itself is a game. DEAPcoin does not exist merely as a means to buy items you can use in
+the Game. Buying and selling Digital Art in itself is also an entertainment, and we believe the such new forms
+of entertainment will spawn in our PlayMining economic zone. Furthermore, to realize such a vision, we are
+meticulously planning and designing the Digital Art Auction system as well as its UI/UX.
+We believe that the entertainment aspect of the DEA Bank, Digital Art Auction and Game system
+collaboration is limitlessly expandable.
+
+16
+
+Fig. 8 DEA Bank system diagram
+
+17
+
+3.2 Digital Art Auction
+The Digital Art Auction (hereinafter DAA) is where Digital Assets are traded. PlayMiners can buy
+Digital Assets simply to appreciate the artwork, use it in other services (namely within the games), or to sell it
+to other PlayMiners to gain DEAPcoins.
+The DAA is not just a place to buy and sell Digital Assets. We offer an engaging user experience, so
+that PlayMiners can enjoy the Digital Art Auction as an entertainment content by itself.
+In the Digital Art Auction, interesting visuals and games are used to create the transaction experience.
+Information about popular Digital Assets as well as the trading PlayMiners’ information, as well as information
+about high performing PlayMiners are displayed artfully to gauge PlayMiners’ interest. PlayMiners can find
+what they want to trade next, and they can enjoy every step of the trading experience.
+Moreover, another key role of the Digital Art Auction is to “Return the Profits to Creators.” A portion
+of the transaction fees that are charged when PlayMiners trade at the Digital Art Auction, is paid in DEAPcoin
+to the original creator of the Digital Asset which was traded.
+In the current creative production industry, creators are only paid when they first sell their art. However,
+on the DEAP Platform, creators will be paid as many times as their art is traded. By laying down such an
+innovative monetization system that allows for a multiple (and virtually forever continuing) payment plan for
+digital arts creators, we incentivize creators to produce high quality content for the Digital Art Auction.
+Moreover, fans of creators are incentivized to actively engage in the Digital Art Auctions to show their
+appreciation towards their favorite creators.
+By ensuring that both the creators and PlayMiners have a high motivation to join and to continue
+participating on the DEAP Platform, creators will become increasingly financially recognized for their artworks,
+which encourages creators to continue to provide high quality artworks, which in turn encourages even more
+active PlayMiners to join the Digital Art Auctions.
+
+18
+
+Fig. 9 Digital Art trading and royalty payment to creators
+
+19
+
+[Digital Art Auction’s Basic Functions]
+It is where:
+1) Digital Entertainment Assets are traded.
+2) Popular Digital Entertainment Assets and PlayMiners are displayed with engaging visuals and features.
+3) PlayMiners can find the latest information and recommendations based on their past online activities.
+
+[Creating an Ecosystem with Creators’ Fair Compensation in Mind]
+1) A portion of the transaction fees that are charged when PlayMiners trade at the Digital Art Auction, is paid
+in DEAP Coin to the creator of the Digital Asset which was traded.
+2) Creators will be paid as many times as their art is traded. Strongly incentivize creators to produce high
+quality content for the Digital Art Auction with the multiple (and virtually forever continuing) payment
+system.
+3) By implementing a royalty system, we provide creators a strong incentive to produce high quality content
+on our Art Auction.
+4) By using blockchain technology, the transaction information of the creators’ artworks will always be
+available. This is similar to the karaoke system implemented by JASRAC; by recording every single sale
+and transaction of the artists’ works, the artists will be paid based on those records.
+
+Fig. 10 Digital asset transaction image
+
+20
+
+3.3 Game/Manga
+The Game/Manga are not just a place to play with the Digital Assets, but also function as ways to
+promote and entice many new PlayMiners into the PlayMining economic sphere.
+Unlike past and current blockchain games, our Game/Manga are designed so that PlayMiners without
+knowledge of blockchain or cryptocurrency can enjoy it intuitively and free of charge. PlayMiners do not need
+to buy Digital Assets to play, and anyone can start playing at anytime. That is how new PlayMiners can start
+playing our Game/Manga very easily.
+Moreover, aside from making the Game/Manga easy to join for new PlayMiners, we also provide a
+strong incentive for them to want to start playing; PlayMiners can gain more Digital Assets and DEAPcoins the
+more they play.
+Conventionally, PlayMiners have paid money to play games and to gain better results. On the
+PlayMining Platform, PlayMiners get to experience the opposite: by playing our games, by reading our manga,
+they can accumulate wealth that they can use in the real world.
+With this innovative concept, the 2.3 billion game players around the world are our target users. The
+PlayMining economic zone has an unlimited growth potential.
+
+21
+
+*Reference 2: The Power of “Distributing Money” to Gain New Users
+The DEA Project's concept of distributing “money” to game users has proven to yield millions more
+users compared to general promotions, and even today there are emerging services backed by strong financial
+power, which uses this method of promotion to make a strong entrance into the market.
+For example, the payment service LINE Pay provided by LINE Corporation held the "30 billion yen
+for Everyone Festival,” a promotion in which a bonus of 1,000 yen were distributed to users who provide bank
+account information, etc. in May 2019. According to the company, it gained 3 million new users from this
+promotion alone. In addition, PayPay provided by Yahoo! is implementing a bonus reduction promotion to users
+called the “10 billion yen Campaign.” They held this campaign twice, and they have reported that the active
+users of the service have increased 200-300 times compared to other promotional means.
+
+(左)
+(右)
+
+LINE 株式会社決算説明会資料 (2019 年第 2 四半期) より
+App Ape レポートより
+
+Fig. 11 An example of a successful “giving out money” campaigns
+
+Many similar examples exists outside of Japan too. India/Indonesia’s mega app, paytm and gojek, also
+provided bonuses that could be used as money to increase the number of its app users. These apps each have
+over 300 million (paytm) and over 35 million (gojek) users, and have succeeded in growing to attain the largest
+number of app users in South and South East asia.
+Based on these cases, “money distribution” is recognized around the world as the greatest way to
+promote and gain users.
+
+22
+
+3.4 Why will PlayMiners Buy Digital Assets?
+【First Reason】 The PlayMiner is a Fan of the Artwork/Creator
+As mentioned in 2.2, the PlayMining Platform will feature many works from talented creators, many
+of whom are revered by fans in and outside of Japan. These creators have many fans who have continued to
+appreciate their works for many years. Japan is considered as the sacred place for such animation and manga
+fans, and many anime festivals and conferences take place here.
+These fans have a deep yearning to own the Digital Assets that will be available at the Digital Art
+Auctions, and we believe that they will be the first ones to join the PlayMining Platform. We will be reaching
+out to these manga/anime fans, and create as many opportunities as possible for these fans to join our platform.
+*Reference 3: The lithograph market of Japanese anime/manga artworks
+Although the Digital Assets that we will offer on our platform is a highly innovative idea, we based
+our idea on an existing market – the lithograph market.
+Lithographs are limited copies of creators’ artworks. To prove its authenticity, each lithograph has a
+serial number and an autograph of the creator. By doing so, even though the illustrations are copies of the
+original work, they are auctioned and traded for high prices. Below are some examples:
+
+①
+
+②
+
+③
+
+Fig. 12 Lithographs of famous manga characters
+From the left,
+
+“Char Aznable” (by Yoshikazu Yasuhiko)
+"Chrono Trigger" (Akira Toriyama)
+"I’s - Iori “ (by Masakazu Katsura)
+
+1,700 US dollars,
+3,700 US dollars,
+6,200 US dollars
+
+23
+
+The lithograph works above are examples of works that were auctioned at Yahoo! Auction and the respective
+prices at which the highest bidder obtained the works (as of June 24, 2019).
+
+【Second Reason】 The PlayMiner Wants to Use the Digital Assets in the Games
+Game PlayMiners will not need to spend any money to play our games. However, if they own a Digital
+Asset, they can have access to special bonus features. By creating this incentive, even players who were only
+interested in playing our games will want to acquire Digital Assets, and so they will join our DEAP economic
+sphere.
+However, the special bonus features that PlayMiners can access with their Digital Assets will not
+strongly affect their strength in the games, their scores, or results. The games are not designed in the traditional
+“pay-to-win” style. The amount of Digital Assets that one player has will not have a huge impact in the game.
+Bonus features will not directly impact the games, but provide the owners of Digital Assets with
+special experiences. Here are some examples:
+•
+
+Gain access to special visual content
+
+•
+
+Gain access to extra contents
+
+•
+
+The group with an owner of Digital Assets will get higher stats so the other players in the group will
+appreciate the Digital Asset owner
+
+•
+
+Owners of Digital Assets can gain access to owners only communities and rooms
+
+・In response to periodical ranking of in-game
+characters, Prices
+
+of Assets Change
+
+・By owning a Digital Asset, its characters
+are Strengthened
+and makes the game more
+
+enjoyable.
+
+Fig. 13 A diagram showing how the Game and the Digital Art Auction operates together to set the values
+of Digital Assets
+
+24
+
+【Third Reason】 The PlayMiner Believes that Digital Assets will Become More Valuable (Investors)
+The Digital Art Auction is an online auction site where you can buy and sell Digital Assets.
+Since it is an auction site, Digital Assets will have varying values at different points in time. This
+auction site can be accessed from anywhere around the world based on the terms of the KYC*. Moreover, the
+cryptocurrency used at the auction is a cryptocurrency called the DEAPcoin, which is registered at the crypto
+assets exchange center.
+As our PlayMining Platform economic zone grows, we believe that investors who are neither
+interested in the artworks nor the games will start to join. Furthermore, we have plans to approach such investors
+from early stages of the platform’s development, in order to achieve a high overall active user count.
+In recent years, the recognition that art is a highly efficient investment asset is quickly spreading
+amongst the wealthy. This is backed up by a plethora of data that the art market has been growing non-stop
+since the beginning of the 21st century. This trend is thought to continue for a while, and investmentors and
+speculators are steadily participating in the art investment market.
+
+【Source】 “Art Market Outlook 2016” (ArtTactic)
+
+Fig. 14 Christie’s and Sotheby’s art auction gross sales assessment
+25
+
+Digital Art Auction too should be able to join in this trend to “invest in the arts.” Particularly since
+Digital Art will not physical degrade as it is digitally stored data, it should be a highly attractive investment
+product.
+In our project, we will approach investors and speculators from an early stage and strongly encourage
+their participation to our platform.
+The annual world casino market is around 18 trillion yen (apprx. 165 billion US dollars), and Japan’s
+annual pachinko (casual gambling games) market is around 20 trillion yen (apprx. 184 billion US dollars) per
+year. Also, on the FX market, close to around 700 trillion yen (apprx. 6.43 trillion US dollars) worth of money
+is being traded daily, so having investors join our platform will give us limitless growth potential.
+* KYC means “Know Your Customer”. It is a process by which banks obtain information about the identity and
+address of the customers. This process helps to ensure that banks' services are not misused.
+
+26
+
+Chapter4. Theme & Title
+4.1 First Game, “JobTribes” –Job/Career Personification GameThe first game that will be released on the PlayMining Platform is “JobTribes,” a game based on the
+400,000 copies sold bestseller book about wages and careers in Japan (Japan Wages and Career Encyclopedia),
+and a story written by a plotline hitmaker Shin Kibayashi.
+Characters of JobTribes are designed by talented anime and manga creators like Haruhiko Mikimoto,
+who have a huge fan base worldwide. The game is set in a fictitious world in which different tribes who are
+grouped based on their job types fight to gain various resources within that world. The main character through
+which PlayMiners will get to uncover this world is someone “who does not have a job,” which is a unique and
+rare characteristic in this world. Players will meet many “jobs,” find allies, fight other tribes, and grow stronger.
+A career or a job is a universal concept, and it is something people can understand and relate to
+regardless of culture or nationality. Japan Wages and Career Encyclopedia has personified over 2,000 different
+types of jobs that exist in Japan to around 800 characters, which allows us to create many valuable Digital
+Assets based on this book.
+Moreover, this game has a very important mission to give back to society.
+Through playing this game, we hope that PlayMiners from various countries can achieve mutual
+understanding and respect towards those with jobs different than their own.
+
+Fig. 15 Examples of Job Personified Characters from the book, Japan Wages and Career Encyclopedia
+27
+
+■ Story Creation
+
+Shin Kibayashi (樹林 伸)
+World-renowned manga author.
+Produced a lot of hit comics during his Shonen Magazine editor days.
+Cumulative circulation of his works is over 300 million copies. (Total amount
+over 1,500 million yen). A wine-themed manga “Drops of God” was awarded
+the title of Chevalier in France.
+Representative Works:
+“Drop of God,” “The Kindaichi Files,” “Psychometler EIJI,” “Getbackers
+Recaptors”
+
+Fig. 16 Shin Kibayashi’s Original Scenario Works
+
+28
+
+“JobTribes” is already in the process of story creation and game development, and is scheduled to be
+released worldwide by the end of March 2020.
+To attract many users, and to make them feel invested in the game, we have focused on developing
+the following features:
+
+■ JobTribes Game Features
+1) Card Battle Game
+: simple system, and interesting story by Shin Kibayashi
+2) “Jobs” as the main theme
+: users can see themselves represented within the game, and feel more emotionally attached
+3) Collect, nurture, and win!
+: three classic features that make players invested in the game
+4) Contribution by many famous authors
+: From living legends to up and coming authors, there are many great character backstories
+5) Gain DEAPcoin by playing
+: The most evolutionary aspect of our game. High ranking players might be able to live off from just
+playing?
+
+Fig. 17 “JobTribes” game screen example
+
+29
+
+4.2 Second Game: “World FLAGS” –Flags Around the World: Personification Project–
+The second game we are preparing to release is called “World FLAGS,” a game with characters
+personified based on countries’ national flags.
+
+“World FLAGS” is a project by the author of Japan Wages and Career Encyclopedia, Kompei
+Yamada. Yamada has been working on this project since late 2018, and when a world famous online influencer
+shared this game with their followers in May 2019, the project received a lot of praise and attention.
+Yahoo!Japan’s IT ranking shared information about “World FLAGS” when it became the number one
+ranked “up and coming IT projects”, and FujiTV’s popular news show “Mezamashi Doyobi,” broadcasted about
+the game too. Every day we receive about 20 to 30 questions from various countries, and it is a project with a
+high level of international attention.
+
+Fig. 18 "World FLAGS" featured by many media influencers
+30
+
+On the other hand, national flags can be a very sensitive theme in some cases. Therefore, in this project,
+we keep in mind that this “World FLAGS” will be used in a peaceful diplomatic sense, and we have continued
+to communicate with various embassies. Every embassy we have visited so far has shared with us a very positive
+impression of the project, and has granted permission and support for the use of their national flags.
+Moreover, various embassies have now contacted us requesting for their countries’ flags to be drawn
+as characters and featured in our game. We have answered their requests by hand delivering their country’s
+character illustrations to them.
+
+Fig. 19 Delivering each country’s characters to their ambassadors in Japan
+(Upper left) Ambassador of Nicaragua (Upper right) Ambassador of Mexico
+(Lower left) Ambassador of Venezuela (Lower right) Ambassador of Honduras
+
+2020 is the year of Tokyo Olympics, and there could not have been a more perfect year to release
+this game. In line with the spirit of the Olympic Games, we will develop and promote “World FLAGS” based
+on the themes of pride, friendship, and unity around the world.
+
+31
+
+4.3 Game Entertainment Platform’s Expandability
+■ More Games to Follow
+After releasing the third game, we plan to invite third party game creators to join our platform.
+On the PlayMining platform, the digital asset transactions on the Digital Art Auction is our primary
+means of monetization, and it exists independently from the games. Therefore, game creators will not have to
+worry about in-game charging systems that leads to player apathy, and simply pursue in creating a fun and
+exciting game.
+Moreover, if game creators release past games on the PlayMining platform, it can be another way for
+them to make financial gains.
+By inviting third party game creators to join, the quality and amount of digital assets traded within the
+PlayMining economic zone will increase, thereby leading to the natural increase in value of DEAPcoins.
+■Manga Platform
+Concurrently with our game releases, we are planning to create original
+manga contents to be released on the PlayMining platform.
+We are making great progress on the release of original manga. Our
+keyperson in this part of the project is Noriaki Matsuki (please refer to 8.2
+Management Team for more details about his profile). Matsuki was an editor at
+Shonen Magazine’s editorial office for 24 years, and has released many hit manga
+series like FAIRY TALE and RAVE. He is widely known as one of the most
+talented editors in the Japanese manga industry. To fully commit to the DEA
+
+Fig. 20 Editor-in-Chief
+
+Project, Matsuki quit his job at Shonen Magazine, and with Matsuki as our
+
+Noriaki Matsuki
+
+leader, we are currently expanding the Manga editorial team.
+Moreover, Shin Kibayashi, the author of the scenario for our first game “JobTribes,” has also agreed
+to fully support in our manga project too. Based on the ingenious original scenarios by Shin Kibayashi, we plan
+on releasing many great manga series from our platform.
+To make sure that PlayMining becomes a core platform that releases many new manga series to the
+world, we aim to fulfill the following missions at our manga production base:
+1) High production rate: Within three years, 100 manga series are planned to be released
+2) Global standard: All released mangas will be in multiple languages
+(English/Chinese/Japanese/French/Spanish)
+3) Respect for Creative Rights: Eradicate pirating sites and M&A with other manga platforms
+4) PlayMining: Free of charge. The more you read, the more DEAPcoins you will mine.
+32
+
+Chapter 5. Token Economy
+5.1 The DEAPcoin’s Value
+In general, a currency’s value is based on what it can buy given that there is a limit to how much the
+currency is issued. In other words, the value of the currency correlates with the gross value of the economy
+which it is primarily used in.
+All original artworks of the Digital Arts on the PlayMining platform are owned by DEA. Therefore,
+in principle, the aggregate value of the Digital Arts would be caluculated as the market value of all circulating
+DEAPcoins.
+In the PlayMining economic zone, the more Digital Assets there are, and the more game titles there
+are, the value of the economy which DEAPcoin is used in increases, and the aggregate market value of
+DEAPcoin grows proportionately. The maximum circulation amount of DEAPcoin is decided (Max circulation
+amount: 30 billion DEP, hereinafter 1 DEAPcoin = 1 DEP), so as the market value of DEAPcoin rises, the value
+of 1 DEP also rises.
+
+【DEAPcoin vs. Digital Asset】
+・DEAPcoin’s issued amount does not change (Max circulation amount: 30 billion DEP)
+・The number of Digital Assets increases as the PlayMining platform’s services expand. Since the value of
+DEAPcoin is backed by the value of Digital Assets, the increase of Digital Assets on the platform leads to the
+continuous increase of DEAPcoin value.
+【DEAPcoin vs. Legal Currency】
+•
+
+The more attractive the services offered by Digital Assets become, the more people who seek digital
+assets will flow into the PlayMining economic zone.
+
+•
+
+Digital assets can only be bought and sold through DEAPcoin. Therefore, PlayMiners who want to
+get Digital Assets purchase the DEAP Coin, and then purchase the Digital Assets.
+
+As a result, the value of DEAPcoins continues to have upward trend, even in legal currencies.
+The PlayMining Platform builds its own economic zone through the DEAPcoin, which sets prices
+based on the above principles. The PlayMining Platform will develop as an economic zone due to an increase
+in content. In addition, profits are returned to creators every time Digital Asset transactions are made, creating
+a place for fostering better art and entertainment content.
+In this way, the development of the economic zone on the DEAP Platform will produce high-quality
+content, and an increase in quality content will form a positive cycle of developing the economic zone of the
+DEAP Platform.
+33
+
+5.2 DEAPcoin の価値を裏付けるもの
+Cryptographic assets are "electronic data assets without a physical collateral", and there is no guarantee
+such as the state issued legal currencies. For example, the Bank of Japan's official website also provides the following
+explanation of cryptographic assets.
+“Crypto assets are not legal tender issued by the state or its central bank. In addition, it should be noted that the price
+of cryptographic assets tends to fluctuate significantly due to various factors such as the supply and demand of users,
+as they generally do not have underlying assets.”
+(Bank of Japan website: https://www.boj.or.jp/announcements/education/oshiete/money/c27.htm/)
+
+As mentioned above, most cryptocurrencies such as bitcoin, that have been distributed so far do not
+have any underlying assets. For this reason, it is a very unfortunate fact that the value has repeatedly fluctuated
+in a short amount of time due to speculative sources, which has caused the image of cryptographic assets to be
+something shady and unreliable.
+However, DEAPcoin is characterized by being an unusual cryptographic asset that has a "value assurance"
+that sets it apart from such conventional cryptographic assets. We will explain that from two aspects.
+
+■ DEAPcoin: Value Assurance 1 – Digital Asset’s “Use Value"
+As mentioned in “3.4 Why will PlayMiners Buy Digital Assets?" the digital assets that are going to be
+released on our platform are created based on games and manga, and the assets possess an “ownership value”
+amongst fans of the content creators. Moreover, in addition to its ownership value, our digital assets can be
+easily resold on the Digital Art Auction, so it has value as an investment product too. Furthermore, owning
+such digital asset can increase the entertainment features on the games, thereby possessing a high “use value”
+all at the same time.
+
+■ DEAPcoin: Value Assurance 2 – Digital Asset’s “Asset Value”
+In addition to the digital assets described above, our company has begun to buy/own works by world
+famous artists* bought with DEAPcoin (*we decided to call these “legacy artworks”).
+Under a collaborative system with an agent with rich network connections with art collectors, we have
+already bought many legacy artworks. We are planning to sell the ownership of these works on the Digital Art
+Auction.
+The legacy artworks that our company owns have been judged by experts, collectors, and the wider
+art investment community to have very high property value. Since DEAPcoin can be used to purchase these
+“valuable assets,” DEAPcoin is also a valuable asset.
+
+34
+
+From the issue of sovereign gold coins in the early 19th century to the Nixon shock in the late 20th
+century, many currencies in the world assured its value with the “gold standard” (a system that backs a state
+issued currency's monetary value/exchange value with a certain amount of gold that can in principle be
+exchanged with that amount of money). the same way, DEAPcoin is a cryptographic asset whose value can be
+determined based on the guarantee of exchange with art that has “use value” and “asset value.” In other words,
+DEAPcoin is a cryptocurrency that adopts an “art standard.”
+The actual price of DEAPcoin is not necessarily based on the total value of the underlying assets as
+shown in Fig. 21 because the actual price of DEAPcoin is evaluated by the market after listing on the crypto
+asset exchange. However, we believe that the fact that 1) there is value assurance, and that 2) the total volume
+of such value assurance will continue to rise, will send a very positive message about the value of DEAPcoin
+to the market which actually evaluates DEAPcoin prices.
+
+Fig. 21 DEAPcoin value calculation (art standard)
+
+35
+
+5.3 DEAPcoin Specification
+DEAPcoin is a utility token issued by ERC20, one of the token standards for the Ethereum blockchain.
+■Reasons for Adopting the ERC20 Standard
+ERC20 is the most major standard for the original currency issued on the Ethereum platform and is
+used in various ICO projects. Currently, it is said that there are tens of thousands of unique currencies issued in
+the ERC20 standard worldwide, and ERC20 has become the de facto standard in the industry. Tokens adopting
+the ERC20 standard are far more numerous than tokens adopting other standards and networks, and there are
+many famous tokens, so many wallet applications and virtual currency exchanges around the world support the
+ERC20 standard.
+In order to spread our philosophy and change the rules of the world, DEAPcoin must be easy to handle
+and can be used in many existing services. In order to have more people use DEAPcoin and deliver our ideal
+services to as many people as possible, we have selected the Ethereum network and the ERC20 standard, which
+boast high versatility and expandability.
+■DEAPcoin Improvements: Additional Safety Net System
+DEAPcoin, on the other hand, is not just following the ERC20 template; it has been improved by
+adding its own smart contracts.
+In 2017, ICOs with unique currencies adopting the ERC20 standard were actively performed, but
+among users who got their own currency, there was a situation where assets were lost due to operation mistakes
+at the time of token remittance. This issue occurred frequently. This happened because of a human error in
+specifying a remittance destination instead of a wallet address and a contract address with a similar address
+format.
+The loss of assets is not the responsibility of the issuer of ERC20 or the original currency, but the
+holder's own responsibility. However, for the holders who are not highly literate in the Ethereum network, the
+wallet address and the contract address were easily confused and the loss of assets lowered the currency values.
+In light of this situation, DEAPcoin has established a safety net by developing and implementing its
+own smart contract. Thanks to the smart contract, DEAPcoin is kept at hand without remittance when the
+remittance is performed with the contract address instead of the wallet address.
+In addition to the above case, DEAPcoin was issued with many improvements from the previous
+ERC20 tokens.
+
+36
+
+■DEAPcoin Auditing Framework
+The DEAPcoin has a system for receiving a source code safety audit by an external auditing
+organization. This is because we believe that there must be no room for failures in order to realize our vision
+and safeguard PlayMiners’ assets.
+In April 2018, a fatal bug that allowed infinite generation in some original currencies was discovered
+and became a hotly contested topic. And this bug was caused by a rudimentary programming mistake.
+At that time and now, there are many projects that use their own currency, and many of them do not
+have an auditing system in place to detect even basic mistakes.
+Because of this industry, as creators of DEAPcoin, we believe that it is of utmost importance to conduct
+thorough audits and ensure PlayMiner asset safety. The audits conducted for DEAP Coin are based on what the
+world's leading cryptocurrency exchanges use for listing examinations, raising the quality of DEAPcoin to the
+highest level in the world.
+DEAPcoin is a world-class token that has the versatility and expandability derived from ERC20, and
+has been refined in quality and safety from past examples.
+
+【DEAP COIN Basic Information】
+Currency Name:
+
+DEAP Coin (DEP)
+
+Base：
+
+Ethereum
+
+Token Specification：
+
+ERC20
+
+Issue Amount (Initial):
+
+10.0 billion DEP
+
+(*Maximum Issue Amount:
+
+30.0 billion DEP)
+
+Maximum Sales Amount： 4.5 billion DEP
+Fig. 22 DEAPcoin Basic Information
+
+37
+
+Chapter 6. Road Map
+6.1 Milestones for 2019 - 2020
+The milestones for this project over the last year are set as follows.
+Digital Entertainment Asset Pte. Ltd., the operating body of this DEA Project, entered its second term
+in August 2019, and at the same time, changed and strengthened its management structure, and issued the
+DEAPcoin in the same month.
+The issued DEAPcoin is preparing for a listing on the cryptocurrency exchange around April 2020. At
+the same time, we are preparing to list DEAPcoin on an exchange certified by the Japan Monetary Agency as a
+cryptocurrency trader for business development in Japan.
+Digital Art Auction will be released in April 2020. “JobTribes Card Battle”, the first game, is scheduled
+for release in May 2020, the following month.
+
+Fig. 23 DEA Project Schedule
+
+38
+
+6.2 The Allocation and Use of Funds
+The following figure shows the allocation of DEAP Coin and the use of funds obtained through token sales.
+
+DEAPcoin Allocation: Initially Issued
+TOKEN ALLOCATION
+Other
+(Team etc.)
+15%
+
+Liquidity
+Providing
+20%
+
+Total
+
+10 Bil-DEP
+
+Fund Raiser
+45%
+Fund Raiser
+Operation Expenses
+
+Operation
+Expenses
+20%
+
+Liquidity Providing
+Other
+(Team etc.)
+
+Fig. 24 DEAPcoin allocation (initial circulation)
+
+39
+
+Mass Circulation Amount of DEAPcoin within PlayMining Economic Zone
+
+2 Yrs Later 21%
+
+Initially Issued
+10 Bil-DEP
+33.3%
+
+3 Yrs Later 13%
+
+Minable Rerserve
+20 Bil-DEP
+66.7%
+
+4 Yrs Later 9%
+5 Yrs Later 7%
+6 Yrs Later 6%
+7 Yrs Later 5%
+8 Yrs Later 4%
+9 Yrs Later 2%
+
+Fig. 25 DEAPcoin aggregate circulation
+(*Note: The amount of DEAPcoin from the Minable Reserve is dependent on the number of IPs so it is an
+estimation)
+
+Table. 2 DEAPcoin allocation table (proportion to total DEAPcoin issued)
+Allocation
+
+Initially Issued
+
+Proportion
+
+Fund Raiser
+
+15.00 %
+
+Operation Expenses
+
+6.67 %
+
+Liquidity Providing
+
+6.67 %
+
+Team Member*
+
+5.00 %
+
+Apr 2021 Unlock-up
+
+21.59%
+
+Apr 2022 Unlock-up
+
+12.63%
+
+Apr 2023 Unlock-up
+
+8.96%
+
+Apr 2024 Unlock-up
+
+6.95%
+
+Apr 2025 Unlock-up
+
+5.68%
+
+Apr 2026 Unlock-up
+
+4.80%
+
+Apr 2027 Unlock-up
+
+4.16%
+
+Apr 2028 Unlock-up
+
+1.89%
+
+2
+
+PlayMining
+
+【*Note2】 Team Member’s allocated DEAPcoin is locked up for 365 days after being listed
+
+40
+
+USE of Funds
+USE OF FUNDS
+
+Circulation
+
+Long-term Budget
+Platform Dapps
+10%
+Development
+15%
+Company Operating
+Amount 10%
+of DEAPcoin within PlayMining
+
+Personnel
+10%
+
+Economic Zone
+
+Game
+Development
+25%
+
+Dapps Development
+Game Development
+Marketing
+Personnel
+Company Operating
+
+Marketing
+30%
+
+Long-term Budget
+
+Fig. 26 DEAPcoin sales allocation
+
+Table. 3 DEAPcoin sales allocation table
+USE
+
+Proportion
+
+Platform Dapps Development
+
+15.0%
+
+Game Development
+
+25.0%
+
+Marketing
+
+30.0%
+
+Personnel
+
+10.0%
+
+Company Operating
+
+10.0%
+
+Long-term Budget
+
+10.0%
+
+41
+
+6.3 The Mass Circulation Amount of DEAP Coin within the DEAP Economic Zone
+The amount of DEAPcoin distributed within the PlayMining economic zone will start at 10 billion
+DEP. On the other hand, DEAPcoin stored outside the economic zone to distribute as “money” (= DEAPcoin)
+to the game users, which is the foundation of this project, will flow into the DEAP economic zone (= game
+users) for a certain period of time after the game title release. The DEAPcoin reserved outside of this economic
+zone will be called “Minable Reserve” in this project.
+This minable reserve will be allocated based on how many game/manga IPs are released on the
+PlayMining platform. In this way, DEAPcoins in the minable reserve will be gradually introduced into the
+PlayMining platform based on the increase in the number of IPs released on the platform.
+The above allocation of DEAPcoin from the Minable Reserve will start at least one year after launch.
+In addition, this quota will be suspended when the number of major game / manga IPs in the PlayMining
+economic zone reaches 40. By this timing, even if there is no DEAPcoin allocation from the Minable Reserve,
+a situation where a self-regulating DEAPcoin circulation model within the DEAP economic zone will have been
+established.
+In regards to the allocation of DEAPcoin from the Minable Reserve, there will be no arbitrary
+intervention by the management team. Therefore, the public key to the Minable Reserve is always open to the
+
+30
+
+[Billion-DEP]
+
+45
+
+[Titles]
+
+40
+
+25
+
+35
+30
+
+20
+
+25
+
+15
+
+20
+15
+
+10
+
+10
+
+5
+0
+
+Certified IP Titles
+
+DEAPcoins in PlayMining Ecnomics
+
+public and the remaining quantity of DEAPcoin can be checked by anybody.
+
+5
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+0
+
+Years from PlayMining Launched [yrs]
+
+Fig. 27 PlayMining economic zone’s DEAPcoin amount and IP releases (years are estimated)
+42
+
+6.4 Proof of Play (PoP)
+As explained in 5.1, this project will build a mechanism that allows DEAPcoin to circulate among
+game users, auction users, digital entertainment/art content creators, and other participants in the PlayMining
+economic sphere. Moreover, the various aspects of the economic zone are designed to induce voluntary and
+organic increase in DEAPcoin circulation.
+In this section, we will explain the new concept “Proof of Play” (hereinafter referred to as “PoP”),
+which is indispensable for building this auto-circulatory model. The images on the next page explain the
+DEAPcoin circulation in the PlayMining economic zone from three timings ([A] [B] [C]).
+Immediately after launch (state [A]), the circulation model is not established because the DEAPcoin
+quantity distributed to PlayMiners exceeds the DEAPcoin earned by the operating entity (DEA). Therefore, we
+will release DEAPcoins from the minable reserve following the release of new IPs.
+As time passed, there will be increased participation by third party IP creators, and the amount of IPs
+in the economic zone will increase. Moreover, the number of auctions on the Digital Art Auctions will increase
+along with the number of PlayMiners in the economic zone, and the amount of DEAP Coin earned by DEA, the
+operating entity, will also increase. As a result, part of the DEAP Coin distributed to game PlayMiners can be
+supplied by DEA. ([B])
+[C] shows the final state after [B]. When the state of [C] is reached, the balance of DEAPcoin
+circulation within the PlaMining economic zone is fully established, and there is no need to inflow tokens from
+the Minable Reserve. In this project, the timing of [C] is planned to be about 7 to 10 years after launch.
+According to the plan, at the time of transition to [C], more than 40 game titles will be available on the platform.
+If this movement is described from another viewpoint, it can be said that DEAPcoin is newly mined
+from the Minable Reserve and flows into the economic zone as the number of PlayMiners increases. DEAPcoin
+will flow in (and be mined) as more games are played.
+By participating in the game, new crypto assets are mined. In this project, this state is expressed as
+“Proof of Play (PoP)” which we believe will be a very important aspect of our project.
+
+43
+
+Fig. 28 “PlayMining Economic Zone” circulation model and its relations to the Minable Reserve
+44
+
+6.5 Additional Information Regarding this Chapter
+In order to help our readers better understand the contents of chapter 6, and to answer frequently asked
+questions, we here explain three of the following things:
+■ How Proof of Play (PoP) Influences the Value of DEAPcoin
+As explained in previous sections, through PoP, DEAPcoin circulation will increase from 10 bil-DEP
+since its release. The increase of the circulation amount will be accompanied by DEAPcoin dilution within the
+PlayMining economic zone, and it will reach 300% at its final stage.
+On the other hand, considering the assets developed on this platform, that is, the total value of the
+content, the game title is planned to increase to 30-50 titles in 7-10 years from the first title release, and content
+distribution will also increase accordingly. Correspondingly, the number of participating PlayMiners will also
+expand, and the rate of increase in real asset value within the economic zone will greatly exceed the above
+maximum dilution (300%). In other words, it can be said that the unit price of DEAPcoin is not abandoned just
+because of Dilution.
+■ Opportunities for PlayMiners to Earn DEAPcoin in the Games
+Specific settings and scenes where players can earn DEAPcoin in the game can be set independently
+for each game title. For example, in the first game “JobTribes” produced by our company, it is assumed that the
+PlayMiner acquires DEAPcoin (or in-game coins: exchangeable with DEAPcoin at a certain rate) in the
+following scenes:
+1) When you win in an in-game card battle
+2) For the top winners in the in-game ranking (Daily/Weekly)
+3) Every time the task “Quest” set in JobTribes is cleared
+4) Other special events
+
+■ Regulation of the Amount of DEAP Coin Acquired by PlayMiners
+The DEAPcoin quantity given to game PlayMiners will also be adjusted as the DEAPcoin unit price
+(per legal currency) moves up and down. This adjustment employs a mechanism that automatically adjusts the
+value based on an algorithm, formulating rules so that the value of the DEAPcoin earned will remain constant
+on a legal currency basis.
+When the price of DEAPcoin is rising, the DEAPcoin that PlayMiners earn in the game will also
+increase in value over time. Therefore, this setting serves as an incentive to encourage PlayMiners to participate
+as soon as possible after launch.
+
+45
+
+Chapter 7. Project Plans and Strategy
+7.1 Why Games?
+The main reason for dealing with games as a pillar of the PlayMining Platform is not only its affinity
+with Digital Assets. The world of media has been led by newspapers and televisions, and currently the Internet,
+especially social media such as Facebook, is beginning to replace its leading role.
+So what will take over as the hegemonic medium after social media? The promising candidate is said
+to be games, and there are some claims that “the next social media is a game.”
+The grounds for this claim, are that games’ characteristics include 1) long play time, and that 2)
+payments are designed to be a part of the game playing experience. Our platform does not directly charge
+PlayMiners to play the game, but access to payments can be obtained by distributing and circulating the
+DEAPcoin. In addition, 3) intense communication is also a feature of games that some present as their reason
+for why games will replace social media as a tool for communication and information dissemination.
+In addition to these, artificial intelligence (hereinafter referred to as AI), which has developed rapidly
+in recent years, is thought to accelerate this trend. There is an argument that has been circulating globally, that
+AI will replace simple labor and cause a large-scale unemployment (including in-house unemployment) in the
+next 10 years, and that such change is unstoppable. The game continues to hold great potential in the sense that
+it can make use of this massive amount of unemployed leisure time.
+*Why Games? Four reasons:
+1) Long play time
+2) Payments are designed to be a part of the game experience
+3) Intense communication
+4) Increased unemployment due to AI technology deployment
+
+vs 1 年前
+Game/Video/Movie
+Music
+Portal / SNS
+News
+Health/Fitness
+
+10h 43m
+
+(+126 min)
+
+3h 06m
+
+(+44 min)
+
+2h 55m
+
+(+50 min)
+
+2h 02m
+
+(+51 min)
+
+1h 36m
+
+(+16 min)
+
+【Source】 Nielsen Mobile Net View, 2019, by category (18-34years old, Dec/2018)
+
+Fig. 29 Average Smartphone Usage Time
+46
+
+7.2 Our Competitors
+The games on the PlayMining Platform are planned to be released worldwide from the beginning. One
+competitor in this regard is Google's STADIA, which has been announced to be in full swing at the same time
+as our platform. STADIA has declared that it will create a strong game platform by inviting many third parties
+one after another with Google's abundant financial power.
+On the other hand, the PlayMining Platform, as with STADIA, will approach multiple third parties
+with many prominent IPs to encourage participation in this platform. As mentioned above, this project will
+strongly advertise its innovative system that “gives PlayMiners money (DEAPcoin)” and “promotes the
+resalability of digital assets.” These two points clearly differentiates us from STADIA, which follows the
+conventional charging model to make players pay to play games.
+
+Fig. 30 Google presenting “STADIA.” They will begin full-scale development in 2020
+
+47
+
+7.3 The “Rule Change” We Want to Achieve
+The DEA Project aims to change the rules from the ground up by creating a stir in the game industry
+and the financial world.
+The rule change we are aiming for can be explained in two stages. The first rule change is, as
+mentioned above, “playing games and getting money.” By introducing this completely new concept and
+releasing our platform worldwide, we plan to acquire an “unprecedented number of PlayMiners” at the global
+level, which was unconceivable for conventional games.
+The second rule change is to deliver “assets” gained by playing games to people around the world who
+do not have financial access (= mainly people who do not have bank accounts). People who did not have or did
+not need financial access would naturally want to use the assets once they have received them. In our case, a lot
+of people will create accounts to have access to DEAP Coins, and the accounts to which the legal currency
+exchanged from DEAP Coins can be saved. As a result, it will be possible to build an enormous global and
+“DEAP economic zone” in conjunction with the above-mentioned acquisition of “unprecedented number of
+PlayMiners”.
+According to an announcement by the World Bank (Global Findex database, 2017), the adult
+population without financial access is currently reported to reach 1.7 billion worldwide, many of whom live in
+Southeast Asia, South Asia, South America and Africa. In our project, these people will have access to all of our
+games, which will also give them a great opportunity to gain financial access. In our project, the goal is to reach
+2 billion players including these people, and our promotion activities will operate based on such goal setting.
+
+Fig. 31 The world’s bank account-less population and distribution
+48
+
+In this project, our initial milestone is to gain 100 million Monthly Active Users (MAU) within 3
+years after launch, and reaching 2 billion MAU is our final goal.
+The goal to gain 100 million MAU within three years is three times as fast as Facebook (Facebook
+gained 100 million MAU in the nine years spanning 2004 to 2012).
+In 2012 when Facebook reached 100 million MAU, Facebook’s market capitalization was at 55 billion
+USD. Our company should aim to reach the same value and will use MAU as our main KPI, and continue to
+strategize around that.
+
+Fig. 32 Facebook’s after launch user growth and our company’s milestone
+
+49
+
+7.4 Business Development and Monetization Methods
+The business development of our project will achieve the above rule changes in three stages.
+First, as explained above, we aim to acquire “an unprecedented number of active users” by using
+entertainment/art as the main attraction. The second stage is the development of a financial business based on
+the huge “PlayMining economic zone” that can be obtained by delivering assets to many PlayMiners.
+Furthermore, as the third stage of development, we aim to launch a marketing business that utilizes abundant
+big data accumulated in our huge economic zone.
+Beyond that, as a fourth development, we are considering creating a new future market as a future
+plan, such as utilizing a VR space that utilizes entertainment content.
+
+Fig. 33 This project’s milestones
+
+50
+
+The first method is to acquire tokens issued in-house as digital asset trading revenues, and further
+increase the value of DEAPcoin while acquiring gains on the sale at the DEAPcoin market i.e. through an
+innovative monetization strategy.
+The second is the development of “big data based advertisement business,” which is the current
+monetization method of Facebook and Google. In other words, the DEA Project is expected to be a reliable
+source of revenue even just by following the “traditional monetization method”.
+The third is monetization through financial businesses in the PlayMining economic zone. We will
+develop and deploy financial products within the PlayMining economic zone, such as small loans of DEAPcoins
+and bond issuances secured by Digital Assets.
+
+Fig. 34 Four monetization strategy
+
+51
+
+7.5 Mid-Term Business Plan
+Since the establishment of the company in August 2018, the Company has been using the first period
+for project planning and various preparation periods, but since entering the second period in August 2019, fullscale business activities have been promoted.
+In the second period (July 2020), Naoto Yoshida was appointed as the CEO of Digital Entertainment
+Asset Pte. Ltd. on the first day and moved to Singapore where he was located. DEAP Coin was issued in the
+second half of August, the first month, and the first title, JobTribes, was being produced and the BANK function
+and Digital Art Auction were being developed. The issued DEAP Coin is planned to be listed on the
+internationally recognized cryptocurrency exchange during the second quarter of the same period (2019 / 112020 / 1).
+In the next term (3rd term, July 2021), we aim for rapid expansion of both user acquisition and content.
+The company plans to launch the second title of the game in partnership with a major third party, while also
+making friendly acquisitions of publishers and anime studios to acquire IP and acquire their editing capabilities.
+In addition, during the third period, we plan to implement a third-party allotment in a small round for existing
+project investors.
+In the 4th term, we will further accelerate the acquisition of release titles and IP, and release game
+titles from our company and multiple third parties to establish our position as a new global game platform. In
+addition, we plan to implement a third-party allotment capital increase (series A), which was enlarged at the
+same time. We plan to continue our approach to further project development with a solid foundation for the
+business, including financial aspects.
+
+Fig. 35 Revenue/Profit plan of Digital Entertainment Asset Pte. Ltd. For 3 years
+
+52
+
+【Major Business Plans】
+First Period (July 2019)
+・DEA Project starts
+・Individual projects start preparations
+Second Period (July 2020)
+
+《CURRENT PERIOD》
+
+・Naohito Yoshida appointed as CEO
+・Shigeru Shiina appointed as co-CEO
+・DEAPcoin issued
+・DEAPcoin exchange listing
+・Digital Art Auction release
+・1st Game: “JobTribes” release
+Third Period (July 2021)
+・PlayMining Manga Intellectual Property multiple releases
+・Japanese publication company M&A
+・Anime studio M&A
+・2nd game release (from third party creator)
+・Third party allotment (seed round)
+Fourth Period (July 2022)
+・3rd game release (originally developed by DEA)
+・Mid-sized game maker M&A
+・Game 4th & 5th release (by multiple third party creators)
+・Third party allotment (series A)
+
+53
+
+Chapter 8. Company Profile and Team Members
+8.1 DEA Project’s Organization
+The DEA Project is run by a Singaporean corporation, Digital Entertainment Asset Pte. Ltd.
+(hereinafter referred to as DEA), which carries out the project. DEA will issue, manage and operate DEAPcoin
+issuance.
+Table. 4 Company Information
+Name
+
+Digital Entertainment Asset Pte. Ltd
+
+Founded
+
+August 2018
+
+Address
+
+7 Straits View, Marina One East Tower, #05-01, Singapore, 081936
+
+Directors
+
+Naohito Yoshida, Shigeru Shiina, Kozo Yamada
+
+Share Holders
+
+Company management only (no outside capital)
+
+Fig. 36 Digital Entertainment Asset Pte. Ltd. (Marina One East Tower)
+
+54
+
+8.2 Management Team
+Our company is directed by our two co-CEOs, Naohito Yoshida and Shigeru Shiina. Yoshida has found
+three publicly listed companies (all listed on the Tokyo Stock Exchange), and is known as a serial entrepreneur.
+Shiina is a top consultant, and has been the Japan branch executive representative for various American
+consulting firms, and is very knowledgeable in the field of business management and technology. Moreover,
+Shiina is also known as one of the AI researchers in Japan, and is currently a professor at Keio University.
+Other management members are top-tier development engineers, from large media companies,
+publishing companies, game makers, tech startups, consulting firms, and we have a wide range of expertise
+shared amongst our members. All our members are committing to this project full-time.
+
+Naohito Yoshida｜吉田 直人
+・Founder/CEO and Executive Creative Director
+At the age of 28, Yoshida founded the game and anime company, GLAMS
+Co., Ltd. Although having managed to be one of the pioneers of the digital
+animation industry, he was diagnosed with cancer at age 32.
+At 34, his company and his private equity went banckrupt, but managed to
+make a comeback by establishing three publicly listed companies in the
+human resources, content creation, and media ad tech industries
+respectively.Convinced
+
+that
+
+blockchain will
+
+radically
+
+change
+
+the
+
+entertainment industry, Yoshida decided to return to the field as an
+entrepreneur for the first time in 20 years.
+
+Shigeru Shiina｜椎名 茂
+Co-CEO and Executive Management Director
+Shiina has worked on AI research at the NEC Central Research Laboratories,
+published many papers and acquired patents, but turned to the consulting
+industry to promote the application of AI to the real world. In recent years,
+he has conducted many DX consulting, seminars, and lectures, in particular,
+ones using AI. He was previously the President and CEO of
+PricewaterhouseCoopers Co., Ltd. and Vice President of KPMG Consulting
+Co., Ltd. Recently, he has been motivated by the future potential of
+blockchain technology, and decided to jump into the world of blockchain. He
+is a visiting professor at the Faculty of Science and Technology at Keio
+University and the President of Japan’s Ski Federation for the disabled.
+55
+
+Kozo Yamada｜山田 耕三
+・Chief Marketing Officer
+Graduated from University of Tokyo, Faculty of Law.
+Yamada was in charge of producing music and variety programming at TV TOKYO
+Corporation production department. Has worked on programs such as Halomoni,
+Ongaku Ba~ka, Yarisugi Ko-ji, Mokuyo Hachiji no Concert, Toshiwasure Nippon no
+Uta, MeloiX! and others. In 2017, he was awarded the Bronze Award by Spikes Asia,
+the region’s most prestigious creative award. Established Tsukuriba Inc. in January
+2018 and serves as a producer for a wide variety of entertainment content.
+
+Shinya Kiriu｜桐生 慎也
+・Chief Operating Officer
+Kiriu completed Master of Sciences at Tokyo University’s Graduate School of Frontier
+Sciences. After working at the Swiss Federal Laboratories for Materials Science and
+Technology (EMPA) and a Japanese material manufacturer, Kiriu joined Quantum
+Leaps led by Nobuyuki Idei. As a senior director, he directly supported the value
+enhancement of invested companies and made new investments directly under the CEO.
+He participated in this project after overseeing business strategy integration at AI
+Startup. A finalist at the International Mathematical Olympiad in 2001.
+
+Hiroshi Tsurusaki｜釣崎 宏
+・Chief Technology Officer
+President and CEO of Tecotec Inc. Tsurusaki is an accomplished cryptocurrency
+operation engineer and manager. He established Tokyo Bitcoin (currently DMM
+Bitcoin, an authorized cryptocurrency exchange dealer), and has focused on blockchain
+technology since its early days in both development and implementation. In this project,
+Tsurusaki is involved in a wide variety of aspects from designing tokens and supporting
+technology to processing legal and accounting matters.
+
+Kyuzaburo Suzuki｜鈴木 久三郎
+・Chief Financial Officer
+Former Chief Financial Officer of PwC Japan, and currently an advisor of PwC inhouse lawyer. Suzuki graduated from the Economics Faculty of Tohoku University.
+Suzuki joined KPMG Consulting in 2000 after working for NKK Corp.
+He has long been involved in accounting, taxation and finance in Japan and overseas in
+the engineering and IT industries as the chief financial officer of operating companies
+and holding companies in Japan, Saudi Arabia and the United States.
+
+56
+
+Noriaki Matsuki｜松木 則明
+・Editor-in-Chief
+Graduated Waseda University, Faculty of Business. Matsuki has a 25-year career in
+the editorial desk of “Weekly Shonen Magazine,” and has engaged in more than 40 titles
+such as, "FAIRY TAIL," "RAVE," "EDENS ZERO," "Chuka Ichiban!" series, and more.
+
+Mitsushi Ono｜小野 暢思
+・Creative Producer
+Graduated Keio University, Faculty of Law, Politics Major.
+Ono experienced acquisition of licensed content and development of original anime titles
+at Netflix. Ono was also the publicity producer of several TV anime series at Pony
+Canyon and Pony Canyon USA.
+
+Hiroshi Tsuruoka｜鶴岡 洋志
+・Marketing Producer
+Tsuruoka worked mainly as a news business planner for terrestrial television programs
+at TV Tokyo Communications. He has produced three-dimensional projects not limited
+to television programs, such as web-linked projects and live broadcasting programs.
+After that, he worked in the PR/Marketing section of Yahoo Japan Corporation, and
+handled PR planning for services in the company. He has been in charge of planning and
+production of a wide range of entertainment projects and media content.
+
+Shimpei Kawahito｜川人 慎平
+・Vice President of Engineering
+Tecotec inc. Director CTO. In charge of overall Fintech technology at the company. In
+the blockchain field, Kawahito led the development of Dapps, which manages blood test
+data. He also has an external track record of winning the BlockchainEXE Award at the
+Etheream Hackathon hosted by ConsenSys and the Silver Award at the Ontology
+Blockchain Hackathon.
+
+・Chief Information Security Officer
+
+Kazuyuki Kimura｜木村 和幸
+Kimura has been serving as Chief Technology Officer and Chief Information Security
+Officer at Tecotec Inc. Kimura led the development of the cryptocurrency exchange
+system and achieved approval by Japanese authorities. Kimura has a lot of system
+development experience in the fintech blockchain area, such as being the development
+lead of the industry's first “investment history management system” in the fintech area.
+
+57
+
+Toshinori Asai｜浅井 敏典
+・JobTribes: Development Producer
+Joined Sega Enterprises in 1984. Has been involved in launching titles such as Master
+System, Mega Drive, Mega Modem, Mega CD, Saturn, and Dreamcast. After joining
+Dwango, he joined the creative content industry as Managing Executive Officer. He was
+also the director of Chunsoft and Spike (now SpikeChunSoft) and involved in the
+development of both companies. 35 years of experience in the game industry.
+
+Yuki Fujishita｜藤下 雄規
+・Digital Art Auction: Development Producer
+Graduated from Kyoto University Graduate School. Became a game director in 2016 and
+has produced many game titles with monthly sales of several million USD. Feeling the
+possibility of fusing virtual currency and games, set up the blockchain division at Tecotec
+Inc. An expert for development of original token issuance, cryptocurrency exchange,
+cryptocurrency wallet, distribution application and blockchain games.
+
+Kompei Yamada｜山田 コンペー
+・JobTribes/World FLAGS Original Author
+Original author of JobTribes's “Japanese Salary & Occupation Book.”
+An author of the popular book series with over 400,000 copies issued, and a pioneer in the
+profession personification boom. He is also the main director of "World Flags" to be released
+on the DEAP Platform. In addition to NTV “School Revolution”, he is active in various
+fields as a career researcher on TV and radio.
+
+Kazunori Uedao｜上田尾 一憲
+・Digital Entertainment Asset Pte. Ltd. Taiwan CEO
+While studying at the Nannan University, met Mr. Yonghan Han, “Master of Money Making”
+and learned business and investment as his secretary in Beijing, China. After that, became
+President of Shenzhen Eastern Galaxy Investment Development Co., Ltd. In 2014, he
+moved to Taipei and served as president of environmental business companies and
+consulting companies.
+
+58
+
+8.3 Development
+Team Structural Plan with Tecotec Corporation
+
+The design and development of the PlayMining platform and the first title of the game to be released,
+“JobTribes”, will be developed in collaboration with Tecotec Inc. (https://tecotec.co.jp/).
+Tecotec Inc. was founded in 2007. In addition to developing fintech-related systems such as secure
+settlement systems and investment management/analysis services, the company develops digital contents
+mainly using social games for smartphones, incorporating various technologies with a focus on native
+application development.
+[Achievements in Blockchain Related Services]
+Focusing on blockchain technology from its inception, the company has a high reputation of
+developing and implementing services using blockchain technology. Established Tokyo Bitcoin Exchange Inc.
+and later sold the business to DMM (currently DMM Bitcoin).
+DMM Bitcoin is a cryptocurrency exchange that is the only virtual currency exchange company
+designated by the Financial Services Agency that has not been subjected to administrative sanctions in Japan,
+and has a high reputation for security and other technical capabilities.
+[Achievements in Game Development]
+The company develops and manages games with monthly sales exceeding 1000 million yen (apprx.
+919,000 US dollars). Developed many famous IP titles (NBA Dream Team, Square Enix titles) with smartphone
+native apps. Has a rich development experience with HTML5 technology.
+
+Fig. 37 Famous Games Developed by Tecotec
+
+59
+
+8.4 Legal Counsel / Audit
+In order to ensure an infallible implementation of this project, we have experienced professionals
+well versed in crypto asset laws and content in both Singapore and Japan. Moreover, we are promoting the
+project while maintaining close communication with the authorities.
+
+【Legal Counsel (in Singapore)】
+・One Asia Lawyers, Head of Fintech & ICO Team
+
+Kazutaka Mori｜森 和孝
+Mori became a registered lawyer in 2010. He is the Japan Desk Director at the Singapore
+office of a large British law firm (Evercheds). Moved to One Asia Lawyers in 2018. Mori
+was in charge of establishing cryptocurrency exchanges in Singapore and other Asian
+countries and international law matters for ICO projects. He has established various
+crypto asset exchanges and international legal affairs for ICO projects in Singapore and
+neighboring countries. Mori is widely known as being the Japanese lawyer with the most
+experience in ICOs. Advisor to the Blockchain Collaborative Consortium (BCCC).
+
+【Legal Counsel (in Tokyo)】
+・ Anderson Mōri & Tomotsune LPC
+One of the leading general law firms in Japan that handles international legal services.
+Based on know-how accumulated over many years, provides high-quality services
+related to legal issues facing domestic companies and foreign companies operating in
+Japan. An experienced team of lawyers work together to systematically and flexibly
+meet the client's needs.
+
+60
+
+【Auditor/Advisor】
+・Auditor
+
+Kazutaka Okubo｜大久保 和孝
+Okubo is the CEO of Okubo Associates Co., Ltd. (CPA/CFE). He graduated from Keio
+University Faculty of Law. He is the former Senior Managing Director of EY Japan’s
+ERM division. He is a specially appointed professor for Keio University’s Graduate
+School of Media and Governance, and is also appointed as an outside corporate auditor
+of SEGA SAMMY HOLDINGS and at many other corporations. He is also responsible
+for promoting compliance policies in Nagano, Kamakura, and Hamamatsu. He also
+consults a number of government offices in compliance policies, such as at the Ministry
+of Health, Labor and Welfare, the Ministry of Land, Infrastructure, Transport and
+Tourism, and the Ministry of Education, Culture, Sports, Science and Technology.
+
+【Advisor】
+・Lawyer
+
+Junichi Fukuda｜福田 淳一
+Graduated from University of Tokyo Faculty of Law in 1982.
+Passed the National Bar Exam, and entered the Ministry of Finance in the same year.
+Served as Director of Minister’s Secretariat, Director General of the Budget Bureau,
+Administrative Vice Minister. Retired the ministry in 2018.
+
+61
+
+Chapter 9. Legal Matters
+9.1 Risk Warnings
+The DEA Project has various risks in its product development, protection, and deployment processes, many
+of which are not under the direct management of the DEA Project. All participants in this project must read the
+following risk warnings carefully, understand them, closely consider them, and then participate in the token
+trading program. Those who choose to participate in the DEAPcoin trading program are considered to have
+understood, recognized, and agreed to take the following risks.
+1.
+
+Legal Policy and Regulation Risk
+Blockchain technology is regulated and under the surveillance of various regulation organizations around the
+
+world. There is a possibility that DEAP will become a subject of said regulations and demands of these
+organizations. The subject of these regulations may be including but are not limited to blockchain technology.
+DEAPcoin buyers will need to thoroughly research and follow all due diligence, such as each states’ laws
+regarding cryptocurrencies, taxations, and credit obligations.
+2.
+
+Security Risk
+Angel or private investments are not subjects to insurance. If those investments or its values are lost, buyers
+
+may not be able to receive support from private or public insurance.
+3.
+
+Technological Risk
+The DEA Project is currently under development. Because of DEAP’s technological development
+
+complications, sellers may at times face unpredictable and/or impossible to overcome technological difficulties.
+Therefore, there is a possibility that the DEA Project development may fail or end at any time for whatever
+reasons.
+4.
+
+Source Code Fragility Risk
+Nobody can assure that the DEA Project source codes are absolutely perfect. There are possible errors, bugs,
+
+and frailty in our codes, which may compromise the usability, stability and safety of the project, and therefore
+negatively impact DEAP’s value.
+5.
+
+Security Risk
+Anyone who gains access to the purchaser's registered email address or registered account by decrypting or
+
+decrypting the DEAP purchaser's password will maliciously claim DEAPcoin purchased through this public
+offering. Therefore, a DEAPcoin purchased by a purchaser in this public offering may be erroneously sent to
+anyone claiming DEAP through the purchaser's registered email address or registered account, and such
+transmission cancellation is impossible and irreversible. Each purchaser must take the following measures to
+62
+
+properly maintain the security of their registered email address or registered account: Use a high security
+password. Do not open or reply to fraudulent emails. Please keep confidential information strictly.
+6.
+
+Liquidation Risk
+DEAPcoin’s value is not a currency issued by any individual, group, central bank, state, superstate, quasi-
+
+national organization, nor is its value guaranteed by hard capital or other forms of trust. DEAPcoin’s circulation
+and trading are not under the responsibility of the sellers. DEAPcoin trading is only based on the agreement
+between relevant market participants. DEAPcoin publisher is neither obligated to DEAPcoin purchasers to
+redeem or purchase DEAPcoins nor can they guarantee the liquidity or market price of DEAPcoin at any time.
+7.
+
+Price Fluctuation Risk
+When traded on the open market, tokens can rapidly fluctuate, and in short periods of time, price shocks often
+
+occur. These price fluctuations are caused by the power of the market (including speculative trading), change in
+regulation policies, technological advances, the exchange availability, and other objective reasons. Moreover,
+this fluctuation also represents the supply-demand balance. Risks related to the price of DEAPcoin transactions
+are the responsibility of DEAPcoin purchaser.
+8.
+
+Information Leakage Risk
+At the date of this white paper’s release, the DEA Project is at its developmental stage, and its technological
+
+specifications, agreement mechanism, algorithms, codes, and other technological specifications and parameters
+are constantly being updated and may have been changed. This white paper includes specific information on
+the DEA Project, but it is not 100% reflective of everything about this project, and the seller may update and/or
+adjust some of its information. The seller cannot notify the participants on all and every detail of the DEA
+Project development (including progress and milestones regardless of delays), nor is it the seller’s responsibility
+to do so. As the project progresses there will be constant changes being made. In order to avoid disclosure of
+incomplete information, we exercise this right to withhold certain information.
+
+63
+
+9.2 Disclaimer
+This white paper does not constitute an offer to purchase DEAPcoin in an illegal jurisdiction.
+All or part of this white paper is not legal, financial, tax or other professional advice, and should not be
+considered as such. Before deciding to buy, sell, or recover DEAPcoin, you should seek independent expert
+advice. You are responsible for evaluations, evaluations and decision-making made during the DEAPcoin
+purchase, sale, or collection process. The DEA Project does not force anyone to accept DEA’s proposals.
+To the maximum permitted by law, DEA is not liable for any liability arising from the adverse effects or
+consequences of DEAPcoin.
+
+64
+
+Chapter 10. Version History
+-2019/3/21
+
+Ver 0.1
+
+-2019/3/29
+
+Ver 1.0
+
+-2019/4/4
+
+Ver 1.1
+
+・2019/9/29
+
+Ver 2.0
+
+・2019/10/11
+
+Ver 2.1
+
+・2020/02/28
+
+Ver 2.2
+
+65
+
+

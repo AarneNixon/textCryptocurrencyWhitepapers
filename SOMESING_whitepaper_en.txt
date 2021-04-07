@@ -1,0 +1,1440 @@
+SOMESING WHITEPAPER
+
+WHITEPAPER V3.0 – Jul 2020
+
+[EN]
+
+TABLE OF CONTENTS
+Why SOMESING
+
+3
+
+Business model
+
+10
+
+Technology
+
+17
+
+Future Plan
+
+21
+
+Team & Others
+
+25
+
+The Roadmap
+
+29
+
+What Happen
+
+35
+
+Disclaimers
+
+42
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+2
+
+Why SOMESING?
+
+Which App is Yours ?
+Karaoke Apps
+
+･ Global No.1 ‘S-app’
+･ 200 Million Downloads
+
+･ Korea No.1 ‘E-app’
+･ 8 Million Downloads
+
+Karaoke App Market
+As the development of internet network and smart devices
+progresses, the Karaoke application has founded the platform for
+the Karaoke market by providing easy access and availabilities to
+many countries, especially in which the Karaoke culture has not
+been initially present. Currently, many Karaoke application
+products have launched globally, and the number of users are
+estimated at around 500 million.
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+4
+
+Singing is Consuming the Accompaniment(MR)?
+
+Singing is Creative Work!
+The previous Karaoke application had provided music covers to
+users with limitations in its free services, which demand additional
+fees to users for other services.
+
+Although the users may have formed a significant number of fans
+from the music that they created, the only rewards the users
+received were the words of encouragements without any financial
+element in it.
+This seemingly unfair reward distribution and reward system have
+been formed by undervalued recognition of the music composing
+industry in which many countries overlook the financial value of
+creative work.
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+5
+
+Big Challenges
+
+SingLovers Pay All
+
+SingLovers Get Nothing
+Note- SingLovers : The SOMESING users that love singing and value it as a way of expression, conveying their thoughts and individual principles through their creative works of music.
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+6
+
+SOMESING for SingLovers
+The music has been an integral part of people’s lives in every culture and society around the globe.
+Now, the creative work of composing music has become a tool and way to express one’s value and thought.
+This collection of individual creativity in music leads our world to being filled with beauty and diversity.
+
+SOMESING is a platform for SingLovers.
+Anyone can enjoy the music that they like.
+The enhancement or recreation / remix of new or existing music pieces are rewarded fairly.
+The fair reward distribution is enabled by the Blockchain technology.
+Everyone that enjoy the creation activities of music receives the rewards and rewards for the music that they created.
+This will lead the creative work and activities to its exponential growth, providing tremendous inspiration to
+SingLovers on peer-to-peer basis.
+SOMESING will enable every participant to become active creators of music.
+The fair rewarding and reward distribution system will motivate those creators to sustain their creativity within
+SOMESING’s ecosystem and its work stream, resulting in the fruitful world of music.
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+7
+
+Big Challenges _ SingLovers Pay For Everything
+The current system of our Karaoke application product provides music covers and depends its
+administrative / marketing and platform management expenses solely based on the profits gained by its
+SingLovers user fee.
+
+SingLovers Pay Nothing
+Business System
+Revolution 1
+
+All of the SingLovers in the world will able to have free access to more
+than 40K+ number of Karaoke music covers including K-Pop and
+other various genres at any time.
+(Music cover provider to be added)
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+8
+
+Big Challenges _ SingLovers Receive Nothing
+As contents creators, the SingLovers users have composed their own music. While their music is in
+popular demands, they have been unable to gain any rewards or profits out of their creative work.
+
+SingLovers Reward Program
+Business System
+Revolution 2
+
+SOMESING Ecosystem
+The ecosystem of SOMESING is designed in a way that the SingLovers receive a fair
+reward based on our effort of designing the promotions and events (e.g. Fans’ gifts,
+supports, and other various collaborations of communities and events)
+
+At SOMESING,
+the reward distribution system will be automated and the reward to each SingLover’s for
+their contribution of content will be calculated based on the SingLovers’ contributions
+without any systematic interruption or manual modification.
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+9
+
+How SOMESING Work?
+
+SOMESING Eco-system
+1. Why Free Services ?
+
+•Previous Karaoke App : Paid service
+
+- Convert into paid service after using some free songs.
+- User’s sign out due to paid service. (Smaller MAU/DAU than expectation)
+
+•SOMESING App : Free Service
+
+- Free service through block-chain and crypto currency.
+- Providing studio-level high sound quality, Real Time Sync and Sound Effect.
+- Minimization of user’s drop-off rate through free service and enable to expand through inflow of new users.
+
+2. Why User-Centered Compensation?
+
+•Previous Karaoke App : no reward or uneonomical
+
+- Users pay all platform fees to use the service, however, there is no reward for the produced content or it is uneconomical.
+
+•SOMESING App : user centered reward system
+
+- Design of transparent reward system through block chain technology.
+- Reward system that returns 70% of total accumulated tokens to users by forming a wallet for each song content users
+produce and reward through sponsoring and gifts from other users who have sympathized with the content.
+- Enable to expand fandom and community through reward system.
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+11
+
+SOMESING Eco-system
+3. Why Staking ?
+
+•As the number of cumulative subscribers increases, so does the token being staked
+
+•Staking 1 : Token Deposit
+
+- One time token deposit is required to save the song that users sing but the deposited tokens are returned to
+the users at the time of withdrawal from the service
+
+•Staking 2 : distributing period
+
+- Saving tokens for each song content through sponsoring and gifts from the community for 4weeks to 8weeks
+
+4. Why SOMESING ?
+
+•Easy to play : Users can easily post song contents and enjoy them
+
+•User Vitalization : Applying gaming elements in the service and design in a way that non-token holders
+can receive the tokens according to their contribution for the ecosystem
+
+•Referral Marketing : Viral through friend invitation function
+•Global launching : Launching global App starting from March 2019
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+12
+
+Service Flow
+
+Accumulating Coin
+
+Supporting
+
+Sing
+Sing a favorite song freely
+
+Recording
+Set the Sync and Effect of the
+song and save. To open the
+storage function, deposit a coin in
+a one-time deposit.
+(However, returning this deposit
+coin when leaving the community)
+
+Posting
+
+The coins are accumulated
+from gifts, supports, events
+and other co-marketing
+efforts.
+
+By posting my music on
+SOMESING, the “Song Wallet” is
+created automatically.(2weeks)
+
+Distribution of
+accumulated Coin
+After a certain period of time, the
+accumulated coins are distributed
+to the stakeholders of the music
+from the “Song Wallet” based on
+each one’s contribution.
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+13
+
+Decentralized system
+User
+Rewards
+
+System
+
+･ Singer(Creator)
+
+50 %
+
+･ Ecosystem
+
+20 %
+
+･ Copyright
+
+5%
+
+･ Music Source
+
+5%
+
+･ Community
+
+5%
+
+･ SOMESING
+
+15%
+
+Based on the rate of contribution during the music content creation work, the SSX (accumulated coin) in the
+Song Wallet is distributed without its central system’s interruption.
+•
+•
+•
+•
+
+A block is created based on each song composed by the SingLovers in the SOMESING’s ecosystem. This block forms the Song Wallet.
+Any SingLover of the SOMESING ecosystem can participate in composing the song that is consisted of the block in many various ways.
+The logic behind the block enables the automatic distribution of reward.
+The smart contract embedded in the block automatically calculates the contribution rates and assign the rewards without the central system’s
+interruption.
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+14
+
+Expansion of SOMESING system
+
+Paid Service
+
+Free Service
+
+In existing karaoke paid
+service, Only 20% of users
+act as an active user, 80%
+of users disappear.
+
+The transition to free
+service Not only can the
+number of active users
+increase, but all users can
+be activated.
+
+Participation & Promotion
+
+Expansion of User
+
+All users increase the activity of
+viral, external distribution, etc.
+through the compensation
+system.
+
+SOMESING can be used not only
+for the activation of existing users
+but also for inflow of new users.
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+15
+
+Virtuous Cycle of SOMESING’s Ecosystem
+Each stakeholder voluntarily enters SOMESING’s ecosystem to serve themselves participating in making
+exchange for rewards for content creation, and the ecosystem grows by those entrants and participants
+based on their growth of activities, which create the overall virtuous cycle in the ecosystem:
+(e.g. Free services, joy of singing, reward distribution within the community, music marketing, rising value of coins, and distribution / reflecting opinions, etc.)
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+16
+
+What Makes
+SOMESING Unique?
+Technology
+
+Technologies : Sync & Sound Effect
+Accompaniment(MR) key adjustment
+•
+
+Adjusts a song’s note base key to the user’s voice
+
+SYNC, VOLUME and EFFECT CONTROL
+•
+
+Adjusts user’s voice input and audio latency control in real time
+
+•
+
+Controls volume of Accompaniment(MR) based on user’s voice
+
+•
+
+Provides effect control functions such as echo/reverb/room size
+
+Implementation of RECORDING & MIXING PROCESS to obtain the best sound quality.
+Improved user convenience and satisfaction.
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+18
+
+Technologies : Duet
+User Part Editing
+•
+•
+•
+•
+•
+
+Provides personal edit function for each part based on user’s preference
+Provides mimic function for any edit function once the part is edited
+Provides switch function for male/female sections
+Enables various duet content creation functions in the same song
+Conserves edit resources during operations, while providing new music
+
+It is possible to edit user part and recursive implementation of RECORDING & MIXING PROCESS
+to maximize enjoyment by increasing communication with other users
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+19
+
+Technologies : Video
+Apply VIDEO through SYNC implementation of CAMERA + SONG
+•
+
+Maximizes the MCN function that enables various channels for expression of the
+users
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+20
+
+SOMESING’s Vision
+OUR FUTURE PLAN
+
+Pictures 1 : Collaborations with Streaming Service
+
+SOMESING provides users with lavish music service
+experience as it facilitates the changeover of ‘Listening
+to Original Song’ function and ‘Singing’ function
+through collaboration with music streaming services.
+Besides, SOMESING promotes the integration of
+external service users and SingLovers by letting them
+share and/or purchase outside services other than
+SOMESING using its coin, SSX. (SomeSing eXchange).
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+22
+
+Pictures 2 : Blockchain Tech + AI Tech Personalized Service
+
+Big data analysis and
+conversational AI.
+
+Personalized
+Curating
+
+Contents stored in SOMESING are also saved in
+Block Chain, however, it is possible for users to
+select encryption or decoding according to
+their own decisions.
+ex)
+•
+•
+•
+•
+
+Analysing data of selection of songs
+Analysing listeners’ selection of songs
+Analysing listeners’ comments
+Analysing the popularity and rankings of users, the flow of tokens
+and analysing the habits of token usage etc.
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+23
+
+Pictures 3 : New Stars
+
+Rewarding content creation and talent and
+Discovering/Supporting new music stars
+SOMESING provides SingLovers with various opportunities of
+success through partnerships with off-line entertainment
+agencies and diverse broadcasting / entertainment
+businesses.
+Entertainment agencies and broadcasting companies are able
+to proceed the verification of popular appeal at SOMESING,
+therefore, SOMESING will be a ‘bridge’ of on-line and off-line.
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+24
+
+Pictures 4 : Link between USERS & STARS
+
+SOMESING
+USER
+
+STARS
+Broadcasting / Fan Meeting / Concert
+
+Providing opportunities to meet ‘Stars’ in both direct/indirect ways for expansion of user numbers.
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+25
+
+Who Make It Possible?
+Team & Others
+
+Team Members
+
+Heuibae Kim
+
+Hyunkeun Yoon
+
+Kyle Kim
+
+Taehee Ryu
+
+Jaehoon Chang
+
+Heeseok Choi
+
+JunHee Han
+
+Wonil Seo
+
+COO
+
+CSO
+
+Jason Kim
+
+CEO & Founder
+
+CBDO
+
+CGBO
+
+CTO
+
+CPDO
+
+Blockchain Developer
+
+Lead Server Developer
+
+IconLoop Consulting Director
+
+EMC/Adobe Account Manager Director of Marketing
+SIEC College, Australia
+
+Infraware R&D Team Leader
+
+PENTABREED UI/UX DIRECTOR BitofGroup General Manager
+
+General Planning and Operation LG Fashion HR Manager
+
+Infraware FR Dev. Team
+
+Doug Ahn
+
+Dongwok Shin
+
+Seungmi Lee
+
+Eunkyoung Kim
+
+Miju Kim
+
+Jungeun Lee
+
+Mihee Kim
+
+Sungryung Ko
+
+Hyeyoung Oh
+
+CVO
+
+Lead Server Developer
+
+Lead Client Developer
+
+Senior Client Developer
+
+Senior Client Developer
+
+Senior Client Developer
+
+Senior Server Developer
+
+UI/UX Designer
+
+UI/UX Designer
+
+Former Dialpad CEO
+
+Infraware TT Dev. Team
+
+SOFTSEED SW Dev. / CEO
+
+SOFTSEED Dev. Team Manager SOFTSEED SW Dev.
+
+Infraware
+
+Infraware FR Dev. Team
+
+PENTABREED Platform Designer
+
+PENTABREED Platform Designer
+
+Heejun Je
+
+Chaeyoon Bae
+
+KyungKeun Yoon
+
+Myungsu Lee
+
+Haearum Park
+
+Kunhee Ko
+
+Product Designer
+
+Product Designer
+
+Product Designer
+
+Japan Business Manager
+
+Global Biz
+
+Global Biz
+
+PENTABREED UI/UX Leader
+
+line.games Designer
+
+Hongik-Univ. Master of Design HI Corp. Business Dev. Team
+
+Chinese language instuctor
+
+IMAGINATION PLANT Designer
+
+Heejung Kim
+BM Team / Manage
+CTS BM Manager
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+27
+
+Mainnet
+
+Blockchain platform developed by
+Ground X,
+a Kakao’s subsidiary company.
+https://www.klaytn.com/
+
+Partners
+
+Global digital asset disclosure platform that
+everyone can access providing transparent
+and reliable information on virtual assets
+https://xangle.io
+
+No.1 multi-media service company that
+leads the future media market such as
+digital broadcasting, VOD, OTT, mobile
+services, etc.
+http://www.dlive.kr
+
+A subsidiary company of TJ Media, No1.
+Karaoke Company in Korea. Supplying
+music resources to SOMESING.
+http://www.ziller.co.kr
+
+Indonesia's largest mobile
+advertising platform (lock screen
+reward app)
+https://www.cashtree.id
+
+A leading K-POP Idol training center built into
+an entertainment network.
+Operating programs in collaboration with
+top-notch facilities, instructors, and large
+stage performance.
+http://www.sl-studio.co.kr/
+
+Blockchain-based and
+decentralized global digital
+content platform company
+http://www.contentos.io
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+28
+
+SOMESING X SSX
+The ROADMAP
+
+Project is already started
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+30
+
+Token Allocation
+
+Every stakeholders will coexist as a community builder
+Token
+
+Description
+
+Token Name
+
+SOMESING Exchange
+
+Token Symbol
+
+SSX
+
+Token Platform
+
+Klaytn
+
+Token Cap
+
+6,000,000,000 SSX
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+31
+
+Use of Proceeds
+Rational expenditure plan for early setting of services
+Description
+
+Note
+
+R&D
+
+BM consulting / Service Planning / Service Development
+Investment in security & server
+Blockchain wallet & Coin Development
+
+OP & EXP
+
+Salaries expenses, Rent expenses, Insurance expenses,
+etc.
+
+Legal
+
+Legal & Accounting expenses
+Tax and related matters
+
+Biz. Dev
+
+Global office
+Biz expansion (collaboration with Music industries)
+Biz expansion (on-off usages)
+
+Marketing
+
+App global launching marketing
+App marketing (on-off, TV, SNS, etc)
+
+Strategic
+Partners
+
+Accompaniment partner
+On-off collaboration partner
+
+Dex
+
+Reserve for exchange
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+32
+
+SOMESING Ecosystem Inflation
+1. Analysis on the demand of SOMESING Coins
+The demand of SOMESING Coins is mostly influenced by the volume of coin exchanges between contents creators and consumers, and the range
+of coin price set in the system. There is also additional demand of coins from sponsors and investors. Therefore, the total demand of coins is
+influenced by exchange demand (T), price (P), rapidity of circulation(V), and investment demand (S).
+The equation for the total demand is:
+Md = Px(T/V + S)
+Md : Demand of Coins, P : Price, T: Exchange Demand, V: Rapidity of Circulation, S: Investment Demand.
+
+2. Analysis on the supply of SOMESING Coins
+It is necessary to clearly define the supply mechanism of SOMESING Coins in order to enhance the stability of SOMESING Coin economy. In typical
+economy, currency market gets stabilized when the actual currency supply equals to the currency demand influenced by production(Y) and
+interest rate(i).
+M/P = Md (Y, i)
+In the SOMESING Coin economy where there is no effect of interest rate, the currency supply can be directly managed in consideration of
+production. When proper inflation occurs due to additional issuance of SOMESING coins, this issuance can work as a tool to facilitate exchanges
+among major actors who own SOMESING coins, and to help prevent potential deflation causing destabilization of the economy.
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+33
+
+SOMESING Ecosystem Inflation
+3. Issuance mechanism for the currency supply
+The issuance mechanism of new currency supply aims to maintain a steady growth of both demand and supply at a proper level. In other
+words, Additional currency supply will be made in order to meet the future demand of SOMESING Token.
+For this, the issuance mechanism is defined as followed.
+The currency supply is determined by price range (Pt), exchange demand(Tt), rapidity of circulation(Vt), and investment demand(St) at a
+certain time(t).
+Mtd = Pt x (Tt / Vt + St)
+Real demand, not considering currency value, is Mtrd = Tt / Vt + St.
+At each time, the currency supply should be balanced with the currency demand.
+Mts =Mtd
+Mt = Pt X Mtrd
+Pt = Mts / Mtrd
+s
+
+Inflation can be measured by price changes during each period.
+Inflation rate = (Pt+1 - Pt)/Pt = Pt+1/Pt-1
+Thus,
+Inflation rate = (Mt+1s / Mt+1rd) X (Mtrd /Mts) -1
+= (Mt+1s /Mts)X (Mtrd / Mt+1rd) -1
+That is,
+(Mt+1s /Mts) = (1+Inflation rate) X (Mt+1rd/Mtrd )
+Currency supply is: Mt+1s = (1+Inflation rate) X (Mt+1rd/Mtrd ) X Mts
+Here, the real demand growth can be defined as Mt+1rd/Mtrd.
+Therefore, if the target inflation is fixed to a certain rate, the currency demand (Mt+1s) for the next period can be determined by the current
+currency demand (Mts) and the growth of real demand.
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+34
+
+2019 1Q
+
+What Changes Will Happen?
+
+Freedom of Time!
+Freedom of Location!
+You can
+sing and Listen
+with no limits.
+Social Music Service based on BLOCKCHAIN TECHNOLOGY
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+36
+
+Start remixing and create music in your own
+music studio.
+You can create your own music video and
+music diary!
+Social Music Service based on BLOCKCHAIN TECHNOLOGY
+
+Share your music!
+
+People all around the world will
+applause and encourage you.
+Social Music Service based on BLOCKCHAIN TECHNOLOGY
+
+You will be popular with
+your music in demand,
+and the reward
+and recognition will naturally
+follow.
+Because that is what the music celebrities earn.
+Social Music Service based on BLOCKCHAIN TECHNOLOGY
+
+Enjoy every genre of music on SOMESING.
+
+Your life with SOMESING will unleash the limits
+and Lead you to the whole new world of freedom
+in music.
+Social Music Service based on BLOCKCHAIN TECHNOLOGY
+
+My Hand-Carry Karaoke, SOMESING!
+Striving to create the perfect world for musicians, our SOMESING team has worked hard on the business design, development and
+operations together for the past five years.
+
+We cordially invite all of you, music lovers, to our new world of musical freedom.
+To some people, music is their hobby;
+It is their dream;
+It is their best gift of life;
+And it is their greatest footsteps towards the future.
+SOMESING exists for all of the music lovers accessing our music platform freely and easily. We want to create one global community of
+music, the SingLovers’ ecosystem. We have developed SOMESING, the Karaoke application, for all of those who love music.
+Previously, we had faced challenges and limitations in regards to globally reaching out to everyone who wanted to create or recreate their
+music with their own voices, although we developed the best-in-class music quality, sound effects and controls with great stability.
+Now, SOMESING has transformed itself and has overcome this challenge, having found the solution from its unique Blockchain-based
+technology by providing various music services for free to a massive number of people, who are willing to share their music contributing to
+SOMESING’s ecosystem as SingLovers.
+We look forward to providing services and to creating the world of music that everyone with passion in music creativity receives the fair
+share of reward for the contributions that they have made. We hope this provides satisfaction and happiness to every SingLover in the world.
+
+CEO
+
+Disclaimer
+Please read this entire section carefully. If you are in any doubt as to the action you should take, please consult your legal, financial, tax or other professional advisor(s).
+1.1 Legal Statement
+
+a.
+
+b.
+
+This Whitepaper (“Whitepaper”), in its current form, is circulated for general information
+purposes only in relation to the platform and applications described in the Whitepaper
+(“Platform”) as presently conceived and is subject to review and revision. Please note that
+this Whitepaper is a work in progress and the information in this Whitepaper is current only
+as of the date on the cover hereof. Thereafter, the information, including information
+concerning Emel Ventures (the “Company”) business operations and financial condition may
+have changed. We reserve the right to change, modify, add or delete parts of this
+Whitepaper or its associated website without notice for any reason or at any time.
+
+a.
+
+No Token should be construed, interpreted, classified or treated as enabling,or according any
+opportunity to, purchasers to participate in or receive profits, income, or other payments or returns
+arising from or in connection with the Platform, the Token, or products, or to receive sums paid out
+of such profits, income, or other payments or returns.
+
+b.
+
+This Whitepaper or any part hereof may not be reproduced, distributed or otherwise disseminated
+in any jurisdiction where offering coins/tokens in the manner set out this Whitepaper is regulated or
+prohibited.
+
+No person is bound to enter into any contract or binding legal commitment
+in relation to the sale and purchase of the tokens native to the Platform (“SSX Token” or
+“Token”) (as defined below) and no payment is to be accepted on the basis of this
+Whitepaper. Any sale and purchase of the Token will be governed by a legally binding
+agreement, the details of which will be made available separately from this Whitepaper. In
+the event of any inconsistencies between the abovementioned agreement and this
+Whitepaper, the former shall prevail.
+
+c.
+
+This Whitepaper or any part hereof may not be reproduced, distributed or otherwise disseminated
+in any jurisdiction where offering coins/tokens in the manner set out this Whitepaper is regulated or
+prohibited.
+
+d.
+
+No regulatory authority has reviewed, examined or approved of any of the information set out in
+this Whitepaper. No such action has been or will be taken in any jurisdiction.
+
+e.
+
+Where you wish to purchase any Token, the Tokens are not to be construed, interpreted, classified
+or treated as: (a) any kind of currency other than cryptocurrency; (b) debentures, stocks or shares
+issued by any entity; (c) rights, options or derivatives in respect of such debentures, stocks or shares;
+(d) rights under a contract for differences or under any other contract with the purpose or
+pretended purpose to secure a profit or avoid a loss; or (e) units or derivatives in a collective
+investment scheme or business trust, or any other type of securities or capital market products.
+
+c.
+
+This Whitepaper does not constitute or form part of any opinion on any advice to sell, or
+any solicitation of any offer by the issuer / distributor / vendor of the Token to purchase
+any Token nor shall it or any part of it nor the fact of its presentation form the basis of, or
+be relied upon in connection with, any contract or investment decision.
+
+d.
+
+Where you wish to purchase any Token, the Tokens are not to be construed, interpreted,
+classified or treated as: (a) any kind of currency other than cryptocurrency; (b) debentures,
+stocks or shares issued by any entity; (c) rights, options or derivatives in respect of such
+debentures, stocks or shares; (d) rights under a contract for differences or under any other
+contract with the purpose or pretended purpose to secure a profit or avoid a loss; or (e)
+units or derivatives in a collective investment scheme or business trust, or any other type of
+securities or capital market products.
+
+1.2 Restrictions on Distribution and Dissemination
+a.
+
+The distribution or dissemination of this Whitepaper or any part thereof may be prohibited or
+restricted by the laws or regulatory requirements of any jurisdiction. In the case where any
+restriction applies, you are to inform yourself about, to obtain legal and other relevant advice on,
+and to observe, any restrictions which are applicable to your possession of this Whitepaper or such
+part thereof (as the case may be) at your own expense and without liability to the Company or its
+representatives, agents, and related companies (“Affiliates”).
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+42
+
+b.
+
+Persons to whom a copy of this Whitepaper has been distributed or disseminated, provided
+access to or who otherwise have the Whitepaper in their possession shall not circulate it to
+any other persons, reproduce or otherwise distribute this Whitepaper or any information
+contained herein for any purpose whatsoever nor permit or cause the same to occur.
+
+•
+
+The Company or its Affiliates undertake no obligation to update forward-looking statements should
+there be any change in circumstances. By acting upon forward-looking Information received from this
+Whitepaper, the Company or its Affiliates’ website and other materials produced by the Company or
+its Affiliates, you personally bear full responsibility in the event where the forward-looking statements
+do not materialize.
+
+c.
+
+As of the date of this Whitepaper, the Platform has not been completed and is not fully operational.
+Any description pertaining to and regarding the Platform is made on the basis that the Platform will
+be completed and be fully operational. However, this paragraph shall in no way be construed as
+providing any form of guarantee or assurance that the Platform will eventually be completed or be
+fully operational.
+
+1.3 Disclaimer of Liability
+a.
+
+The Token, the Platform and related services provided by the Company and its Affiliates are
+provided on an “as is” and “as available” basis. The Company and its Affiliates do not grant
+any warranties or make any representation, express or implied or otherwise, as to the
+accessibility, quality, suitability, accuracy, adequacy, or completeness of the Token, the
+Platform or any related services provided by the Company and its Affiliates, and expressly
+disclaim any liability for errors, delays, or omissions in, or for any action taken in reliance on,
+the Token, the Platform and related services provided by the Company and its Affiliates.
+
+b.
+
+The Company, its Affiliates and its directors, officials and employees do not make or purport
+to make, and hereby disclaim any representation, warranty or undertaking in any form
+whatsoever to any entity or person, including any representation, warranty or undertaking in
+relation to the truth, accuracy and completeness of any of the information set out in this
+Whitepaper.
+
+c.
+
+To the maximum extent permitted by the applicable laws and regulations, the Company and
+its Affiliates shall not be liable for any indirect, special, incidental, consequential or other
+losses of any kind, in tort, contract or otherwise (including but not limited to loss of revenue,
+income or profits, and loss of use or data), arising out of or in connection with any
+acceptance of or reliance on this Whitepaper or any part thereof by you.
+
+1.5 Potential Risks
+By purchasing, holding and using the Tokens, you expressly acknowledge and assume the risks set
+out in this section. If any of these risks and uncertainties develops into actual events, the business,
+financial condition, results of operations and prospects of the Company or its Affiliates may be
+materially and adversely affected. In such cases, you may lose all or part of the value of the Token.
+Such risks include but are not limited to the following:
+Risks Relating to the Tokens
+a. There may not be a public or secondary market available for the Tokens.
+
+I.
+
+The Tokens are intended to be native Tokens to be used on the Platform, and the
+Company and its Affiliates have not and may not actively facilitate any secondary trading
+or external trading of Tokens. In addition, there is and has been no public market for the
+Tokens and the Tokens are not traded, whether on any cryptocurrency exchange or
+otherwise. In the event that the Tokens are traded on a cryptocurrency exchange, there
+is no assurance that an active or liquid trading market for the Tokens will develop or if
+developed, be sustained. There is also no assurance that the market price of the Tokens
+will not decline below the purchase amount paid for the Tokens, which is not indicative
+of such market price.
+
+II.
+
+A SSX Token is not a currency issued by any central bank or national, supra-national or
+quasi-national organisation, nor is it backed by any hard assets or other credit. The
+Company and its Affiliates are not responsible for nor do they pursue the circulation and
+trading of the Tokens on the market. Trading of the Tokens merely depends on the
+consensus on its value between the relevant market participants, and no one is obliged
+to acquire any Token from any holder of the Token, including the purchasers of the
+Tokens, nor does anyone guarantee the liquidity or market price of the Tokens to any
+extent at any time. Accordingly, the Company and its Affiliates cannot ensure that there
+will be any demand or market for the Tokens, or that the price upon which the Tokens
+were purchased is indicative of the market price of the Tokens if they are made available
+for trading on a cryptocurrency exchange.
+
+1.4 Cautionary Note on Forward-Looking Statements
+a.
+
+b.
+
+Certain information set forth in this Whitepaper includes forward-looking statements
+regarding the future of the project, future events, achievements, and projections. These
+statements are not statements of historical fact and may be identified by but not limited to
+words and phrases such as “will”, “estimate”, “believe”, “expect”, project”, “anticipate”, or
+words of similar meaning. Such forward-looking statements are also included in other
+publicly available materials such as presentations, interviews, videos etc.. Information
+contained in this Whitepaper constitutes forward-looking statements including but not
+limited to future results, performance, or achievements of the Company or its Affiliates.
+
+The forward-looking statements involve a variety of risks and uncertainties. These statements
+are not guarantees of future performance and no undue reliance should be placed on them.
+Should any of these risks or uncertainties materialize, the actual performance and progress
+of the Company or its Affiliates might differ from expectations set by the forward-looking
+statements.
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+43
+
+Risks Relating to the Company, its Affiliates and the Platform
+a.
+
+b.
+
+c.
+
+d.
+
+Limited availability of sufficient information.
+The Platform is still at an early developmental phase as of the date of this Whitepaper. Its
+governance structure, purpose, consensus mechanism, algorithm, code, infrastructure design
+and other technical specifications and parameters may be updated and changed frequently
+without notice. While this Whitepaper contains the key information currently available in
+relation to the Platform, it is subject to adjustments and updates from time to time, as
+announced on the Company’s website. Purchasers will not have full access to all the
+information relevant to the Tokens and/or the Platform. Nevertheless, it is anticipated that
+significant milestones and progress reports will be announced on the Company’s website.
+The digital assets raised in the sale of the Tokens are exposed to the risks of theft.
+Whilst the Company and its Affiliates will make every effort to ensure that any
+cryptocurrencies received from the sale of Tokens are securely held through the
+implementation of security measures, there is no assurance that there will be no theft of the
+cryptocurrencies as a result of hacks, mining attacks, sophisticated cyber-attacks, distributed
+denials of service or errors, vulnerabilities or defects on such blockchain addresses, or any
+other blockchain, or otherwise. Such events may include, for example, flaws in programming
+or source code leading to exploitation or abuse thereof. In such event, even if the sale of
+Tokens is completed, the Company and its Affiliates may not be able to receive the
+cryptocurrencies raised and the Company and its Affiliates may not be able to utilize such
+funds for the development of the Platform, and the launch of the Platform might be
+temporarily or permanently curtailed. As such, the distributed Tokens may hold little worth
+or value. The Tokens are uninsured, unless you specifically obtain private insurance to insure
+them. In the event of any loss or loss of value of the Tokens, you may have no recourse.
+The blockchain address(es) may be compromised and the digital assets may not be
+able to be retrieved.
+The blockchain address(es) are designed to be secured. However, in the event that the
+blockchain address(es) for the receipt of purchase amounts or otherwise are, for any reason,
+compromised (including but not limited to scenarios of the loss of keys to such blockchain
+address(es), the funds held at such blockchain address(es) may not be able to be retrieved
+and disbursed, and may be permanently unrecoverable. In such event, even if the sale of the
+Tokens is successful, the Company and its Affiliates will not be able to receive the funds
+raised and the Company and its Affiliates will not be able to utilize such funds for the
+development of the Platform, and the implementation of the Platform might be temporarily
+or permanently curtailed. As such, distributed Tokens may hold little worth or value.
+There is no assurance of any success of the Platform and the Company and its Affiliates
+may cease the development, launch and operation of the Platform.
+I.
+The value of, and demand for, the Tokens hinges heavily on the performance of
+the Platform. There is no assurance that the Platform will gain traction after its
+launch and achieve any commercial success. The Platform has not been fully
+developed, finalized and integrated and is subject to further changes, updates
+and adjustments prior to its launch. Such changes may result in unexpected and
+
+II.
+
+III.
+
+unforeseen effects on its projected appeal to users, and hence impact its success. There
+are no guarantees that the process for creating the Tokens will be uninterrupted or
+error-free.
+While the Company has made every effort to provide a realistic estimate, there is also no
+assurance that the cryptocurrencies raised in the sale of Tokens will be sufficient for the
+development and integration of the Platform. For the foregoing or any other reason, the
+development and integration of the Platform may not be completed and there is no
+assurance that its systems, protocols or products will be launched at all. As such,
+distributed Tokens may hold little or no worth or value.
+Additional reasons which may result in the termination of the development, launch or
+operation of the Platform includes, but is not limited to, (aa) an unfavorable fluctuation
+in the value of cryptographic and fiat currencies, (bb) the inability of the Company and
+its Affiliates to establish the Platform or the Tokens’ utility or to resolve technical
+problems and issues faced in relation to the development or operation of the Platform
+or the Token, the failure of commercial relationships, (cc) intellectual property disputes
+during development or operation, and (dd) changes in the future capital needs of the
+Company or its Affiliates and the availability of financing and capital to fund such needs.
+For the aforesaid and other reasons, the Platform may no longer be a viable project and
+may be dissolved or not launched, negatively impacting the Platform and the potential
+utility and value of distributed SSX Tokens.
+
+e.
+
+There may be lack of demand for the Platform and the services provided, which would impact
+the value of the Tokens.
+I.
+There is a risk that upon launching of the Platform, there is a lack of interest from
+consumers, merchants, advertisers, and other key participants for the Platform and the
+services, and that there may be limited interest and therefore use of the Platform and
+the Tokens. Such a lack of interest could impact the operation of the Platform and the
+uses or potential value of the Tokens.
+II.
+There is a risk of competition from alternative platforms that may have been established,
+or even from existing businesses which would target any segment of the potential users
+of the Platform fulfilling similar demands. Therefore, in the event that the competition
+results in a lack of interest and demand for the Platform, the services and the Tokens,
+the operation of the Platform and Token value may be negatively impacted.
+
+f.
+
+The Company and its Affiliates may experience system failures, unplanned interruptions in its
+network or services, hardware or software defects, security breaches or other causes that could
+adversely affect the Company or its Affiliates’ infrastructure network, or the Platform.
+I.
+The Company and its Affiliates are unable to anticipate or detect when there would be
+occurrences of hacks, cyber-attacks, mining attacks (including but not limited to doublespend attacks, majority mining power attacks and “selfish-mining” attacks), distributed
+denials of service or errors, vulnerabilities or defects in the Platform, the Tokens, or any
+technology (including but not limited to smart contract technology) on which the
+Company, its Affiliates, the Platform, the Tokens, rely on or any other blockchain. Such
+events may include, for example, flaws in programming or source code leading to
+exploitation or abuse thereof. The Company and its Affiliates may not be able to detect
+such issues in a timely manner, and may not have sufficient resources to efficiently cope
+with multiple service incidents happening simultaneously or in rapid succession.
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+44
+
+II.
+
+Although the Company and its Affiliates will be taking steps against malicious
+attacks on its appliances or its infrastructure, which are critical for the
+maintenance of the Platform and its other services, there can be no assurance
+that cyber-attacks, such as distributed denials of service, will not be attempted in
+the future, and that any of such security measures will be effective. Any
+significant breach of security measures or other disruptions resulting in a
+compromise of the usability, stability and security of the Company and its
+Affiliates’ network or services, including the Platform.
+
+Risks Relating to the Participation in the Sale of Tokens
+
+a.
+
+You may not be able to recover the purchase amount paid for the Tokens.
+Except as provided under any applicable terms of sale or prescribed by applicable laws and
+regulations, the Company is not obliged to provide you with a refund of the purchase
+amount. No promises of future performance or price are or will be made in respect to the
+Tokens, including promises of inherent value or continuing payments, and there is no
+guarantee that the Tokens will hold any particular value. Therefore, the recovery of the
+purchase amount may be impossible or may be subject to applicable laws and regulations.
+
+b.
+
+You may be subject to adverse legal and/or tax implications as a result of the purchase,
+distribution and use of the Tokens.
+I.
+The legal character of cryptocurrency and cryptographic assets remain uncertain.
+There is a risk that the Tokens may be considered securities in certain
+jurisdictions, or may be considered to be securities in certain jurisdictions in the
+future. The Company and its Affiliates does not provide any warranty or
+guarantee as to how the Tokens will be classified, and each purchaser will bear
+all consequences of the Tokens being considered securities in their respective
+jurisdictions, and bear the responsibility of the legality, use and transfer of the
+Tokens in the relevant jurisdictions.
+II.
+Further, the tax treatment of the acquisition or disposal of such cryptocurrency or
+cryptographic assets might depend on whether they are classified as securities,
+assets, currency or otherwise. As the tax characterization of the Tokens remains
+indeterminate, you must seek your own tax advice in connection with the
+purchase, acquisition or disposal of the Tokens, which may result in adverse tax
+consequences or tax reporting requirements for you.
+
+c.
+
+The loss or compromise of information relating to the purchaser wallet and your
+method of accessing the Platform may affect your access to and possession of the
+Tokens.
+There is a risk that you may lose access to and possession of the Tokens permanently due
+to loss of unique personal ID created on the Platform, and other identification information,
+loss of requisite private key(s) associated with the purchaser wallet or vault storing the
+Tokens or any other kind of custodial or purchaser errors.
+
+c.
+
+Blockchains may face congestion and transactions may be delayed or lost.
+Most blockchains used for cryptocurrency transactions are prone to periodic congestion during
+which transactions can be delayed or lost. Individuals may also intentionally spam the network in an
+attempt to gain an advantage in purchasing cryptographic tokens. This may result in a situation
+where block producers may not include your purchase of the Tokens when you intend to transact,
+or your transaction may not be included at all.
+
+Privacy and data retention issues.
+As part of the Token sales, the verification processes and the subsequent operation of the Platform, the
+Company may collect personal information from you. The collection of such information is subject to
+applicable laws and regulations. All information collected will be used for purposes of the Token sales
+and operations of the Platform, thus it may be transferred to contractors, service providers and
+consultants worldwide as appointed by the Company. Apart from external compromises, the Company
+and its appointed entities may also suffer from internal security breaches whereby their employees may
+misappropriate, misplace or lose personal information of purchasers. The Company may be required to
+expend significant financial resources to alleviate problems caused by any breaches or losses, settle fines
+and resolve inquiries from regulatory or government authorities. Any information breaches or losses will
+also damage the Company’s reputations, thereby harming its long-term prospects.
+Macro Risks
+a.
+
+General global market and economic conditions may have an adverse impact on the Company
+and its Affiliates’ operations and the use of the Platform.
+I.
+The Company and its Affiliates could be affected by general global economic and market
+conditions. Challenging economic conditions worldwide have from time to time,
+contributed, and may continue to contribute, to slowdowns in the information
+technology industry at large. Weakness in the economy may have a negative effect on
+the Company and its Affiliates’ business strategies, results of operations and prospects.
+II.
+Suppliers on which the Platform relies for servers, bandwidth, location and other services
+could also be negatively impacted by economic conditions that, in turn, could have a
+negative impact on the Company and its Affiliates’ operations or expenses.
+III.
+There can be no assurance, therefore, that current economic conditions or worsening
+economic conditions or a prolonged or recurring recession will not have a significant
+adverse impact on the Company and its Affiliates’ business strategies, results of
+operations and prospects and hence the Platform, which may in turn impact the value of
+the Tokens.
+
+b.
+
+The regulatory regimes governing blockchain technologies, cryptocurrencies, Tokens, offering
+of Tokens, and the Platform remain uncertain, and any changes, regulations or policies may
+materially adversely affect the development of the Platform and the utility of the Tokens.
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+45
+
+I.
+
+II.
+
+III.
+
+IV.
+
+V.
+
+Regulation of the Tokens, the offer and sale of Tokens, cryptocurrencies,
+blockchain technologies, and cryptocurrency exchanges is currently undeveloped
+or underdeveloped and likely to rapidly evolve. Such regulation also varies
+significantly among different jurisdictions, and is hence subject to significant
+uncertainty. The various legislative and executive bodies in different jurisdictions
+may in the future adopt laws, regulations, guidance, or other actions, which may
+severely impact the development and growth of the Platform, the adoption and
+utility of the Tokens or the issue, offer, and sale of the Tokens by the Company.
+Failure by the Company and its Affiliates or users of the Platform to comply with
+any laws, rules and regulations, some of which may not exist yet or are subject to
+interpretation and may be subject to change, could result in a variety of adverse
+consequences against the Company and its Affiliates, including civil penalties and
+fines.
+Blockchain networks also face an uncertain regulatory landscape in many foreign
+jurisdictions. Various jurisdictions may, in the near future, adopt laws, regulations
+or directives that affect the Platform, and therefore, the value of the Tokens. Such
+laws, regulations or directives may directly and negatively impact the operations
+of the Company and its Affiliates. The effect of any future regulatory change is
+impossible to predict, but such change could be substantial and materially
+adverse to the development and growth of the Platform and the adoption and
+utility of the Tokens.
+To the extent that the Company and its Affiliates may be required to obtain
+licenses, permits and/or approvals (collectively, the “Regulatory Approvals”) to
+carry out its business, including that of the creation of the Tokens and the
+development and operation of the Platform, but are unable to obtain such
+Regulatory Approvals or if such Regulatory Approvals are not renewed or revoked
+for whatever reason by the relevant authorities, the business of the Company and
+its Affiliates may be adversely affected.
+There is no assurance that more stringent requirements will not be imposed upon
+the Company and its Affiliates by the relevant authorities in the future, or that the
+Company and its Affiliates will be able to adapt in a timely manner to changing
+regulatory requirements. These additional or more stringent regulations may
+restrict the Company and its Affiliates’ ability to operate its business and the
+Company and its Affiliates may face actions for non-compliance if it fails to
+comply with any of such requirements.
+Further, should the costs (financial or otherwise) of complying with such newly
+implemented regulations exceed a certain threshold, maintaining the Platform
+may no longer be commercially viable and the Company and its Affiliates may opt
+to discontinue the Platform and/or the Tokens. Further, it is difficult to predict
+how or whether governments or regulatory authorities may implement any
+changes to laws and regulations affecting distributed ledger technology and its
+applications, including the Platform and the Tokens. The Company and its
+Affiliates may also have to cease operations in a jurisdiction that makes it illegal
+to operate in such jurisdiction, or make it commercially unviable or undesirable to
+obtain the necessary Regulatory Approval(s) to operate in such jurisdiction. In
+scenarios such as the foregoing, the distributed Tokens may hold little or no
+worth or value.
+
+c.
+
+There may be risks relating to acts of God, natural disasters, wars, terrorist attacks, riots, civil
+commotions widespread communicable diseases and other events beyond the control of the
+Company and its Affiliates
+The sale of the Tokens and the performance of the Company, its Affiliates and/or the Platform’s
+activities may be interrupted, suspended or delayed due to acts of God, natural disasters, wars,
+terrorist attacks, riots, civil commotions, widespread communicable diseases and other events
+beyond the control of the Company and its Affiliates. Such events could also lead to uncertainty in
+the economic outlook of global markets and there is no assurance that such markets will not be
+affected, or that recovery from the global financial crisis would continue. In such events, the
+Company and its Affiliates’ business strategies, results of operations and outlook may be materially
+and adversely affected, and the demand for and use of the Tokens and the Platform may be
+materially affected. Further, if an outbreak of such infectious or communicable diseases occurs in
+any of the countries in which the Company, its Affiliates, and the participants of the Platform have
+operations in the future, market sentiment could be adversely affected and this may have a
+negative impact on the Platform and its community.
+
+d.
+
+Blockchain and cryptocurrencies, including the Tokens are a relatively new and dynamic
+technology. In addition to the risks highlighted herein, there are other risks associated with
+your purchase of, holding and use of the Tokens, including those that we cannot anticipate.
+Such risks may further materialize as unanticipated variations or combinations of the risks
+discussed herein
+
+1.6 No Further Information or Update
+No person has been or is authorized to give any information or representation not contained in this
+Whitepaper in connection with the Tokens, the Platform, the Company or its Affiliates and their
+respective businesses and operations, and, if given, such information or representation must not be
+relied upon as having been authorized by or on behalf of the Company or its Affiliates.
+1.7 Language
+This Whitepaper may be translated into other languages. If any disagreement should arise due to
+different language translations, the version in English will prevail.
+1.8 Advice
+No information in this Whitepaper should be considered to be business, legal, financial or tax advice
+regarding the Token, the Platform, the Company or its Affiliates. You should consult your own legal,
+financial, tax or other professional advisor(s) regarding the Token, the Company or its Affiliates and their
+respective businesses and operations. You should be aware that you may be required to bear the
+financial risk of any purchase of the Tokens for an indefinite period of time.
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+46
+
+Thank you
+
+somesing.io
+PROPRIETARY AND CONFIDENTIAL : Contents are proprietary to Emel Ventures Inc. and provided on the condition of confidentiality. Provided information may be disclosed, reproduced and used only in accordance with a written agreement with Emel Ventures Inc. No implied licenses are intended and all rights are reserved
+
+

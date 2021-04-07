@@ -1,0 +1,1390 @@
+Esports, Gaming & Video Entertainment Platform
+Verasity is a leading company uniquely rewarding gamers,
+viewers, and publishers through the Verasity Portal
+
+2
+
+CONTENTS
+SUMMARY .............................................................................................................................. 4
+INTRODUCING VERASITY ......................................................................................................... 6
+THE VRA ECONOMY FLOW ..................................................................................................... 12
+PRODUCT TOUR .................................................................................................................... 14
+CORE TEAM AND CONTRIBUTORS .......................................................................................... 21
+LEGAL APPROACH.................................................................................................................. 23
+FULL RISKS AND LEGAL DISCLOSURES ..................................................................................... 25
+
+3
+
+SUMMARY
+o
+
+Verasity is the first platform to provide user generated Esports and casual gaming jackpot
+tournaments supported by both Fiat (PayPal, Credit Cards) and Crypto, On & Off Ramp.
+
+o
+
+First Esports Tournament site where Pros play Amateurs in Tier 1 World Class Events with millions of
+Viewers
+
+o
+
+Video gaming content monetized by Verasity Ad Stack and Proof of View (PoV) in both Crypto and
+Fiat.
+
+o
+
+Enables tokenized rewards (VRA) as well as loyalty schemes within the video player via VeraWallet as well as staking for 36% per year.
+
+o
+
+Supports over 2 million video publishers with our SDK products (overlay on video players) to
+increase engagement and revenues by 35%.
+
+o
+
+Verasity revenue streams include: Game subscriptions, Jackpot revenue commissions and Video Ad
+revenues from Google & Ad Mob and the largest ad networks.
+
+o
+
+See our products at verasity.tv or read the short summary here:
+https://verasity.io/documents/Verasity_One_Pager_June2020.pdf
+
+“Verasity’s innovative Blockchain based video technology is of great interest to operators &
+publishers across regions. I believe using the cryptocurrency powered Video Player with exclusive
+OTT content, operator’s brand and reach, companies can significantly benefit by reaching their
+Global user base with a new way to engage and consume video online. Specifically in APAC, this
+new technology can change the way people distribute and consume content to create a
+transparent and seamless experience” Akash Tyagi, Head of Strategy, Dish TV
+
+4
+
+BACKGROUND
+Verasity is a leading company providing proprietary technology uniquely rewarding gamers,
+viewers, and publishers through the Verasity Portal
+In the wake of COVID-19 and the cancellation of activities such as travel, sporting events, eating out
+and almost all outdoor activities and with employees being encouraged to work from home,
+consumers are spending more time than ever at home using online services.
+The popularity of online games has boomed
+Verasity implemented Esports Fight Club and GameStore to monetize Verasity technology with ad
+revenues and expand the wider use of Verasity’s cryptocurrency, VRA. Esports Fight Club and
+GameStore have quickly taken off and we expect revenues will scale fast in this current economic
+climate. Esports Fight Club and GameStore are not dependent on Google or Facebook or any third
+party and we can, therefore, monetize gaming activities unlike mobile apps on Android or IOS which
+are not allowed to provide real-world rewards. This gives Esports Fight Club and GameStore a
+unique opportunity at a time when people are at home and trying to earn some extra income.
+In 2018 there were 380 million viewers of Esports, and this figure is growing to 557 million viewers
+by 2021. The Global games market generated over $120B in 2019 much of it driven by
+complimentary gaming experience by spending real money within games in exchange for items.
+Verasity takes this to the next level by providing rewards for watching, subscribing & winning with
+VRA.
+Our First Tournament was CS:GO with the best Pros in the world including NBK, Xccurate and Nifty.
+Our Second Tournament, the PUBG Mobile Ultimate Warrior Showdown, supported by OKEx and
+Tencent, included a thousand teams with thousands of players broadcast by Athena Gaming to
+millions of viewers.
+
+5
+
+INTRODUCING VERASITY
+There are many existing challenges within gaming, Esports and the online video space today.
+Verasity’s team of media, gaming and blockchain experts has released a suite of tokenized solutions
+that offer gamers, game developers, viewers, and advertisers a way to enhance their experience by
+rewarding gamers, viewers, and creators for their engagement.
+Through Verasity, gamers and game developers have access to private and public tournaments in
+Esports and casual gaming, including CS:GO, PUBG, League of Legends, Valorant and many others,
+where Verasity tokens are used to create tournaments and jackpots in live Esports events.
+The Verasity ecosystem allows gamers to earn tokens for playing games and watching ads. Our
+unique in-player wallet and proprietary ad-stack means advertisers can provide attention-based
+rewards to engaged users programmatically.
+Verasity is an attention-based platform for gaming, video, and entertainment rewards; committed
+to creating and promoting a new economy where transactions are powered by Verasity for the
+benefit of gamers, viewers, advertisers, and brands.
+
+VERASITY HAS COMPLETED ALL THE MAJOR PARTS OF ITS ROADMAP
+Verasity’s platform and infrastructure is fully functional and operating and already live.
+“Verasity is an online video platform utilizing Akamai’s CDN networks as well as key technologies of
+Akamai (as well as Verasity’s own proprietary technology). As an Akamai network partner, the
+solution… has scaled to over 8PB per month.” Joshua Frost Niven, Akamai
+Verasity.tv is the destination portal for Verasity that provides quick and easy access to all our
+products in one place:
+•
+
+Esports Fight Club
+
+•
+
+GameStore
+
+•
+
+Watch&Earn
+
+•
+
+Our Apps
+
+•
+
+o
+
+VeraWallet
+
+o
+
+Triviata
+
+o
+
+VRASplash
+
+B2B Tools for publishers
+
+Esports Fight Club
+Verasity has built a fully functional Tournament site. We have launched Tournaments on CS:GO and
+PUBG and are launching LOL, Valorant and others.
+Players can invite others to play in private or public tournaments for VRA funded jackpots. Our First
+Tournament was CS:GO with the best Pros in the world including NBK, Xccurate and Nifty. Our
+6
+
+Second Tournament, the PUBG Mobile Ultimate Warrior Showdown, supported by OKEx and
+Tencent, included a thousand teams with thousands of players broadcast by Athena Gaming to
+millions of viewers.
+
+Our dedicated site Esportsfightclub.com includes:
+•
+
+Complete Active Tournament details
+
+•
+
+The ability for users to create their own Tournaments with prize distribution and rules
+
+•
+
+Tournament types including High Score, Elimination and Double Elimination
+
+•
+
+Ability to join any public Tournament and participate from VeraWallet with PayPal or Credit
+Cards
+
+•
+
+User generated My Tournament page with history and active Tournaments
+
+•
+
+Dedicated user profile with transaction history, My Tournaments, APIs
+
+•
+
+Ladder brackets, Player avatars, Whitelisting creator accounts and more.
+
+7
+
+This allows players to:
+•
+
+Create public or private tournaments with VRA Prize Pools
+
+•
+
+Join tournaments and pay entry fees in VRA via your VeraWallet
+
+•
+
+Track progress on the leader board and view current prize pool value
+
+•
+
+Collect tournament prizes directly into your VeraWallet
+
+•
+
+Connect third party major tournaments to our platform via simple API
+
+•
+
+Utilize credit card payments for VRA entry fees via your VeraWallet
+
+8
+
+GameStore
+GameStore is Verasity’s incentive-based gaming platform. Launched at the end of March 2020, the
+first phase has hundreds of cool, casual games which can be played as a single player, a PVP game or
+private tournaments can be created to challenge friends worldwide.
+Users are required to buy credits with VRA via Pay to Play or subscribe for unlimited plays with one
+of the membership packages. All GameStore Credits are purchased with VRA using Verasity’s
+VeraWallet.
+Verasity organise and run frequent public Tournaments for players to earn and win VRA rewards.
+
+Watch&Earn
+Watch&Earn products are live and publishers already utilizing our tech can be found at:
+https://verawallet.tv/earn-vra (scroll down to click on each publisher and get rewarded in VRA by
+clicking on the green trophy on the upper right hand corner of the video player). By clicking on the
+green trophy, the user is directed to the in-built Verawallet which serves as the gateway to Verasity
+tech.
+The Verasity technology is now integrated into the following video players on publishers’ sites:
+YouTube, Twitch, Vimeo, JWPlayer, Brightcove, Kaltura, VideoJS, Flowplayer, and Ooyala which
+represents over 95% of all the video players utilized online (outside of China). This rewarded
+module, integrated as an SDK into all major online video platforms provides rewards for actions
+without changing the publishers’ workflow or the viewer’s habits or preferences as well as an inbuilt wallet.
+As a result of these integrations, our unique player technology is already available to be integrated
+on more than 2.0 million video publishers with their own sites with 550 million users and more than
+110 billion monthly views. This means that Verasity can now provide this service to these 2.0 million
+publishers and we are adding video publishers every month utilizing Verasity technology.
+
+9
+
+“Video is a powerful tool to educate, engage and entertain. Verasity’s video player solution offers
+the perfect vehicle for viewers, publishers and content creators to benefit from the utility of
+blockchain technology. I’m glad that Binance and Verasity are leading the charge globally.”
+Changpeng Zhao (CZ), CEO & Founder of Binance
+
+Our Apps
+•
+
+VeraWallet
+
+https://verawallet.tv/ is Verasity’s official online wallet and entry point to the Verasity network and
+enables viewers to safely store, earn, stake for a 36.5% annual return, and transact with VRA.
+Within the VeraWallet users have a direct fiat to crypto gateway and can buy VRA immediately via
+debit and credit cards.
+Wallet holders have access to their main account, escrow account and staking account via the
+secure desktop site. VeraWallet allows users to stake their Verasity tokens within our Staking
+Rewards Scheme. The current program offers daily rewards of 0.1% of your staked amount, or
+36.5% per annum https://verawallet.tv/stake-vra.
+The VeraWallet is also accessible from within any compatible video player that has integrated
+Verasity rewards SDK.
+•
+
+Triviata
+
+Triviata is the first mobile app in which in-game rewards can be redeemed for crypto (VRA or BTC).
+Triviata is already available on iOs and Android. It is also the first mobile game rewarding crypto
+accepted by the latest ad networks; with over 16 ad partners integrated into the proprietary
+Verasity ad tech waterfall.
+•
+
+VRASplash
+
+VRASplash app for Android allows users to receive crypto news and ads on their phone lock screen
+AND whilst staying up to date with the latest news from the crypto world users can earn in-app
+rewards which can be redeemed for Verasity tokens.
+All in-app rewards earned by users, for providing their attention, can be redeemed through the
+VeraWallet for Verasity tokens.
+
+B2B Tools for Publishers
+•
+
+Online Video Player
+
+Verasity has a completely built-out and functioning online video platform for
+broadcasters/publishers that require the entire OVP platform and rewarded module as well as an ad
+stack for both desktop and mobile (the OVP live can be seen: https://technews.guru/).
+The Verasity OVP has several innovations including:
+1.
+Running on the UDP transport protocol for all Chromium users when on Akamai CDN
+(default to TCP when on other non-Chrome browsers)
+2.
+
+Broadcast to the cloud directly from a laptop rather than via a server farm.
+10
+
+3.
+
+Tested to over 8 PB of data per month (confirmed by Akamai)
+
+No other platform currently has the advantage of an integrated SDK and OVP components and
+infrastructure that suits both content creators and large video publishers without any change to
+their workflows. Verasity views this as a sustainable competitive advantage as we also have first
+mover advantage without any direct competitors and can scale quickly from here with current
+completed products and little further development.
+Verasity developed a solution that both publishers and viewers seamlessly adopt without any
+changes in workflow, habits or preferences. So Verasity will scale without any of the challenges that
+are plaguing other video sharing platforms.
+•
+
+Ad Stack and Waterfall
+
+The Verasity ad stack is unique in that it has solved timeouts for publishers that require a large
+number of SSPs and ad networks on one stack - as many as 200 ad networks on one stack - (example
+of a video publisher on our ad stack: https://thegas.net/ with brands like Jaguar advertising and the
+mobile gaming app Triviata). Other ad stacks cannot handle more than a few ad networks at a time.
+•
+
+Proof of View (PoV)
+
+Patent pending blockchain technology that produces accurate, secure and auditable audience
+verification metrics (in development).
+
+PRODUCT DEVELOPMENT APPROACH
+The Verasity platform has been in development since 2017 by a dedicated team of over 25 people.
+The product roadmap is managed by the product management team that includes stakeholders
+from Verasity as well as clients.
+To see the updated roadmap go to verasity.io
+
+VERASITY’S VIRTUOUS CYCLE
+Gamers and Esports enthusiasts require VRA to access all the functionality of the GameStore. VRA is
+purchased through exchanges or via our VeraWallet.
+In addition, advertisers fund their VRA campaigns by buying VRA in exchanges and as they increase
+their viewer engagement and scale, they purchase even more VRA to increase the size of their
+campaigns.
+Revenue generated from the GameStore and ads is used to buy back VRA, which means the more
+players and viewers on the network, the more VRA is rewarded, the more revenue is used to buy
+VRA from the market.
+OUR VISION
+Our vision is for Verasity’s platform to be adopted by gamers, Esports enthusiasts and advertisers
+across billions of devices. Its underlying ecosystem, simple fiat on/off ramp and user experience has
+all been designed to make access to Esports and casual games easy and enjoyable for both crypto
+and non-crypto users.
+
+11
+
+THE VRA ECONOMY FLOW
+VRA is a token used as a medium of exchange exclusively for the online gaming and video economy.
+Transactions of VRA happen over the blockchain from within the VeraWallet. The wallet and token
+are designed with the user convenience in mind, making it easy to use for the mass markets.
+Demand for VRA
+To access casual games and Esports, users are required to buy credits with VRA via Pay to Play or
+subscription membership packages. All GameStore Credits are purchased with VRA using Verasity’s
+VeraWallet which creates a demand for VRA.
+The VRA token is also bought by advertisers to engage viewers and reward them for their attention.
+Each time there is a call from Verasity’s network to display a video ad, one of Verasity’s
+programmatic ad partners fetches an advert. When the ad is successfully viewed, Verasity is paid. As
+the viewability and engagement are higher from Verasity’s rewarded ad formats, the advertiser is
+happy and sees a higher performance from the advertising. The more viewers who join the Verasity
+network, the more the revenue. The Verasity foundation uses a random amount of the advertising
+revenue to buy back VRA from the market.
+Viewers also may wish to buy VRA from the several exchanges to send to the staking wallet and are
+rewarded interest in VRA.
+Staking VRA
+The Verasity economy adds additional incentives to hold VRA through the VRA Staking program
+while also increasing the demand for the utility of VRA across a large network of video publishers
+and their own communities, using the platform to reward VRA and spread awareness and take
+advantage of the network effect.
+Earning VRA
+When viewers watch videos on a publisher’s domain, they can be rewarded with VRA tokens. This is
+to incentivize viewers to watch videos on the publisher’s domain, generate new traffic, and keep
+viewers engaged on the publisher’s platform. Viewers may also earn additional tokens by referring
+additional viewers to the content. Viewers can earn VRA from, sign ups, sharing videos, referrals,
+watching ads, playing games.
+Spending VRA
+Viewers can convert VRA for other cryptocurrencies like Bitcoin across numerous exchanges. The fiat
+gateway within VeraWallet enables viewers to buy and sell VRA directly for fiat currency. Verasity is
+also introducing partnership programs to allow VRA to be spent on goods and services directly.
+Revenue Streams
+The Esports Fight Club and GameStore generates revenue for Verasity through its pay to play and
+subscription membership packages. In addition, Verasity takes a rake on the total jackpots’ values
+rewarded in Tournaments.
+Verasity earns revenues from ads published. Its unique ad stack waterfall means it can take
+advantage of multiple ad networks to optimise its CPMs and fill rates.
+Verasity also earns fees generated by transactional charges collected for the use of its network
+12
+
+through withdrawal fees.
+VRA BUYBACK AND BURN POLICY
+A random amount of net revenues and fees earned by Verasity in fiat are used to buy back VRA from
+exchanges and burn VRA to reduce circulating supply. Verasity burned 2,135,033,305 VRA since its
+launch. Verasity will inform the community from time to time after buy back and burn events.
+
+13
+
+PRODUCT TOUR
+ESPORTS
+In a huge move into gaming, Verasity expanded its GameStore tournament model to major Esports
+games through its site Esportsfightclub.com, Verasity added the functionality of private, public and
+third-party tournaments for major Esports games. World class tournaments can now be launched
+from Verasity's Esports Fight Club. Players invite others to play in private or public tournaments for
+entry fee funded Jackpots. Sponsors launch tournaments with or without pro players.
+Pro Players Launch the Platform
+With permission from Steam (Valve), Esports Fight Club provides CS:GO worldwide Tournaments
+with Jackpots funded by entry fees or sponsors. Our first round of tournaments began on June 29th
+with tournaments in Asia, Europe, and Northern America. We had global stars: xccurate, the
+number one player in Asia; the mighty NBK, considered by many as the greatest player of CS:GO
+and the Kingmaker of the French team; and Nifty for North America. These pro players tweeted
+and streamed many times to their 2M fans about the Verasity launch creating brand awareness.
+The PUBG Mobile Ultimate Warrior Showdown Tournament was launched with both OKEx and
+Tencent as sponsors and Athena Broadcasting as broadcaster in China and worldwide to millions of
+viewers. Tournaments will be launched monthly on the platform.
+Exchange Sponsorship
+Bitmart Exchange sponsored the first CS:GO event together with Verasity which brought
+substantial awareness to Bitmart & Verasity. Instead of a simple airdrop, Bitmart got the benefit of
+millions of Esports fans that are also Crypto fans. OKEX sponsored the PUBG Mobile Ultimate
+Warrior Showdown Tournament Verasity. Verasity will be rolling this out with other Tier 1
+Exchanges interested in expanding their brand awareness to the over 550 million Esports fans that
+also have an interest in Crypto. Exchanges will be able to sponsor huge Esports events with Pros
+and amateurs on the Esports Fight Club Tournament platform to get their message across to a
+much larger audience then the current crypto audience but with an audience that is susceptible or
+already in the crypto space. Consistent Exchange sponsorships over time will educate non crypto
+Esport fans into crypto enthusiasts, thereby expanding their Exchange user base significantly as
+well as that of Verasity's. Verasity is now in discussions with Exchanges eager to exploit this
+strategy.
+Esports legends
+Esports Fight Club is in discussions with large agencies that represent the best Esports Pros and
+teams in all the major games. Partnerships will be announced in due course.
+Compatibility with Tencent, Riot, Blizzard, Steam
+Esports Fight Club has licenses that allow it to promote large Esports events from the major gaming
+publishers.
+Esports Fight Club site features:
+•
+•
+
+Fiat subscription and entry fees as well as crypto via VeraWallet
+Bonus and Loyalty points
+14
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Double Elimination with Loser Bracket
+Round Robin Tournaments for any game
+Automation of game server usage
+Custom headers, game logos
+Tournament Sponsors
+VOD recordings
+SMS notifications
+Ability for single players to find same level matches/tournaments
+Marketplace for gamers on the platform
+Referrals and affiliates
+Streaming features with the Verasity adstack
+Proof of View support for the Verasity adstack
+
+What makes us different?
+Non-crypto users can seamlessly participate in USD valued Verasity tokens (VRA) without the need
+to understand crypto. We are opening this up to the whole world. This will hugely contribute to the
+organic demand from Verasity tokens worldwide. Although the underlying currency is VRA, users
+can use Credit Cards and PayPal to On & OFF ramp in 130 countries of the world.
+The Esports Fight Club tournament site offers dynamic functionalities that common Esports
+tournament sites lack. Our users already benefit from the unique jackpot feature and can create
+their own tournaments with cut-cloth rules:
+o
+
+Esports Fight Club will have its own team’s tournament map veto functionality displayed on
+the user’s match information (very useful for FPS genre Esports titles such as CSGO or
+Valorant). This feature will reduce the tournament creators’ workload and guarantees a
+smoother experience for participants, partners and tournament owners.
+
+o
+
+From an organiser’s perspective, getting the correct information about tournament
+attendees can be quite challenging. Not for Esports Fight Club organisers! Users’ actions
+are rewarded by a website token system that will give players an incentive to help both the
+tournament admin side and the platform. For example: uploading the screen of a certain
+match result after a dispute or adding more contact details to their profile will give them
+access to more tournaments, more content, and prizes.
+
+o
+
+Finally, a major feature currently lacking from most tournament websites is the ability for
+users and teams to “Check-in” and show that they are “ready” on D-day, before entering
+the server and playing. This feature will prevent a lot of no-shows, extra waiting time and
+tournament organisers’ support issues.
+
+While a few tournament creation websites offer mostly user-based experiences (Battlefy, ESLplay
+or Mogul), Esports Fight Club is the first platform to fully focus on both the organiser’s and player’s
+ecosystem for a shared and competitive journey.
+Based on the findings from our tournaments and input from our Esports team, Verasity has
+evaluated the best features available on current tournament sites worldwide and are building to
+become the best in its class.
+
+15
+
+GAMESTORE
+With the Verasity GameStore, you can play hundreds of cool, casual games at games.verasity.tv.
+Play as a single player, try a PVP game or even create your own tournaments and challenge your
+friends worldwide but from the comfort of your own home.
+Users pay subscription fees or can pay as they go to access the gaming services and Verasity takes a
+commission of the jackpot tournaments arranged.
+VERAWALLET
+The VeraWallet is the viewers’ entry point to the Verasity network and enables viewers to safely
+store, earn and transact with VRA. Within the wallet, viewers have access to their main account,
+escrow account and staking account.
+Fund Campaigns
+Video publishers and advertisers’ escrow VRA tokens to fund their campaigns and reward viewers
+which build their audience, views, and revenues. The escrow guarantees that viewers are rewarded.
+Learn more
+Earn VRA
+Select from participating VRA publishers, visit their site, watch great content, and earn VRA. Also,
+discover sites where you can be rewarded for watching ads. In Verasity’s mobile apps, participate in
+quizzes and games to earn VRA. Learn more
+Stake VRA
+Investors can choose to stake their VRA and transfer from their main wallet to the staking wallet.
+VRA is rewarded daily back to their staking wallet. Learn more
+Send / Receive / Donate VRA
+VRA holders use VeraWallet to send their VRA tokens to any compatible wallet or to an exchange
+that lists VRA. Learn more
+
+16
+
+VERASITY’S ONLINE VIDEO PLATFORM - UNIQUE ARCHITECTURE
+The video player infrastructure is optimized for providing best in class quality video experiences, at
+scale. Verasity’s video infrastructure utilizes several novel technologies for enabling quality streams
+even at the edge, combined with the latest Internet protocol performance standards like QUIC
+(Quick UDP Internet Connections). This is an innovative use of the secure Transport Layer Security
+(TLS) and User Datagram Protocol (UDP) reducing buffering and network latency for viewers.
+Viewers can access content from any browser without having to install any additional plug-ins or
+player software. The video player technology has already been proven to work at scale, powering
+over 8 Petabytes of video traffic per month.
+“Verasity is a white label version of an online video platform utilizing Akamai’s CDN network
+as well as key technologies of Akamai. An Akamai network partner, the white label solution
+utilizes Akamai’s “media acceleration efficiency” solution which has scaled on this white label
+online video platform to over 8PB data per month.”
+Joshua Frost Niven, Akamai
+The technology features developed today include:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+HTML5 Video Player Can run with or without Google IMA SDK
+JS API interacting with our player embedded into any website
+Built-in player wallet (Verawallet)
+1080p / 60 frames per second full HD ready
+Embedded technology making it available across any website
+Lightweight and adaptive for mobile screens
+Hight load clustered database with sophisticated bit data storage for advanced statistics
+Back end database structure
+Built-in notifications system
+Third Party Publisher widgets
+Referral system and social sharing features
+
+CONTENT MANAGEMENT SYSTEM (CMS)
+The Verasity CMS is easy to use for publishers to manage their campaigns and video libraries. This
+includes both an online and desktop-based upload and management suite that enables creators of
+all sizes to effectively run their content libraries. The CMS has the look and feel of current CMSs
+publishers utilize for their own ad campaigns in programmatic advertising which makes it extremely
+easy to navigate for publishers.
+With multiple monetization options, the protocol enables multiple types of content to thrive, from
+niche technical videos through to feature films. The Verasity CMS was designed to cater to the
+individual. We recognize that every viewer, content creator, and audience is different and therefore
+bring together multiple monetization methods which allows creators to monetize their content in a
+way that makes sense to their audience.
+
+17
+
+CDN AND SERVER INFRASTRUCTURE
+Verasity utilizes a custom-built online video platform which partners with Amazon and Akamai,
+leading global CDN networks.
+Verasity is a white label version of an online video platform utilizing Akamai's CDN network as well
+as key technologies of Akamai. As an Akamai network partner, the white label solution utilizes
+Akamai's “media acceleration efficiency (MAE)” solution which has scaled on this white label online
+video platform to over 8PB data per month.
+Using a CDN guarantees high playback quality, with low buffering, on a global scale also enables all
+content to be securely hosted, stored, and managed on Verasity servers. Reliable video delivery
+using a scaled and trusted network such as Akamai guarantees superior user playback experience
+which is critical for mass adoption. If viewers experience delayed video starts, low quality streams
+and long buffering times, they will not adopt a new platform, nor will they happily pay for content,
+meaning that platform could never scale.
+As stated earlier, although Verasity partners with Akamai, Verasity does not rely on Akamai
+technology and is also compatible with Amazon (AWS) and Microsoft’s Azure.
+
+BLOCKCHAIN TECHNOLOGY
+Verasity built its platform and VRA token contract on Ethereum, with the smart contract address:
+https://etherscan.io/token/0xdf1d6405df92d981a2fb3ce68f6a03bac6c0e41f
+
+PROOF OF VIEW™ AND ON-CHAIN ANALYTICS & VERIFICATION
+Verasity has a patent-pending system to securely verify audience metrics (views) in a way that is
+publicly transparent and tamper proof. This system ensures the integrity of all elements of the
+Verasity economy which relies upon audience metrics.
+Video ecosystems of today are plagued by suspect and often fake view statistics. These statistics are
+used to value the content or advertising, thus are being manipulated to generate fraudulent
+revenue.
+PoV™ is a system designed to securely verify content consumption on the ecosystem, in a way that is
+publicly transparent and tamper proof. It is utilized within the Verasity economy to ensure the
+integrity of audience metrics and therefore the integrity of the ecosystem.
+To ensure an accurate and transparent PoV™, Verasity will implement publicly auditable logs. These
+logs will contain all views and content recommendations along with anonymized viewer information.
+The information will all be General Data Protection Regulation (GDPR), Payment Card Industry (PCI
+DSS), and ePrivacy compliant.
+
+18
+
+A Merkle Hash Tree guarantees that the database has never been altered. In the hash tree, each
+view’s event data is hashed before being combined with other hashes until a final top hash is
+reached. Each top hash represents all the data stored in the specific chunk of the database.
+The database itself is split into chunks. A new chunk is created each time a new block is creat ed in
+the Blockchain. The top hash of the current chunk is added to each new block in the Blockchain. (See
+the diagram below)
+As this data is stored in a decentralized manner, third parties can prove that each top hash added to
+the Blockchain is accurate and unchanged. This allows any third party to verify that the logs added
+within each new block on the Blockchain have not been tampered with, changed, branched or
+forked.
+On 7 February 2018, a United States provisional patent application was filed for a system and
+method for Proof of View via Blockchain (Application Number 62627285).
+Verasity technology will be offered under the Creative Commons Attribution-Noncommercial- Share
+Alike International Public License as the license stands as of February 16, 2018, see details below.
+
+HOW POV™ PREVENTS FAKE VIEWS
+The PoV™ system prevents multiple methods viewers may try to manipulate view counts and
+audience metrics such as:
+•
+•
+•
+•
+•
+
+Automated repeated viewing of videos (looping views)
+Attempting to load multiple videos in parallel
+Loading videos in hidden windows / tabs
+Attempting to manipulate analytics without watching content
+Verasity or other party altering the views database
+
+Only views from signed in viewers are counted
+•
+
+•
+•
+•
+•
+
+Within a video platform, views are a type of transaction. To provide accountability and
+therefore transparency for transactions, a unique identifier needs to be allocated to all
+parties involved. When viewers create an account, they are assigned an anonymous ID that
+then marks the video views generated by that user.
+Viewers who are not signed in can still view free videos, but these views are not confirmed
+through PoV™.
+A single user cannot make multiple views at the same time.
+The majority of viewers are only able to truly watch one video at a time whereas some bad
+actors may try to use multiple browsers, watching in parallel, to inflate view counts.
+PoV will not count views when more than one video is running in parallel from a single user.
+
+Confirmed streaming
+•
+
+•
+
+For content to be viewed, the content file needs to be streamed to the browser. Through
+Verasity’s PoV™ technology, while a video is being viewed the player will randomly be
+required to provide information about the current frame of the video being viewed.
+This ensures the content has been streamed and avoid bots that try to watch without
+actually streaming content.
+
+19
+
+Player must be viewable
+•
+
+•
+•
+•
+
+•
+
+•
+
+Through technology built into VeraPlayer, checks are made during a video view to ensure
+the player is visible within the browser window and not scrolled out of view, hidden, shown
+in background tab etc.
+If a view is generated when the VeraPlayer is not viewable, the view will not be verified.
+The suspicious activity requires a manual check.
+While the above points outline some of the ways PoV™ technology will verify and guarantee
+authentic views, the system will continually monitor for suspicious or unusual viewer
+behaviour even if all the above checks are passed.
+An example of suspicious behaviour would be a video being viewed by one user repeatedly
+in a set period. While this is not necessarily a fake/invalid view, before additional views were
+recorded as verified, a manual input would be required by the viewer to ensure they were
+still watching. This manual input would be designed to avoid automatic/programmed
+responses from being able to pass the check (e.g. reCAPTCHA).
+As our PoV™ technology gains additional data through use, any common or high frequency
+suspicious activities will be used to create additional, automated features in PoV™ to verify.
+
+PoV™ data is publicly auditable and transparent
+•
+
+•
+
+•
+
+Verasity’s technology will use advanced methods to ensure only views verified by PoV™ are
+counted. Views which are verified will be added to a publicly accessible database containing
+anonymized data regarding the views.
+Verasity will provide free, open-source tools to provide transparency and accountability of
+the system. With these tools, viewers and third parties can review the data to ensure its
+accuracy and credibility. Although view data is anonymous, individual viewers can generate
+their own unique ID to verify views recorded for their ID are accurate and not manipulated.
+To ensure that the data stored within the publicly accessible PoV™ database is bona fide
+untampered data, all view data is sent to the Blockchain as well as to the Verasity servers.
+
+20
+
+CORE TEAM AND CONTRIBUTORS
+The team are seasoned professionals with proven track records with high performing businesses in
+the media, video and technology sectors. The core team have been involved in the project together
+since 2017. The development team and management are full time and have been collaborating for
+four years.
+
+21
+
+Verasity has engaged a number of experts in blockchain, online video players, advertising, marketing
+and security to advise the project.
+
+22
+
+LEGAL APPROACH
+Due to concerns around unpredictability and regulation (or lack of in many markets) the team have
+treated the legal and administrative elements to setting up the project and raising funds very
+seriously. Verasity appointed a legal officer to sit on the advisory team and work closely with the rest
+of the Verasity Foundation advising best practices. Verasity appointed Ogier, a well-known and
+highly reputable legal firm that has a dedicated Digital, Blockchain and Fintech team to advise
+Verasity on the structure of Verasity Foundation and certain regulatory and other matters pertaining
+to Cayman Islands laws. Verasity has also appointed BDBPitmans, a well-known and highly reputable
+legal firm in the United Kingdom with respect to certain regulatory and other matters. To comply
+with present and/or future regulation, Verasity Foundation is opting to apply the necessary
+KYC/AML and accredited investor procedures during the token sale and to comply with all applicable
+regulations including necessary sanctions and PEP checks.
+
+GOVERNANCE AND ROLE OF THE FOUNDATION
+Verasity Foundation will be responsible for ensuring the vision of the White Paper is adhered to,
+funding the development of the platform and funding the support growth within the community.
+Verasity Foundation will be conducting the initial sale of VRA and will thereafter be monitoring
+Verasity to ensure the Verasity Platform is developed in accordance with the principles set out in this
+White Paper. Proceeds raised from the sale of VRA will remain in the Foundation and be unlocked
+based on predefined milestones agreed upon and validated by the Foundation. Verasity’s General
+Counsel is a Supervisor of the Foundation and will validate milestones as well as the use of funds
+from the ICO.
+Verasity Foundation will provide updates to the contributors to the project regarding the roadmap
+updates. This will include current developments, forecast vs. current and latest updates (updates to
+the Whitepaper).
+Verasity management will not be able to buy or sell VRA during the 20 days prior to the
+announcement of the quarterly management reports to avoid insider trading. Verasity management
+lock up period is over a 4-year period. Private investor lock-up periods are 9 months.
+Verasity Foundation has made public its GitHub (https://github.com/verasitytech/docs).
+
+VERASITY FOUNDATION, TOKEN HOLDERS AND VERASITY
+Verasity Foundation is a foundation company incorporated in the Cayman Islands under the
+Companies Law (Revised) and registered as a foundation company pursuant to the Foundation
+Companies Law, 2017. Verasity Foundation's management will be carried out by its directors.
+Holders of tokens are not entitled to appoint or remove the board of directors of the Verasity
+Foundation. The Foundation does not pay dividends and is wholly set up to exploit the value of
+Verasity technology to benefit its token holders and no other asset class. The Foundation acts as the
+token generator.
+
+23
+
+Some Verasity products, improvements, platform technology and development are contracted to
+and provided by third party companies. Patents, intellectual property and code are owned by
+Verasity Foundation. Physically, the team is in the United Kingdom, France and Poland.
+90% of the Verasity roadmap has been completed and the rollout of its products to publishers has
+commenced, mitigating the risk of further development costs. Revenues are now being generated
+and are expected to scale.
+Verasity Foundation has endeavoured to conserve the value of the Token Sale proceeds and
+attempted to limit risks associated with unstable cryptocurrency market prices. Verasity Foundation
+achieved this objective by exchanging the proceeds of the Token Sale into either fiat currencies or
+other assets with a history of price stability.
+The Cayman Islands is well-known and an established jurisdiction in the international financial
+marketplace due to its stable and predictable political and legal framework, as well as its tax neutral
+status for international transactions. Verasity believes a Cayman domicile for the Verasity
+Foundation will provide for a long-term period of stability. The Verasity Foundation will pay zero
+taxes on the transactions of the Verasity Economy. The competent court for litigation will be the
+courts of The Cayman Islands.
+PRELIMINARY DISCLOSURES
+The digital tokens described in this White Paper may only be used for enabling transactions
+associated with viewing digital content through the Verasity Platform, and such tokens have no
+intrinsic value and may not be redeemed except by a Content Creator in payment for viewership of
+his or her work product through the Verasity Platform.
+The acquisition of VRA involves a high degree of risk. Before acquiring VRA, it is recommended that
+each purchaser conduct their own careful examination of all relevant information and risks
+(including as set forth below and in additional documentation associated with the sale of VRA). If
+any of the following risks occurs, the Verasity Platform and VRA may be materially and adversely
+affected, including all VRA being rendered worthless or unusable.
+While tokens may be traded through one or more cryptocurrency exchanges, there is no guarantee
+of value, and the token may be delisted at any time that it does not meet the listing requirements of
+the exchange. The cryptocurrency token market is immature, and there are numerous risks that
+threaten the entire category, including but not limited to regulatory risk, the potential collapse of
+Ethereum as a cryptocurrency, loss of the password key that enables access to a digital wallet, and
+the potential for bad actors to attack and steal either the content on Verasity or the contents of the
+digital wallets that belong to the members of the Verasity community, owners and its viewers.
+
+24
+
+FULL RISKS AND LEGAL DISCLOSURES
+IMPORTANT NOTICE
+PLEASE READ THIS SECTION CAREFULLY. YOU SHOULD CONSULT YOUR LEGAL, FINANCIAL, TAX,
+AND OTHER PROFESSIONAL ADVISOR(S) BEFORE TAKING ANY ACTION IN CONNECTION WITH THIS
+WHITE PAPER.
+This document (the White Paper) is intended to present general information regarding the planned
+Verasity System. In connection with the development of the System, sales of blockchain tokens may
+take place in one or more proposed generation and sale events of VRA OR VRAB (Tokens)
+undertaken by the Verasity Foundation Company Limited (the Token Generator) (collectively, the
+Token Generation). Certain terms of this document pertain to potential purchasers (each a
+Purchaser) in any such sale(s).
+1.
+
+RELIANCE
+
+Any Tokens are offered solely on the basis of the information contained in the terms and conditions
+of purchase and sale (Terms and Conditions). Potential Purchasers should disregard, and not rely
+upon, any other information or representations given or made by any dealer, broker or other
+person. No person is authorized to give any information or to make any representations in
+connection with any offering of VRA or VRAB Tokens apart from those contained in the Terms and
+Conditions. A potential Purchaser to whom such information or representations are given or made
+must not rely on them as having been authorized by the Token Generator or any of its affiliates or
+subsidiaries.
+Statements in the White Paper are generally based on the law and practice in the Cayman Islands,
+with certain specific statements based on the law and practice of the jurisdictions explicitlymentioned, in each case current at the date the White Paper was issued. Those statements are
+therefore subject to change should the corresponding law or practice change. Under no
+circumstance does the delivery of the White Paper or the sale of Tokens imply or represent that the
+affairs of the Token Generator have not changed since the date of the White Paper.
+1.1.
+
+Purchaser responsibility
+
+Nothing contained in the White Paper is or may be relied upon as a promise, representation or
+undertaking as to the future performance or policies of the Token Generator. The Token Generator
+does not make representations or warranties of any kind with respect to the economic return from,
+or the tax consequences of a purchase of Tokens. Prospective Purchasers should carefully review the
+whole of the token sale Terms and Conditions provided along with any token sale offer. They should
+also consult with their legal, tax and financial advisors in relation to the following: (i) the legal and
+regulatory requirements within their own countries for purchasing, holding and disposing of Tokens;
+(ii) any foreign exchange restrictions to which they may be subject in their own countries in relation
+to purchasing, holding or disposing of Tokens; and (iii) the legal, tax, financial and other
+consequences of subscribing for, purchasing, holding or disposing of Tokens.
+
+This White Paper is not composed in accordance with, and is not subject to, laws or regulations of
+any jurisdiction which are designed to protect investors. To the maximum extent permitted by
+
+25
+
+applicable law, Token Generator expressly disclaims and shall not be liable for any and all
+responsibility for any direct or any indirect, special, incidental, consequential or other losses of any
+
+kind, in tort, contract or otherwise (including but not limited to loss of revenue, income or profits,
+and loss of use or data), arising out of or in connection with (i) Purchaser's acceptance of or reliance
+on any information contained in the White Paper, (ii) any error, omission or inaccuracy in any such
+information or (iii) any action resulting therefrom.
+1.2.
+
+Distribution and selling restrictions
+
+The distribution of the White Paper and the offering or purchase of Tokens may be restricted in
+certain jurisdictions. The White Paper is not intended as part of any offer, sale or distribution under
+the laws of any jurisdiction governing the offer or sale of securities.
+The receipt of the White Paper or the accompanying Terms and Conditions does not constitute an
+invitation to a recipient to subscribe for Tokens in a jurisdiction where it is necessary to comply with
+registration or any other legal requirement to make that invitation, or the use of the Terms and
+Conditions, lawful. No such recipient may treat the White Paper or the accompanying Terms and
+Conditions as an invitation to subscribe for Tokens, nor may such recipient use the Terms and
+Conditions. More particularly, the White Paper does not constitute an offer or solicitation:
+by anyone in a jurisdiction in which such offer or solicitation is not lawful or in which the
+o
+person making such offer or solicitation is not qualified to do so; or
+o
+
+to anyone to whom it is unlawful to make such offer or solicitation.
+
+It is the responsibility of every person in possession of the White Paper and every person wishing to
+apply to purchase Tokens to inform himself, herself or itself of, and to observe all applicable laws
+and regulations of, any relevant jurisdiction.
+1.3.
+
+Forward looking information
+
+All statements, estimates and financial information contained in the White Paper, made in any press
+releases or in any place accessible by the public and oral statements that may be made by Token
+Generator that are not statements of historical fact, constitute “forward-looking statements”. Some
+of these statements can be identified by forward-looking terms such as “aim”, “target”, “anticipate”,
+“believe”, “could”, “estimate”, “expect”, “if”, “intend”, “may”, “plan”, “possible”, “probable”,
+“project”, “should”, “would”, “will” or other similar terms. Such forward-looking statements involve
+known and unknown risks, uncertainties and other factors which may cause actual events or results,
+performance or achievements to differ materially from the estimates or the results implied or
+expressed in such forward-looking statements.
+Further, the Token Generator disclaims any responsibility to update any of those forward-looking
+statements or publicly announce any revisions to those forward-looking statements to reflect future
+developments, events or circumstances, even if new information becomes available or other events
+occur in the future.
+2.
+
+DISCLOSURE SCHEDULE
+
+The acquisition of Tokens involves a high degree of risk. Before acquiring Tokens, it is recommended
+that each Purchaser conduct its own careful examination of all relevant information and risks about
+the Token Generator, Verasity Platform and Tokens and, specifically, the disclosures and risk factors
+26
+
+set out below. If any of the following risks actually occurs, the Verasity Platform, Token and
+Purchaser's Tokens may be materially and adversely affected, including the Purchaser's Token being
+rendered worthless or unusable.
+2.1.
+
+Disclosures regarding the White Paper
+2.1.1.
+
+Accuracy of information, no consent of parties referenced in White Paper
+
+This White Paper includes market and industry information and forecasts that have been
+obtained from internal surveys, reports and studies, where appropriate, as well as market
+research, publicly available information and industry publications. Such surveys, reports,
+studies, market research, publicly available information and publications generally state that
+the information that they contain has been obtained from sources believed to be reliable,
+but there can be no assurance as to the accuracy or completeness of such included
+information.
+Save for the Token Generator and its respective directors, executive officers and employees,
+no person has provided his or her consent to the inclusion of his or her name and/or other
+information attributed or perceived to be attributed to such person in connection therewith
+in the White Paper and no representation, warranty or undertaking is or purported to be
+provided as to the accuracy or completeness of such information by such person and such
+persons shall not be obliged to provide any updates on the same. Neither the Token
+Generator nor Verasity Technology (Cayman) have conducted any independent review of
+the information extracted from third party sources, verified the accuracy or completeness of
+such information, or ascertained the underlying economic assumptions relied upon therein.
+Consequently, neither Token Generator nor its directors, executive officers and employees
+acting on its behalf makes any representation or warranty as to the accuracy or
+completeness of such information and shall not be obliged to provide any updates on the
+same
+2.1.2
+
+Terms used
+
+To facilitate a better understanding of Tokens being offered for purchase by the Token
+Generator, and the businesses and operations of the Token Generator, certain technical
+terms and abbreviations, as well as, in certain instances, their descriptions, have been used
+in the White Paper. These descriptions and assigned meanings should not be treated as
+being definitive of their meanings and may not correspond to standard industry meanings or
+usage.
+Words importing the singular shall, where applicable, include the plural and vice versa and
+words importing the masculine gender shall, where applicable, include the feminine and
+neuter genders and vice versa. References to persons shall include corporations.
+2.1.3
+
+Restrictions on distribution and dissemination of White Paper
+
+The distribution or dissemination of the White Paper or any part thereof may be prohibited
+or restricted by the laws, regulatory requirements and rules of any jurisdiction. In the case
+where any restriction applies, you are to inform yourself about, and to observe, any
+restrictions which are applicable to your possession of the White Paper or such part thereof
+(as the case may be) at your own expense and without liability to the Token Generator.
+
+27
+
+Persons to whom a copy of the White Paper has been distributed or disseminated, provided
+access to or who otherwise have the White Paper in their possession shall not circulate it to
+any other persons, reproduce or otherwise distribute the White Paper or any information
+contained herein for any purpose whatsoever nor permit or cause the same to occur.
+2.1.4
+
+Language of White Paper
+
+This White Paper may have been prepared in multiple languages. In the event of any
+inconsistencies between one version and another, the English language version shall prevail.
+2.2
+
+Disclosures regarding Tokens
+2.2.1
+
+Token is a utility token
+
+Tokens are digital utility tokens that afford Token holders to access the Verasity Platform
+and/or execute certain functions on the Verasity Blockchain. Tokens do not represent a loan
+to Token Generator, nor do they provide Purchaser with any ownership or other interest in
+or to Token Generator. For greater certainty, the purchase of Tokens does not provide
+Purchaser with any form of ownership right or other interest in or to Token Generator or
+Verasity or its present or future assets and revenues, including, but not limited to, any
+voting, distribution, redemption, liquidation, revenue sharing, proprietary (including all
+forms of intellectual property), or other financial or legal rights.
+2.2.2
+
+Tokens are non-refundable
+
+Other than instances described in the Terms and Conditions, if any, Token Generator is not
+obliged to provide Token holders with a refund for any reason, and Token holders will not
+receive money or other compensation in lieu of a refund. Statements set out in the White
+Paper are merely expressions of the Token Generator's objectives and desired work plan to
+achieve those objectives. and no promises of future performance or price are or will be
+made in respect to Tokens, including no promise of inherent value, and no guarantee that
+Tokens will hold any particular value.
+2.2.3
+
+Tokens are provided on an “as is” basis
+
+Tokens are provided on “as is” basis. The Token Generator and Verasity and each of their
+respective directors, officers, employees, shareholders, affiliates and licensors make no
+representations or warranties of any kind, whether express, implied, statutory or otherwise
+regarding Tokens, including any warranty of title, merchantability or fitness for a particular
+purpose or any warranty that Tokens and Verasity Platform will be uninterrupted, error-free
+or free of harmful components, secure or not otherwise lost or damaged. Except to the
+extent prohibited by applicable law, the Token Generator and Verasity and each of their
+respective directors, officers, employees, shareholders, affiliates and licensors disclaim all
+warranties, including any implied warranties of merchantability, satisfactory quality, fitness
+for a particular purpose, non- infringement, or quiet enjoyment, and any warranties arising
+out of any course of dealings, usage or trade.
+2.2.4
+
+Not an offering of securities, commodities or swaps
+
+The sale of Tokens and Tokens themselves are not securities, commodities, swaps on either
+securities or commodities, or a financial instrument of any kind. Purchases and sales of
+Tokens are not subject to the protections of any laws governing those types of financial
+instruments. This White Paper and all other documents referred to in the White Paper
+28
+
+including the Terms and Conditions do not constitute a prospectus or offering document,
+and are not an offer to sell, nor the solicitation of an offer to buy an investment, a security,
+commodity, or a swap on either a security or commodity.
+2.2.5
+
+Non-Investment purposes
+
+Purchaser acknowledges and agrees that Purchaser is not purchasing Tokens for purposes of
+investment, speculation, as some type of arbitrage strategy, for immediate resale or other
+financial purposes. Tokens are not designed for investment purposes and should not be
+considered as a type of investment.
+2.3
+
+Tokens may have no value
+
+3.
+
+FORCE MAJEURE
+
+The Token Generation and the performance of the Token Generator’s activities set out in White
+Paper development roadmap may be interrupted, suspended or delayed due to force majeure
+events. For the purposes of the White Paper, a force majeure event shall mean any extraordinary
+event or circumstances which could not be prevented by Token Generator and shall include:
+hardware, software or other utility failures, changes in market forces or technology, software or
+smart contract bugs, changes in blockchain-related protocols, acts of nature, wars, armed conflicts,
+mass civil disorders, industrial actions, epidemics, lockouts, slowdowns, prolonged shortage or other
+failures of energy supplies or communication service, acts of municipal, state or federal
+governmental agencies or other circumstances beyond Token Generator's control, which were not in
+existence at the time of Token Generation. Purchaser understands and agrees that Token Generator
+shall not be liable and disclaims all liability to Purchaser in connection with a force majeure event.
+4.
+
+INSURANCE
+
+Unlike bank accounts or accounts at financial institutions, Tokens are uninsured unless you
+specifically obtain private insurance to insure them. Thus, in the event of loss or loss of utility value,
+there is no public insurer or private insurance arranged by Token Generator to offer recourse to
+Purchaser.
+5.
+
+GOVERNMENTAL DISCLOSURES
+
+5.1.
+
+Risk of unfavorable regulatory action in one or more jurisdictions
+
+The regulatory status of cryptographic tokens, digital assets, and blockchain technology is
+undeveloped, varies significantly among jurisdictions and is subject to significant uncertainty. It is
+possible that certain jurisdictions may adopt laws, regulations, policies or rules directly or indirectly
+affecting the Bitcoin and Ethereum network, or restricting the right to acquire, own, hold, sell,
+convert, trade, or use Tokens.
+Developments in laws, regulations, policies or rules may alter the nature of the operation of the
+blockchain network upon which Tokens are dependent. There can be no assurance that
+governmental authorities will not examine the operations of the Token Generator and Verasity
+and/or pursue enforcement actions against the Token Generator and Verasity. All of this may subject
+the Token Generator and Verasity to judgments, settlements, fines or penalties, or cause the Token
+Generator and Verasity to restructure their operations and activities or to cease offering certain
+products or services, all of which could harm the Token Generator and Verasity’s reputation or lead
+to higher operational costs, which may, in turn, have a material adverse effect on Tokens and/or the
+development of the Verasity Platform.
+29
+
+5.2.
+
+Purchaser bears responsibility of legal categorization
+
+There is a risk that Tokens might be considered a security in certain jurisdictions, or that they
+might be considered to be a security in the future. The Token Generator does not provide any
+warranty or guarantee as to whether Tokens will be a security in the jurisdiction of the Purchaser.
+Each Purchaser will bear all consequences of Tokens being considered a security in their respective
+jurisdiction. Every Purchaser is responsible to confirm if the acquisition and/or disposal of Tokens is
+legal in its relevant jurisdiction, and each Purchaser undertakes not to use Tokens in any jurisdiction
+where doing so would be unlawful. If a Purchaser establishes that the purchase or use of Tokens is
+not legal in its jurisdiction, it should not acquire Tokens and immediately stop using or possessing
+Tokens. Acquiring Tokens in exchange for cryptocurrencies will most likely continue to be scrutinized
+by various regulatory bodies around the world, which may impact the usage of Tokens. The legal
+ability of the Token Generator to provide or support Tokens in some jurisdictions may be eliminated
+by future regulation or legal actions. In the event the Token Generator determines that the purchase
+or usage of Tokens is illegal in a certain jurisdiction, the Token Generator may cease operations in
+that jurisdiction, or adjust Tokens or the Verasity Platform in a way to comply with applicable law.
+5.3.
+
+Purchaser bears responsibility for complying with transfer restrictions
+
+Tokens may be placed on third-party exchanges, giving future purchasers and viewers an
+opportunity to openly buy Tokens. A user seeking to enter the Verasity Platform following the Token
+Generation will have to buy Tokens on such exchanges. Conversely, Tokens may be sold on such
+exchanges if the holder of Tokens would like to exit the Verasity Platform ecosystem. Existing laws
+on the circulation of securities in certain countries, such as the United States of America, Canada and
+Singapore, may prohibit the sale of Tokens to the residents of those countries. When buying Tokens,
+Purchaser should be aware of the restrictions on their subsequent sale.
+6.
+
+GENERAL SECURITY RISKS
+
+6.1.
+
+Risk of theft and hacking
+
+Token generation events and initial coin offerings are often targeted by hackers and bad actors.
+Hackers may attempt to interfere with the Purchaser's private key storage device or digital wallet
+Digital Wallet, the Verasity Blockchain or the availability of Tokens in any number of ways, including
+without limitation denial of service attacks, Sybil attacks, spoofing, smurfing, malware attacks, or
+consensus-based attacks. Any such attack may result in theft of Purchaser's Tokens.
+6.2.
+
+Private keys
+
+Tokens purchased by Purchaser may be held by Purchaser in Purchaser’s digital wallet or vault,
+which requires a private key, or a combination of private keys, for access. Accordingly, loss of
+requisite private key(s) associated with Purchaser’s digital wallet or vault storing Tokens will result in
+loss of such Tokens. Moreover, any third party that gains access to such private key(s), including by
+gaining access to login credentials of a hosted wallet or vault service Purchaser uses, may be able to
+misappropriate Purchaser’s Tokens. Token Generator is not responsible for any such losses.
+6.3.
+
+Exchange risks
+
+If Purchaser sends cryptocurrencies to the Token Generator from an exchange or an account that
+Purchaser does not control, Tokens will be allocated to the account that has sent such
+
+30
+
+cryptocurrency; therefore, Purchaser may never receive or be able to recover Purchaser’s Tokens.
+Furthermore, if Purchaser chooses to maintain or hold Tokens through a cryptocurrency exchange
+or other third party, Purchaser’s Tokens may be stolen or lost.
+6.4.
+Risk of incompatible wallet services
+The wallet or wallet service provider used for the storage of Tokens has to be technically compatible
+with Tokens. The failure to assure this may result in the Purchaser not being able to gain access to its
+Tokens.
+6.5.
+Risk of weaknesses or exploitable breakthroughs in the field of cryptography
+Advances in cryptography, or other technical advances such as the development of quantum
+computers, could present risks to cryptocurrencies, Ethereum and Tokens, which could result in the
+theft or loss of Tokens.
+6.6.
+
+Internet transmission risks
+
+There are risks associated with using Tokens including, but not limited to, the failure of hardware,
+software, and internet connections. The Token Generator shall not be responsible for any
+communication failures, disruptions, errors, distortions or delays you may experience when using
+the Verasity Platform and Tokens, howsoever caused. Transactions in cryptocurrencies may be
+irreversible, and, accordingly, losses due to fraudulent or accidental transactions may not be
+recoverable. cryptocurrency transactions are deemed to be made when recorded on a public ledger,
+which is not necessarily the date or time when the transaction is initiated.
+7.
+
+VERASITY PLATFORM DISCLOSURES
+
+7.1.
+
+No guarantee that Verasity Blockchain will be developed
+
+Purchaser acknowledges, understands and agrees that Purchaser should not expect and there is no
+guarantee or representation or warranty by Token Generator that:
+(a) the Verasity Platform will ever be adopted;
+(b) the Verasity Platform will be adopted as developed by Token Generator and not in a
+different
+or modified form;
+(c) a blockchain utilizing or adopting the Token Generator will ever be launched; and
+(d) a blockchain will ever be launched with or without changes to the Verasity Platform and
+with or without a distribution matching the fixed balances of the initial tokens distributed
+under the Token Sale.
+7.2.
+Risks associated with the Verasity and Ethereum blockchains and associated software
+and/or infrastructure.
+(a)
+Malfunctions - The initial iteration of the Tokens are based on the Ethereum
+blockchain. As such, any malfunction, unintended function or unexpected functioning of the
+Ethereum protocol may cause Tokens and/or the Verasity Platform to malfunction or
+function in an unexpected or unintended manner.
+
+31
+
+(b)
+Bugs and weaknesses - The Ethereum blockchain rests on open source software, and
+accordingly there is the risk that the token smart contract pertaining to the initial iteration of
+Tokens may contain intentional or unintentional bugs or weaknesses which may negatively
+affect Tokens or result in the loss or theft of Tokens or the loss of ability to access or control
+Tokens. In the event of such a software bug or weakness, there may be no remedy and
+Token holders are not guaranteed any remedy, refund or compensation.
+(c)
+Delays and congestions - On the Ethereum blockchain (which is used for
+the Token Sale) timing of block production is determined by proof of work so block
+production can occur at random times. For example, Ether contributed to the Verasity
+Blockchain in the final seconds of a distribution period may not get included for that period.
+Purchaser acknowledges and understands that the Ethereum blockchain may not include the
+Purchaser’s transaction at the time Purchaser expects and Purchaser may not receive Tokens
+the same day Purchaser sends Ether. The Ethereum blockchain is prone to periodic
+congestion during which transactions can be delayed or lost. Individuals may also
+intentionally spam the Ethereum network in an attempt to gain an advantage in purchasing
+cryptographic tokens. Purchaser acknowledges and understands that Ethereum block
+producers may not include Purchaser’s transaction when Purchaser wants, or Purchaser’s
+transaction may not be included at all.
+7.3.
+
+Irreversible nature of blockchain transactions
+
+Transactions involving Tokens that have been verified, and thus recorded as a block on the
+blockchain, generally cannot be undone. Even if the transaction turns out to have been in error, or
+due to theft of a user's Token, the transaction is not reversible. Further, at this time, there is no
+governmental, regulatory, investigative, or prosecutorial authority or mechanism through which to
+bring an action or complaint regarding missing or stolen cryptocurrencies. Consequently, the Token
+Generator may be unable to replace missing Tokens or seek reimbursement for any erroneous
+transfer or theft of Tokens.
+7.4.
+
+Amendments to protocol
+
+The development team and administrators of the source code for Ethereum blockchain or the
+Verasity Blockchain could propose amendments to such network's protocols and software that, if
+accepted and authorized, or not accepted, by the network community, could adversely affect the
+supply, security, value, or market share of Tokens.
+7.5.
+
+Risk of mining attacks
+
+As with other decentralized cryptocurrencies, the Ethereum blockchain, which is used for the initial
+tokens sold under the Token Sale, is susceptible to mining attacks, including but not limited to
+double-spend attacks, majority mining power attacks, “selfish-mining” attacks and race condition
+attacks. Any successful attack presents a risk to Tokens, including the expected proper execution and
+sequencing of Tokens and Ethereum contract computations in general. Despite the efforts of the
+Token Generator and Ethereum Foundation, the risk of known or novel mining attacks exists. Mining
+attacks, as described above, may also target other blockchain networks, with which Tokens interact
+with and consequently Tokens may be impacted also in that way to the extent described above.
+8.
+
+TOKEN GENERATOR DISCLOSURES
+32
+
+Because Tokens confer no governance rights of any kind with respect to the Token Generator, all
+decisions involving the Token Generator’s products or services within the platform or Token
+Generator itself will be made by Token Generator at its sole discretion. These decisions could
+adversely affect the platform and the utility of any Token you own.
+8.1.
+
+Dependence on management team
+
+The ability of the Verasity Platform project team, which is responsible for maintaining competitive
+position of the Verasity Platform, is dependent to a large degree on the services of a senior
+management team. The loss or diminution in the services of members of such senior management
+team or an inability to attract, retain and maintain additional senior management personnel could
+have a material adverse effect on the Verasity Platform. Competition for personnel with relevant
+expertise is intense due to the small number of qualified individuals, and this competition may
+seriously affect the Token Generator's ability to retain its existing senior management and attract
+additional qualified senior management personnel, which could have a significant adverse impact on
+the Verasity Platform.
+8.2.
+
+Risks related to reliance on third parties
+
+Even if completed, the Verasity Platform will rely, in whole or partly, on third-parties to adopt and
+implement it and to continue to develop, supply, and otherwise support it. There is no assurance or
+guarantee that those third-parties will complete their work, properly carry out their obligations, or
+otherwise meet anyone’s needs, any of which might have a material adverse effect on the Verasity
+Platform.
+8.3.
+
+Insufficient interest in the Verasity Platform and Tokens
+
+It is possible that the Verasity Platform or Tokens will not be used by a large number of individuals,
+businesses and organizations and that there will be limited public interest in the creation and
+development of its functionalities. Such a lack of interest could impact the development of the
+Verasity Platform.
+8.4.
+
+Verasity Platform development risks
+
+The development of the Verasity Platform and/or Verasity Blockchain may be abandoned for several
+reasons, including lack of interest from the public, insufficient funding, insufficient commercial
+success or prospects or departure of key personnel.
+8.5.
+
+Changes to Verasity Platform
+
+The Verasity Platform is still under development and may undergo significant changes over time.
+Although the Token Generator and Verasity intend for the Verasity Platform to have the features
+and specifications set forth in the White Paper, changes to such features and specifications may be
+made for any number of reasons, any of which may mean that the Verasity Platform does not meet
+expectations of the Purchaser.
+8.6.
+
+Other projects
+
+33
+
+The Platform may give rise to other, alternative projects, promoted by parties that are affiliated or
+unaffiliated with the Token Generator and Verasity, and such projects may provide no benefit to the
+Verasity Platform.
+8.7.
+
+Disclosures relating to conflicts of interest
+
+Any of the Token Generator and Verasity may be engaged in transactions with related parties and
+conflicts of interest may arise, potentially resulting in the conclusion of transactions on terms not
+determined by market forces.
+9.
+
+TOKEN PURCHASES
+
+Purchases of Tokens should be undertaken only by individuals, entities, or companies that have
+significant experience with, and understanding of, the usage and intricacies of cryptographic tokens,
+including Ether, and blockchain based software systems. Purchaser should have a functional
+understanding of storage and transmission mechanisms associated with other cryptographic tokens.
+While the Token Generator will be available to assist purchasers of Tokens during the sale, the Token
+Generator will not be responsible in any way for loss of BTC, ETH or Tokens resulting from actions
+taken by, or omitted by purchasers. If you do not have such experience or expertise, then you should
+not purchase Tokens or participate in the sale of Tokens. Cryptographic tokens such as Tokens are a
+new and untested technology. In addition to the risks included above, there are other risks
+associated with your purchase, possession and use of Tokens, including unanticipated risks. Such
+risks may further materialize as unanticipated variations or combinations of the risks discussed
+above.
+
+Definitions
+Creator: An individual, Corporate Video Publisher or Broadcaster who creates or owns video content
+to share on their own online video channel to generate both views and revenue from their audience.
+In this document Creator and Publisher are used interchangeably
+CDN: Content Distribution Network, or a distributed network of servers that consumers connect to
+in order to receive video. The servers are normally positioned close to the end user and are normally
+deployed at scale to provide higher quality video experiences
+Digital Wallets: Desktop Application wallet and Web wallet with an API into Player, both used to
+hold VERA
+Economy: Verasity ecosystem in which Vera, the Verasity token, is utilized for transactions
+Management: Core team listed in this White paper
+OVP: Online Video Platform including uploader, player and CDN network
+Publisher: A company that distributes video content across multiple channels and mediums to
+maximize both views and revenue from their audience. Typically works with multiple creators who
+contribute to their content library
+Platform: The combined suite of technology and products that power the Verasity Video Rewarded
+Module and online video platform and components
+Proof of View (PoV™): Proof of View implementation on the Blockchain and patent pending as
+further described in the “Proof of View” section below
+Verasity Foundation: Verasity Foundation Company Limited, a Cayman Islands foundation company
+registered under the Cayman Islands Foundation Companies Law, 2017, which has been
+incorporated to support the Verasity Economy and Platform as per this white paper
+34
+
+VeraPlayer: Video Player, Uploader, CDN and components that make up the online video platform, a
+technology licensed by Verasity and to be made available to the Verasity community and economy.
+This technology is already operating and available for implementation
+VeraWallet: Web based token wallet designed to allow VRA holders to top up their accounts, stake
+VRA or withdraw VRA to other wallets
+VRA: A cryptographically secured digital utility token which will be created and used within the
+Verasity Video Sharing Ecosystem and Economy and verified on the Verasity Blockchain
+Verasity: See Verasity Foundation
+Please click VeraWallet for specific terms related to the use of the VeraWallet and click Verawallet Staking for specific
+terms related to Verasity staking.
+
+35
+
+

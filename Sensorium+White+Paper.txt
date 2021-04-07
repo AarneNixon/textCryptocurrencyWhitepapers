@@ -1,0 +1,2006 @@
+White Paper
+
+Table of Contents
+Glossary ............................................................................................................................................................... 3
+
+Virtual Reality in the Entertainment Industry: Problem Statement .................................................. 4
+Solution to the Problem ...................................................................................................................................... 6
+Product of Sensorium Corporation ..................................................................................................................... 6
+Content of Sensorium Media Platform ............................................................................................................... 6
+Mission and Descriptor of Sensorium Corporation ............................................................................................ 7
+Objectives of Sensorium Corporation................................................................................................................. 7
+Organizational Structure of Sensorium Corporation.......................................................................................... 8
+Project Roadmap ............................................................................................................................................... 10
+Description of Sensorium Galaxy Media Platform Product ............................................................................. 10
+Financial Forecast of the Operating Activities of Sensorium Corporation ...................................................... 13
+Technology for Attracting Investment .............................................................................................................. 17
+Token Status ...................................................................................................................................................... 18
+Token Circulation .............................................................................................................................................. 18
+Initial Project Team ........................................................................................................................................... 22
+Disclaimer .......................................................................................................................................................... 23
+Contacts ............................................................................................................................................................. 24
+Annex 1. Sensorium Galaxy Concept ................................................................................................................. 26
+Annex 2. Sensorium LAB .................................................................................................................................... 27
+Annex 3. Alliance of Entertainment Partners
+of Sensorium Galaxy Media Platform ................................................................................................................ 29
+
+2
+
+Glossary
+Virtual reality means a world created by technical means, perceived by a person through his or her
+feelings and corresponding to the criteria of origination, relevance, autonomy, sociality and interactivity.
+Singularity means the identity of perception of virtual and real worlds.
+Media platform means a global digital aggregator that provides the technological capacity to store,
+stream and deliver VR content to consumers, and acts as a single hub for interaction between consumers
+and content producers.
+Sensorium brand means an integral and unique image and intellectual property right to the Sensorium
+trademark, which unites the trademark of the media platform and other services and products of
+Sensorium Corporation in the global entertainment market.
+Content means next-generation VR content, created on the basis of modern innovative solutions that
+establish the effect of virtual transfer of the viewer to the offline space (e.g. concert, festival), immersion
+in the atmosphere of the event providing new level of sensation due to high fidelity and authenticity of
+the experience.
+Entertainment and content partners mean world-famous concert and club venues, as well as record
+labels and artists interested in the development of VR technology who confirmed their willingness to
+participate in the Sensorium project.
+Technological partners mean content producers, providers of streaming and distribution services,
+developers of VR technologies and socialization systems that establish the process of creating and
+delivering VR content to consumers.
+Sensorium Lab means an R&D center based in Sensorium Hall Moscow focused on experimental products
+and technological solutions in the areas of augmented and virtual reality, including technologies of VR
+socialization for verbal and visual communication between consumers within virtual environments.
+Streaming of the multimedia content means service that provides real-time streaming of audio/video
+content over the Internet through buffering and data compression.
+Virtual world means an artificially created world built by means of computer technologies.
+Social VR means a technology that allows remote users to immerse themselves in the space of the virtual
+world with the possibility of interactive visual and verbal interaction with the virtual environment, as well
+as with other users and characters inhabiting the virtual world.
+
+3
+
+Virtual Reality
+in the Entertainment Industry
+Problem Statement
+
+Virtual reality is a product of technology and content synergy that is set to bring the identity of perception
+of the virtual and real worlds, known as Singularity Effect, for the Entertainment Industry customers.
+The industry, betting on the technological component of VR, could not provide users with the necessary
+format and quality of VR content in a timely manner.
+Along with the development of technologies, the societal understanding of the boundless possibilities of
+virtual reality is actively developing. VR technology is at the stage of forming technical solutions, and
+societal expectations have already been formed by socio-cultural triggers:
+•
+
+Cinema
+-
+
+Matrix
+
+-
+
+Surrogates
+
+-
+
+Avatar
+
+-
+
+Westworld
+
+-
+
+Ready Player One
+
+-
+
+Black Mirror
+
+•
+
+Gaming
+-
+
+World of Warcraft
+
+-
+
+Minecraft
+
+-
+
+World of Tanks
+
+-
+
+GTA Online
+
+-
+
+Fortnite
+
+•
+
+Literature
+-
+
+N. Stephenson “Reamde” and "Snow Crash”
+
+-
+
+W. Gibson “Pattern Recognition”
+
+-
+
+V. Pelevin “The Watcher” and “Secret Views of Mount Fuji”
+
+These cultural codes are based on a single format description – a parallel universe, formed by the existing
+reality, with its own laws of existence and autonomous being.
+There is already an expectation of living limitless virtual lives via the constructs of the VR technology. Each
+virtual life can be seen as a chance to achieve self-actualization and recognition.
+The scientific and philosophical community has adopted the following criteria for virtual reality:
+Origination – virtual reality is produced by another reality that is external to it.
+Relevance – existence at the moment of observation, "here and now".
+Sociality – ability to interact in real time with other participants and users.
+Interactivity – opportunity to influence the course of events, change scenarios and context, interact with
+the environment.
+Autonomy – presence of own laws of being, time and space.
+
+4
+
+Introduction of next-generation content to the market that meets the canonical criteria of
+virtual reality – will open endless opportunities for the entertainment-industry.
+
+Current state of VR in the entertainment-industry:
+•
+
+Technology:
+-
+
+High availability (VR helmets, computing power, streaming technologies)
+
+-
+
+Prospect of radical dramatic improvement in 2-3 years (high-speed 5G Internet, virtual retinal
+monitor, etc.)
+
+•
+
+Content:
+-
+
+Societal expectations raised by socio-cultural triggers (humanities, film and literature) regarding
+the possibility of VR technology to provide humanity with an alternative to living in a real, cruel
+and unjust world have shaped the demand for a global product that meets these expectations.
+
+-
+
+Local VR products, available on the entertainment market today, are disappointing for the
+consumers, as they mostly replicate current disparate entertainment content that does not
+bring the expected "bright future" any closer.
+
+General Conclusion:
+•
+
+Makers of VR hardware technologies have significantly outpaced content producers.
+
+•
+
+Users have a sufficient number of VR devices (according to various estimates: from tens to
+hundreds of millions of units) and have formed an unmet demand for actual content.
+
+•
+
+The VR content presented in the modern entertainment market does not meet the expectations
+of the society, as expressed by visionaries, who have formed the society's ideas about the infinite
+possibilities of the "true" VR technology.
+
+•
+
+Virtual worlds are actively used in the game industry, but the bulk of the content in this genre is
+released in 2D format for viewing on computer screens.
+
+The key problem for the use of VR technology in the entertainment-industry is the lack of a
+full-fledged content product that meets global audience demand and canonical criteria of
+virtual reality. A product that can conquer the market must overcome the main drawback of
+existing technologies, the state of loneliness and social exclusion of the user.
+
+5
+
+Solution to the Problem
+Creation and introduction of entertainment content to the market in the Social VR format - a nextgeneration product that meets the canonical criteria of virtual reality and global expectations of the
+target audience.
+We present Sensorium Corporation – a technological paradigm created to achieve a breakthrough in
+the field of entertainment, based on the Sensorium Effect – the synthesis of modern practices of the
+gaming industry, show business and cinema, embodied in an innovative product – Sensorium Galaxy.
+Social VR technology will allow remote users to immerse themselves in the space of the virtual world
+with the possibility of interactive visual and verbal interaction with the virtual environment, as well as
+users and characters inhabiting the virtual world.
+Social VR enables previously unattainable level of user's emotional immersion in the virtual or
+broadcasted events.
+
+Product of Sensorium Corporation
+Sensorium Global Digital Media Platform is a Social VR content aggregator.
+The uniqueness of the Sensorium project is in providing users with the opportunity to communicate
+with friends and virtual entities in the social virtual world, which is the next step in the evolution of
+social behavior.
+Aggregation of VR content and its streaming into the virtual environment is carried out in partnership
+with the Redpill VR technology platform.
+
+Content of Sensorium Media Platform
+Social VR content of the Sensorium Media Platform is an exciting and ever-expanding virtual universe that
+is blurring the boundaries between the real world and the virtual world – the space of a boundless matrix
+the size of human fantasy.
+The content is designed to provide interactive access and social communication to remote users in VR and
+2D formats.
+The concept of Sensorium Galaxy is presented in Annex No. 1.
+
+6
+
+Mission of Sensorium Corporation
+Achievement of a breakthrough in the entertainment industry based on
+the Social VR technology.
+
+Descriptor of Sensorium Brand
+Future of Senses
+
+Objectives of Sensorium Corporation
+Creation of Sensorium Galaxy in accordance with the Concept and ensuring its evolutionary
+development by means of gradual saturation of virtual worlds with content product.
+
+Stage 1
+•
+
+Content creation for the virtual worlds of Music Planet and Dancing Planet.
+
+•
+
+Development of innovative solutions, as well as adoption of existing ones, for the formation of
+next generation of content in the format of Social VR. The content shall establish the effect of
+viewer's immersion in the atmosphere of a concert / real-world performance broadcasted in the
+space of the virtual world, promoting the next level of experience and communication, that is only
+possible in the space of Social VR.
+
+•
+
+Creation of a large-scale library of musical and choreographic content in the Social VR format in
+cooperation with the entertainment-partners alliance, made up of the world's most acclaimed
+concert/club/theatre venues and performers, who are also focused on VR technology.
+
+•
+
+Provision of global Sensorium Galaxy Media Platform with the rights to broadcast content created
+in collaboration with the alliance's entertainment platforms.
+
+•
+
+Providing distribution and sale of VR content on own and industry-leading platforms, scaling up
+the audience through the broadcast of content to social media in volumes comparable to the
+audience of online video streaming.
+
+Stage 2
+•
+
+Content creation for all the virtual worlds of Sensorium Galaxy (as per Concept).
+
+•
+
+Growth of Sensorium community with the help of social marketing tools, strengthening emotional
+connections, involvement and retainment of the platform’s users.
+
+7
+
+Organizational Structure of Sensorium Corporation
+•
+
+Sensorium Corporation,
+
+•
+
+Sensorium Galaxy Media Platform,
+
+•
+
+Structure of Sensorium Corporation:
+-
+
+Alliance of Entertainment and Content Partners
+
+-
+
+Sensorium Lab (Annex No. 2)
+
+-
+
+Service technology partners.
+
+Sensorium Corporation
+•
+
+Name – Sensorium Corporation
+
+•
+
+Jurisdiction – Cayman Islands
+
+•
+
+Ultimate beneficiary – Mikhail Prokhorov
+
+•
+
+The strategic goal of Sensorium Corporation is to increase the capitalization of the Sensorium
+brand through the development of the Sensorium Galaxy media platform and its services based
+on the infrastructure of the Corporation.
+
+Sensorium Galaxy Media Platform
+•
+
+a global digital aggregator that provides the technological capacity to store, stream and deliver
+VR content to consumers, acting as a single hub for interactions between consumers and content
+producers.
+
+•
+
+The main objective of the Sensorium Galaxy platform is to provide its users with a set of services
+that include:
+-
+
+Download of Social VR Content
+
+-
+
+Access to live streaming, video-on-demand with a complete line of gadgets available to end
+users (phones, tablets, PCs, game consoles and virtual reality helmets)
+
+-
+
+Participation in various activities on the Sensorium portal.
+
+8
+
+Flowchart for the Organizational Structure of Sensorium Corporation
+
+9
+
+Project Roadmap
+Sensorium Brand
+
+November 2018
+
+Cayman Islands
+
+M&A with RedPill VR
+
+May 2019
+
+LA, USA
+
+Participating at E3
+
+June 2019
+
+LA, USA
+
+VR demo studio
+
+July 2019
+
+Moscow, Russia
+
+Partners pool
+
+August 2019
+
+USA, Europe, Asia
+
+Beta version
+
+December 2019
+
+USA, Asia
+
+July 2020
+
+USA, Europe, Asia
+
+Entertainment alliance,
+License Agreements
+
+December 2020
+
+USA, Europe, Asia
+
+M&A with technological partners,
+Brand Revaluation
+
+December 2021
+
+USA, Europe, Asia
+
+Launch to the global markets
+
+Description of Sensorium Galaxy Media Platform
+Product
+Stage 1. Music Planet, Dancing Planet
+Unique Selling Proposition
+Sensorium Social VR
+Artists' performances in club, concert and theater venues broadcast in real-time online and on-demand
+formats from Sensorium Galaxy virtual environment spaces using Redpill VR (RP) Social Virtual Reality
+(SVR) technology.
+The Social VR technology developed by Redpill VR has been demonstrated to the community:
+•
+
+Art Basel, Miami (December, 2018)
+
+•
+
+Netflix Party, LA (December, 2018)
+
+•
+
+Grammy Party, LA (February, 2019)
+
+•
+
+E3, LA (June, 2019)
+
+10
+
+Status of the Sensorium Product Line. Stage 1
+•
+
+The Social VR technology allows both the performer and the remote viewer to immerse
+themselves in the fantastic interactive environments of Sensorium Galaxy virtual worlds of
+various genres, with the possibility of social communication between the participants of the event
+(visual and verbal between a group of remote viewers, between users and virtual characters of
+the environment, as well as users and virtual avatars of artists and influencers).
+
+•
+
+Target audience: music fans, connoisseurs of art, gamers, influencers’ followers, active audience
+of social networks.
+
+•
+
+Broadcast music events in 360° 3D in virtual worlds allowing the viewer to experience the
+atmosphere of a real event (concert, performance, etc.) with a high degree authenticity and
+addressed to the performer’s fan community.
+
+Access Algorithm for Sensorium Galaxy Media Platform Content:
+•
+
+The user visits the website of Sensorium Galaxy media platform (sensoriumxr.com) using his/her
+gadget:
+-
+
+Smartphone,
+
+-
+
+Tablet,
+
+-
+
+Personal computer,
+
+-
+
+Game console,
+
+-
+
+VR headset.
+
+•
+
+The user downloads the Sensorium application and gets access to the Social VR portal of
+Sensorium Galaxy media platform.
+
+•
+
+The user moves to the Sensorium Galaxy space, which is a configuration of different thematic
+virtual worlds with a high level of photorealism, and makes a few choices:
+-
+
+Personal image (avatar) from the gallery for further visits of music events,
+
+-
+
+Avatar dimension (may be changed at any time by user),
+
+-
+
+Appearance of the avatar (clothing, makeup, tattoos, accessories, etc.),
+
+-
+
+Itinerary (events to visit),
+
+-
+
+List of companions,
+
+-
+
+etc.
+
+•
+
+In Sensorium Galaxy, user learns the intuitive tracking technique and ways to move in the virtual
+space, as well as the techniques of interacting with the environment, and practices the verbal and
+visual communication with other participants.
+
+•
+
+The user’s avatar can perform independent meaningful actions and communications based on
+the technology of controlling the avatar with neural networks.
+
+•
+
+Further, the user is teleported to one or the selected sequence of virtual worlds, carrying out
+immersion in them through portals leading from the space of Sensorium Galaxy to the spaces of
+thematic virtual worlds entertainment-partners of the media platform. The partners of the
+project are the world's leading concert, club and theater venues, in the virtual interactive spaces
+of which the photorealistic avatars of famous performers perform concerts, as well as in the
+status of guests of the event there are avatars of influencers from the world of celebrities.
+
+11
+
+Status of the Virtual Worlds of Sensorium Galaxy
+●
+
+Stage 1 content is created by Sensorium Corporation in cooperation with an alliance of content
+partners.
+The starting lineup of the alliance of content-partners of Sensorium Corporation is given in
+Appendix 3.
+
+●
+
+Sensorium Corporation, in cooperation with technology companies, creates a thematic virtual
+world for each of the project's content partners, including an individual, branded virtual world of
+a partner, which has high artistic value and atmosphere, and also inhabits this world with unique
+characters and thematic images.
+
+●
+
+Sensorium Corporation forms, in order to fill virtual worlds with virtual content, a library of
+performances of famous world performers:
+- photorealistic avatars of the artists;
+- recording the tracking (movements) of artists and their soundtracks.
+
+●
+
+The project provides for the development of personal images of mythologized virtual artists
+(fictional and folklore characters) capable of performing thematic musical and choreographic
+programs in virtual worlds for partner platforms.
+
+●
+
+Sensorium Corporation forms a database of avatars of influencers (photorealistic avatar and its
+personal tracking).
+
+●
+
+Operating with the base of virtual worlds, library of avatars of performers, influencers, fictional
+characters, Sensorium Corporation forms the program of events of the worlds of Sensorium
+Galaxy in 24/7/365 format.
+
+●
+
+It is expected that the formed environment of virtual worlds will be organically saturated with a
+game component, drawn from the practices of game-industry.
+
+●
+
+Accordingly, the concept of project monetization will be developed on the basis of proven
+practices in the game-industry of product interaction with the user environment.
+
+Relevance of Social VR
+●
+
+Involvement of influencers in the list of active participants of the broadcast event allows to apply
+trendy and effective technologies of Sensorium product and brand promotion using the coverage
+of the fan audience of tens and hundreds of millions of potential users by influencers.
+
+●
+
+SVR's 3DVR scanning technologies will enable you to participate in the virtualization market and
+create many additional, monetizable features and products within the platform (virtual DJs, user
+rooms and worlds).
+
+●
+
+SVR technology supports streaming (broadcasting) from VR space into 2D formats (YouTube,
+Twitch), which is a significant feature of the project and allows to expand the potential audience
+to billions of users (views). This has great potential to attract new audiences (content consumers)
+and opinion leaders (content creators) to the platform.
+
+●
+
+In the future, with the development of the platform, users will be able to create their own virtual
+content, which may create a new trend in the global network and world culture.
+
+●
+
+Involvement of gamers in the project means the formation of the audience of the media platform,
+which has a traditional experience of paying for access to content and purchasing additional
+options in the process of content consumption.
+
+12
+
+Financial Forecast of the Operating Activities of
+Sensorium Corporation
+The information set out in this section is not public. In the course of preparation of materials for publication, this section may be
+changed in any way or excluded as a whole. Sensorium Corporation makes no representations to the authorized recipient of this
+document regarding the information that will be included in the public documents of the project.
+
+Beginning of the Project
+Forecast of income from operating activities of Sensorium Galaxy media platform at the start of the
+project (period of using investment capital for content creation)
+The project involves using the Freemium business model.
+Income Indicator
+Number of users (million per year)
+
+2020
+
+2021
+
+0.6 million
+
+1.5 million
+
+20%
+
+22%
+
+0.12 million
+
+0.33 million
+
+$150
+
+$182
+
+18 million
+
+60 million
+
+Percentage of paying users (per year)
+Number of paying users (million per year)
+Income from microtransactions, advertising and other types
+of monetization per year, USD
+Annual income from subscription to platform content,
+microtransactions, advertising and other forms of
+monetization, USD
+
+The annual income of Sensorium Corporation shall be distributed among the media platform, the
+alliance's partner venues, performers and rights holders on the basis of individual agreements between
+them.
+The activity of Sensorium Corporation is based on the created infrastructure, which assumes the
+distribution of income among the participants of the project - partner platforms, labels, artists with the
+possibility of receiving fair income for each of the parties involved. The alliance's partner platform bears
+the costs of signing artists, covers the costs of the share of profit generated by the platform from the sale
+of content.
+
+Ways to Increase the Operating Income of the Media Platform:
+●
+
+increasing the number of entertainment-partners
+
+●
+
+Increasing the number of content distributor partners
+
+●
+
+audience growth
+
+●
+
+Increasing the volume of content, game scenarios, and monetized services
+
+13
+
+Project Scaling
+Forecast of income from operating activities in the sale of content by Sensorium Galaxy media platform
+to end users when reaching self-sufficiency.
+Revenue
+Number of subscribers (million per year)
+Percentage of paying users
+(per year)
+Number of paying users (million per year)
+Income from various types of monetization in
+Freemium business model per one paying user
+per year, USD
+
+2022
+
+2023
+
+2024
+
+2025
+
+3.5 million
+
+5 million
+
+6.7 million
+
+9 million
+
+24%
+
+26%
+
+28%
+
+30%
+
+0.84
+million
+
+1.30
+million
+
+1.88
+million
+
+2.70
+million
+
+$298
+
+$254
+
+$256
+
+$259
+
+Annual income from sales of platform content,
+250 million 330 million 480 million 700 million
+advertising and other forms of monetization, USD
+
+Transition of the Media Platform to a self-sufficient operation:
+•
+
+A set of media platform content that allows for 24/7 broadcasting (live and archived content)
+
+•
+
+Formation of own brand audience sufficient for functioning of autonomous business model (from
+5 million and more subscribers per year)
+
+Geographic distribution of the Media Platform target market
+Latin America
+9%
+
+North America
+39%
+
+EMEA (80% WE)
+22%
+
+2021
+300 billion $
+
+(Optimistic forecast)
+
+Asia Pacific
+30%
+
+The target markets for the media platform are North America and Asia. Together, those two markets
+are projected by Technavio's Global Ticket Market to account for 69% of its total volume in 2021.
+
+14
+
+Forecast of changes in operating indicators of Sensorium Corporation
+Year
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+2028
+
+2029
+
+Users, million per year
+
+0
+
+0.77
+
+1.5
+
+5.0
+
+6.0
+
+8.0
+
+10.0
+
+12.5
+
+15.6
+
+19.5
+
+24.4
+
+Percentage of paying users
+(per year)
+
+0
+
+20%
+
+22%
+
+24%
+
+26%
+
+28%
+
+30%
+
+31%
+
+32%
+
+33%
+
+34%
+
+Number of paying users
+(million per year)
+
+0
+
+0.12
+
+0.33
+
+0.84
+
+1.30
+
+1.88
+
+2.70
+
+3.88
+
+4.99
+
+6.44
+
+8.30
+
+Income per single paying
+user (USD per year)
+
+0
+
+150
+
+182
+
+298
+
+254
+
+256
+
+259
+
+226
+
+219
+
+212
+
+206
+
+Revenue, million USD
+
+0
+
+18
+
+60
+
+250
+
+330
+
+480
+
+700
+
+875
+
+1093
+
+1367
+
+1709
+
+30
+
+1800
+
+1709.0
+
+1600
+
+25
+
+1367.2
+
+20
+
+1400
+1200
+
+1093.8
+
+1000
+
+875.0
+
+15
+
+700.0
+
+10
+
+480.0
+250.0
+
+5
+
+5,0
+
+6,0
+
+2020
+
+2021
+
+2022
+
+2023
+
+12,5
+
+10,0
+
+8,0
+
+60.0
+
+600
+
+19,5
+
+330.0
+
+18.0
+
+800
+
+24,4
+15,6
+
+400
+200
+
+0
+
+0
+2019
+
+2024
+
+2025
+
+Пользователи,
+Users,
+million млн.
+
+2026
+
+2027
+
+2028
+
+2029
+
+Выручка,
+$
+Revenue,млн.
+million
+
+Expense side
+Primary Costs in 2020-2025
+Types of expenses
+Creation of virtual worlds,
+million USD
+Content creation (recordings of the
+performances of artists),
+million USD
+Administrative expenses,
+million USD
+Broadcast expenses,
+million USD
+TOTAL
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+5
+
+8
+
+9
+
+9
+
+10
+
+10
+
+5.5
+
+16.5
+
+16
+
+18
+
+18.5
+
+20
+
+7
+
+10
+
+11
+
+11
+
+12
+
+12
+
+0
+
+3
+
+4
+
+4
+
+5
+
+6
+
+17.5
+
+37.5
+
+40
+
+42
+
+45.5
+
+48
+
+15
+
+Primary Profit Indicators in 2020-2025
+Indicator
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+Revenue
+
+18
+
+60
+
+250
+
+330
+
+480
+
+700
+
+Expenses
+
+17.5
+
+37.5
+
+40
+
+42
+
+45.5
+
+48
+
+Profit, million USD
+
+0.5
+
+22.5
+
+210
+
+288
+
+434.5
+
+652
+
+Sensorium brand value forecast 2020-2029
+4 000
+34,000
+500
+
+3,418
+
+33,500
+000
+
+2,734
+
+23,000
+500
+
+2,188
+
+22,500
+000
+
+1,750
+1,400
+
+12,000
+500
+11,500
+000
+500
+1,000
+0
+500
+
+1,221
+
+960
+660
+
+500
+36
+
+121
+18
+
+2020
+
+60
+
+2021
+
+300
+
+250
+
+2022
+
+2023
+
+According
+to theх2
+По выручке
+revenue x2
+
+400
+
+2024
+
+500
+
+2025
+
+625
+
+2026
+
+781
+
+2027
+
+977
+
+2028
+
+2029
+
+According
+По аналогам
+to analogues
+($ за пользователя)
+($ for 1 user)
+
+16
+
+Technology for Attracting Investment
+Investment plan parameters
+The total volume of token emissions is 7,692 million units.
+The ratio of 1 token = 0.1 USD is taken as the nominal unit in the token calculation.
+The investment plan provides for the attraction of funds in the equivalent of USD 769.2 million:
+•
+
+Volume of issuance – 65% or 500 million USD (Hard cap),
+
+•
+
+Project reserve fund – 35% or 269.2 million USD.
+
+Issue of tokens in the amount of 65%, or 500 million USD will be directed to the sale in the following ratio
+(in 2 rounds):
+Closed round for qualified investors
+•
+
+Token Sales Volume: 200 million USD (Soft cap),
+
+•
+
+Period: October, 2018 – September, 2019.
+
+Token listing on cryptocurrency exchanges
+•
+
+Token Sales Volume: 300 million USD
+
+•
+
+Period: September, 2019 – December, 2019
+
+The reserve fund is a source of ensuring the future stable development of the project (after the period of
+token issuance) and can be distributed no earlier than in 12 months.
+Parameters of token issuance
+Total volume of issuance (100%)
+Volume of sales (65%) (Hard Cap):
+
+Volume, USD
+769.2M
+500M
+
+–
+
+Closed round (Soft cap)
+
+200M
+
+–
+
+Sales of tokens on the exchange
+
+300M
+
+Reserve fund volume (35%)
+
+269.2M
+
+Token name: SENSO token
+Graphic image of the SENSO token:
+The exact token name may be changed at the discretion of Sensorium Corporation without prior
+notification of the authorized recipient of this document.
+At the stage of closed subscription (closed investment round) the maximum acquisition package is set at
+USD 20 million.
+
+17
+
+Token Status
+SENSO-token is a utility-token used within the framework of a closed system - Sensorium platform,
+developed on Ethereum blockchain (ERC20 standard) and having the following characteristics:
+●
+
+Combination of payment token and token properties confirming associated ownership of the
+Sensorium brand.
+
+●
+
+As a payment instrument, the token will be used by users to pay for content (digital ticket,
+subscription, access on demand, payment for services provided to users in the process of
+consuming content) and for the purpose of transferring funds or valuables within the framework
+of the Sensorium Galaxy media platform.
+
+●
+
+The cost of the content will be nominated in fiat money, and the payment for the content can be
+made, inter alia, using the project token at the rate determined by the platform on the day of
+payment. For the purpose of determining the rate of payment by tokens, the average rate of the
+project token to the fiat currency, in which the cost of the content is set, will be calculated daily.
+Thus, the platform plans to eliminate the exchange rate risks of both the user and the platform
+itself, associated with possible fluctuations in the token exchange rate. Also, for fans who are not
+token holders of the project, it will be possible to pay for the content using fiat money.
+
+●
+
+The share in the right of ownership of Sensorium brand will be provided by the license agreement
+as a part of smart-contract of token in blockchain on Ethereum platform.
+
+●
+
+As a tool for mediating the right to participate in the development of the brand and its value, the
+token will be a part of the license agreement through which the participants join the project on
+the platform. However, the scope of the rights of users as licensees is limited by the joint
+ownership of the brand granted by the license agreement, which does not mean the transfer of
+ownership interests in the brand. Brand ownership allows for the formation and development of
+a brand community, formalizing the participation of token owners in a global project.
+
+●
+
+In order to strengthen the emotional involvement of token holders in the community project it is
+planned to issue electronic certificates for co-owners of the brand. This authority does not
+provide for the payment of any income received by the platform from the monetisation of the
+brand and the revaluation of its value. Brand sharing power also does not entail any obligations
+of the platform to pay license fees to token holders, which eliminates the risk of token recognition
+as a security (based on the receipt of remuneration without the active participation of the token
+owner for this purpose).
+
+Token Circulation
+After the end of the closed investment round, the token will be available in the following ways:
+● Purchase on the exchange
+● Social Mining as a Remuneration for Sensorium Brand Promotion in Public Space
+● As a reward for content production
+The uniqueness of the Sensorium token release project is connected with the peculiarities of the placed
+token and the created ecosystem:
+● Connection of token with Sensorium brand
+● Active participation in brand development (partnership program to motivate users)
+All
+VR
+content
+purchase
+operations
+within
+the
+platform
+using
+SENSO tokens will give users a 20% discount on other payment methods (fiat, cryptocurrencies, etc.).
+
+Planned Distribution of Tokens
+
+18
+
+Reserve, 35%
+
+Distribution
+of tokens
+
+Sales, 65%
+
+Distribution of Funds of the Reserve Fund (269.2 million USD, or 35% of the Issuance):
+Direction
+
+%
+
+Volume, USD
+
+Advisory (operating)
+
+5%
+
+13.46 million
+
+Advisory (non-operating)
+
+2%
+
+5.38 million
+
+User loyalty program
+
+15%
+
+40.38 million
+
+Incentive program for working with partners and
+technological agents on the project
+
+12%
+
+32.3 million
+
+Team, developers and participants on the project
+
+7%
+
+18.84 million
+
+Maintaining the security and sustainability of the project
+
+47%
+
+126.52 million
+
+Formation and moderation of the ecosystem community
+
+12%
+
+32.3 million
+
+Total
+
+100%
+
+269.2 million
+
+The project initiators have established restrictions on the use of the fund's resources, which will be
+blocked for a period of 12 to 24 months. The reserve is a source for ensuring sustainable development of
+the project after the token placement period.
+A part of the fund's resources may also be allocated to non-operational and operational project advisers
+on a 12 to 24 month holding basis. A significant part of the fund's resources will be spent on implementing
+a loyalty program for media platform users and building and moderating the project's community
+ecosystem, including its components and business units.
+
+19
+
+The media platform model assumes that users owning tokens will be able to participate in the
+development of the Sensorium brand as brand development agents through partnership programs and
+other activities, thus increasing the value of the content created and ensuring the growth of the project
+brand value and its promotion. Brand development agents receive bonuses from SENSO for creation and
+distribution of branded content on social networks, in their own blogs and accounts, in personal messages
+and other ways that lead to increased brand awareness and popularity.
+
+20
+
+Distribution of Attracted Funds (500M USD, or 65% of the Issuance):
+
+Content Distribution
+Licenses, 5%
+
+Social
+mining, 3%
+
+Administrative
+expenses, 5%
+Content Creation, 33%
+
+Project Ecosystem
+Development, 7%
+
+Token Allocation
+Sensorium LAB
+Equipment, 16%
+
+Supply and Production
+of Venue Equipment,
+17%
+Marketing and
+advertising, 9%
+
+Development of the media
+platform services, 5%
+
+Planned use of raised funds
+
+Soft cap, USD
+
+Listed sales
+Hard cap, USD
+volume, USD
+
+%
+
+Content Creation
+in the Social VR format
+
+66 million
+
+99 million
+
+165 million
+
+33%
+
+Provision of all shooting areas with the
+relevant equipment in order to ensure the
+creation of the SVR content
+
+34 million
+
+51 million
+
+85 million
+
+17%
+
+Acquisition of shares in the authorized capital
+of technology partners
+
+10 million
+
+15 million
+
+25 million
+
+5%
+
+Marketing and advertising
+
+18 million
+
+27 million
+
+45 million
+
+9%
+
+Sensorium Lab equipment
+
+32 million
+
+48 million
+
+80 million
+
+16%
+
+Project Ecosystem Development
+
+14 million
+
+21 million
+
+35 million
+
+7%
+
+Administrative expenses
+
+10 million
+
+15 million
+
+25 million
+
+5%
+
+Content Distribution Licenses
+
+10 million
+
+15 million
+
+25 million
+
+5%
+
+Social mining
+
+6 million
+
+9 million
+
+15 million
+
+3%
+
+200 million
+
+300 million
+
+500 million
+
+100%
+
+Total
+
+21
+
+Initial Project Team
+For the purpose of investment attraction and token listing, Sensorium Corporation has formed a start-up
+project team. In the future, as necessary, its composition will be extended by managers and experts in
+the corresponding fields of the platform’s core activities.
+
+Beneficiary and Visionary
+Mikhail Prokhorov
+
+CEO
+
+Art Director
+Alexandra Tityanko
+Sensorium Moscow
+
+International Business Director
+Igor Goldman
+Sensorium Moscow
+
+Nikita Bokarev
+
+Digital Director, Head of IR
+Alexey Blagirev
+
+Dmitry Chirkin
+
+Sensorium Moscow
+
+Sensorium Moscow
+
+Vladimir Kedrinskiy
+Sensorium Moscow
+
+Marketing Director
+
+Brand Development Advisor
+Daniel Gomez Korf
+CCO Palladium Group, IBIZA
+
+Choreographic Content
+Formation Consultant
+Sergey Polunin
+President, Sergey Polunin Charity
+Foundation for Support and Development
+of Arts
+
+Legal Advisor
+Managing Partner
+White Stone
+
+Music Content Formation
+Consultant
+
+Adviser on Gameplay
+
+Yann Pissenem
+ССО Ushuaïa, Hï, IBIZA
+
+Blizzard Entertainment Digital
+Marketing Manager, Holland
+
+Labels and Musicians Liaising
+Consultant
+Brett Yormark
+
+Adviser on Social VR Technology
+
+Co-CEO ROC NATION UNIFIED
+
+David Mashashvili
+
+Laurent Scallie
+CEO, Redpill VR, USA
+
+Ex-CEO Barclays Center USA
+
+22
+
+Disclaimer
+•
+
+The information contained in this White Paper may not be exhaustive or definitive, nor is it legally
+binding or implying any element of a contractual relationship.
+
+•
+
+The information contained in this document is confidential and has been developed for internal
+discussion. The Authorized Recipient may not disclose or publish the information below or make
+it available to any third party.
+
+•
+
+Although Sensorium Corporation makes every reasonable effort to ensure the accuracy and
+currency of any material in this document, this material does not constitute professional advice.
+Sensorium Corporation does not warrant or accept any legal liability of any nature arising out of
+or related to the accuracy, reliability, currency or completeness of any material contained herein.
+
+•
+
+This document can not be the only source of information for the authorized recipient to make a
+decision to acquire rights in relation to SENSO cryptotokens and/or to invest in a project. The
+Authorized Recipient must conduct an independent study to the appropriate extent.
+
+•
+
+Sensorium Corporation does not recognize or intend to recognize SENSO cryptotokens as
+securities in any jurisdiction. SENSO cryptotokens will not be distributed or used in any country
+or jurisdiction where such transactions and/or use of cryptotokens is subject to restrictions,
+registration or licensing.
+
+•
+
+In this regard, if, in the event that an authorized recipient of information participates in a planned
+or ongoing SENSO cryptotokens investment promotion project, the authorized recipient agrees
+or may be recognized as securities in accordance with any applicable to the authorized recipient
+right, the authorized recipient undertakes to terminate his or her participation in the project in
+any form and to refuse to acquire and/or hold SENSO cryptotokens in any right in his or her own
+or any other person's interest, as well as to reimburse Sensorium Corporation for all and any
+property losses that may be incurred by Sensorium.
+
+•
+
+This document does not constitute a prospectus or offer, nor is it intended to serve as an offer of
+securities or a solicitation of investments in securities in any jurisdiction. Nothing herein shall be
+deemed to be any kind of advertising or marketing publication. or a solicitation of investment and
+shall not in any way be construed as an offer or invitation to purchase any securities in any
+jurisdiction.
+
+•
+
+The purpose of this document is only and exclusively to describe the project (technological
+solution) under development and its structure without expressing an opinion (or promise) on its
+feasibility, investment attractiveness and (or) demand. Sensorium Corporation does not
+guarantee that the developed product will meet the expectations of an authorized recipient.
+
+•
+
+This document is not fixed or final and may be changed by Sensorium Corporation at any time in
+its sole discretion without prior notice to any person. Sensorium Corporation may also cancel this
+document at any time by giving prior notice to the authorized recipient.
+
+•
+
+The data provided in this document is based on publicly available sources of information and does
+not constitute a separate study of Sensorium Corporation.
+
+•
+
+Sensorium Corporation does not provide any opinions, advice, estimates or advice regarding the
+acquisition, distribution or other operations with SENSO cryptotokens.
+
+•
+
+By executing any SENSO cryptotokens transactions and using the information provided herein,
+the authorized recipient assumes all associated risks.
+
+•
+
+Those who have access to this document use it at their own risk. In the absence of express written
+consent, no liability is accepted for any loss that may be incurred as a result of such use, including
+direct or indirect consequences.
+
+23
+
+•
+
+A number of provisions of this document may be recognized as forward-looking statements,
+which may be evidenced by such words as "expected," "believe," "plan," "anticipate," "may,"
+"anticipate," "anticipate," and other similar phrases and expressions. These forward-looking
+statements involve known and unknown risks, uncertainties and uncertainties that could cause
+actual results, performance or achievements to differ materially from those expressed or implied
+by these forward-looking statements. Sensorium Corporation assumes no obligation to update or
+revise such statements or any forward-looking statements. Sensorium Corporation assumes no
+responsibility for any losses of any kind that may be incurred as a result of any use of this
+document and its contents.
+
+•
+
+Sensorium Corporation has not performed any independent review of the document or covered
+issues.
+
+•
+
+This document does not oblige anybody to enter into any contracts, to take legal obligations in
+relation to the sale or purchase of SENSO cryptotokens, or to accept any cryptocurrency or other
+form of payment
+
+•
+
+This document may be translated into any of the languages of the world, but in any case, the
+English version of the document shall prevail.
+
+•
+
+This document is provided in electronic form. Sensorium Corporation reminds the authorized
+recipient that documents transmitted in electronic form may be changed in the course of such
+transfer, and Sensorium Corporation assumes no responsibility of any nature arising from or
+related to the difference between documents transmitted electronically and documents provided
+at the offices of Sensorium Corporation.
+
+•
+
+The Authorized Recipient has the right to ask questions and request the necessary data to enable
+the Authorized Recipient to make an informed decision regarding the project at
+info@sensoriumxr.com.
+
+Contacts:
+WEB: sensoriumxr.com
+E-mail: info@sensoriumxr.com
+
+24
+
+Annex 1
+
+Sensorium Galaxy Concept
+As space exploration progressed, new and increasingly distant galaxies and star systems opened up to
+human civilization. Suitable planets were gradually inhabited by people sent out to explore new
+territories. One such galaxy became known as Sensorium.
+Group of explorers consisting of top-notch experts and scientists was sent on a mission to organize
+Sensorium settlements. Minds were set on building a better world, one that would not be conditioned by
+earthly struggles and resource wars, one that would not limit the opportunities of its people. In the Earth
+history, the need to expand the means of stronger civilizations was met through expansion and
+appropriation of the resources of weaker nations, leading to conflicts and wars.
+Not wishing to repeat the mistakes of human civilization, the first Sensorium settlers built their societies
+on principles of justice, equality and opportunities for all, with total and ultimate refusal of violence.
+Peaceful developments in the new galaxy allowed settlers to build a social system based on a paradigm
+that excludes competition for resources. By applying best practices and technologies, the inhabitants of
+the new world have been able to gradually eliminate the need to obtain food and other resources
+necessary for life. The new paradigm was made possible by developments in fields of artificial intelligence
+and robotization, fully providing for the basic needs of population.
+Thanks to the principles of equality and peacefulness, the planets of Sensorium Galaxy have been declared
+open for visiting by representatives of other civilizations. People managed to establish communication
+with representatives of other worlds, allowing them to live in harmony, as well as to significantly enrich
+the technologies available to people.
+Losing the need for constant extraction of resources, settlers were able to focus on the search for other
+meanings of existence. United by values of humanism and self-improvement, people were able to devote
+their time and energy to scientific discoveries and research, to the creation of new works of art, as well
+as to the careful storage and transmission of all the best that mankind had created in the past to its
+descendants.
+Sensorium became the world where one could find true Meanings through comprehension: Beauty
+through Art; Goodness through Self-knowledge and Religion; Truth through Science.
+The galaxy and its planets were inhabited by representatives of all known civilizations, with each planet
+receiving its own concept of life.
+
+25
+
+Sensorium Galaxy is a trifecta of star systems rotating in a single cosmic rhythm around the center of the
+galaxy – Halo:
+— Entertainment Star (beauty)
+— Cognition Star
+— Experience Star
+Each of the stars, like our Sun, has its own satellites – the planets that accompany the star in its orbits.
+Each of the planets of star systems has its own unique world inhabited by intellectual races.
+Civilizations in each of the star systems differ in their development vectors:
+Entertainment star system civilization appreciates the beauty, uniqueness and identity. They are driven
+by emotions and the search for harmony with the cosmic rhythm above all.
+Cognition star system civilization knows the world through rituals and myths. They are looking for traces
+of the Creator of the Galaxy in themselves and around them, all while exploring the mysteries of existence.
+Experience star system civilization focus on the search for truth through science, the study of the world
+and its transformation through the proposal of new laws of existence.
+
+26
+
+Annex 2
+
+Sensorium Lab
+
+Sensorium Lab: Singularity Concept
+Sensorium Hall is expected to be equipped with special tech allowing 360° projection on the dome with
+the area of 4,500 square meters. It is planned to use the virtual worlds of Sensorium Galaxy, developed
+in the Social VR format for the Sensorium Galaxy media platform, as the content broadcast on the inner
+surface of the dome.
+Artist performances, whose images will be teleported into the space of virtual worlds, as well as the
+interaction of virtual characters involved in the event, will be watched by visitors of Sensorium Lab, who
+would be physically present in the space of the object.
+At the same time, any participant/participants of the real event will be able to immerse themselves in the
+virtual world by wearing a virtual reality helmet and interact with the virtual characters of the world of
+Sensorium Galaxy, moving inside it. Such an event participant, having teleported to the virtual world, will
+be able to carry out verbal and visual communication with the visitors of the real space of Sensorium Lab
+from the space of the virtual world.
+Remote users of Sensorium media platform within the framework of Social VR technology will also be able
+to take part in cross communication of characters of virtual and real worlds.
+Sensorium Lab develops AI technology for avatar control and management (verbal, visual, emotional
+contact and social interaction of avatars inhabiting virtual worlds with avatars of users).
+
+27
+
+Sensorium Lab: Designs of the Virtual Worlds
+
+Tropical Island
+
+Space
+
+Sea World
+
+Theatre World
+
+28
+
+Annex 3
+
+Alliance of Entertainment Partners of Sensorium
+Galaxy Media Platform
+Alliance starting lineup
+•
+
+Barclays Center, NY.
+
+•
+
+NYCB LIVE, NY.
+
+•
+
+Paramount Theatre, NY.
+
+•
+
+Webster Hall, NY.
+
+•
+
+Sensorium Hall Moscow.
+
+•
+
+Hï, Ibiza.
+
+•
+
+Ushuaïa, Ibiza.
+
+•
+
+Sagrado Corp (14 club/event locations).
+
+•
+
+Apenkooi Events (European festivals and electronic music formats: DGTL, Straf_werk,
+Amsterdam Open Air, Elrow Amsterdam, The Gardens of Babylon, Valhalla, Pleinvrees, By The
+Creek).
+
+•
+
+ELROW – Global music format, more than 130 events per year in 34 countries and 84 cities
+around the globe, up to 30,000 people, total number of visitors per year – more than 2 million
+people.
+
+•
+
+ID&T – Music festivals and electronic music formats: Tomorrowland, Sensation, Mysteryland,
+Trance Energy, Festival Macumba, Milkshake, Welcome to the Future, Thunderdome.
+
+•
+
+Sergey Polunin Charity Foundation for Support and Development of Arts.
+
+29
+
+Alliance starting lineup
+
+

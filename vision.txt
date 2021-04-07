@@ -1,0 +1,2594 @@
+Presearch.io
+
+1
+
+VISION PAPER
+
+Presearch is a community-powered, decentralized search engine that provides
+better results while protecting your privacy and rewarding you when you search.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+FOREWORD
+
+3
+
+1. EXECUTIVE SUMMARY
+
+6
+
+2. PRESEARCH BY THE NUMBERS
+
+8
+
+3. WHY PRESEARCH?
+
+9
+
+4. ABOUT PRESEARCH
+
+10
+
+5. PROJECT EVOLUTION
+
+14
+
+4.1
+4.2
+
+5.1
+
+Presearch Token (PRE)
+Organization
+
+Phase I: Launch & Establishing Product Market Fit
+
+11
+13
+
+14
+
+5.1.1
+
+Highlights
+
+5.1.2
+
+Learnings
+
+16
+
+5.1.3
+
+Changes
+
+16
+
+5.2
+
+14
+
+5.2.1
+
+Phase II: Sustainability + Decentralized Search Engine
+
+Integrated Search Experience
+
+17
+
+5.2.2
+
+Decentralized Nodes
+
+19
+
+5.2.3
+
+Closing the Loop on Tokenomics
+
+19
+
+5.3
+
+18
+
+5.3.1
+
+Phase III: Decentralized Governance
+
+The Presearch Foundation and Community Governance
+
+20
+
+5.3.2
+
+Community Constitution
+
+21
+
+5.3.3
+
+Community Consensus Model
+
+22
+
+5.3.4
+
+Active Presearch Community
+
+22
+
+6. CURRENT PRODUCT ECOSYSTEM
+6.1
+6.2
+
+Blockchain Token (PRE)
+Search Experience
+
+20
+
+23
+23
+24
+
+6.2.1
+
+Search Tool
+
+6.2.2
+
+Search Rewards
+
+25
+
+6.2.3
+
+Presearch Engine
+
+25
+
+6.3
+6.4
+6.5
+6.6
+6.7
+
+Advertising & Keyword Staking
+Marketplace
+Mobile Apps
+Browser Extensions
+Community Packages
+
+7. DECENTRALIZED SEARCH ENGINE
+7.1
+7.2
+
+Decentralized Search Architecture
+Node Operations
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+01
+
+24
+
+26
+28
+29
+30
+30
+
+31
+32
+33
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+7.3
+
+7.3.1
+
+Node Staking and Rewards
+
+Node Rewards
+
+34
+
+7.3.2
+
+Node Staking
+
+35
+
+34
+
+8. KEYWORD MARKETING PLATFORM
+
+38
+
+9. TOKENOMICS
+
+43
+
+10. PRODUCT ROADMAP
+
+53
+
+11. MARKETING PLAN
+
+56
+
+8.1
+8.2
+8.3
+8.4
+8.5
+8.6
+8.7
+
+9.1
+9.2
+9.3
+9.4
+9.5
+
+10.1
+10.2
+10.3
+
+11.1
+11.2
+
+Keyword Advertising: A $100 billion dollar opportunity
+Why is the opportunity so large?
+How traditional keyword ads work
+What Is Keyword Staking?
+How Presearch Keyword Staking ads work
+Free traffic until January 2021   
+Keyword ranking
+
+Accounting and Value Transfer
+Token Utility
+Token Value Drivers
+Increasing Active Users and Searches
+Supply and Demand Value Cycle
+
+Roadmap through End of 2020
+Roadmap for 2021
+Future Opportunities
+
+Improving the User Experience
+Growth Campaigns
+
+11.2.1
+
+Increase Searches
+
+11.2.3
+
+Increase Number of Advertisers
+
+11.3
+
+38
+38
+39
+40
+40
+41
+42
+
+43
+44
+47
+49
+51
+
+53
+54
+55
+
+56
+57
+
+57
+58
+
+11.3.1
+
+Improved Distribution
+
+Securing Pre-installations of Presearch
+
+59
+
+11.3.2
+
+Securing New Venues for PRE
+
+59
+
+59
+
+12. CLIENTS & PARTNERS
+
+60
+
+13. TEAM		
+
+61
+
+14. CONTACT INFORMATION
+
+63
+
+15. CHANGELOG
+
+64
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+02
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+03
+
+Foreword
+From the CEO:
+As many of you know, Presearch is my baby.
+But when I wrote the first white paper three years ago in a single, crazy week, I had no idea that the project
+would explode as it has, and that the next draft of the white paper would involve a team of people, months of
+preparation, and a huge expansion and improvement of the initial Presearch ideas.
+What you have here is the result: the Presearch Vision Paper. It summarizes where Presearch is today – which shows
+how far the project has come – but more importantly, it shows where the project is headed in the short-, mid- and
+long-term, with solid dates and deliverables.
+The next big innovation (following on the heels of staking earlier this year) is search nodes. They’re explained in
+detail in this Vision Paper. I really believe that these nodes will put Presearch into the ranks of the best blockchain
+projects out there and provide Presearchers with a search experience they love.
+I’m looking forward to feedback, ideas, as well as thoughtful critiques from the community. You have been
+instrumental in the success of Presearch so far. Thanks to all who participate and contribute.
+
+Colin Pape
+Colin Pape
+CEO, Presearch
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+04
+
+From the CTO:
+I’ve spent most of my career building search engines and, in the summer of 2017, Colin and I met for the first time to
+begin discussing how we could potentially build out a blockchain-based, decentralized web search engine powered
+by the community.
+We knew we wanted to work together on this massive and likely world-changing effort, and I became a founding
+member of Presearch’s Advisory Board in July of 2017, helping Colin form initial vision for the project and also
+helping Presearch navigate many opportunities and obstacles behind the scenes over the last three years.
+While we had discussed me coming onboard multiple times throughout the project’s evolution, the timing is now
+finally right, and I am extremely excited to be officially here in my new role as Presearch’s Chief Technology Officer.
+The project and the team are set to expand and thrive like never before. Even though Presearch is already one of the
+top 5 projects in the blockchain space by web traffic, it is not actually that well known… yet.
+With our recent developments and those you’ll see right around the corner, that is about to change.
+We have a very long-term, ambitious vision and I truly believe we can revolutionize the way the world thinks about
+what a search engine can be and who it should benefit. We’re excited to share much of that vision with you in this
+new Vision Paper, and we look forward to all your amazing feedback.
+
+Trey Grainger
+Trey Grainger
+CTO, Presearch
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+05
+
+From the Chairman of the Advisory Board:
+Little did I know when, over three years ago, CNBC asked me to recommend three crypto projects for investors,
+where the path would lead. I was a complete outsider to the project, but liked what I had read and heard, so I
+included Presearch in the list as the “small project” recommendation.
+Colin then reached out to me and, lo and behold, I’m now the longest-serving Presearch advisor (tied with Trey)!
+And proud to be here and to have contributed what I could to this amazing Vision Paper. It is light years ahead of the
+first, much more conceptual white paper (which makes perfect sense) and provides a clear roadmap for immediate,
+eventual, and longer-term developments in the project.
+More importantly, over the past three-plus years the team has expanded, become more professional and the
+project has evolved. The foundation has now been laid for the project to grow exponentially – and the team has the
+execution skills to make that happen.
+After all, execution is everything!
+
+Tim Enneking
+Tim Enneking
+Chairman of the Advisory Board, Presearch
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+06
+
+1. Executive Summary
+This is the Presearch Vision Paper, the next evolution of the project white paper. It describes why alternative
+search engines are important and explains in detail what the Presearch project has already accomplished, as
+well as how it is evolving in specific, concrete terms, and with a timeline for execution.
+It has been written by Presearch.org Global Limited.
+Presearch operates a search engine that already has more than 1.5 million users, making it one of the largest
+crypto and blockchain projects in the world. Its users conduct over 10 million searches a month. You can find the
+search engine here: https://presearch.org
+Presearch.org, the website, has an estimated value of over $30 million USD based on current traffic alone.
+The project is viable, self-sustaining, and set to explode in terms of function, quality of user experience, reach,
+and the number of users and searches. This Vision Paper explains how and why that will happen.
+Why do people use Presearch?
+There are three main Unique Value Propositions (UVPs) which explain why. There are several secondary UVPs
+that certain users also find very attractive.
+1. User control over data and privacy
+2. Payment for contributing value to the ecosystem
+3. Decentralization of the search ecosystem
+We all search constantly, and as we do, we may not realize the degree to which every search discloses
+information about us – information which, once disclosed, we can no longer control or even monitor. Presearch
+eliminates that loss of privacy by giving the user full control to restrict what, if any, of their information is
+disclosed or maintained (with full privacy as the default).
+With traditional search engines, not only do we often lose control of information about ourselves, we allow
+others to monetize that information for their own benefit. Presearch changes that equation and enables users
+to monetize their own actions: searches generate tokens for the searching user, whether or not any personal
+information is disclosed. After all, search queries are valuable, even when no personal data is shared.
+But even further, with traditional search engines, the monetization process itself results in our data being sliced
+and diced and distributed onward to other parties, unknown to us and well beyond our control.
+Why are we not paid for the valuable data we generate by conducting searches? Why do we lose all control over
+our own data, which we generate ourselves?
+The first problem is, in some ways, the easiest to solve. Presearch pays its users when they search using the
+Presearch engine. Although, as you can imagine, the implementation of that process poses certain challenges,
+conceptually, the concept is easy to grasp.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+07
+
+Controlling data is more complex. Among the many ways Presearch achieves this greater control is through both
+its structure and decentralization. Presearch is designed to ultimately be owned and controlled by a non-profit
+foundation. Thus, the usual, often harmful motivations of for-profit corporations are absent. As a result, the value
+of the project is driven into the tokens owned by the community, creating a level playing field for all.
+Beyond its structure, Presearch has been conceived from the very origin of the project to be decentralized to the
+maximum extent possible. While the project is too complex to be totally decentralized from day one, a detailed
+roadmap with specific milestones has been developed to achieve that end. You will find that roadmap in Section
+10. By definition, this decentralization puts far more control into the hands of users and the community than
+exists in other search engines today. The details of the evolution of the project appear through this Vision Paper
+because decentralization is in Presearch’s DNA. However, the most complete discussion can probably be found
+in Section 5.3.
+Some of the secondary, but still very important, UVPs which are discussed in depth throughout the Vision Paper
+include: search quality, keyword staking, advertising, and control over search parameters and engines.
+The technology behind Presearch is sometimes straightforward and sometimes complex. It is described in detail
+in this Vision Paper. The paper provides a product roadmap, presents marketing strategy, describes tokenomics,
+addresses governance, explores the amazing Presearch community, outlines the ecosystem and, in general,
+covers all of the major aspects of Presearch, from the marketplace and browser extensions to mobile apps and
+search architecture.
+The Presearch team is grateful for your support, and we hope you find both this Vision Paper informative and the
+project beneficial.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+08
+
+2. Presearch By The Numbers
+
+1.5M
+
+Registered Users
+
+7,700
+
+Telegram Members
+
+9,900
+
+YouTube Subscribers
+
+10M
+
+Visits per
+month.
+
+65M
+
+Total PRE
+Staked
+
+Registered Users
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+09
+
+3. Why Presearch?
+Search engines are incredibly valuable and influential resources.
+They act as gateways to almost everything the internet has to offer, particularly when you have a specific
+requirement and are not completely familiar with the topic being researched.
+Users are probably at their most vulnerable with search engines. These programs have become universal
+assistants, and even confidants, and they are the most ubiquitous tool of the internet – everyone searches.
+That is why Presearch is in such an interesting and strong position – Presearch continues to be the top search
+engine in the blockchain space with more than 10 million searches per month.
+With so much usage, and with search being such a constant activity for everyone, including non-technical users,
+Presearch is poised to become the top crypto onramp that introduces millions to blockchain technology.
+From that unique position, Presearch can have an outsized impact within the cryptocurrency space on the path to
+mainstream adoption that stretches well beyond the confines of blockchain enthusiasts.
+Search is the gateway to the web. The world deserves an alternative search engine that is open, transparent, and
+involves the community in product development, consensus and quality control.
+Presearch is building a sustainable decentralized search platform that represents the interests of the community,
+will be open source and transparent, and uses blockchain technology to align all stakeholders across a single unit
+of value: the Presearch Token (PRE).
+Presearch’s innovative use of staking, specifically within the Keyword Staking platform, is enabling value to be
+discovered in ways that just were not possible before. The project is pioneering an entirely new way to launch
+token-based ecosystems that will have a lasting impact on token values and adoption curves.
+By switching to Presearch, you help support the decentralization movement, putting power back in the hands of
+the people, and you benefit from a better search experience while earning valuable rewards for using Presearch
+and helping to grow the community.
+More than 1.5 million people have already registered to use Presearch and are helping Presearch build a better
+search engine. It would be wonderful if you could join Presearch, too.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+10
+
+4. About Presearch
+Presearch is a community-powered, decentralized search engine that provides better results while protecting your
+privacy and rewarding you when you search.
+COMMUNITY-POWERED
+Community members can actively participate in the project using Presearch community chat groups, contributing
+open source packages to our source code repository, or simply as users or promoters helping build usage and
+awareness.
+DECENTRALIZED
+Presearch is now preparing to release its first decentralized technology – a new search engine experience that runs
+on node servers operated by Presearch community members.
+BETTER RESULTS
+The new Presearch engine offers results that are as good as the world’s top search engines. It also provides an
+additional layer of data through community packages which makes those results even better. For example, you
+can search Presearch for “Bitcoin” to see what the crypto package looks like. Over time, there will be additional
+results provided by a user-curated supplementary index.
+PRIVACY
+In addition to better results, Presearch also protects your privacy because it does not store any personal information
+by default, and queries are handled by a decentralized network of nodes running open source software.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+11
+
+REWARDS
+As a Presearch community member, you will earn Presearch reward tokens when you search, when you operate a
+node, and when you refer others to join Presearch. There will be other opportunities to earn rewards as the project
+evolves further, outlined later in the Tokenomics section.
+ADVERTISING
+In addition to offering users a great search experience, Presearch is dedicated to creating significant value for
+marketers who would like to reach Presearchers. Advertisers can stake their PRE to a keyword, and whichever
+advertiser stakes the most tokens will have its ads displayed when a user searches on the term selected.
+Advertisers confer the most external value on PRE, so their success is very important to the ecosystem.
+
+4.1 Presearch Token (PRE)
+Presearch tokens are the unit of account within the Presearch ecosystem, representing rewards earned, advertising
+purchased or staked, and, in general, value created.
+
+65M
+150M
+
+There will never be more than 500 million PRE1, with
+approximately 400 million already minted into existence.
+PRE tokens are hosted on the Ethereum platform
+as standard ERC20 blockchain tokens.
+
+285M
+
+This means that PRE are transferable to any Ethereumcompatible wallet that recognizes ERC20 tokens. Token
+holders are able to sell their PRE directly to any business
+or individual interested in generating Presearch results at
+whatever price the seller is able to obtain for their token
+inventory.
+
+CIRCULATING
+RESERVED
+STAKED
+
+1
+
+The total supply was originally 1 billion PRE; 50% of supply was cancelled / burned in April 2020.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+12
+
+Any person or company with a product to sell is a potential customer for Presearch tokens -- in particular, local
+businesses, advertising and marketing firms, or large brands. The tokens can then be converted to be used to
+purchase advertising on the platform.
+Presearch is developing a training program and supporting sales collateral to help sellers obtain top dollar for
+their PRE, and will also link sellers to best practices for proper invoicing, taxation and reporting for their PRE sales
+to assist them with their PRE inventory. Ultimately, it is up to the seller to ensure they remain compliant with all
+local regulations, but Presearch would like to help sellers to stay in compliance.
+Presearch views this opportunity as very similar to the multi-billion-dollar Google adwords industry, and plans to
+create a certification program and a directory of certified partners.
+Alternatively, token holders may use an external exchange to buy from or sell to other token holders.
+
+CORE PROPERTIES
+Name:
+
+Presearch Tokens (PRE)
+
+Internal Standard:
+
+PRE Credit
+
+External Standard:
+
+PRE Ethereum ERC20 Token
+
+Internal to External:
+
+1:1
+
+Max Supply:
+
+500,000,000
+
+Contract Address:
+
+0xec213f83defb583af3a000b1c0ada660b1902a0f
+
+A list of wallet addresses and smart contract info can be found here:
+https://etherscan.io/token/0xEC213F83defB583af3A000B1c0ada660b1902A0F#balances
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+13
+
+4.2 Organization
+Presearch is a multi-phase project:
+Phase I - Launch & Establishing Product-Market Fit
+Phase II - Sustainability & Decentralizing Search
+Phase III - Decentralizing Governance
+Ultimately the community will control the Presearch platform; consequently, the community should have a voice
+in the actual legal structure of the project. As such, a temporary corporation has been created as the initial legal
+custodian to launch the project; ultimately, Presearch will evolve into a community-owned and controlled project
+supported by a non-profit foundation.
+Therefore, the current structure of the company is described below, along with the probable path for the
+community to consider as the final structure.
+PHASES I TO II:
+1. The legal entity is a Canadian corporation, Presearch.org Global Limited., which was incorporated on July
+7th, 2017 and is located at 270 King Street in Midland, Ontario, Canada.
+2. There is a single shareholder group for easy voting and transition to Phase III. This structure will continue
+until the project is financially sustainable.
+TRANSITION TO PHASE III:
+1. Complete all steps necessary to ensure a clean and timely transition to Phase III, in accordance with the
+following guiding principles:
+a. No accumulation of significant debt or long-term liabilities;
+b. Single shareholder group to ensure total responsibility for project; and,
+c. No assignment of IP to any other entity.
+2. Presearch covers its operational costs via advertising revenue as well as revenue generated from ongoing
+token sales through the Presearch Marketplace.
+PHASE III:
+The creation of the Presearch Foundation to be operated as a Decentralized Autonomous Organization or DAO.
+1. Establishment of the DAO community charter, directors and governance / consensus model.
+2. Establishment of a permanent Foundation in a country and region with the utmost respect for privacy and
+data integrity, with a favorable tax and regulatory environment, and a stable and freedom-respecting
+political climate.
+3. Foundation to hold all inventory of minted PRE held in trust.
+4. This foundation will operate from a portion of the revenue generated by the sale of advertising
+and the sale or resale of PRE from inventory.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+14
+
+5. Project Evolution
+5.1 Phase I: Launch & Establishing Product Market Fit
+Presearch launched in June, 2017.
+In the three years since, Presearch has accomplished a lot and become one of the leading projects in the entire
+blockchain space, with top 5 traffic results and more than 1.5 million registered users.
+As Presearch heads into Phase II of the project and prepares to launch the Presearch decentralized search engine,
+it is timely to recap Presearch’s progress in Phase I.
+
+5.1.1 Highlights
+
+Presearch launched a working platform before the token was available for distribution and before the crowd sale
+was completed. The referral program significantly exceeded expectations and Presearch hit its initial annual target
+for beta testers within the first month.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+15
+
+2018 was a challenging year: first there was the crypto crash and ensuing “crypto winter”, which slowed the project
+and impacted reserves as Presearch held mainly crypto. Then, after launching to the public, there was a swarm
+of token farmers that had to be protected against, which took a lot of focus as Presearch needed to build out its
+abuse detection system. However, the team pushed through and came out even stronger in 2019 with more than
+1M registered users.
+
+2019 was challenging, as well, but Presearch made solid progress on the advertising offering, mainly
+discovering product / market fit. These realizations led to Keyword Staking in 2020, which has already
+proven to be a great success.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+16
+
+While there have certainly been some hard lessons learned over the past three years, Presearch is proud of
+all that it has accomplished, including creating one of the top blockchain projects by usage, attracting some
+great partners and team members, and creating some real innovation with keyword staking and the upcoming
+decentralized search platform.
+
+5.1.2 Learnings
+• In the early days of price discovery, people do not want to spend tokens on the consumptive
+expenses of a traditional advertising model.
+• Having a token supply which is too large, coupled with a drastic decline in market capitalization across
+the larger cryptocurrency market, caused PRE value to become decoupled from project value.
+• When Presearch incentivized search traffic with rewards, some people unfortunately chose to abuse
+the system.
+• Paying rewards for searches that are not ultimately tied to any value received by Presearch for those
+searches is not a sustainable model.
+
+5.1.3 Changes
+• Pivoted from a consumptive CPM model to a keyword-staking model that still enables advertisers to
+assign value to an ad spot.
+• Burned 500M PRE from the maximum supply, forcing the project to run leaner and focus even more
+on achieving positive tokenomics.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+17
+
+Token Burn (1B to 500M)
+De
+
+Value of PRE
+
+m
+
+an
+
+d
+
+Supply (500M)
+
+S2
+
+Supply 1B)
+
+PRE Value
+Increases
+as Supply
+Decreases
+S1
+
+Burning 500M PRE from the
+maximum supply forced the project
+to run leaner and focus even more
+on achieving positive tokenomics.
+
+Quantity of PRE
+
+• Built a Rewards Verification System (RVS) to detect abnormal search activity designed to generate
+token reward payouts and limit similar fraudulent activity.
+• Presearch is building out its own search engine and will soon transition rewards to be based upon
+the aggregate value of searches (ad views, clicks, etc.) going forward as opposed to a “fixed” reward
+applied to all searches.
+In summary, Phase I focused on launching Presearch, growing the user community and traffic by providing a better,
+incentivized search experience, and creating a unique Presearch advertising model based upon keyword staking.
+July 2020 marks the end of Phase I and transition into Phase II.
+
+5.2 Phase II: Sustainability + Decentralized Search Engine
+Presearch is currently entering Phase II of the project (July 2020), which will focus upon sustainability, tokenomics,
+and the buildout of the Presearch Decentralized Search Engine. Phase I allowed Presearch to run many
+experiments and learn what users value in their search experience, the dynamics around supply and demand for
+PRE, and how Presearch must evolve to meet growing demand and create a sustainable model that optimally
+balances both the growth of the platform and the best interests of the community.
+Phase II transitions from a “search tool with static rewards that sends you to other search engines” to an actual
+decentralized web search engine with sustainable tokenomics. This means that Presearch is delivering a worldclass search experience that rewards user searches based upon the actual value those searches generate in
+advertising revenue, and that incoming advertising revenue will need to cover multiple different kinds of rewards
+(search rewards, rewards for running nodes, rewards for code and other platform improvements, etc.).
+Presearch will accomplish this goal by rolling out an integrated search experience, decentralizing the platform,
+and ultimately closing the loop on tokenomics.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+18
+
+5.2.1 Integrated Search Experience
+In addition to the search providers bar, which enables users to search across their favorite external search engines,
+Presearch currently has several internal beta search engine experiences available within the platform. In Phase II,
+Presearch is integrating all of these experiences together into a unified search experience, which emphasizes:
+1) Using the Presearch search engine as the default, rather than external search engines.
+2) Integrating the search provider bar conveniently in the search results page to make switching to other
+providers easy if the Presearch results are missing the expected result.
+3) Rewarding searches to the Presearch search engine instead of incentivizing usage of external engines.
+It does not make sense for Presearch to pay out rewards for searches to external search engines for which
+the Presearch network receives no value.
+These changes drive value into the Presearch project by having more users leverage the Presearch search results,
+increasing advertising revenue, and tying PRE rewards to actual value (searches and ad views within the Presearch
+platform) instead of paying to divert traffic to other sites. Ultimately, this makes the Presearch platform more
+financially sustainable, increases investment in the decentralized search platform and the quality of search results,
+and makes the entire search experience more integrated and compelling.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+19
+
+5.2.2 Decentralized Nodes
+While Phase I focused on establishing product-market fit, it did so with a centralized technology platform using
+third-party APIs. The promise of the project has always been to build a decentralized search engine. Phase II will
+introduce the first component of this decentralization process, Presearch nodes.
+Anyone will be able to download and run the software for a node, and will thus be able to help power the
+decentralized Presearch Search Engine. A beta version of the node software will be released in September 2020,
+with a production launch in Q4 2020.
+
+5.2.3 Closing the Loop on Tokenomics
+After the cryptocurrency market underwent a severe downturn in 2018, almost every project suffered financial
+setbacks, and, as a result, many failed entirely. Presearch weathered the storm and is now one of the top 5 mostvisited websites in the blockchain space, although, at the time of writing, this does not appear to be reflected
+in the value of the token due to a number of factors, including the need for the project to sell some of its token
+inventory to advertisers and resellers.
+
+One of Presearch’s primary goals in Phase II is to ensure that it closes the loop on tokenomics - ensuring that the
+value of the token is clearly established by the utility it provides within the Presearch ecosystem. The biggest single
+use case for the token entering Phase II is its use in Keyword Staking - allowing advertisers to target specific search
+keywords and to win the top ad spot if they place the highest bid. This feature alone has led to more than 65
+Million Presearch tokens being staked since Keyword Staking launched at the end of January, 2020.
+With the launch of nodes will also come Node Staking, which will require node operators to stake PRE to
+participate in the network and be paid for running the node software that will provide decentralized search results.
+Additionally, once Presearch launches the new Integrated Search Experience, it expects net cash flows from
+advertising revenue to increase, enabling it to eventually become a net purchaser of PRE.
+Presearch currently has 10 different active use cases for PRE, with an additional 15 planned during Phase II. Please
+see the Tokenomics section for specific details on all of these, but, needless to say, Presearch is heavily focused on
+ensuring that the full utility of the token is achieved as Presearch closes the loop on these tokenomics.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+20
+
+5.3 Phase III: Decentralized Governance
+When Presearch exits Phase II, it will be a fully self-sustaining and rapidly growing business where every
+community member receives value out of the Presearch network directly relative to the value they put in, and
+where every additional active user helps grow the value of the network for all.
+Presearch will also run a decentralized and open source platform at that point, enabling anyone in the world to
+contribute and be rewarded for their contributions.
+Once Presearch achieves this sustainability, Phase III targets an entirely new goal: decentralization of
+governance. In short, this means that instead of Presearch being the key driver of decisions for the project, it will
+enable the community to take over nearly all aspects of governance for Presearch. This is no small feat, and the
+Presearch software itself will need to enable this through a democratic process tied to community members and
+PRE token holders.
+Since Presearch tokens are given to anyone who runs a search, Presearch could easily enable a democratic voting
+process among all community members (one vote per member holding any PRE), and Presearch can likewise
+enable voting among all PRE holders based upon the number of PRE they hold. If all votes required both a
+majority of members (one vote per PRE holder) and a majority of PRE staked (one vote per PRE token), the voting
+system could always balance the needs of users versus the needs of token holders.
+This is one of many governance models Presearch will explore, and it provides a good general example of how
+decisions could be made in a decentralized governance model. Thankfully, several other projects are testing these
+kinds of decentralized governance models already, and Presearch expects to fully leverage learnings from those
+experiences as it rolls out its own model.
+
+5.3.1 The Presearch Foundation and Community Governance
+Since Presearch launched in 2017, it has always had the goal of eventually establishing a non-profit foundation
+to carry Presearch forward. In the original Presearch roadmap, Presearch intended to establish the Presearch
+Foundation sooner and to begin decentralizing community governance much earlier in the life of the project.
+The team learned, however, that some of these goals are hard to achieve, and that they can actually undermine a
+project if not done well - as demonstrated by large crypto projects like Tezos and EOS that made early decisions
+focused on organizational structure (Tezos) and decentralized governance (EOS) that ultimately led to wellpublicized issues.
+While Presearch is fully committed to establishing both a non-profit foundation and a decentralized governance
+model, it has chosen to delay the execution of both of these goals until:
+1) Presearch is fully sustainable on its own from a tokenomics standpoint and a foundation can take over the
+operation of the platform without being dependent upon outside funding, and
+2) Suitable decentralized governance models have been proven successful by other projects.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+21
+
+The Presearch Foundation will be established once sustainable tokenomics are achieved and the decentralized
+search engine is released, with the decentralized governance model following and leveraging a phased rollout.
+The goal is to take the utmost care to ensure the long-term success of Presearch.
+It is possible that even the Presearch Foundation may eventually be replaced if the governance model can be
+fully decentralized, but until such time as that may occur, the foundation would be responsible for safeguarding
+the Presearch mission to provide an open, decentralized and community-driven search engine that respects user
+privacy and rewards users for the value they provide to the world.
+
+5.3.2 Community Constitution
+The constitution is a work in progress, and at the time of writing remains only loosely defined.
+Presearch continues to be inspired by blekko’s Web Search Bill of Rights2 and its core tenets:
+1)
+
+Search shall be open.
+
+3)
+
+Ranking data shall not be kept secret.
+
+2)
+4)
+5)
+6)
+7)
+8)
+9)
+
+Search results shall involve people.
+
+Web data shall be readily available.
+
+There is no one-size-fits-all for search.
+Advanced search shall be accessible.
+
+Search engine tools shall be open to all.
+
+Search and community go hand-in-hand.
+Spam does not belong in search results.
+
+10) Privacy of searchers shall not be violated.
+Please feel free to provide your insights on how to refine and improve the Presearch community constitution.
+
+2
+
+https://web.archive.org/web/20121107201910/http://help.blekko.com/index.php/what-is-blekko/
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+22
+
+5.3.3 Community Consensus Model
+The community consensus model will be the key to empowering Presearch members and stakeholders to build
+the platform, believe in the model, and spread the word to their networks.
+It really is the protective shield within which all other aspects are housed.
+Because of its critical role in protecting the Presearch vision, it is extremely important that Presearch get the
+consensus model right.
+Key considerations include, but are not limited to the following:
+1) Maximizing engagement and participation.
+2) Minimizing centralization of power.
+3) Providing a framework for rapid progress and iteration.
+4) Ensuring that the long-term vision cannot be easily corrupted.
+5) Creating mechanisms with which to continuously evaluate change and course-correct when necessary.
+6) Ensuring that the wisdom of the crowd does not become the tyranny of the majority.
+7) Ensuring the interests of all members are protected and accommodated at the same time.
+Presearch recognizes that this is no small feat, simply from a philosophical standpoint, let alone from a practical
+and programmatic one. However,once Presearch figures it out, the applications will be vast.
+
+5.3.4 Active Presearch Community
+Presearch has a very engaged, global community comprising over 1.5 million members and hundreds of
+thousands of active member users. These member users are active in that they search regularly, send emails to
+Presearch support, post on the Presearch Facebook channel and interact on the Community Telegram chat with
+feature suggestions, bug fixes, and referrals. Collectively, they vastly improve the user experience and contribute
+to build the future of search as they see it.
+Therefore, the development process has to be an iterative one. Presearch has taken the most popular suggestions,
+developed base technologies, and released them into open beta for the community to use, bend, break, and
+ultimately come up with suggested fixes.
+Community-driven features that have been released or are in development include:
+1)
+
+Presearch referral program designed to encourage people who use a particular search engine
+to break their habit and become active users of Presearch.
+
+2)
+
+Browser extension to enable searching Presearch from the web browser URL bar for a better user 		
+experience.
+
+3)
+
+Mobile Search Tool App that provides better access and encourages active usage.
+
+4)
+
+Anti-abuse measures to prevent scammers from drawing down the supply of reward tokens.
+
+5)
+
+Community Search Packages - particularly the crypto package that is used heavily.
+
+Presearch will do its best to remain open and transparent with its community with ongoing progress and release
+expectations for each iteration of development.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+23
+
+6. Current Product Ecosystem
+Presearch has become one of the biggest projects in the blockchain space by taking a pragmatic approach and
+focusing on users over pure technology, enabling community input and user needs to be the key drivers of the
+technology evolution.
+The Presearch platform currently consists of the following components and experiences:
+
+6.1 Blockchain Token (PRE)
+Using the Ethereum blockchain, Presearch has its own PRE token that operates on an open, transparent
+and decentralized ledger.
+
+This means that anyone can use an Ethereum blockchain explorer to see the details of our smart contract, and can
+take personal possession of their tokens and store them in secure external wallets.
+The value of a PRE is fluid. It moves with the supply and demand forces generated by the platform (rewards
+and token inventory sold to advertisers = supply; advertiser purchases and speculators with more liquid
+currencies = demand).
+PRE tokens can be purchased directly from the project via https://marketplace.presearch.org or within a number
+of digital marketplaces, such as KuCoin and Probit.
+By default, tokens are held in each user’s internal wallet, which is accessible under the My Account section of the
+Presearch platform.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+24
+
+6.2 Search Experience
+The Presearch experience has a number of different facets which are being streamlined as Presearch prepares to
+release the initial version of the Presearch decentralized search experience.
+
+6.2.1 Search Tool
+The http://presearch.org search tool enables users to customize their Presearch experience, from their settings
+and colors to their chosen search providers.
+
+As Presearch aims to offer users more choice and more control over their search experience, it wants to make it
+easy for users to direct their searches to their selected provider. Users simply enter a search term into the search
+field and choose the logo of the service they would like to use for the search. When they search on the default
+Presearch engine, they receive a reward, and their balance increases as they are redirected to the next destination
+in pursuit of further information.
+There are more than 100 different search engine providers available to choose from, including general search
+engines like Google and DuckDuckGo, media search engines like YouTube and Facebook, and specialized search
+engines like Etherscan.io and Github.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+25
+
+6.2.2 Search Rewards
+Search rewards in the form of PRE are provided to users who search through https://www.presearch.org, either by
+setting Presearch as their browser’s home page and using the search field, or by searching through the browser’s
+URL/search field using the Presearch browser extension.
+This system currently provides searchers with the opportunity to earn up to 8
+PRE per day at a rate of 0.25 PRE per search, with reward amounts set to adjust
+automatically based upon platform tokenomics (supply and demand) in Q4
+2020. The daily maximum may ultimately be increased, or even eliminated.
+Earned reward tokens are held in a user account, where they accumulate until
+the number of eligible tokens exceeds the minimum withdrawal threshold,
+currently set at 1,000.
+Eligible tokens are calculated by multiplying the total number of tokens earned by the percentage assigned to the
+user’s PRE verification level.
+For complete details on the Presearch Rewards Verification System, please see: https://medium.com/@presearch/
+how-do-rewards-work-73a545ceae60
+
+6.2.3 Presearch Engine
+The Presearch Engine can be found at https://engine.presearch.org.
+This is where the decentralized search engine Presearch is building will soon be housed. In the interim, since
+June 2018, the Presearch Engine experience has been powered by APIs, providing users with a private search
+experience that integrates Presearch Community Packages with traditional search results to form a high-quality
+search experience in which Presearch ads can be displayed.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+26
+
+6.3 Advertising & Keyword Staking
+The Presearch Keyword Staking platform can be found at https://keywords.presearch.org.
+Keyword Staking is a revolutionary new concept pioneered by Presearch as it builds the world’s first decentralized
+search engine ecosystem.
+Keyword Staking enables token holders to commit or “stake” their PRE against specific words and multi-word terms.
+With Presearch Keyword Staking you choose a keyword (e.g., Bitcoin) and then stake PRE that you have purchased
+or earned against that term. You can then create an ad that you link to the website of your choice.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+27
+
+While tokens are staked, you continue to own and control your PRE, but you cannot use them to stake toward
+other words and you cannot remove them from the Presearch platform. While they are staked they are
+effectively locked up.
+You can unlock or unstake PRE at any time to withdraw them to the blockchain or sell them, but then your
+associated ads will no longer show.
+Presearch ads using the staked terms are simple text ads that show up next to the search results in the Presearch Engine.
+
+It is likely that these ads will be embeddable in other relevant web properties at some point in the future as
+Presearch builds out a PRE-denominated ad network.
+The ranking factors associated with Keyword Staking may change over time; the current iteration of the platform
+works as follows:
+• A user types in a keyword or key phrase, for example, “tesla model 3”
+
+• The ad server will look to find any ads where the advertiser has used the exact term “tesla model 3”
+as the trigger keyword.
+• It will then look to see how many PRE are staked or locked to the keyword, and whichever advertiser
+has staked the most PRE will have its ad displayed.
+• If there are no matches for the exact term “tesla model 3” it will break the phrase down into individual
+terms. In this case, it will find ads with the keyword “tesla” or “model” or “3” and will pick whichever ad
+has the most PRE staked to it and display that ad.
+It is a fairly simple system to start with. Because of that, it provides many opportunities to capture qualified
+search traffic at little or no cost.
+There is currently no consumptive charge for this traffic and exposure, but that will change in 2021. There are a
+number of options ranging from flat-rate to auction-based pricing, including cost-per-click, cost-per-view, and
+cost-per-action options that Presearch continues to evaluate.
+The value provided by these ads will be a primary driver of revenue to fund the operation of the project as well
+as provide user rewards. As a result, it is critical for Presearch to continually test and improve the ad experience.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+28
+
+6.4 Marketplace
+The Presearch Marketplace platform can be found at https://marketplace.presearch.org.
+Presearch tokens can be purchased directly from the project on this marketplace.
+
+The supply of PRE is limited to unsold inventory, as well as any PRE inventory that the project purchases on
+secondary markets such as KuCoin, Probit or directly from token holders.
+There is a minimum and maximum number of PRE that can be purchased in a single transaction (currently 1,000 100,000), and the price is adjusted every 10 minutes to reflect a variable premium over the current price as listed
+on https://www.coingecko.com/en/coins/presearch.
+Payments can be made in Bitcoin, Ethereum, or USD (by wire transfer).
+PRE purchased through the marketplace are immediately available for staking.
+There are plans to enable sellers to list their PRE for sale on the platform, but this feature is still in
+a development phase.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+29
+
+6.5 Mobile Apps
+Presearch’s mobile apps can be found at https://presearch.org/apps.
+Presearch recently introduced renewed versions for Presearch’s mobile apps that are available for both iOS
+and Android.
+
+Web browsers like Safari and Brave do not enable their users to select a custom search engine as their default
+– they only provide a handful of options (Google, Yahoo, Bing, DuckDuckGo, Ask, Startpage, and Qwant), and
+Presearch needed an easy way to allow users to search.
+The Presearch mobile app enables users to have Presearch as their default search engine on their mobile device,
+allowing them to search (and earn rewards) at any time, anywhere.
+The mobile app helps increase Presearch user retention and growth. The mobile app is also more than just a
+search tool and also acts as a full browser which can be used to surf the web and to earn PRE while you search.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+30
+
+6.6 Browser Extensions
+Presearch’s browser extensions can be found at https://presearch.org/extensions.
+These extensions enable users to search from the address bar in their web browser, which allows them to earn PRE
+as they search.
+
+After launching the Presearch.org website, it was apparent that users really wanted a quick, easy way to set
+Presearch as their default search engine, as well as to set Presearch as their default home page, so the Presearch
+team built some browser extensions.
+Presearch decided to keep these two extensions separate, as not every user wanted both experiences to become
+defaults in their web browser.
+It has become apparent that one of the most important points of control within the search experience is at the
+browser level, as there are only a limited set of search engines that can be promoted by default. As a result, newer,
+smaller search engines are not included in the easy-to-select default options.
+This means a user must either take the time and have the knowledge to set their default search engine manually,
+or install a browser extension that simplifies the process. The latter is Presearch’s current approach, as the project
+requires significant scale to be added as a default option.
+For instance, Google actually pays Apple more than $12 billion per year to be the default search engine in Safari.
+It also appears that DuckDuckGo pays Brave millions for the same privilege, so there are some significant
+economic incentives that prevent browsers from making Presearch an available default.
+
+6.7 Community Packages
+Community packages are open source and member-contributed. You can find them on Github here:
+https://github.com/PresearchOfficial/presearch-packages
+They are designed to provide a summary view of a given keyword’s information. For example, the community
+crypto package is displayed whenever someone searches for a crypto project name or ticker symbol.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+31
+
+This is what it looks like at the top of the page for the term “Bitcoin”.
+
+Presearch expects a large number of packages to be created over time and plans to support the custom package
+ecosystem actively.
+In this manner, Presearch will compete with traditional search engines and offer a more compelling search
+experience, driven by UIs created by subject-matter experts, and eventually enabling community-curated ranking
+algorithms to be tested and rolled out when they lead to more relevant results.
+
+7. Decentralized Search Engine
+Search engines are complicated, and building a decentralized search engine provides some unique challenges
+which do not apply to centralized search engines. For example: how do you prevent malicious actors from running
+nodes and either stealing user information or returning dangerous or unwanted content? How do you get fast
+(hundreds of milliseconds) response times across a massively distributed network of servers with drastic variability
+in performance and reliability? How do you properly incentivize people to run nodes and fairly balance supply and
+demand for both nodes and searches within the network?
+Some of these issues Presearch has already solved, and some will require continued experimentation and
+innovation over time, but Presearch will roll out both the platform and the decentralization of the platform
+incrementally to ensure an optimal ongoing search experience for the amazing Presearch community.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+32
+
+7.1 Decentralized Search Architecture
+There are six core layers of the Presearch search engine architecture:
+• Core Services: Advertising API, Account Management API, Search Rewards Tracking, Keyword
+Staking, Marketplace, and other critical Presearch services which are centrally managed by Presearch.
+• Web Server: Receives Search Requests from Presearch users and passes them on to the Gateway to
+generate results. Returns a final, rendered results page to the user.
+• Node Registry: Manages the identity of all nodes, node stats, and any rewards payouts to node
+operators.
+• Node Gateway: Receives requests from the Web Server, removes personally identifiable information
+from the search requests, and passes the search to one or more healthy nodes.
+• Nodes: Decentralized search “workers” which connect to the Node Gateway and perform search
+operations. Each node is required to have a unique publicly-facing IP address.
+• Search Packages: Open source plugins which return intelligent answers and info boxes in response
+to specific queries. The following diagram shows the interactions between the major components
+within the Presearch Search Architecture.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+33
+
+The first major milestone toward decentralization will be the release of the node software, which anyone can run
+and for which Presearch will build out an expansive and highly decentralized network.
+The Gateway is intended to be decentralized in a future phase after the core search network has proven to be
+robust and secure. Gateway operators will eventually consist of a smaller network of trusted providers that the
+Presearch community may select (they would have access to and be held accountable for protecting certain
+incoming user information on requests). For now, Presearch will continue to operate as a single, trusted Gateway
+provider while the network is being built out. More and more of the platform will be decentralized over time as the
+project continues to evolve. The availability of the nodes in this initial software release will immediately enable the
+vast majority of the work performed during each search to be decentralized.
+
+7.2 Node Operations
+Node operators will be compensated in PRE for the value of the work and capacity they provide to the network.
+There are at least seven different kinds of operations that a node can perform (with more likely in the future):
+1) Registering (all nodes). Registering with a Node Gateway, which can then route queries to the node
+if it passes health and security validation.
+2) Validating (all nodes). Coordinating with a Node Validator to ensure that each node is only running
+trusted Presearch software (to avoid security issues from potential bad actors).
+3) Coordinating. Processing and distributing queries sent by Node Gateways. This may require routing
+to multiple serving nodes and aggregating the results.
+4) Federating. Proxying other data sources and returning their data as part of search results.
+5) Serving. Hosting portions of the search index used to process queries.
+6) Crawling. Crawling websites to build out search indices.
+7) Indexing. Writing federated or crawled data to search indexes to be served by serving nodes.
+Different kinds of servers will work better for powering these different use cases. For example:
+1) Coordinating will work best on nodes with low network latency, high network bandwidth, and high
+memory (disk space unimportant, CPU useful, but can vary).
+2) Federating will work best on nodes with: low networking latency (CPU, memory, and disk space
+unimportant; high bandwidth preferred).
+3) Serving will work best on nodes with high memory, high uptime, and low network latency (CPU and disk
+space useful, but can vary).
+4) Crawling will work best on nodes with: high disk space, high network bandwidth (CPU, memory, network
+latency, and uptime unimportant).
+5) Indexing will work best on nodes with: high disk space, high network bandwidth, low network latency,
+and reasonable CPU, memory, and uptime.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+34
+
+The first component of the Presearch decentralized search engine to be released will be the nodes, with a beta
+program in September 2020 and a production launch in Q4 2020. For this first release, Presearch will be focused
+only on the following node operations:
+• Registering
+• Validating
+
+• Federating
+This means that Presesarch will initially aim for a network of as many nodes as possible, provided as cheaply
+as possible, so long as their network latency is low.
+When Preserach later adds Serving and Coordinating operations (enabling the Presearch search index to
+be decentralized), this will introduce the need for different and more powerful servers to join the network.
+When Crawling becomes fully decentralized and supported by nodes, the capacity of the network to crawl
+the web and refresh data will then be tied directly to the size of the network and its growth.
+Presearch will continue to implement the remaining node operations over time, as detailed in the later Product
+Roadmap section.
+
+7.3 Node Staking and Rewards
+When node operators provide server capacity to the Presearch network, they add value and will be compensated
+in PRE for the value they add. Presearch’s Tokenomics Engine will determine the aggregate amount to be paid out
+across all node operators based upon needs of the network.
+Additionally, in order to for a node operator to receive rewards for running a node in the Presearch network,
+Presearch will require them to stake PRE to reserve their right to provide that capacity. This stake will also acts as a
+deposit to ensure that the node operator does not violate the Presearch Terms of Service while operating their node.
+
+7.3.1 Node Rewards
+If more server capacity is needed in the network, the Tokenomics Engine will increase the current payout level to
+incentivize more servers to join the network. If too many nodes are operating within the network and there is excess
+server capacity, the Tokenomics Engine will reduce aggregate rewards for node operators and will increase rewards
+for other behaviors within the Presearch ecosystem, such as those which increase the number of active users.
+When Node Rewards are increased, this should lead to more nodes joining the network, and when Node Rewards
+are decreased, this should lead to nodes leaving the network.
+While most node operators will likely keep their nodes operating continuously, since it will eventually be possible
+for nodes to receive higher payouts for providing more reliable uptime, Presearch expects for some nodes to also
+be set up to autoscale up and down in order to take best advantage of periods of elevated rewards payouts that
+will correspond with normal traffic fluctuations from users running searches on the Presearch search engine.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+35
+
+Because node operators will invest their resources in running nodes and will expect a minimum level of payout
+to keep the nodes running and financially viable, Presearch will need to ensure that the Node Rewards levels are
+transparent, published, and up-to-date.
+Presearch will provide an autoscaling pool of nodes when the network first launches as a fall-back to ensure
+smooth operations of the network, but maintaining this fallback will probably become unnecessary over time as
+the decentralized network grows and more node operators build out their own mechanisms to provide variable
+capacity based upon current payout amounts.
+
+7.3.2 Node Staking
+There are many reasons someone may want to run a node. They may be looking for financial reward, they may
+want to support the Presearch mission of providing community-powered, decentralized search to the world, they
+may want to have their own personal search experience, or they may simply want to download the software and try
+it out using their idle compute resources.
+NODE STAKING AS A MECHANISM FOR ALLOCATING CAPACITY
+There is a maximum amount of work to be performed by nodes within the Presearch network, and that amount
+of work is determined by the Tokenomics Engine based upon a combination of current active user search volume
+(drives both server demand and available ad revenue to be used for Node Rewards) and the amount of capacity
+node operators are willing to provide for that level of Node Rewards.
+Because total payable Node Rewards has a ceiling, this means that should too many nodes try to provide capacity
+to the network at any given time, there would not be enough demand for that server capacity, and the PRE rewards
+paid could drop to a level at which all node operators would be operating at a loss.
+In order to avoid that scenario, and recognizing that there is both an upper limit to capacity demand and a lower
+limit to profitability for node operators, Presearch needs to prevent any situation where all node operators hit that
+limit at the same time and leave the network.
+The project accomplishes this goal by utilizing the staking of PRE to a node as our mechanism to efficiently
+allocate the amount of capacity each node is entitled to provide. Through Node Staking, node operators can
+reserve the right to provide a predetermined amount of capacity based upon the size of their PRE stake. This
+ultimately enables node operators to also secure a predetermined allocation of Node Rewards for that capacity.
+This means that node operators who stake more PRE are going to be more profitable than those that stake less
+PRE. This provides a needed mechanism for reliable node operators who are potentially running expensive, fixed
+server farms to commit PRE as a stake to secure stability in their Node Rewards payouts, while still allowing anyone
+else to operate a node but receive potentially more variable Node Rewards.
+NO MAXIMUM STAKE
+There is no upper limit to the number of PRE that can be staked to a node. The percentage of the Node Rewards
+assigned to each node increases as the number of PRE staked to that node increases, so node operators will
+be incentivized to stake as many PRE for their nodes as they have available in order to maximize their Node
+Rewards earnings.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+36
+
+Whereas Keyword Staking provides more access to advertising views as the amount of PRE increases, Node
+Staking secures the right to provide server capacity and to do work, which is then compensated in PRE.
+Since there is no upper limit to the amount of PRE stakeable to a node, this provides a significant incentive
+for node operators to acquire and stake as much PRE as possible.
+MINIMUM STAKE FOR NODE REWARDS
+For a node operator to receive Node Rewards, they will be required to stake a minimum number of PRE to their
+node. At launch of the network, the minimum stake to receive Node Rewards will be 1,000 PRE, which is the same
+current minimum withdrawal limit for PRE received from Search Rewards. This means that, upon achieving 1,000
+PRE rewards, any Presearch community member will also be eligible to run a node. The minimum threshold may
+be adjusted up or down over time.
+RUNNING A NODE WITHOUT STAKING
+Presearch currently plans to allow anyone to run a node and provide server capacity to the Presearch network,
+even without requiring them to stake PRE. In this case, however, they will not receive any Node Rewards - they will
+simply be providing free server capacity to the Presearch network.
+This may be an attractive option for someone who just wants to test out running a node before going through the full
+process of setting up an account, purchasing and transferring PRE, registering their node, and configuring staking. It
+is unlikely that non-staking nodes will be the most common use case, as most node operators will eventually want to
+receive Node Rewards. Having this option removes a barrier to entry, however, and provides a convenient option that
+could ultimately attract more overall interest to the platform. Depending upon how this feature is used, this policy
+may change such that all node operators may be required to provide a minimum stake in the future.
+REWARDS CALCULATION
+Node Staking was discussed above as a mechanism for allocating capacity, but there is an important distinction
+between capacity (providing the ability to do work) and utilization (doing the work). Both keeping capacity
+available and actually providing utilization of that capacity are valuable to the Presearch network, and so the
+Node Rewards will balance these two objectives.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+37
+
+While the specific calculation, inputs, and percentages leveraged by the Tokenomics Engine will evolve over time,
+a general formula for Node Rewards per time period is as follows:
+available_rewards = [DETERMINED_BASED_ON_AD_REVENUE]
+node_quality_score = [DETERMINED_BASED_ON_NODE_RELIABILITY]
+node_actual_capacity_% = [DETERMINED_BASED_ON_NODE_AVAILABILITY]
+utilization_rewards_% = 50%
+capacity_rewards_%
+= 50%
+staked_capacity_% =
+( per_node_staked_tokens / all_nodes_staked_tokens)
+* ( node_actual_capacity_% )
+utilization_% =
+( per_node_successful_requests / all_nodes_total_requests )
+* ( node_quality_score )
+rewards_per_node =
+( capacity_rewards_% * staked_capacity_% * available_rewards )
++ ( utilization_rewards_% * utilization_% * available_rewards )
+As you can see in this example, the rewards each node receives are based upon a combination of 50% available
+capacity (allocated based upon PRE staked to the node) and 50% based upon node utilization (based upon
+number of requests).
+This general calculation works well for nodes focused on serving search traffic, but will get more complicated over
+time as additional node operations are rolled out (Indexing, Serving, Coordinating, Crawling, etc.).
+MORE NODES VS. BETTER NODES
+As mentioned in the Node Operations section, the initial release of the node software will be focused on
+decentralization of three of the planned node operations: Registering, Validating, and Federating, with the last
+representing the most valuable work.
+For these operations, Presearch wishes to optimize for a large network of many nodes running with low latency
+on inexpensive hardware. Node operators would be best served with something as cheap as a Raspberry Pi or any
+home computer or inexpensive cloud server instance. The node_quality_score in this case will be primarily
+determined based upon networking latency, so a fast internet connection will be much more important than the
+server hardware.
+Additionally, traffic will be allocated fairly uniformly across the network for the Federating role, which means
+that while the total PRE rewards paid out based upon the capacity_rewards_% will be the same regardless
+of whether a node operator stakes 1,000,000 tokens to a single node or across 10 nodes, the utilization_%
+payout will be approximately ten times higher when running 10 nodes versus one.
+Ultimately, this means the node operator would receive much more in PRE rewards by spreading their staked PRE
+across more nodes. Of course, for each additional server, the node operator runs, they will incur additional server
+costs, so it will be up to the node operator to weigh these tradeoffs.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+38
+
+8. Keyword Marketing Platform
+The Presearch Keyword Marketing platform is similar to the Google AdWords platform, although there are a
+number of key differences due to the phase of the project and the unique opportunity to work with blockchain
+tokens to account for and transfer value.
+Like AdWords, there is tremendous potential due to the high value of search traffic, which is highly qualified based
+on the keyword entered.
+Presearch has an opportunity to kickstart the launch of a keyword staking ad network using its own property to
+attract advertisers. The platform will eventually enable other apps, publishers, and search engines to expand
+keyword staking on their own properties, driving more use cases for PRE and more opportunities to create value
+for the network.
+
+8.1 Keyword Advertising: A $100 billion dollar opportunity
+The keyword advertising opportunity is enormous: it generated more than $134 billion in revenue for Google
+alone just in 2019.
+
+Keyword ads that are triggered based on search
+terms entered into a search engine constitute
+one of the most lucrative business models in
+history. Google is on track to generate $1 trillion
+in total ad sales from its platform, all at a very
+high profit margin.
+
+8.2 Why is the opportunity so large?
+Keyword ads on search engines are some of the most lucrative ads in the world because they are highly profitable
+for advertisers.
+If someone tells you they are looking for something and you can tell them that you offer exactly what they are
+looking for at that moment, there’s a high likelihood that they will become your customer. The percentage of
+people who see your ads and then buy from you is known as the “conversion rate”.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+39
+
+Keyword ads convert very well because searchers indicate their “transactional intent” or “need” through the
+keyword which they input into a search engine. This is known as “directional advertising”, because the advertiser
+is not trying to convince someone that they have a need — they already believe they have a need and are looking
+to be directed to someone who can fulfill their requirement.
+Google has built one of the most profitable online businesses in history by introducing pay-per-click (PPC)
+keyword ads into their search results. It is a now proven model which works extremely well. Even the #2 keyword
+advertising company, Microsoft’s Bing, generates more than $7.5 billion in annual revenue from its ads. Based
+solely on its query volume, even much smaller, privacy-focused DuckDuckGo would appear to be on track to
+generate annual ad revenue approaching $1 billion.
+Here are some interesting statistics related to search advertising:
+•
+•
+•
+•
+•
+•
+
+49% of people say they click on text ads.
+95.3% of clicks go to the top 4 results.
+On average, 41% of clicks go to the top 3 paid ads.
+For searches with high commercial intent (someone looking to buy a product), paid ads get 65% of all clicks.
+PPC visitors are 50% more likely to purchase something than organic visitors.
+The average cost per click is $2.32.
+
+*Source: https://www.bluecorona.com/blog/pay-per-click-statistics
+
+8.3 How traditional keyword ads work
+In traditional keyword advertising, an advertiser chooses a keyword that will trigger its paid ad to show
+up alongside regular search results (known as “organic results”) when someone searches for that term.
+
+The top result is a paid ad. The bottom result is an unpaid, organic result.
+The price paid to trigger an ad is determined through an auction process where the advertiser willing to pay the
+most for a click on its ad (known as the cost per click) has its ad displayed first.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+40
+
+This process is hugely profitable for the search engine serving the ads because it automatically extracts the most
+money possible from the market, and companies which best and most profitably convert potential customers are
+able to pay the most, resulting in quality experiences for users.
+PROBLEMS WITH LEGACY PLATFORMS
+One of the major complaints advertisers have is the lack of transparency around cost per click — which is
+supposedly driven by an auction process. However, only the search engine knows how high the bids are and who
+is bidding, so it is possible for search engines to artificially increase the amounts paid to maximize payment for
+each keyword, rather than have it be driven by pure market forces.
+Another huge issue for advertisers is fraud — either through ad network partners artificially inflating traffic or
+through competitors clicking on ads simply to run up costs which adversely impact the advertiser.
+Because search engines have a vested interest in allowing this to happen (they make more money), there is a
+certain level of skepticism regarding their efforts to combat fraud. It is generally acknowledged that “click fraud”
+is just a cost of doing business when advertising on search engines.
+As Presearch matures, it may incorporate these and other mechanisms to combat fraud and increase transparency
+into its model, albeit by using PRE in a way which benefits all members of the community.
+In the interim, Presearch is changing the paradigm on keyword ads completely with its Keyword Staking ad platform.
+
+8.4 What Is Keyword Staking?
+Keyword Staking is a revolutionary new concept being pioneered by Presearch as it builds the world’s first
+decentralized search engine framework.
+
+8.5 How Presearch Keyword Staking ads work
+
+Keyword Staking enables token holders to commit
+or “stake” their PRE against specific words and multiword terms.
+With Presearch Keyword Staking, you select a keyword
+(e.g., “Bitcoin”) and then stake PRE that you have
+purchased or earned against that term. You can then
+create an ad that you link to the website of your choice.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+41
+
+While your PRE are staked, you continue to own and control them, but you cannot use them to stake against
+other words and you cannot remove them from the Presearch platform. While they are staked they are
+effectively locked up.
+You can unlock or unstake them at any time and withdraw them to the blockchain or sell them, but then your
+associated ads will not show.
+This means that if you buy PRE and stake them against keywords, you can receive traffic while you have them
+locked up. You can move or sell your PRE later once you stop using them for staking, making the traffic you
+received absolutely free.
+
+8.6 Free traffic until January 2021
+Traffic from ads will be free during the alpha release, so the value of staking a keyword is potentially enormous
+and could prove to be one of advertisers’ most profitable sources of traffic.
+Presearch has more than 1.5M registered users and more than 10M visits per month, making it a top-five
+blockchain property. More about size and make up of the Presearch audience can be found here: https://medium.
+com/@presearch/who-uses-presearch-7ec65c4170ad
+Presearch currently plans to offer free traffic until January, 2021 but the ultimate duration will depend on the uptake
+of the platform and need to reward users.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+42
+
+8.7 Keyword ranking
+The ranking factors associated with keyword staking may change over time, but the platform currently works as
+described below.
+A user types in a keyword or key phrase, say “Toronto Real Estate”.
+The ad server will look to find any ads where the advertiser has used the exact term “Toronto Real Estate” as its
+trigger keyword.
+It will then look to see how many PRE are staked or locked to the keyword and whichever advertiser has staked
+the most PRE will have its ad displayed.
+If there are no matches for the exact term “Toronto Real Estate”, the ad server will break the phrase down into
+individual terms and will find ads with the keyword “Toronto” or “Real” or “Estate” and will pick whichever ad has
+the most PRE staked to it and display it.
+It is a fairly simple system to start with and, because of that, it provides many opportunities to capture qualified
+search traffic at little or no low cost.
+In time, the platform will become more robust, offering advertisers additional reporting and targeting mechanisms,
+while also implementing more advanced staking and pricing models that include proportional traffic (each staker
+receives a portion of ad traffic relative to their percentage of the total amount staked) and consumptive traffic costs
+(cost-per-click or cost-per-impression).
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+43
+
+9. Tokenomics
+The Presearch Platform is an ecosystem focused on building out the world’s first and best decentralized search
+engine, with a path to eventually becoming the best search engine in the world. The Platform will provide a search
+engine not controlled by a single, centralized, for-profit corporation acting as a one-size-fits-all gatekeeper to the
+internet, but instead as a platform that gives you choice:
+• Choice around privacy vs. personalization.
+• Choice around the kinds of search results you see and how you can direct the experience to your own
+benefit -- rather than algorithms driving you to content designed primarily to optimize corporate profits.
+• Choice to receive value out of the platform, in terms of both improved experience and rewards,
+directly corresponding to the value which you contribute to the platform.
+Presearch will be built by the community and for the community, ensuring that everyone in the community benefits
+as the platform evolves. This is a long-term goal that requires significant expertise, execution, community support
+and adoption, and investment. Given that the leading search platforms today spend billions each year to operate
+their search businesses, it would be foolish to believe that Presearch (or any company) could reasonably ever raise
+enough money or hire enough smart developers, product managers, and data scientists to compete at that level.
+That’s why the Presearch model is drastically different. When Presearch earns advertising revenue, instead of being
+a big, for-profit corporation trying to take advantage of users, Presearch funnels that earned value back into the
+platform, leveraging PRE as the unit of accounting and value transfer between the various stakeholders. Presearch
+has no traditional shareholders expecting a return on investment, as for-profit corporations do; therefore, PRE
+represent and hold all value over and above that which is required to operate the Platform.
+
+9.1 Accounting and Value Transfer
+PRE is the central unit of account and value transfer between the various stakeholders within the Presearch
+ecosystem. There are numerous types of transactions that can take place:
+1) Revenue Transactions: Presearch gets paid in either PRE or fiat currency (such as US dollars) for services
+or products.
+a. If revenue is received in PRE, the tokens go back into the Presearch “treasury”, Presearch’s protected
+internal wallet.
+b. If revenue is in fiat currency, Presearch will typically convert from the fiat currency to PRE, which
+requires purchasing tokens on the open market or on the Presearch Marketplace.
+2) Expense Transactions: Presearch obviously incurs recurring expenses to fund operations and growth. It
+can often pay expenses directly in PRE, but also sometimes needs to convert tokens into fiat currency or
+other cryptocurrencies to make payments.
+3) Staking Transactions: For many activities on the Platform, community members must “stake” PRE. Staking
+means that they send the tokens to Presearch and “reserve” them for a particular purpose. For example:
+a. An advertiser (or anyone) can stake 1,000,000 tokens for the keyword “presearch vision paper”
+and then, if nobody has staked a larger number of tokens, the advertiser’s ad will display when a
+search is conducted on that keyword. They can unstake their tokens at any time and use them for
+any other valid purpose.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+44
+
+b. Anyone can become a node operator by running the Presearch node software to operate a server
+that joins Presearch’s decentralized Search Engine Network. These node operators can stake tokens
+to obtain the right to provide that server capacity to the network. Rewards are then paid out both
+based upon capacity provided and utilization of that capacity.
+c. Numerous other uses for the token, particularly for consumers to influence the platform, are
+planned. See the Token Utility section.
+If a staker is found to have violated the terms of service (the ad is abusive or the node does something
+malicious), they could lose their stake, but otherwise the stake is simply used to secure their right to use
+the network and receive the associated value.
+4) Reward Transactions: Net income (revenue minus expenses) is reinvested into the Presearch network.
+Presearch pays users for running searches and node operators for providing servers to power the
+Presearch Decentralized Search Engine. Presearch also pays other stakeholders for the various types of
+value they provide.
+Presearch will eventually become a standalone, non-profit foundation. Before that step is taken, however, Presearch
+needs to achieve a sustainable business model based upon solid tokenomics, which will ensure the long-term
+success of the project. PRE acting as the core unit of value within a thriving Presearch ecosystem is critical to
+achieving that mission. In this model, every member of the Presearch community is rewarded based upon the
+specific value they add to the network, creating a continuous value cycle where the value of the entire ecosystem
+grows with each additional community contribution. The tokenomics of this system will be described in the Supply
+and Demand Value Cycle section below after each of the uses of the PRE token (“token utility”) are described.
+
+9.2 Token Utility
+As the central unit of accounting and value within the Presearch ecosystem, PRE is essential to every aspect of
+Presearch. PRE is the means to create a giant value cycle where community members consistently both contribute
+and receive increasing value the more they use the platform.
+As more and more people run searches, advertising revenue increases, and more nodes are needed. The
+advertising revenue funds marketing efforts and increases referral rewards to drive more users, which further
+drives more searches. This increases the value that each stakeholder contributes to the network, which in turn
+increases the rewards they receive for the value they add. As rewards increase, there is a greater incentive for
+engineers and data scientists to contribute better algorithms, which in turn increases the value of the network
+for searchers and advertisers.
+This self-perpetuating cycle of growth, where the value and size of the network grows as more people join and
+the value they receive grows (often exponentially), is known as the “Network Effect”. The Network Effect is the
+same phenomenon which has enabled large social networks and other large search engines to grow.
+Whereas shareholders of traditional for-profit corporations receive all the monetary benefit and often try to
+increase profits at the expense of their users, the Presearch network is built by and for the community and each
+community member is actually paid in the form of PRE for the value they add to the network.
+PRE provides significant utility within the Presearch ecosystem, with the use cases growing constantly. The following
+are examples of the current and planned utility of PRE for the various members of the Presearch community.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+45
+
+PRE TOKEN UTILITY FOR VARIOUS STAKEHOLDERS:
+USERS:
+• Current Utility:
+Search Rewards: Receive PRE as a reward for searches based upon the value their 			
+searches add to the network.
+Become an Advertiser: Use PRE to display ads on the Presearch Platform.
+Referral Rewards: Receive PRE for introducing new active members to Presearch.
+Shop: Use PRE to make purchases in the Presearch store.
+			
+Cash Out: Sell PRE on public cryptocurrency exchanges to convert to fiat or other cryptocurrencies.
+• Future Utility:
+Ad Blocking (Personal): Use PRE to avoid seeing advertisements in results.
+Inverse Keyword Staking (Global): Use PRE to stake “against” ads they find undesirable. This
+increases the cost to advertisers to run ads and reduces advertisers’ ability to spread undesirable
+messages to others.
+Data Sharing Rewards: Control your data. By default, Presearch does not log users’ search histories
+in order to fully respect user privacy. However, sharing some of this data can provide more value to
+you (better personalization) and to the Presearch network (more relevant ads, ability to learn better
+relevance algorithms), for which you’ll receive increased rewards if you opt in.
+Abuse Reporting Rewards: Detect and remove abusive ads that violate the Presearch Terms of
+Service. These should be detected and taken down as soon as possible and, in certain cases,
+advertisers may forfeit their keyword stake. In the future, users could be rewarded with some
+of this forfeited PRE based upon their help identifying these abusive ads.
+Search Provider Voting: Stake PRE to influence the placement of Search Providers in the global
+search providers list.
+Relevance Staking: Vote on the relevance of search results to influence and improve global
+relevance ranking. A user could opt in to automatically apply their tokens as influence through either
+explicit voting or implicit influence based upon their search history (if they have enabled their search
+history to be used).
+ADVERTISERS:
+• Current Utility:
+Keyword Staking: Advertise targeting any keywords by staking the largest number PRE tokens
+for that keyword.
+• Future Utility:
+Advertising Credits: Pay for ads directly based upon a CPC (Cost Per Click) or CPM (Cost Per
+Thousand Impressions) model.
+Hybrid Keyword Staking + Credits: Leverage PRE for both Keyword Staking and as Advertising
+Credits in a hybrid advertising model that pulls in the best aspects of both approaches.
+Presearch is currently experimenting with various advertising models.
+Direct Rewards to Users: Reward users on a CPA (cost per action) basis for direct interaction
+with specific content. For example, watching a video, filling out a survey, sharing content, etc.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+46
+
+NODE OPERATORS:
+• Future Utility:
+Node Staking: Stake PRE as a security deposit in order to provide server capacity to the Presearch
+network. The more PRE you stake, the more capacity your node can provide.
+Node Operator Rewards: Receive PRE as a reward based upon a combination of the amount of
+capacity your node provides to the network plus the amount of that capacity that is actively utilized.
+Gateway Staking: Stake a significant amount of PRE as a security deposit to become one of a select
+number of trusted, public gateways for the Presearch network. Presearch will be the only gateway
+provider for Phase II of the platform, but will look to decentralize the gateway responsibility in Phase III.
+PARTNERS:
+• Current Utility:
+Search Provider Listing: Pay PRE (one-time fee) and stake PRE (ongoing) to be added as an available
+Presearch Search Provider. Remain on the providers list as long as terms of service are honored and
+the stake remains active.
+Default Provider Priority: Pay PRE (one-time fee) and stake PRE (ongoing) to influence placement in
+the default providers list.
+Highlighted Provider: Pay PRE (one-time fee) and stake PRE (ongoing) to have your search provider
+icon stand out from the crowd with a colored icon.
+• Future Utility:
+Data Partner Rewards: Receive PRE for data which helps the Presearch Platform, or data providers
+may alternatively pay Presearch in PRE for traffic, depending on the type of partnership.
+SUBJECT MATTER EXPERTS:
+• Current Utility:
+Development Grants: Receive PRE to deliver work, approved in advance from development
+proposals, that Presearch believes are important and will substantially improve the Presearch platform.
+Presearch has provided a handful of development grants already (mostly for designs, apps, browser
+extensions, and other software development) and hopes to have a formal grant proposal and approval
+process in future phases of the project.
+• Future Utility:
+Relevance Algorithms Rewards: Engineers, data scientists, and subject matter experts will receive
+rewards for contributed improvements to the Presearch search algorithms. These improvements will
+be quantified and the amount of PRE determined based on the measurable ongoing value of those
+contributions.
+Platform Capabilities Rewards: Web developers, designers, engineers, and subject matter experts
+will receive rewards for Presearch packages, functional changes, themes, or data they contribute.
+Again, payment will be in PRE based on the measurable ongoing value of those contributions.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+47
+
+As you can see, Presearch already provides significant utility to many stakeholders (users, advertisers, node
+operators, partners, and subject matter experts) and significant additional use cases for both staking PRE and
+acquiring and spending PRE are being developed. These token uses all influence supply and demand in various
+ways, which are described in the following section.
+
+9.3 Token Value Drivers
+While PRE is the primary store of value within the Presearch ecosystem, user searches are the primary generator of
+value. Advertisers pay either in PRE (removing token supply from the market) or in fiat, which injects external value
+into the Presearch ecosystem which ultimately should have the same effect.
+As you may expect, the number of searches increases directly in proportion to active users, so increasing active
+users is one of the primary mechanisms to enhance the value of the Presearch network for all community
+members. Of course, as active users and searches increase, advertising revenue also increases.
+
+In the above figure, advertising revenue grows as the number of active users increases, but it grows faster when
+denominated in fiat. If you look at the “Average Advertising Revenue” at the bottom, you will actually see that average
+revenue (per Ad) decreases slightly when denominated in PRE, whereas it increases slightly when denominated in
+fiat. Why? Simply put, there is a fixed supply of PRE in the world (500M) which means that, as the network grows,
+demand for PRE should increase, eventually impacting the price as there is no corresponding increase in supply.
+In contrast, fiat currencies can be printed at any time by central banks and have no limit on supply. Since the vast
+majority of the world does business in fiat currencies, global advertising rates (CPM or CPC) are typically pegged
+to fiat currencies. This means that the cost, in average number of PRE required to purchase ads, should decline
+over time as demand for advertising increases, but only because the value of PRE relative to fiat currencies would
+likely increase. However, actual revenue, if converted into fiat, would remain approximately the same, other than
+any difference attributable to keyword staking.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+48
+
+Keyword staking introduces an entirely different market dynamic than traditional CPC- and CPM-based advertising
+models. Since keyword staking does not “spend” your PRE, as active users, searches, and advertising revenue
+increase, there is more utility to advertisers in staking tokens for keywords, increasing demand for the token.
+Since the total supply of PRE is fixed at 500M, this means that, if there were no other uses for PRE, the price should
+logically increase as demand increases (see the figure on the left).
+
+Due to the fact that PRE serves several other use cases (staking and payment for operating nodes, however,
+the actual number of PRE available for keyword staking can increase or decrease at any time, and is likely to
+increase as demand for staking increases and PRE holders reallocate their PRE.
+The figure on the right demonstrates a supply and demand curve based upon the ability of circulating supply
+to change over time. Both of these charts ultimately demonstrate the same phenomenon, however. Point D1
+shows initial demand and point D2 shows how the demand curve shifts as total searches increase. The end result
+is that the number of PRE staked should generally increase as the number of total searches increases (as the
+number of active users grows).
+The above explanation is entirely based upon traditional supply and demand economics. Please note that at any
+given point prices may increase or decrease based upon evolving platform dynamics or other market factors,
+and Presearch does not control the market price of PRE. Prices can increase or decrease at any time for known or
+unknown reasons. Presearch’s focus is on helping community members to continually add value to the Presearch
+network and receive corresponding value back based upon the value they contribute.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+49
+
+9.4 Increasing Active Users and Searches
+Two fundamental mechanisms exist for increasing user searches:
+1. Grow the number of active users: adding new users or getting former users engaged again.
+2. Improve the search experience for current active users so that they use Presearch more often.
+Growth in active users is achieved through three primary mechanisms:
+1. Referrals from current users inviting their friends and other contacts.
+2. Search Rewards: helping visitors convert to new active users.
+3. Marketing and Community Engagement.
+Improvement to the search experience is achieved through a combination of:
+1. Platform and Operations Improvements: Presearch and its supporters continually allocate resources to
+develop the platform’s product and engineering roadmap.
+2. Algorithm Improvements: Presearch is working to enable engineers and data scientists around the world
+to submit measurable relevance improvements to the Presearch search algorithms.
+3. Product Capability Improvements: Presearch is working to enable web developers, engineers, and
+other subject matter experts to submit contributions that improve the Presearch product capabilities
+in a measurable way.
+4. Data Partners: Presearch is working with key data providers who can enhance the Presearch search
+results.
+5. Development Grants: Presearch provides funding for approved project proposals that are likely to
+substantially improve the Presearch Platform (design, software development, etc.)
+6. Marketing Spend: Presearch conducts marketing efforts to attract and maintain active user growth.
+Because all of these activities help drive our primary value driver (growth in active users), they each add value to the
+Presearch Platform. Presearch then returns the corresponding value in the form of rewards and grants paid in PRE.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+50
+
+The following figure demonstrates an example of how value received (revenue) may be allocated to compensate
+Presearch community members for their contributions:
+
+In this example, 20% of available revenue is used to pay node providers for running the decentralized search engine,
+20% is used to fund Presearch Operations (platform investment, marketing, and other operations), 30% is used to
+repurchase tokens and reduce circulating supply, and 5% is allocated each to Algorithm + Platform Improvement
+Rewards, Data Partner Rewards, and Development Grants. Finally, the remaining 15% of available funds is used as
+Search Rewards to incentivize active users for the value their searches provide to the platform.
+Token Repurchases may be undertaken as needed. Because Presearch gives out rewards to community members for
+their contributions, this increases circulating supply, which could lead to a supply / demand imbalance. An increase in
+tokens for sale could drive the token price down, making the token and ultimately the rewards less attractive.
+By purchasing this tokens from the market, Presearch simultaneously accomplishes two things:
+1) Provides liquidity to the market for community members to be able to convert their PRE into other
+currencies.
+2) Replenishes the PRE in the Presearch inventory for future use, leveraging PRE as a store of value.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+51
+
+9.5 Supply and Demand Value Cycle
+Ultimately, the value of the token is tied to its utility on the Presearch Platform, and the platform’s ability to efficiently
+measure the value of the contributions of each community member (searchers, advertisers, node operators, partners,
+and subject matter experts) and then reward them with either PRE or with views and traffic (advertisers and partners).
+Efficient value allocation is accomplished by a supply-and-demand-based, market-driven approach. If more searches
+occur than available nodes can handle, then Search Rewards may be reduced and node rewards increased to return
+to market equilibrium.
+If an algorithm improvement drives substantial additional searches and ad views, then the Algorithm Improvement
+Rewards for that user will increase and the relative payout for Algorithm Improvement Rewards may increase.
+If the relative value of Presearch Operations decreases over time compared to contributions by the community
+(which is expected to be the case), then the relative allocation of funding to Presearch Operations will decrease
+and more will be allocated to the community and other stakeholders.
+The following diagram demonstrates how this supply and demand approach functions in a continuous valuegeneration cycle. The two primary nodes in the diagram (highlighted in solid blue) are “Active User Growth”, which
+creates value within the ecosystem, and “Value of PRE”, which is the ultimate mechanism for storing the value created
+and returning it to community members based upon their contributions.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+52
+
+In this diagram, it is clear how an increase in Active User Growth sets in motion a cycle that both increases the
+value of the network (and thus of the PRE token), and also creates additional Active User Growth. If you follow
+the path of the highlighted gray nodes, you will see the following Sequence:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Active User Growth increases, thus
+Searches increase, thus
+Ad Views increase, thus
+Revenue increases, thus
+Platform Investment and Operations increases, thus
+Search Results and Platform Quality increases, thus
+Repeat Step 1 (Active User Growth Increases…)
+
+You can also follow many other similar paths within this self-reinforcing feedback loop. On the value store side,
+you can follow the light-blue highlighted nodes as they branch off from the same initial path:
+1. Active User Growth increases, thus
+2. Searches increase, thus
+
+3. The number of Nodes must be increased, thus
+4. The Node Rewards must be increased, thus
+
+5. Node Staking increases (to capture the greater rewards), thus
+6. PRE Circulating Supply decreases, thus
+
+7. The Utility Value of PRE likely increases.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+53
+
+The black node, branching off the gray path, ends with a similar outcome related to increased Keyword Staking
+1.
+2.
+3.
+4.
+5.
+6.
+
+Active User Growth increases, thus
+Searches increase, thus
+Ad Views increase, thus
+Keyword Staking increases, thus
+PRE Circulating Supply decreases, thus
+The Utility Value of PRE likely increases.
+
+You can use the diagram to walk through many other paths, but they all lead to the same conclusion: The value of
+PRE is based upon the value of the Presearch Network and its utility within that network. The value should grow if its
+utility within the Presearch network increases, and it should decrease if its utility within the Presearch network falls.
+Active users and searches are the key driver of value, and leveraging a market supply and demand model will
+enable Presearch to efficiently allocate value to each member of the Presearch community based upon the specific,
+measurable value they provide to the network.
+
+10. Product Roadmap
+The Presearch Engineering team is hard at work preparing to launch the first decentralized part of the Presearch
+platform: Presearch nodes. The release will be available to beta program members in Q3 2020, with a final release
+and production launch in Q4 2020. Anyone who wishes to become a Presearch node operator will be able to provide
+server capacity to the decentralized Presearch Engine.
+Presearch will be launching a search UI refresh prior to the Presearch nodes launch to deliver a more integrated
+search results experience, and a brand new Presearch Engine built on top of nodes will be delivered in Q4 2020.
+Presearch will also be rolling out its Tokenomics Engine, which will power the distribution of rewards based upon
+supply and demand for searches, nodes, and other value drivers within the Presearch Platform.
+
+10.1 Roadmap through End of 2020
+2020 Q4
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+54
+
+In addition to the firm Q4 2020 roadmap, a tentative roadmap is also included for 2021. The initiatives and rough
+dates are being included in this Vision Paper to provide an understanding to the community of current product
+plans. Please keep in mind, however, that Presearch may alter the roadmap to reprioritize initiatives at any time, so
+it’s safe to expect that the roadmap will evolve to accommodate changing market dynamics or new opportunities.
+
+10.2 Roadmap for 2021
+2021 Q1-Q2
+
+2021 Q3-Q4
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+55
+
+10.3 Future Opportunities
+Beyond 2021, several key pieces of the Presearch Platform will still need to be implemented for Presearch to achieve
+a fully decentralized platform. This includes building a web crawler, decentralizing the Node Gateway, and enabling
+algorithms and other product improvements to be contributed by the community, measured for impact, and for the
+contributor to be rewarded based upon the ongoing value provided. Presearch will also have an internal ad network
+built out and a public search index, both of which could be externalized to expand the reach and utility of the
+Presearch network. Additional roadmap items which are currently under consideration include:
+• Token Leasing: Ability for Advertisers to borrow PRE from token holders to facilitate cheaper and
+easier access to tokens that can be staked for advertising inventory or for operating nodes. Allows
+token holders to earn interest from advertisers or node operators for the right to use their PRE within
+the platform.
+• External Site Search: Using the Presearch search index to power search for external websites.
+Provides the ability for website owners to customize their search experience.
+• External Ad Network: Expanding the reach of the Presearch advertising platform to include
+advertising on external websites.
+• Decentralized Presearch Web Crawler: Crawl the web leveraging the decentralized network
+of Presearch nodes.
+• Community Contribution Framework: Ability for anyone in the world to contribute relevance
+algorithms or platform improvements and receive rewards for the ongoing value those contributions
+provide. This component will be responsible for testing and measuring those improvements within
+the Presearch Engine, and integrating with the Tokenomics Engine to generate rewards.
+• Decentralized Node Gateway: Create a small network of trusted gateway providers to decentralize
+Presearch’s current role as “gatekeeper” to the platform. Gateway providers will require a significant
+PRE stake to operate, will be incentivized to secure and protect all search traffic, and will be the next
+step towards full decentralization and transition of the governance model leading into Presearch’s
+Phase III roadmap.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+56
+
+11. Marketing Plan
+Presearch has been successful in building a significant user base of more than 1.5 million registered users and 65
+million tokens staked for keyword ads because it has focused on building easy-to-use products that solve a problem
+for users.
+Now that Phase I of the project has been completed, Presearch is preparing to launch its first decentralized search
+engine, which will be able to compete with the world’s best search engines.
+Once this new search experience is online to the public (Q4 2020), Presearch will have all of the components it needs
+to begin mass marketing and have its user acquisition campaign generate a significant increase in active users,
+driving more searches and resulting in increasingly positive tokenomics.
+Presearch is in the process of recruiting a new head of marketing to execute on its plans and work with its new head
+of advertiser relations and keyword staking.
+Due to the success Presearch has seen with its referral program (about 50% of all new users join through a referrer),
+Presearch will leverage that platform throughout all of its campaigns, both as an incentive mechanism to increase
+sign-ups, and as a tracking mechanism to enable Presearch to reward promoters with PRE.
+There are three primary ways Presearch will increase usage of Presearch:
+1) Improved user experience.
+2) User growth campaigns.
+3) Improved distribution of Presearch and PRE.
+
+11.1 Improving the User Experience
+There are a number of improvements Presearch will make to the platform that should result in increased usage,
+notably a new search experience, tighter integration between the Presearch platform and Presearch Engine,
+improved mobile apps, and improvements to its autocomplete functionality and others.
+Not only will these improvements enable Presearch to retain more of the users that sign up, they will provide
+Presearch with an opportunity to reconnect with registered users who may have stopped using the platform
+due to usability issues in the past.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+57
+
+11.2 Growth Campaigns
+There are two main marketing objectives for Presearch:
+1) Increase searches (more searchers doing more queries).
+2) Increase number of advertisers and ensure ad inventory (queries) is sold.
+Each objective has a distinct audience and approach, and so Presearch is running two totally separate campaigns
+described in detail below.
+
+11.2.1 Increase Searches
+EXISTING USER REACTIVATION
+
+Goal: 500k registered users who accumulated some PRE, but stopped searching
+Profile: Identify those who were frequent users but have stopped using Presearch
+Channels: Email from site registration
+Strategy: Encourage people who have collected PRE and have an incentive to continue
+to get back onboard before their tokens expire
+Message: “Don’t lose your ### PRE” - login
+Timeline: August, 2020
+
+STIMULATE MORE USAGE
+
+Goal: 20% increase in searches
+Profile: Existing active users
+Channels: Site messaging, mass email to list
+Strategy: Release product improvements that improve search quality and ease of use and then tell users
+Message: “Presearching just got better and easier” - links to new mobile apps and decentralized search engine
+Timeline: Q4, 2020
+
+NEW USER ACQUISITION
+
+Goal: 2.5m users total, 1m increase
+Location: Global, focus on North America where possible
+Profile: “Degoogle” movement, cryptocurrency, liberty, privacy - Brave users, memes, life hacks, gaming, customizing
+software - power users, web workers (those who generate income working online)
+Channels: Reddit, Facebook, Quora, BitcoinTalk, Telegram Groups, Crypto Twitter, YouTubers
+Strategy: First work with promotional partners, then expand to new communities. Hold AMAs, contests and
+challenges, leverage sponsorships where Presearch will receive a “brought to you by” credit at the beginning / end of
+videos, embed logo in memes and other graphics
+Messages: “Earn when you learn”, “Get paid when you search”, “What the duck? Try Presearch for truly private search”
+Timeline: September, 2020 - January, 2021
+
+ONGOING COMMUNITY BUILDING
+
+Existing Presearch Community
+Location: Global
+Profile: Engage existing Presearchers more actively to build community via referrals
+Strategy: Continued ongoing information sharing - increase frequency of updates to once per month, continued
+new product releases, community contests and challenges
+Channels: Social, community channels, email
+Messages: Help spread the word about Presearch and earn PRE
+Timeline: Ongoing
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+58
+
+11.2.3 Increase Number of Advertisers
+CRYPTO LEADERSHIP
+
+Location: Global
+Profile: Cryptocurrency projects staking their name & symbol, crypto information sites staking project names and
+symbols
+Strategy: Direct outreach to projects and crypto info sites via trusted partner introductions
+Channels: DM / email
+Messages: Stake your project name before someone else does
+Timeline: Q3 2020
+
+CRYPTO PROJECT COMMUNITIES
+
+Location: Global
+Profile: Cryptocurrency projects staking their name & symbol
+Strategy: Connect with project community members directly and invite them to stake their project name and symbol
+and direct visitors to their favourite resource
+Channels: Telegram / Discord
+Messages: No one has staked your project name yet - someone should do it to get more exposure for the project
+and protect it from scammers
+Timeline: Q3 2020
+
+DOMAIN NAME COLLECTORS
+
+Location: Global
+Profile: Domain name collectors
+Channels: Domain name trade publications, domainer forums, virtual conferences, bring on industry influencers
+to promote the Presearch opportunity
+Messages: PRE is the new digital asset you need in your portfolio - keywords, traffic, liquidity and support for the
+open web
+Timeline: Q4 2020
+
+SEARCH MARKETERS
+
+Location: Global
+Profile: Search marketing agencies
+Channels: Direct outreach to search marketers
+Messages: Get in on the ground floor of the next big search marketing opportunity and become a Presearch
+stakeholder.
+Timeline: Q1 2021
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+59
+
+11.3 Improved Distribution
+When it comes to improving distribution, there are two main focuses:
+1) Increase number of pre-installations of Presearch.
+2) Increase number of channels to buy and sell PRE.
+
+11.3.1 Securing Pre-installations of Presearch
+Pre-installation involves concluding deals with software developers and groups who can set Presearch as the default
+search engine within their environments, ensuring that new users are exposed to Presearch and making it especially
+easy for their users to become Presearch users.
+There are many different, little-known web browsers and apps which collectively have hundreds of millions of users.
+Brave is one, but there are a number of others that are much larger. Presearch will attempt to secure partnerships with
+developers to become the default search engine in their systems in exchange for PRE. The goal is for Presearch to
+secure hundreds of thousands or millions of users at once.
+A variation on this strategy is targeting large employers, schools and other groups that control the computing
+environments that their employees and students operate in. These groups have the power to mandate use of
+Presearch or pre-configuration of settings so it is a default option when a new user comes into the network.
+
+11.3.2 Securing New Venues for PRE
+One of the key drivers of usage of the keyword staking platform is the ease with which a potential advertiser can
+purchase Presearch tokens. If an advertiser cannot easily buy PRE in the currency or marketplace that they prefer, this
+could limit purchases and, by extension, usage.
+A key focus in the second half of 2020 will be securing the ability for buyers to purchase PRE with a credit card. This is
+a significant missing link that would dramatically increase purchases of PRE.
+Alternately, many within the cryptocurrency space would prefer to purchase PRE with other cryptocurrencies such as
+Bitcoin, Ethereum and various stablecoins. To reach these buyers, Presearch plans to facilitate the inclusion of PRE on
+as many reputable cryptocurrency exchanges that have significant user bases as possible. It has been demonstrated
+that many purchasers have a favorite exchange that becomes the primary channel for them to buy cryptocurrencies;
+therefore, Presearch needs PRE to be accessible on the exchanges of choice.
+An increased exchange presence also provides those who have collected search rewards with additional options
+for converting their PRE rewards to other currencies if they choose.
+Presearch continues to explore the concept of an escrow-like internal peer-to-peer marketplace connecting PRE
+buyers and sellers, but may leverage existing platforms that support P2P transfers until Presearch is ready to focus
+on creating a Presearch P2P venue. When Presearch enables user-to-user PRE transfers within Presearch.org in 2021,
+it will be able to gauge demand for such a service and may re-prioritize the effort if warranted.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+60
+
+12. Clients & Partners
+Early Keyword Staking Adopters
+
+saltlending.com
+
+publish0x.com
+
+gda.capital
+
+threefold.io
+
+trimaxmedia.com
+
+Promotional Partners
+
+kucoin.com
+
+probit.com
+
+uptrennd.com
+
+coingecko.com
+
+flote.app
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+transformgroup.com
+
+somee.social
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+61
+
+13. Team
+
+COLIN PAPE
+Founder & CEO
+Colin is passionate about liberty,
+privacy and using technology
+for good. Prior to Presearch,
+Colin founded ShopCity.com.
+He began his career as a web
+application developer and
+domain name investor.
+
+TREY GRAINGER
+Chief Technology Officer
+Trey is the Founder of
+Searchkernel and former Chief
+Algorithms Officer and SVP
+of Engineering at Lucidworks.
+He is an author, speaker, and
+recognized expert in building
+large-scale, intelligent search
+engines.
+
+ED REESE
+Director of Advertiser
+Relations & Keyword Staking
+Ed is the founder and principal
+of the online marketing agency
+Sixth Man Marketing and an
+Adjunct Professor of Digital
+Marketing at Gonzaga University.
+He’s been involved in search
+engine optimization, paid search,
+analytics and website usability
+since the early 2000’s.
+
+MARCO VAN DEN HEUVEL
+Head of Community
+
+THOMAS LECLAIR
+Co-Founder & Marketing
+
+TIM ENNEKING
+Chairman of
+the Advisory Board
+
+Marco is a community
+manager and marketeer with
+a huge passion for blockchain
+technology and cryptocurrencies.
+Marco has (co-)founded multiple
+agencies and loves to educate
+people about this industry. As
+a huge people person he has
+helped to grow and maintain the
+Presearch community since 2017.
+
+Thomas is a crypto investor
+who was the first purchaser of
+PRE tokens. Thomas started
+working at ShopCity.com doing
+marketing and video production
+more than a decade ago. He is
+a all-in, go-to guy who thrives in
+project launches.
+
+Timothy is the founder and
+the principal of Digital Capital
+Management. In 2013, he was
+engaged to manage the world’s
+first crypto (Bitcoin) fund and
+shortly thereatfter founded
+Crypto Currency Fund, one of
+the world’s first cryptocurrency
+trading funds. He also runs Mana
+Companies Asset Management, a
+family office based in San Diego.
+He speaks several languages and
+has five university degrees.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+COREY PIITZ
+Developer
+
+JEREMIASZ KLOPOT
+Developer
+
+Corey has been programming for
+more than 25 years, working at
+vertical marketplace LabX Media
+Group, environmentally-friendly
+OnlyGreen, and local marketplace
+ShopCity.com, as well as teaching
+computer science at The Toronto
+School of Business.
+
+Jeremiasz joined the Presearch
+community in 2017 and soon
+became a community administrator.
+He is a self-taught developer, and
+his talent soon became obvious
+when he started building tools
+for Presearch that the community
+loved, leading to a full-time role as
+a developer at Presearch.
+
+LINDSAY PAPP
+Customer Support
+
+MELISSA McCOSKER
+Communications
+
+Lindsay is the friendly voice of
+Presearch customer support,
+working directly with users to
+help resolve their problems and
+communicate their feedback to
+the team. Prior to working with
+Presearch, Lindsay’s career in
+sales and marketing led her to
+join the ShopCity.com team.
+
+62
+
+Melissa is an entrepreneur, social
+media specialist and content
+creator. Through her 10fold
+Projects company, she provides
+communication services to
+Presearch and others - when
+she’s not busy running her
+family’s organic farm with her
+husband and children.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+63
+
+14. Contact information
+
+Presearch.io
+270 King St. Midland, Ontario, Canada L4R 3M3
+info@presearch.io
+@presearch.io
+@presearchnews
+@presearch
+@presearchnews
+@presearch
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+64
+
+15. Changelog
+Version 2.0 was released on July 31st, 2020.
+This section documents any changes made to the Vision Paper since its release.
+Version 2.1 - released October 17th, 2020 - changes include:
+• Contract address added to core properties.
+• PRE Contract address updated due to October token swap.
+• Title changes in contact section.
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+Presearch.io
+
+65
+
+© Copyright 2020. For information, please visit Presearch.io
+
+Copyright © 2020 Presearch.org Global Limited - All Rights Reserved
+
+Version 2.1 | October 17th, 2020
+
+

@@ -1,0 +1,644 @@
+Valobit
+WHITEPAPER
+
+Table Of Content
+Executive summary
+
+3
+
+Blockchain; A transparent
+approach to financial
+
+5
+
+Governance and regulation
+
+Blockchain projects
+and hacking 7
+*Hack cases and how
+they occurred
+*How Valobit Intends to
+solve the problem
+
+Introduction 6
+Coin Lending Service
+*What it used to be
+*What it is now
+*How Valobit technology
+is helping coin lending platforms
+such as Coinbita.io
+
+Valobit Token 13
+
+*Multivendor online
+shopping provider
+*Instant utility offering
+
+*What is Valobit token?
+*Distribution and allocation
+
+15
+
+*Valobit wallets
+Roadmap and Milestone
+
+16
+
+The target market
+and why you should
+participate 15
+Disclaimer and Legal disclosure
+
+Contact and support details
+
+4
+
+9
+
+Other Uses
+of Valobit 11
+
+Valobit
+Exchanges
+
+investment
+
+18
+
+18
+
+2
+
+Executive summary
+The blockchain sphere is such a promising one. However, the industry is
+currently faced with some security challenges. Unscrupulous people are
+always looking for ways to scam people of their crypto assets. There
+have been several cyber scams since the popularization of the crypto
+market. Some examples are pump and drop, price manipulation,
+hackings, and the rest of them. The recent Twitter hack incident that led to
+the loss of over $110000 of BTC is a wakeup call to everybody in the
+crypto business.
+The problem here is that 100% of companies worldwide are getting
+attacked by hackers, and the average detection time is 365 days leading
+to enormous economic and privacy damages. Similar attacks are
+repeated against multiple targets before they are detected, understood,
+and mitigated.
+This is why Valobit Technology is here. It is an advanced cybersecurity
+solution that will proactively identify hackers and distribute their proﬁle
+information to the protected community over the blockchain. With this
+solution, hackers will have no hiding place within the protected
+community.
+In addition to its cybersecurity solutions that Valobit intends to offer, it will
+also be actively engaged in worldwide fulﬁllment warehouse facilities,
+multi-vendors drop shipping method, decentralized blockchain digital
+locker, and instant utility offering. These additional adventures make the
+project highly scalable. The project has a highly interoperable protocol,
+and that is why Valobit has been able to team up with several outstanding
+projects such as Coinbita.io.
+
+3
+
+Blockchain; A transparent
+approach to financial
+investment
+What is blockchain? It is basically a cryptographic database that is
+maintained by the interconnection of computers owned by different users.
+Each of these computers simply stores a
+copy of the most recent and updated version of the database. These
+computers are known as nodes, and their jobs are to verify new
+transactions in the blockchain and add them to the database. These nodes
+operate based on protocols, a set of rules that tell the nodes the conditions
+to check before verifying a transaction and adding them to a database.
+These nodes are rewarded for securing the network. That way, they are
+dissuaded from attacking it for personal gains. The way it is set up, false
+transactions are very difﬁcult and expensive to add. In contrast, valid ones
+are easy to verify.
+With this setup, it became very appealing to everyone, including the
+ﬁnance industry. It is so appealing that central banks have started looking
+at ways they can use it to digitize their national currencies. Facebook is not
+left out as they are looking to create their own coin that will be used for
+transactions worldwide. Financial institutions such as Intercontinental
+exchange and ﬁdelity investments are also said to be working on services
+that rely heavily on the blockchain technology
+
+4
+
+Governance
+&
+Regulation
+Due to blockchain's ability to sustain itself by being supposedly
+unalterable, there has not been any spelled-out need for governance and
+regulation. So, for now, the industry is solely dependent on codes and
+securities that sustains it. Even if it starts getting regulated, its only scams
+perpetrated by fake projects such as pump and drop will be minimized.
+Hacking and stealing of crypto assets, especially from exchanges, may
+still keep happening.
+Most countries that are looking into regulating cryptocurrency are majorly
+doing that for the taxes. For instance, in Israel, cryptocurrencies are taxed
+as assets. In Bulgaria, they are taxed as ﬁnancial assets, while in
+Argentina and Spain, they are ubject to income tax. No government is
+concerning itself with the technology behind the crypto and how it can be
+safeguarded. Most of them are still
+skeptical about it.
+
+5
+
+Introduction
+What is Valobit?
+
+Valobit Technology is a "one stop shop" for the delivery of cutting edge
+institutional ﬁnancing, prime brokerage, and smart capital solutions for the
+HealthTech industry, as well as a research and collaboration hub for healthcare
+companies and projects involved in the ﬁeld of blockchain development.
+
+What is the Problem?
+
+Ÿ
+
+More than $40 million in assets were
+placed under restraint pending
+forfeiture, and more than 30 Liberty
+Reserve exchanger domain names
+were seized.
+100% of companies in the world are
+getting attacked by hackers, and the Ÿ
+average detection time is 365 days
+leading to enormous economic and
+privacy damages. Similar attacks are
+repeated against multiple targets
+
+Ÿ
+
+before they are detected, understood,
+and mitigated.
+
+Our Solution
+Valobit Technology detects, deﬂects,
+and counteracts attempts at
+unauthorized use of information
+systems and gives your security
+team an unfair advantage over
+hackers.
+Valobit Technology is the ﬁrst userfriendly security solution to provide
+actionable intelligence
+before companies are hacked.
+
+Ÿ
+
+Ÿ
+
+Features
+
+It is Versatile: The technology that
+valobit brings is such that it can be
+interfaced with several existing and
+upcoming blockchain projects. That is
+because most projects will need
+security, some will be into ecommerce such as Coinbita, and they
+will need to interact with Valobit’s
+systems.
+It provides you a stable currency:
+Since several concurrent ventures
+back the coin, the VBIT coin promises
+to be solid and grow from strength to
+strength.
+It is practical: The VBIT project is a
+very practical one. We all know how
+its services are important in our
+everyday existence, from securing
+Blockchain projects to coin lending,
+dropshipping, and fulﬁllment.
+It is highly secured: A technology
+that promises to help other
+technologies with their security will
+ﬁrst secure its own. Such is the case
+with Valobit. We are adopting militarygrade encryption for our project,
+services, and clients.
+It is efﬁcient and Fast: Transactions
+within our blockchain project is
+efﬁcient and fast as we have identiﬁed
+every bottleneck and ﬁxed them
+before coming live.
+
+6
+
+Blockchain projects
+and hacking
+Hack Cases And How They Occurred
+There was a time when everyone hailed blockchain as unhackable. Well, not
+anymore. As hackers are busy honing their skills, several security holes are being
+uncovered in the cryptocurrency and smart contract platforms. These security
+holes are fundamental to how they were built.
+One common example is the attack on a certain exchange. Sometime in January of
+2019, the security team noticed that something strange was happening in
+Ethereum Classic, one of the numerous cryptocurrencies that were being traded in
+the exchange's platform. The security team had noticed that somebody was trying
+to attack its blockchain and the history of all its transactions.
+How did this hacker do it? The unknown hacker was rewriting the transaction
+history through half of the network's computing power that he, somehow, gained
+control over. That caused a situation known as double-spending, which is a
+situation whereby the same cryptocurrency can be spent more than once. If the
+exchange hadn't noticed early, the hacker was already targeting around $1.1
+million. The exchange later said they didn't lose any money in the attack, but
+another exchange lost around $200,000 to the hacker. To show how vulnerable the
+system was to this hacker, he returned half of the money the next day to the
+exchange he stole it from.
+This is just one classic example of the series of attacks that the blockchain industry
+has faced. It might surprise you to know that between the beginning of 2017 to early
+2019, hackers had stolen around $2 billion worth of cryptocurrency assets, and
+most of them had been from exchanges. If you think that a geeky kid with a hoodie in
+one corner of a room is perpetrating these acts, think again. These crimes are being
+wrought by sophisticated cybercrime organizations, and there is proof of that.
+Chainanalysis did their analysis and told us that just two groups might have been
+the culprit in the stealing of a combined $1 billion from exchanges.
+What's worst is that these organizations are still active. They won't back down
+easily because hacking and stealing in the blockchain sphere seems more
+appealing than stealing from the traditional ﬁnancial system. That is because, in the
+traditional ﬁnancial systems, transactions can be reversed, but that is not the case
+in the cryptocurrency industry.
+
+7
+
+How Valobit Intends To Solve The Problem
+Valobit has created a decentralized digital locker using the Ethereum blockchain
+technology. Once users upload information, it is stored in a decentralized
+manner and encrypted. Afterward, encryption keys are maintained and can only
+be accessed by the end-user from their own side. By that, a user can upload and
+store personal information. If the user wishes to share any of this information with
+other users, it is trailed by a veriﬁable audit.
+The advantages of such a system include:
+·
+
+Quick Turnaround Time: Since information and data are now digital,
+the time needed to access or store the information becomes shorter. It is
+known as the turnaround time.
+
+·
+
+Reduction of frauds: When information about the transaction and even
+data are stored in a decentralized and encrypted manner, it cannot be
+breached. Thus fraud cannot occur.
+
+·
+
+Central Location: In this system, data and documents are stored in
+digital lockers that are in one location. Two-factor authentication, such as
+OTP, also makes it more secure.
+
+8
+
+Coin Lending
+Service
+What It Used To Be
+Before the inception of blockchain, loans were only obtained majorly from banks.
+The bank uses a system of credit reporting to decide who gets what amount. The
+management of credit scores by centralized systems such as Equifax, in the case
+of the United States, has also been cited as a disadvantage for the system. One
+time, Equifax was hacked, and the hackers revealed the credit information of
+about 145 million Americans. It has also been said that these organizations
+charged with maintaining credit scores often make the mistake of keeping
+erroneous information.
+
+What It Is Now
+The advent of blockchain looks to change loaning as we know it. With blockchain,
+a peer-to-peer loan is possible. This is faster, more secure loaning programs with
+complicated structures. In the nearest future, this new peer-to-peer loaning
+system might effectively replace loan pre-existing loan structures or even
+mortgages.
+The fact that the cryptocurrency sphere has easy peer-to-peer protocols and
+indelible records of transactions also give it another huge advantage over the
+traditional lending system.
+The system has come to stay, and some banks are already buying into it. For
+instance, the Spanish bank BBVA clinched the Banker's Tech Projects Award
+because they adopted and utilized a blockchain corporate lending platform.
+
+9
+
+How Valobit Technology is Helping Coin Lending
+Platforms Such As Coinbita.io
+Coinbita is one of the foremost blockchain technologies that allows lending over
+the blockchain protocol. Coinbita is gaining widespread popularity and adoption
+across the blockchain world. How does it operate? The system known as VBITIA
+gives lenders monthly interest rate to users when they lend their bitcoins,
+As of today, its investors include Goldman Sachs.
+Valobit is the backbone of coinbita. It offers the following services:
+
+·Live Automated Platform:
+The lending platform that
+coinbita currently uses is
+automatic and has a
+seamless user experience. It
+also has military-grade
+security that comes with 256bit encryption.
+
+·Regulatory Compliance:
+We are keeping to the
+
+·Insured Custodian:
+Through its partnership with
+valobit, coinbita is able to secure
+its crypto assets. The platform is
+SOC 2 Type 2 certiﬁed. The
+
+regulations that are relevant to
+
+insured custodian, which valobit
+
+our niche. We are KYC and
+
+provides, is topnotch because
+
+AML compliant. KYC (know
+
+its custody carries $100 million
+
+your customer) and AML (Anti-
+
+USD in the e-commerce portal.
+
+Money Laundering) are
+countries ways of ensuring that
+the crypto space is not used for
+committing crimes. As a
+blockchain project aimed at
+making the industry safer,
+compliance is our top priority.
+
+10
+
+Other Uses
+of Valobit
+Multivendor Online Shopping Provider
+Seeing how globalization is on the increase, whereby people can buy
+goods from countries that are several miles away, it becomes important for
+blockchain to be applied to multivendor shopping. This will improve the
+response time and security of the process. Valobit is doing this through two
+key methods:
+i.
+
+Worldwide Fulﬁllment Warehouse Facilities
+
+The order fulﬁllment process is like a link between producers of goods and their
+services. In this process, Valobit receives goods from the producers, processes
+these goods, and delivers them to the customers according to the orders they
+place. To start with, the customer will have to place their order. When that
+happens, Valobit processes the order and delivers the goods to the customer.
+Since there are warehouse facilities, delivering these goods to the customers
+becomes faster.
+ii. Multivendor Dropshipping
+For this part of the project, Valobit will take orders from product manufacturers
+and ship them directly to the customer. Valobit will be serving as a vendor that
+serves orders to the supplier, informing them to fulﬁll a certain order to the
+customer. That means that Valobit will not be coming in contact with the product
+like in the fulﬁllment option. This will come in handy when the supplier is closer to
+the customer than Valobit. In such a case, Valobit just takes the order and makes
+it happen by passing it on to the supplier.
+With these two services, Valobit ensures that e-commerce is perfectly blended
+into blockchain technology. Owners of the coin can get products easily from
+several parts of the world.
+
+11
+
+Instant Utility Offering
+Volabit will not be made public through an ICO. The team has
+opted for IUO because it has several advantages over ICO.
+Here are a few differences between ICO and IUO.
+The Valobit coin is a utility coin. By that, if you have the coin, you can use it to
+purchase in the online shop payments that accept the VBIT (the valobit coin).
+Valobit has a rich online catalog and marketplace. With that, investors can shop in
+these market places and pay directly with VBIT.
+Apart from using the coin for shopping, owning the coin makes investors
+shareholders at Valobit. By buying the coins, you are buying Valobit's company
+shares, which means you are entitled to dividends when after every public
+declaration of proﬁts.
+The coin accepts payments in ﬁat and 70+ coins such as BTC, ETH, etc.
+
+12
+
+Valobit
+Token
+What is Valobit Token?
+This is the ofﬁcial token that will be used to drive the services in the innovations
+that Valobit is bringing. Here are the details of the coin:
+Coin Name: Volabit
+Abbreviation: VBIT
+Coin type: Utility coin
+Total number of Coins: 1.6 billion coins.
+Technology: The VBIT Coin is based on the Volabit technology.
+
+Token Distribution and Allocation
+
+Team: 18%
+Project Reserve: 10%
+Program: 05%
+
+Advisors: 15%
+Master nodes: 08%
+Crowd sale: 43%
+
+13
+
+Listed Exchanges
+Saturn exchange
+https://www.saturn.network/exchange
+
+Uniswap exchange
+
+/ETH/order-
+
+https://uniswap.info/pair/0x6f1c
+
+book/0xb8366948b4a3f07bcbf14eb17
+
+3e1cf54a8291948f79458ab930
+
+39daa42a26b07c4
+
+3ba6083a3b
+
+Bamboorelay exchange
+Ledgerdex exchange
+
+https://bamboorelay.com/trade/
+
+https://app.ledgerdex.com/#/app/order
+
+VBIT-WETH
+
+s/makertaker/VBIT/0xb8366948b4a3f07bcbf1
+4eb1739daa42a26b07c4/WETH/0xc0
+2aaa39b223fe8d0a0e5c4f27ead9083
+c756cc2
+
+Bitcratic exchange
+https://www.bitcratic.com/#!/trad
+e/0xb8366948b4a3f07bcbf14eb
+1739daa42a26b07c4-ETH
+
+Mcafeedex exchange
+
+Switchdex exchange
+
+https://mcafeedex.com/#/erc20?base
+
+https://switchdex.ag/#/erc20?base=0x
+
+=0xb8366948b4a3f07bcbf14eb1739
+
+b8366948b4a3f07bcbf14eb1739daa4
+
+daa42a26b07c4&quote=weth
+
+2a26b07c4&quote=weth
+
+Forkdelta exchange
+
+Mooniswap exchange
+
+https://forkdelta.app/#!/trade/0xb836
+
+https://mooniswap.exchange/#/s
+
+6948b4a3f07bcbf14eb1739daa42a2
+
+wap?inputCurrency=0xb836694
+
+6b07c4-ETH
+
+8b4a3f07bcbf14eb1739daa42a2
+
+14
+
+Buying the Valobit coin on these platforms has been simpliﬁed as much as
+possible. But if you still encounter difﬁculties with any of them, look up our video
+on YouTube that explains how to buy the coin on these platforms.
+Valobit Wallets
+The exchanges listed above can also be used to hold the VBIT coin.
+The Target Market And Why You Should Participate
+From the services and large scalability that characterizes the Valobit project, one
+can see that its target market is such a vast one. From other blockchain projects
+such as coinbita, to individual blockchain users looking to engage in peer-to-peer
+loaning, the list is endless.
+
+15
+
+Roadmap and
+Milestone
+(January 2018):
+Integration with wholesalers.
+
+1st
+Stage
+
+(November 2017):
+Creation of database
+system.
+
+2nd
+Stage
+
+3rd
+Stage
+
+(November 2019):
+Integration with IUO
+technology and merged
+online catalog.
+
+4th
+Stage
+
+5th
+Stage
+
+(March 2020): Start IUO + IUOCART.COM.
+
+6th
+Stage
+
+(January 2019):
+Integration with worldwide
+wholesaler's fulllment services.
+
+May 2020):
+Launch OF IBV method
+of income.
+(April 2021):
+Launch of a decentralized
+blockchain digital
+locker system.
+
+10th
+Stage
+
+(December 2021):
+Start of worldwide
+11th
+fulllment warehouse Stage
+facilities (online service).
+12th
+Stage
+
+8th
+Stage
+
+9th
+Stage
+
+(March 2020):
+Instant utility
+offering.
+
+7th
+Stage
+
+(December 2020):
+Launch of mobile apps for
+IOS and Android.
+
+(June 2021):
+Launch of DEDLS – Digi locker
+delivered in android and web versions.
+
+(June 2022):
+Multi-vendor drop
+shipping (on service).
+
+16
+
+Ownership of the coin enables investors to use the coin to pay for between 50 to
+100 % of the company's services. Some of the company services are transaction
+fees, manual arbitration of disputes, and provision of liquidity to brokers. Once
+any coin is used to pay for company services, it will be withdrawn from circulation
+and destroyed.
+To get the coin, visit the listed exchanges above. Valobit technology token
+receives payment from you. After conﬁrmation, immediately receives coins to
+your web wallet and also mobile wallet.
+
+17
+
+Disclaimer and Legal disclosure
+This whitepaper is provided for information purposes only as a courtesy. The
+information contained herein is subject to change; no part of this draft document is
+legally binding or enforceable, nor is it meant to be until it has been discussed,
+reviewed, and revised by the board of directors, the board of advisors, and the
+company lawyers.
+Please do not copy or disseminate any part of this document without including this
+disclaimer.
+Apart from historical facts that have been stated here, most of the presentations
+contained here are forward-looking information. These pieces of information are
+based on projections, estimates, and expectations. They all represent the
+company's intentions and plans.
+
+Contact and support details
+Contact and Support Details
+Ofﬁcial website: https://valobit.io
+Lending @valobit wallet site: https://www.coinbita.io
+Dropshipping website: http://iuocart.com/
+Address: Valobit Technologies Tallinn, Kesklinna linnaosa,
+Maakri, TN25-10145, Estonia.
+For more info, email us at info@valobit.io.
+
+18
+
+

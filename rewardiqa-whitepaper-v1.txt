@@ -1,0 +1,233 @@
+Rewardiqa
+
+White Paper
+“ Efficiency Global Adoption of Cryptocurrencies “
+
+Table Of Contents
+
+Introduction
+
+3
+
+Our Principle
+
+4
+
+Market Overview
+
+4
+
+Problem Statement
+
+5
+
+Our Vision
+
+6
+
+What is Rewardiqa ?
+
+Features of Rewardiqa
+
+Disclaimer
+
+8
+
+10
+
+Introduction
+Welcome To Rewardiqa
+As demonstrated by the success and growth of Blockchain-based distributed computing networks like
+Bitcoin and Ethereum, the future of the Internet involves decentralized, efficient, inclusive, and global
+ecosystems. Rewardiqa believes that blockchain-based platforms will be a critical foundation to global,
+digital ecosystems.
+The creation and integration of REW tokens into our reward platform reflect rewardiqa’s vision to fully
+integrate blockchain technology into rewardiqa platform. At launch, rewardiqa will remain a centralized
+platform, but the rewardiqa team is developing blockchain-based smart contracts that will decentralize
+the process of creating and engaging in tasks in our platform, removing inefficiencies, and enabling our
+users to engage directly with each other in an open and transparent platform powered by bitcoin & rew
+tokens.
+Ultimately, the Rew platform will seek to enable ways to earn rewards and compensation through gamified micro-tasks and other engagement tasks and freelance work from anywhere, at any time, on any
+device, by:
+1. Making it easier to find new opportunities
+2. Making it easier to advance
+3. Making it easier to engage, no matter what role a person is playing
+
+3
+
+Market overview
+About Our Market
+Micro Workers are ruling the world economy, So we’re backed by
+them
+According to the data from the Labor Force Survey and International Labor Organization, the estimated
+market of micro-workers can vary a great deal, from a low estimate of at least 40 million according to the
+World Bank Survey to an estimated 300 million in China alone. Most of these people come from developing countries where the labor markets are fragmented and unpredictable, pushing them to accept
+minimal remuneration. Another 2011 report by InfoDev, assessing the development potential of digital
+micro-work, shows that features within the micro-work system help make it especially accessible for
+people from developing countries which in turn increases its appeal. Anyone with a smartphone that has
+internet access is able to log on to micro-work platforms and engage in micro-work tasking
+It is evident that there is a growing market for micro-work - defined as Human Intelligence Tasks (HITS)
+broken down into micro-tasks that can be completed in seconds or minutes. Micro-tasks are defined as
+small tasks that require human judgment, can be completed by humans independently over the internet,
+and are part of a larger unified project. These micro-workers require basic numeracy and literacy skills, for
+example, for image tagging, text transcription, and data entry. App or game testing , watch videos ,
+Internet companies, such as Google, Facebook, Twitter, ebay, and Linkedin have also optimized their production-ready solutions and enhanced their AI model training with micro-task workers. However, these
+sites are currently based on a centralized organization and have raised a certain number of barriers that
+slow down micro-work and make it more expensive.
+
+Data are from various interent sources.
+
+4
+
+Main Problems
+We discuss the existing challenges of our industry.
+
+Micro-tasking has become increasingly popular over the years, but
+thorny problems remain. Hence, rewardiqa developed the reward
+platform to address the current challenges, namely:
+
+Banking The Unbanked
+Globally, more than two billion people worldwide do not have a bank
+account or access to a financial institution via a mobile phone, or any
+other device. Most micro-task workers are recruited in foreign markets which result in problems when it comes to payment - workers do
+not have access to banking. According to the new Global Findex database, only 8% of adults in the developing world have access to bank
+accounts. The difference widens, even more, when it comes to credit
+cards; only 7% of adults in developing countries own credit cards.
+
+Laborious Barriers
+Furthermore, even for those in the labor pool who do have bank accounts, micro-task work is associated with practical problems such as
+high fees of intermediary financial institutions, lost or otherwise affected payments, and lost checks, among other issues. The micro-task
+workers in centralized systems are also faced with invasive, privacy
+challenging, time-consuming, unclear signup and approval processes
+that create market entry barriers.
+
+Organizations are Inefficient and
+Costly
+Unsupervised human labor
+by workers with relatively little education leads to human
+error. Verifying the work of micro-workers has been automated
+with sohware to some extent, but
+there is still a somewhat clumsy
+intermixing of human intervention. All of this drives up costs
+and makes managing the platforms a challenge.
+Spam
+There have been many spam related activities on micro-tasking
+platforms. Unethical companies
+have engaged workers via these
+platforms in order to push out
+fake reviews and comments, create dummy accounts on social
+networks to fill out lead generation forms, etc.
+
+5
+
+Low Rates Resembling Cheap Labor
+
+Other Problems
+
+“ It is an alarming problem, which we solve through blockchain &
+dencetralized ledger technology ”
+Micro-task workers usually earn below the minimum wage and are often paid inadequately for completed tasks. Many individuals from this
+workforce have also claimed to be unfairly treated as they were represented as unskilled laborers who only deserve the minimum wage. On
+Amazon’s Mechanical Turk (MTurk) payouts are atrocious and can even
+be as low as $0. Requesters are also brazen enough to pay workers
+compensation as low as $0.01 for tasks that actually take up to three
+minutes which is an overall waste of the workers’ time.
+we have created rewardiqa to solve all these issues , providing these
+workers a chance to earn serious rewards in crypto for performing
+easy & simple tasks such as installing apps and games , watching videos , and playing their favourite games , we believe that everyone
+must have a chance to join this space, rewardiqa is created to make
+your life better using the power of blockchain
+
+Our Vision & Mission
+Time and money equilibrium
+Time connects us all irrespective of our origin or social rank. Time is
+limited. Time is finite. We cannot retrieve or prolong time. In today’s
+world, our time is mostly controlled externally. Time is controlled by
+our jobs, our customers, our social obligations.
+We believe that every person in this world has the right to be in control of their own time. Implementing this right is our vision.
+Therefore, we aim to create an equilibrium between time and money.
+We are establishing a global reward app for doing simple tasks. People
+around the world will be able to make good money doing easy and
+simple tasks such as watching videos & installing apps
+Our mission is to give every person access to this opportunity no matter whether they come from a village in Vietnam, the outskirts of Berlin, or downtown Manhattan.
+6
+
+About Rewardiqa
+
+Rewardiqa is a global Reward app that pays people to perform small tasks , Earn money wherever and
+whenever you desire, earn cryptocurrency absolutly risk free , weither its bitcoin ethereum or our own
+rewardiqa token
+Introducing the REW Token
+REW Token is an ERC-20 token based cryptocurrency that allows peer to peer mode of payment, exchange, and storage of value in a trustless manner (i.e. without relying on financial institutions such as
+banks or governments for defining and controlling its value.
+Deployed on the decentralized Ethereum blockchain, REW token offers quick, secure, and efficient transfer of value with confirmation speeds up to 12 times faster than Bitcoin. The currency would be used for
+daily transactional activities happening within the Rewardiqa ecosystem and would serve as a store and
+exchange of value between users in a secure, efficient manner at reduced costs.
+We believe transactions should be fully transparent, and therefore all transactional activities happening within the Rewardiqa ecosystem are recorded on the Ethereum distributed ledger. This technology
+would ensure that the Rewardiqa Reward platform is publicly audited and fair. It will provide transparency to sender and receiver and enable them to track their transactions on the Ethereum public ledger,
+from the moment they make a transaction through the moment it goes to the final recipient.
+
+Rewardiqa’s Principles
+1. Effective global inclusion can only happen when all platforms participants can negotiate and settle
+efficiently
+2. The ability to earn and improve one’s condition is a basic human right
+3. Efficiency is about respecting the most valuable resource of all, time
+
+7
+
+Features of Rewardiqa Platform
+Security
+Based on the latest smart contract technology of Ethereum blockchain, rewardiqa inherits all security
+features provided by the Ethereum network. All transactional data is encrypted and resides on a decentralized.
+The rewardiqa platform will accept payment in its native currency, REW (with discounts to incentivise its
+use) and at normal rates with crypto currencies such as Bitcoin and Ethereum. REW will also be used to
+carry out payments in the platform. It’s important to point out that REW will be a utility token, and should
+not be used for speculative purposes.
+
+Decentralized
+Unlike medium of accounts, there is not a single point of failure. All the transaction activities are open
+and transparent to the whole community. Furthermore, the value is driven/controlled by the community
+rather than centralized entities.
+
+Easy Transactions
+Users can transfer rewardiqa to anyone, anywhere in the world, as long as the recipient is connected to
+the internet, in seconds.
+
+Transparency
+Blockchain technology provides open access to information at all times, thereby, ensuring a fully transparent process, accurate data records, and equal terms for everyone.
+
+Privacy
+Blockchain technology provides open access to information at all times, thereby, ensuring a fully transparent process, accurate data records, and equal terms for everyone.
+
+8
+
+Token Information
+Name : REWARDIQA
+Symbol : REW
+Token Standard : ERC-20 Token
+Features : Utility token
+Token exchange rate : 0.001 ETH per 1 REW (i.e. 1000 REW per 1 ETH)
+Planed listing on exchanges : 05-13 February 2020
+smart contract : 0x3ffffa8f3cc943e43f9f17a83cbb18f4bbb9f4ac
+Token supply : 21 billion
+The number of rewardiqa tokens will be strictly limited. no more REW tokens will be ever
+issued
+
+Support various Wallets
+Rewardiqa supports a variety of digital wallets e.g. MyEtherWallet,
+Mist, Metamask etc.
+
+9
+
+Disclaimer
+The present document serves to outline the planned project and has no
+binding effect. Although the team have set themselves the target of implementing the project, we cannot contractually promise specific project
+goals and purposes of use with regard to the REW tokens. All statements
+made in this document are to be exclusively understood as outlines of
+ideas, are non-binding, and do not claim to be either complete or correct.
+The reception and use of tokens is associated with a maximum risk, which
+is why we ask you to support the project financially only if you have read
+and accepted the risk disclosures and the general terms and conditions
+available under www.rewardiqa.com
+
+

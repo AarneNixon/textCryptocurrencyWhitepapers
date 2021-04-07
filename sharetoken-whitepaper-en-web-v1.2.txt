@@ -1,0 +1,1420 @@
+The world’s first blockchain
+powered marketplace for the
+sharing economy. One way to pay
+for sharing everything, no matter
+what it is or where you are.
+
+WHITE PAPER
+APRIL 15, 2018 - V1.2
+
+Disclaimer
+This document is a technical Whitepaper
+setting out the current and future developments of the ShareRing platform and
+the ShareRing ecosystem. An integral
+aspect of the ShareRing ecosystem is
+the issuance and usage of the crypto-token known as the ShareToken.
+This Whitepaper is for information purposes only and is NOT A STATEMENT
+OF FUTURE INTENT.
+Unless expressly specified otherwise,
+the products, services and innovations
+detailed in this Whitepaper are currently under development and are not currently deployed. The Promoters of this
+Whitepaper and all persons associated
+with its publication specifically make no
+warranties or representations as to the
+successful development, implementation or deployment of any technologies
+and innovations, or achievements of any
+other activities noted in this Whitepaper.
+The Promoters of this Whitepaper and
+all persons associated with the preparation and/or publication of this Whitepaper each disclaim to the fullest extent
+permitted by law any and all warranties
+implied by law.
+No person is entitled to rely on the
+information detailed in this Whitepaper or any inferences drawn from this
+Whitepaper, including in relation to any
+interactions with the ShareToken or the
+technologies mentioned in this Whitepaper. The Promoters of the Whitepaper and all persons associated with the
+preparation and/or publication of this
+Whitepaper each disclaim all liability for
+any loss or damage of whatsoever kind
+(whether foreseeable or not) which may
+
+arise from any person acting on any information and/or opinions relating to the
+ShareToken, the ShareRing platform or
+the ShareRing ecosystem or any information which is made available in connection with any further enquiries, notwithstanding any negligence default or
+lack of due care and skill.
+THE PROMOTERS OF THE WHITEPAPER AND ALL PERSONS ASSOCIATED
+WITH THE PREPARATION AND/OR
+PUBLICATION OF THIS WHITEPAPER
+TAKE NO RESPONSIBILITY NOR ASSUME ANY RESPONSIBILITY FOR ANY
+ERRORS THAT MAY BE CONTAINED IN
+THE WHITEPAPER.
+All information contained in this Whitepaper is derived from data obtained
+from sources believed by the Promoters of the Whitepaper and all persons
+associated with the preparation and/
+or publication of this Whitepaper to be
+reliable and is given in good faith. No
+warranties or guarantees, or representations are made by the Promoters of the
+Whitepaper and all persons associated
+with the preparation and/or publication
+of this Whitepaper with regard to the accuracy or completeness correctness or
+suitability of the information presented.
+Nothing in this Whitepaper should be
+relied upon, and shall not confer rights
+or remedies upon you or any of your
+employees, creditors, holders of securities or other equity holders or any
+other persons whether related to you or
+not. Any opinions expressed reflect the
+current judgement of the Promoters of
+this Whitepaper. The opinions reflected
+in this Whitepaper may change without
+
+notice and the opinions do not necessarily correspond to the opinions of the
+Promoters of the Whitepaper and/or any
+persons associated with the preparation
+and/or publication of this Whitepaper.
+The Promoters of this Whitepaper do not
+have any obligation to amend, modify or
+update this Whitepaper or to otherwise
+notify any reader or recipient of this
+Whitepaper in the event that any matter
+related or stated in this Whitepaper or
+any opinion, projection, forecast or estimate detailed in this Whitepaper changes or subsequently becomes inaccurate.
+The Promoters of the Whitepaper
+and all persons associated with the
+preparation and/or publication of this
+Whitepaper do not have any responsibility or liability to any personal recipient (whether by reason of negligence,
+negligent misstatement or otherwise,
+arising from any statement, opinion or
+information expressed or implied arising
+out of contained in or derived from or
+omission from this Whitepaper. Neither
+the Promoters nor its advisers have independently verified any of the information, including the forecasts, prospects
+and projections contained in this paper.
+The Promoters of the Whitepaper and all
+persons associated with the preparation
+and/or publication of this Whitepaper do
+not accept any liability that may arise out
+of any information contained or implied
+in this Whitepaper.
+Each recipient of this Whitepaper is to
+rely solely on its/his/her knowledge, investigation, judgement and assessment
+of the matters which are the subject of
+this Whitepaper and any information
+which is made available in connection
+
+with any further enquiries and such recipient must satisfy itself/himself/herself
+as to the accuracy and completeness of
+such matter.
+While the Promoters of the Whitepaper and all persons associated with the
+preparation and/or publication of this
+Whitepaper have attempted to ensure
+that statements of facts made in this
+Whitepaper are accurate, all estimates,
+projections, forecasts, prospects, expressions of opinion and other subjective judgements contained in this
+Whitepaper are based on assumptions
+considered to be reasonable as at the
+date of this Whitepaper in which they
+are contained and must not be construed as a representation that the matters referred to in this Whitepaper will
+occur.
+Problems can occur and as such all
+recipients who act upon the contents
+of this Whitepaper do so at their own
+risk and fully assume the responsibility
+for such action to the exclusion of the
+Promoters of the Whitepaper and all
+persons associated with the preparation and/or publication of this Whitepaper. Any plans, projections or forecasts
+mentioned in this Whitepaper may not
+be achieved due to multiple risk factors including without limitation defects
+in technology development, legal and
+regulatory exposure, market volatility,
+sector volatility, corporate actions or the
+unavailability of complete and accurate
+information.
+
+the inclusion of a hyperlink does not imply that the Promoters of the Whitepaper and/or any persons associated with
+the preparation and/or publication of
+this Whitepaper endorses, recommends
+or approves any material on the linked
+page or accessible from it. Such linked
+websites must be accessed entirely at
+the recipient’s own risk. The Promoters
+of the Whitepaper and/or any persons
+associated with the preparation and/or
+publication of this Whitepaper do not
+accept any risk or liability whatsoever to
+any such material, nor for consequences
+of its use.
+This Whitepaper IS NOT AN OFFER
+TO, and shall not be distributed or
+disseminated to any citizens, nationals,
+residents (tax or otherwise) and/or
+green card holders of each of: (i) the
+United States of America; or (ii) the
+Peoples Republic of China
+
+The Whitepaper may refer to a number
+of hyperlinks to websites of entities
+mentioned in this Whitepaper, however.
+WHITE PAPER
+APRIL 15, 2018 - V1.2
+
+Disclaimer
+There is no guarantee that the tokens
+will retain or increase in value. Tokens
+are not backed by any hard assets or
+other credit nor is it a commodity in the
+traditional sense of the word. As such
+ShareToken and SharePay have no
+intrinsic value and there is no
+guarantee that they will hold any
+particular value. Participants could
+potentially lose all or part of the value of
+the tokens.
+
+The legal position and regulation of
+tokens, distributed ledger technology
+and blockchain technology is unclear
+and unsettled. There is uncertainty as
+to how and whether regulatory
+authorities
+may
+apply
+existing
+regulation to tokens and such
+technology and whether new laws and
+regulations will be implemented
+governing
+tokens
+and
+such
+technology.
+
+The tokens are not designed to be, do
+not have the purpose or effect of, and
+are not intended to be securities,
+currency, interests in a collective
+investment
+scheme,
+shares,
+debentures, ownership interests in the
+Platform, right to participate in the
+control, direction, decision-making or
+management of the Platform, or carry
+the right to profit, or receive income or
+other returns of ShareRing Ltd or the
+Platform.
+
+Recipients of the White Paper
+represent and warrant that the
+distribution or dissemination of the
+White Paper, or possession of the
+White Paper by them, is not prohibited
+or restricted in their jurisdiction.
+
+The White Paper does not constitute
+an offer or solicitation of an offer, in
+particular an offer or solicitation of an
+offer of securities.
+The White Paper does not constitute
+advice or a recommendation.
+The WhitePaper hasn't been reviewed
+or approved by any regulatory
+authority.
+The
+publication,
+distribution
+or
+dissemination of the White Paper does
+not imply that applicable laws,
+regulations or rules have been
+complied with.
+
+There are no known potential uses of
+tokens outside the Platform.
+At the time of publication, the tokens
+cannot be traded on any exchange,
+and we cannot guarantee that tokens
+will be accepted for trading by any
+exchange in the future.
+The tokens should not be acquired for
+speculative or investment purposes
+with the expectation of making an
+investment return .
+
+The promoters of the White Paper
+and all persons associated with it
+disclaim all express and implied
+representations
+and
+warranties,
+including any representations or
+warranties relating to ownership,
+merchantability, fitness for a particular
+purpose, non-infringement of third
+party rights, that the platform is
+reliable, current, secure, error-free,
+meets your requirements or is free of
+viruses or other harmful components,
+or that defects will be corrected.
+No person has been or is authorised
+to
+give
+any
+information
+or
+representation not contained
+
+This Whitepaper is only available on
+https://sharering.network and may not
+be distributed, reproduced or passed on
+to any other person or published, in part
+or in whole, for any purpose without
+the prior written consent of the
+Promoters. The manner of distribution
+this Whitepa-per may be restricted by
+law
+or
+regula-tion
+in
+certain
+jurisdictions. Persons who possess this
+Whitepaper must observe all such
+restrictions.
+By
+accessing
+this
+Whitepaper,
+the recipient agrees to be bound
+by the above limitations detailed
+in this disclaimer.
+
+in this White Paper in relation to the
+ShareRing ecosystem and tokens
+and, if given, such information or
+representation must not be relied
+upon as having been authorised by
+or on behalf of ShareRing Ltd.
+There are risks associated with
+mining attacks, hacking or other
+security intrusions, and ma/function of
+the Platform and/or the blockchain
+technology.
+
+The White Paper does not constitute a
+contract or agreement and is not
+legally binding. Any sale and purchase
+of tokens is to be governed by a
+separate legally binding agreement.
+Persons should consult their own
+legal, tax, finance or other professional
+advisers before participating.
+
+WHITE PAPER
+APRIL 15, 2018 - V1.2
+
+Abstract
+The utility token
+from ShareRing,
+the developers of
+an open-source
+blockchain based
+platform for the
+sharing economy
+
+ShareRing are the developers of the ShareLedger blockchain, a ‘smart
+service system’ that makes it far easier on a global level for millions of
+customers to access, and use on demand, a wide range of assets within
+the fast-growing sharing economy. This newly emerging, but highly
+fragmented industry, is currently worth over $100 billion. It is predicted to
+grow to at least $335 billion by 20251.
+ShareRing™ maintains it can be the Amazon of the sharing economy.
+Why? Simple - ShareRing™ will enable you, and millions like you, to use a
+single app that gives you access to any available asset you wish to rent,
+borrow or share anywhere in the world at any time.
+ShareRing™ has incorporated a number of core elements that together
+create the smart sharing on-demand service system. These elements are:
+A custom-designed distributed blockchain (ShareLedger), which
+is already in development. ShareLedger will be harvesting one of
+the most recent developments in blockchain technology, i.e. a dual
+token mechanism. ShareToken (SHR) will be used as the utility token
+of the platform, while the second token, SharePay (SHRP), will be
+used as the currency for sharing services. If we were to think of this
+as a running car, then the analogy would be that we are providing
+both the fuel and the oil needed to run it, whereas most other companies and blockchain projects simply provide the fuel!
+Aspects of a proven platform and API which are already being used
+worldwide in the sharing economy.
+A clever, integrated smartphone app
+Ongoing mechanisms for creating a strong and growing network of
+providers and users
+
+1. Source: https://www.brookings.edu/research/the-current-and-future-state-of-the-sharing-economy
+
+WHITE PAPER
+APRIL 15, 2018 - V1.2
+
+The Market Place
+ShareRing are
+launching a
+blockchain powered
+market place for
+the $100bn sharing
+economy.
+
+ShareRing are launching a blockchain powered marketplace for the
+$100bn sharing economy. By using the ShareRing platform, anyone
+can position themselves be the next Airbnb or Uber. Imagine being
+able to use and sharing service globally, with 1 login, 1 payment
+system, no foreign exchange fee’s, and a higher level of trust when
+compared to any other sharing service available today.
+One study by PriceWaterhouseCoopers (2016) showed the European sharing economy growing very quickly: “with transactions [on
+platforms] almost doubling to £7.4bn in 2015” from £3.9bn in 2014.
+PWC projected: “Going forward, we expect the UK’s sharing economy to expand at over 30% per year over the next decade, generating £18bn of revenue for platforms and facilitating about £140bn
+worth of transactions per year by 2025.”
+Source: https://www.pwc.co.uk/issues/megatrends/collisions/sharingeconomy/outlook-for-the-sharing-economy-in-the-uk-2016.html
+
+Global growth for ShareRing will come from the implemenatation of
+it’s two sided marketing plan that supports B2B and B2C. The global
+community will be driven and nurtured by community managers, lead
+by ShareRing’s Global Community Manager. Community managers
+will be responsible for building community networks, driving the
+education and expansion of the ShareRing community.
+The Global Providers will be recruited to join the platform with a low
+barrier to entry, making it easy to join the global directory immediately. They will then have options to expand their use of the ShareRing
+marketplace features to engage more customers to use their assets.
+The ShareRing business developement team lead by the Global
+Sales Director, will target providers by vertical industries in strategic
+target markets starting with HK & China, Australia, UK and North
+America. A variety of european countries are also under review.
+
+1. Source: https://www.brookings.edu/research/the-current-and-future-state-of-the-sharing-economy
+
+WHITE PAPER
+APRIL 15, 2018 - V1.2
+
+The Origin
+Of ShareRing
+Keaz is the genesis from which ShareRing was born.
+Established mid-2013, Keaz is a global leader in white label car sharing
+solutions with offices in Australia, Vietnam, Hong Kong, United States,
+New Zealand and plans of expansion into Europe for 2018. Our core
+technology, KeazACCESS, was released in May 2015 and now manages
+and provides daily access to over 8000 people sharing vehicle assets
+globally2. KeazACCESS is a powerful cloud- delivered ecosystem enabling
+enterprises, governments, organisations, communities and individuals to
+share and digitally access assets, as well as enhance mobility services
+from anywhere in the world.
+The KeazACCESS ecosystem addresses three hyper-growth global markets which are: (i) Vehicle & Passenger Mobility, (ii) the Sharing Economy,
+and (iii) Internet of Things (IoT) integration. While Keaz has grown and
+proven to be solving a real-world problem in the sharing economy, it is
+still only a starting point. The market is still in its infancy and no single
+company has fully capitalized on the full potential of it yet.
+
+About the ShareRing
+Development Team
+Headed by our lead developer, Tony Doan, the dedicated and long-established ShareRing team of blockchain engineers, has won a number of
+development related awards including, most recently, the prestigious top
+prize at the May 2018 Blockchain Hackathon in Vietnam . The team currently consists of 5 experienced, full-time blockchain developers, a project
+manager and a graphic designer. They were also heavily involved in the
+initial development of the KeazACCESS platform API, so their experience
+within the sharing economy and blockchain industry is unparalleled. The
+team will be expanded to 15 full-time developers over the coming months.
+
+That is why we have decided to take things to the next level.
+
+2. Source: www.keaz.co
+
+WHITE PAPER
+APRIL 15, 2018 - V1.2
+
+The Problem
+Can you name more than five companies that operate within the sharing
+economy? There’s AirBnB, Uber, then you might draw a blank.
+
+The Solution
+
+Do a quick Google search and you might be surprised to find there are
+thousands of companies around the world that operate within the sharing
+economy. They offer sharing services including everything from apartments, tools, office space, storage, heavy equipment, caravans, camping
+equipment, cars, meals, information and more. However, this has led to a
+fragmented access to the overall sharing economy, with compartmentalised
+services that, more often than not, vary widely in the manner in which one
+may make use of them.
+
+ShareRing™ not only provides the solution to these issues, but it also
+offers additional benefits. The ShareLedger blockchain is a core component of this because it enables universal access to every asset attached
+to the ShareRing™ smart system.
+
+The inherent problem of gaining access is significant, and the following are
+only some of the problems in the present state of the sharing economy:
+Currently, providers are heavily segmented or operate only within very
+small local markets.
+Signing up for these ‘sharing economy’ companies is a huge hassle for
+you. Each one has a different method to sign up and identify oneself
+to gain access to their platform and ‘assets’.
+The method through which you make sure you gain the asset, when,
+where and in the form you want, is uncertain and at times complicated
+If you’re travelling and wish to use one of these platforms, many
+providers only allow access to local residents, or charge international
+travellers in their local currency, creating frustration due to the additional bureaucracies and costs involved.
+Finally, there’s the ‘trust’ issue. How do you know that the company
+or individual provider is ethical and legitimate? What recourse do you
+have if anything goes wrong? What about the database, is it secure,
+is your privacy protected, will it still be online tomorrow? Trust is of
+fundamental importance when it comes to sharing assets belonging to
+third parties or services offered by such third parties, so we set out on
+a singular mission: placing trust back where it belongs.
+
+Four years ago, the founders of Keaz Limited conceived the idea of an
+individual or organisation using just a single app to access any type of
+asset anywhere and at any time to rent, borrow or share. However, at the
+time, the task of creating an app with universal access seemed insurmountable due to the technological limits present back then. Therefore,
+the founders of Keaz focused their efforts on becoming the #1 platform for
+vehicle sharing globally. This they have done with resounding success.
+Now with the introduction and global scale of blockchain technology, the
+Keaz team is certain they can solve the issues holding the global sharing
+economy back, while also bringing to fruition the initial vision the founders
+had four years ago. The answer is ShareRing™.
+
+WHITE PAPER
+APRIL 15, 2018 - V1.2
+
+Why Choose the
+Sharing Economy?
+
+Areas of ShareRing
+Application
+
+Oxford defines the Sharing Economy as an economic system in which
+assets or services are shared between private individuals (either free
+or for a fee), typically by means of the Internet. It is an economy built on
+collaboration and on trust.
+
+Below are just a few examples of areas where ShareRing™ will be used. ShareLedger, the platform that is based
+upon our original KeazACCESS concept, is being further developed in a way that allows for the sharing of virtually
+any asset, as outlined in the following list:
+
+We’ve chosen to further develop and focus on the Sharing Economy
+because it:
+Reduces global footprints, offering greater social sustainability
+Is in its infancy - Airbnb was founded only in 2008 and Uber in 2009!
+
+Transport		
+
+ShareLedger can be used for the rental of cars, trucks, scooters, trailers,
+and even heavy vehicles.
+
+Has a global reach
+
+Delivery Drivers		
+
+Using ShareLedger to facilitate booking and payment for delivery drivers.
+
+Is experiencing rapid growth
+
+Agriculture		
+
+Garden sharing, seed swap, bee-hive relocation, etc.
+
+Has multiple characteristics around asset identification, identity and
+security that perfectly suit our blockchain platform
+
+Finance			
+
+Peer to peer lending
+
+Food			
+
+Food bank, social dining
+
+Travel			
+
+Tours, shared tour groups
+
+Real Estate		
+
+Airbnb, co-housing, co-living, Couchsurfing, shared office space, house swapping.
+
+Time			
+
+Labour, co-working, freelancing
+
+Assets			
+
+Book swapping, clothes swapping, fractional ownership, freecycling, toy libraries.
+
+Transportation		
+
+Car sharing, ride sharing, car-pooling, bicycle sharing, delivery company, couriers
+
+Is multi-faceted, and has many product-market segments
+
+Has multiple benefits for both asset providers and users.
+
+And so much more!
+WHITE PAPER
+APRIL 15, 2018 - V1.2
+
+Features and Benefits that
+the ShareLedger blockchain
+platform will provide over
+traditional cloud/server
+hosting sharing platforms
+Quick and easy ‘sharing’ transaction validation.
+Immutable records of data.
+Additional attributes may be added to an account, such as ID
+confirmation, rental history, asset ownership, etc.
+SharePay (SHRP) is used by customers to pay for the rental of
+assets. ShareToken (SHR) is used by providers to pay for their
+access to the ShareLedger blockchain, including the addition
+of assets, renting out of assets, adding attributes, adding smart
+contracts, and other features.
+A provider can earn SharePay by renting out their asset (ie. car),
+and then use those tokens for example to rent an apartment, thanks
+to the multi-industry application.
+Earn additional tokens by hosting a node.
+Custom ‘rules’ may be added to assets or wallets to allow for
+various ‘sharing’ scenarios.
+
+WHITE PAPER
+APRIL 15, 2018 - V1.2
+
+The ShareLedger
+Blockchain Platform
+When developing the ShareLedger blockchain platform, the development
+team will leverage the experience and registered intellectual property
+from the existing KeazACCESS framework by moving the relevant
+components into a newly designed blockchain, as well as the team’s
+extensive experience in blockchain technology in general.
+The ShareLedger blockchain will be a dual token ledger. The reason
+why we have chosen token-duality as a model for our system is that of
+ensuring a stable ongoing service, with the price for the use of such
+service determined for an indefinite period of time.
+The ShareLedger will consist of the following primary elements:
+SharePay (SHRP) – SharePay is the base currency that will allow users of
+the ShareRing platform to pay for the use of third party assets.
+ShareToken (SHR) – – ShareToken is the digital utility token that
+drives sharing transactions to be written to the ShareRing ledger that is
+managed by the ShareRing platform.
+
+Account – This will be a standard account, which such an account being
+represented by a 24-byte address. The account will contain 4 general
+fields:
+SHRP – SharePay token balance
+SHR – ShareToken balance
+ASSETS – linked/owned by the account (see below for definition of
+an Asset)
+ATTRIBUTES – Any additional attributes that are associated with
+this account. These attributes may be updated or added by Sharing
+Economy providers that utilise the ledger such as ID checks by
+rental companies. These attributes may be ‘global’ (i.e. used by any
+sharing providers) or ‘local’ (i.e. used by a specific sharing provider).
+Assets – An asset represents a tangible real-world or digital asset that is
+being shared, such as a car, a house, industrial machinery, an e-book, and
+so on.
+Smart Contracts – Similar to a number of other blockchain platforms,
+such as Ethereum and NEO, the ShareLedger blockchain will feature
+highly customisable smart contracts. These Smart Contracts will allow for
+decentralised autonomous applications that can be attached to an asset
+and/or account. Every smart contract will be Turing complete, meaning
+it will have the ability to implement sophisticated logic to manage the
+sharing of the assets. The smart contracts will be tested and reviewed by
+ShareRing in a sandbox as well as audited by reputable third-party code
+auditors prior to implementation.
+
+WHITE PAPER
+APRIL 15, 2018 - V1.2
+
+The Utility of
+ShareRing
+Accounts
+The ShareLedger wallet will be a lightweight wallet, written in Javascript.
+It will connect to the remote nodes via RPC for access to the blockchain.
+Since it won’t be hosting a copy of the blockchain, the download size for
+the wallet will only be a few kilobytes and will be an in-browser wallet that
+can be used on PCs and smartphones.
+The Wallet will contain all of the standard functions of a wallet, including:
+View ShareToken and SharePay balances
+Transfer ShareToken and SharePay to another wallet
+Purchase ShareToken
+View transaction history
+Viewing leased assets
+The ShareRing wallet will be designed to be as exciting, easy to use, and
+multi-functional as possible.
+
+Assets
+The represented assets will be tokenised so that they may be moved
+into a wallet address. An asset will have the ability to have a predefined
+smart contract associated with it that will contain specific rules. This
+may include rules such as ‘temporary’ wallet moves, ownership levels,
+and restrictions on what type of account can be moved based on the
+‘attributes’ associated with the account. The customisation of these assets
+will be available to developers and sharing economy service providers.
+Attributes can also be added to assets, which attributes are particular to
+that assets itself, such as:
+Asset type
+Number of wheels
+
+Colour
+Number of beds
+Rooms
+Location
+Initially, the smart contracts that are associated with an asset will be
+predefined and providers will only have the ability to change the variables
+associated with the smart contract. Later on, a toolkit will be provided for
+the creation of custom smart contracts.
+
+Proof-of-Stake Consensus
+We have chosen the Leased Proof-of-Stake protocol as the consensus
+algorithm for ShareLedger. This choice is based on the practicality and
+security benefits evident in the Waves platform. It is also much more cost
+effective than Proof-of-Work (POW), and will not suffer from the current
+issues Bitcoin and other POW cryptocurrencies are facing such as scalability and electricity consumption.
+Leased Proof-of-Stake protocol is an improved variation of the vanilla
+Proof-of-Stake protocol that eliminates its security flaws such as consensus failure and the double spend problem. It is a two-tier architecture system consisting of full nodes and lightweight nodes. Full nodes will form
+the backbone of the ShareLedger network and the leasing functionality
+of lightweight nodes will strengthen it. By reducing the number of nodes
+that are eligible to add the next block to the blockchain, transaction times
+will be reduced and overall transaction throughput increases. A user with
+a lightweight node will be able to stake their tokens to a full node of their
+choosing and participate in reaching consensus. They will also be free
+to cancel their leasing at any time as there are no contracts or freezing
+periods. The more tokens that have been staked in a full node, the higher
+the probability the node will have in producing the next block. Since the
+reward is given based on the total number of tokens staked in the full
+node, there will always be a trade-off between the size of the full node
+and the percentage of the reward.
+As an average user of the platform, you will not need to have technical
+knowledge on how to set up a node nor will you have to download the
+entire blockchain in order to stake your tokens. Only a user who sets up
+a full node will be required to do this, making it simpler than ever for users
+to earn a reward for supporting the platform.
+WHITE PAPER
+APRIL 15, 2018 - V1.2
+
+Simplistic View
+SERVICES
+
+FIAT
+
+FIAT
+
+RMB
+
+UNLIMITED
+
+EXCHANGE
+
+SHR (LIMITED)
+DRIVES SHR
+BLOCKCHAIN
+
+HOW DO YOU
+CREATE VALUE
+FOR THIS TOKEN?
+
+MASTER NODE FEES
+
+CONVERSION
+SHARERING
+
+SHRP
+(PEGGED)
+
+USD
+
+SHRP
+
+EURO
+
+FIAT
+
+HIGHER RETURNS FOR
+NODES VS SHR HOLDERS
+
+WHITE PAPER
+APRIL 15, 2018 - V1.2
+
+The
+ShareRing
+App
+A universal ‘ShareRing’ app is being developed that will allow anyone to
+easily see and use any sharing services around them. Each partner will
+have the option of developing a ‘mini’ app within the ShareRing app that
+will have functionalities specific to that partner. The app will use geolocation-based services to display the ShareRing services that are nearby.
+
+The final look and feel of the app may change as development progresses.
+
+WHITE PAPER
+APRIL 15, 2018 - V1.2
+
+ShareRing
+Transaction Fees
+Most transactions, with the exception of exchanging SharePay to
+ShareToken between wallets on the ShareLedger blockchain, will incur a
+small transaction fee payable - by providers - in ShareToken (SHR). This
+fee will reduce over time, inversely proportional to the current demand
+of SHR tokens. The SHR will then be distributed amongst stakeholders
+according to the table in the ‘Transaction Distribution’ section of this
+document.
+As detailed previously, ShareLedger utilises a dual token platform that
+separates the utility and currency into two different tokens. SHR operates
+as the utility token of the platform and SHRP becomes the ‘currency’ of
+the blockchain. This has a number of benefits, namely:
+Commercial/Individual users of the ShareLedger blockchain do not
+need to go through the effort of purchasing a SHR cryptocurrency
+on an exchange to be able to use the ShareRing ecosystem.
+Price fluctuations for users of the blockchain will be avoided.
+Users may pay for marketwith various forms of Fiat currencies.
+
+Transaction Fee
+Distribution
+As indicated above, when a
+transaction fee is incurred, it
+will be distributed in a way that
+allows for masternode holders
+who provide a service to the
+platform to receive a reward
+from each transaction.
+Transaction fees are charged to
+sharing providers in SHR.
+
+of Total Amount Staked and the
+total continuous uptime of the
+node.
+50% - will be provided to
+ShareRing Ltd for various
+purposes that contribute to
+working capital and platform
+growth.
+
+The distribution of transaction
+fees will be as follows:
+50% - will be distributed amongst
+the active masternode holders
+who host an active node on the
+blockchain at that point in time
+(these holders provide a service
+to the platform). The distribution
+will be based on a calculation
+
+knowledge of blockchain/crypto is necessary to utilise the
+ShareRing ecosystem.
+
+WHITE PAPER
+APRIL 15, 2018 - V1.2
+
+Fee and
+SHR TOKEN
+Earn Examples
+
+Initial SHR
+TRANSACTOIN
+FEE Target
+
+RENT4ME LTD., a small start-up with 100 rental vehicles,
+develops a Car Sharing user interface and integrates it
+within the ShareRing platform. This allows them to scale,
+automate their processes, increase their security/trust, and
+have exposure to a wider audience.
+
+If we take the above transaction
+revenue for RENT4ME LTD
+and expand it to match the
+existing customer base of Keaz,
+predominantly being car sharing
+organisations, then the expected
+initial transaction revenue for
+ShareRing could be 750,000
+SHR per month. Using the first
+example above, this would result
+in a monthly profit of 720,468.88
+SHR, meaning that the overhead
+percentage is only that of 3.37%
+- a far cry from the exorbitant
+cuts of current localised and
+centralised platforms.
+
+STEPS:
+
+TRANSACTION FEE:
+
+After their user interface is complete, RENT4ME adds 100 cars as assets
+to the platform. The one-off transaction fee to add each car is 5.0 SHR.
+
+100 x 5 = 500 SHR
+
+RENT4ME then adds 14 custom attributes to each of the 100 cars (VIN,
+REGO, Rental Policy, Rental Cost, etc) @ 0.80 SHR per attribute.
+
+100 x (14 x 0.08) = 1120 SHR
+
+RENT4ME then starts renting out the vehicles. They have an average
+of 8 transactions per day, per vehicle (rental and return) @ 1 SHR per
+transaction.
+
+8 x 100 x 1 = 800 SHR per day
+(24333 SHR/mth)
+
+TOTAL TRANSACTION FEES PAID PER MONTH BY RENT4ME LTD.
+TO UTILISE THE SHARETOKEN BLOCKCHAIN:
+
+25953 SHR for month 1
+then 24333 SHR per month.
+
+2 Year
+Target
+Based on projections, we expect
+that within 24 months there will
+be at least 1,000,000 assets in
+the ShareRing ecosystem with
+an average transaction fee of 20
+SHR per month. Such forecast is
+based on our projections of asset
+types and usage patterns thanks
+to our extensive experience
+within the Sharing Economy.
+
+WHITE PAPER
+APRIL 15, 2018 - V1.2
+
+Development Timeline
+2017
+
+August 2017
+
+High Level
+Scope Defined
+
+2018
+
+2019
+
+December
+
+July 2019
+
+September
+
+Consensus Model
+Agreed On
+
+ShareLedger
+Public Availability
+
+Go Live For
+Production
+
+October
+
+January 2018
+
+Feb 2019
+
+July 2019
+
+Development R&D
+On Consensus
+Model
+
+Development
+Commences On
+Nodes
+
+Nodes & Wallets
+Released For
+Review
+
+Pilot Clients Added
+To ShareRing
+
+WHITE PAPER
+APRIL 15, 2018 - V1.2
+
+Token Sale
+Terms of Issue
+The SHR token will be issued on the Ethereum blockchain using an
+ERC20 token standard. The tokens will be swapped on a 1:1 basis when
+the ShareLedger blockchain main-net is launched.
+Pre-Token Sharing Event (TSE) – February 2018
+Pre-TSE ends – May 2018
+TSE period – June 4th 2018
+We plan on selling the SHR tokens via a White List sale process, with a
+KYC (know your client) verification process for all contributions.
+
+Note: SHRP will not be available for sale via the Token Sharing Event.
+Note: Unfortunately, US and Chinese tax residents are not allowed to
+participate in our token sale..
+Note: There is no minimum investment for the main sale, but KYC and
+Whitelisting is essential. This can be done by clicking the WHITELIST link
+on our home page.
+
+Contribution
+Tiers
+A total of 3,000,000,000 (three
+billion) tokens will be available
+for purchase, with a USD hard
+cap of $38,000,000. The
+exchange rates will be fixed each
+day @ 12am UTC. The tiers for
+each sale period are outlined
+below:
+Pre-TSE – 1 SHR = $0.01
+($25,000,000 @ 50%
+discount) – 2,500,000,000
+SHR tokens
+Main TSE – 1 SHR =
+$0.02 ($10,000,000 @ no
+discount) – 500,000,000
+SHR tokens
+
+Note: The minimum contribution
+for pre-sale participants will be
+$150,000. Pre-sale participants
+will have their tokens locked for
+a maximum period of 3 months
+from the end of the token sale
+event.
+
+WHITE PAPER
+APRIL 15, 2018 - V1.2
+
+Token
+Allocation
+
+Funding
+Allocation
+
+Upon completion of the sale period, SHR Tokens will be distributed
+as follows:
+
+All of the funds that are held in cryptocurrencies by the ShareRing
+treasury will be auditable by the public, as the public address of the
+cryptocurrency wallets will be published on the ShareRing website. An
+explanation of any major expenditure will also be listed publicly on the
+ShareRing website. The funds will be allocated roughly as follows. A full
+budget will be presented during the ICO main sale:
+
+Airdrop
+1%
+
+Advisors
+10%
+
+30% allocated to main-net development, including the integration of
+KeazACCESS as the first ‘client’ to be integrated to the ShareLedger.
+10% allocated for external reviews and technology validation by
+third party consultants and auditors.
+
+Token Sale
+Contributors
+60%
+
+Bounty Program
+5%
+
+30% allocated for setting up ‘incubators’ and bonuses that will start
+working on 3rd party product integrations with the platform.
+20% allocated for global marketing and promotions.
+10% for contingency funds
+NOTE: Any unsold tokens during the token sale will be locked up
+and used for the start-up incubation programs.
+
+ShareRing
+24%
+
+WHITE PAPER
+APRIL 15, 2018 - V1.2
+
+The ShareRing
+Core Team
+Tim
+Bos
+
+Rohan
+LePage
+
+Neville
+Christie
+
+Peter
+David
+
+Jane
+Sadler-Kidd
+
+CEO
+
+COO
+
+Investment Director
+
+Non-Executive Director
+
+Non-Executive Director
+
+Tim is an experienced blockchain
+engineer and entrepreneur who has
+founded several succesful sharing
+economy and IoT related companies,
+including global car-sharing platform
+Keaz, which has offices in Australia,
+Hong Kong, Vietnam and the USA.
+
+A highly competent business manager, Rohan’s experience in online
+analytics spans many years. He is
+highly sought after in this sphere with
+a renowned reputation which speaks
+for itself. With a strong background in
+major automotive, plant equipment
+and e-commerce brands, Rohan’s
+knowledge of the rental (sharing)
+space is exemplary. His keen interest
+in crypto mining technology and
+hardware has lead him to become
+an expert in this field, from which he
+has derived great deal of experience
+since installing a crypto mining farm
+of his own in 2015.
+
+As the grey-haired member of
+ShareRing team, and our Investment
+Director, Neville Christie’s career
+has covered a very wide range of
+industries and roles. At various times
+Neville has acted as chair, facilitator,
+innovator, entrepreneur, business
+mentor, venture banker, chair of strategic innovation boards, and futurist.
+
+Peter has a lifetime of experience
+in every aspect of growing global
+technology businesses. As CEO,
+COO or general manager, he has led
+several startups to generate total
+revenue of more than $300 million.
+In 2013 he founded Keaz with Tim
+Bos and currently serves as the
+company’s CEO.
+
+In all cases, his core function has
+been to drive exceptional people,
+disruptive technologies, start-ups,
+and mature businesses to become
+more innovative and impactful at
+scale, without sacrificing the authenticity of ‘soul’, or total well-being, of
+the businesses or the individuals
+leading them.
+
+Prior to Keaz, Peter held many many
+management roles in both privately
+held and publicly listed companies.
+Most recently, he was the GM for
+Pronto, managing an ERP team of
+71 staff.
+
+A founding shareholder of Keaz and
+ShareRing, Jane provides financial
+oversight, budgeting and financial
+forecasting support to the executive
+team. As an FCA her career has
+taken her from audit partner, with a
+national UK accountancy practice,
+through corporate finance advisory
+and interim management at board
+level, to her current focus on broader
+change management and organisational development.
+
+Priot to this, he has held senior roles
+with a number of widely recognised
+and respected organisations,
+including Program Manager at
+Avanade Australia (a Microsoft and
+Accenture joint venture), Associate
+Director at Barclays Capital,
+Project Manager at GE Capital, IT
+Infrastructure Manager at Atari –
+Melbourne House, and Principal
+Consultant at Software Spectrum.
+
+Neville’s strong focus on the continued success of ShareRing is part
+of his abiding interest in two special
+kinds of projects – those that add at
+least $100+ million value to the world,
+and those that positively improve the
+well-being of at least 1 million people
+world-wide. ShareRing admirably fits
+this profile.
+
+Peter grew up in Palo Alto and
+studied his MBA at Santa Clara
+University’s Leavey Business School.
+
+With experience working in UK,
+Russia, Middle East and Asia, she
+brings a clear understanding of both;
+the financial and organisational challenges facing a fast growing business
+operating in a global environment;
+and the need to establish robust
+financial practices to track and manage resources effectively in order to
+support the planned rapid growth.
+
+WHITE PAPER
+APRIL 15, 2018 - V1.2
+
+The ShareRing
+Core Development Team
+Trung
+
+Trang
+
+Tan
+
+Manh
+
+Tung
+
+Senior Developer
+
+Senior Developer
+
+Developer
+
+Developer
+
+Developer
+
+Trung is a highly skilled developer
+and leader. He has a Bachelor and
+Master degrees in Information
+Engineering from Hamburg University
+of Applied Sciences. With 10 years’
+experience in software development
+of embedded, backend, telecom,
+desktop applications, Trung has
+headed countless projects in his
+home country including development
+of Ethereum blockchain-based
+cryptocurrency applications. Now
+residing in HCMC, Trung brings
+valuable expertise to ShareRing. We
+are very excited to have Trung on
+board.
+
+Trang is an experienced backend developer with an extensive
+knowledge in network, cryptography
+and blockchain. With a Bachelor of
+Science degree from Vietnam National University, Hanoi and a Masters
+degree from Norwegian Technology
+National University and Aalto University, Finland under Erasmus Mundus
+Scholarship, she possesses highly
+sort after academic qualifications
+and technical skills. She’s passionate
+about blockchain technology, mainly
+within Ethereum & Solidity programming language, Proof of Stake to
+underlying cryptographic primitives
+such as Linkable Ring Signature,
+zk-SNARK. Trang brings fantastic
+experience to the ShareRing team.
+
+Tan is a passionate developer who
+loves to work with core system programming where software has very
+low tolerance for failure and where
+clean architecture, as well as design
+pattern, is applied rigorously. Tan’s
+new passion is Blockchain and Deep
+Learning technologies. Largely selftaught, Tan brings a fresh perspective to the ShareRing team.
+
+Manh has seven years’ experience
+in web development with tools like
+Python and NodeJS. He gained
+a Bachelor of Computer Science
+degree from Thang Long University.
+He’s previously worked on education
+and entertainment projects like
+Classbook and FlixTV. He has a
+passion for blockchain technology
+and wants to build a breakthrough
+application using blockchain.
+His experience and expertise
+adds another dimension to our
+development team.
+
+Tung joined ShareRing as a Web
+Application Developer in our Vietnam office. Tung is keen to use his
+prior experience in web application
+development, to help develop the
+ShareRing platform. Tung’s view is
+that blockchain is the “new trend
+of the world”. His family and friends
+would describe him as romantic and
+handsome. When he tells others
+about being part of the ShareRing
+team, he gets very excited because
+of ShareRing’s clear vision for a positive future for the world.
+
+WHITE PAPER
+APRIL 15, 2018 - V1.2
+
+The ShareRing
+Advisory Team
+Adrian
+McCullagh
+
+Christopher
+Emms
+
+Jonathan
+Galea
+
+Anna
+Melton
+
+Adrian has been a solicitor for 30
+years having concentrated on IT law,
+and IT security law. He is presently
+advising on Blockchain technology
+and its legal impact and is currently
+working on 6 ICOs across multiple
+jurisdictions.
+
+Christopher is a serial entrepreneur
+with extensive experience working
+with Startups and Ventures. Having
+worked in senior roles for some of
+Europe’s most exciting technology
+Startups across the UK and Berlin,
+where he was first introduced to
+Blockchain, particularly within the Fintech space. Christopher advises businesses on Blockchain eco-systems,
+regulatory requirements, Whitepaper
+Structuring and Appraisals, Business
+Plans, Token Design, and Architecture.
+
+Jonathan’s considerable experience
+in the blockchain sector ranges from
+a close study on the developing
+regulation in the area to hands-on
+experience in the technical and economic aspects of cryptocurrencies,
+one of the most widely-adopted uses
+of the blockchain so far. Jonathan’s
+LL.D. (Doctorate of Laws) thesis was
+titled “The Effect of Bitcoin on Money
+Laundering Law”, and being completed in May 2015, it was one of the first
+ever legal theses on the subject. He
+has been following developments in
+the area for four years and moreover
+has also participated as a keynote
+speaker in several conferences both
+in Malta and abroad, covering the legal, technical and economic aspects
+thereof.
+
+Anna is a cryptocurrency evangelist
+and a highly experienced Marketing
+and Public Relations consultant
+with an extensive background in
+fast-paced and dynamic industries
+including Fintech, Gaming, Blue
+Chip Companies and International
+Music Festivals. Anna advises on and
+oversees the entire ICO or Token
+Sale marketing and communications
+strategy and Roadshow programme
+for TokenKey clients alongside
+her in-house team and strategic
+partnerships.
+
+Principal of ODMOB Lawyers which
+specializes in high-tech IT legal
+advice.
+
+WHITE PAPER
+APRIL 15, 2018 - V1.2
+
+The ShareRing
+Advisory Team
+Richard
+Kastelein
+
+Ting Y
+Chan
+
+Gary
+Palmer
+
+Blockchain and ICO Veteran
+Richard Kastelein is a publisher
+and entrepreneur with international
+standing.
+
+Principal and CEO of Dominion All
+Services Ltd
+Ting was a Senior Executive at
+Hutchison Telecommunications
+Group, based in Hong Kong, for
+over 21 years. Prior to that, he was
+a Partner at a leading international
+commercial law firm, across its Melbourne and HK offices.
+
+Chairman, TECS Austria
+Gary has advised banks, emoney
+institutions and technology providers
+in their development of blockchain
+and cryptocurrency strategies, with a
+keen focus on regulatory, compliance
+and payment technology.
+
+He brings a wealth of experience
+and knowledge on advising
+blockchain startups during the ICO
+process, including working with
+Bancor during its $150M raise and
+early humanitarian ICO Humaniq in
+2016/17.
+Renowned for founding the recently
+acquired industry vertical, Blockchain
+News, Richard’s pioneering
+contributions on blockchain
+technology can also be found
+in publications, such as Harvard
+Business Review, Venturebeat, Wired
+and The Guardian.
+Richard holds an honorary Ph.D. and
+is Chair Professor of the Blockchain
+Faculty at Jiangxi Ahead Institute of
+Software & Technology, in China.
+
+Ting brings deep experience in building, managing and advising international and technology businesses entailing small to very large investment:
+many of Hutchison Telecom’s global
+ventures are or were US$billion-plus
+investments.
+Ting’s approach is practical and
+results-driven. He draws on and combines his legal training with lessons
+learnt from his hands-on commercial
+approach to managing a broad range
+of projects.These include greenfields/
+startups, JV’s, M&A’s, listings, exits
+and closures, IP protection and
+exploitation, tax, human resources,
+Government relations and corporate
+governance.
+
+Gary’s a proven startup founder with
+extensive, global experience in building world-class teams and companies
+that grow into large businesses and
+ultimately deliver compelling investor
+returns. He co-founded WildCard
+Systems in 1997, which became the
+largest prepaid processor in the
+world when later sold to eFunds for
+$262M. Proceeding that, Gary was
+part of the team that sold eFunds to
+a NYSE listed company, Fidelity National Information Services, for $1.8B.
+And in 2015, Adaptive Payments, a
+company he co-founded and pioneered 24x7x365 instant payments
+in the US, was acquired by MasterCard International.
+Gary holds a BS in Marketing from
+the University of South Florida.
+WHITE PAPER
+APRIL 15, 2018 - V1.2
+
+THANK YOU
+
+

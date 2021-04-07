@@ -1,0 +1,560 @@
+SAFE
+CAPITAL
+DECENTRALIZED FINANCE ECOSYSTEM
+WHITEPAPER
+
+20
+
+Introduction
+Blockchain is at a crucial turning point. After years of
+progress developing the protocol layers of today's
+major crypto ecosystems, the promise of mainstream
+adoption is fading in the distance.
+After all, blockchain was supposed to bring a fair,
+transparent, and decentralized financial reality to not
+only crypto enthusiasts, but everyone.
+A decade on from Bitcoin's inception, and the retaillevel crypto products one would have hoped to see by
+now are nowhere to be found. Blockchain can disrupt
+any and every vertical in existence, so why hasn't it?
+People the world over have daily interactions with
+traditional financial products. If those very products
+were simplified via a blockchain ecosystem and
+designed for use by anyone, wouldn't that be a
+powerful thing?
+At SafeCapital, we think it is. That's why we've built a
+blockchain-based decentralized financial (DeFi)
+ecosystem that is easy, smart, and simple.
+
+30
+
+Mission + Vision
+To some, a decentralized financial ecosystem that is
+fair, transparent, fast, and user-friendly might sound
+like a far away dream.
+However, the SafeCapital team believes dreams are
+invitations to do the impossible.
+That's why we've rolled all of blockchain's advances
+along with novel in-house engineered innovations to
+create one complete DeFi suite of investment products.
+The SafeCapital vision is about financially enabling
+anyone in the world to participate in the global
+economy with nothing more than a smartphone and
+internet connection.
+You may be asking why? The answer is simple. Greater
+financial access at a retail-user level makes DeFi a
+reality for everyone, whereas traditional financial
+products only enable experienced investors and the
+wealthy to participate.
+Cryptocurrency is a powerful but widely
+misunderstood tool. SafeCapital's aim is take what is
+amazing about crypto and make it as easy to interact
+with as you do email, sending a text message, or
+paying for a coffee.
+
+40
+
+The problem
+Investing in traditional
+assets is an uphill battle
+At the retail level, when people
+decide to make investments, they're
+faced with a tall order.
+Buying into traditional assets like
+securities (stocks), real estate, and
+gold requires dealing with
+brokerages, firms, and licenses.
+Handling your own investments is
+often impossible owing to accredited
+investor requirements, and when such
+requirements aren't present,
+prohibitively steep buy-in amounts
+are.
+Buying stock in a traditional company
+like Berkshire Hathaway costs
+thousands of dollars since one can't
+buy a partial share. Securities require
+complete buy-ins, meaning it's an all
+or nothing game.
+The same mentality and infrastructure
+is carried over to venture capital
+investments. Unless you are a partner
+at a VC firm or possess market-moving
+capital, you're in no position to
+partake in a startup's early funding
+rounds.
+
+Being left out of the venture capital
+fun means having no recourse to
+participate in the next Airbnb or
+Facebook. The lack of a means for
+including the retail investment crowd
+perpetuates the disparity between the
+haves and have nots.
+Finally, traditional investing is above
+and beyond anything else a system
+for enabling intermediaries to remain
+in power. Do we really need a broker
+between us and an investment?
+The answer is no, and SafeCapital
+can show you why.
+
+50
+
+Our solutions
+Decentralized finance for
+unstoppable investments
+SafeCapital is a platform for
+unhindered decentralized finance.
+Whereas traditional investing relies
+on centralized firms, services, and
+brokers (along with their fees, rules,
+and roadblocks), SafeCapital's DeFi
+platform gives you complete freedom
+to pursue the best investments for
+you.
+We achieve this by building our
+solutions atop the SafeCapital
+blockchain, a fully decentralized
+network secured and incentivized
+by game-changing masternodes.
+In total, SafeCapital offers eight
+modular products which can be used
+alone or combined as per your
+investment needs. Each of these
+products enables you to pursue and
+accomplish such diverse investments
+as crowdfunding your new project,
+investing in traditional assets such as
+stocks and commodities, and
+seamlessly exchanging
+cryptocurrencies in the blink of an
+eye.
+
+Since every investment operation is
+easily completed using our
+blockchain-based DeFi
+platform, there is no need to resort
+to an intermediary.
+SafeCapital makes the days of
+middlemen numbered by giving
+everyone in the world a simple and
+easy to use tool for financial inclusion.
+Centralized financial institutions have
+hoarded the tools for financial wellbeing all too themselves for ages.
+With SafeCapital's suite of financial
+products, all of that is set to change
+forever.
+
+60
+
+SafeCapital Exchange
+Built to the highest standards using military-grade
+security and blazing-fast transaction speeds.
+Cryptocurrency exchanges are the financial gateways into the global
+economy of tomorrow. The speed with which cryptocurrency assets have grown,
+going from a total valuation of less than million dollars nearly $1 trillion in 2018
+shows just how important exchanges really are.
+After years of market research, the SafeCapital development team engineered its
+own exchange which picks up where others have left of. Gone are the days of slow
+connections, missed trades, and security breaches amounting to billions of dollars
+stolen or lost.
+SafeCapital Exchange processes 10,000+ transactions per second while
+simultaneously enabling over 1,000,000 unique connections at once. At these
+speeds, trading truly occurs in real time.
+However, while speed is important, SafeCapital Exchange's true innovation lies in
+security. We've implemented military grade security and enterprise grade
+infrastructure to deliver an airtight trading experience that is both safe from
+hackers and defends against stolen funds.
+Crucially, we keep 96% of all exchange funds in cold storage. The vast majority of
+compromised assets have been lost due to hot wallet storage. Owing to that, we
+see airgapped cold-storage in multisig wallets with geographically distributed
+keys as the safest way forward.
+
+70
+
+Runway IEO Platform
+Initial Exchange Offerings give innovative projects
+and savvy investors a way to join forces.
+In 2018, Initial Exchange Offerings (IEO) emerged in relative silence. By the
+following year, IEOs had completely restructured the way we think about
+crowdfunding the world's best cryptocurrency projects. Like the ICOs which came
+before them, IEOs give the world a way to directly invest in the projects that matter
+the most.
+The problem with ICOs, however, was that they came with no oversight, and could
+therefore appear and disappear with little regulatory architecture in place.
+SafeCapital's mission is to deliver secure investment products to investors in a way
+that gives investors everything they need to know up front.
+SafeCapital Runway is an IEO platform that investors can trust. We routinely vet
+every IEO project that comes across our desk before giving it the go-ahead to
+participate in crowdfunding on the Runway. Due to our rigorous standards, we
+only pass on the cream of the crop projects to investors using the Runway.
+Runway IEOs are automatically available for trading on the SafeCapital Exchange,
+giving them unmatched liquidity from the get go. Moving forward in this way gives
+investors investment opportunities that are correlated to strong financial products
+while also exposing those projects to a vast pool of capital.
+The Runway is an IEO platform for the people. No need for investor credentials or
+prohibitive financial requirements. Instead, anyone can invest as much, or as little,
+as they are comfortable with.
+
+80
+
+CrowdFundr
+The world is made up of more than just crypto projects.
+Crowdfundr let's everyday businesses find the funding
+they need.
+In the cryptocurrency world, it's often easy to forget that there is more to the
+business world than just digital currency projects. However, when we step out of our
+homes and go out into the world, it's easy to see that most businesses are completely
+unrelated to crypto.
+Where do those businesses go when they need funding? They turn to banks and
+receive unfair loan terms. In the end, businesses owe money to banks, and banks
+profit from the exorbitant loan rates they set.
+Kickstarter and GoFundMe have helped to develop a way for new businesses to bring
+funding to their ideas, but they don't go far enough. Crowdfundr allows businesses,
+new and old, to seek funding that is payable through cryptocurrency (SCAP).
+Whereas prior crowdfunding platforms were primarily designed for new projects and
+ideas to lift off the ground, Crowdfundr brings existing businesses into the mix. The
+most immediate advantage to our model is it allows for a greater pool of liquidity from
+which businesses can seek funding. Secondly, receiving micro-funding from people,
+rather than banks, means favorable rates and less debt.
+In the end, Crowdfundr is all about one thing: people helping people.
+
+90
+
+Shift Exchange
+Trade crypto instantly and easily with Shift, an instant
+digital asset exchange.
+Sometimes, trading cryptocurrency can feel downright complicated. That's
+because digital asset trading relies heavily on order books, buy and sell orders, stop
+orders, market buys, and so on. Well, what if you don't want to deal with all of the
+technical indicators and order books moving faster than you can blink?
+SafeCapital Shift is the world's simplest exchange for instantly swapping
+cryptocurrency assets. With Shift, you don't have to compete with other buyers at the
+top of the order book. Instead, all there is to do is select the asset you want to buy,
+choose the asset in your wallet that you're trading, and specify an amount.
+Once done, a simple click of the 'shift' button swaps out your digital asset and
+replaces it with the one you wanted. Shift between endless amounts of assets,
+including our very own SCAP.
+The uses of an instant crypto exchange are many. In certain cases, you need to get
+trade for another asset as quickly as possible. Going to a traditional exchange takes
+far too long, and there is no guarantee your buy/sell orders will get filled. Depending
+on your experience and the price you ask, sometimes they may take days to fill, or not
+at all.
+Shift changes all of that by giving you an automatic cryptocurrency swap using the
+best rates on the market. By connecting to the APIs of the world's largest and most
+liquid exchanges, Shift always offers competitive exchange rates that can't be beat
+for the speed and timeliness of the exchange.
+
+01
+
+Purveyor Trade Hub
+Purveyor is the first blockchain-based tool for buying
+and selling traditional stocks and commodities.
+For blockchain supporters, missing out on traditional investments is a mistake. At
+SafeCapital, we believe both cryptocurrency assets and traditional assets can coexist,
+and in some cases, make each other better.
+Purveyor is a one stop shop for buying and selling both commodities and and stocks.
+Commodities such as gold, silver, and platinum are rare, valuable, and difficult to
+purchase for the average person. Additionally, buying and storing them presents a
+security risk since anyone can physically steal them from you.
+Purveyor stocks and insures warehoused precious metals for you, meaning you've
+got nothing to worry about other than buying and selling, while the platform takes
+care of the rest. Instead of worrying over how to buy and where to store, Purveyor
+assumes the risk and gives you peace of mind.
+Trading stocks is just as simple. Purveyor will debut with 50 well-known financial
+assets before increasing to 5,000+. Using BTC, ETH, or SCAP, you can trade stocks
+without using a brokerage and less the hefty fees associated with them. Instead,
+trading fees on Purveyor are low and paid in SCAP.
+
+11
+
+Autopilot Fund
+Index and mutual funds have long been out of reach
+for retail investors. Autopilot Fund changes that by
+giving you a personalized, simple to use fund.
+With the advances made by blockchain technology, there is simply no reason to
+hand your investment decisions over to a mediated third party platform. Instead,
+Autopilot Fund is a programmable DApp that allows you to customize your
+investments according to your needs as they change.
+Typically, to participate in an index/mutual fund or ETF, you buy the investment
+product from a fund manager and let them handle the rest. That's great if you have
+the the money, but such services are prohibitively expensive.
+Autopilot Fund uses an incredibly simple interface to give you programming power
+over the shape and form of your very own cryptocurrency investment fund. For
+example, AutoPilot can automatically buy, sell, rebalance, and hedge your portfolio
+according to the rules you set.
+Perhaps you want to split your portfolio evenly between four assets (BTC, ETH, LTC,
+SCAP) and have them weighted at an even 25% each. As market prices for each asset
+vary, their weights in your portfolio change. Autopilot Fund automatically detects
+these changes in real time, then rebalances the entire portfolio by selling better
+performing assets and buying those with less weight in the portfolio.
+This approach lowers risk, keeps your portfolio diversified, and means greater
+savings over time.
+
+21
+
+Decentralized Charity
+Crypto has long been used as a means for financial
+gain. What if we used it to make the world a better
+place? Blockchain-based donations on the SafeCapital
+network do just that.
+If you held Bitcoin from 2009 to now, your gains are upwards of 10,000%. That is a
+life changing amount of money. Now, imagine changing the life of those in need by
+giving forwarding them decentralized donations in either BTC or SafeCapital's native
+SCAP currency.
+SafeCapital's decentralization charity platform is built on the premise that blockchain
+and donations go hand in hand. One of the first questions anyone asks when making
+a donation is: But how do I know where the money is going? As much as we all want
+to give to charity, making sure it ends up in the right hands is a tough task.
+Blockchain takes the wonder out of the equation. As a decentralized public ledger
+that keeps every transaction permanently on the record, blockchain is the perfect
+vehicle for transparent donations.
+The SafeCapital charity platform works similarly to our Runway IEO platform, except
+that instead of pitching IEOs, charity's will pitch their cause to potential donors. Think
+of GoFundMe crossed with Binance's Launchpad, with the result being our charity
+platform.
+Additionally, if you or a loved one have a cause in need of assistance due to
+circumstances such as illness, then you have a powerful platform that harnesses the
+goodwill of crowds around the world.
+
+31
+
+Blockchain Metrics
+SafeCapital features several innovative design choices which make our
+blockchain optimal for high throughput performance, impenetrable
+security, and scalability.
+1. Algorithm – Quark
+2. Consensus – Proof of stake + Masternodes
+3. Staking reward – 10% ROI
+4. Masternode collateral – 1,000.00019 SCAP (locked for first year)
+5. Masternode reward – 90% ROI
+6. Block generation – 60 seconds, difficulty retargeting per block
+7. Block reward - 0.2 - 6.2 SCAP
+
+Tokenomics
+SCAP, the native utility token of the SafeCapital network, is built into the
+platform at the protocol level. It is used in every operation across the
+SafeCapital ecosystem while also having a low maximum supply to
+encourage scarcity, value, and its viability as a long-term investment.
+1. Token – SafeCapital
+2. Ticker – SCAP
+3. Max supply – 10,100,000 SCAP
+4. Crowdfund type – SCAP available for sale directly on Exchange
+5. Swap – X SINS = 1 SCAP. SINS to SCAP swap requires masternode
+6. Masternode token lockup – Yes
+7. Inflation type – Low inflation to start, decreasing over time
+8. Token burn - Quarterly token burn to lower supply/increase scarcity
+
+41
+
+Token Distribution
+Reserve fund
+10%
+
+Operation Team
+4%
+5% Advisors
+3%
+
+Marketing
+21%
+
+Token burn
+10%
+
+Swap
+20%
+
+Development
+27%
+
+51
+
+SafeCapital Masternodes
+
+IF YOU DON’T FIND A WAY
+TO MAKE MONEY WHILE
+YOU SLEEP, YOU WILL
+WORK UNTIL YOU DIE.
+
+Warren Buffet
+
+Our innovative masternodes feature
+the industry's best tech + features
+
+SCAP is the first
+masternode coin
+to lock collateral
+for the first year
+Earning a passive income is the dream, but discovering the
+means to do so can be tricky. However, becoming a
+SafeCapital masternode operator helps you earn money
+while you sleep, and also immensely benefits the network.
+In other words, SafeCapital masternodes are a win-win.
+Additionally, our innovative masternode structure is the
+first of its kind, ever. Your masternode collateral of
+1,000.00019 SCAP is locked for a one year duration,
+meaning token values will remain stable, and the network
+will properly incentivize all users.
+This revolutionary design makes SafeCapital an advanced
+network and the SCAP token anti-inflationary. Additionally,
+SafeInsure users who swap SINS to SCAP at a parity rate of
+
+X:1 will be required to operate a masternode.
+
+SafeCapital masternode rewards begin at 90% ROI, which
+is an industry high when compared to Dash, PIVX, and
+Zcoin. Think of our masternode program as a savings
+account that nearly doubles your investment as it works for
+you.
+Our masternodes are being meticulously developed and
+will be released in three stages.
+
+61
+
+Masternodes
+
+71
+
+BLOCK REWARD
+
+BLOCK #
+
+REWARD BLOCK
+PREMINE
+
+MASTERNODE/STAKING REWARD
+
+1 - 210
+
+0.2
+
+90%/10%
+
+211 - 10800
+
+0.3
+
+90%/10%
+
+10801 - 21600
+
+0.4
+
+90%/10%
+
+32401 - 43200
+
+0.5
+
+90%/10%
+
+43201 - 54000
+
+0.6
+
+90%/10%
+
+SafeCapital rewards are amongst the highest in the cryptocurrency
+B U D G E Twhen compared
+E S T I M A Tto
+E Dprojects
+D A T E such as Dash, PIVX, Blocknet, and
+industry
+NEXT STEPS
+REMAINING
+OF COMPLETION
+Zcoin. SafeCapital offers the highest ROE for MN operators and stakers.
+Regarding staking rewards, SafeCapital offers higher rewards than the
+leading staking platforms such as ICON, NEO, and Qtum. Additionally,
+Ethereum 2.0's 2020 proof of stake release will see the staking rewards set
+to 4%, which is far lower than those earned by SafeCapital stakers.
+Additionally, masternode operators who own 3+ masternodes qualify for
+special rewards which boost significantly boost their ROE:
+3 MN - 2% bonus on total amount
+5 MN - 3% bonus on total amount
+10 MN - 7% bonus on total amount
+15 MN - 10% bonus on total amount
+
+81
+
+Roadmap
+SafeCapital's exciting future on the horizon
+The SafeCapital team is tirelessly shipping code to bring the community
+the world's most advanced blockchain-based financial ecosystem. Join
+us on this journey as we make partnerships, announcements, and bring
+dApps forward that iterate the very best of #DeFi.
+
+Q2 2019
+Final project planning phase
+Development team assembled
+Business development team assembled
+
+Q3 2019
+Blockchain closed testnet
+Blockchain beta launch
+White paper draft
+Dev team expansion + beta product testing
+
+Q4 2019
+SCAP token emission + block reward allocations
+SafeCapital mainnet launch
+Website + wallet release
+Whitepaper release
+SCAP exchange listings + CMC listing
+Masternode monitor listing + marketing campaign
+
+Q1 2020
+Team expansion
+Website updates + block explorer
+Global marketing campaign
+Additional major exchange listings
+SCAP token burn program launch
+
+Q2 2020
+Mainnet v2 upgrade
+SCAP-funded dApp incubator launch
+SafeCapital DeFi dApps launch
+
+91
+
+Roadmap II
+SafeCapital's exciting future on the horizon
+Q3 2020
+Masternode monitoring tool for iOS + Android release
+SafeCapital Exchange testnet
+Runway IEO platform testnet
+Ledger support for SCAP token
+
+Q4 2020
+Autopilot Fund testnet
+Shift Exchange testnet
+Multi-currency platform becomes native app for iOS + Android
+Exchange code audit
+SafeCapital Exchange penetration test
+
+Q1 2021
+SafeCapital DeFi Ecosystem launch
+SafeCapital Exchange public launch
+Runway IEO platform public launch
+Crowdfundr dApp testnet
+Decentralized Charity dApp testnet
+
+Q2 2021
+Shift Exchange public launch
+dApp code audits
+Major exchange listings
+SCAP token added to Delta + Blockfolio
+
+Q3 2021
+Crowdfundr dApp public launch
+Decentralized Charity dApp public launch
+
+Q4 2021 + Beyond
+Autopilot Fund platform release
+Purveyor Trade hub platform release
+SafeCapital Exchange amongst top five global exchanges
+SafeCapital Exchange BTC futures contracts
+SafeCapital Exchange margin trading
+
+

@@ -1,0 +1,1331 @@
+White Paper v1.1
+
+Table of Contents
+SUMMARY
+
+4
+
+SUSTAINABLE ECOSYSTEM
+
+5
+
+1. HOMO LUDENS
+
+5
+
+2. ECOSYSTEM
+
+5
+
+3. BLOCKCHAIN-BASED GAME ECOSYSTEM
+
+6
+
+I)
+
+MINI ECOSYSTEM THROUGH SHARING AND PROLIFERATION
+
+6
+
+II)
+
+SHARED INTEREST
+
+8
+
+III)
+
+CIRCULATION STRUCTURE
+
+8
+
+IV)
+
+TRANSPARENCY
+
+9
+
+INTEGRATION OF GAMING AND BLOCKCHAIN
+
+10
+
+1. DISTINCT CHARACTERISTICS OF GAME SERVICES
+
+10
+
+2. INTEGRATION OF BLOCKCHAIN INTO IN-GAME CONTENTS
+
+11
+
+3. TPS AND FEES
+
+12
+
+4. HIGH ENTRY BARRIER AND GAME QUALITY
+
+14
+
+WEMIX SYSTEM AND SERVICE
+
+15
+
+1. MULTI-CHAIN PROJECT AND HYBRID STRUCTURE
+
+15
+
+I)
+
+SERVICE CHAIN
+
+15
+
+II)
+
+PUBLIC CHAIN
+
+16
+
+III)
+
+BRIDGE CHAIN
+
+16
+
+2. TRADE DELEGATOR
+
+18
+
+3. WALLET
+
+19
+
+4. ITEM EXCHANGE
+
+20
+
+5. BINDER
+
+21
+
+2
+
+6. LOW ENTRY BARRIER AND QUALITY UX
+
+23
+
+7. PLATFORM AND BASIC ELEMENTS
+
+24
+
+8. GOVERNANCE PARTNERS
+
+25
+
+TOKEN ECONOMY
+
+27
+
+1. MAIN TOKENS AND GAME-SPECIFIC TOKENS
+
+27
+
+2. WEMIX
+
+28
+
+I)
+
+TRANSACTION
+
+28
+
+II)
+
+PURCHASE
+
+29
+
+III)
+
+PROFIT REALIZATION
+
+29
+
+IV)
+
+USE OF B2B SOLUTIONS
+
+29
+
+V)
+
+CROWDFUNDING
+
+30
+
+VI)
+
+STAKING
+
+30
+
+VII)
+
+AIRDROP
+
+31
+
+VIII)
+
+DEPOSIT
+
+31
+
+IX)
+
+WEMIX DISTRIBUTION PLAN
+
+32
+
+X)
+
+WEMIX TOKEN MINTING
+
+32
+
+2. GAME TOKEN
+
+33
+
+I)
+
+PURCHASE
+
+33
+
+II)
+
+USE OF CONTENTS
+
+34
+
+ROADMAP
+
+35
+
+GLOSSARY
+
+36
+
+DISCLAIMERS
+
+38
+
+3
+
+Summary
+Games are experience-based services. The value of games will be maximized and a sustainable
+blockchain-based game platform will be established only when the game contents—the core
+components of gaming that users dedicate their time to—effectively converge with blockchain
+technology. Existing decentralized game applications (DApps) have had to remain simple in form,
+due to problems with low TPS (transactions per second) and high transaction fees; this has
+hindered integrating everyday gaming contents with blockchain technology. The simplistic nature
+of these early blockchain games has led to a vicious cycle of limited enjoyment for users, resulting
+in shortened lifecycles for the games which undermine sustainable profits for developers. This has
+made it extremely difficult for developers to invest sufficient resources into quality game DApp
+development, and in certain cases has forced them to give up on development efforts altogether.
+WEMIX has solved the problem of low TPS and excessive fees by utilizing a mixture of private and
+public blockchain functions, and connecting them with intermediary chains under a hybrid structure.
+It has also secured scalability through its multi-chain structure that can raise the number of private
+blockchains to accommodate the increase in the number of games. Furthermore, trade delegators
+have been adopted to ensure efficient and seamless asset and data transfers between chains
+within this multi-chain structure.
+The WEMIX will lower technological barriers for developers that are struggling to produce game
+DApps by providing our middleware (Binder), which takes over blockchain-related functions and
+minimizes modifications to existing games. WEMIX will also lower financial barriers of entry and
+reduce development costs by providing effective crowdfunding solutions. Users will enjoy a
+significantly improved entry experience, as they will only have to go through three steps (primarily
+to download, install, and verify via Google) versus the complicated steps demanded by current
+existing game DApps. By lowering the entry barrier to play games, mass adoption will be achieved
+by targeting the currently active one billion gaming population, as opposed to merely catering to a
+limited group of cryptocurrency holders. To achieve this goal, WEMIX will ensure that it provides
+quality games that satisfy the expectations of today’s gamers.
+WEMIX’s token economy consists of a main token, called ‘WEMIX Token’, and game-specific
+tokens called ‘game tokens’. WEMIX Tokens are the platform-level tokens and reflect the value of
+the entire ecosystem, used in various ways as a means to value transfer. Game tokens are used
+within games, and offer the capacity for games to maximize their entertainment value and merits,
+contributing to enhanced competitiveness and sustainability of the ecosystem. As all ecosystem
+participants—platform holders, developers, and users— earn WEMIX Tokens as rewards for their
+activity, they become token holders and share the value of these tokens. This creates shared
+interest within the ecosystem, propelling the further advancement of the ecosystem.
+
+4
+
+Sustainable Ecosystem
+
+1. Homo Ludens
+Homo Ludens is a classic scholarly that is widely accepted as one of the most persuasive
+discourses on defining and exploring human nature. In particular, it purports that ‘play’ (or
+entertainment) has carried paramount implications throughout human history and remains a
+significant element for each person’s quality of life.
+The significance attached to entertainment explored and sought by humans is ever greater today,
+and it is well known that the most common and popular form of entertainment, which also makes
+up a very large market, is gaming. It has established its own culture penetrating the present, and
+has in turn developed into a sizeable industry. It appears, however, that gaming and the gaming
+industry are not adequately assessed relative to their level of importance and popularity, raising
+question as to why this is the case. While there may be several explanations, this paper intends to
+highlight the expendable nature of game play led by the fragmentation of the gaming industry.
+In this paper we seek to share how we will further the development of gaming as a play culture that
+can enrich and bring progress to Homo Ludens.
+
+2. Ecosystem
+Despite the popularity and size of the gaming industry, games are expendable in nature. Many
+gamers continue to face criticism that playing games is a waste of time, and they themselves may
+feel some sense of guilt in this regard. On the other hand, game developers are well known to suffer
+from the heavy workloads needed to produce quality games, while game platform providers with
+already successful game titles never cease the search for new games. At the heart of such problems
+are the underlying structural issues in game production and services, as well as the subsequent
+manner in which games are consumed.
+Even if multiple games are provided on the same platform, they remain independent from each
+other and have different life cycles. With the end to a games life cycle approaching, users may end
+up feeling empty. As all games are fragmented into separate ones with different contents,
+developers endlessly work on additional development to extend the life cycle of these games, and
+are often pressured to develop sequels. On the other hand, platform providers are uneasy due the
+possibility of users leaving their platform once they have finished playing a certain amount of games,
+making it difficult to provide services with a long-term perspective.
+
+5
+
+If games cease to operate in a standalone fashion and instead become connected to each other,
+these current problems will be substantially addressed. With an ecosystem that connects games,
+users, developers, and platform providers, the gaming landscape will be in a significantly enhanced
+state. These constituents will no longer have to consider each other as conflicting adversaries or
+targets of criticism, but may rather co-exist and positively influence one another. Ecosystem is a
+complex system where all components organically interact for continued growth. A community
+needs to create an ecosystem to seek for a long-term growth.
+Although there have been various attempts to establish an ecosystem that interconnects games, a
+sufficient working model has yet to exist. At present, the influence of individual games is still
+practically the most important, and the success or failure of an ecosystem will be largely driven by
+the games’ influence. Such trends are the result of conflicting interests of ecosystem participants,
+fragmentation, and the lack of major infrastructure that builds the ecosystem. We intend to solve
+these problems by forming an advanced ecosystem.
+
+3. Blockchain-based Game Ecosystem
+What does it take to establish an actual advanced ecosystem that goes well beyond what past
+attempts have strived to achieve? We found our answer from the four major principles we envisage
+to fulfill: a mini-ecosystem established by sharing and proliferation, shared interests, a vibrant
+circulation structure, and transparency. This section aims to explain in detail how we will implement
+these principles.
+
+i) Mini Ecosystem Through Sharing and Proliferation
+We believe that a vicious cycle persists today in game production and services. While developers
+invest tremendous efforts into successfully launching a game, users consume the game much
+faster than expected. To address the ongoing demands from users to get more enjoyment out of a
+game, developers restlessly roll out updates and new contents, which makes the game more
+complicated and burdened with an overwhelming amount of contents over time. Thus, the irony is
+that the more effort a developer puts into a game, the number of new users tends to decrease over
+time. The consequent decrease in new users ultimately makes the game less interesting for the
+existing users. As the game evolves and becomes more complicated, the entertainment features of
+the game which were originally envisaged by the developers fails to bear fruit. Furthermore, new
+contents added to the game also face limitations in creativity as they need be framed and contained
+within the boundaries of the existing game. How may this vicious cycle come to an end? We believe
+that the solution lies in the principle of “sharing and proliferation.”
+
+6
+
+The blockchain-based platform will enable developers to shift their focus towards providing an
+enjoyable user experience when launching new games. By allowing in-game assets such as
+characters, pets, and other items created within the games to be utilized in various ways, users can
+generate stronger attachment. Instead of consuming time and effort updating games only to make
+them more complicated, developers may create new games that utilize the previously generated
+assets, which will render greater outcomes for both them and the users. The method of sharing
+and proliferating in-game assets will help developers stay focused on delivering new and exciting
+user experiences.
+All of the WEMIX’s tokens and blockchain items are designed to adhere to common standards. This
+means that DApps on the WEMIX are not subject to any technical restrictions when existing DApp
+tokens and items are used. We will proactively support the sharing and widespread use of assets
+existing on the network. As a result, developers will be able to actively utilize assets generated in
+the games they have serviced when launching other new games, create links between games, and
+maintain and attract users. Through these processes, developers will be able to establish a mini
+ecosystem that connects their games with the respective assets. They will then no longer be
+positioned to push forward inefficient and painstaking post-launch updates, but able to undertake
+new and continued attempts that are more productive. Furthermore, these mini ecosystems may
+possibly interact to allow for greater sharing and proliferation.
+Mini ecosystems also carry significant implications for users. The assets that users have earned
+from playing games in the existing fragmented game platform are structured in a discontinued
+manner, and as the life span of the respective game approaches an end, their values rapidly drop.
+Users end up feeling that they have wasted their time and money on a certain game, and thereby
+lose motivation to continue playing the game. This undermines the growth potential of games and
+the platform, weakening the industry’s very foundations. With the mini ecosystem, assets earned
+by players can be shared and dispersed, ensuring their continuity, and minimizing users’
+opportunity costs which will drive them to remain active in playing the game. Users will no longer
+be placed to feel they have wasted their time. Such asset continuity will combine with the
+irreversible nature of blockchain to create new forms of game assets.
+From the platform providers’ perspective, the potential virtuous cycle where mini ecosystems
+continue to spring out and re-connect with one another will make it no longer necessary to push
+forward with the excessive commitment of resources in blind pursuit of a game’s successful sales.
+As developers become free from attempting to maximize revenue at all costs, they will become
+better positioned to maintain user-and developer-friendly policies. Support and positive responses
+from users and developers will be the foundation for a greater, mutually beneficial ecosystem for
+all participants across the value chain.
+We strive to achieve value creation through sharing and proliferation, a divergent approach from
+existing platforms in which games and their assets are fragmented and cannot be shared. This is
+
+7
+
+how the value of a network may be maximized and the expendable elements minimized for users
+and developers to encourage active participation by all.
+This approach is also in line with the current growing trend of the shared economy and hence
+carries vast growth potential. What is most important for the creation of a well-functioning
+ecosystem is that all components are not fragmented but instead connected for interactive
+influence and co-development.
+
+ii) Shared Interest
+Over time, we have witnessed the behavioral tendencies of a variety of groups. From macro to micro
+levels, whether we are dealing with the Earth as a whole or a closely-knit community of friends,
+constituents and congregations always come and go. Nonetheless, a distinct characteristic found
+in groups which sustain themselves and thrive in the long-term is that irrespective of their size and
+nature, and whether or not they are profit-driven, these groups share a common interest and
+direction. Only then may any group go through all the trials and tribulations and ultimately achieve
+what it seeks.
+Most gaming platforms and ecosystems existing today have not had such shared interest, and if
+they did, it only existed in the weakest sense. Ecosystem participants were preoccupied with
+pursuing their own interests, and despite attempts to come up with a sustained common interest,
+the lack of systematic support made that difficult to achieve.
+WEMIX proposes a system that can establish a shared common interest among ecosystem
+participants. Simply put, it is a token economy that enables token value sharing. From platform
+providers that issue and hold tokens, to developers that receive tokens in return for game sales,
+and game players who earn tokens for the time and investment they have put into game play, all
+participants are given greater rewards as the value of their tokens increases. Due to the
+aforementioned “sharing and proliferation,” the token economy is no longer fragmented into
+separate individual games, but rather integrated for connectivity and expansion. All ecosystem
+participants can thus build a more solidified bastion of common interest and better respond to
+threats against the ecosystem by actively cooperating, further adding stability to the ecosystem.
+
+iii) Circulation Structure
+For an ecosystem to operate in a stable and efficient manner, vibrant circulation within is an
+absolute necessity. A consortium in which all constituents simply lean in a single direction will be
+left to either succeed or fail, and this may lead to divisions within the group and threat the
+
+8
+
+ecosystem’s entire viability. For an ecosystem with limited resources, an effective circulation
+structure is truly critical.
+WEMIX’s circulation structure has been mapped out based on the token economy design.
+Platform providers create and supply tokens to developers and users, laying the foundation for
+expansion of the ecosystem. Platform providers are able to accommodate for network maintenance
+costs through the commissions charged on transactions occurring within the network.
+Developers grant game-specific tokens, game tokens, to reward users for their game play. They
+recoup the tokens by selling items at the in-game store and continuously secure the tokens needed
+to distribute to the users. Tokens that exceed the amount distributed to users as rewards are
+retained as developers’ earnings.
+Users earn game-specific tokens as a reward for their game play. They can also earn tokens by
+selling items to other users that they have earned while playing games. Users can pay with the
+tokens that they have earned to purchase items necessary to earn greater rewards in the games
+at the in-game store. These game-specific tokens can be exchanged for main tokens or other
+game-specific tokens.
+With a circulation structure connecting all ecosystem participants, the WEMIX ecosystem will
+continue to grow while maintaining a continuous and efficient flow within. Further details on the
+token economy will be provided in subsequent pages.
+
+iv) Transparency
+We have shared above our vision for a blockchain-based game ecosystem, with explanations of
+how that vision will be met. These are new concepts and plans which have yet to be implemented.
+New ideas always bring about enthusiastic anticipation but also skepticism. Addressing the
+participants’ doubts and concerns over the adoption of new systems, rather than verified existing
+methods, will be a key challenge. Building trust will be the most vital task with regards to the
+audacious goal of establishing a proper ecosystem.
+The foundation of trust in our system will be realized via the full disclosure of information due to
+smart contracts. Many game companies and platform owners exercise exclusive control over highly
+sensitive and important information, and avoid disclosing it. While they may have enhanced their
+systems control and maximized profits through these practices, they nonetheless failed to align
+interests with their users. Businesses and users were never able to strengthen their relationships,
+which served as an obstacle to creating a healthy ecosystem. All transactions that occur in the
+WEMIX are based on smart contract codes accessible by anyone. Things such as the drop rates of
+blockchain items or the logic behind reward token payouts are all subject to public agreement
+among participants. As all transaction records are open to the public by means of the blockchain
+
+9
+
+explorer, no single party may alter or destroy agreements. Transparency secured through
+distributed ledger technology will be the key element that brings success to our ecosystem.
+
+Integration of Gaming and Blockchain
+
+1. Distinct Characteristics of Game Services
+With regards to the integration of gaming and blockchain, one should first consider the fundamental
+nature underlying game contents and services. In the face of the current blockchain “gold rush”,
+various industries are attempting to integrate their businesses with blockchain technologies. Many
+integration attempts are also being made in the gaming industry, with a great emphasis on digital
+asset transactions. Such projects carry significant implications as they enable blockchain-based
+trading of items and tokens created during game play, as well as the trading of users’ game data.
+WEMIX will also provide such new services built on the back of effectively utilized blockchain
+technologies.
+Our goal is to create a network and services that incorporates fundamental characteristics of
+gaming, which in our view is the only way to truly bring blockchain-game integration to realization.
+The essential nature of gaming is that it is experience-driven. Games are not a category of services
+which are accessed only when deemed necessary. Users repeatedly undergo exhilarating
+experiences from games, namely by spending time to play, earn rewards, deeply immerse
+themselves in game play, and ultimately gain a sense of accomplishment. This is an essential facet
+of gaming. In contrast, services in other sectors such as finance and healthcare are accessed on a
+needs basis, and are largely function-based in that the frequency or extent of use is predetermined.
+Functional needs, such as the size of a potential financial transaction or the severity of one’s illness,
+will be the basic determining factor for their use of service. For instance, do people have a habit of
+accessing their online bank accounts whenever there is free time, or regularly replaying scenes of
+past medical treatment procedures? Most likely not. This explains the essential nature of gaming
+as an experience-driven service, and we believe that integrating this with blockchain can lead to
+game services with disruptive power.
+As explained above, game-related asset trading services can only go so far. Asset trading is not
+based on the repetitive and continuous experiences that make up of the core of enjoyment in
+gaming, but rather on specific needs when transactions are found to be necessary, making it
+difficult to achieve either economy of scale or sustainability.
+
+10
+
+2. Integration of blockchain into In-game Contents
+We have discussed the essential characteristics of gaming and highlighted that its experiencedriven aspect should be fused with blockchain to create disruptive gaming services. This section
+will explore the actual methods to implement the envisaged platform.
+What we propose is integrating blockchain with the “daily contents” that users access every day to
+earn rewards, an integral part of the gaming experience. As opposed to providing limited asset
+trading services used only on a needs basis, a service that is based on enjoyment acquired through
+repetitive gaming experiences should be realized on blockchain.
+Ways we intend to integrate blockchain into daily contents include adopting blockchain instant
+dungeons and hunting areas for MMORPGs, blockchain farms and factory buildings for SNGs,
+blockchain fishing holes for fishing games, blockchain stages for MORPGs, and so forth. Users will
+be able to experience blockchain through the core contents that they access daily, while receiving
+blockchain assets as game play rewards that will be issued through smart contracts and recorded
+on blockchain. This represents what we believe to be a true blockchain-based game service.
+Our proposed approach is particularly critical in the long term. Unlike the relatively simplistic
+blockchain games already launched in the market, WEMIX plans to converge blockchain with
+market-proven games, presenting distinguished value to users through direct integration of
+blockchain and in-game contents. This approach will pave the way for a sustainable blockchain
+ecosystem.
+
+11
+
+3. TPS and Fees
+Having devised a concrete plan to integrate core in-game contents with blockchain, there are
+critical problems that must be addressed at the outset, namely the issues of TPS (transactions per
+second) and fees.
+Current blockchain networks that serve as platforms can record TPS as small as several tens to as
+many as several thousands. Even if a network can record several thousands of TPS, it would still
+not have the capacity to serve multiple DApps that carry massive amounts of transactions, such as
+those involving game services. A major case in point is the congestion on the entire Ethereum
+network which occurred when CryptoKitties was launched. Even if a network boasts higher levels
+of TPS, serving a number of different game services will lead to the same type of problem. Due to
+this unresolved issue, many popular games with heavy transactions or rich contents cannot
+converge with blockchain, and many blockchain gaming projects end up focusing on asset trading
+or developing simple games instead of integrating blockchain into core game contents.
+Another remaining issue is the fees charged for transactions. Public blockchain networks charge
+transaction fees or require staking to protect and maintain their systems. If the core daily game
+contents are converged with blockchain, the number of transactions will significantly increase, and
+this will place substantial cost burdens on either the developers or the users, which would only
+
+12
+
+discourage gameplay. From the developers’ perspective, they would be disincentivized to service
+games that require them to bear costs incurred for every monster hunt in an RPG, or every crop
+harvest in an SNG. Users would certainly not play such games if they had to deal with this burden.
+Unless transaction fee problems are solved, there is a very slim chance that blockchain-based
+games will be enjoyed by millions of users.
+Due to issues of low TPS and fees, game DApp developers cannot design their games in ways
+which actively generate transactions. The frequency of transactions ends up being directly linked
+to the amount of game contents, and as a result, current game DApps can only have relatively
+simple structures. Simply structured games however fail to continuously provide an entertaining
+user experience, consequently facing shortened life cycles. In turn, developers cannot anticipate
+generating significant returns from such short-lived games, which results in limited resources
+investment for the game DApp production and difficulties in producing quality games. With the TPS
+and fee issues outstanding and unaddressed, game businesses will continue to be trapped in this
+vicious cycle.
+We can arrive at a conclusion that what is needed for the successful integration of blockchain and
+gaming is a system with high TPS and scalability, and one that is not subject to excessive
+transaction fees. WEMIX proposes a hybrid structured blockchain network consisting of multichains to address the current limits. Envisaging an ecosystem that supports quality games, the
+later pages will elaborate on this multi-chain structure.
+
+13
+
+4. High Entry Barrier and Game Quality
+Another obstacle to overcome when providing blockchain-based game DApp service is the high
+entry barrier arising from complicated UX. Even after a user downloads and installs a game DApp,
+and eagerly tries to access the game, many more hurdles await. The user must install a wallet such
+as MetaMask or Scatter, undergo backup for security, activate an account, and so forth. For a user
+new to blockchain these series of cumbersome steps may test his or her patience. Even if the user
+manages to go through them, there is yet another challenge to overcome. As mentioned earlier,
+cryptocurrencies are needed for game play due to the transaction fees on public blockchain. The
+user will find out about the need for cryptocurrencies for staking or any purchases during the game.
+He or she would realize at that point that the first thing to do is to open an account at a crypto
+exchange.
+These complicated steps evidently discourage users from using the game DApp. Perhaps a handful
+of users that are experienced with DApps and cryptocurrencies may successfully pass these steps,
+but not many will be in that position. Despite the overwhelmingly high number of potential users
+for game DApps, providers cannot simply expect them to cope with a complicated UX. Rather, it
+will ultimately require a convenient UX with minimized processes and enhanced usability to attract
+users. WEMIX sees this as an extremely important undertaking, and the proposed solutions will be
+provided in subsequent pages.
+As explained, users have few incentives to go through the hassle of switching to game DApps, given
+the poor UX experience. This has been the main reason why a game DApp ecosystem has yet to
+be actively adopted. The poor quality of game DApps further adds to the problem, completely
+discouraging users to even try them. To motivate users to explore the unfamiliarity that blockchain
+presents and the inconveniences which accompany it, the quality of game DApps will be crucial. At
+present, mass adoption will not be possible by only targeting cryptocurrency investors or those with
+blockchain experience. The true value of the blockchain industry will only be proven when all users
+in the existing game industry transition to game DApps. This means game DApps should be
+appealing to the eyes of these users. Emphasizing or advertising the unique characteristics of
+blockchain technologies will not mean much to them. Only when the quality of DApps is deemed
+competent compared to existing games will they have a clear reason to make the switch.
+As explained earlier, we are not subject to any burdens related to generating transactions, which
+means that we have the capacity to handle games of any type, form, and size. WEMIX will therefore
+provide high quality DApps that are more than competent in comparison with other App games,
+and by integrating blockchain into existing App games and converting them to DApps, will further
+enhance the value of the ecosystem.
+
+14
+
+WEMIX System and Service
+
+1. Multi-Chain Project and Hybrid Structure
+We have explained why a system that is scalable, free from excessive transaction fees, and has
+high levels of TPS is required for the mass adoption of game DApps. It was also previously stated
+that WEMIX proposes a hybrid structure consisting of multi-chains. This section will elaborate on
+WEMIX’s network structure.
+WEMIX’s multi-chain-based hybrid structure is a blockchain-integrated structure designed for
+blockchain-as-a-service and asset management, mainly consisting of three layers. The multiple
+side chains as a service will herein be called service chains. Blockchain for asset management is
+called the public chain. The intermediary chain operating between the service chains and the public
+chain for asset trading is referred to as the bridge chain.
+Service chains carry out the role of processing mass amounts of transactions incurred by game
+DApps, and the platform chain, or the public chain, serves as the destination point for the token
+economy that manages assets. The bridge chain takes charge of trading and transfer of assets
+existing in the service chains and the public chain. Detailed explanations of each of the
+aforementioned layers and their functions are provided below.
+
+i) Service Chain
+As stated earlier, the integration of blockchain and quality games will only be successful when the
+TPS and fees issues are resolved. A structure where transactions cannot be generated as much as
+one would like will hinder blockchain from integrating with core game contents and only allow
+production of relatively simple games. The answer to this problem is private blockchain. As the
+public chain cannot be free from TPS and fees, it makes it difficult to serve quality games. In
+contrast, the high speeds and flexible fees of private blockchains make it possible to process mass
+amounts of transactions.
+WEMIX’s service chains focus on the swift and smooth processing of mass amount of transactions.
+Assets that exist on blockchain should be settled on the basis of the timely results of users’ game
+play if the core daily contents are to converge with blockchain. Only then may users truly experience
+the integration of gaming and blockchain in the most meaningful ways.
+Another important reason for using private blockchains as service chains is to secure scalability.
+We intend to develop DApps that carry only a single game, but still may be used by a vast number
+of users and will consequently incur a substantial number of transactions. Nonetheless, this will
+
+15
+
+just be the tip of the iceberg. WEMIX’s goal is to establish an advanced ecosystem where DApps
+are enjoyed by countless users, pouring out unimaginable number of transactions minute by minute.
+Unfortunately, the current blockchain technology has not secured the scalability needed for a
+network (chain) to process unlimited number of transactions. As a result, parallel processing is
+required, and in accordance, we intend to raise the number of service chains as may be necessary.
+Increasing the number of chains in a blockchain ecosystem is a difficult task. It is extremely and
+particularly difficult for the public chain, and therefore using private blockchains will be a far more
+effective and efficient solution. WEMIX’s service chains will not be subject to any particular
+restrictions and the number of chains can be raised as much as the games require, ensuring
+unlimited scalability. The multi-chain project where various activated blockchain networks are
+combined will be the challenge WEMIX is undertaking. It is time to break away from the existing
+server/client structured game production methodologies, and develop new paradigms that exploit
+the value-add offered by blockchain technologies.
+
+ii) Public Chain
+As explained earlier, the public chain undertakes the role of asset management in the WEMIX
+ecosystem. It is appropriate to adopt a platform chain for this purpose, as it is not ideal to isolate
+users’ assets in private blockchains.
+WEMIX requires a system with high TPS levels for processing mass transactions generated by
+games, and therefore uses private blockchains. The clear advantage of private blockchains is that
+it helps to establish a platform that serves multiple number of games, but a certain downside also
+exists in regards to asset utilization.
+Tokens generated in the WEMIX will be utilized in various ways within the ecosystem. Nevertheless,
+token holders in the WEMIX will want to increase the scope of their token utilization. WEMIX’s main
+token, WEMIX Token, which are fungible tokens, can be used in a wide variety of ways in the public
+blockchain. If users’ assets can be better utilized in the public blockchain where a greater number
+of users exist, combined with the variety of asset utilization methods within the WEMIX, those
+assets will attain greater significance and be better suited to exploit the essential features of
+blockchain. As the pubic chain will hold many more non-WEMIX DApps and participants, the
+engagement of WEMIX-generated tokens with outside services will create diverse synergies.
+
+iii) Bridge Chain
+WEMIX’s service chain adopts a multi-chain structure where the number of chains increases as
+more games and transactions come into play. As the ecosystem continues to grow, the number of
+games that generate each of these service chains and transactions will also increase. In principle,
+
+16
+
+each of the service chains are independent blockchain networks where assets are generated and
+kept only within that game and the corresponding service chain. However, participants of the
+WEMIX ecosystem will want to enjoy any games they would like to without restrictions, and
+effectively manage their game assets. Users will not be interested in the technical structures that
+physically or logically separate the service chains of game A and game B, for example. Rather, what
+is important to them will be a user experience allowing them to easily check and exchange assets
+that exist in the games they enjoy. If such user experience is not offered, it will not lead to mass
+adoption, regardless of how many transactions a network technology can process. An intermediary
+chain is required for this easy transfer and comprehensive management of game assets, which
+within the WEMIX is referred to as the bridge chain.
+All the assets that separately exist in the service chains are traded through the bridge chain.
+Ecosystem participants seeking to trade their assets may easily transfer the assets through the
+bridge chain, identify the transaction counterparty, and complete the transaction. After the
+transaction is complete, assets that they hold may be transferred back to the service chain. The
+same mechanism applies to transactions to and from the public chain. Users may transfer their
+tokens to the public chain, and once the transaction is complete, may then transfer their tokens
+back to the bridge chain.
+Due to the extreme importance of asset transfers between blockchain networks, numerous projects
+are currently making attempts to connect different chains in the market. As stated earlier, the
+processing capacity of a single blockchain network cannot be unlimited unless enabled by
+blockchain and innovations in computing technology. Nevertheless, the industry and users demand
+massive amounts of transactions to be processed for a seamless service experience. For the
+blockchain ecosystem to mature, it will have to meet such demand, and hence the importance of
+multi-chain connectivity will continue to grow. The current blockchain networks in the market and
+the ones to be introduced will demand greater interoperability. Only then can they beat existing
+server-client structured services and further advance. WEMIX’s bridge chain will enable assets to
+freely transfer and trade between chains, accelerating the future of the blockchain industry and
+placing itself as a frontrunner.
+
+17
+
+2. Trade Delegator
+It was previously explained that the WEMIX ecosystem has a multi-chain structure consisting of a
+great number of chains, and that such structure enables users to manage and trade their assets in
+a comprehensive manner. Trade delegators are responsible for making these processes more
+efficient.
+As widely understood, blockchain networks exist independently. Likewise, WEMIX’s service chains
+also generate and record transactions in an independent manner. As each of these blockchain
+networks have assets and data that exist and operate only within, asset and data transfers to and
+from other blockchain networks are not possible in principle. It was previously mentioned that
+WEMIX’s ecosystem, a multi-chain project, has adopted the bridge chain to enable such
+comprehensive asset transfer and management.
+Nonetheless, asset trades through the bridge chain gives rise to yet another complication. While it
+seeks to support users in making transactions in a convenient manner, this process is not as simple
+as it sounds when smart contracts are involved. A trade begins by recording in the smart contract
+the transaction that the participants seek and the appropriate settlement terms in return. With
+more users involved, trades become more complicated, adding difficulties for users to obtain the
+information required to participate. Existing blockchain-based marketplaces or bidding places
+particularly show vulnerabilities in efficiently managing and delivering such trade information. To
+overcome these vulnerabilities, all the trade information must be sorted out and recorded in the
+smart contract by asset type and price every time there has been a trade request, approval, change,
+or cancellation. This sorting process requires a heavy amount of computational work due to the
+smart contact structure, and as the number of transactions that require heavy computational work
+increases, the amount of transactions that can be held in a single block will decrease. With more
+trade information added on, computational work will only increase, leading to reduced efficiency of
+the entire blockchain network.
+To solve this issue, WEMIX uses trade delegators, a type of middleware. Trade delegators process
+the massive level of gas limits on behalf of smart contracts, bringing efficiency to transaction
+processes. By covering parts of the processes, trade delegators prevent the entire trading
+processes from being wholly dependent on smart contracts, overcoming limitations that blockchain
+poses, and securing security advantages. Further, the monitoring method that WEMIX offers will
+ensure transparency of the trade activities by enabling users to monitor the status or progress of
+transactions and check whether they have been processed in a transparent manner.
+Through successful cross-chain trade which is ensured of transparency and security, the service
+chains—in charge of processing game DApps-generated transactions and creating assets
+accordingly—become a component of the WEMIX ecosystem. Assets existing in each of the service
+chains can transfer freely from one chain to another. Users will be able to freely participate in the
+ecosystem by accessing any game DApps they want and moving around or exchanging rewards
+
+18
+
+they have earned without restrictions. Enabling free movement of assets between chains is in fact
+the core pillar of our principles “sharing and proliferation” and “circulation structure”, which makes
+the blockchain ecosystem more robust.
+
+3. Wallet
+Wallets generally play a crucial role in the blockchain network. Serving the central role for
+blockchain assets, it is an extremely important element, and likewise, the WEMIX wallet also plays
+a pivotal role in managing assets within its ecosystem.
+WEMIX’s wallet performs four key functions: exchange, transfer, signature, and serving as a
+gateway. All transactions take place in blockchain, which is actually the infrastructure functioning
+in the back-end. In order for users to make transactions and use functions in blockchain, there
+should be an easy-to-use front-end user interface, which in the WEMIX is served by a wallet. As a
+core DApp in the WEMIX ecosystem, the wallet’s functions are explained below.
+The wallet carries out the exchange function for various types of tokens that do not exist in the
+WEMIX ecosystem. Within our ecosystem, two types of tokens exist: the main tokens called
+“WEMIX Token”, and the game-specific tokens called “game token.” With various game selections,
+the type of game tokens will also vary, and the need to exchange these game tokens will emerge
+every now and then for users. We plan to support the exchange of these game tokens using WEMIX
+Tokens as a medium within the wallet. As stated earlier, the importance of asset transfers between
+blockchain networks will increasingly grow in prominence, and in response, we have come up with
+the bridge chain and trade delegators. As they operate at the backend, users may not be aware of
+what they are. A wallet, on the other hand, is a frontend service. As a direct user interface, the
+WEMIX will ensure that it faithfully links different chains.
+With regard to cross-chain asset transfers, alongside the exchange of game token’s utilization of
+the WEMIX, an equally critical transaction is the transfer of WEMIX Tokens between the internal
+WEMIX chain and the external public chain. As mentioned earlier, users may for whatever reason
+want to move WEMIX out of the WEMIX ecosystem into a public chain. The wallet supports these
+types of transactions.
+The signature function that the wallet carries is also pivotal for ecosystem developers and users.
+With a user-friendly UI, the wallet will provide services that enable users to create an address in
+the WEMIX and sign transactions. The wallet will provide a function that can replace the address
+with an easily recognizable ID so that game DApps in the service chains can generate valid
+transactions into the correct address.
+Lastly, the wallet acts as a gateway for game DApp entry. The WEMIX will be an enormous network
+and ecosystem consisting of a large number of game DApps. As the number of games increases,
+
+19
+
+users will find it more difficult to obtain information on these games and find the routes to access
+them. Several app stores which users are already familiar with in the existing gaming and
+application industries are solving some of these issues, but a store that delivers quality services
+covering game DApps has yet to exist. WEMIX will present users quality information on DApps
+existing in the ecosystem, help them find routes for downloads, and provide the actual routes for
+direct access. We anticipate that it will successfully serve the complete role of a DApp store within
+the WEMIX ecosystem.
+
+4. Item Exchange
+We have explained above the multi-chain and hybrid structure adopted by WEMIX to overcome the
+limits of existing blockchain-based game DApps, the back-end bridge chain and trade delegators
+that enable the free movement of assets between chains, and the wallet as a front-end user
+interface. There is one additional user interface that is important in respect to trading, which is the
+item exchange feature that enables trading of game items that exist in blockchain.
+As explained previously, WEMIX will converge the core daily contents of high-quality games with
+blockchain. As users play these game DApps, they will be able to naturally earn items existing in
+blockchain, whose nature will the same as those of non-fungible tokens. Items are issued through
+the smart contract converged with game contents and will be irreversible as they are recorded in
+the WEMIX block. The NFT items earned by users are assets that help them better enjoy gameplay
+and are as important as fungible tokens. As users discern which items are the ones they really need
+or may dispose of, they will reach a point where they want to trade items with other users. The
+need to exchange or trade items will surface not only within a single game but between games. To
+support such needs, WEMIX will provide an item exchange.
+Unlike general blockchain-based marketplaces, an item exchange can support trading methods of
+various forms. Along with the typical auction method where sellers register the item they wish to
+sell and suggest a minimum price, it can support the reverse auction method where the buyer may
+specify the item they wish to buy along with the possible maximum price. It can also support the
+trading method similar to a stock market for items traded in mass quantities by matching sellers
+and buyers and processing orders in a time series manner once multiple sellers and purchasers
+place their sell or buy orders. To facilitate the efficient processing of various trade activities, we
+will also support a standardized form of UI. Users will be able to easily find items they seek and
+trade them with other users without having to go through complicated procedures. As mentioned
+earlier, a marketplace that is dependent on smart contracts has limits, and hence we intend to
+provide a method that enables easy, transparent, and secure trade by converging the item exchange
+with trade delegators.
+
+20
+
+On the item exchange, WEMIX Tokens will be used for trading. With the ultimate integration of
+WEMIX Tokens, items and the item exchange, users will be offered a new and exuberant experience
+on the blockchain platform.
+
+5. Binder
+The competitiveness of a platform will depend on how much quality contents and services it can
+capture. As a game platform and as an ecosystem, WEMIX’s primary goal is therefore to secure as
+many quality games as it can. The reality, however, is that many game studios are hesitant to
+develop game DApps. One main reason is that they question whether they can receive an
+acceptable level of return relative to the resources they invest into game DApp development. The
+amount of resources injected into development is hence a critical issue for the advancement of the
+blockchain ecosystem.
+WEMIX’s plans are to provide game DApps that are differentiated from other existing game DApps
+by satisfying even the gamers in the traditional game industry. A good way to secure quality games
+despite the current lack of game DApp developing studios is to converge existing, verified App
+games with blockchain.
+WEMIX proposes a solution called “binders” to help game studios that hold quality games transition
+to game DApps. Binders are a type of middleware that serve the role of connecting games with
+blockchain. In general, the integration of existing games and blockchain poses great development
+burden on the server side. It requires changing the existing server structure that utilizes DB to the
+one that generates transactions in blockchain using the smart contract. Many changes are required
+due to large differences in processing methods and capacity, and the work it takes to make these
+changes requires advanced expertise in blockchain technology. With the use of binders, much of
+these burdens may be reduced. Game servers can simply transfer the necessary data to the binders,
+and the binders will generate necessary transactions using smart contracts and deliver the results
+to the client and the server. In other words, binders take over the roles related to blockchain so
+that without many modifications in the existing games, transition to game DApps that take
+advantages of blockchain technology can be possible.
+Another advantage of using binders is that they can replace the role of the game server. Online
+games with the server-client structure are relatively easier to converge with blockchain. However,
+there are many stand-alone casual games of client-only structure in the market that are greatly
+enjoyed by a vast number of users. Thus, it is an important task for the ecosystem to attract these
+casual gamers to its game DApps. The issue is that most stand-alone casual games are developed
+by a single person or a very small team. It is very likely there would be no server engineer, and
+therefore either an engineer will have to be hired or an intensive study of blockchain and network
+
+21
+
+technologies will be required for the blockchain integration. Considering that the blockchain
+industry is in its early stage, such cost and energy required may be a substantial hurdle.
+We intend to utilize binders to maximize WEMIX’s accommodation of stand-alone casual games.
+The binders that have received data from clients will process network-related work using smart
+contracts and also provide the server function. This enables easy integration of stand-alone casual
+games with blockchain without having to separately develop the server. Users will be presented
+with various games of their preference on the WEMIX ecosystem.
+
+22
+
+6. Low Entry Barrier and Quality UX
+The merits of our platform have been explained from various perspectives so far. What must now
+be covered are the issues of a high entry barrier for DApps (including game DApps) and the
+inconvenient user experience.
+Users must go through complicated steps to use DApps due to the nature of blockchain. After
+downloading and installing a certain DApp, they are required to install a wallet such as MetaMask
+or Scatter, create a private key, and prepare back-ups for restoration purposes. Then, at a point
+where a keystore file pops up, users new to blockchain often become confused. They are reminded
+of hacking incidents heavily covered in the media and start to feel uneasy about the unfamiliar
+experience they are being exposed to. At this stage, a great number of users who sought to use
+DApps in the first place give up in this pursuit.
+Users also get frustrated when they realize they need to purchase characters to start playing games,
+and that they need cryptocurrencies to make these purchases. They question whether it is worth
+to open an account at a crypto exchange, make deposits for the potential purchases, and buy
+cryptocurrencies, particularly when the games do not seem to be of great quality. Few users would
+pass through this phase. Even if users are not required to purchase items or pay transaction fees
+with cryptocurrencies, the demand for staking will frustrate users as they will have to learn about
+what that is.
+New services require learning. This applies not just to blockchain but also any new service. The
+reality is that no user actually likes it. Unless they are given a significant upgrade, they would not
+put themselves in the position to go through the trouble. Hence, lowering the barrier to enable most
+users to more easily pass through will be crucial for mass adoption.
+WEMIX’s game DApps will be designed in ways to ensure low entry barriers similar to those found
+in existing Apps, allowing users to start playing games without having to go through redundant
+steps. They will be able to play games immediately after they download and install game DApps
+and go through a widely-used verification method like Google authentication. There will be no steps
+that users will be forced to learn or complete, such as installing a wallet or the like. Furthermore,
+WEMIX Platform does not require cryptocurrency purchases or staking. The user attrition rate will
+therefore be dramatically improved compared to other DApps. Users will be able to easily start
+playing games, and when they earn assets as they play can choose whether to install a wallet. Even
+for those that wish not to install a wallet, they will be able to continue the game play.
+Due to high entry barriers and inconvenient UX, target users for game DApps are limited to
+cryptocurrency holders capable of overcoming these hurdles. This goes against our view that the
+target users should come from all existing gamers for mass adoption. The enormous number of
+gamers worldwide should be transitioned over to game DApps. This is the goal that WEMIX will
+strive to achieve by providing an outstanding platform and low entry barrier.
+
+23
+
+The merits of low entry barriers and quality UX is maximized marketing efficiency. We are aware
+that the high entry barrier and inconvenient UX of existing DApps has undermined their
+effectiveness in marketing. Most users drawn to DApps after advertisement choose not to continue
+with further steps after they download DApps. This makes marketing investments extremely
+inefficient and ineffective, and moreover leads to hesitation in adopting aggressive marketing
+tactics to attract users. WEMIX’s DApps will be very different as the low entry barrier and quality
+UX will in fact contribute to enhanced marketing effectiveness and user inflow. We emphasize
+again that our platform is the one that is closest to realizing mass adoption.
+
+7. Platform and Basic Elements
+WEMIX aims to become a self-sustainable, self-advancing platform based on blockchain
+technology. We will continue to add various fundamental elements that the platform should provide
+to ensure a wide array of games are being offered and that users worldwide truly enjoy playing
+these games.
+One of the critical elements is the advertising network. As the user base builds up within WEMIX’s
+ecosystem, there will be increased demand for an advertising network. Due to the nature of the
+contents being provided as a service, marketing that clearly targets gamers instead of the public
+will be significantly more efficient. This means that it will be absolutely necessary to advertise new
+games being launched to the WEMIX user pool.
+In addition, an effective advertising network is essential to maximize WEMIX’s ecosystem value.
+WEMIX needs to maintain an environment where users can enjoy a variety of games, both old and
+new. As users actively respond to advertisements passed on through the network, they will be able
+to reap the benefits by earning additional assets.
+Another element that is vital to the blockchain ecosystem is community. For numerous ecosystem
+participants to share perspectives, identify problems and have progressive discussions, having a
+community is a must. The growth of a blockchain ecosystem cannot be done by a specific party; it
+needs a robust community that backs support. WEMIX intends to provide the best technical and
+operational support to help maintain an active community.
+
+24
+
+To ensure WEMIX’s wholesome platform integration and continuous growth, we will continue to
+add structural features including admin consoles, security modules, data analysis tools, universal
+payment modules, and data storage. Our platform’s vision is certainly not one of a short-term
+nature, i.e. one limited to the next six months or one year. We will commit our best efforts to
+establish a platform that focuses on continuity.
+
+8. Governance Partners
+We have discussed and explored the WEMIX’s system and services thus far. Lastly, we will provide
+details on our partnership program which will ensure proper functioning of the network.
+As mentioned above, the WEMIX is structured based on private blockchains to handle a large
+amount of transactions. Although this structure promises higher efficiency, it may raise concerns
+regarding the decentralized nature of blockchain. Even though transparency of the WEMIX will be
+secured through the use of smart contracts and the blockchain explorer where all transactions are
+made public, such efforts may still be insufficient. To address any remaining concerns, we are
+developing a partnership program to operate the network with partners. The program, named
+
+Governance Partners, is designed to jointly operate the network with multiple partners by making
+consensus in a reliable and responsible manner, as opposed to solely operating it in an arbitrary
+manner.
+
+25
+
+Furthermore, the program will do more than just ensuring the network is adequately decentralized.
+It will help engage partners who can contribute to the further growth of the network. Multiple
+reliable partners will keep each other accountable to ensure transparency and collaborate to further
+improve the network. We are fully committed in establishing a highly efficient and sustainable
+decentralized gaming platform.
+
+26
+
+Token Economy
+
+1. Main Tokens and Game-specific Tokens
+To establish and grow an ecosystem in blockchain’s decentralized and public network, the role of
+a token economy that motivates both value transfer and participant behavior is extremely important.
+Tokens are certainly critical for WEMIX’s ecosystem as well. In our ecosystem, two types of tokens
+exist: main tokens that quantify the value of the entire ecosystem and game-specific tokens that
+are tokens used for playing different games. The main tokens are called WEMIX Tokens, and the
+latter tokens are called game tokens.
+In designing and planning the token economy, WEMIX has considered the elements of diversity and
+sustainability as its core principles.
+For WEMIX to emerge as a platform that can serve an extensive pool of games and users, it will
+first have to be able to deal with the large quantity of games. Today’s gaming industry encompasses
+a very wide spectrum of gaming services and can take on diverse forms depending on the genre or
+contents of the games. A case in point is the substantial difference between puzzle games and
+MMORPGs in terms of user behavior, contents design, and the respective balancing of goods. This
+is in fact a very natural phenomenon. Users would not transition from one game to another unless
+the games offered different experiences. Without diversity, the gaming industry would also not
+make meaningful advancements. Therefore, using a single type of token for the entire ecosystem
+would be counterintuitive to the pursuit of ensuring diversity within the platform. The variety of
+games must be given legroom to maximize fun in their own unique ways, and for this reason, gamespecific tokens are essential.
+Diversity is also critical from a sustainability perspective for the ecosystem. For developers, they
+should not be subject to any restrictions when developing games to deliver the kind of fun they
+have initially intended. The more restrictions there are on a platform, the less competent the
+platform will be, making it difficult to achieve economies of scale.
+Another problem created by the single-token economy is the difficult entry prospects for new
+games. As the issuance volume of the tokens is fixed, all games have to be allocated these tokens
+from a limited total supply. The problem is that the tokens serve as the incentive for users to
+continue playing the game. Considering that earning tokens is the biggest value proposition offered
+by game DApps, it would be extremely important for new games to secure a sufficient number of
+tokens. In the single-token economy, however, it would be extremely costly to secure tokens
+already being used, and even if some number of tokens are provided for free under platform
+governance, it would not be possible to provide a sufficient amount. Due to the limited total number
+of these tokens, they cannot be provided for free in a continuous manner. In the end, the depletion
+
+27
+
+of the tokens will make it very difficult for the new games to enter the platform, threating the
+sustainability of the entire ecosystem.
+The free riding issue in the single-token economy is also another problem that cannot be
+overlooked. Despite the fact that not all games in the platform can become successful, all games
+share the same tokens, creating unfair value distribution. When successful games contribute to the
+heightened value of tokens, they are not the only ones being rewarded; games that provide
+relatively little contribution get to enjoy the benefits as well. This may create a vicious cycle by
+increasing complaints, undermining the growth of a healthy ecosystem, and even making
+developers hesitant to participate in the ecosystem.
+WEMIX Tokens, the main tokens in the WEMIX ecosystem, will serve as the yard stick for measuring
+the value of an entire ecosystem and accelerating asset circulation within. Game tokens, the gamespecific tokens, will support developers in designing DApps founded by their own unique visions,
+and enable them to receive rewards based on their contributions. Utilizing the game-specific tokens,
+developers will also be given the opportunity to create various mini ecosystems within the WEMIX
+ecosystem.
+
+2. WEMIX
+As explained earlier, WEMIX Tokens are the highest-level tokens within the WEMIX ecosystem,
+issued in the public chain for maximized efficiency of the token economy. The tokens issued in the
+public chains are then transferred to the service chains when necessary. They can freely be
+transferred to any chain.
+One aspect we seek to highlight regarding the nature of the WEMIX tokens is that they are utility
+tokens. Any potential controversies raised over the underlying nature of the WEMIX, and the
+consequent burden of applicable laws and regulations accompanying it, will only negatively impact
+the ecosystem participants. Hence, WEMIX will be designed and used within a confined scope that
+will not have them be categorized as securities-type tokens. The same principle will apply to the
+usage and characteristics of the WEMIX that will increase in number as the ecosystem evolves.
+The next section seeks to explain about the various use cases of the WEMIX.
+
+i) Transaction
+WEMIX Tokens serve as the medium for all trade activities in the platform. The various game tokens
+existing in the WEMIX can be exchanged upon the needs of the users. For example, a user who has
+been playing game A and wants to play game B may exchange his or her game A tokens for game
+B tokens using WEMIX Tokens.
+
+28
+
+WEMIX Tokens will also be used at the item exchange, where we expect most of the trade activities
+within the network to take place. Users may sell items and earn WEMIX Tokens in return, or may
+purchase items they need by paying in WEMIX Tokens.
+
+ii) Purchase
+It is widely known that the micropayment business model works best in games among other digital
+contents. For improved game play performance, a great portion of gamers make purchases at ingame stores. For games served in WEMIX’s platform, users will also make such purchases for their
+benefit at the in-game stores. The purchases can be completed using fiat money or game tokens.
+While users can obtain game tokens by playing games, some may find that the amount is enough
+to make purchases they want. To obtain sufficient game tokens, users must first obtain WEMIX
+Tokens. As explained previously, WEMIX Tokens can be exchanged for game tokens, and this
+allows users to make in-game purchases they want.
+
+iii) Profit Realization
+WEMIX ecosystem participants have the right to pursue their personal interests. Values are created
+through various activities taking place within the ecosystem, and ecosystem participants can enjoy
+the values with shared interests, meaning the ones that have contributed to value creation are
+rewarded in return.
+Common rewards given to each group of participants will be the tokens and items that users earn
+through game play, the tokens that developers earn through in-game store sales, and the tokens
+that the platform provider earns through trading fees. All participants have the right to earn rewards
+as they have contributed to the ecosystem’s value creation. As WEMIX Tokens serve as the
+measuring stick for all values within the ecosystem and thus the ultimate asset, users may
+exchange assets they hold into WEMIX Tokens. WEMIX Tokens, in the end, will be capable of being
+traded among WEMIX ecosystem participants or other people outside the WEMIX in the public
+chain.
+
+iv) Use of B2B Solutions
+While outlining the basic elements of our platform, we have mentioned the various solutions that
+developers in the WEMIX ecosystem can utilize. Solutions such as advertising networks,
+communities, admin consoles, security modules, data analysis tools, universal billing modules, and
+data storage will support developers in achieving optimal performance. Unfortunately, none of
+these solutions can be provided for free. The operation of these B2B solutions require resources in
+
+29
+
+the network that are not free of charge. Hence, developers need to pay for using these solutions,
+which may be paid using WEMIX Tokens.
+
+v) Crowdfunding
+It was previously mentioned that many developers are uncertain about the returns they would make
+relative to the resources they invest into developing game DApps. Along with our technical solution
+to use binders, we would also like to propose a business solution in conjunction.
+WEMIX will provide a crowdfunding solution for hesitant developers. As game-specific tokens
+called game tokens exist in the WEMIX ecosystem, every developer joining the platform can
+independently leverage both fungible and non-fungible tokens for their games. With such features,
+developers can reveal the game when it reaches the completion phase, execute crowdfunding
+through the presale of some of the fungible and non-fungible tokens, and collect a portion of the
+development costs they had to bear. This mechanism enables developers to hedge against
+significant portions of risks arising from developing game DApps, helping them to make
+development decisions with increased confidence. Users who participate in crowdfunding will also
+become the most active supporters, contributing to the success of the games. Shared interest and
+circulation within the ecosystem will likewise be enhanced.
+
+vi) Staking
+As explained earlier, users may easily start playing games for free in the WEMIX platform, without
+having to purchase cryptocurrencies or meet staking requirements. However, due to the nature of
+blockchain, the matter of preventing mass amounts of unnecessary transactions is a critical issue
+that must be addressed. In fact, such systematic protections are a common safety tool needed by
+all mass data systems, and not just limited to the blockchain-based counterparts. Inasmuch as
+WEMIX also requires safety tools, we believe that staking is necessary to generate transactions.
+Users are allowed the free staking needed to generate transactions while playing game DApps for
+two to four hours a day. This enables users to secure a sufficient amount of transactions needed
+to enjoy general gameplay. If a user wants to generate transactions beyond that, they will have to
+stake their WEMIX Tokens. Although staking policy is to be decided by taking into account tech
+and service related circumstances, either WEMIX or game tokens earned by exchanging with
+WEMIX will be staked. If such a staking rule does not exist, there will be an increased likelihood of
+abuse by a small number of users with ulterior motives. Fortunately, staking rules will not lead to
+any restrictions to game play. Users can enjoy 24/7 gameplay without staking. As transactions are
+not generated in blockchain, only the rewards are being limited. Rewards not related to blockchain
+can be obtained irrespective of time, and users will be able to play as long as they wish.
+
+30
+
+vii) Airdrop
+WEMIX will be a dynamic ecosystem full of participants and various events. Sometimes events will
+include the involvement of WEMIX Tokens, such as during airdrops.
+As securing new users will be crucial for a new game DApp that has just launched, various
+promotions will be launched. As mentioned previously, effectively utilizing advertising networks will
+be key, and another important tool that can be exploited is the airdrop. Airdropping is in fact a
+widely-used form of promotion in the blockchain industry, and its effectiveness has also been
+verified. As WEMIX’s system uses game token, developers can airdrop game tokens to secure users
+for their new games.
+Airdrops will mainly focus on users who own WEMIX Tokens. This is because they are the most
+active users in the platform and the ones with the most purchasing power. If they are airdropped
+tokens, they will become the most active supporters of the games, serving as an essential element
+to the success of the games and the long-term growth of the ecosystem. As explained previously,
+creating a shared sense of interest is pivotal for an ecosystem, and lies at the core of the token
+economy. Through various initiatives such as airdrops and crowdfunding, shared interests will be
+enhanced with the token economy at the center.
+To help the WEMIX ecosystem further develop, game tokens secured by platform providers as fees
+will also be subject to various events in the form of airdrops. On the whole, everyone will have to
+contribute to the ecosystem.
+
+viii) Deposit
+Another mechanism exists to promote contribution to ecosystem growth, which is the deposit rule.
+Users are required to pay fees when they transfer their WEMIX Tokens from the bridge chain to
+the public chain. These fees are likewise paid in WEMIX Tokens. The fees income is deposited into
+the smart contract account that can be checked by any ecosystem participant. The deposit will
+continue until it reaches 20% of the total WEMIX issuance volume. Once it reaches the 20%
+threshold, the deposited WEMIX Tokens undergo a 1-year freeze period, during which their usage
+will be determined by WEMIX’s Governance Partners. The decisions on their usage will be ensured
+to remain favorable to the ecosystem growth.
+
+31
+
+ix) WEMIX Distribution Plan
+A total of one billion WEMIX Tokens will be issued.
+Among them, 10% will be distributed through private sales and utilized in initial stage of WEMIX
+growth. 7% will be utilized for marketing for platform vitalization. Another 9% will be allocated
+over a three-year period to members of WEMIX team who have contributed to or are likely to
+contribute to successful vitalization of WEMIX platform, and the remaining bulk of 74% will be
+used for supporting the long-term growth of the ecosystem.
+
+x) WEMIX Token Minting
+Major effort will inevitably be required for stable maintenance and long-term growth of WEMIX
+Ecosystem. The individuals or organizations making such effort must be reasonably rewarded for
+their contributions. Therefore, a certain amount of WEMIX Token minting is required to secure the
+permanence and growth potential of WEMIX Ecosystem. The minting rules are as follows.
+1 WEMIX Token per block, 60 WEMIX Tokens per minute are minted, and distributed to the following
+accounts :
+1. 50% : Governance Partner – WEMIX Governance Partner Reward. Sequentially distributed
+to accounts of each Governance Partner in proportion to WEMIX Token staking amount
+2. 25% : WEMIX ECO Fund – Fund for growth and vitalization of WEMIX Ecosystem
+3. 25% : Maintenance – Cost for Maintenance and management of WEMIX Blockchain
+Network
+
+32
+
+2. Game Token
+Game tokens are tokens used in games that serve as the yard stick for measuring value within
+games and the medium for exchange and purchases. While in principle games use different game
+tokens, multiple games can also share one type of game token. This could be the case for multiple
+games developed by a single developer, or when multiple developers work together and share game
+tokens. We have stated that this is an important part of promoting sharing and dissemination within
+the ecosystem. Game tokens are also fungible tokens within the WEMIX ecosystem, which means
+that they are free to be exchanged and transferred between service chains and the bridge chains.
+For the WEMIX ecosystem to thrive, a wide spectrum of games must co-exist. To create such an
+environment, different types of game tokens that can support unique characteristics of each
+individual games are used alongside the main token, WEMIX tokens. Game tokens ensure game
+DApp developers have maximized room for freedom and creativity while enabling the efficient
+utilization of advantages offered by blockchain.
+WEMIX can be traded for game tokens and vice versa at variable exchange rates determined by
+supply and demand. The variable exchange rates will spare WEMIX from any volatility caused by
+individual games’ performance and facilitate the expansion of the ecosystem. If the demand for
+game token of a certain game grows due to the success of the game, the token value can increase
+accordingly. This flexible arrangement ensures that successful games and the developers who
+create them get their fair share of compensation for their efforts, and get further incentivized to
+continue working for the ecosystem’s growth.
+Game tokens incentivize gameplaying, as they are earned while games are played. As explained in
+the “staking” section, users will be able to earn them when playing games two to four hours a day.
+If additional game tokens are needed, they can be obtained by exchanging them with WEMIX
+Tokens. Users will be able to use game tokens in ways specified below, and any used game tokens
+will be balanced out through the circulation structure where they return to incentivize game play.
+Detailed explanation on the use of game tokens is provided below.
+
+i) Purchase
+Most games today have their own in-game stores. These stores sell various items that help users
+enjoy games more, and users widely accept and make purchases at such in-game stores. In-game
+stores in the existing game Apps typically accept fiat money for these purchases. WEMIX’s game
+DApps will accept both fiat money and game tokens, with the latter serving as the basic method of
+payment. By enabling users to pay game tokens for item purchases, the entertainment value will
+be maximized, and users will be better positioned and incentivized to earn more game tokens.
+
+33
+
+ii) Use of Contents
+When playing games, users may sometimes have to purchase certain contents outside the in-game
+stores. For example, they might have to upgrade their equipment, expand their territory, or add
+skills or techniques within games. For contents that can be enjoyed using in-game goods, game
+tokens can be utilized in return for the services provided. As WEMIX offers a great degree of
+freedom and flexibility, contents where game tokens are utilized can incorporate the developers’
+design visions to the maximum extent, supporting the production of games rich in entertainment
+features. Furthermore, with a coherent circulation structure for game tokens, the value of game
+tokens will likely increase and be well preserved long term.
+
+34
+
+Roadmap
+
+35
+
+Glossary
+Service chain: A sidechain that handles the transactions of WEMIX games
+Multi-chain structure: A structure where scalability is secured by adding more private
+blockchains
+Trade delegator: A middleware facilitating the transfer of assets and data among
+different chains in a multi-chain structured blockchain
+Binder: A middleware ensuring easy integration between games and blockchain
+Bridge chain: An intermediary chain between the service chain and the public chain
+DApp: Decentralized application
+TPS: Transaction Per Second
+Public blockchain: An open blockchain network where anyone can join, read, and write
+data.
+Private blockchain: A blockchain network that requires a permission to join
+Crowdfunding: A practice of funding a project or venture by raising amounts of money
+from a large number of people
+Token Economy: A form of behavior modification designed to encourage certain target
+behavior by providing tokens as rewards which can be exchanged for tangible/intangible
+reinforcers
+MMORPG: Massively Multiplayer Online Role-Playing Game
+MORPG: Multiplayer Online Role-Playing Game
+Instance dungeon: A separate area in a massively multiplayer online game for specific
+player or party of players to enter and pursue a special quest
+SNG: Social Networking Game
+UX: User Experience
+Fungible Token: A type of cryptographic token, each unit of which possesses the same
+value thus interchangeable with another token of its kind
+Non-Fungible Token: A type of cryptographic token which represents something unique
+thus not interchangeable with any other token
+
+36
+
+Smart contract: A computer protocol intended to digitally facilitate, verify, or enforce the
+negotiation or performance of a contract
+Wallet: A software program which stores and manages cryptographic assets
+Json file: A file that stores simple data structures and objects in JavaScript Object
+Notation (JSON) format, which is a standard data interchange format
+Airdrop: A free distribution of small amounts of a certain newly introduced cryptographic
+tokens to the holders of existing tokens based on their respective holding amount
+
+37
+
+Disclaimers
+By accessing the information set forth in this document or any part hereof, you represent and
+warrant to WEMIX that you unconditionally and irrevocably accept and agree with the following:
+1. No Viewing in a Restricted Territory
+It may not be lawful for individuals or certain categories of individuals in certain jurisdictions, to
+view this document. Individuals who wish to view this document must first confirm they are not
+subject to any laws or regulations that prohibits or restricts them from viewing this document. In
+particular, unless permitted by the applicable laws and regulations, any offering of the tokens
+mentioned in this document (the “Tokens”) should not be made, nor any documents should not be
+sent, directly or indirectly, in or into, countries where participating in the sale of the Tokens are
+prohibited. For avoidance of doubt, it is not intended that any offering of the Tokens is being made
+in the People’s Republic of China or the United States. WEMIX shall not be responsible for
+individuals who access this document from territories whose laws or regulations prohibit such access of this document or where any part of the document may be illegal. Such individuals do so at
+their own risk.
+2. Information Only
+All information is provided without any warranties of any kind and WEMIX, its employees, officers
+and/or advisors make no representations and disclaim all express and implied warranties and
+conditions of any kind and each of WEMIX, its employees, officers and/or professional advisors
+assume no responsibility or liability to you or any third party for the consequence of reliance on
+such information, errors or omissions in such information or any action resulting therefrom.
+The information contained on this document concerning WEMIX may contain statements that are
+deemed to be “forward-looking statements”, which are prospective in nature and are not
+statements of historic facts. Some of these statements can be identified by forward-looking terms
+such as “aim”, “target”, “anticipate”, “believe”, “could”, “estimate”, “expect”, “if”, “intend”,
+“may”, “plan”, “possible”, “probable”, “project”, “should”, “would”, “will” or other similar terms.
+However, these terms are not exhaustive. Forward-looking statements inherently contain risks and
+uncertainties as they relate to events or circumstances in the future. Therefore, the information,
+opinions and forward-looking statements, including estimates and projections, in this document in
+respect of the anticipated roadmaps, development and projected terms and performance of the
+relevant entities, are selective and subject to updating, expansion, revision, independent
+verification and amendment.
+WEMIX is not making any representation or warranty or undertaking, including those in relation to
+the truth, accuracy and completeness of any of the information set out in this paper. WEMIX also
+expressly disclaims any obligation or undertaking to update or revise any forward-looking
+statements except to the extent required by law and neither WEMIX, its employees, officers or
+
+38
+
+professional advisors make any assurance, representation or guarantee that any event referred to
+in a forward-looking statement will actually occur. Whilst WEMIX intends to fulfil all the goals set
+out in this document, in case of unforeseen circumstances, the goals may change or may not be
+achieved without any notice to you.
+3. No Offer
+This document is for information purposes only and does not constitute or form, and not intended
+to be, an offer or solicitation of an offer to buy or sell, subscribe for, underwrite or purchase any
+form of investment or securities or other financial instruments, nor shall it or any part of it form the
+basis of, or be relied upon, in any way in connection with any contract or investment decision
+relating to the same.
+4. No Advice
+None of the contents of this document constitutes legal, financial, tax or other advice. You must
+conduct your own due diligence and ensure you comply with all local laws regarding cryptocurrency,
+tax, securities and other regulations in your jurisdiction. We encourage you to consult with the
+relevant professional advisors independently.
+5. No Agreement
+This document shall not be relied on to enter into any contract or to form basis of any investment
+decision. Any agreement(s) between WEMIX and you are to be governed by a separate document
+for sale of WEMIX tokens (“Sale Document”). In the event of any inconsistency between this
+document and the Sale Document, the respective Sale Document shall prevail.
+6. Regulatory risks
+The regulatory status of cryptographic tokens, including any digital currency, digital assets and
+blockchain applications is unclear or unsettled in many jurisdictions. The publication and dissemination of this document do not imply that any relevant laws, regulations and rules have been
+complied with. No regulatory authority has examined or approved this document. Where any relevant governmental authority makes changes to existing laws, regulations and/or rules, or where
+financial institutions make certain commercial decisions, it may have a material adverse effect and/
+or impair the ability of any relevant entity referred to in the document to function or operate as
+intended, or at all.
+7. Other Disclaimers
+This document is private and contains information about WEMIX, but it does not represent the
+entire content of WEMIX. The content of this document is subject to change in accordance with
+changes in the relevant laws and regulations, business situation and industry outlook, as well as
+the judgement of the management team. There may be changes in political, social, economic and
+
+39
+
+stock or cryptocurrency market conditions and/or that there is no or little acceptance/adoption of
+the relevant Blockchain system and/or Tokens, such that the relevant Blockchain system and/or
+the Tokens become no longer commercially viable.
+Where references have been made to third-party websites or sources of information, we may not
+have sought further verification as to the accuracy, completeness, or timeliness of the information
+referred to therein, and no warranties whatsoever are made as to the same.
+
+40
+
+

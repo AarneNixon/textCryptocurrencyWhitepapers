@@ -1,0 +1,944 @@
+Reef Finance Lite Paper
+Version 1.00c
+By Reef Finance
+August 27, 2020
+
+1
+
+Contents
+1 Introduction
+1.1 Abstract . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.2 Background . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.3 Proposed Solution . . . . . . . . . . . . . . . . . . . . . . . . . .
+2 Reef Platform
+2.1 Global Liquidity Aggregator . . . . . . . . . . . . .
+2.1.1 Liquidity Aggregation and Coverage . . . .
+2.1.2 Pricing Decentralized Liquidity . . . . . . .
+2.1.3 Manipulation and Front-running . . . . . .
+2.2 Smart Yield Farming Aggregator . . . . . . . . . .
+2.2.1 AI Personalized Smart Engine . . . . . . . .
+2.2.2 Augmented Decision Making . . . . . . . .
+2.3 Smart Asset Management . . . . . . . . . . . . . .
+2.3.1 Modern Portfolio Theory Based Allocation .
+2.3.2 Factor Analysis . . . . . . . . . . . . . . . .
+2.4 Implementation Framework . . . . . . . . . . . . .
+2.4.1 Advantages of Polkadot Network . . . . . .
+
+3
+3
+3
+5
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+6
+6
+6
+8
+9
+10
+11
+11
+12
+13
+14
+16
+16
+
+3 Reef Token Economy
+3.1 Protocol Incentive Structure . . . . . . . . . . . . . . . . . . . . .
+3.2 Staking and Governance . . . . . . . . . . . . . . . . . . . . . . .
+3.3 Yield Distribution and Token Valuation . . . . . . . . . . . . . .
+
+17
+17
+17
+19
+
+4 Future Work
+
+20
+
+2
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+1
+
+Introduction
+
+1.1
+
+Abstract
+
+In the current Decentralized Finance (DeFi) landscape, trading, lending, borrowing, staking, and mining crypto assets are fragmented and create a painful
+experience for all of its participants.
+There is a glaring need for service that will aggregate liquidity, facilitate and
+automate crypto asset trading with more security and efficiency, and provide
+better data and insights into risk and portfolio management.
+While centralized exchanges (CEX) are isolated and prone to breaches, decentralized exchanges (DEX) have little liquidity and are difficult to use. Neither
+of them integrates with the DeFi ecosystem directly, forcing daily traders to
+struggle and manually stitch up the most profitable transaction pathways, while
+pushing large investors towards OTC desks where they are dealt suboptimal
+yields.
+Reef is a DeFi operating system, smart liquidity aggregator, and yield engine
+that resolves these issues by connecting crypto asset buyers and sellers to liquidity pools in exchanges and the DeFi ecosystem, and streamlines crypto asset
+management though an AI-driven trading engine that maximizes yield within
+each risk category.
+Reef delivers on the promise of smarter crypto trading through two major
+components and enables:
+• Trading of assets via the Global Liquidity Aggregator with access to liquidity from both centralized exchanges and DEX’s;
+• Smart lending, borrowing, staking, mining through the AI-driven personalized Reef Smart Yield Farming Aggregator.
+Reef does not require the user to give away their private keys, and operates
+under Polkadot’s shared security model, ensuring high resilience and forkless
+upgradability.
+Reef is a non-custodial, decentralized network governed entirely by Reef token holders via a Decentralized Autonomous Organization (DAO) to achieve a
+transparent future: a future based on more truth and less trust.
+
+1.2
+
+Background
+
+Addressable Market Cryptocurrency assets is a rapidly growing market with
+current total market capitalization of approximately $350 billion as of Aug 2020,
+59% of which is Bitcoin, while Ethereum, Tether, Ripple, Litecoin, ChainLink
+3
+
+are heavyweights among Altcoins1 .
+In particular, Reef is addressing the market of cryptocurrency trading and
+yield based investments, and specifically the DeFi platforms market. DeFi refers
+to an ecosystem of automated financial services and products built on decentralized platforms based on smart contracts. These products allow people to manage
+their finances in transparent and autonomous ways without relying on a central
+bank or institution. As of Aug 2020, the DeFi market cap is roughly $15 billion
+USD, with total value of tokens locked at $6.6 billion USD2 .
+Further growth in DeFi can be broadly expected in the areas of:
+1. Institutional adoption driven by:
+(a) Companies seeking a safe haven from inflation, such as the recent
+purchase of 21k BTC by MicroStrategy;
+(b) Increased inflow of institutional money driven by maturing regulation
+and industry standards, led by the adoption of blockchain in finance;
+(c) Further development and maturation of DeFi investment vehicles,
+such as indexes, futures, and ETF’s.
+2. Public adoption driven by:
+(a) More mature and easy-to-use DeFi products lowering the entry barriers for less tech savvy users;
+(b) People seeking an alternative to manage their finances, decoupled
+from constraints of traditional finance;
+(c) Retail adoption leading to more awareness of digital assets and the
+DeFi ecosystem.
+The DeFi Liquidity Problem Liquidity is the ability to trade a large quantity of assets at any given time without causing a drastic change in its price,
+known as slippage. Inbound and outbound liquidity is one of the most important
+characteristics of well functioning markets, and DeFi markets are no exception.
+Bootstrapping liquidity for a new market is the classic chicken and egg problem. Market makers need flow from products and users to implement profitable
+strategies. Products and users need market makers to provide liquidity. Without
+constant churning of flow, market makers cannot arbitrage the spread which is
+meant to compensate them for standing by as a counter-party during times of
+volatility.
+1
+
+"Global Charts | CoinMarketCap." https://coinmarketcap.com/charts/. Accessed 18 Aug.
+2020.
+2
+"DeFi Pulse." https://defipulse.com/. Accessed 21 Aug. 2020.
+
+4
+
+DeFi platforms have various means of bootstrapping their liquidity which include OTC desks, centralized exchanges, and of course, decentralized exchanges
+and liquidity pools. Ideally, decentralized liquidity such as DEX’s and liquidity
+pools should make up for a majority of the liquidity source for DeFi; however,
+currently DeFi liquidity providers still cannot provide enough liquidity in some
+cases, so DeFi products might need to access centralized liquidity sources as well
+to ensure proper market functions.
+Hence, the current climate is such that centralized exchanges lack security
+and have high trading fees, while DEX’s have low liquidity and large slippage.
+There’s an absence of options in the middle that can hedge the downsides of
+these two types of liquidity sources.
+The DeFi Fragmentation Problem In DeFi, different platforms and products are built like walled gardens, and tend to be highly complex to use, forming
+a high barrier of entry for people who want to participate, but lack sufficient
+financial knowledge.
+All of these products and opportunities require different skill sets and knowledge in order to participate and correctly evaluate the risks and return. Investing
+in DeFi is not just about being tech-savvy, but also requires understanding of
+complex economic models, group psychology, and sentiment trends.
+Although there is a wide range of DeFi products available at the time being,
+there is no standard way for interacting with these protocols, either manually
+or programmatically. This fragmentation introduces inefficiencies in the market
+that could open way for a form of consolidation in how to access and connect
+these fragmented platforms.
+
+1.3
+
+Proposed Solution
+
+We propose a new DeFI protocol and platform as a solution to the abovementioned problems, which we have named Reef. The Reef platform exhibits
+the following features and characteristics:
+1. Global Liquidity Aggregator: Reef is a DeFi liquidity aggregator that
+will aggregate liquidity from DEX’s, centralized exchanges, liquidity pools,
+and other sources into one global pool thus enabling order flow to enter
+through a single point.
+2. Smart Yield Farming Aggregator: Reef also functions as a DeFi yield
+engine, which abstracts away the execution complexities of opportunities in
+DeFi, allowing ease of access for retail investors and fund managers around
+the world, and serves as a gateway to the entire DeFi landscape.
+3. Non-custodial: Reef is a decentralized, non-custodial protocol; assets are
+controlled by the users themselves and not stored on the platform. Reef
+5
+
+empowers the users to keep storage of their own private keys and cryptocurrency assets, while working in the background akin to a DeFi Operating
+System, optimizing yield for the users without compromising security.
+
+2
+
+Reef Platform
+
+Reef platform consists of three major components: Global Liquidity Aggregator,
+Smart Yield Farming Aggregator, and Smart Asset Management. These three
+components complement each other and provide users with a one-stop shop for
+DeFi related services.
+
+2.1
+
+Global Liquidity Aggregator
+
+There are many existing liquidity aggregators currently in the market, but most
+of them either trade through centralized exchanges, such as Binance and Huobi,
+or through DEX’s, such as Uniswap and Balancer. There is a lack of service that
+can source through both types of liquidity sources and find the best option for
+the user, and that’s what Reef aims to achieve.
+Curve/Balancer/Uniswap
+
+Coinigy
+
+1inch
+
+Reef Finance
+
+CEX Liquidity
+DEX Liquidity
+Decentralized Swap
+Security
+High-throughput
+Low Transaction Costs
+Table 1: Liquidity Landscape
+Sources of Liquidity Users will be able to directly trade their assets on Reef
+through aggregate liquidity sourced from both centralized exchanges and decentralized sources.
+Integration compatibility Reef will be a fully distributed and autonomous
+protocol, and compatible with the widest range of DeFi protocols, including
+parallel implementations on Ethereum, Polkadot, and other major smart contract
+platforms, to maximize the ease of integration and compatibility with service
+providers in the DeFi space.
+2.1.1
+
+Liquidity Aggregation and Coverage
+
+Cryptocurrency liquidity currently primarily comes from two types of sources,
+centralized exchanges and decentralized liquidity sources.
+
+6
+
+Centralized crypto exchanges, such as Coinbase and Binance, have been
+around for longer. They are fairly easy to use, and all offer a number of ways to
+access their liquidity.
+Reef will primarily access centralized exchange liquidity through the use of
+prime brokerage services, such as Tagomi, Caspian, or Quantreq. Prime brokerage services are financial service firms for institutional clients that offer services
+such as order execution, leveraged trade execution, securities lending, and other
+bundled financial services.
+However, liquidity sourced from centralized exchanges is a stop-gap solution
+for DeFi protocols, as their centralized structure is incongruent with DeFi architecture, and poses a potential security risk and single point of failure.
+Smart contract platforms such as Ethereum and Tezos have of late allowed for
+the design and implementation of decentralized versions of traditional financial
+primitives, and these decentralized liquidity sources will make up the majority
+of liquidity on Reef.
+
+Sources of Decentralized Liquidity There are primarily two types of decentralized liquidity sources [1]:
+• On-chain Order Books: These are traditional on-chain order book based
+DEX’s. While order book is still the dominant form of exchanges in traditional finance, there is a large number of drawbacks for this architecture
+in a decentralized, blockchain powered environment.
+The state size for keeping track of an order book with an average amount of
+order depth would be very expensive over a blockchain, where users must
+pay for time-space computational complexity of their requests.
+The order matching engine for this kind of exchanges is also very difficult
+to implement in a blockchain environment, where transaction order is nontransitive, and creates vulnerabilities such as front-running.
+However, there is innovation in this space, such as 0x protocol based DEX’s,
+that adopt a hybrid model of on-chain settlement and off-chain transactions. There are still issues of state discrepancies and complexity that arise
+from this, however.
+• Smart Contract Liquidity Pools: These types of DEX’s are also referred to as Automated Market Makers. An AMM, such as the Ethereumbased Bancor, is first initialized by having liquidity providers deposit assets in a certain ratio according to a bonding curve, or some other pricing
+7
+
+mechanism. The resulting equilibrium price under the bonding curve is
+then equal to the market price under a set of conditions.
+Uniswap improves upon this model by no longer requiring the supply of an
+asset to change in order to measure its price. Instead, Uniswap holds some
+quantity of assets whose value is measured against its reserves, usually in
+stablecoins. Then Uniswap maps the supply of the asset against a marginal
+price based pricing function, and adjusts the price as the ratio of asset
+reserves changes.
+Infinity Swaps A more recent innovation in smart contract based liquidity pools comes in the form of Infinity Swaps in AMM exchanges.
+While Uniswap represents a drastic improvement over previous generations
+of DEX’s, it still suffers from the problem of large price slippage and a relatively low liquidity ratio relative to reserve assets. Infinity Swaps build
+upon the foundations of Uniswap and Curve, and put the reserve assets
+into other lending protocols, creating nearly unlimited liquidity with very
+low price slippage.
+Essentially, an Infinity Swap exchange will use the reserve assets to mortgage any asset that’s experiencing a spike in outbound liquidity from decentralized lending protocols, and then it will be able to use the mortgaged
+assets to complete the transaction without incurring a large slippage cost
+to the user.
+
+2.1.2
+
+Pricing Decentralized Liquidity
+
+Reef uses a variant of the following model for pricing liquidity:
+LC = δ × t × ω
+
+(1)
+
+where liquidity cost, LC, is a function of bid-offer spread, δ, duration, t, and
+turnover, ω.
+Bid-offer spread can be further modeled as:
+δ =ρ×D×
+
+p
+t/l × k
+
+(2)
+
+where ρ is a coefficient modeling credit worthiness, and D is trading depth
+of the liquidity source, and t/l is the trade size as a proportion of total issuance
+of the asset, and k is a constant used in model calibration to market data.
+
+8
+
+Finding the cheapest source of liquidity over a large set of aggregated liquidity with varying prices is the equivalent to finding the optimal arbitrage path
+problem. The problem is not as simple as finding the best rates for a given trading pair, for example ETH/USDT. One can of course trade the pair directly, but
+it’s possible that there are more optimal arbitrage paths available, for example,
+USDT → XRP → ETH, or USDT → DAI → wBTC → ETH.
+The trade is a bilateral search with the starting point in USDT, and ending
+point in ETH, but there are a number of possible paths. The Global Liquidity
+Aggregator formulates this as a quadratic constrained bilateral search optimization problem, based on finding the most profitable cycle in a graph in which
+nodes are the assets and edge weights are the liquidity costs.
+The Global Liquidity Aggregator handles all such complexities in the backend, while seamlessly offering the cheapest liquidity paths and options to the
+user.
+2.1.3
+
+Manipulation and Front-running
+
+Another benefit for the liquidity aggregation offered through Reef Global Liquidity Aggregator is that it protects the users from market manipulation and
+front-running attacks.
+Front-running is loosely defined when an entity enters a trade after seeing another transaction that will likely influence the price of the asset before the other
+transaction can execute. In traditional finance, this usually involves knowledge
+of some privileged information regarding an impending trade, and is often illegal.
+However, in cryptocurrency trading, since all trades are broadcast publicly, frontrunning is done through manipulating transaction orders and optimizing latency.
+A common type of front-running attack is called Reactive Counter Bidding
+[2]. It’s described as follows:
+• At time τ = 0, Ψ1 bids s;
+• Denote the most recent bid by Ψ1 as β1 . Ψ1 waits until it sees a bid β0 > β1
+cast by Ψ0 . Ψ1 immediately counter bids:
+min(max(β1 × (1 + ι), β1 + ), 1 + l × (β1 ))
+ is the minimum bid tick, l is the minimum bid increment, and s is the
+minimum starting bid. By bidding max(β1 × (1 + ι)), Ψ1 ensures that its bid
+meets the minimum bid requirement and is also higher than Ψ0 ’s bid. However,
+it would never make sense for Ψ1 ’s bid to exceed (1 + l(β1 )) as at this point it
+is more profitable to not bid and instead pay l(β1 ).
+
+9
+
+However, with liquidity aggregation, Reef can make this type of front-running
+attack prohibitively expensive and unprofitable to carry out by pooling together
+trades and increasing the value of s, while reducing the average clip window, ι
+and , due to the Law of Large Numbers (LLN) through transaction pooling.
+Global Liquidity Aggregator’s liquidity aggregation acts as a tool for interexchange arbitration that shields market participants against some of the more
+common types of front-running attacks.
+
+2.2
+
+Smart Yield Farming Aggregator
+
+The second major component of Reef Protocol is the machine learning and AIpowered DeFi Smart Yield Farming Aggregator.
+Landscape The DeFi Yield Aggregator space has recently seen high growth,
+with major players currently being Zapper, Rari.Capital, and a number of new
+protocols in the pipelines.
+Zapper
+
+Rari.Capital
+
+Staked
+
+Reef Finance
+
+Strategy
+Smart Routing
+Decentralized
+Customization
+Interoperable
+Table 2: Yield Engine Landscape
+Assets Supported Reef platform will support the following assets at launch:
+• stablecoins: USDC, USDT, TUSD, DAI, BUSD...
+• synthetic tokens: c tokens, y tokens...
+• hybrid tokens: wBTC...
+Lending and Borrowing The autonomous lending and borrowing of the
+above assets will be supported with the APR set via DAO-based voting. Lending
+will be collateralized via the user’s liquidity assets provided to the platform.
+Staking Support Streamlined staking on behalf of the user will be supported
+for Proof of Stake tokens such as ETH 2.0, DOT, Tezos.
+Liquidity Farming Reef will automatically scrap the DeFi landscape for the
+highest yield in liquidity farming and provide easy access to the user.
+
+10
+
+Insurance coverage Reef integrates with Etherisc, Nexus Mutual, Opyn, and
+other DeFi insurance protocols to provide financial insurance service to the user.
+2.2.1
+
+AI Personalized Smart Engine
+
+The defining feature of the Reef Smart Yield Farming Aggregator is the use of
+an AI and Machine Learning powered backend to optimize user asset distribution.
+The Reef Intelligence Engine is an off-chain oracle which is sourcing intelligence into the on-chain DeFi proxy smart contract. The Reef product team has
+a long history building such engines which either monitor different landscapes
+for fundamental metrics, collecting social media data, news, tweets, as well as
+on-chain data, and turning this data into usable metrics and insights.
+The engine is composed of complex architecture and data pipelines as well
+as optimized databases containing very large datasets. The Reef Engine then
+uses this data to divide assets and investing opportunities into allocation baskets sorted by duration of exposure and risk level.
+The users will then be be able to decide how much of their assets they will
+want to allocate to each basket. The Reef DeFi operating system then monitors
+and scrapes the landscape in real time, and dynamically rebalances and adjusts
+these baskets algorithmically.
+For example, basket A presents an exposure to certain staking pools of tokens,
+but due to insufficient activity and social media traction, this portion of the
+allocation might be reallocated to another asset or pool. Users who participate
+in the basket can keep certain assets locked, which will then not be altered when
+the engine driven adjustment occurs in the backend.
+2.2.2
+
+Augmented Decision Making
+
+The distribution of assets to various yield-providing pools can be modeled as a
+linear programming maximization problem, with constraints defined in the user’s
+risk tolerance. Linear programming is a popular technique for decision modeling
+used by financial institutions to efficiently allocate capital.
+Let’s examine a conceptual model as an example.
+Let χi denote the distribution of assets into N baskets. And let σρ denote
+the expected yield, and µρ the standard deviation, Rρ the variance of a pool of
+possible yield giving products, and ρij be the matrix of weighting coefficients.
+Then we optimize the following system:
+
+11
+
+max E(
+min σρ2 =
+
+[(Rρ − µρ )3 ]
+)
+σρ3
+N
+X
+
+χi χj σi σj ρij
+
+(3)
+
+(4)
+
+i,j=1
+N
+X
+
+χi µi ≤ µj
+
+(5)
+
+χi = 1 for li ≤ χi ≤ µi , i = 1, 2, ..., N
+
+(6)
+
+subject to
+
+i=1
+
+subject to
+
+N
+X
+i=1
+
+This model seeks to simultaneously maximize expected yield or returns, while
+minimizing risk exposure. The Reef Intelligence Engine will constantly train over
+a large aggregate dataset consisting of market data, social media sentiments, financial news, and other sources of data to update the parameters used in this
+model, representing levels of risks and returns.
+By efficiently solving linear programming models, and other mathematical
+models depending on assets and situations, the Reef Intelligence Engine will
+look for the best allocation coefficients given the user’s risk tolerance profile and
+streamline the micro-adjustments to the baskets of financial products maintained
+on the platform.
+
+2.3
+
+Smart Asset Management
+
+The third aspect of Reef that sets the platform apart is a set of powerful portfolio management features available to the users, acting as a complement to Reef
+Global Liquidity Aggregator and Smart Yield Farming Aggregator.
+
+Active Asset Rebalancing Since DeFi markets can change very quickly compared to traditional financial markets, the asset allocation needs to be constantly
+rebalanced to keep ahead of the curve. On Reef, users can seamlessly rebalance
+by adjusting their allocations of assets between the baskets of DeFi products and
+exposures through a modern UI accessed through any mobile device or computer.
+Guided Asset Management Complementary to the user’s active management of assets, Reef will use its AI engine to present important information or
+make intelligent recommendations to the user.
+
+12
+
+Diversification Reef provides diversification through its basket system, as it
+pools the assets of the users on the platform, and re-allocates them in a plethora
+of different DeFi asset classes, which have different levels of correlation with each
+other.
+2.3.1
+
+Modern Portfolio Theory Based Allocation
+
+The Modern Portfolio Theory (MPT), or mean-variance analysis refers to an investment theory and mathematical framework, that allows investors to assemble
+an asset portfolio that maximizes expected return for a given level of risk. The
+theory assumes that investors are risk-averse; for a given level of expected return,
+investors will always prefer the less risky portfolio.
+Suppose we purchase an asset for x0 dollars on one date and then later sell
+it for x1 dollars. We call the ratio, R, the return on the asset, R = xx10 . The rate
+of return on the asset is then given by:
+R=
+
+x1 − x0
+=R−1
+x0
+
+(7)
+
+Therefore,
+x1 = R × x0 and x1 = (1 + r)x0
+
+(8)
+
+Let us now consider constructing a portfolio consisting of n assets. The
+amount that we assign to asset i is xi = wi x0 for i = 1, 2, ..., n, where wi is a
+weighting factor for asset i.
+Then, the sum of the total receipts from our investments can be represented
+as this sum:
+xi =
+
+n
+X
+
+Ri wi x0 = x0
+
+i=1
+
+n
+X
+
+R i wi
+
+(9)
+
+i=1
+
+As x0 is constant. Hence the rate of returns on the portfolio can be represented as:
+n
+n
+n
+n
+X
+X
+X
+X
+r =R−1=(
+Ri wi ) − (
+wi ) =
+(Ri − 1)wi =
+ri wi
+i=1
+
+i=1
+
+13
+
+i=1
+
+i=1
+
+(10)
+
+ρ=
+
+−1
+ρ=
+
+0.5
+ρ=
+0
+ρ=
+0.5
+ρ=
+1
+
+14%
+
+10%
+
+5%
+2%
+1% 2%
+
+4%
+
+6%
+
+8%
+
+Figure 1: Efficient Frontier Curves. This graph plots the set of optimal portfolios
+that offer the highest expected return for a defined level of risk, given different
+values for standard deviation.
+By applying Modern portfolio theory to DeFi and cryptocurrency assets, that
+assumes asymmetrical distributions, Reef can efficiently allocate the user’s funds
+in a manner that provides the user maximum returns for a given level of risk.
+The risk of the portfolio is adjusted by the user actively where one can see the
+percentage distribution of other users at different levels of risk. Assets in the
+portfolio are picked from the efficient frontier which represents the assets with
+the best returns at a given level of downside risk. Downside risk is measured by
+target semi-deviation; downside deviation as this accurately portrays users risk
+aversion.
+
+2.3.2
+
+Factor Analysis
+
+Factor analysis is a mathematical technique that is used to reduce a large number of variables into fewer numbers of factors, as a way to create structured data
+from seemingly unstructured data.
+Factor analysis can be seen as a generalization of principal component analysis. It’s a method of working with internal dependencies of the correlation matrix
+or the covariance matrix, integrates multiple variables to a few factors, and reproduces the relationship between the original variables and factors.
+For example an orthogonal factor model, which is a subtype of principal
+
+14
+
+component analysis, could be constructed in the following way:
+X1 − µ1 = l11 F1 + l12 F2 + ... + l1m Fm + 1
+X2 − µ1 = l21 F1 + l22 F2 + ... + l2m Fm + 2
+..
+.
+
+(11)
+
+Xp − µ1 = lp1 F1 + lp2 F2 + ... + lpm Fm + p
+where
+
+
+l11 l12 ... l1m
+ ..
+..
+..
+..
+
+.
+.
+.
+L= .
+ lp1 lp2 ... lpm
+
+
+
+
+
+
+
+F1
+
+ .. 
+
+
+
+
+
+,F =  . , = 
+
+ Fm 
+
+
+
+1
+.. 
+. 
+
+m 
+
+(12)
+
+L = (lij ) is called the loading matrix. F1 , ..., Fm are called the common factors, 1 , ..., m are commonly called specific factors.
+
+Exploratory Factor Analysis The primary objectives of an exploratory factor analysis on unstructured data are to determine the number of common factors
+influencing a set of measures and to evaluate the strength of the relationship between each factor and each observed measure. Some common uses of Exploratory
+factor analysis are:
+• Determine what sets of factors "hang together" and have correlation with
+which DeFi asset types;
+• Demonstrate the dimensionality of a measurement scale; ideally, we want
+to develop scales that respond to a single characteristic;
+• Generate "factor scores" representing values of the underlying constructs
+for use in cross asset analyses.
+Risk assessment of assets included in the portfolio is distributed over several
+types of factors, including on-chain data and trends, fundamental analysis, and
+sentiment indicators such as social media activity, GitHub or GitLab community,
+including commits, forks and bug reports. Reef platform will collect and analyze
+these data in the backend, and our algorithms will perform the appropriate analytics.
+These factors together provide insight into the underlying risk of an asset,
+and can be extrapolated into a risk profile of the asset, which allows the platform
+to avoid dubious assets being selected into the portfolio with a high confidence
+interval, as well as catching potential market trends ahead of the public.
+
+15
+
+2.4
+
+Implementation Framework
+
+Our product will also have a demo and initial implementation on ETH1.0 as
+that is currently the smart contract platform with the widest adoption, but our
+primary implementation platform for the Reef Protocol will be the Polkadot network.
+At present, being on ETH1.0 is the only viable option, but since the DeFi
+ecosystem is maturing, more and more projects will decide to build on different platforms since ETH1.0 cannot fulfill their needs. Reef strives to be chainagnostic and will have its own application-specific logic, which won’t be constrained by the current limitations that the ETH1.0 network has, such as high
+gas fees, long confirmation times and other bottlenecks.
+
+2.4.1
+
+Advantages of Polkadot Network
+
+Polkadot is a next generation L1 network that focuses on interoperability, and
+defines a mechanism for different blockchains to communicate while maintaining
+separate state-transition functions [3].This potentially allows separate, isolated
+blockchains to be networked together, forming a sort of "internet of blockchains",
+where private chains can be firewalled from public chains like Ethereum, but
+still be able to communicate with each other via pre-defined state-transition
+functions, similar to the internet handshake protocols used today to establish
+networking.
+For Reef, the advantages of building on Polkadot include:
+True Interoperability Reef will be the first cross-chain DeFi yield engine
+and liquidity aggregator. Polkadot’s unique architecture compartmentalizing
+"canonicality" and "validity" allows many divergent consensus protocols, open
+and closed networks to achieve interoperability, including between centralized
+liquidity providers and decentralized liquidity providers.
+Flexible and Open Source Underlying Architecture Polkadot is powered
+by Substrate, a fully open source infrastructure project that can be used to build
+Polkadot compatible blockchains. Some of the more advanced features of the
+Reef Protocol might require a custom state-transition function, thus having the
+option to create a custom Polkadot compatible chain is critical.
+Economic and Transactional Scalability Polkadot is built to be scalable
+from the ground up, compared to first generation Smart Contract platforms
+such as Ethereum 1.0 that has experienced severe network congestion issues,
+causing security vulnerabilities and irregular market behaviors. Reef also wants
+to leverage a highly scalable network so that gas fees can be kept to a minimum
+and not eat into the profitability of users’ yield farming or staking.
+16
+
+Decentralized Governance Polkadot’s governance system is a DAO where
+all stakeholders have a voice. Upgrades to the network are coordinated on-chain
+and enacted autonomously, ensuring that Polkadot’s development reflects the
+values of the community and avoids stagnation. This is compatible with Reef’s
+decentralized, stake-based governance, and prevents there being any security
+risks from centralization.
+
+3
+
+Reef Token Economy
+
+The Reef platform features its own native utility token, the Reef token. This
+token is central to the incentive structure of the Reef Protocol, as well as its
+governance.
+
+3.1
+
+Protocol Incentive Structure
+
+Network Collators Within the network, collators do the necessary computations to maintain the consistency of the network state through a Proof of Stake
+based consensus protocol. The role of the collator node is to maintain a full
+node of the parachain, retain all necessary state information of the parachain,
+and produce new block candidates to pass to the Relay Chain validators for verification and inclusion in the shared state of Polkadot.
+The incentive design of a collator node is an important design decision of the
+Reef Protocol. The network will use Reef tokens as the gas currency for paying
+collator fees for all basic operations such as processing transactions, deploying
+smart contracts, submitting a proposal, and other network activities.
+Collator fees also occur when interacting with the on-chain infrastructure
+such as entering and exiting the baskets as well as automated rebalancing. Rebalancing operations will flow through Reef’s pool pipes. Each pool pipe is a
+generalized smart contract, so once a pipe is deployed between two underlying
+platforms, anyone is able to instantly move liquidity between any pools or markets within those platforms. The Reef engine will utilize those pipes by deploying
+the auto-rebalancing logic to shift liquidity based on the currently available opportunities.
+
+3.2
+
+Staking and Governance
+
+Reef Protocol will utilize Polkadot’s Proof of Stake based consensus mechanism
+as its base consensus algorithm. Reef tokens will be used for staking as a representation of voting power, and for determining the distribution of staking fees.
+
+17
+
+Figure 2: Reef Token Flow Diagram. Reef token is utilized throughout the network
+for staking, yield distribution, network fees, and governance.
+
+18
+
+Reef Protocol will be governed through a DAO structure, with Reef tokens
+representing voting power, which can be used directly or delegated. Possible
+governance proposals include:
+1. Changing asset basket structure (fees, composition, or creation);
+2. Raising or lowering the reserve limit of a market; adjusting yield distribution and interest rates;
+3. Altering pool attributes, such as voting power time function, pool’s dynamic interest % calculation for staking;
+4. Modifying the structure of a DAO, which could be the admin of the protocol, but requiring a very high percent of votes.
+These proposals will be voted on by any user that holds the voting threshold of Reef tokens, and adopted or rejected in an autonomous and transparent
+fashion.
+
+3.3
+
+Yield Distribution and Token Valuation
+
+Yield rewards will be divided between platform users and the protocol itself.
+Users will be able to choose the yield ratio between major cryptocurrencies
+such as ETH, USDC, other stablecoins, or REEF tokens. As an incentive for
+users to acquire and keep Reef tokens, choosing a higher ratio of Reef tokens will
+correspond to a higher yield total. Then, the Reef tokens can be further staked
+in various pools for earning interest with preferred APR.
+Yield that goes toward the protocol smart contract will be used for:
+1. Paying interest to users who stake Reef tokens. They can choose lock-up
+periods, the longer the lockup period, the better rate they get;
+2. Buyback and AMM fees;
+3. Cash flow and revenue; covering the various costs of running the platform.
+Initial Token Price The initial token price will be determined based on
+fundraising and the valuation. Post launch, the price will be solely determined
+by the market. A certain percentage of the tokens will be pre-minted, determined
+by the vesting schedule for the team and the initial contributors, investors, and
+other factors.
+
+19
+
+4
+
+Future Work
+
+Further Interoperability through Parachains One of the primary advantages of building Reef Protocol on Polkadot is leveraging its unique parachain
+based architecture to achieve interoperability with different L1 protocols, both
+public and permissioned chain, opens up potential sources of liquidity to Reef.
+We will first implement on Polkadot and achieve interoperability with all
+Polkadot compatible chains, then expands to other major L1 architectures, such
+as Cosmos, Tezos, and ETH 2.0 (when released).
+Automated Ticker and ETF Development The baskets of DeFi assets on
+Reef that users can allocate to can be thought of as an implementation of a
+cryptocurrency index fund, the crypto equivalent of an ETF.
+The allocation of these indices or baskets will be passively managed through
+Reef Intelligence Engine, optimizing returns in the background, each one corresponding to a given level of risk. These DeFi asset ETFs then could be traded
+and invested in, similar to stock ETFs, giving users another way to manage their
+assets.
+
+References
+[1] G. Angeris, H.-T. Kao, R. Chiang, C. Noyes, and T. Chitra, “An analysis of
+uniswap markets,” 2019.
+[2] P. Daian, S. Goldfeder, T. Kell, Y. Li, X. Zhao, I. Bentov, L. Breidenbach,
+and A. Juels, “Flash boys 2.0: Frontrunning, transaction reordering, and
+consensus instability in decentralized exchanges,” 2019.
+[3] G. Wood, “Polkadot: Vision for a heterogeneous multi-chain framework,”
+2016.
+
+20
+
+

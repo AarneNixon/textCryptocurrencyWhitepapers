@@ -1,0 +1,1511 @@
+CONTENTS
+Introduction ........................................................................................................... 4
+01 Market overview ................................................................................................ 5
+011 Banking services market overview................................................................................... 6
+012 Cryptocurrency market overview ................................................................................... 7
+013 Digital wallets market overview ..................................................................................... 8
+014 Analysis of the project’s potential audience .................................................................... 9
+02 Chalenges ........................................................................................................ 11
+03 MinePlex Banking ecosystem ............................................................................ 12
+031 Mobile cryptobank .................................................................................................... 12
+032 Multi-currency wallet.................................................................................................. 14
+033 P2P exchange .......................................................................................................... 14
+034 MasterCard debit card .............................................................................................. 15
+035 Fiat transactions ........................................................................................................ 16
+04 Blockchain MinePlex Banking ........................................................................... 16
+05 Tokenomica ..................................................................................................... 19
+051 Technical specifications of tokens................................................................................ 20
+052 MINE token issue ..................................................................................................... 20
+053 PLEX token issue ....................................................................................................... 21
+054 MINE token Plexus .................................................................................................... 21
+
+2
+
+CONTENTS
+
+055 Plexus Pool .............................................................................................................. 21
+056 Plexus cycles ........................................................................................................... 23
+057 Plexus difficulty ........................................................................................................ 24
+06 Strategy development ...................................................................................... 26
+07 Workflow diagram ........................................................................................... 27
+08 Project key benefits ......................................................................................... 29
+09 Team............................................................................................................... 30
+10 Legal information ............................................................................................. 32
+11 Contacts .......................................................................................................... 36
+
+CONTENTS
+
+3
+
+Contents
+MinePlex Banking is a new generation mobile cryptobank with its own liquid token. The project
+is based on an exceptional balance between traditional financial systems, block technology and
+mobile applications.
+MinePlex Banking’s aim is to create a reliable and convenient mobile
+cryptographic bank for the daily use of cryptocurrencies anywhere in the
+world: paying bills, buying goods, saving and growing assets.
+MinePlex Banking’s mission is to expand Blockchain’s influence and
+to integrate it comprehensively into real life spheres. We want to remove
+restrictions when it comes to accessing the world of cryptocurrencies, which
+separate miners and ordinary users. We want to introduce affordable, clear
+and simple financial tools to use cryptocurrencies and Fiat.
+In order to implement the project, we are developing our own unique blockchain with a Liquid
+Proof-of-Stake (LPoS) consensus algorithm, which combines such advantages as simplicity:
+operating speed and decentralisation.
+The release of the MinePlex debit card will allow you to use the cryptographic currency every day
+without any restrictions or overpaying fees. The system’s own token will provide access to all the
+service’s benefits. One of our special features will be the gradual addition of tokens created by
+project users to the MinePlex Banking list. MinePlex Banking cards will be compatible with such
+payment systems as Visa, MasterCard and UnionPay throughout the world.
+
+“We are focused on creating an integrated ecosystem that will simplify the use
+of banking services and digital assets and be personalised and focused on the
+convenience of each client”
+
+4
+
+INTRODUCTION
+
+01 Market overview
+The banking industry is experiencing a paradigm shift.
+Digital transformation and the overall readiness for
+innovative change are at the top of the list when it comes
+to strategic objectives.
+
+In January 2020, consulting company Capgemini defined the 10 main trends in the banking
+industry for the current year. 4th place on the list was the necessity of the introduction of blocktechnologies, with which banks can achieve the following advantages:
+
+simplify user
+identification;
+
+store data from different
+sources on a single secure
+database;
+
+reduce the risk
+of fraud;
+
+cut costs.
+
+Blockchain solutions are becoming mainstream in the financial and technological fields.
+According to a survey conducted by Deloitte, when it comes to the top managers of the world’s
+largest technology companies:
+55%
+46%
+83%
+63%
+
+put blockchain in the top five strategic priorities;
+have already introduced Blockchain into production;
+believe that digital assets will become the alternative to paper
+currency within 5-10 years;
+want to keep the cryptocurrency in the asset basket.
+
+According to Rob Massey, partner of global and U.S. tax leader Deloitte Tax LLP,
+
+01 MARKET OVERVIEW
+
+5
+
+”the study confirms what we see in the market; the spread of digital assets used as a
+means of exchange, a means of preserving value, the digital representation of specific
+assets or the participation in the company’s capital”.
+
+011 BANKING SERVICES MARKET OVERVIEW
+The market capitalisation of the global banking sector amounted to EUR 7.6 trillion in the fourth
+quarter of 2019.
+
+8
+6,8
+6
+
+5,6
+
+5,5
+
+5,8
+
+Q1’
+16
+
+Q2’
+16
+
+Q3’
+16
+
+7,2
+
+7
+
+7,4
+
+7,6
+
+7,9
+7,2 7,1
+
+7,4
+
+7,1
+
+7,3
+
+7,2
+
+Q1’
+19
+
+Q2’
+19
+
+Q3’
+19
+
+6,5
+
+4
+
+2
+
+0
+
+Q4’
+16
+
+Q1’
+17
+
+Q2’
+17
+
+Q3’
+17
+
+Q4’
+18
+
+Q1’
+18
+
+Q2’
+18
+
+Q3’
+18
+
+Q4’
+18
+
+Q4’
+19
+
+According to digital banking statistics, by 2024 the total number of online and mobile banking
+users will exceed 3.6 billion people. The market for digital banking services will reach $9 trillion
+this year.
+growth of the digital banking
+services market;
+
+of loans in the USA are issued
+through a mobile application;
+
+of international banks are
+focused on creating digital
+ecosystems to improve
+customer service and
+increase revenues;
+
+of bank managers believe
+that new technologies will
+drive the global banking
+business in the next 5 years;
+
+of banks invest in
+cybersecurity;
+
+6
+
+increase in the limit of
+contactless transactions on
+average worldwide in 2020;
+
+01 MARKET OVERVIEW
+
+926
+
+MILL.
+
+million MasterCard credit
+cards were in circulation
+worldwide at the end of 2019;
+
+853,9
+BILL.
+
+billion purchases will be
+made by holders of major
+cards in 2028, increasing the
+amount by 131% over the next
+10 years.
+
+MinePlex Banking’s key solution will be a client-oriented mobile
+bank with access to services and digital assets for any user.
+
+012 CRYPTOCURRENCY MARKET OVERVIEW
+Cryptocurrencies are digital assets that do not have a centralised regulatory authority. The
+cryptocurrency industry is one of the most popular and fastest growing.
+In April, Deutsche Bank suggested that the Covid-19 pandemic would accelerate the process
+of central banks creating their own digital money. At the same time, the People’s Bank of China
+(PBoC) announced plans to test its national digital currency (DECP) in 2020 and the next digital
+currency in 2022.
+The steady growth of the industry and the introduction of cryptocurrencies will support the
+growing demand for trade, ease of money transfers and cross-border transactions.
+Market value of cryptocurrencies
+
+1,03
+
+USD BILLION
+2019
+
+1,40
+
+USD BILLION
+2024
+
+6,18%
+
+projected
+growth in the
+next 5 years
+
+The cryptocurrency market capitalisation was estimated at $258 billion at the beginning of June
+2020. The main cryptocurrencies are Bitcoin (BTC), Ethereum (ETH), Ripple (XRP), Bitcoin Cash
+(BCH), Litecoin (LTC) and Tezos (XTZ). In the next 5 years, most of the market will be held by
+Bitcoin (currently its share is 66%).
+Bitcoin ATMs are available to make using cryptocurrencies more convenient. As of 1 June 2020
+there were 7,962 ATMs in the world. Different types of bitcoins allow you to buy and even sell
+bitcoins.
+
+01 MARKET OVERVIEW
+
+7
+
+However, they have significant problems:
+geographical limitation (81% of ATMs are located in the USA);
+
+cash-only purchase, limited purchase limit.
+
+MINEPLEXBANKING’S GOAL is to remove restrictions on the purchase, sale and
+use of cryptocurrencies. Using the mobile app, the client will be able to safely store,
+trade and borrow against digital and traditional assets. All this on just one platform
+
+013 DIGITAL WALLETS MARKET OVERVIEW
+Since the creation of the first cryptocurrency (Bitcoin), the number of digital wallets has been
+growing steadily. At the end of March 2020, there were over 47 million users. And their numbers
+are increasing.
+47
+50
+40
+30
+20
+10
+0
+
+8
+
+Q3’
+16
+
+Q4’
+16
+
+Q1’
+17
+
+Q2’
+17
+
+Q3’
+17
+
+Q4’
+17
+
+Q1’
+18
+
+Q2’
+18
+
+Q3’
+18
+
+Q4’
+18
+
+Q1’
+19
+
+Q2’
+19
+
+Q3’
+19
+
+Q4’
+19
+
+Q1’
+20
+
+01 MARKET OVERVIEW
+
+“Bitcoin looks more attractive because other assets are not making any profit... These
+results confirm the trend we are seeing in the market with regards to the increased
+interest in digital assets and their adoption as a new investment asset class”
+TOM JESSOP, president of Fidelity Digital Assets.
+
+014 ANALYSIS OF THE PROJECT’S POTENTIAL AUDIENCE
+The growth of mobile banking users is due to many factors: convenience, speed, availability
+and economic benefits. The absence of an office is a sign of a popular new type of bank
+(the so-called non-bank). By 2023 these types of banks will have 85 million clients.
+Demographics of cryptocurrency users and bank customers
+According
+to age:
+
+of consumers under
+54 years use mobile
+payment services;
+
+of cryptocurrency users
+are under the age of
+34. 29% are between
+35 and 44 years old.
+
+According
+to demand:
+
+of clients when
+choosing a bank
+look for stable online
+and mobile banking
+services;
+
+will refuse human
+contact in the bank if
+services on the mobile
+application are cheaper
+(or free).
+
+For transfers between accounts users choose:
+mobile bank;
+
+For paying
+bills:
+
+01 MARKET OVERVIEW
+
+online bank;
+
+mobile
+applications;
+
+other
+methods.
+
+online banking.
+
+9
+
+MinePlex Banking aims to provide the maximum benefit from digital currencies and mobile
+banking technologies. Customers will be able to:
+reduce costs when using the application;
+save time when contacting the bank;
+be confident in the reliability and security of their funds;
+
+10
+
+01 MARKET OVERVIEW
+
+02 Challenges
+MinePlex Banking is designed to solve key user problems
+
+Problem
+
+MinePlex Banking solution
+
+Limited use of digital assets, payment
+option only in industries that accept
+cryptocurrencies
+
+Convenient use of cryptocurrencies
+every day anywhere in the world
+
+Multiple security threats: hacking,
+malfunction, fraud
+
+Modern technologies, use of smart
+contracts to increase automation
+
+Outdated banking platforms and
+equipment
+
+Modern technologies, use of smart
+contracts to increase automation
+
+Long transfers (over a few days)
+
+All payments are made within one
+minute.
+
+P2P exchange through sites with
+additional registration, wasted time
+and fees to pay
+
+Reliable and safe cryptocurrency
+exchange in one place, without
+unnecessary procedures and with
+minimal fees
+
+You can’t withdraw large amounts,
+there’s a risk your card will be blocked
+
+Legal purchase and sale of
+cryptocurrencies, receiving money to
+the account in full. The bank cannot
+block the card without a reason
+
+Freezing accounts without warning the
+user
+
+Transparency of bank-client relations
+and visibility of all transactions
+
+Detachment, often a lack of interest in
+the client’s problems
+
+Personalised advice, decision support
+
+02 CHALLENGES
+
+11
+
+03 MinePlex Banking ecosystem
+35% Finance
+15% Journeys
+10% Technologies
+10% Food
+10% Loyalty Programm
+10% Purchases
+5% Education
+5% Car
+
+FINANCE
+
+JOURNEYS
+
+MinePlex Banking debit
+card with cryptocurrency
+and fiat.
+
+Using the MinePlex
+card without borders:
+automatic conversion of
+cryptocurrency and fiat
+into local currency
+
+Online: crypto bank,
+crypto wallet, exchanger,
+transfers and payments.
+
+TECHNOLOGIES
+
+FOOD
+
+mobile application.
+
+Using a MinePlex card
+anywhere in the world
+where Mastercard,
+Visa, and Union Pay are
+supported.
+
+Own MinePlex blockchain
+with two liquid tokens.
+
+12
+
+Payment for tickets and
+hotels via the app
+
+03 MINEPLEX BANKING ECOSYSTEM
+
+LOYALTY PROGRAMM
+
+PURCHASES
+Using your MinePlex card
+when shopping.
+
+EDUCATION
+Opening of the innovative
+MinePlex University.
+Expanding of the base of
+interested, knowledgeable
+network users and
+integration of the project’s
+influence into new areas.
+
+CAR
+Petrol station.
+Payment of taxes and state
+duties via the app.
+
+031 MOBILE CRYPTOBANK
+MinePlex Banking is a reliable mobile cryptobank with a current account and classic payment
+transactions. It’s located on your mobile phone and works 24/7. Thanks to blockchain technology
+and the use of smart contracts, bank transfers can be made quickly and safely.
+With the mobile cryptobank you can:
+pay rent and bills for utilities and other services;
+exchange different currencies;
+create savings;
+transfer funds between bank accounts;
+make interbank payments;
+have fiat accounts in euros and dollars;
+make international payments and transfers;
+keep money in both Fiat and cryptocurrencies;
+take out loans;
+refinance loans from traditional banks on favourable terms
+
+03 MINEPLEX BANKING ECOSYSTEM
+
+13
+
+032 MULTI-CURRENCY WALLET
+The MinePlex Banking CryptoWallet is designed for the fast and easy use of cryptocurrencies.
+Thanks to mobile access, you can flexibly manage assets and analyse your portfolio at any time.
+To begin with, the wallet will support its own MINE and PLEX tokens, and by spring 2021, we will
+have introduced more than 20 major cryptocurrencies (USDT, BTC, ETH, etc.).
+
+With a mobile wallet you can:
+view a list of your addresses with balances;
+find out the latest cryptocurrency exchange rates (updated
+every second);
+track actual wallet transactions, such as «pending
+confirmation» or «fulfilled»;
+view the latest completed transactions;
+buy/sell cryptocurrency.
+033 P2P EXCHANGE
+The MinePlex Banking Exchanger allows you to quickly and securely sell and buy cryptocurrency
+software and display it in a single mobile application. The client account is tied to the crypto
+wallet, saving you time and simplifying the exchange process. Euros and dollars will be accepted
+as payment.
+With the P2P exchange you can:
+perform profitable cryptocurrency exchanges directly
+between users;
+find the best exchange rates;
+to purchase cryptocurrency using a card or bank transfer.
+
+14
+
+03 MINEPLEX BANKING ECOSYSTEM
+
+034 MASTERCARD DEBIT CARD
+The release of the MinePlex debit card will allow you to use the cryptographic currency every day
+without any restrictions or overpaying fees. The system’s own token will provide access to all the
+service’s benefits. MinePlex Banking cards will be compatible with such payment systems as Visa,
+MasterCard and UnionPay throughout the world.
+Using a debit card, you can:
+save on exchange transactions: the conversion takes place
+directly from one currency to another, reducing commission
+costs;
+withdraw cash from any ATM in euros;
+buy and sell euros and dollars in the application at a
+favourable exchange price with almost no fees, no search
+for exchangers and no queues;
+use the map absolutely anywhere in the world from the
+comfort of your own home.
+
+035 FIAT TRANSACTIONS
+MinePlex Banking provides traditional mobile banking services when working with fiat currencies.
+One of the bank’s special features is its safety and transparency of transactions due to blockchain
+technology.
+You can perform transactions with the following
+advantages:
+the bank cannot unilaterally block your card;
+the ability to perform transactions with large amounts of
+money;
+perform automatic conversions when travelling abroad
+(future plans include using most national currencies).
+
+03 MINEPLEX BANKING ECOSYSTEM
+
+15
+
+04 MinePlex Banking blockchain
+The creation of a reliable mobile cryptobank was made possible thanks to Blockchain technology.
+Banking systems use formal verification processes to ensure security. The parties’ details (sender’s
+address, recipient’s address, signature, etc.) are compared. Based on the information provided,
+a decision is made whether the operation (transaction) is genuine or not. However, in classical
+banking systems the bank itself performs the verification. As a result, a third party arises between
+the sender and the recipient, which is the central supervisory authority. There is no guarantee that
+the verification will be transparent and that the bank will not make a false decision deliberately. In
+addition, all funds are controlled by the bank.
+Blockchain technology performs the verification in a decentralised way. It takes place through the
+consensus of all network participants (nodes). Transactions take place directly from user to user,
+and only the owner of the funds shall have access to them.
+
+A
+
+VERSUS
+
+A
+
+B
+
+B
+Classic system:
+Centralized with a third
+controlling party
+
+Blockchain system:
+distributed and without
+a third party
+
+In blockchain, a pre-written code is responsible for making a decision regarding the authenticity
+(validity) of each transaction. The main problem of this approach is the fact that if an error is
+found in the code, it can lead to the failure of the entire system and the need for a hard fork.
+This process is technically coPPlex and can take a long time.
+
+16
+
+04 BLOCKCHAIN MINEPLEX BANKING
+
+MinePlex Banking Blockchain features
+The MinePlex decentralised system is built on the multi-stage Tezos blockchain
+architecture, which allows changes and updates to be made without hard forks.
+
+Blockchain’s iPPortant element is the smart contracts developed in Michelson, the
+language used in the aerospace industry where the cost of error is particularly
+high.
+The MinePlex Blockchain speeds up and simplifies crypto fiat transactions:
+a single application to access cards and wallets is protected by several security levels;
+buy and sell cryptocurrency and fiat in seconds without leaving your wallet;
+utilities payments, loan repayments, sending a transfer in cryptocurrency and Fiat;
+all transactions are performed directly. They can be verified by transaction participants
+because they remain in the record registry;
+the security protocol in a decentralised system automatically blocks fraudsters.
+
+Withdraw
+
+Implementation
+scheme for Fiat
+transactions
+
+Deposit
+
+Bank acc.
+
+(USD, EUR, GBP)
+Withdraw
+Request
+
+Card
+
+Customer
+
+eWallet
+
+04 BLOCKCHAIN MINEPLEX BANKING
+
+Request
+
+Deposit
+amount
+Deposit
+amount
+
+Merchant
+bank acc.
+
+17
+
+Payment
+and transfer
+scheme
+
+Hedge payment
+(BTC, ETH, USDT)
+
+Card
+
+Merchant
+bank acc.
+
+eWallet
+
+Customer
+
+Cryptowallet
+
+Merchant
+CryptoWallet
+
+Hedge payment
+(BTC, ETH, USDT)
+
+Withdraw
+
+Implementation
+scheme for
+transactions with
+cryptocurrencies
+
+Hedge payment
+(BTC, ETH, USDT)
+
+Withdraw
+Request
+
+Request
+
+Withdraw
+
+Customer
+
+Merchant
+CryptoWallet
+
+Cryptowallet
+Withdraw
+
+How a MinePlex Banking debit card works
+Plex Token
+
+Topping up
+of the MinePlex
+Banking Wallet
+
+Conversion
+of Cryptocurrency
+to EUR, USD
+
+User
+
+Exchange,
+Liquidity
+Provider, Crypto
+Exchanger
+
+BTC, USDT, ETH
+
+Bank of the Exchange,
+Liquidity Provider
+
+Transfer of funds via
+VISA, MasterCard,
+UnionPay Systems
+Service or
+Product Provider
+
+18
+
+04 BLOCKCHAIN MINEPLEX BANKING
+
+05 Tokenomica
+The MinePlex Banking ecosystem is based on 2 tokens: MINE and PLEX.
+MINE TOKEN
+The basic (native) token, which is a unit of computating
+power of the MinePlex unit, is required to create (generate)
+a PLEX token. It serves as a means for paying internal
+commissions.
+
+The MINE token is not subject to volatility and its nominal value
+is $0.01.
+
+PLEX TOKEN
+
+Liquid token with limited issue. The PLEX token is issued for
+every new unit, i.e. once a minute, according to a pre-defined
+issue algorithm in the blockchain.
+
+Due to the fact that the issue is limited and its speed and size
+decreases over time, the PLEX token is deflationary in nature.
+
+05 TOKENOMICA
+
+19
+
+051 TECHNICAL SPECIFICATIONS OF TOKENS
+
+Ticker
+
+MINE
+
+PLEX
+
+Purpose
+
+processing power unit
+
+payment tool
+
+Initial Issue
+
+259 200 000 000
+
+0
+
+Maximum issue
+
+259 200 000 000
+
+414 720 000
+
+Number of digits after
+the decimal point
+
+4 characters
+
+4 characters
+
+Starting price
+
+0,01 USD
+
+0,20 USD
+
+Blockchain
+
+MinePlex
+
+MinePlex
+
+Method of obtaining
+
+purchase in a personal
+account, exchange
+for PLEX inside the
+blockchain, P2P
+
+is charged for plexus of
+the Mine token, buying
+on the exchange after
+listing, P2P
+
+052 MINE TOKEN ISSUE
+01
+
+The MINE token issue is 259 200 000 000.
+
+02
+
+10% of the issue (25 920 000 000 MINE) is a reserve fund for MinePlex Banking.
+These tokens will form an initial stake, which in turn will provide the starting price for a
+PLEX token.
+
+03
+
+20% of the issue (51 840 000 000 MINE) will be allocated for sale through your
+personal account.
+
+04
+
+70% of the emission (181 440 000 000 MINE) will be on a special smart contract that
+exchanges PLEX tokens for MINE tokens inside blockchain.
+
+20
+
+05 TOKENOMICA
+
+053 PLEX TOKEN ISSUE
+The issue of PLEX tokens is divided into 4 stages. For each stage 25% of the total issue will be
+issued - 103 680 000 PLEX.
+
+Stage
+
+1
+
+2
+
+3
+
+4
+
+TOTAL
+
+Issue per
+block
+
+600
+
+300
+
+150
+
+75
+
+Blocks per
+stage
+
+172 800
+
+345 600
+
+691 200
+
+1 382 400
+
+2 592
+000
+
+Issue per
+stage
+
+103 680
+000
+
+103 680
+000
+
+103 680
+000
+
+103 680
+000
+
+414 720
+000
+
+The size of 1 block is 1 minute.
+054 PLEXUS OF MINE TOKEN
+01
+
+To get the right to receive a share of the PLEX token, each block must produce a Plexus
+of the Mine token.
+Plexus can be compared to stacking. However, in the Liquid Proof-of-Stake (Pos)
+algorithm, the stake itself means the ownership of MINE tokens. Unlike Delegated Proofof-Stake (Pos), the address itself is delegated, not tokens. So users always have access to
+their tokens and can use them or change the delegate (Plexus Pool) at any time.
+
+055 PLEXUS POOL
+The Plexus Pool (hereinafter referred to as PP) is responsible for generating new blocks and
+confirming them in the MinePlex Banking blockchain. To organise an PP, you need to expand the
+node of the MinePlex Banking network and have a minimum stake of 1 MegaMine (hereinafter - MM) = 1 000 000 Mine.
+Block creation.
+To create a new block, 1 PP is randomly selected. The more MM a particular
+PPM has, the more likely it is that the system will select it to create a new unit and
+it will receive a reward.
+
+05 TOKENOMICA
+
+21
+
+Only full MMs are included in the queue. For exaPPle, if the total stake in PP
+is 1 999 999 Mine, it will be 1 MM for the system. Under these conditions, the
+average monthly reward for this PP will be 10%, as opposed to 20%.
+Block confirmation
+To confirm a block, 30 PP are randomly selected, which means that the queue
+for block confirmation falls 30 times more often than for its creation.
+Rewards for blocks
+The maximum reward per unit is 600, 300, 150 and 75 PLEX tokens
+respectively, depending on the issue stage.
+The maximum reward is paid if the block was created with priority 0 and it was
+confirmed by 30 PP. The block has 0 priority if it was created precisely by the PP
+that was assigned.
+Distribution of rewards for a block with priority 0:
+paid by the confirming PP.
+
+1.666%
+
+1.666%
+
+* number of confirming PP,
+paid by the PP who created
+the block.
+
+Therefore, for the creation of an PP block, you will not receive more than 50% of the total
+maximum reward for the block + commissions for transactions made in this block.
+Distribution of rewards for a block without priority 0:
+paid by the confirming PP.
+
+1.111%
+
+0,250%
+
+* number of confirming PP,
+paid by the PP who created
+the block.
+
+Therefore, for the creation of an PP block, you will not receive more than 7.5% of the total
+maximum reward for the block + commissions for transactions made in this block.
+
+22
+
+05 TOKENOMICA
+
+Security deposits:
+
+60 000
+
+For block creation 6%
+of MM
+
+MINE
+
+2 000
+
+For block signature 0.2%
+of MM
+
+MINE
+
+Insurance deposits as rewards for creating and signing blocks are frozen for 5 plexus cycles.
+Delegator
+Any user who for any reason is unwilling or unable to organise their own personal PP can
+delegate their address to one of the PPs. The PP may charge a fee for providing their services.
+056 PLEXUS CYCLES
+The process of Plexus Pools is divided into cycles, which means that the right to create and
+validate blocks is distributed between Plexus Pools in cycles, not in individual blocks. Rights are
+distributed 5 cycles ahead. For example, if we take 10 cycles, the rights to create and sign blocks
+in this cycle will be distributed on the 15th, if we take 11 cycles, the rights to create and sign
+blocks in the cycle will be distributed on the 16th cycle etc. 1 cycle is 1 440 units (24 hours).
+The full plexus cycle is 12 cycles:
+01
+
+After delegating the address of 2 cycles, it will be in the queue.
+
+02
+
+After 2 cycles, MINE tokens located on the address will be used in the distribution
+of rights to create and sign blocks, and the status of the address will be confirmed.
+
+03
+
+After 5 cycles, the first reward will be calculated and the address status will become
+active.
+
+04
+
+After another five cycles, the rewards will be frozen.
+
+Therefore, a full plexus cycle refers to the time from sending MINE tokens in the stake to receiving
+the first reward from the PLEX token, which is 12 cycles. If the Plexus Pool has free PLEX tokens, it
+can pay rewards to its delegates as soon as they are received – 7 cycles.
+The full plexus cycle is valid when the Plexus Pool is changed or when the address is topped up
+with Mine tokens.
+
+05 TOKENOMICA
+
+23
+
+057 PLEXUS DIFFICULTY
+The plexus difficulty determines the exchange rate of the PLEX token for the Mine token inside the
+blockchain and is calculated using the following formula:
+PD = ( (P / 100) * (M / E ) ) / B
+P – basic return for plexus, which is 20% for 30 days (constant);
+M – total stake of MINE tokens (variable);
+E – issue of tokens per unit (variable);
+B – number of blocks for 30 days = 43 200 (constant).
+The logic behind the formula using the initial parameters of the PLEX token as an example:
+PD = ( (20 / 100) * ( 2 592 000 000 / 600 ) ) / 43 200
+01
+
+20 / 100 – with this action we express the basic profitability for plexus in fractional
+form = 0,20
+
+02
+
+2 592 000 000 / 600 – we can determine the size of the stake in MINE tokens:
+number needed for plexus 1 (one) PLEX token per block = 4 320 000 MINE.
+
+03
+
+0.2 * 4 320 000 – we can determine the size of the basic award in MINE tokens for
+30 days = 864 000
+
+04
+
+864 000 / 43 200 – we can determine the difficulty of plexus = 20
+
+Proof of formula fidelity
+As the MINE token is not volatile, it is used as a basis for calculating the base profitability in the
+Mine Plex banking network.
+For a steak equal to 4 320 000 MINE ( 43 200$ ) a 30-day reward of 20% will be 864 000
+MINE ( 8 640$ )
+A stake of 4 320 000 produces 1 PLEX token per block. This means that 43 200 PLEX will be
+produced in 30 days ( the number of tokens produced per block (1 PLEX) is multiplied by the
+number of blocks in 30 days (60*24*30), as a result, we get 43 200 PLEX )
+We multiply the number of PLEX tokens by the difficulty of plexus 43 200 * 20 = 864 000 MINE.
+
+24
+
+05 TOKENOMICA
+
+Therefore, we can see that when receiving PLEX tokens for staking MINE tokens, the yield in $ is
+20% per month. PLEX tokens can be exchanged for MINE tokens and steaks can be increased for
+more rewards. Or you can fix the profit by selling both the MINE and PLEX tokens.
+This formula is linear. The plexus complexity value changes in proportion to the change in
+variables (total stake of MINE tokens and token issue per block).
+
+05 TOKENOMICA
+
+25
+
+06 MinePlex Banking
+development strategy
+
+The goal of the MinePlex team is to become a publicly available international
+financial service and to take a leading position in mobile cryptobanking. The
+MinePlex development strategy will help to scale up the user network.
+We provide the market with a highly sought after product and from the very
+beginning we will give our clients access to the services and benefits of MinePlex
+Banking’s financial instruments.
+
+To do this, here’s what we’re planning:
+Launch of a PR and marketing campaign.
+Attraction of loyalty programme partners.
+List the TOP cryptocurrency exchanges.
+Develop your own applications for iOS and Android platforms, access them in
+the corresponding application stores.
+Cooperation with payment network service providers. At the moment we are
+negotiating with Visa, MasterCard, UnionPay, in order to acquire another debit
+card.
+Introduction of services such as Apple Pay, Google Pay, etc.
+The opening of the MinePlex Innovation University will provide training to the
+project’s community on blockchain technology, decentralised finance, advanced
+technology, etc. This will expand the base of interested, knowledgeable network
+users and integrate the project’s iPPact into new areas.
+
+26
+
+06 DEVELOPMENT STRATEGY
+
+07 Project workflow diagram
+July 2020
+
+August 2020
+
+Launch of the MinePlex blockchain testnet
+
+MINE token launch
+Launch of the MinePlex crypto wallet and explorer
+
+September 2020
+
+Start of Mine token buying and MinePlex
+Banking marketing
+Start of the mobile application development for the personal
+account and the MinePlex Banking crypto wallet
+Deployment of basic nodes for MINE token stacking
+
+October 2020
+
+PLEX token listing on 3 exchanges
+Start of development of mobile application for
+cryptocurrency MinePlex Banking
+
+November 2020
+
+Opening of offices in Moscow, Kiev, Berlin, Malaysia, UAE
+Launch of the payment system and MinePlex Banking cards
+with the ability to pay via MasterCard, UnionPay, Visa.
+
+December 2020
+
+January 2021
+
+07 WORKFLOW DIAGRAM
+
+Start of infrastructure development for projects that plan to hold
+the sale of tokens based on MinePlex blockchain. Opening and
+launch of the MinePlex University
+Launch of a mobile application to pay for daily services,
+including utility bills
+
+27
+
+March 2021
+
+28
+
+Adding 20+ cryptocurrencies to the MinePlex Crypto Wallet
+including VTS, USDT, ETH, XRP
+
+May 2021
+
+Launch of the programme for lending via the MinePlex
+Banking mobile bank
+
+July 2021
+
+Holding the largest event for partners of the MinePlex
+Banking project
+
+07 WORKFLOW DIAGRAM
+
+08 Key features of the MinePlex
+Banking project and benefits for end
+users
+Cash withdrawals from any
+ATM.
+
+Payments for purchases and
+services around the world
+without restrictions.
+
+Use your debit card anywhere
+in the world.
+
+Earn money on the stacking
+and affiliate programme.
+
+Making international payments
+and transfers with minimum
+fees.
+
+Creating savings.
+
+Storage of all assets in one
+secure location.
+
+Direct exchange of
+cryptocurrencies and
+Fiat currencies without
+intermediaries.
+
+08 KEY PROJECT BENEFITS
+
+29
+
+09 Project team
+SULAIMAN
+AL-FAHIM
+CEO
+
+One of the world’s leading international business intermediaries. Goodwill ambassador.
+Philanthropist. Multimillionaire.
+Included in the list of Arabian Business’s «Most Influential Arabs in the World». He
+received the title of Builder of the Year for his entrepreneurial skills and community
+service from the Mayor and President of the Los Angeles City Council. Has a
+certificate of special recognition from Congress. President of the Arab Union for Real
+Estate Development for 8 years. Developer of the Year as recognised by a Member of the
+Senate.
+Master of Business Administration in Finance and Real Estate at the American University’s
+Coda School of Business. Doctor of Philosophy. As the former president of the UAE Chess
+Federation, he has sponsored international competitions and supports promising players.
+Founder and host of the business-themed reality showHydra Executives. Author of the
+book BRAND BUILDER on how to become a successful developer.
+Founder and CEO of Hydra Properties. Head of Al-Fahim Holding. Leading coordinator in
+international construction and expansion in the UAE and the Middle East. Supporter of the
+International Renewable Energy Organization (IREO).
+Sulaiman al-Fahim’s outstanding experience in project management, ranging from
+healthcare to trade, has led to a huge client base for his corporations. As a representative
+of his country’s culture, Sulaiman al-Fahim understands the need to ensure thoughtful
+development that meets the needs of the target population both in the UAE and
+abroad. Through a strong global partnership, Sulaiman al-Fahim and his companies are
+strengthening ties between the Middle East and the rest of the world, providing stability
+and a positive international experience.
+
+30
+
+09 PROJECT TEAM
+
+VLADISLAV
+BABITSKY
+CTO
+
+Senior level developer in IT since 2010.
+More than 50 successfully iPPlemented projects, including those in the areas of e-comerce,
+fintech, blockchain, medicine, coPPuter vision and satellite monitoring. Participation in the
+development of government projects for Russia, Belarus, USA, China, selected regions of
+Europe and UAE.
+He has worked with Panasonic, CryptocoPPare, Evraz, OMA, ScanEx, United CoPPany,
+Tomography, Paracels, Elema, Belagroprombank and others corporations.
+
+YURI
+KOZIK
+Team Lead
+
+Senior-level architect and full-stack developer. Over 10 years of experience in commercial
+development.
+Main expertise: blockchain, Fintech, RPA systems, web 3.0. 45+ highload projects
+iPPlemented and launched. Participated in the development of government projects for
+Russia, Belarus, USA, China, selected regions of Europe and UAE.
+
+SERGEY
+SEVANTSYAN
+Director of Mineplex
+University
+Visionary and Futurologist of the New Economic Model of Interaction. Mentor, Investor
+and Bizmatcher, Business Mediator. CIO of Cellframe, founder of DAO CIO, DAO MBA.
+
+09 PROJECT TEAM
+
+31
+
+PAVEL
+KRAMARENKO
+Head of Art Mineplex Banking
+
+Founder & CEO of Amprise Design. Leads a design team as an Art director and performs
+projects himself since 2012.
+Over 120 design projects worldwide. For the last 3 years the team created more than 15
+complete branding solutions in fin-tech & blockchain industry. Besides that we designed
+UX & UI solutions for 20+ international platforms & SaaS’s.
+
+JORGE
+RODRÍGUEZ
+Chief Information Security Officer
+
+Jorge Rodríguez passionate about the information and technology sector. Ethical hacker
+since age 12, the expert in computer security, Blockchain developer, project-marketingsocial manager.I’ve worked with large multinationals and discovered security holes in the
+most reliable systems on the planet. Passionate about security and the Blockchain.
+Current & finished projects: Mineplex Banking, Komodo, Ethereum, Ebitcoin, Patron,
+Peculium , Cedex, Dataeum, Oppwifi, Aero, TrustedIN, Dream , PledgeCamp, XcelTrip.
+As the main value helping people have to be safe and add value to the global internet
+network.
+
+32
+
+09 PROJECT TEAM
+
+10 Legal information
+The White Paper was prepared by MinePlex Banking to provide interested parties with information
+regarding the project and the MINE platform and PLEX liquid token used on the platform.
+Please read the disclaimer before you start reading the White Paper. MinePlex Banking reserves
+the right to make changes to the White Paper.
+Regardless of whether this White Paper is read in whole or in part, it is not and should not
+be regarded as any form of legal, financial, tax or other professional advice. You should seek
+independent professional advice before making your own decision about whether to receive
+any MinePlex tokens. You are responsible for any estimates, risks and decisions you make in
+connection with the purchase of MINE and PLEX tokens.
+The tax regime to which MinePlex tokens will be subject is undefined. All persons wishing to
+receive MinePlex tokens should seek independent tax advice before deciding to receive any
+tokens. MinePlex makes no representation as to whether or not there may arise any tax iPPlications
+from the purchase or ownership of MinePlex tokens.
+This white paper, and any accoPPanying oral presentation, does not include a prospectus or
+admission document, and is therefore not and shall not be interpreted as an offer, an invitation
+to sell, or an offer to subscribe for or to purchase any shares or other securities, or any
+other organisation through which projects promoted by MinePlex shall be conducted and/or
+developed.
+This White Paper and any part thereof may not be distributed in any jurisdiction where the offer
+of tokens in the manner set forth in this White Paper is regulated or prohibited.
+Any distribution of this White Paper and the offer and/or sale of MinePlex tokens may be
+restricted by law in certain jurisdictions. It is the responsibility of each recipient of this document
+to inform themselves and to comply with any applicable legal requirements. You may not and shall
+not purchase MinePlex tokens if you are a citizen or resident of: (i) the United States of America,
+(ii) Malaysia, (iii) Japan, or (iv) any country, state or territory where the purchase of tokens or
+cryptocurrencies is prohibited. By viewing this White Paper or buying MinePlex tokens, you
+hereby represent and warrant that you are allowed to do so by law and assume full responsibility
+for compliance with applicable laws and regulations.
+Certain statements and opinions in this document are forward-looking and reflect MinePlex’s
+current expectations and projections regarding the possible development of MinePlex and its
+future projects. Statements including the words «expects», «plans», «believes», «projects», «will»,
+«aims», «may», «future», «further», «continuation» and similar statements are deemed as having
+a forward-looking or perspective nature. By their nature, forward-looking statements involve a
+number of risks, assumptions and uncertainties that could potentially cause actual results or events
+to differ materially from those expressed or implied in the forward-looking statements. These risks
+and uncertainties include:
+
+10 LEGAL INFORMATION
+
+33
+
+changes in the conditions of the stock or cryptocurrency market, as well as changes in the
+regulatory environment in countries where MinePlex shall operate;
+changes in the competitive environment in which MinePlex operates;
+the risk that MinePlex may not be able to iPPlement its plans and projects or may not have
+sufficient funds to continue its operations;
+other factors independent of MinePlex.
+MinePlex disclaims any obligation or any forward-looking statement.
+MinePlex makes no representations or warranties in this White Paper. The contents of this White
+Paper have not been independently verified, and therefore MinePlex makes no representations or
+warranty, express or implied, as to the accuracy or completeness of the information or opinions
+contained herein. MinePlex does not and shall not be liable in any way for any loss arising,
+directly or indirectly, from any use of or otherwise in connection with this information.
+The national and international regulatory framework governing blockchain technology and
+distributed registries in general and related applications is in the process of clarification and is
+therefore subject to change. It is possible that the interpretation and application of existing laws
+and regulations may be modified or adapted, and may also be subject to legislative initiatives
+at the national and international levels. Clarification and making changes to the regulatory
+framework may adversely affect the MinePlex token without any of our influence on these events.
+This includes, in particular, the risk that the MinePlex tokens purchased may not be used or may
+no longer be used as originally intended due to regulatory restrictions, may become unusable
+and/or the MinePlex platform may need to be adapted to the regulatory environment.
+By accepting this document, each user hereby agrees that the information contained herein may
+not be used by them for any purpose other than to acquaint themselves with MinePlex and its
+proposed projects mentioned in this White Paper.
+A MINE token is hereby a utility token and its ultimate utility shall depend on the platform’s
+successful development on which it is intended to operate. MINE and PLEX tokens are hereby
+not digital payment tokens as defined in the Singapore Payment Services Act. MinePlex tokens
+are not securities as defined in the Singapore Securities and Futures Act («SFA»). Accordingly,
+the SFA does not apply to the issue of MinePlex tokens. For the avoidance of doubt, the offer of
+MinePlex tokens must not be accompanied by any prospectus or information and no prospectus
+or information must be submitted to the Monetary Authority of Singapore («MAS»).
+MinePlex tokens are intended for people familiar with cryptographic tokens and blockchain-based
+software systems. Smart contracts implemented on blockchain may consist of flaws, vulnerabilities
+or issues that could lead to technical problems or complete loss of MinePlex tokens. The
+acquisition of MinePlex tokens does not constitute a cryptocurrency brokerage for any form of
+shares or securities and does not confer any right to any dividends, interest or similar financial
+rights. MinePlex tokens are functional service tokens that will be used on the MinePlex platform.
+
+34
+
+10 LEGAL INFORMATION
+
+MinePlex activities may be interrupted, suspended or delayed due to force majeure. In this White
+Paper, force majeure shall be interpreted as extraordinary events and circumstances and includes:
+natural disasters, armed conflicts, war, civil unrest, industrial action, epidemics, lockouts,
+prolonged power or communication outages, actions of municipal, state or federal government
+agencies, other circumstances beyond MinePlex’s control.
+In order to control and manage the MinePlex tokens stored in your digital wallet, you will need
+a private key or a combination of private keys. Accordingly, the loss of the required private
+key(s) associated with your digital wallet or storage where you MinePlex tokens are kept shall
+result in the loss of these MinePlex tokens. In addition, any third party that gains access to such
+private key(s), including by accessing the accounts of the hosted wallet you are using, may
+misappropriate your MinePlex tokens. Any errors or failures caused by or otherwise related to
+the digital wallet or storage to which you have chosen to receive and store your MinePlex tokens,
+including your own failure to properly maintain or use this digital wallet or storage, may also
+result in the loss of your MinePlex tokens. In addition, your failure to follow the exact procedures
+established regarding purchasing and receiving MinePlex tokens, including, for example,
+providing an incorrect personal wallet address or providing an address that is incompatible, may
+result in the loss of your MinePlex tokens.
+Hackers or other malicious groups or organisations may attempt to interfere with our website
+or MinePlex tokens in a variety of ways, including but not limited to malware attacks, «denial of
+service» attacks, consensus attacks, Sybil attacks, smurfing and spoofing.
+
+10 LEGAL INFORMATION
+
+35
+
+11 Контакты
+
+36
+
+Linkedin
+
+Instagram
+
+Twitter
+
+Github
+
+YouTube
+
+Facebook
+
+Blog & News
+
+Telegram
+
+mineplex.io
+
+channel ru
+channel en
+group en
+group ru
+
+info@mineplex.io
+
+11 CONTACTS
+
+

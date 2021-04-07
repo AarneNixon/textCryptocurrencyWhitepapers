@@ -1,0 +1,608 @@
+WHITEPAPER VERSION 1.0
+BITCICHAIN VERSION: 1.0
+
+BİTCİ TEKNOLOJİ A.Ş.
+2020
+
+INDEX
+ABSTRACT
+
+1
+
+INTRODUCTION
+
+2
+
+V s on and M ss on
+BITCI ECOSYSTEM
+
+3
+
+• B tc Exchange Crypto Currency Trading Platform
+• B tc cha n
+• B tc co n
+• B tc E-Wallet
+• B tc Explorer
+• B tc Pay
+• Brand / Fan Token
+• Supplier Chain Monitoring
+• Loyalty Tokens
+• Smart Contracts
+TECHNICAL SPECIFICATIONS
+
+11
+
+BITCICOIN
+
+12
+
+DATA SECURITY
+
+14
+
+ROADMAP
+
+15
+
+BITCICOIN TEAM
+
+17
+
+OTHER INFORMATION AND UPDATES
+
+19
+
+LEGAL NOTICE
+
+20
+
+1. ABSTRACT
+W th th s Wh tepaper, t s a med to prov de techn cal nformat on related to the
+ﬁrst co n of Turkey, B tc co n, that has ts own blockcha n network ntegrated w th
+stock market and payment platform and related to other appl cat ons that serve
+B tc co n ecosystem.
+
+B tc co n s l ke a common share of the smart contracts and token projects that
+operate on the B tc cha n network and represents the value of B tc cha n network.
+At the same t me, the network fees of smart contract and token transfers made
+over B tch cha n are pa d w th B tc co n. B tc co n may be stored n pr vate
+ndependent wallets that operate over B tc cha n network and may be used for fast
+person-to-person money transfer over B tc cha n network.
+
+Tokens of each project operat ng over B tc cha n blockcha n may eas ly be
+converted to B tc co n and may be traded n B tc co n market or other markets over
+stock markets.
+
+B tc co n may be used as a fast and secure tool for the purpose of perform ng
+payment serv ces over crypto payment systems.
+
+1
+
+2. INTRODUCTION
+B tc co n - B tc cha n V s on and M ss on
+B tc cha n, that s a product of B tc Teknoloj , s des gned for ensur ng fast and easy
+trans t on of compan es and nst tut ons to blockcha n technology. It a ms to meet
+the requests of compan es n d fferent areas and sectors for suppl er cha n
+mon tor ng, smart contracts (Dapps), brand tokens, fan tokens, loyalty tokens,
+payment tokens over block-cha n.
+
+B tc Technology a ms that each token project that t developed for the compan es
+are valuable for compan es as well as users that make nvestments and use that
+token. The most s gn ﬁcant property of B tc cha n that d ffers t from other
+blockcha ns s that t allows all compan es who beneﬁt from blockcha n serv ces to
+use the ecosystem t owns. Company tokens may be used as payment nstrument
+or a traded d g tal asset over B tc .com stock market ntegrat on and B tc pay
+payment platform.
+
+The tokens that are developed by B tc Technology for compan es and nst tut ons
+may be l sted on B tc .com stock market, B tc co n market. Th s way, t s a med to
+ncrease the value of the B tc co n, that s the co n of B tc cha n network, wh ch s
+an nvestment tool, n l ne w th the projects performed over the network and the
+success of these projects.
+
+2
+
+3. BITCI ECOSYSTEM
+B tc cha n s the ﬁrst blockcha n network of Turkey that has an extens ve
+ecosystem. It s poss ble to nstantaneously perform transfers of B tc co n and all
+tokens and co ns used n system n both between the user wallets and users of
+B tc cha n platforms w th the ntegrat on of stock market and payment platform.
+
+b tc teknoloj .com
+b tc .com
+b tc cha n.com
+b tc pay.com
+
+BITCI EXCHANGE
+FIRST AND ONLY REALIZED AND UNREALIZED
+PROFIT/LOSS MONITORING IN THE WORLD
+• FIRST PRO VERSION WEBSITE IN TURKEY
+• 3 DIFFERENT MARKETS (TRY/CHFT/BTC)
+• FIRST PRO VERSION CAPITAL MARKET APPLICATION OF TURKEY
+
+BITCICHAIN
+BITCICOIN
+BITCIWALLET
+BITCIEXPLORER
+BRAND / FAN TOKEN
+FIRST BLOCKCHAIN SOLUTION AND CRYPTO CURRENCY OF TURKEY THAT OFFERS BLOCKCHAIN
+SOLUTIONS TO COMPANIES, INTEGRATED WITH CAPITAL MARKET AND PAYMENT PLATFORM
+
+BITCIPAY
+MAKE YOUR PAYMENTS OR RECEIVE YOUR PAYMENT SIN TURKISH LIRA WITH CRYPTO CURRENCIES.
+
+3
+
+3. BITCI ECOSYSTEM
+3.1 - Bitci.com Crypto Currency Trading Platform
+B tc .com, wh ch s establ shed
+by B tc Technology n 2018, s a
+crypto currency trad ng
+platform that has certa n ﬁrsts
+n the World. All stock markets
+developed up to today were
+exam ned and the deﬁc enc es
+thereof were determ ned by the
+software eng neers, expert n
+the r areas and managers expert n crypto currency trad ng of B tc Technology and
+all of t was coded by the software eng neers of B tc Technology by tak ng nto
+account the user behav ors and needs.
+Also, t prov des wh telable cap tal market serv ce to the whole world through USA
+or g nated CED (Crypto Exchange Developer) ﬁrm, owned by B tc Technology.
+B tc .com s the ﬁrst and only crypto currency trad ng platform n the world that has
+the portfol o property that nstantaneously shows pr vate real zed and unreal zed
+proﬁt-loss graph cs. The Users may nstantaneously v ew the proﬁt-loss rates of the
+trades they perform over “Real zed loss-proﬁt” screen and the r pend ng crypto
+currency nvestments n the r wallets over “Unreal zed proﬁt-loss” screen w th
+compar ng them to the currency rates on the day of nvestment, nstead of
+mon tor ng the transact ons they made n the past over “transact on h story.”
+B tc .com s a crypto currency trad ng platform that offers the ﬁrst enhanced
+nterface to ts users n Turkey w th nstantaneous potent al ncome nd cators,
+nstantaneous real zed and unreal zed proﬁt-loss tables, profess onal charts and
+nd cators. Advanced propert es such as co n-pr ce graph c system that shows
+market depth, advanced d fferent t me un ts allow the nvestors to take
+nstantaneous nvestment dec s ons faster and more accurate.
+
+4
+
+3. BITCI ECOSYSTEM
+3.2 B tc cha n
+B tc ha n s the ﬁrst blockcha n network of Turkey that s ntegrated w th stock
+market and payment platform, wh ch s developed by B tc Technology software
+eng neers. Supply cha n mon tor ng can be performed over B tc cha n wh le
+smart contracts, brand tokens, loyalty tokens and fan tokens may be produced.
+
+B tc cha n s a blockcha n network des gned for compan es. B tc cha n also makes
+th s technology understandable wh le ensur ng blockcha n trans t on of
+compan es and a ms for the compan es and nst tut ons to ﬁnd a respondent 24/7
+related to any techn cal ssue they face.
+
+3.3 B tc co n
+Blockcha n co n of B tc cha n s B tc co n and t s open for trade on B tc .com stock
+market. The project tokens developed for Compan es by B tc Technology over
+B tc cha n network may be traded over B tc .com markets. The value of B tc co n
+depends on the projects over B tc cha n network and s a payment nstrument that
+may be used over B tc Pay payment platform.
+
+5
+
+3. BITCI ECOSYSTEM
+3.4 B tc E-Wallet
+It s a personal zed web-based B tc co n wallet of B tc cha n blockcha n network.
+Wh le B tc co n may be kept at B tc e-wallet, t s also poss ble to keep the tokens
+developed for company and nst tut ons over B tc cha n.
+
+3.5 B tc Explorer
+It s the blockcha n browser that allows mon tor ng of B tc cha n, the records of
+transact ons made over blockcha n network, data such as block row as transparent,
+but anonym zed.
+
+3.6 B tc Pay
+It s the ﬁrst payment nfrastructure of Turkey that
+allows payment over Turk sh L ra w th crypto
+currency. It allows ts users to make Turk sh L ra
+payment from crypto currenc es at the B tc Pay
+payment po nts nstantaneously.
+
+The users may make payment n crpyto currency
+and the seller may accept rece v ng Turk sh L ra or
+crpyto currency payments as per ts d scret on.
+
+B tc Pay may use the brand, fan, loyalty and
+payment tokens created for compan es over
+B tc cha n blockcha n as a payment tool that may be
+converted to Turk sh L ra over B tc Pay payment
+system n l ne w th the agreements of the company
+and nst tut ons w th B tc Technology.
+
+6
+
+4. SOLUTIONS OFFERED BY BITCICHAIN
+B tc cha n blockcha n network offers blockcha n solut ons ta lored to compan es w th
+the ﬁrst blockcha n nfrastructure of Turkey ntegrated to the market and payment
+platform. These solut ons are brand token, fan token, supply cha n mon tor ng, loyalty
+token and smart contracts.
+
+4.1 Brand Tokens
+B tc Technology may create spec al brand tokens ta lored to ﬁrms and nst tut ons
+over B tc cha n blockcha n network. The brand tokens are nvestment tools that
+may be obta ned by users of that company. They are offered w th the terms and
+cond t ons determ ned by the Company. It w ll generate ncome to ts nvestor on
+B tc .com or other crypto trad ng platforms that they are l sted n l ne w th the
+agreements conducted by and project progress of the company. Brand token s
+the d g tal asset of a company on blockcha n.
+
+4.2 Fan Tokens
+B tc Technology may create fan tokens for
+sports clubs over B tc cha n blockcha n
+network. The most mportant project that
+d ffers B tc Technology fan tokens from s m lar
+projects s that they are real tokens that are
+wr tten on B tc cha n blockcha n network.
+D fferent from s m lar projects, they may be
+traded n l ne w th the agreements over hotcold phys cal wallet, trad ng platforms w thout
+be ng bound to a closed ecosystem.
+
+7
+
+4. SOLUTIONS OFFERED BY BITCICHAIN
+The following are the primary areas of use of fan tokens designed for sports
+clubs and fans;
+• Commonly, fans do not rece ve a correspondence when they prov de mater al
+support to the r teams. B tc cha n fan token a ms to completely change th s
+understand ng. The fan w ll be ent tled to rece ve the fan token of h s/her teams n
+return of a mater al support he/she prov des.
+
+• Thanks to the Fan Token App developed by the B tc Teknoloj software team and
+exclus ve to the sports club, the fan tokens w ll ncrease the commun cat on
+between the team and the fan, as well as enable the fan to have a say n the
+dec s ons of the team. He/she can watch spec al events and contents made by
+h s/her team. He/she can buy h s/her team's products on the Fan Token App.
+
+• Fan tokens are nvestment tools, after pre-sales, they are opened on the B tc .com
+crypto currency trad ng platform and become a d g tal asset that can be traded for
+the supporters who support the r team. Its value ncreases or decreases n l ne w th
+the success of the team.
+
+• Fan tokens are payment nstruments that can nstantly convert to Turk sh L ra at
+all contracted po nts us ng the B tc Pay payment platform after they are started to
+be traded on B tc .com crypto currency trad ng platform.
+
+8
+
+4. SOLUTIONS OFFERED BY BITCICHAIN
+4.3 Supplier Chain Monitoring
+B tc Technology has developed a supply cha n mon tor ng system for compan es
+that can be recorded on the B tc cha n blockcha n. It can be used as a transparent,
+secure record ng and mon tor ng system thanks to the features offered by the
+blockcha n nfrastructure n all appl cat ons requ r ng supply cha n track ng n
+sectors such as electr c ty supply cha n, supermarket supply cha n and nvolv ng
+mult ple compan es.
+
+4.4 Loyalty Tokens
+B tc Technology can create loyalty tokens on the B tc cha n blockcha n for
+compan es. Bus nesses can g ve these tokens to the r users as a reward, d scount or
+prepa d. Thanks to the d g tal wallet appl cat on to be made personal zed to the
+bus ness by B tc Technology, users can use the r reward, d scount or prepa d tokens
+at the cash reg sters or onl ne, as well as bus nesses can collect the shopp ng hab ts
+and shopp ng deta ls of the users through the d g tal wallet appl cat on and use
+them to personal ze the campa gns and d scounts.
+
+9
+
+4. SOLUTIONS OFFERED BY BITCICHAIN
+4.5 Smart Contracts
+One of the best example of smart contracts s beverage vend ng mach nes. If a
+certa n amount of payment s made, t w ll check the accuracy of the payment and
+g ve you a beverage. Smart contracts can be created wh ch w ll develop effect ve, fast
+and secure solut ons for every su table sector on the B tc cha n blockcha n network.
+
+Import and export transact ons are carr ed out through nformant banks today. The
+nformant nst tut on, wh ch conﬁrms the accuracy of the products sent n mport
+and export and that they reach the address, makes the payment accord ngly. W th
+the ver ﬁcat on of product accuracy and del very n a smart contract to be made on
+the blockcha n, payments can be tr ggered automat cally and no nformant
+superv s on s requ red. Th s speeds up the whole mport and export process
+accord ngly.
+
+Blockcha n-based smart contracts nfrastructure can be developed by B tc
+Technology on the B tc cha n blockcha n network to accelerate the nformant
+approval mechan sm, espec ally n procurement, log st cs, and to make t more
+secure and traceable.
+
+10
+
+5. TECHNICAL SPECIFICATIONS
+Approval System
+Proof of Authority (POA)
+
+Blockchain Explorer
+bitciexp.bitcichain.com
+
+Wallet Service
+wallet.bitcichain.com
+
+Node Program
+A fully functioning Full node PC program (TR) Web / Android / iOS
+clients that do not need to synchronize with the blockchain (TR)
+
+Smart Contract Compiler
+C# / VB.Net / F#, Visual Studio Java / Kotlin, Eclipse
+C / C++ / GO
+JavaScript / TypeScript Python / Ruby
+
+11
+
+6. BITCICOIN
+Distributed through campaigns:
+
+100.000.000 (Hundred Million)
+Software Development
+
+1.900.000.000 (One Billion Nine Hundred Million)
+Ads and Promotions
+
+6.000.000.000 (Six Billion)
+Software Development
+
+12.000.000.000 (Twelve Billion)
+
+Total Amount:
+
+100.000.000.000 (Hundred Billion)
+Toplam Supply
+
+20.000.000.000 (Twenty Billion)
+* The total quantity supplied
+will be increased by 1.000.000.000 (One Billion) each year.
+
+6.1 Income Model
+B tc co n s the ma n co n of B tc cha n network. The value of the token projects
+performed and w ll be performed over B tc cha n network determ ne the value of
+B tc co n.
+
+B tc cha n projects are also d g tal assets traded on the B tc co n market, and
+transact ons are made on a platform that can compete w th B tc co n. The purpose
+here s to ncrease the usab l ty and funct onal ty of B tc co n, to ncrease ts volume
+and value.
+
+12
+
+6. BITCICOIN
+6.2 Approval System
+Proof of Author ty (PoA) s an algor thm that offers a more ﬂex ble blockcha n
+consensus mechan sm as an alternat ve to Proof of Work and Proof of Stake,
+performs better n terms of transact on capac ty per second, and prov des a
+consensus mechan sm based on the reputat on of the val dator tself.
+
+In Proof-of-Author ty-based networks, transact ons and blocks are val dated by
+val dated accounts known as "val dators". Val dators run software that enables
+transact ons n blocks. Th s process works automat cally and val dators do not need
+to constantly check the r computers. However, the computer, the author ty node,
+must rema n uncomprom sed. To be a val dator, people need to earn and deserve t
+and ma nta n the pos t on they have earned. Val dators are encouraged to support
+the transact on process by add ng a reputat on to the r dent ty.
+
+On the other hand, Proof of Author ty only allows any non-consecut ve block
+conﬁrmat on from any val dator. PoA s a h ghly su table algor thm n terms of
+rel ab l ty and performance for pr vate networks and publ c networks such as PoA
+networks where secur ty s mportant.
+
+6.3 Secur ty
+Proof of Author ty s an algor thm that s used w th blockcha n technology and that
+prov des a consensus mechan sm based on the dent ty of a share for perform ng
+rather fast transact ons. The secur ty mechan sm cont nues to strengthen tself
+w th the ncrease n the number of shares n the approval mechan sm. All project
+owners on B tc cha n are ent tled to be a consensus partner and contr bute to
+ensur ng network secur ty.
+
+13
+
+7. DATA SECURITY
+The process ng of B tc co n user data w ll be performed n accordance w th the Law
+on Protect on of Personal Data No.6698 and the relevant leg slat on (“KVKK”)
+together w th the General Data Protect on Regulat on, to the extent appl cable.
+B tc attaches max mum mportance to the pr vacy and data secur ty of ts users
+and meets the leg slat ve requ rements regard ng the protect on of personal data.
+All personal data obta ned from users are stored on servers access ble v a VPN
+connect on and cannot be accessed n any way by th rd part es except author zed
+persons.
+
+B tc securely stores the data prov ded by our users for the per od spec ﬁed n the
+relevant leg slat on and takes all necessary measures to prevent unauthor zed
+access or collect on of the nformat on shared by you, as requ red by the KVKK and
+appl cable leg slat on.
+
+14
+
+8. ROADMAP
+
+2020
+JANUARY (COMPLETED)
+BITCICOIN BLOCKCHAIN TEST NETWORK
+BITCI TEST EXPLORER
+BITCI TEST WALLET
+
+MARCH (COMPLETED)
+MAIN NETWORK COMMENCEMENT v1.0
+
+APRIL (COMPLETED)
+BITCI EXCHANGE
+FIAT / BTC / CHFT MARKET LISTING
+
+AUGUST (COMPLETED)
+BITCICHAIN v2.0
+
+SEPTEMBER (COMPLETED)
+BITCIPAY INTEGRATION
+
+DECEMBER (COMPLETED)
+FAN TOKEN CREATING AND
+MOBILE APPLICATION (KARŞIYAKA)
+
+15
+
+8. YOL
+8.
+ROADMAP
+HARİTASI
+
+2021
+JANUARY
+BITCICOIN TRADE MARKET
+
+APRIL
+BITCI MOBILE WALLET (ANDROID - IOS)
+
+JULY
+BITCI WALLET 2.0 (ANDROID - IOS)
+BITCOIN - ETHEREUM - XRP ETC. COIN MAINTAINING OPPORTUNITY
+
+OCTOBER
+CAPITAL MARKET LISTING
+LISTING IN A CAPITAL MARKET OUTSIDE BITCI EXCHANGE
+
+NOVEMBER
+BITCISPORT APPLICATION
+INSTANT MESSAGE APP
+BUSINESS CARD APP
+BITCI HOTEL
+BITCI FOOD
+
+DECEMBER
+BITCI AUTHENTICATOR
+2FA AUTHENTICATOR APPLICATION
+
+16
+
+9. BITCICOIN TEAM
+The B tc co n team plays an mportant role n plann ng, develop ng and
+mplement ng our v s on for the products and serv ces we offer. Our company has a
+transparency, nnovat on and autonomy wh ch supports d vers ty among team
+members and enhances our development. B tc co n found ng team has a preex st ng knowledge of nternet technology, onl ne serv ces and bank ng, and
+exper ence n blockcha n technology, open ﬁnance, des gn and software
+development. Found ng member Çağdaş Çağlar s an exper enced entrepreneur
+and bus nessman who has been work ng n blockcha n ecosystem, end user
+products, construct on, energy and many sectors for many years.
+
+B tc co n team s establ shed of a decentral zed structure where the respons b l t es
+are d str buted between d fferent levels of the company. It cons sts of people who
+come from software eng neer ng, project management, bus ness development,
+bank ng and ﬁnance compl ance nfrastructure.
+
+B tc Teknoloj A.Ş. s supported by a strong adv sory board w th exper ence n
+nternet platforms, end user products, des gn and software development,
+cryptocurrenc es and blockcha n technology. Our team works together w th
+profess onal and academ c organ zat ons cons st ng of Turk sh bus ness people,
+blockcha n academ cs, ﬁnanc al consultants and entrepreneurs.
+
+17
+
+9. BITCICOIN TEAM
+
+CEO
+ÇAĞDAŞ ÇAĞLAR
+
+COO
+ONUR ALTAN TAN
+
+CFO
+METEHAN KARADAN
+
+CMO
+YAPRAK GÖKÇE
+
+CSO
+ÇAĞRI SİSMAN
+
+CTO
+CENK DEMİR
+
+DEVELOPER
+YİĞİT ŞİRİN
+
+UI-UX
+EMRE BORAN
+
+18
+
+10. OTHER INFORMATION AND UPDATES
+B tc cha n team w ll per od cally update th s
+report to reﬂect the techn cal, commerc al and
+soc al developments related to our project.
+
+All updates w ll be announced on the webs te,
+soc al med a platforms and our telegram
+channel.
+
+www.b tc cha n.com
+nfo@b tc cha n.com
+t.me/b tc com
+facebook.com/B tc Cha n
+tw tter.com/B tc Cha n
+nstagram.com/b tc cha n
+
++90 444 60 66
+B tc Teknoloj A.Ş. Ortakent Yahş Mah. Hortma Cad. 9 Bodrum / Muğla 48400
+
+19
+
+11. LEGAL NOTICE
+SINCE IT CONTAINS IMPORTANT INFORMATION, WE RECOMMEND THAT YOU READ THIS
+DISCLAIMER CAREFULLY AND IF NECESSARY TO CONSULT YOUR LEGAL, FINANCIAL, TAX
+OR OTHER PROFESSIONAL CONSULTANTS.
+As ncluded n B tc co n and Wh tepaper, none of the features and appl cat ons n the
+B tc co n ecosystem (collect vely "B tc co n") a m to be accepted as a secur ty asset n any
+jur sd ct on and s a secur ty offer ng, as well as to collect a demand for secur t es
+nvestment. Wh tepaper, wh ch conta ns techn cal and operat onal nformat on about
+B tc co n, does not conta n nvestment adv ce and s not a legal offer.
+Wh tepaper does not const tute a legally b nd ng contract or legal comm tment for e ther
+B tc co n or the B tc co n creator ("Company"). Any transact on related to the trad ng of
+B tc co n w ll only be val d after s gn ng the agreements to be prepared by the Company
+and the subm tt ng other necessary documents ("F nal Documents"). If there s a conﬂ ct
+between the F nal Documents and the Wh tepaper, the regulat ons n the F nal
+Documents w ll be appl ed.
+Regardless of the jur sd ct on, no regulatory or adm n strat ve author ty or government has
+rev ewed or approved the B tco n structure or any nformat on spec ﬁed n th s Wh tepaper.
+The publ cat on of the wh tepaper may not be regulated n the leg slat on n force n the
+relevant jur sd ct ons, or t may const tute a v olat on of the current leg slat on. Due to the
+d fferent mplementat on of crypto currency and blockcha n technology n jur sd ct ons
+and other technolog cal developments, B tc co n, as n all crypto currency appl cat ons,
+poses a legal h gh r sk and uncerta nty as well as ts return potent al. The n t at ve and
+respons b l ty to evaluate and nvest these r sks belongs to you. In add t on, any part or copy
+of th s Wh tepaper should not be taken or transferred to any country where the sale or
+d str but on of th s Wh tepaper or B tc co n s proh b ted or restr cted.
+
+In part cular you are proh b ted from purchas ng B tc co n f you are ( ) a c t zen, res dent of
+the Un ted States of Europe (“USA”) or a green card holder and, pursuant to US leg slat on,
+you are not el g ble to become an "accred ted nvestor" or ( ) f you are a c t zen or res dent
+of the People's Republ c of Ch na, or ( ) f you are a c t zen or res dent of a US sanct oned
+country.
+20
+
+11. LEGAL NOTICE
+To the w dest extent perm tted by the current leg slat on, B tc co n, the Company, the
+Company's board of d rectors, stakeholders, employees, contractors, consultants or
+afﬁl ates do not g ve any guarantees or comm tments regard ng the forecasts and
+project ons conta ned n the Wh tepaper, and does not accept any respons b l ty for the
+currency and accuracy of the nformat on conta ned here n or for Wh tepaper n general.
+Based on th s, the Company reserves the r ght to change the nformat on on the
+Wh tepaper at any t me.
+
+Th s Wh tepaper may conta n prospect ve statements regard ng B tc co n act v t es and
+project ons that have not yet been real zed. Such prospect ve statements may d ffer
+s gn ﬁcantly from future results, performance or ach evements w th regard to B tc co n.
+
+In the l ght of the above explanat ons, you accept that you are solely respons ble for any
+damages you w ll suffer from Wh tepaper, B tc co n or n connect on w th them ( nclud ng
+but not l m ted to loss of ncome or proﬁt, usage or data loss), that B tc co n, Company,
+Company board members, stakeholders, employees, contractors, consultants or afﬁl ates
+have no respons b l ty regard ng these requests and damages.
+
+Th s Wh tepaper s subject to the leg slat on of the Republ c of Turkey. All d sputes
+regard ng the wh tepaper w ll be resolved ult mately and exclus vely by Istanbul (Anatol an)
+courts and enforcement ofﬁces.
+
+21
+
+

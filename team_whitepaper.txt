@@ -1,0 +1,4088 @@
+TokenStars
+Celebrity Management
+Platform on Blockchain
+
+TEAM Token Sale
+White Paper
+
+February 22, 2018
+v. 1.0.6
+may be amended
+
+Contents
+TEAM Overview .............................................................................................................................................. 3
+1.1.
+
+Abstract. 10 Reasons to Support ..................................................................................................... 3
+
+TEAM Token Sale Terms.............................................................................................................................. 8
+TEAM Project Vision ..................................................................................................................................... 11
+3.1.
+
+Core Idea ................................................................................................................................................. 11
+
+3.2.
+
+Solving market problems .................................................................................................................. 11
+
+3.3.
+
+TEAM token ........................................................................................................................................... 12
+
+Platform and Technology ......................................................................................................................... 13
+4.1.
+
+Platform Architecture ....................................................................................................................... 13
+
+4.2.
+
+Use of Blockchain ............................................................................................................................... 13
+
+4.3.
+
+Technological Stack ........................................................................................................................... 15
+
+4.4.
+
+Modules implementation ................................................................................................................. 16
+
+Roadmap......................................................................................................................................................... 31
+Operations / How it works ...................................................................................................................... 34
+6.1.
+
+Promoting Successful Professionals .......................................................................................... 34
+
+6.2.
+
+Developing Young Talents ...............................................................................................................36
+
+6.3.
+
+Involving fans.......................................................................................................................................36
+
+6.4.
+
+Attracting advertisers ....................................................................................................................... 37
+
+Financial Projections ..................................................................................................................................39
+7.1.
+
+Assumptions.........................................................................................................................................39
+
+7.2.
+
+Revenues .............................................................................................................................................. 40
+
+7.3.
+
+Use of funds......................................................................................................................................... 42
+
+Token Allocation ......................................................................................................................................... 43
+8.1.
+
+Token Allocation ................................................................................................................................ 43
+
+8.2.
+
+Token Disclaimer ............................................................................................................................... 44
+
+Core Team, Investors & Advisors .......................................................................................................... 46
+9.1.
+
+Celebrity Management Ambassadors ........................................................................................ 46
+
+9.2.
+
+Sports Advisors .................................................................................................................................. 49
+
+9.3.
+
+Blockchain Advisors .......................................................................................................................... 50
+
+9.4.
+
+Investors ................................................................................................................................................ 51
+
+9.5.
+
+Core Team & Business advisors ....................................................................................................52
+TokenStars achievements ....................................................................................................................56
+
+10.1.
+
+Based on ACE token Sale success .................................................................................................56
+1
+
+TokenStars Corporate Structure ....................................................................................................... 58
+Disclaimer ..................................................................................................................................................59
+Appendix .................................................................................................................................................... 61
+
+2
+
+TEAM Overview
+1.1.
+
+Abstract. 10 Reasons to Support
+
+1.
+
+TokenStars is the first celebrity management platform on blockchain.
+We’re building an ecosystem that will provide celebrities, fans and advertisers with
+advanced tools and incentives for deeper interaction and engagement.
+
+2.
+
+Our platform consists of 12 integrated modules that allow participants to connect in a
+new way. Designed as a toolkit, the platform allows users to combine different modules
+to achieve the required features and capabilities.
+Based on their functionality, the modules are part of 4 different layers:
+1.
+
+Crowdfunding layer, enabling promising talents and celebrities to raise funds.
+
+2.
+
+Infrastructure layer, providing functional tools (like voting and scouting) for key
+platform activities.
+
+3.
+
+Fans Community layer, allowing the celebrities to grow their social capital by
+expanding their loyal fan bases and offering the fans the desired involvement by
+communicating and participating in activities with their favorite stars.
+
+4.
+
+Advertising layer, delivering smart & transparent data and an engaged audience to
+brands for more efficient advertising campaigns (by enabling advertising smart
+contracts and exclusive merchandise sales).
+
+3
+
+3.
+
+TokenStars solves 4 major problems of market participants:
+1.
+
+Talents & Pros:
+a.
+
+‘Young talents need financial support’. We provide financial support to young
+talents at the critical junior age, so they don’t drop out of professional sports
+and entertainment industries. This significantly increases their chances for
+success.
+
+b.
+
+‘Established players need help with advertising sales’. We offer representation
+and marketing promotion to established pro athletes and media personalities
+that are already attractive to sponsors but were overlooked by traditional
+agencies.
+
+Token implementation: TokenStars receives advertising commissions (15-30%, both
+from pros and talents) and fees from supported talents’ future income (5-70%,
+depending on the industry), which must be paid in TokenStars tokens. So, the
+brands and supported talents will buy tokens on the exchanges from token holders
+to pay for our services.
+2.
+
+Fans desire much closer interaction with celebrities and more influence over sports
+clubs and players. We provide fan communities with a wide range of exclusive
+options and products that allow them to participate, analyze, critique, deconstruct,
+fantasize and connect with their favorite athletes and media personalities.
+Token implementation: by participating in these interactions, fans earn and spend
+TEAM tokens, increasing the demand and the turnover of tokens.
+
+3.
+
+Advertisers. Brands seek a combination of transparent advertising formats, as well
+as more engaged audiences. TokenStars offers brands an opportunity to access a
+highly involved fan audience and increase the efficiency of campaigns by
+implementing advertising smart contracts.
+Token implementation: the endorsements and promotional services will be paid in
+tokens (fully or as a part of the TokenStars commission), so the higher the amount of
+advertising campaigns, the more tokens will be demanded on the market.
+
+4.
+
+Blockchain implementation ensures transparency and scalability of operations. We
+have chosen blockchain as the underlying technology of the platform to allow us to build
+a transparent and verifiable system for all platform participants, especially for fans,
+advertisers, talent scouts, and regular token holders.
+1.
+
+TokenStars platform will record in the blockchain ledger the events of interactions
+between the participants, such as voting results, applications from scouts, auction
+bids, and advertising clicks.
+
+2.
+
+Our platform will be based on two interacting blockchains - Ethereum for the tokenrelated operations, and a private blockchain for the internal platform operations:
+which was chosen because tens of thousands of people (with millions of participants
+in the future) will interact on the TS platform, so all these transactions will generate
+millions of recorded operations. Using the Ethereum blockchain to record such a
+large number of events would be impractical because of slow transaction speed and
+high transaction-related expenses.
+4
+
+3.
+
+5.
+
+Implementing Ethereum ERC-20 standard compatible tokens allows us to avoid the
+usual difficulties with fiat currencies such as low speed and regulations related to
+cross-border payments.
+
+Proven business model. We have started with tennis and successfully completed the
+ACE token sale in October ’17. We have already started proving our concept:
+1.
+
+Signed the first contract with a PRO tennis player - Veronika Kudermetova, winner of
+21 international tournaments (No. 58 in WTA ranking in doubles) and
+
+2.
+
+Launched a marketing project with Ekaterina Makarova (Olympic Gold medalist in Rio
+2016; the winner of Wimbledon, US Open and Roland Garros; No. 33 in WTA singles /
+No. 3 in doubles).
+
+6. We’re launching the TEAM TokenStars vertical, which will combine celebrity
+management activities in other sports (football, hockey, basketball, poker and others)
+and entertainment (movies, music).
+7. TEAM token (Ethereum, ERC-20 standard compatible) is a utility token, designed to
+enable interaction between fans, celebrities (prospective talents & successful pros),
+advertisers, scouts, and regular token holders. TEAM tokens will serve as the platform’s
+internal currency and will be used in 10 modules.
+Most of the interactions between the participants will require usage of TEAMs:
+
+
+payment of agency commissions from advertisers and supported talents;
+
+
+
+providing incentives to fans and external agents, who discover the prospective
+talents (scouts) and promote their favorite celebrities (promoters);
+
+
+
+making betting bids;
+
+
+
+participating in the voting polls;
+
+
+
+getting access to exclusive offers from celebrities.
+
+This will result in higher token turnover, driven by TokenStars’ business growth.
+8.
+
+TokenStars disrupts a huge industry. TEAM targets a giant and fast-growing market.
+The total global sports and entertainment celebrity management market exceeds $100+
+billion1 in contracts under management and annual revenues of up to $20 billion2.
+The sports and entertainment industry is booming now:
+1.
+
+Contracts under management among the top 40 agencies increased by +10% in 2017.
+
+2.
+
+UEFA Champions League budgets, distributed to the clubs, increased by 2.3X over the
+last 10 years, amounting to $1.32 billion in the 2017/18 season.
+
+3.
+
+The total prize money in the Grand Slam Championships has dramatically increased
+4X during the last 15 years.
+
+https://www.forbes.com/sports-agencies/list/ [$43 billion of contracts under management in sports (sports
+contracts are less than <50% of total industry]
+2
+https://www.ibisworld.com/industry-trends/market-research-reports/arts-entertainment-recreation/celebritysports-agents.html [Assuming the US market (agencies’ annual turnover exceeds $10 billion) to be 40-45% of global]
+5
+1
+
+4.
+
+The worldwide sports analytics market (which targets the scouting of prospective
+athletes and growing audience engagement) is expected to increase at a CAGR of
+40.1% over the next five years and excel to $4 billion.
+
+5. The project disrupts the huge incumbents’ business and shares the created value
+among the community members.
+TEAM is a global project looking for players and sponsors worldwide (this means higher
+market size, higher diversity, and less dependency on local regulations).
+9.
+
+TEAM targets an enormous fan base, which can earn and spend tokens on the platform.
+We aspire to introduce more than 4 billion sports fans3 to the blockchain world. The top
+20 football players have 1.4 billion followers4 across the most popular social media
+platforms.
+TokenStars has established partnerships with major media platforms (for tennis we have
+signed a partnership deal with major sports media such as Tribuna.digital and
+https://www.sports.ru/ with 12.5 million MAU). We put special emphasis on global PR
+and marketing among the non-geeky sports fans. The message ‘be part of the next
+Ronaldo’s success and get exclusive offers from this star’ will resonate with them.
+
+10. TokenStars has assembled a top-notch sports & entertainment advisory board that will:
+
+
+share its expertise to stimulate project growth,
+
+
+
+help us select the most promising talents, and
+
+
+
+attract a large audience of users to the TokenStars platform.
+
+Lothar Matthäus
+/Football/
+
+
+
+
+
+
+
+World Cup champion (1990).
+European champion (1980).
+7-time winner of Bundesliga and
+champion of Serie A.
+2-time winner of UEFA Cup.
+Awarded the Golden Ball and
+FIFA World Player of the year.
+
+Nikita Kucherov /Hockey/
+
+
+
+
+
+
+3
+4
+
+No. 1 goal scorer of 2017/18 NHL
+season.
+Bronze medalist of the World
+Championship (2017).
+NHL Stats: 125 goals / 268
+points.
+
+Tommy Haas /Tennis/
+
+
+
+
+
+
+Career stats: No. 2 in ATP
+ranking.
+Winner of 15 international
+tournaments.
+Olympics Silver medalist
+(Sydney, 2000).
+
+Gianluca Zambrotta
+/Football/
+
+
+
+
+
+
+FIFA World Cup champion (2006).
+UEFA European championship
+silver medalist (2000).
+3-time Italian Serie A champion.
+Played for Juventus, Barcelona,
+Milan and Italian national team.
+
+http://sporteology.com/top-10-popular-sports-world/
+http://www.telegraph.co.uk/football/2016/10/04/the-50-most-influential-footballers-on-social-media/
+6
+
+Cedric Pioline /Tennis/
+
+
+
+
+
+Robin Söderling /Tennis/
+
+Career stats: No.5 in ATP ranking.
+US Open and Wimbledon finalist.
+Winner of 2 Davis cups.
+Co-Captain and coach of French
+national team.
+
+
+
+
+
+
+
+
+
+Valeriy Karpin /Football/
+
+
+
+
+
+
+Anastasia Myskina
+/Tennis/
+
+Football manager and former
+professional player (Valencia,
+Real Sociedad, Celta, FC Spartak,
+and Russian national team).
+Career stats: 122 goals.
+2nd place at Spanish La Liga.
+3-time winner of Russian league.
+
+
+
+
+
+
+
+Rico Torres /Hollywood/
+
+
+
+
+
+
+
+Career stats: No. 4 in ATP
+ranking.
+Roland Garros finalist 2009,
+2010.
+Winner of ATP Masters Finals
+(2010) and 10 tournaments.
+Ex-Tournament Director at
+Stockholm Open.
+
+Career stats: No. 2 in WTA
+ranking.
+Roland Garros champion (Grand
+Slam.
+The winner of 2 Fed Cups and 21
+international tournaments.
+
+Alexander Anter /Poker/
+
+Hollywood photographer with 30
+years in the movie industry.
+60 movies in portfolio.
+Partnered with Quentin
+Tarantino, Robert Rodriguez,
+Ridley Scott.
+Made photo shoots of Antonio
+Banderas, Bruce Willis, Jessica
+Alba, Lady Gaga and others.
+
+
+
+
+
+Professional poker player (with
+10+ years of experience) and
+Blockchain developer.
+World Series of Poker
+tournament winner (WSOP-2011)
+with a prize worth $750k.
+
+Full stack developer, blockchain
+developer, CTO of RefToken
+
+7
+
+TEAM Token Sale Terms
+General Info
+Token Name
+
+TEAM
+
+Based on
+
+Ethereum
+
+Standard
+
+ERC-20
+
+Token price
+
+0.0001 BTC
+
+Payment methods:
+
+Bitcoin (BTC), Ether (ETH), Litecoin (LTC),
+Bitcoin Cash (BCH), Neo (NEO), ACE Token
+(ACE)
+
+Fundraising Targets
+Soft Cap (minimum token sale threshold)
+
+$1,000,000
+
+Target A
+
+$5,000,000
+
+Target B
+
+$10,000,000
+
+Hard Cap – Target C (maximum token sale
+threshold)
+
+$15,000,000
+
+Token Allocation
+Allocation principles
+
+1. For every 60 tokens sold (Token Sale),
+2. 20 additional tokens will be created
+and retained for the team, partners
+and advisors (Team & Advisors),
+3. and 20 additional tokens will be
+created and retained for Network
+Growth (Community & Growth).
+
+Max number of tokens for token sale
+
+up to 45,000,000
+
+Max number of tokens for team & advisors
+
+up to 15,000,000
+
+Max number of tokens for network growth
+
+up to 15,000,000
+
+Total Max number of created tokens
+
+up to 75,000,000
+The difference between the maximum
+possible number of created tokens and
+actual distributed number of tokens will
+not be created.
+
+8
+
+Sale Period5
+Dates
+Tier 1
+
+Dec 20, 2017 – Jan 10, 2018
+
+Tier 2
+
+Jan 10, 2018 – Jan 27, 2018
+
+Tier 3
+
+Jan 27, 2018 – Feb 5, 2018
+
+Tier 4
+
+Feb 5, 2018 – Feb 22, 2018
+
+Tier 5
+
+Feb 22, 2018 – Mar 8, 2018
+
+Tier 6
+
+Mar 8, 2018 – Mar 15, 2018
+
+Tier 7
+
+Mar 15, 2018 – Mar 22, 2018
+
+Tier 8
+
+Mar 22, 2018 – Mar 28, 2018
+
+Min / Max Contribution
+1,000 TEAM tokens (0.1 BTC) / No cap
+
+100 TEAM tokens (0.01 BTC) / No cap
+
+Bonuses*
+Contribution period bonuses
+Tier 1
+
++40%
+
+Tier 2
+
++30%
+
+Tier 3
+
++15%
+
+Tier 4
+
++10%
+
+Tier 5
+
++7%
+
+Tier 6
+
++5%
+
+Tier 7
+
++3%
+
+Tier 8
+
+-
+
+Volume Bonuses
+1-3 BTC
+
++5%
+
+3-5 BTC
+
++10%
+
+> 5 BTC
+
++20%
+
+* The bonuses are cumulative (volume bonuses are added to contribution period bonuses)
+** Other bonuses may be implemented by TokenStars
+
+The dates and the duration of the token sale period may be adjusted in the case of significant changes in market
+conditions.
+9
+5
+
+Distribution and Listing5
+Initial Token Distribution
+
+Mar 2018
+
+Listing on Exchanges (intended)
+
+Mar 2018
+
+Additional Information
+Sales geography
+
+TEAM tokens are not being offered or
+distributed to, and cannot be resold or
+otherwise alienated by their holders to
+citizens of, natural and legal persons
+having their habitual residence, location
+or their seat of incorporation (i) in the
+United States of America (including its
+states and the District of Columbia),
+Puerto Rico, Virgin Islands of the United
+States, any other possessions of the
+United States of America, or (ii) in a
+country or territory where transactions
+with digital tokens are prohibited or in
+any manner restricted by applicable laws
+or regulations.
+
+Web site:
+
+http://tokenstars.com/
+
+10
+
+TEAM Project Vision
+3.1.
+
+Core Idea
+
+The core idea behind TokenStars is to bring interaction between stars, fans and advertisers to a
+new level, and solve celebrity management industry problems.
+
+
+
+
+
+
+Stars: talents and pros. In an era when professional career development highly relies on
+the ability to attract social capital and access funding sources, stars need more ways to
+get discovered by the audience and sponsors.
+Fans. The balance of celebrities, fans, and media has shifted dramatically. Fans no longer
+just watch. In real time they participate, analyze, critique, fantasize and connect with
+their favorite stars.
+Fans need innovations that will provide opportunities for interaction and two-way
+communications with celebrities.
+Advertisers. Brands seek new channels of promotion with a highly engaged audience
+and demand transparent and adjustable tools to run advertising campaigns.
+
+We understand that in order to encourage collaboration between a huge number of participants,
+TokenStars shall develop scalable digital solutions and competitive incentives for all parties.
+Therefore, we’re building a modular blockchain platform that will allow participants to combine
+its blocks and achieve the desired results. Eventually, it will change the way celebrities connect
+with their fans and advertisers, making it more efficient and valuable.
+We’re introducing the TEAM token to empower the interaction between parties. TEAM tokens
+(ERC-20 standard) will serve as a form of access to the TokenStars platform and as an internal
+currency required for the majority of operations and transactions within our ecosystem.
+
+3.2. Solving market problems
+TokenStars solves 4 major problems of market participants:
+1.
+
+Talents (future stars). We provide financial support to young talents at the critical junior
+age, so they don’t drop out of the professional sports and entertainment industries. We
+also help them to attract an audience and accumulate social capital from the beginning
+of collaboration, to start their professional career with a sufficient handicap (in
+comparison to their peers).
+
+2.
+
+Pros (active sports & entertainment stars). We offer representation and marketing
+promotion to established pro athletes and media personalities that are already attractive
+to sponsors but were overlooked by traditional agencies.
+
+3.
+
+Fans desire much closer interaction with stars and celebrities and more influence over
+their favorite clubs. We provide fan communities with opportunities to communicate in
+real time, choose future stars, and become involved in celebrities’ activities.
+
+4.
+
+Advertisers. Brands seek a combination of transparent advertising formats, as well as
+more engaged audiences. TokenStars offers brands an opportunity to access a highly
+involved fan audience and increase the efficiency of campaigns by implementing
+advertising smart contracts.
+11
+
+3.3. TEAM token
+We create TEAM tokens (Ethereum ERC20 standard compatible utility tokens) to facilitate the
+engagement between different participants on the platform. TEAM tokens will serve as:
+1.
+2.
+
+A form of access to TokenStars platform features that verifies the token holder’s rights
+to participate in the activities conducted within the ecosystem.
+An internal currency – tokens will be used as a form of settlement in the transactions
+conducted within the platform. This will also allow us to avoid the usual difficulties with
+fiat currencies such as low speed and regulations related to trans-border payments.
+
+There are 3 ways platform participants may acquire TEAM tokens:
+1.
+2.
+3.
+
+Join the crowdsale (total supply will be limited by the number of tokens created at the
+crowdsale).
+Buy tokens on the crypto exchanges.
+Earn tokens within the platform for completing actions and accomplishing tasks.
+
+12
+
+Platform and Technology
+4.1.
+
+Platform Architecture
+
+The TokenStars platform is built of 12 integrated modules that allow us to implement all
+activities of the project. The modules are divided into four distinct layers:
+1.
+2.
+3.
+4.
+
+Crowdfunding layer;
+Infrastructure layer;
+Fans Community layer;
+Brands and Advertising layer.
+
+TokenStars platform is designed as a toolkit, allowing users to combine different modules to
+achieve the required capabilities and to encourage interaction between the celebrities, fans (as
+well as regular token holders), advertisers, professional talent scouts and promoters.
+A detailed description of the modules’ functions and architecture can be found below in this
+section of the White Paper.
+
+4.2. Use of Blockchain
+Our choice of blockchain as the underlying technology of the TokenStars platform allows us to
+build a transparent, scalable and verifiable system for all platform participants, especially for
+fans, scouts, promoters and advertisers. We will provide fan community leaders with tools to
+audit the records of the distributed blockchain ledger to prove the transparency of interactions
+and avoid potential conflicts between the participants.
+13
+
+Our platform will interact with tens of thousands of people (up to millions in the future). We
+aspire to introduce more than 4 billion sports fans6 to the blockchain world. For reference,
+
+
+
+The top 20 football players have 1.4 billion followers7 across most popular social media
+platforms.
+The estimated number of FC Manchester United followers is 659 million people.8 This is
+possibly the largest fan base in the world for a football club.
+
+Furthermore, we plan to work with celebrities not only in sports, but also in entertainment
+(movies and music), and expect to have a huge user base.
+Every event such as recording a vote in a poll, collecting a report from a promoter, receiving
+auction bids, or registering advertising clicks will generate a blockchain write operation. Our inhouse advertising will be using blockchain to record all important events for further analysis.
+The daily number of these events can reach millions.
+Using the Ethereum blockchain to record such a large number of events would be impractical
+mainly because of slow transaction speed and transaction-related expenses.
+Therefore, we’re planning to develop the TS platform based on two interacting blockchains:
+1.
+2.
+
+Ethereum for token-related operations and
+A private blockchain for internal platform operations.
+
+TokenStars private blockchain will be built as a network of nodes, maintained by the Company in
+the early stages of platform development. Later, we plan to delegate the rights (partially or
+fully) of the nodes’ maintenance to the leaders of the fan community, who will be invited to
+become part of the network. This will allow us to create a truly distributed network,
+uncontrolled by any single party, in the true spirit of blockchain.
+We also plan to take advantage of distributed blockchain technology for fast and efficient
+scaling of the platform. Network node operators will be able to audit blockchain operations to
+judge possible conflicts.
+TokenStars will produce easy-to-install packages of the software required to run a network
+node and will provide all necessary instructions and worldwide 24/7 support. Network node
+operators will be compensated for their efforts with TEAM tokens.
+
+http://sporteology.com/top-10-popular-sports-world/
+http://www.telegraph.co.uk/football/2016/10/04/the-50-most-influential-footballers-on-social-media/
+8
+http://www.sportingintelligence.com/2012/06/07/manchester-united-659-million-people-can%E2%80%99t-bewrong-can-they-070601/
+14
+6
+7
+
+4.3. Technological Stack
+
+TokenStars is considering various solutions and approaches to private blockchain
+implementation. We are expecting the best results from Hyperledger Fabric, which is an opensource blockchain framework implementation and one of the Hyperledger projects hosted by
+The Linux Foundation. Hyperledger Fabric was initially contributed by Digital Asset and IBM.
+TokenStars Hyperledger Fabric based network will be interacting with the Ethereum network
+through the inter-platform API we plan to develop.
+The planned technology stack includes:
+
+
+Amazon AWS Ubuntu virtual servers for private blockchain node deployment.
+
+
+
+Third-party E-Commerce suite, customized for cryptocurrency and tokens. Shopify is the
+candidate technology.
+
+
+
+Advertising module with a combination of solutions by Google, AppNexus, Amber Data
+and Iponweb.
+
+
+
+Solidity and Golang for blockchain development.
+
+
+
+ReactJS, Android Studio, XCode for user interface development (please see the examples
+of prototypes in the next section).
+
+
+
+Some of the implementation will be outsourced to trusted parties with total quality
+control from our side.
+15
+
+4.4. Modules implementation
+TokenStars platform is designed as a toolkit, allowing users to combine different modules to
+enable and encourage interaction between celebrities, fans (as well as regular token holders),
+advertisers, professional talent scouts and promoters.
+TEAM tokens will serve as a form of access to the platform and its internal currency.
+TEAM tokens will be used among 10 modules (excluding ‘personal’ STAR ICO modules).
+We’re creating TEAM tokens (Ethereum ERC-20 standard compatible utility tokens) to facilitate
+engagement between different participants on the platform. TEAM tokens will serve as:
+1.
+2.
+
+3.
+
+A form of access to TokenStars platform features, that verifies the token holder’s rights
+to participate in the activities conducted within the ecosystem.
+An internal currency – tokens will be used as a form of settlement in the transactions
+conducted within the platform. This will also allow us to avoid the usual difficulties with
+fiat currencies, such as low speed and regulations related to trans-border payments.
+A form of expression of the community’s opinion. TokenStars platform will provide
+TEAM token holders with the opportunity to express their opinion regarding operational
+issues of the TokenStars’ business through the decentralized community voting (DCV)
+mechanism (please find more details in Section 7.1 of the ACE White Paper).
+
+ACE tokens, which were created to fund operations within the tennis industry (crowdsale
+completed in October 2017), will also be integrated into the joint TokenStars platform
+infrastructure.
+
+Crowdfunding Layer
+Comprised of 3 modules, it enables promising talents, combined in groups, and individual
+globally-known celebrities to raise funds.
+
+Talent Support Module
+The talent support module is part of the
+crowdfunding layer. It will be based on Ethereum
+smart contracts that will implement management of
+the funds collected during the token sale. As talent
+support practice involves payments in fiat currency,
+it requires an API connected to the external
+cryptocurrency exchanges. Transactions to the
+exchanges can be verified by blockchain analysis
+tools like etherscan.io. Access to the module’s
+functions will be limited to authorized employees of
+TokenStars.
+For Stars: Allows prospective talents to raise funds for professional development
+For Fans: Provides access to the TEAM ecosystem and allows them to share in the success of
+future stars.
+
+16
+
+Fans support future stars by buying TEAMs at the token sale. TokenStars finds promising talents
+(by utilizing scouting and voting modules) and signs contracts with them. Rising stars receive
+money to train, improve their skills, and participate in youth competitions. When talents become
+successful pros, they start paying the platform commission from sponsorship deals and salary
+or prize money. Commissions are paid only in TEAM tokens, which are bought on the market
+from the fans (regular token holders).
+The Talent Support Module is one of the basic ways to enter TEAM ecosystem and redeem
+tokens for various services and interactions not only with rising talents, but also with
+established pros, to whom TokenStars provides marketing support.
+Case study: Fans support 14-year old ‘Maria Sharapova’; she wins Wimbledon at 17. The
+platform receives a 20% commission from prize money and advertising contracts, paid in
+tokens.
+STAR ICO “Time Tokenization” Module
+TEAM token won’t be applied to use this module.
+This module will be utilized only by STAR token, designed for personal ICOs of celebrities (STAR
+token will be announced later and will be sold at a separate crowdsale event).
+STAR ICO “Income Tokenization” Module
+TEAM token won’t be applied to use this module.
+This module will be utilized only by STAR token, designed for personal ICOs of celebrities (STAR
+token will be announced later and will be sold at a separate crowdsale event).
+
+Infrastructure Layer
+This layer combines 3 modules that provide functions and capabilities for key platform
+infrastructure activities, implemented in combination with modules from other layers.
+
+Talent Scouting Module
+The talent scouting module implements platformbased interactions between TokenStars, talent
+scouts (represented by professional part-time
+scouts, youth coaches or incentivized token
+holders) and TEAM token holders who have
+volunteered to become Analysts. This module is
+tightly integrated with the voting module.
+
+For Fans: Allows them to become scouts, submit applications for prospective talents and earn
+TEAM tokens.
+17
+
+The most general use case is illustrated by the diagram and is explained below.
+
+TokenStars decentralizes the talent sourcing process to ensure a high-quality flow of
+candidates. Unlike traditional agencies with a limited number of in-house scouts, TokenStars
+creates a Global Scouts Network, encouraging scouts with well-balanced stimuli to bring the
+most talented players to our platform.
+1. Any TEAM token holder can become a
+Scout by signing up on the platform’s
+website or in the app. The person’s
+Ethereum account is one of the
+required fields. The new scout must
+be the holder of at least one TEAM
+token to apply. Token balance is
+automatically verified by the platform
+through the Ethereum API.
+
+18
+
+2. The token holder becomes a scout
+and gets access to special platform
+functions that allow him or her to
+propose new rising talents.
+
+3. Talents pass automatic screening
+(based on their youth stats and
+results) and offline assessment
+conducted by TokenStars licensed
+scouts, which provides information
+for the future selection of candidates
+for voting and contract proposal.
+
+4. Any token holder can register as an
+Analyst and gain access to the
+talent’s data and to the voting.
+Measures will be taken to protect the
+sensitive personal information of the
+talent and the scout.
+
+5. Analysts can vote for or against signing a contract with the new star candidate. The
+number of votes equals the number of TEAM tokens held by every analyst. The voting
+is conducted in the private blockchain of the platform and can be further inspected by
+the community in case of any doubt or conflict.
+6. TokenStars signs the contract with the future star and confirms it in the system, and
+this triggers immediate and automatic transfer of TEAM tokens to the recruiter’s
+Ethereum account.
+
+19
+
+7. The scout continues his or her work with
+players and submits periodic analytical
+reports on their performance.
+
+8. Analysts review the reports and can vote for or against contract renewal with (a) the
+talent and (b) Head of Scouting Network, who made the final proposal on signing the
+contract with the talent.
+9. TokenStars renews the contract with the approved talent and approves the completion
+of the task, and an additional reward is paid to the scout who provided the talent’s
+application to the platform.
+10. The recruiter continues his or her work with the stars with periodic reviews by the
+supervisor and the analysts, receiving automatic payments in TEAM tokens after every
+iteration.
+11. TokenStars holds periodic prize draws where the most active analysts have better
+chances to receive rewards in TEAM tokens and other possible prizes. The prize draw
+rules and conditions will be announced prior to the voting.
+Case study: ‘Juan’ notices a promising young football player, submits an application to the
+platform, and receives a $10K payment in TEAM tokens.
+
+Scouts should receive significant amounts of money for successful recommendations in order to
+be motivated. It is important to note that Scouts will receive compensation only for their work
+performed through the TokenStars platform, as described in the table below. No compensation
+shall be paid if the Scouts do not perform any of the respective actions.
+Scouts’ compensation will be paid only in TEAM tokens.
+The compensation amount and prices may be amended from time to time in order to reflect
+evolving business purposes and provide fair compensation and pricing for the performed
+efforts.
+
+20
+
+Scout Action
+
+Scout Compensation9
+
+Comment
+
+1. Submitting the initial
+players’ application
+to ACE.
+
+Larger of: 100 TEAM tokens or $100
+(paid in TEAMs)
+Cap: not more than $120 in equivalent
+
+With fraud protection
+mechanisms, penalties
+for fake submissions,
+limits for total
+submissions.
+
+2. Application is
+approved, and the
+player is invited to an
+assessment.
+
+Larger of: 900 TEAM tokens or $900
+(paid in TEAMs)
+Cap: not more than $1,080 in
+equivalent
+
+3. Assisting with the
+talents’ assessment
+on-/offline,
+submitting
+assessment
+checklist.
+
+Larger of: 500 TEAM tokens or $500
+(paid in TEAMs)
+Cap: not more than $600 in equivalent
+
+4. Talent is selected
+and signs the
+contract.
+
+Larger of: 8,500 TEAM tokens or
+$8,500 (paid in TEAMs)
+Cap: not more than $12,750 in
+equivalent
+
+TOTAL
+
+Larger of: 10,000 TEAM tokens or
+$10,000 (paid in TEAMs)
+Cap: not more than $14,550 in
+equivalent
+
+Voting Module
+The voting module is used as an infrastructure
+support for other modules. The platform will
+hold polls among token holders on the
+significant decisions: one of the most meaningful
+use cases of voting is described above in the
+Scouting section, where fans provide their
+opinion on approving new players or renewing
+the Head of Scouting contract.
+For Stars: Allows them to accumulate a greater audience and social capital to increase the value
+for sponsors.
+For Fans: Provides an opportunity to participate in talent selection and influence decisions made
+by their favorite stars. Active engagement in voting will allow them to earn additional tokens.
+
+Hereinafter in the whitepaper: For simplicity, the compensation amounts in tokens are calculated at the exchange
+rate of 1TEAM = 1$. Actual compensation amounts in tokens may be changed and will reflect the fluctuations of the
+exchange rates.
+21
+9
+
+This module will be also tightly interconnected with modules from the Fan Community layer,
+when it will be used as a standalone mechanism for polls conducted by celebrities. For example,
+fans might be able to vote for the title of a pop star’s new album, which dress to wear at a redcarpet ceremony, or how to celebrate a scored goal (thus the star becomes a ‘live Tamagotchi’
+for the fans). For the star it brings greater audience engagement and publicity, which
+consecutively results in higher interest from advertisers.
+
+Betting Module
+TEAM token holders will be able to take part in
+different betting events involving TokenStars
+talents and celebrities.
+For Fans: Allows them to earn or spend tokens
+by placing a bet on the results of various events.
+
+The stakes and the prizes will be accepted and paid only in TEAM tokens. Betting will be
+implemented as an Ethereum smart contract with automatic payments to the winners.
+As a part of the infrastructure layer, the Betting module will be pluggable into other modules,
+like an online competition stream.
+Case study: ‘Roberto’ participates in TokenStars quarterly fantasy football tournaments, makes
+the most accurate predictions, and wins the 1st prize.
+
+Fan Community Layer
+Allowing celebrities to grow their social capital and offering fans higher involvement and
+participation.
+This layer is comprised of 3 modules, allowing celebrities to expand their loyal fan bases and
+offering fans the desired involvement by communicating and participating in activities with their
+favorite stars.
+
+Bounty Fan Club Module
+The Bounty Fan Club module is one of the key
+elements of the TokenStars platform, furnishing
+talents and celebrities with a tool to develop
+their audiences in an efficient and structured
+manner. Stars will assign tasks (e.g., creating
+content, promoting social media accounts) to
+their fans, who may volunteer to become
+‘Promoters’ and help their favorite star to
+succeed.
+22
+
+All communications between promoters, stars and TokenStars employees will occur through the
+platform. All payments are made with TEAM tokens and are automatically processed by the
+platform and its API to the Ethereum network.
+For Stars: Allows them to achieve meaningful results with the help of highly engaged fans by
+assigning them particular tasks.
+For Fans: Enables regular participation in the star’s activities, provides an opportunity to earn
+tokens and become the leader of the fan club.
+
+The most typical case is illustrated by the simplified diagram below:
+
+TokenStars’ involvement in the process requires two activities – promoter recruiting in the early
+stage, and supervising in the later stages.
+1.
+
+The TokenStars recruiter invites new promoters by publishing vacancies on the project
+website, through social media, and a mailing list of registered token holders. Also, these
+vacancies will be published and promoted in the star’s social media accounts and
+communication channels, which will allow them to invite a greater number of fans to the
+TS platform. The vacancies include a general description of the tasks the candidate
+agrees to undertake.
+
+2.
+
+Any person willing to apply to a new promoter position (may be a current token holder or
+regular fan, who has to buy a TEAM token to apply) can fill out the form on the platform’s
+web site. The person’s Ethereum account is one of the required fields. The candidate
+must be the holder of at least one TEAM token to apply. Token balance is automatically
+verified by the platform through the Ethereum API.
+
+3.
+
+The TokenStars recruiter further interacts with the candidates, conducts an online
+interview, and approves hiring.
+23
+
+4.
+
+The candidates become promoters and commit to the specific tasks assigned by
+TokenStars. Remuneration conditions are also agreed between the parties as part of the
+task confirmation procedure. Every confirmed task becomes an immutable record (smart
+contract) in the platform's private blockchain ledger and will be available for
+independent inspection from the community for the purposes of conflict resolution.
+Sensitive personal information of the promoter and the task will be cryptographically
+protected from third parties.
+
+5.
+
+A detailed description of possible tasks, fees and policies is provided below the case
+study.10
+
+6.
+
+Upon completion of the task, the promoter reports it through the platform interface. With
+the report, s/he must provide some proof of task completion, e.g., a link to a social
+network post or a screenshot.
+
+7.
+
+The promoter’s supervisor approves the task completion and this triggers immediate and
+automatic transfer of TEAM tokens to the promoter’s Ethereum account. Every platform
+user will be able to check his or her token balance directly on the account page.
+
+8.
+
+New tasks can be suggested by the
+promoter’s supervisor or recurring
+ones can be updated. Every new or
+updated task and conditions must be
+confirmed both by the promoter and by
+the supervisor.
+
+Case study: ‘Madonna’ has 700,000 fan club members worldwide. They start getting paid for
+their work in tokens, and promote the star.
+
+10
+
+Hereinafter: Fees are indicative and may vary depending on the business’s operational and financial requirements.
+24
+
+Promoter Action
+
+Promoter Compensation11
+
+Comment
+
+1. Managing 1 fan
+account in 1 language
+on 1 social network
+
+Larger of: 100 TEAM tokens or $100
+(paid in TEAMs)
+Cap: not more than $120 per month in
+equivalent
+
+Maximum 500 TEAMs
+per person.
+
+2. Updating TEAM
+newsfeed, per
+language
+
+Larger of: 300 TEAM tokens or $300
+(paid in TEAMs)
+Cap: not more than $360 per month in
+equivalent
+
+Maximum 1500 TEAMs
+per person.
+
+3. Pitching local media
+and securing unique
+publications
+
+Larger of: 100 TEAM tokens or $100
+(paid in TEAMs)
+Cap: not more than $120 per
+publication in equivalent
+
+4. Referring a potential
+advertiser who
+passes initial
+screening
+
+Larger of: 200 TEAM tokens or $200
+(paid in TEAMs)
+Cap: not more than $240 per month in
+equivalent
+
+Fraud protection
+
+5. Referring a potential
+advertiser who signs
+a contract
+
+10% of this first contract, 2% of all
+future contracts of this advertiser
+with all TEAM stars
+
+Excluding local taxes
+
+Promoters’ compensations will be paid only in TEAM tokens.
+
+Fan Communications Module
+TokenStars will provide fans with a wide range of options to bring interaction with their favorite
+celebrities to a new level. Fans will receive an opportunity to redeem TEAM tokens either for (a)
+exclusive offers and connections or for (b) general online communications with stars.
+For Stars: Allows them to increase their audience, grow engagement, and find new ways to
+monetize.
+For Fans: Allows them to connect and communicate with their favorite stars, and gives them the
+feeling of being heard.
+
+
+Exclusive offers from stars.
+Token holders may spend tokens on exclusive offers and real-life events such as live
+meetings, trainings, match tickets, concerts, etc.
+Announcements and bookings will be implemented by the platform. Admission prices will
+be either fixed or auction-based and will be paid only in TEAM tokens.
+
+Compensation amounts and prices may be amended from time to time in order to reflect evolving business purposes
+and provide fair compensation and pricing for performed efforts.
+11
+
+25
+
+Exclusive offer
+
+Pricing12
+
+Comment
+
+1. Get a one-on-one
+training session with
+a star (1 hour)
+
+2000 TEAMs or $2000
+
+Maximum 10 hours per
+player per year, subject
+to players’ schedule and
+availability.
+
+2. Get a group training
+session (1 hour)
+
+3000 TEAMs or $3000 (for all
+participants)
+
+Maximum 15 hours per
+player per year, subject
+to players’ schedule and
+availability.
+
+3. Get autographed
+merchandise
+
+100 TEAMs per item
+
+Delivery costs not
+included.
+
+4. Get an autographed
+player’s book
+
+50 TEAMs per item
+
+Delivery costs not
+included.
+
+5. Get a ticket to the
+player’s matches
+
+50-200 TEAMs
+
+Subject to availability,
+travel costs not covered.
+
+6. Get 1 pass to training
+sessions as an
+observer
+
+50 TEAMs
+
+Subject to the
+tournament’s policy and
+players’ availability.
+
+Compensation amounts and prices may be amended from time to time in order to reflect evolving business
+purposes and provide fair compensation and pricing for performed efforts (and may vary for different talents and
+stars).
+12
+
+26
+
+
+
+Online communication.
+Specialized platform tools for online communications will be developed.
+o
+
+One-way video casts of selected exclusive events will be available to token holders.
+Access to the content will be granted automatically after the platform calls
+Ethereum through the API and verifies that the user logging into the cast owns the
+required number of tokens; they will not be deducted from his or her account but are
+only used for verification purposes.
+
+o
+
+Two-way video and text chats. Paying customers
+will be able to join two-way communication with
+the star. Due to obvious reasons, the number of
+fans the star will be able to communicate with at
+the same time is limited. Pricing model can be flat
+or auction-based. Admission fee must be paid in
+TEAM tokens.
+
+o
+
+Verified token holders will be able to join the chat
+in view-only (read-only) mode free of charge
+(with advertising monetization).
+
+Exclusive offer
+
+Pricing13
+
+Comment
+
+1. Talk via group video chats
+(30 minutes)
+
+20 TEAMs
+
+Marketing purposes. Subject to
+players’ availability.
+
+2. Talk via individual video
+chat (15 minutes)
+
+150 TEAMs
+
+Subject to players’ availability.
+
+3. Talk via group text chat
+(30 minutes)
+
+10 TEAMs
+
+Marketing purposes. Subject to
+players’ availability.
+
+4. Talk via individual text
+chat (15 minutes)
+
+80 TEAMs
+
+Subject to players’ availability.
+
+5. Join Periscope / text chat
+in view-only mode
+
+Free for TEAM token
+holders
+
+-
+
+Case study: ‘Neymar’ holds a Periscope video chat for 10,000 fans worldwide who pay $5 each
+(in tokens) to enter.
+
+Compensation amounts and prices may be amended from time to time in order to reflect evolving business
+purposes and provide fair compensation and pricing for performed efforts (and may vary for different talents and
+stars).
+13
+
+27
+
+Contests & Charity Module
+TokenStars platform itself or particular stars
+can hold contests among their fans with prizes
+in merchandise or tokens (i.e. previously
+described in scouting and voting modules).
+Trust in the contest mechanism is essential.
+For Stars: Allows them to increase publicity
+and grow their audience.
+For Fans: Allows them to earn tokens or
+valuable prizes.
+Contests run on the platform can have a different look, rules and mechanics, but they will all be
+built on the blockchain-based backend module. This will ensure accountability of the organizers
+to the community, especially in regard to prize distribution.
+This module is planned to be released during the TEAM token sale. It will demonstrate the
+Christmas Charity event.
+Case study: A singer, ‘Enrique’, releases a new album and needs to engage his fan base. He
+launches a global contest with hundreds of prizes for participants, incl. participation in real-life
+events. The community trusts the results.
+
+Brands and Advertising Layer
+3 modules, providing smart solutions & transparent data to brands for running more efficient
+advertising campaigns with a highly engaged audience.
+
+Advertising Smart Contracts Module
+The smart contract builder for brands allows:
+
+
+Brands to use the CPA model (paying only for
+desired actions, verified by the system).
+
+
+
+All parties to trust each other (the payment will
+happen if the advertising really brought actions,
+not bots).
+
+
+
+Users to simplify negotiations and lower
+transaction costs.
+
+For Stars: Additional monetization.
+For Advertisers: Efficient and transparent campaigns.
+The platform will allow users to run custom advertising campaigns such as full-screen video
+takeovers or full-page branded design, or content will be implemented by an in-housedeveloped AdTech solution that will include the following components:
+
+
+A wizard that will allow advertisers to specify campaign parameters and upload all
+creative formats.
+28
+
+
+
+A smart-contract based advertising engine that will assure transparent measurement of
+advertising performance by logging important events into the blockchain.
+
+
+
+Custom analytical tools that will give insights into campaign results enriched by our
+audience’s knowledge.
+
+
+
+An API connected to an industry-standard analytical suite such as Google Analytics,
+which will allow advertisers to integrate results from TokenStars campaigns into
+common reporting practice.
+
+
+
+Platform tokens will be used as a universal method of payment for custom advertising.
+
+
+
+The Data Management Platform (DMP) is the system for collecting and analyzing
+information about the project audience, and using the data for targeted advertising
+campaigns. As the majority of the project’s visitors will be authorized users, we will have
+a unique and precise insight into the audience properties, which we will further enrich by
+integrating with one of the leading data management platforms.
+
+
+
+We will use a third-party ad server or SSP to run display advertising campaigns on our
+web properties and apps. Audience segments collected with the DMP will be available for
+campaign targeting exclusively for the advertisers of TokenStars.
+
+
+
+We will be able to run programmatic advertising campaigns on behalf of our clients using
+exclusive audience data and one of the industry-standard media buying solutions (DSP).
+
+Case study: ‘Coca-Cola’ wants to place an ad on the ‘Snowboarders’ Instagram page and pay $50
+for every submitted application. In a few clicks, they develop a contract and make a deal.
+
+Brand relations
+Stars attract a large audience, and even promising talents
+will be of great interest to advertisers. Advertising can be
+in different online and offline forms like sponsorship,
+uniform branding and souvenirs, billboards, banners at
+events, etc.
+The promoters supervising the stars will be able to earn
+rewards by offering advertising opportunities to local and
+global brands. Promoters’ bonus for new clients and
+commissions for all subsequent advertising budgets will
+be paid in TEAM tokens.
+For Fans: Opportunity to earn tokens.
+For Stars: Additional monetization.
+For Advertisers: Efficient and transparent campaigns.
+Case study: ‘Wei’ finds a local SMB advertiser for a player in China and gets a 10% commission.
+
+29
+
+E-commerce
+TokenStars and brands will be selling different
+star-related items through a web store. The items
+can be purchased with TEAM tokens for fixed price
+or at an auction.
+The E-Commerce module of the platform is
+planned to be implemented with a third-party
+solution that allows payments with Ethereumbased currencies and tokens. Shopify is one of the
+platforms we’re considering. We are aware that
+other crypto-oriented e-commerce suites are in
+development now. We will choose the bestperforming e-commerce suite at a later platform
+development phase.
+Case study: Tennis star ‘Maria’ has a contract with Nike; she sets up an online store with
+autographed Nike products via the TokenStars e-commerce module.
+
+Technology-specific disclaimer
+We are living in a time of rapid technology development. The description above is based on our
+current knowledge and the current state of technology. The TokenStars development team
+reserves the right to change approaches, architecture, elements of the technology stack, etc. as
+a result of future R&D findings that may present us with better options to solve the
+technological challenges we face.
+
+30
+
+Roadmap
+Disclaimer
+Developing a sophisticated product is a non-linear process that might require changes and
+pivots along the way. The roadmap below reflects our current understanding of the module
+implementation sequence. We’re constantly learning from the market, industry professionals,
+and our stars and users, and continue to tune the process and the sequence accordingly.
+
+Part 1
+
+H2 2017
+
+Q1 2018
+
+Q2 2018
+
+Technology 1. Website [up and
+
+1. TEAM Tokens creation
+running]
+2. DCV mechanism,
+Module #5 Voting
+2. ACE Tokens creation and
+release
+distribution [executed]
+3. Module #9 Contest and 3. Players’ Application
+Submission
+Charity release
+[underway]
+4. Scouts’ activity
+personal dashboard
+5. Module #4 Talent
+Scouting release
+6. Website newsfeed for
+Talents
+
+1. Player scouting
+analytics automation
+2. Users’ analytics
+dashboard to follow
+the project KPIs
+3. (continues) Player
+scouting analytics
+automation
+4. Module #12 Ecommerce release
+5. Promoters’ activity
+personal dashboard
+
+Marketing
+
+1. Partnership agreements 1. Global Marketing and
+with sports media
+PR activities targeted
+at young players and
+[done]
+their coaches
+2. Partnership agreements
+2. (continues) Global
+with 3-6 Celebrities to
+Marketing and PR
+support Charity
+activities targeted at
+Activities on the
+fans to take part in
+Platform [done]
+Charity Activities and
+3. Global Marketing and PR
+become aware of the
+activities targeted at
+Platform
+fans to take part in
+Charity Activities and
+become aware of the
+Platform [underway]
+
+1. (continues) Global
+Marketing and PR
+activities targeted at
+Sponsors
+2. Establish a structured
+marketing framework
+for all the main TAs
+(target audiences):
+funnels, content,
+marketing automation.
+
+Scouting
+
+1. 100+ customer
+1. Start internal scouting
+discovery interviews
+Activities
+with coaches, retired
+2. Empower Scouts with
+players, aspiring players
+more tools and
+and their parents
+information
+[executed]
+2. Determine 10 potential
+‘target’ PROs [done]
+3. Sign 2 PROs [done]
+
+1. Hold first Junior
+players assessment
+sessions
+
+31
+
+Operations
+
+Part 2
+(continues)
+
+1. Build the core team
+(Development, Scouting,
+Marketing) [done]
+2. In-depth research of the
+industry as well as 5 Job
+interviews with sports
+agency employees to
+better understand their
+business model, pain
+points, opportunities for
+disruption [done]
+3. Tennis, Soccer and other
+Sports advisory board
+assembly [done]
+4. Business advisory board
+assembly [done]
+5. Sign first sponsorship
+deal with a Brand [done]
+
+1. Produce tutorials and 1. Produce advertising
+other internal training
+pitch decks for
+materials for Scouts,
+Promoters
+Promoters
+2. Produce PR media kits
+2. Release internal Player
+for promoters
+assessment report
+3. Finalize the typical
+player agreement
+4. Sign two more
+sponsorship deals with
+Brands
+
+Q3 2018
+
+Q4 2018
+
+H1 2019
+
+Technology 1. Module #8 Fan
+
+1. Module #7 Bounty
+Fan Club release
+2. Module #2 Star ICO
+“Time Tokenization”
+release
+
+1. Module #6 Betting
+release
+2. Module #3 Star ICO
+“Income Tokenization”
+release
+3. Module #10
+Advertising Smart
+Contracts release
+
+Marketing
+
+1. Implement Customer
+success mechanics
+for all the TAs into
+the Marketing
+Framework
+2. (continues) Run
+Marketing based on
+measurable KPIbased and
+transparent
+Framework
+
+1. (continues) Run
+Marketing based on
+measurable KPIbased and
+transparent
+Framework
+
+Communications with
+Stars release
+2. Module #1 Talent
+Support release
+3. Module #11 Brand
+Relations release
+
+1. (continues) Global
+Marketing and PR
+activities targeted at
+all the main TAs
+2. Run Marketing based
+on measurable KPIbased and
+transparent
+Framework
+3. Establish special
+projects and PR
+partnerships to grow
+awareness
+
+32
+
+Scouting
+
+1. Finalize the first
+Cohort Selection
+
+1. Monitor performance,
+adjust assessment
+criteria, prepare for
+contract renewal
+
+1. Set up a predictable
+Scouting process,
+running on a solid and
+measurable basis
+2. Create and maintain
+cohort finalization
+and cohort
+management
+framework
+
+Operations
+
+1. Empower promoters
+with tools and
+information
+2. Build small, agile
+internal advertising
+sales department
+
+1. “Customer Success”
+Organization
+establishment for all
+TAs
+2. Sign sponsorship deal
+(brought by a
+promoter)
+3. Build sales volume
+via internal
+advertising sales
+department
+
+1. Build a network of
+strong
+representatives in the
+most important sport
+and entertainment
+hubs worldwide
+
+Our team is working hard to deliver the modules and other critical system components. Above
+you can find estimations of timeframes for the availability of the main TokenStar Platform
+functional Modules. The information in this table is preliminary and is subject to changes based
+on our team’s discretion. We will make such decisions based on our understanding of what
+brings the most value for the business.
+
+33
+
+Operations / How it works
+6.1.
+
+Promoting Successful Professionals
+
+Celebrities appearing in popular print advertisements and TV commercials is nothing new using a celebrity spokesperson is a strategy that has been widely used throughout history. From
+Britney Spears to Lionel Messi, famous people of all ages help turn a product endorsement into
+a huge part of pop culture.
+Why do celebrities need TokenStars?
+There are lots of great professionals who are promoted poorly by their agencies and aren’t
+exposed to additional opportunities. TokenStars helps celebrities increase their audience and
+grow their social capital.
+What can TokenStars do for celebrities?
+
+
+
+
+
+
+bring new endorsement contracts (additional revenue, on top of their existing revenue)
+sign non-exclusive promotion agreements
+increase the level of fan communication, e.g. online and real-life interaction
+enhance audience involvement
+strengthen the brand and increase the advertising value
+
+We have an internal team responsible for attracting sponsors. TokenStars and Natura Siberica
+have already launched a project with Ekaterina Makarova, Olympics and Wimbledon tennis
+champion! Ekaterina Makarova is ranked No. 3 in WTA doubles, Wimbledon 2017 champion and
+Olympics 2016 champion, and the winner of 15 WTA tournaments. Natura Siberica is the first
+Russian brand of high-quality organic cosmetics with an annual revenue of approximately
+$50M.14
+TokenStars adheres to the standard commission rate of 20% of the celebrities’ net contract
+money (excluding local taxes) and 20-25% of sponsorship revenue (if the sponsor is brought by
+a promoter, the latter receives a 10% commission of the first contract and 2% of all the
+following deals paid in TEAM tokens).
+Some of the most successful collaborations between a brand and a celebrity can bring millions
+of dollars. Here are some cases of successful football player endorsements:
+
+14
+
+https://www.facebook.com/TokenStars/posts/358492834620603
+34
+
+Usually, the higher-ranked the player, the more brands
+are willing to pay.
+
+
+
+
+
+Cristiano Ronaldo has an astonishing lifetime $1
+billion contract with Nike.
+Lionel Messi had a 7-year $140 million deal
+with Adidas which was recently extended to
+lifetime (amount is unknown).
+Neymar has a $105 million 11-year deal with
+Nike.
+
+The estimations of endorsements for the year 2016 are
+provided by Forbes15:
+
+
+
+
+Cristiano Ronaldo earned $35 million that year
+alone (approximately 38% of his total
+earnings).
+German star Mesut Ozil earned $7.5 million
+(approximately 40% of his total earnings).
+
+Here are some more cases of successful football player endorsements:
+Case 1. Korean football sensation Park Ji-Sung, a
+retired football player, serves as a club
+ambassador at Manchester United. He enjoys a
+10-year sponsorship contract with Nike
+($430,000), and advertising contracts with Asiana
+Airlines ($160,000) and Air Asia. The Nike contract
+was the biggest ever awarded to an Asian football
+player as of 2013. Among his past endorsements,
+one might recall a lucrative contract with Gillette
+which put him into their famous “trio of stars”
+commercial, replacing Thierry Henry for
+campaigns across Asia. His total net worth in 2013
+was estimated at $23 million.16
+
+Case 2. Shinji Kagawa, a 25 y.o. Japanese midfielder, currently enjoys a yearly wage of $2.8
+million17 for his superior results at German Borussia Dortmund.
+
+15
+
+https://www.forbes.com/pictures/5924841ba7ea434078d44dcf/the-worlds-highest-paid-s
+http://www.goal.com/en-us/slideshow/2467/11/title/the-goal-rich-list-2013
+17
+http://sillyseason.com/salary/borussia-dortmund-players-salaries-79483/
+16
+
+35
+
+Not to mention that his professional achievements attracted a few lucrative endorsements with
+Audi and Adidas18 totaling approximately $2.6 million.
+
+6.2. Developing Young Talents
+From the age of 8 to the age of 18, before young talents first start earning prize money at
+tournaments or in Hollywood, they need to spend significant amounts of money:
+
+
+
+
+
+
+
+
+
+to travel to tournaments or auditions
+to study at a professional academy
+to train with a professional football/vocal coach
+to record demos
+to buy equipment or musical instruments
+to buy advanced medical insurance
+to relocate to another city or country
+to compensate one of the parents’ lost salaries (e.g., the EU forbids kids under 16 to
+relocate alone, and it does not grant working visas for parents).
+
+Lack of funding is a typical problem which almost all current stars face as juniors. They need
+financial support and career development consulting.
+TokenStars attracts sponsorship contracts and advertisers to young talent. This helps them
+stay in the professional sports & entertainment industries, pursue their dream, and grow social
+capital from the beginning of their careers.
+Read more about tennis costs in the ACE White Paper.
+
+6.3. Involving fans
+Fans no longer just watch. They participate, analyze, critique, deconstruct, fantasize and
+connect with their favorite players and teams in real time. Read more in the TokenStars
+Marketing Strategy.
+
+18
+
+https://www.forbes.com/profile/shinji-kagawa/
+36
+
+Thanks largely to digital innovation, being a sports fan has never been so emotionally charged,
+or fun, as it is today. Over time, as fans have gotten more and more organized, the virtual
+monopolies teams and leagues have enjoyed have been broken. When today’s most important
+superfans talk, teams listen.
+Fans nowadays have a huge impact on the sports industry:
+
+
+
+
+
+
+Multiple fan boycotts have been called to protest the continued use of the Redskins team
+name and logo. Boycotts have even been called for FedEx, which owns the naming rights
+to the Redskins’ stadium.
+Scottish Ranger Union fans hired an analyst to examine the financials of the
+organization’s merchandise deal to discover that little profit was benefiting the club.
+They organized an effective boycott to express their displeasure.
+In Italy, Lazio soccer supporters boycotted a home match against Atalanta in protest of
+President Claudio Lotito’s running the club after the sale of playmaker Anderson
+Hernanes to Inter Milan and a series of bad outings. Only 2,000 tickets were sold in a
+venue that has a capacity of 82,000. The club lost money and had to listen to the fans.
+
+TEAM truly broadens modern fans’ perception of the entertainment experience. Fans earn and
+spend tokens, participating and influencing the careers of celebrities. TokenStars platform
+provides fans with tools to become closer to their idols, including:
+
+
+
+
+
+
+online and real-life interaction with celebrities (e.g., a workout or dinner with a star, oneon-one video chat, etc.)
+voting on significant decisions (approving new players, renewing the Head of Scouting
+contract)
+‘fantasy tournaments’ to select the best Scouts among the token holders
+contests among their fans with prizes (in merchandise or tokens)
+online stores and auctions with celebrities’ personalized goods.
+
+All interactions require TEAM tokens: higher involvement means higher demand for tokens.
+
+To introduce and attract fans to TokenStars platform, we have established partnerships with
+major media (we have signed a partnership deal with major sports media such as Tribuna.digital
+and https://www.sports.ru/ with 12.5 million MAU).
+We put special emphasis on global PR and marketing among the non-geeky sports fans. We will
+make special events (PR conferences, event sponsorships), participated in by our ambassadors,
+become well known by the fan audience.
+
+6.4. Attracting advertisers
+Brands seek a combination of transparent advertising formats and more engaged audiences.
+TokenStars platform provides brands an opportunity to access a highly involved fan audience
+and increase the efficiency of campaigns by implementing advertising smart contracts.
+1.
+
+Each celebrity has a clear profile with detailed information on their followers and
+marketing metrics – insights on followers, available stats and data on previous
+partnerships with advertisers. Platform transparency allows advertisers to choose the
+37
+
+most 'suitable' celebrity to work with. Both successful PROs and rising celebrities can be
+involved in partnership.
+2.
+
+To ensure even higher engagement and interest in the product, the platform allows
+advertisers to merge the celebrity campaign with the e-commerce module. That means
+advertisers can cooperate with celebrities and create online stores within the platform
+with advertised goods and services. Online stores increase product awareness and
+revenue.
+
+3.
+
+TokenStars platform will develop its own technical assets to provide efficient advertising
+options:
+
+
+4.
+
+5.
+
+Internal Data Management Platform (DMP) to collect and analyze information on the
+audience to provide more precise targeting options.
+
+3rd party ad server will allow users to run ads across the platform.
+
+Using exclusive audience data and industry-standard media buying solutions (DSP)
+will give users an opportunity to implement programmatic advertising campaigns.
+The Smart Contract allows users to track campaign efficiency (information on traffic,
+user engagement, user insights) and pass stats to the advertisers' side via an in-housedeveloped ad tech solution.
+The Smart Contract provides lower partnership costs due to absence of intermediators
+and ensures a clear pricing policy. All advertisers will know the final price and list of
+services to be delivered.
+
+38
+
+Financial Projections
+TEAM ecosystem combines different sports & entertainment verticals (except tennis, which is
+covered by ACE token).
+At the first stage we will concentrate on:
+
+
+Stage 1: Football, poker, eSports and hockey.
+
+
+
+Stage 2: Later we will add basketball, movies and music verticals to the TEAM portfolio.
+
+This list may be expanded with other sports and entertainment businesses (baseball, cricket,
+table tennis, golf).
+The approach of having one token for many verticals grants TokenStars flexibility in discovering
+new opportunities and reallocating resources to the most efficient lines of business.
+It will also provide lots of synergies in operations, such as sharing advertising resources or
+simplifying back-office processes (such as legal and accounting).
+
+7.1.
+
+Assumptions
+
+We plan to choose the verticals and form the group of supported stars for the TEAM ecosystem
+according to the following criteria:
+
+
+
+
+
+
+
+
+
+
+Total number of fans worldwide.
+Level of players’ compensation (salary), attractiveness for advertisers and size of
+transfer market.
+Ceilings for agents’ commissions.
+Agent regulation (licenses required, etc.)
+Competition between agencies.
+Probability of athletes’ success (e.g. in boxing or Formula-1, very few athletes manage to
+climb the ladder vs. poker, where thousands can participate in tournaments)
+Total number of athletes in the upper league (only 20 drivers in Formula-1).
+Capital requirements for the early years of training.
+Degree of the sport's openness to outsiders (e.g. sumo seems to be closed for
+newcomers outside Japan).
+
+For the purposes of financial modeling we have split the verticals into two categories, based on
+the key demands of the stars (promotion & representation or funding) and the expected term of
+returns:
+1.
+
+Traditional sports category:
+ Football, basketball, hockey.
+ The vertical attracts a lot of fans worldwide, which provides additional opportunities
+for communication with supporters and advertisers. Besides high salaries, football
+and basketball stars earn a lot from sponsorship deals and bonuses, from 15 to 70%
+of their regular wages (and even more for superstars like Cristiano Ronaldo and
+LeBron James).
+ Long-term development of talent (from junior to pro) & long returns.
+39
+
+
+2.
+
+Major funding requirements at the junior stage are usually covered by professional
+clubs.
+
+Modern sports category:
+
+
+
+
+
+Poker, eSports.
+Stars (talents and even pros) from this category require funding for training and
+participation in tournaments.
+The returns are very fast (3-12 months), compared to the long-term development of
+players in traditional sports.
+Stars’ income in poker and eSports rely primarily on prize money earned at
+tournaments, with only a relatively small part coming from advertising (~5-10%).
+
+7.2. Revenues
+We modeled expected players’ income over the course of their career.19 20 21 22
+For the group of traditional sports stars, we have modeled the average player’s income
+distribution (based on football, hockey and basketball stats), according to their age and
+professional achievements.
+TRADITIONAL SPORTS PLAYER'S INCOME
+income
+\
+player's
+model
+\
+age
+SALARY + BONUSES
+superstar (top-20)
+top-100 player
+average major league player
+unsuccessful player
+SPONSORSHIPS / ADVERTISING
+superstar (top-20)
+top-100 player
+average major league player
+unsuccessful player
+income
+\
+player's
+model
+\
+age
+SALARY + BONUSES
+superstar (top-20)
+top-100 player
+average major league player
+unsuccessful player
+SPONSORSHIPS / ADVERTISING
+superstar (top-20)
+top-100 player
+average major league player
+unsuccessful player
+income
+\
+player's
+model
+\
+age
+SALARY + BONUSES
+superstar (top-20)
+top-100 player
+average major league player
+unsuccessful player
+SPONSORSHIPS / ADVERTISING
+superstar (top-20)
+top-100 player
+average major league player
+unsuccessful player
+
+15
+
+-
+
+16
+
+227,500
+91,000
+-
+
+-
+
+22
+
+17
+
+910,000
+364,000
+21,316
+-
+
+23
+
+24
+
+18
+
+19
+
+20
+
+21
+
+1,820,000
+728,000
+85,263
+-
+
+3,640,000
+1,456,000
+170,526
+-
+
+9,100,000
+3,640,000
+341,053
+-
+
+10,010,000
+4,004,000
+375,158
+-
+
+109,200
+25,480
+1,705
+-
+
+546,000
+127,400
+8,526
+-
+
+2,184,000
+509,600
+27,284
+-
+
+3,603,600
+840,840
+45,019
+-
+
+25
+
+26
+
+27
+
+28
+
+11,830,000
+4,732,000
+443,368
+-
+
+13,650,000
+5,460,000
+511,579
+-
+
+15,470,000
+6,188,000
+579,789
+-
+
+17,290,000
+6,916,000
+648,000
+-
+
+18,200,000
+7,280,000
+682,105
+-
+
+19,110,000
+7,644,000
+716,211
+-
+
+20,020,000
+8,008,000
+750,316
+-
+
+5,678,400
+1,324,960
+70,939
+-
+
+7,371,000
+1,719,900
+92,084
+-
+
+9,282,000
+2,165,800
+115,958
+-
+
+10,374,000
+2,420,600
+129,600
+-
+
+10,920,000
+2,548,000
+136,421
+-
+
+11,466,000
+2,675,400
+143,242
+-
+
+12,012,000
+2,802,800
+150,063
+-
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+TOTAL (USD)
+
+20,930,000
+8,372,000
+784,421
+-
+
+21,840,000
+8,736,000
+818,526
+-
+
+22,750,000
+9,100,000
+852,632
+-
+
+23,660,000
+9,464,000
+886,737
+-
+
+21,840,000
+8,736,000
+818,526
+-
+
+20,020,000
+8,008,000
+750,316
+-
+
+184,047,500
+73,619,000
+6,927,632
+-
+
+12,558,000
+2,930,200
+156,884
+-
+
+13,104,000
+3,057,600
+163,705
+-
+
+13,650,000
+3,185,000
+170,526
+-
+
+14,196,000
+3,312,400
+177,347
+-
+
+13,104,000
+3,057,600
+163,705
+-
+
+12,012,000
+2,802,800
+150,063
+-
+
+99,208,200
+23,148,580
+1,241,432
+-
+
+Revenue assumptions:
+
+https://www.sporcle.com/games/Starlord_V1/top-earners-in-world-football
+https://www.transfermarkt.com/
+21
+http://www.espn.com/espn/story/_/id/9430472/grand-total-youth-hockey
+22
+http://nationalpost.com/sports/hockey/nhl/selling-the-dream-raising-the-next-great-hockey-star-comes-witha-heavy-price-tag
+40
+19
+
+20
+
+
+
+We plan to form the following groups of stars and talents in the next 4-5 years:
+o
+
+Promotion: 40 stars (traditional sports) for promotion and advertising;
+
+o
+
+Funding: 15 talents from traditional sports and 20 from modern sports verticals.
+
+
+
+These numbers are calculated for the scenario of the token sale reaching the hard cap of
+$15,000,000. For a different amount, the model adjusts proportionally).
+
+
+
+TokenStars receives a 20-30% commission (paid in tokens that should be bought on the
+market) from every advertising or sponsorship contract, signed with a star.
+
+
+
+TokenStars adheres to the standard commission rates of 5-10% of the stars’ salaries &
+prize money in traditional sports and 50-80% rates in modern verticals. Before talent
+repays initial funding, TokenStars has a priority right for revenue proceeds (up to 75%).
+
+We’ve made tight assumptions in our baseline scenario: we did not include any superstars in our
+projections and modeled the conservative rates of advertising commissions.
+TRADITIONAL SPORTS CATEGORY
+PROs cohort
+# players
+
+year 1
+
+year 2
+
+year 3
+
+year 4
+
+year 5
+
+year 6
+
+8
+
+20
+
+35
+
+40
+
+40
+
+44
+
+1,181,351
+236,270
+
+5,906,756
+1,181,351
+
+18,950,842
+3,790,168
+
+27,564,861
+5,512,972
+
+35,440,535
+7,088,107
+
+43,316,210
+8,663,242
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+40
+
+PROs cohort players' sponsorship revenue
+TEAM commission from PROs
+
+FUTURE STARS (juniors) cohort
+# players
+superstar (top-20)
+top-100 player
+average major league player
+unsuccessful player
+Future Stars' income
+Salary + Bonuses
+Advertising
+TEAM commission from future stars'
+Salary + Bonuses
+Advertising
+
+players' age
+15
+0
+2
+5
+8
+
+MODERN SPORTS CATEGORY
+# players
+Players' income (prize money)
+TEAM commission'
+
+20
+
+TEAM TOTAL commission
+TEAM TOTAL accumulated commission
+TRADITIONAL SPORTS CATEGORY
+PROs cohort
+# players
+
+40
+
+PROs cohort players' sponsorship revenue
+TEAM commission from PROs
+
+-
+
+-
+
+182,000
+-
+
+728,000
+106,579
+-
+
+1,506,960
+434,842
+-
+
+3,166,800
+895,263
+-
+
+-
+
+-
+
+182,000
+109,200
+109,200
+-
+
+834,579
+500,747
+500,747
+-
+
+1,882,316
+59,486
+749,526
+737,629
+11,897
+
+3,764,632
+297,432
+524,834
+465,348
+59,486
+
+-
+
+-
+
+-
+
+-
+
+13
+845,000
+146,250
+
+-
+
+17
+1,147,500
+223,125
+
+-
+
+5
+300,000
+37,500
+
+8
+500,000
+75,000
+
+20
+1,350,000
+262,500
+
+273,770
+
+1,256,351
+
+4,045,618
+
+6,236,844
+
+8,100,133
+
+9,476,826
+
+273,770
+
+1,530,121
+
+5,575,740
+
+11,812,584
+
+19,912,717
+
+29,389,543
+
+year 7
+
+year 8
+
+year 9
+
+year 10
+
+year 11
+
+48
+
+53
+
+59
+
+65
+
+65
+
+47,647,830
+9,529,566
+
+52,412,614
+10,482,523
+
+57,653,875
+11,530,775
+
+63,989,855
+12,797,971
+
+63,989,855
+12,797,971
+
+20
+
+21
+
+22
+
+23
+
+24
+
+8,299,200
+1,841,684
+10,140,884
+8,985,263
+1,155,621
+815,166
+584,042
+231,124
+
+9,689,680
+2,100,884
+11,790,564
+9,883,789
+1,906,775
+1,023,801
+642,446
+381,355
+
+12,113,920
+2,571,537
+14,685,457
+11,680,842
+3,004,615
+1,360,178
+759,255
+600,923
+
+14,359,800
+3,018,316
+17,378,116
+13,477,895
+3,900,221
+1,656,107
+876,063
+780,044
+
+16,707,600
+3,478,737
+20,186,337
+15,274,947
+4,911,389
+1,975,149
+992,872
+982,278
+
+24
+1,633,500
+317,625
+
+27
+1,796,850
+349,388
+
+29
+1,976,535
+384,326
+
+33
+2,227,500
+433,125
+
+33
+2,227,500
+433,125
+
+10,662,357
+
+11,855,711
+
+13,275,279
+
+14,887,203
+
+15,206,245
+
+40,051,901
+
+51,907,612
+
+65,182,891
+
+80,070,094
+
+95,276,340
+
+22
+1,485,000
+288,750
+
+TOTAL
+
+83,610,917
+
+FUTURE STARS (juniors) cohort
+# players
+superstar (top-20)
+top-100 player
+average major league player
+unsuccessful player
+Future Stars' income
+Salary + Bonuses
+Advertising
+TEAM commission from future stars'
+Salary + Bonuses
+Advertising
+
+players' age
+15
+0
+2
+5
+8
+
+8,714,710
+
+MODERN SPORTS CATEGORY
+# players
+Players' income (prize money)
+TEAM commission'
+
+TEAM TOTAL commission
+TEAM TOTAL accumulated commission
+
+20
+
+41
+
+2,950,714
+95,276,340
+
+Major conclusions:
+
+
+
+The project is estimated to reach breakeven 4 years after launch.
+The accumulated revenue of the TEAM project will reach $95 million within 11 years after
+launch.
+o Most of the revenues are projected to come from advertising commissions (which
+include proceeds from exclusive offers and communications with fans).
+
+7.3. Use of funds
+For the scenario of $15 million in funds raised, 26% will be spent on Tech and platform
+development, 25% on players’ grants, 13% on marketing and 10% on advertising sales.
+
+3%
+9%
+
+Talents' Grants
+
+6%
+
+Tech & IT
+25%
+
+Marketing
+
+4%
+
+Ad Sales
+
+4%
+
+PR
+Scouting (in-house)
+Legal
+
+10%
+
+13%
+
+Management (staff)
+
+26%
+
+Other
+
+42
+
+Token Allocation
+TEAM tokens (Ethereum ERC-20 standard compatible utility tokens) facilitate engagement
+between participants on the platform and serve as a form of access to the platform and its
+internal currency.
+There are 3 ways participants may acquire TEAM tokens:
+1.
+2.
+3.
+
+8.1.
+
+Join the crowdsale.
+Buy tokens later in the crypto exchanges.
+Earn tokens within the platform for performing actions and accomplishing tasks.
+
+Token Allocation
+
+A Token allocation formula has been established to ensure a healthy distribution to:
+
+
+
+
+Crowdsale contributors,
+TokenStars’ employees and advisors, providing long-term motivation,
+Community and network growth activities required to achieve financial and operational
+goals.
+
+The diagram below explains the structure of token allocation:
+
+Contributors
+45,000,000
+60%
+
+Network growth
+& Community 15,000,000
+20%
+
+Max Supply
+75,000,000 TEAMs
+
+Advisors & Team
+15,000,000
+20%
+
+The resulting maximum number of tokens is up to 45,000,000 for the token sale; up to
+15,000,000 for team & advisors; and up to 15,000,000 for network growth. The total Max number
+of created tokens, therefore, is up to 75,000,000.
+
+43
+
+The final number of created tokens will depend on the actual number of TEAM tokens sold
+during the crowdsale. A difference between the maximum possible number of created tokens
+and the number of distributed tokens will not be created.
+
+Tokens distributed to the team and advisors are not immediately tradable. This aligns the
+interests of the team with the long-term technical and business goals of the company. The team
+and advisors’ tokens (20%) will be unlocked according to the following KPI accomplishment:
+
+
+5% - List TEAM tokens on the exchanges;
+
+
+
+5% - Sign first 3 players;
+
+
+
+5% - Sign first 3 advertising contracts;
+
+
+
+5% - Implement the 10 modules of the TokenStars platform.
+
+8.2. Token Disclaimer
+What are TEAM Tokens
+TEAM tokens are software with cryptographic elements that are sold as a utility appliance for
+the TokenStars platform. TEAM tokens are based on the Ethereum protocol and conform to the
+widely-used ERC-20 standard.
+TEAM tokens have their functional utility only within the TokenStars platform, and their creation
+is conditioned by the need to develop an internal economy in the TEAM ecosystem that will
+establish transparent and fair relations among the TEAM community.
+TEAM tokens are intended to be used by their holders only for their designated purposes. The
+number of such purposes may be increased over time, including, but not limited to, by means of
+adding new services and features available in exchange for TEAM tokens.
+TEAM tokens are intended for experts in dealing with cryptographic tokens and blockchainbased software systems.
+
+Use of TEAM Tokens
+Means to use and interact with the TokenStars platform. TEAM tokens carry the backbone
+functions of the TokenStars platform. The full functionality of the TokenStars platform is
+available only for TEAM token holders. We plan to place the TEAM tokens on cryptographic
+token exchanges, giving an opportunity to openly buy them (to residents of countries where the
+purchase of tokens does not violate local laws). A user seeking to enter the TokenStars platform
+will have to buy TEAM tokens at such exchanges. Conversely, TEAM tokens could be sold at an
+exchange if their holder would like to exit the ТЕАМ ecosystem.
+However, legislation on the circulation of securities in certain countries, such as the United
+States of America, People’s Republic of China, Republic of Korea and Singapore, may prohibit the
+sale of TEAM tokens to the residents of those countries. When buying TEAM tokens, the
+purchaser should be aware of the restrictions on their subsequent sale and is thereby obliged to
+follow our instructions and/or those of the exchange when s/he resells them to other users.
+Form of expression of TEAM community opinion. The TokenStars platform will provide TEAM
+token holders with the opportunity to express their opinion regarding the particular operational
+44
+
+issues of the TokenStars business through the decentralized community voting (DCV)
+mechanism, which is described in more detail in section 7.1 of the ACE White Paper.
+These decisions, expressed through the DCV mechanism, will serve as the advisory guidelines
+for the TokenStars management. The agency's management team and executives will
+consistently take the results of TEAM community voting into consideration.
+Form of settlement. TEAM tokens will be used as a form of settlement in the transactions
+conducted within the TokenStars platform. In particular, TEAM token holders will be able to use
+their TEAM tokens to purchase services and products to be offered within the TokenStars
+platform, as specified in Section 7.2 of the ACE White Paper.
+Means to power the TEAM platform's compensation system. The TokenStars platform builds a
+well-balanced motivation system that encourages its agents, specifically Scouts, Promoters and
+Advertisers, to perform their functions better, thereby increasing the effectiveness of the entire
+TEAM ecosystem and its benefits to the TEAM community. To be motivated to use the
+TokenStars platform further, its agents may receive compensation for their active participation
+in the TEAM ecosystem, as described in Sections 6.2 and 6.3 of the ACE White Paper.
+Compensation will be paid in TEAM tokens, which allow the agents to participate in the growth
+of the TEAM ecosystem.
+
+What do TEAM Tokens NOT Represent?
+TEAM tokens are not securities in any jurisdiction. This White Paper does not constitute a
+prospectus or offer document of any sort, is not intended to constitute an offer of securities or a
+solicitation for investment, does not pertain in any way to an initial public offering or a
+share/equity offering, and does not pertain in any way to an offering of securities in any
+jurisdiction. TEAM tokens are not intended to be marketed, offered for sale, purchased, sold, or
+traded in any jurisdiction where they are prohibited by applicable laws or require further
+registration with any applicable governmental authorities.
+TEAM tokens do not represent a loan to the Company. TEAM tokens are neither debt
+instruments or bonds of any kind, nor any other form of loan advanced to the Company.
+Acquisition of TEAM tokens, whether through the Token Sale or otherwise, does not grant to
+token holders any right of claim on Company's financial or any other assets.
+TEAM tokens don’t grant participation in the Company or its assets. TEAM tokens do not
+provide token holders with any ownership or other interest in the Company. Acquisition of TEAM
+tokens does not present an exchange of cryptocurrencies for any form of shares in the Company
+or Company's assets, including intellectual property. Token holders are not entitled to any
+guaranteed form of dividends, revenue distributions, or voting rights.
+TEAM tokens are non-refundable. The Company is not obliged to provide token holders with a
+refund related to TEAM tokens for any reason, and token holders will not receive money or other
+compensation in lieu of a refund. No promises of future performance or value are or will be
+made in respect to TEAM tokens, including no promise of inherent value, no promise of
+continuing payments, and no guarantee that TEAM tokens will hold any particular value.
+
+45
+
+Core Team, Investors & Advisors
+9.1. Celebrity Management Ambassadors
+TokenStars has gathered outstanding sports and entertainment professionals to join the
+project’s advisory board. Here are the key advantages brought by ambassadors:
+1.
+
+Ambassadors share their expertise in sports & entertainment and provide connections
+within the global S&E industry.
+
+2.
+
+Experienced professionals who know the ins and outs of building a successful career
+path, help us select the most promising talents to support.
+
+3.
+
+Globally-recognized ambassadors attract an audience to the TokenStars platform.
+
+Lothar Matthäus /Football/
+
+
+
+
+
+
+
+
+
+
+FIFA World Cup champion (1990).
+UEFA European champion (1980).
+7-time winner of German Bundesliga and 3-time winner of
+German Cup.
+Champion of Italian Serie A championship.
+2-time winner of UEFA Cup (1991, 1996).
+Awarded the Golden Ball (1990) and FIFA World Player of the
+Year (1991).
+Participated in five world championships (’82 - ‘98), holds the
+record for number of matches played for a national team (150).
+
+Tommy Haas /Tennis/
+
+
+
+
+
+
+Career stats: No. 2 in ATP ranking.
+Silver Olympics medalist (Sydney, 2000).
+Winner of 15 international tournaments (incl. 1 Masters).
+Semi-finalist at Wimbledon and Australian Open (3-times).
+Tournament Director at Indian Wells Masters.
+
+Nikita Kucherov /Hockey/
+
+
+
+
+
+
+
+Plays for the Tampa Bay Lightning (NHL) and Russian national
+team.
+No. 1 goal scorer of current NHL season (2017/18).
+Bronze medalist of the World Championship (2017).
+Included in the NHL All-Star team (2017).
+NHL Stats: 125 goals and 268 points.
+
+46
+
+Gianluca Zambrotta /Football/
+
+
+
+
+
+
+
+
+FIFA World Cup champion (2006).
+UEFA European championship silver medalist (2000).
+3-time Italian Serie A champion (’02, ’03, ’11).
+4-time winner of Italian and Spanish Cups.
+2006 FIFA World Cup All-Star Team.
+Played for Juventus, Barcelona, Milan and Italian national team.
+Coaches Jiangsu Suning (China) with Fabio Capello.
+
+Robin Söderling /Tennis/
+
+
+
+
+
+
+Career stats: No. 4 in ATP ranking.
+Roland Garros finalist in 2009, 2010.
+Winner of ATP Masters Finals 2010 and 10 international
+tournaments.
+Ex-Tournament Director at Stockholm Open.
+
+Cedric Pioline /Tennis/
+
+
+
+
+
+Career stats: No.5 in ATP ranking.
+US Open and Wimbledon finalist.
+Winner of 2 Davis Cups.
+Co-Captain and coach of French national team.
+
+Anastasia Myskina /Tennis/
+
+
+
+
+
+Career high: No. 2 in WTA ranking.
+Roland Garros champion (Grand Slam tournament)
+Winner of 2 Federation Cups and 21 international tournaments.
+Captain of Russian FedCup team, VP of the Russian Tennis
+Federation.
+
+47
+
+Valeriy Karpin /Football/
+
+
+
+
+
+
+
+
+Football manager and former professional football player.
+Played for Valencia, Real Sociedad, Celta, Spartak, and Russian
+national team.
+Managed RCD Mallorca and FC Spartak as a head coach.
+Career stats: 122 goals.
+Silver medalist at La Liga (Spanish championship).
+3-time Russian league champion and 2-time winner of Russian
+Cup.
+
+Alexander Anter /Poker/
+
+
+
+
+
+
+
+
+Professional poker player (with 10+ years of experience) and
+Blockchain developer.
+World Series of Poker tournament winner (WSOP-2011) with a
+prize worth $750k.
+Full stack developer, founded his own web development agency.
+Alex is now utilizing Blockchain technology in web applications.
+CTO of RefToken.
+
+Rico Torres /Hollywood/
+
+
+
+
+
+Hollywood photographer with 30 years of experience in the
+movie industry.
+60 movies in portfolio.
+Partnered with Quentin Tarantino, Robert Rodriguez, Ridley
+Scott.
+Made photo shoots of Antonio Banderas, Bruce Willis, Danny
+Trejo, Jessica Alba, Lady Gaga and many others.
+
+Advisors’ Credentials
+The iconic images shot by our ambassador Rico Torres
+
+48
+
+9.2. Sports Advisors
+
+Matheus Antunes, Football Advisor
+
+
+
+
+Business Director at EC Juventude (Brazilian football club.
+Club’s Academy alumni: Thiago Silva, Dante, Alex Telles, Luiz
+Adriano).
+MBA in Football Industries - Management School, University of
+Liverpool.
+
+
+
+Founder / Director at “Well Played” (spots consulting company)
+
+
+
+Former poker manager at iGame Ltd.
+
+Sergey Demekhine, Coaching & Scouting Advisor
+
+
+
+
+
+Tennis coach with 8 years of experience, retired ATP tennis player.
+Vera Zvonareva’s head coach in 2010-2011 (#2 in WTA rankings,
+rising from #22 at the beginning of coaching) - Wimbledon & US
+Open 2010 singles finalist, Australian Open 2011 semifinalist.
+A-level GPTCA certification holder (Global Professional Tennis
+Coach Association).
+
+Maya Kurilova, Talent Management Advisor
+
+
+
+
+
+Former Director of Operations, Octagon Russia (Top 3 global TMA)
+with 11 years of experience in talent management.
+Marketing Manager at Kremlin Cup.
+Agent of Elena Dementieva (Olympic Gold medalist, No. 3 in WTA),
+Ekaterina Makarova (Top 5 WTA Doubles, Champion of Wimbledon,
+Roland Garros, US Open).
+
+Dmitry Sergeev, Sports and Betting Advisor
+
+
+
+
+
+
+
+
+CEO of Bwin Russia, leading the development of the major
+international online betting platform.
+Founder and Managing Director of #1 Russian sports digital media
+Championat.com, part of Rambler&Co group worth $0.6Bn.
+Named as one of the best media managers in Russia (AAA ranking
+from PwC).
+Launched more than 10 startups.
+
+49
+
+9.3. Blockchain Advisors
+Tomoaki Sato, Blockchain engineer
+
+
+
+
+
+
+Founder of Smart Contract Japan, a company providing research
+and consulting services to IT system integrators and financial
+institutions.
+Founder and CEO of decentralized token based crowdfunding
+platform Starbase Co.
+Held several tech meetups with Sony, Microsoft and blockchain
+startups.
+
+Wulf Kaal, Blockchain advisor
+
+
+
+
+
+
+Leading expert at the intersection of law, business, and technology.
+Advises crypto companies, crypto startups, venture capital funds,
+and international policymakers on blockchain-based solutions in
+FinTech and LegalTech.
+Director of the Private Investment Fund Institute (PIFI).
+Previously – associate at Cravath, Swain & Moore LLP (NY) and
+Goldman Sachs (London).
+
+Edgar Kampers, Blockchain advisor
+
+
+
+
+Chief Currency Officer at Qoin, where he focuses on policy strategy,
+monetary design, legal advice and compliance, fundraising, as well
+as monitoring and research.
+Long experience in assisting authorities, SMEs and citizens to use
+community currencies to reach social inclusion, build community,
+stimulate economic development and ecological balance.
+
+Nikolay Danilov, Blockchain advisor
+
+
+
+
+
+
+
+
+Co-founder and CTO of Decentralized Systems, a blockchain
+software development company that builds systems based on the
+Hyperledger Fabric and develops Solidity smart contracts.
+ex-Head of Advertising Products and Technology Sales at Yandex
+(2011-2015).
+Technology executive specializing in adtech with more than 25
+years of experience.
+Extensive experience in running distributed cross-disciplinary
+teams in big data, machine learning and high load systems.
+
+50
+
+9.4. Investors
+Elena Masolova, Investor
+
+
+
+
+
+
+Serial entrepreneur with 3 exits, founder at Groupon Russia (from
+$0 to $15M in monthly revenue in 450 days), Pixonic, Eduson and
+AddVenture Fund.
+Elena was named among the Top 30 internet entrepreneurs by
+Forbes, 30 under 30 with Alex Ovechkin. Featured in WSJ,
+BusinessWeek, Forbes, RBC, Channel 1.
+Prizewinner at amateur tennis tournaments as a junior, lifelong
+tennis fan.
+
+Andrej Rusakov, Investor & Business Advisor
+
+
+
+
+
+
+
+
+
+Investor and serial entrepreneur who has launched and financed
+companies in the fields of big data and artificial intelligence,
+technology, and branded consumer goods.
+Co-founding partner and seed investor in Data Capital
+Management, a hedge fund leveraging cognitive computing,
+advanced artificial intelligence and big data technologies.
+Worked at Apax Partners, where he was involved in c. $1 billion
+worth of buy-outs worldwide (Technology Investment Team).
+Worked in the M&A team at Morgan Stanley.
+MBA from Harvard Business School and MSc. in Applied
+Mathematics from Moscow State University.
+
+Victor Shpakovsky, Investor
+
+
+
+
+Co-founder and Managing Partner at The Token Fund (Civic, Storj,
+Tezos, Qtum in portfolio).
+A tennis fan.
+
+The Token Fund, Investor
+
+
+The Token Fund provides an opportunity for investors looking for
+the simplest way to get into the decentralized economy.
+
+
+
+Civic, Storj, Tezos, Qtum in portfolio.
+
+
+
+AUM =$3.5 million
+
+51
+
+Nomadic Capital, Investor
+
+
+
+
+Investment fund and incubator, building an ecosystem for
+innovative digital and blockchain projects in the UAE and
+GCC/MENA.
+Automat, Pushdot, Snapp, Einvite in portfolio.
+
+9.5. Core Team & Business advisors
+Pavel Stukolov, CEO
+
+
+
+
+Investment professional, ex-M&A and Strategy director for media
+business in JSFC Sistema with total valuation of assets exceeding
+$95 million.
+Pavel closed deals worth $250 million in venture investments,
+M&A and debt fundraising.
+
+Irina Shashkina, CMO
+
+
+CMO at Groupon Russia (operations in 53 cities).
+
+
+
+Biz Dev Executive at Rambler&Co ($0.6bn market cap).
+
+
+
+CEO at LinguaLeo.
+
+Evgeniy Potapov, CTO
+
+
+
+
+10 years of experience as the Founder & CEO at IT Summa, a 60employee DevOps company with offices in Russia and San
+Francisco, CA.
+IT Summa provides a full package of DevOps support and
+infrastructure management services around the world. The client
+list of IT Summa includes more than 300 companies.
+
+52
+
+Aler Denisov, Smart-contract Developer
+
+
+
+
+
+
+
+
+Software Engineer with 10+ years of experience in commercial
+development.
+Participated in and managed the development of software for
+leading brands: Sberbank, RZD, aircraft building companies.
+Core developer of an open-source library to construct corporate
+blockchains: exonum-bootstrap, participated in the development
+and advised projects: Brat, Edem, Proof-of-Status.
+A key speaker on the subject of smart contracts and decentralized
+applications at Cryptoacademy.
+
+Mikhail Zak, COO
+
+
+
+
+14 years of marketing management experience at Mars, PepsiCo,
+Mondelez and others.
+Strategic brand management at Snickers, Lay’s, Jacobs and
+Holsten brands.
+
+
+
+Founded and successfully sold e-commerce startup.
+
+
+
+Consulting projects in marketing and fundraising.
+
+
+
+PhD degree in Economics.
+
+Madina Hooke, Head of Sponsorships
+
+
+COO at Visual DNA, Former Regional Director at Groupon Russia.
+
+
+
+Commercial Director at Gruppo Mall (Spain) Russia.
+
+
+
+Started career with travel agency which successfully sold in 2007.
+
+
+
+Lived and worked in Spain and Belgium for several years.
+
+Ksenia Chabanenko, Marketing & PR Advisor
+
+
+
+
+
+
+Former VP Communications & BizDev at Mail.ru Group and My.com
+(LSE: MAIL, $8.9Bn market cap).
+Founder of an award-winning A-TAK communication agency
+working with IT startups and companies to achieve their business
+goals with PR, digital, and events forces.
+Author of the first book about Twitter, every sentence of which
+was no more than 140 characters.
+
+53
+
+Alexander Stratilatov, Advertising & Brand Partnerships Advisor
+
+
+
+
+JAMI co-founder and managing partner (top-5 Russian digital
+agency, winner of international awards: Tagline, Silver Mercury,
+NeForum)
+Alexander personally led agency’s key accounts: Samsung, CocaCola, Sprite, Powerade, VW.
+
+Mikhailius Derkach, Design Advisor
+
+
+
+
+
+
+
+Ex-Art Director of LeoBurnett Moscow, Member of Art Directors
+Club Russia.
+Winner of Cannes Lions awards.
+Founder of ProExpedition Adventures Journal. Took part in digital
+projects that gained recognition in Russia and around the world at
+numerous marketing and advertising festivals.
+Author of many advertising works in renowned campaigns for
+these companies: Google, Samsung, McDonald’s, Lego, P&G, CocaCola, Mercedes-Benz, Mitsubishi, JTI, Citibank, WWF and others.
+
+Eugeny Kuznetsov, Advertising and Brand Partnerships Advisor
+
+
+
+
+User Acquisition & Retention expert
+Investor and CMBO (Chief Business Model Officer) at Welltory
+Founded WIM – CRM agency with clients including S7 Airlines,
+UTair, M.Video, and Philip Morris.
+
+Irina Soshinskaya, Localizations Manager
+
+
+
+
+Ex-GM and head of localization of Evernote Russia (over 200M
+users worldwide, website localised to 23 languages).
+Earlier – GM at startups in decorative commercial lighting and real
+estate.
+
+54
+
+Lena Minz, Head of PR
+
+
+PR Jedi with 10+ years of professional experience.
+
+
+
+Ex-head of strategic PR projects at Mail.Ru Group.
+
+
+
+Co-founded the award-winning A-TAK communications agency.
+
+Nick Gigoriev, Head of Community Management
+
+
+
+Has worked in communications since 1999.
+Founder and CEO of Mediurg digital agency, which helped establish
+the first total social support systems for companies like Tele2,
+Mail.Ru Group, and Rostelecom.
+
+55
+
+TokenStars achievements
+10.1. Based on ACE token Sale success
+TEAM token sale is based on the success of the ACE token sale. ACE is the token for the tennis
+vertical. It is an integral part of the TokenStars business and ecosystem. A lot of technological
+solutions and business processes are synergetic.
+ACE project (and business vertical) managed to show good traction:
+1.
+
+Signed first tennis players for advertising representation:
+
+
+Veronika Kudermetova, 20 years old, the winner of 19 WTA & ITF tournaments,
+currently No. 66 in WTA doubles.
+ Ekaterina Makarova, current No. 3 in WTA doubles, Olympic Champion (2016), winner
+at Wimbledon.
+ Worked with 4 current top-100 players under non-exclusive conditions for
+advertising deals.
+2. Built a strong international advisory board to search for players in different geographies,
+to advise on local training academies, and to promote TokenStars for attracting
+prospective talents and a broader audience.
+
+
+
+
+
+Tommy Haas, No. 2 in ATP ranking. Silver Olympics medalist (Sydney, 2000).
+Anastasia Myskina, No. 2 in WTA ranking. Roland Garros champion.
+Robin Söderling, Swedish tennis star, No. 4 in ATP.
+Cedric Pioline, No. 5 in ATP ranking. Winner of 2 Davis Cups as a player and one as a
+captain (2017).
+ Maya Kurilova, former Director of Operations at Octagon Russia (Top-3 global Talent
+Management Agency).
+3. Built a steady international pipeline of applications from young tennis talents. Found the
+first potential professional tennis scouts for the platform.
+4. Signed the first marketing deal for Ekaterina Makarova (with Natura Siberica cosmetics
+brand, $50M revenue) and started collaboration with the top-3 digital agency JAMI (to
+leverage their brand network and sales force).
+5. Has shown a strong presence in the media and received multiple endorsements.
+
+56
+
+6. Launched platform development. The 1st of 12 modules was launched in Q4 2017, as
+planned.
+
+More information on ACE achievements is available in our blog posts:
+
+
+
+
+On the 15 achievements (Aug, 25) – https://medium.com/@TokenStars/15-good-newsfrom-tokenstars-c1cbe7832864
+On the results of the token sale (Oct, 30) – https://medium.com/@TokenStars/httpsmedium-com-tokenstars-join-the-team-10-news-from-tokenstars-98464eb711ed
+ACE listed on OKEx trading platform https://www.facebook.com/OKExOfficial/photos/a.1499846383409123.1073741829.141
+8774981516264/1624745297585897/?type=3&theater
+
+57
+
+TokenStars Corporate Structure
+TEAM tokens are created by TokenStars Group Limited, BVI ("Company"), a business company
+incorporated in the British Virgin Islands with company number 1953160. Main purpose of
+Company is to organize and conduct the sale of TEAM tokens in order to arrange financing of
+TEAM Project.
+The TokenStars platform will be developed and operated principally by Company and its
+affiliates, including TokenStars Limited, a business company incorporated in Cyprus. Together
+these companies will develop the TokenStars platform and foster a community around the
+TokenStars platform.
+
+58
+
+Disclaimer
+The information set forth in this White Paper may not be exhaustive and does not imply any
+elements of a contractual relationship. The content of this White Paper is not binding for
+Company and is subject to change in line with ongoing research and development of the
+Platform. This White Paper does not constitute an investment, legal, tax, regulatory, financial,
+accounting or other advice, and this White Paper is not intended to provide the sole basis for any
+evaluation of a transaction on acquisition of TEAM tokens. Prior to acquiring TEAM tokens, a
+prospective purchaser should consult with his/her own legal, investment, tax, accounting, and
+other advisors to determine the potential benefits, burdens, and other consequences of such a
+transaction.
+Nothing in this White Paper shall be deemed to constitute a prospectus of any sort or a
+solicitation for investment, nor does it in any way pertain to an offering or a solicitation of an
+offer to buy any securities in any jurisdiction. This document is not composed in accordance
+with, and is not subject to, laws or regulations of any jurisdiction which prohibit or in any
+manner restrict transactions in respect of, or with use of, digital tokens.
+Certain statements, estimates and financial information contained in this White Paper constitute
+forward-looking statements or information. Such forward-looking statements or information
+involve known and unknown risks and uncertainties which may cause actual events or results to
+differ materially from the estimates or the results implied or expressed in such forward-looking
+statements or information.
+TEAM tokens are not being offered or distributed to, as well as cannot be resold or otherwise
+alienated by their holders to, citizens of, natural and legal persons, having their habitual
+residence, location or their seat of incorporation (i) in the United States of America (including its
+states and the District of Columbia), Puerto Rico, Virgin Islands of the United States, any other
+possessions of the United States of America, or (ii) in a country or territory where transactions
+with digital tokens are prohibited or in any manner restricted by applicable laws or regulations.
+If such a restricted person purchases TEAM tokens, such a restricted person has done so on an
+unlawful, unauthorized and fraudulent basis and in this regard shall bear negative
+consequences.
+Company neither offers or distributes TEAM tokens nor carries on business (activity) in any
+regulated activity in Singapore, in People’s Republic of China, Republic of Korea or in other
+countries and territories where transactions in respect of, or with use of, digital tokens fall
+under the restrictive regulations or require from Company to be registered or licensed with any
+applicable governmental authorities.
+Each purchaser of TEAM tokens is reminded that this White Paper has been presented to
+him/her on the basis that s/he is a person into whose attention the document may be lawfully
+presented in accordance with the laws of the purchaser's jurisdiction. It is the responsibility of
+each potential purchaser of TEAM tokens to determine if the purchaser can legally purchase
+TEAM tokens in the purchaser's jurisdiction and whether the purchaser can then resell TEAM
+tokens to another purchaser in any given jurisdiction.
+This English language White Paper is the primary official source of information about the TEAM
+project. The information contained herein may from time to time be translated into other
+languages. In the course of such translation, some of the information contained herein may be
+lost, corrupted, or misrepresented. The accuracy of such alternative communications cannot be
+59
+
+guaranteed. In the event of any conflicts or inconsistencies between such translations, this
+official English language White Paper, and the provisions of this English language original
+document shall prevail.
+
+60
+
+Appendix
+Risk Factors
+The acquisition of TEAM tokens involves a high degree of risk. Each potential purchaser of TEAM
+tokens should carefully consider the following information about these risks before s/he
+decides to buy TEAM tokens. If any of the following risks actually occurs, the TEAM platform and
+the value of the TEAM tokens could be materially adversely affected.
+The risks and uncertainties described below in this White Paper may not be the only ones token
+holders face. Additional risks and uncertainties may also materially adversely affect the TEAM
+Platform or the value of the TEAM tokens.
+
+1.
+
+RISKS CONNECTED TO THE VALUE OF TEAM TOKENS
+
+
+No Rights, Functionality or Features. Tokens do not have any rights, uses, purpose,
+attributes, functionalities or features, express or implied, including, without limitation,
+any uses, purpose, attributes, functionalities or features on the TEAM platform. Company
+Parties do not guarantee and are not representing in any way to Buyer that the Tokens
+have any rights, uses, purpose, attributes, functionalities or features.
+
+
+
+Lack of Development of Market for TEAM tokens. Because there has been no prior
+public trading market for the Tokens, the Token sale may not result in an active or liquid
+market for the Tokens, and their price may be highly volatile. Even if the Tokens are
+tradable in a secondary market, in practice, there may not be enough active buyers and
+sellers or the bid-ask spreads may be too wide. The Token holders may not be able to exit
+their token holdings easily. In the worst-case scenario where no secondary market
+develops, a Token holder may not be able to liquidate his/her token holdings at all.
+Exchanges or platforms that facilitate secondary trading of the Tokens may not be
+regulated by the applicable laws.
+
+
+
+Risks Related to Highly Speculative Traded Price. The valuation of digital tokens in a
+secondary market is usually not transparent, and highly speculative. The Tokens do not
+hold any ownership rights to Company’s assets and, therefore, are not backed by any
+tangible asset. The traded price of the Tokens can fluctuate greatly within a short period
+of time. There is a high risk that a Token holder could lose his/her entire contribution
+amount. In the worst-case scenario, the Tokens could be rendered worthless.
+
+
+
+TEAM Tokens May Have No Value. TEAM tokens may have no value and there is no
+guarantee or representation of liquidity for TEAM tokens. Company is not and shall not be
+responsible for or liable for the market value of TEAM tokens, the transferability and/or
+liquidity of TEAM tokens and/or the availability of any market for TEAM tokens through
+third parties or otherwise.
+
+
+
+Tokens are Non-Refundable. Company is not obliged to provide Token holders with a
+refund related to the Tokens for any reason, and Token holders will not receive money or
+other compensation in lieu of a refund. No promises of future performance or price are or
+will be made in respect to the Tokens, including no promise of inherent value, no promise
+61
+
+of continuing payments, and no guarantee that the Tokens will hold any particular value.
+Therefore, the recovery of spent resources may be impossible or may be subject to
+foreign laws or regulations, which may not be the same as the private law of the Token
+holder.
+
+2. BLOCKCHAIN AND SOFTWARE RISKS
+2.1 Blockchain Delay Risk. On the Bitcoin and Ethereum blockchains, timing of block
+production is determined by proof of work so block production can occur at random
+times. For example, the Cryptocurrency transferred in the final seconds of a distribution
+period during the Token Presale or the Token Sale may not get included for that period.
+Buyer acknowledges and understands that the Bitcoin or Ethereum blockchain may not
+include the Buyer’s transaction at the time Buyer expects and Buyer may not receive the
+Tokens in this regard.
+2.2 Blockchain Congestion Risk. The Bitcoin and Ethereum blockchains are prone to periodic
+congestion during which transactions can be delayed or lost. Individuals may also
+intentionally spam the respective network in an attempt to gain an advantage in
+purchasing cryptographic tokens. Buyer acknowledges and understands that Bitcoin or
+Ethereum block producers may not include Buyer’s transaction when Buyer wants or
+Buyer’s transaction may not be included at all.
+2.3 Risk of Software Weaknesses. The concept of a token smart contract which creates the
+mechanism of creation and distribution of TEAM Tokens (“Token Smart Contract”), the
+underlying software application and software platform (i.e. the Ethereum blockchain) are
+still in an early development stage and unproven. There is no representation and
+warranty that the process for creating the TEAM tokens will be uninterrupted or errorfree. There is an inherent risk that the software could contain weaknesses, vulnerabilities
+or bugs causing, inter alia, the complete loss of the cryptocurrency and/or the TEAM
+tokens.
+2.4 Risk of New Technology. The Platform, the Tokens and all of the matters set forth in this
+White Paper are new and untested. The Platform and the Tokens might not be capable of
+completion, creation, implementation or adoption. It is possible that no blockchain
+utilizing the Platform will ever be launched. Buyer of Tokens should not rely on the
+Platform, the Token Smart Contract or the ability to receive tokens associated with the
+Platform in the future. Even if the Platform is completed, implemented and adopted, it
+might not function as intended, and any Tokens may not have functionality that is
+desirable or valuable. Also, technology is changing rapidly, so the Platform and the
+Tokens may become outdated.
+
+3. SECURITY RISKS
+3.1. Risk of Loss of Private Keys. The Tokens purchased by Buyer may be held by Buyer in
+Buyer’s digital wallet or vault, which requires a private key, or a combination of private
+keys, for access. Accordingly, loss of requisite private keys associated with such Buyer’s
+digital wallet or vault storing the Tokens will result in loss of such Tokens, access to
+62
+
+Buyer’s Token balance and/or any initial balances in blockchains created by third parties.
+Moreover, any third party that gains access to such private keys, including by gaining
+access to login credentials of a hosted wallet or vault service the buyer uses, may be able
+to misappropriate the Buyer’s Tokens. Company Parties are not responsible for any such
+losses.
+3.2. Lack of TEAM Token Security. The Tokens may be subject to expropriation and or/theft.
+Hackers or other malicious groups or organizations may attempt to interfere with the
+Token Smart Contract or the Tokens in a variety of ways, including, but not limited to,
+malware attacks, denial of service attacks, consensus-based attacks, Sybil attacks,
+smurfing and spoofing. Furthermore, because the Ethereum platform rests on open
+source software, there is the risk that Ethereum smart contracts may contain intentional
+or unintentional bugs or weaknesses which may negatively affect the Tokens or result in
+the loss of Tokens, and loss of the ability to access or control the Tokens. In the event of
+such a software bug or weakness, there may be no remedy and holders of the Tokens are
+not guaranteed any remedy, refund or compensation.
+3.3. Risk of Ethereum Mining Attacks. The blockchain used for the Token Smart Contract is
+susceptible to mining attacks, including double-spend attacks, majority mining power
+attacks, "selfish-mining" attacks, and race condition attacks. Any successful attacks
+present a risk to the Token Smart Contract, expected proper execution and sequencing of
+the Token transactions, and expected proper execution and sequencing of contract
+computations.
+3.4. Failure to Map a Public Key to Buyer’s Account. Failure of Buyer of the TEAM tokens to
+map a public key to such Buyer’s account may result in third parties being unable to
+recognize buyer’s TEAM token balance on the Ethereum blockchain when and if they
+configure the initial balances of a new blockchain based upon the TEAM platform.
+3.5. Risk of Incompatible Wallet Service. The wallet or wallet service provider used for the
+acquisition and storage of the TEAM tokens has to be technically compatible with the
+TEAM tokens. Failure to assure this may have the result that Buyer of the TEAM tokens
+will not gain access to his or her TEAM tokens.
+
+4. RISKS RELATING TO TEAM PLATFORM DEVELOPMENT
+4.1. Risk Related to Reliance on Third Parties. Even if completed, the Platform will rely, in
+whole or partly, on third parties to adopt and implement it and to continue to develop,
+supply, and otherwise support it. There is no assurance or guarantee that those third
+parties will complete their work, properly carry out their obligations, or otherwise meet
+anyone’s needs, all of might have a material adverse effect on the Platform.
+4.2. Dependence of Platform on Senior Management Team. The ability of the TEAM project
+team which is responsible for maintaining competitive position of the Platform is
+dependent to a large degree on the services of a respective senior management team.
+The loss or diminution in the services of members of the respective senior management
+63
+
+team or an inability to attract, retain and maintain additional senior management
+personnel could have a material adverse effect on the Platform. Competition for
+personnel with relevant expertise is intense due to the small number of qualified
+individuals, and this situation seriously affects the ability to retain its existing senior
+management and attract additional qualified senior management personnel, which could
+have a significant adverse impact on the Platform.
+4.3. Dependence of Platform on Various Factors. The development of the Platform may be
+abandoned for a number of reasons, including lack of interest from the public, lack of
+funding, lack of commercial success or prospects, or departure of key personnel.
+4.4. Lack of Interest to the Platform. Even if the Platform is finished and adopted and
+launched, the ongoing success of the Platform relies on the interest and participation of
+third parties like developers. There can be no assurance or guarantee that there will be
+sufficient interest or participation in the Platform.
+4.5. Changes to the Platform. The Platform is still under development and may undergo
+significant changes over time. Although Company Parties intend for the Platform to have
+the features and specifications set forth in this White Paper, changes to such features
+and specifications can be made for any number of reasons, any of which may mean that
+the Platform does not meet expectations of Buyer of the Tokens.
+4.6. Risk associated with Other Applications. The Platform may give rise to other,
+alternative projects, promoted by unaffiliated third parties, under which the Token will
+have no intrinsic value.
+4.7. Risk of an Unfavorable Fluctuation of Cryptocurrency Value. The proceeds of the sale
+of the Tokens will be denominated in cryptocurrency, and may be converted into other
+cryptographic and fiat currencies. If the value of cryptocurrencies fluctuates unfavorably
+during or after the Token Presale or the Token Sale, Company Parties may not be able to
+fund development, or may not be able to develop or maintain the Platform in the manner
+intended.
+
+5. RISKS ARISING IN COURSE OF COMPANY PARTIES' BUSINESS
+5.1. Risk of Conflicts of Interest. Any Company Party may be engaged in transactions with
+related parties, including a respective majority shareholder, companies controlled by
+him/her or in which s/he owns an interest, and other affiliates, and may continue to do
+so in the future. Conflicts of interest may arise between any Company Party affiliates and
+respective Company Party, potentially resulting in the conclusion of transactions on
+terms not determined by market forces.
+5.2. Risks Related to Invalidation of Company Parties’ Transactions. Company Parties have
+taken a variety of actions relating to its business that, if successfully challenged for not
+complying with applicable legal requirements, could be invalidated or could result in the
+imposition of liabilities on respective Company Party. Since applicable legislation may
+subject to many different interpretations, respective Company Party may not be able to
+64
+
+successfully defend any challenge brought against such transactions, and the
+invalidation of any such transactions or imposition of any such liability may, individually
+or in the aggregate, have a material adverse effect on the Platform.
+5.3. Risk Arising from Emerging Markets. Company Parties or some of them may operate in
+emerging markets. Emerging markets are subject to greater risks than more developed
+markets, including significant legal, economic and political risks. Emerging markets are
+subject to greater risk than more developed markets, including in some cases significant
+legal, economic and political risks. Emerging economies are subject to rapid change and
+the information set out in this White Paper may become outdated relatively quickly.
+
+6. GOVERNMENTAL RISKS
+6.1. Uncertain Regulatory Framework. The regulatory status of cryptographic tokens, digital
+assets, and blockchain technology is unclear or unsettled in many jurisdictions. It is
+difficult to predict how or whether governmental authorities will regulate such
+technologies. It is likewise difficult to predict how or whether any governmental
+authority may make changes to existing laws, regulations and/or rules that will affect
+cryptographic tokens, digital assets, blockchain technology and its applications. Such
+changes could negatively impact the Tokens in various ways, including, for example,
+through a determination that the tokens are regulated financial instruments that require
+registration. Company may cease the distribution of the tokens, the development of the
+Platform or cease operations in a jurisdiction in the event that governmental actions
+make it unlawful or commercially undesirable to continue to do so.
+6.2. Failure to Obtain, Maintain or Renew Licenses and Permits. Although as of the date of
+starting of the Token Presale there are no statutory requirements obliging Company of
+the Tokens to receive any licenses and permits necessary for carrying out its activity,
+there is the risk that such statutory requirements may be adopted in the future and may
+relate to any of Company Parties. In this case, Company Parties' business will depend on
+the continuing validity of such licenses and permits and its compliance with their terms.
+Regulatory authorities will exercise considerable discretion in the timing of license
+issuance and renewal and the monitoring of licensees’ compliance with license terms.
+Requirements which may be imposed by these authorities and which may require any
+Company Party to comply with numerous standards, recruit qualified personnel, maintain
+necessary technical equipment and quality control systems, monitor our operations,
+maintain appropriate filings and, upon request, submit appropriate information to the
+licensing authorities, may be costly and time-consuming and may result in delays in the
+commencement or continuation of operation of the Platform. Further, private individuals
+and the public at large possess rights to comment on and otherwise engage in the
+licensing process, including through intervention in courts and political pressure.
+Accordingly, the licenses any Company Party may need may not be issued or renewed, or
+if issued or renewed, may not be issued or renewed in a timely fashion, or may involve
+requirements which restrict any Company Party's ability to conduct its operations or to
+do so profitably.
+65
+
+6.3. Risk of Government Action. The industry in which Company Parties operate is new, and
+may be subject to heightened oversight and scrutiny, including investigations or
+enforcement actions. There can be no assurance that governmental authorities will not
+examine the operations of Company Parties and/or pursue enforcement actions against
+them. All of this may subject Company Parties to judgments, settlements, fines or
+penalties, or cause Company Parties to restructure their operations and activities or to
+cease offering certain products or services, all of which could harm Company Parties'
+reputation or lead to higher operational costs, which may, in turn, have a material
+adverse effect on the Tokens and/or the development of the Platform.
+6.4. Risk of Burdensomeness of Applicable Laws, Regulations, and Standards. Failure to
+comply with existing laws and regulations or the findings of government inspections or
+increased governmental regulation of Company Parties’ operations could result in
+substantial additional compliance costs or various sanctions, which could materially
+adversely affect Company Parties’ business and the Platform. Company Parties’
+operations and properties are subject to regulation by various government entities and
+agencies, in connection with ongoing compliance with existing laws, regulations and
+standards. Regulatory authorities exercise considerable discretion in matters of
+enforcement and interpretation of applicable laws, regulations and standards.
+Respective authorities have the right to, and frequently do, conduct periodic inspections
+of any Company Party's operations and properties throughout the year. Any such future
+inspections may conclude that any Company Party has violated laws, decrees or
+regulations, and it may be unable to refute such conclusions or remedy the violations.
+Any Company Party's failure to comply with existing laws and regulations or the findings
+of government inspections may result in the imposition of fines or penalties or more
+severe sanctions, or in requirements that respective Company Party cease certain of its
+business activities, or in criminal and administrative penalties applicable to respective
+officers. Any such decisions, requirements or sanctions, or any increase in governmental
+regulation of our operations, could increase Company Parties’ costs and materially
+adversely affect Company Parties’ business and the Platform.
+6.5. Unlawful or Arbitrary Government Action. Governmental authorities may have a high
+degree of discretion and, at times, act selectively or arbitrarily, without hearing or prior
+notice, and sometimes in a manner that is contrary to law or influenced by political or
+commercial considerations. Moreover, the government also has the power in certain
+circumstances, by regulation or government act, to interfere with the performance of,
+nullify or terminate contracts. Unlawful, selective or arbitrary governmental actions have
+reportedly included the denial or withdrawal of licenses, sudden and unexpected tax
+audits, criminal prosecutions and civil actions. Federal and local government entities
+have also used common defects in matters surrounding the Token Sale as pretexts for
+court claims and other demands to invalidate or to void any related transaction, often for
+political purposes. In this environment, Company Parties’ competitors may receive
+preferential treatment from the government, potentially giving them a competitive
+advantage over Company Parties.
+
+66
+
+

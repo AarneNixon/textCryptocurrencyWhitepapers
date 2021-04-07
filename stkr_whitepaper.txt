@@ -1,0 +1,1250 @@
+Stkr
+// A protocol for decentralized
+proof-of-stake
+infrastructure
+By Ankr
+
+// Version 1.0.0
+BY ANKR
+
+Abstract
+
+Stkr is a decentralized proof-of-stake (PoS) based infrastructure that creates a global
+market for computational power and storage. These resources can be combined and
+used to carry out any predefined task that requires any capacity (i.e., processing power,
+storage, and bandwidth). Unfortunately, today such resources are provided by either
+closed networks or central cloud providers.
+By using a peer-2-peer mesh network, the Stkr infrastructure offers a practical,
+immediately viable alternative that can enable direct payments using ANKR tokens on
+Ethereum between users (also called “requesters”) and providers of those resources in
+an efficient, environment friendly, and competitive market.
+For the initial release (MVP), the infrastructure will utilize Ethereum 2.0 (e.g., full nodes,
+wallet providers, exchanges) for staking, but the mission is to expand to all other
+significant blockchain platforms as well as conventional systems. Using this approach,
+the infrastructure allows users to earn staking rewards based on their ETH and ANKR
+holdings without having to maintain an extensive staking infrastructure.
+The Stkr infrastructure enables requesters to run nodes for different protocols,
+without the need to study any technical documentation or requiring any technical
+knowledge. Just plug and play! Further, this platform has a great potential to create
+a comprehensive marketplace that fulfills the needs of cloud providers and staking
+enthusiasts. The infrastructure ensures quality service provision of node hosting via
+
+// Stkr
+
+management by the Stkr governance.
+
+2
+
+1 	Introduction
+
+4
+
+2 	What the Stkr infrastructure solves
+
+5
+
+3
+
+Our architecture
+
+6
+
+3.1
+
+Entities
+
+6
+
+3.2
+
+Smart contracts in the Stkr infrastructure
+
+9
+
+3.3
+
+The role of ANKR tokens	
+
+10
+
+3.4
+
+The main functionalities of the Stkr infrastructure
+
+10
+
+3.5
+
+A simple example of profit distribution
+
+15
+
+3.6
+
+Penalty conditions
+
+15
+
+3.7
+
+Conversion of the value generated on PoS for Ethereum 2.0
+
+16
+
+4 	Dynamic scoring for P2P credit checking
+
+17
+
+5 	Cost and benefit analysis of participants
+
+18
+
+5.1
+
+For requesters
+
+18
+
+5.2
+
+For providers
+
+18
+
+5.3
+
+Governance
+
+19
+
+5.4
+
+Participants in the investment staking pool
+
+19
+
+6 	Future potential projects on the Stkr infrastructure
+
+20
+
+References
+
+22
+
+// Stkr
+
+Contents
+
+3
+
+1 	Introduction
+
+Interest in proof-of-stake (PoS) technology has been growing quite rapidly (e.g., Ethereum 2.0, Tezos,
+Dash, Tron, Neo, Cosmos, VeChain, Ontology, Polkadot, Cardano, Kava, Band, Chainlink, Algorand,
+Storj, Matic). Ethereum will also soon migrate to Ethereum 2.0 and in doing so will replace proof-of-work
+(PoW) with PoS[1, 2, 3]. Also, there exists some PoS based platforms for outsourced computations via
+excess computational power of users. We highlight that many computers use less than 5% of their CPU
+power the most of the time. However, the main drawback of those PoS based systems is that there is no
+usable staking platform to encourage community to be part of the consensus. In fact, we can further list
+their crucial drawbacks as follows:
+›
+
+Existing staking platforms are assumed to be fully trusted today, but unfortunately are vulnerable to
+single-point-of-failure due to centralization. Namely, a corrupted centralized system can easily wipe
+out the funds of the users. To prevent such cases, some blockchains have already implemented their
+own delegation methods without transferring ownership of user tokens (e.g., Tezos). In this scenario,
+the users only delegate rights to validators while the tokens remain under control in their wallets.
+However, Ethereum 2.0 does not provide such a delegation process.
+
+›
+
+The existing centralization results in security and privacy issues where the servers can observe
+private data, manage rules, and even manipulate every computation.
+
+›
+
+The costs related to centralized servers can force clients to pay higher fees, and this may impede
+competition in the market.
+
+›
+
+Staking rewards and their distribution are not transparent (no one knows how much staking rewards
+are collected and whether it is distributed fairly.).
+
+›
+
+Distribution parameters for staked rewards among the participants are not transparent (no one can
+verify what percentage is received by each party.)
+
+›
+
+There are many people/organizations on the market today that possess large amounts of freecapacity resources and extensive technical expertise to serve while not holding sufficient ETH tokens.
+On the other hand, there also exist individuals/organizations who hold a large number of ETH tokens
+(either singly or collectively) while not possessing and/or not capable of managing the infrastructure
+
+// Stkr
+
+required to stake effectively.
+
+4
+
+2 	What the Stkr
+infrastructure solves
+The Stkr platform features a feature-rich environment specifically designed to facilitate a system where
+resource providers and requesters interact. It allows easy deployment of, and staking in, any node,
+accessible, affordable, and instantly distributed across the globe. On a very high level, the features of the
+Stkr infrastructure can be listed as follows:
+›
+
+Stkr will provide the first robust, decentralized, entirely trustless, blockchain staking platform (i.e.,
+eliminates single-point-of-failure due to existing centralization issues.). On the Stkr infrastructure,
+users will delegate the utilization of their tokens to the Stkr system and providers through threshold
+signatures[4, 5]. Namely, the tokens can only be spent if both the Stkr system and providers agree to
+sign a transaction. This will eliminate the requiring trust of a single entity, and will protect user funds.
+
+›
+
+The Stkr infrastructure provides complete transparency of collection of rewards as well as fair
+distribution of those rewards by means of publicly available smart contracts without relying on a
+trusted third party.
+
+›
+
+Stkr aims to create a marketplace which builds a bridge between providers and requesters, and to
+allow them to meet on its infrastructure.
+
+›
+
+The system will also help individuals to fully utilize their idle CPUs, GPUs, memory and free storage,
+and to earn money from these assets.
+
+›
+
+The system allows payments per use by bringing requesters and providers within a privacy-preserving
+pseudo-anonymous platform.
+
+›
+
+The Stkr infrastructure will also allow the concept of “micropool validators” which are composed of
+groups of micro investors who have a small amount of ETH (<32 ETH) but collectively hold at least
+32 ETH. In this case, the Stkr infrastructure will connect millions of micro-investors in the network to
+invest and be part of the ecosystem.
+
+›
+
+Availability and robustness of nodes are significantly enhanced (guaranteeing low downtime risk).
+
+›
+
+The system works in a tokenized manner (through ANKR tokens) to incentivize providers to make
+business sustainable. That is, it provides a flexible demand and supply mechanism among many
+
+›
+
+Stkr will begin by supporting ETH nodes, the future goal is to open up to other blockchains.
+
+›
+
+The system as-a-whole has far wider, great potential, to serve various business models beyond
+blockchain, as almost any real-life business model requires IT infrastructure and resources.
+
+// Stkr
+
+independent peer-2-peer network nodes.
+
+5
+
+3 Our architecture
+3.1
+
+Entities
+
+The following parties are involved in the Stkr decentralized infrastructure:
+›
+
+Stkr Node: an operating system/docker that runs a single Stkr sidecar and a blockchain node (VM/
+EVM). A provider can have more than one Stkr node.
+
+›
+
+Stkr Sidecar: software that manages a blockchain node (e.g., availability, capacity, and security).
+It also randomly chooses other nodes on the Stkr infrastructure, checks their uptime, and reports
+to the smart contracts. Furthermore, any individual can install and execute this software to stake
+their ANKR tokens and receive rewards. Furthermore, the stakers on the sidecars are expected to
+participate in the voting process. For participating in the voting process, the stakers will get rewards
+in ANKR tokens.
+
+›
+
+Requesters: users demand for creating a blockchain node for staking (e.g., Ethereum 2.0).
+
+Initialize a Node
+Capacity Resource
+Provider
+
+Requester 1
+
+Requester 2
+
+Public Exchange
+Requester 3
+
+Register
+Node
+
+// Stkr
+
+ETH 2.0
+
+6
+
+Fiat
+
+Figure 1: Cash Flow of ANKR tokens on the Stkr Infrastructure
+
+›
+
+Providers: independent individuals or entities who invest in resource capacity to connect to the
+Stkr infrastructure and create new Stkr nodes. Thus, they manage a set of Stkr nodes which are
+registered on Ethereum smart contracts to be able to run the blockchain nodes.
+
+›
+
+Government: The Stkr government will consist of 2n + 1 members where n is initially set to a
+certain number but can be further updated.
+1.
+
+Initialization Phase: n + 1 members (Governors) will initially be invited to participate. These
+participants will be highly motivated to participate in the project and the platform with a united
+objective to improve the growing utilization, community and promotion of the platform. These
+members will be required to stake a certain amount of ANKR tokens to retain membership in
+this initial government throughout this phase. They can choose to increase their staked amount
+to increase their rewards.
+
+2.
+
+Transition Phase: After a certain period of time (which will be defined during the initialization
+phase), the candidate governors, who stake a minimum number of ANKR tokens, can apply
+to the Stkr infrastructure to be a governor. An additional n governors will be democratically
+chosen from those candidates through an election process. This process is decided through the
+number of votes received, where each ANKR token staked by a candidate counts as a single
+vote, plus then additional votes can be received from community members who have ANKR
+staked in Sidecars (again, one ANKR provides one vote). According to the total amount of
+tokens staked by each candidate governor plus votes they received from Sidecars, the first n
+candidates are chosen as new governors.
+
+3.
+
+Automated Phase: Periodically, the whole list will be updated according to the Transition Phase.
+Each governor (independently from the amount of stake) has an equal weight in voting for
+decisions in the platform. In particular, the tasks of the Stkr governors include:
+›
+
+providing recommendations
+
+›
+
+defining algorithms of reputation (i.e., the algorithms of the underlying smart contracts)
+
+›
+
+qualifying providers
+
+›
+
+collecting statistics
+
+Whenever a governor does not follow the governance policies, they will be punished. For example,
+if governors fail to participate in three consecutive voting processes, their staking will be slashed.
+ANKR Staking Users: Users who do not want to stake their ETH, can still stake their ANKR tokens
+to the platform. These users can see the list of installed sidecars on the Stkr marketplace, choose
+the most profitable one, and stake their ANKR tokens to it. The following rules will be applied for
+these users:
+›
+
+Users can stake any amount of ANKR tokens to a sidecar which is executed and managed on
+the provider side.
+
+›
+
+Users can withdraw their ANKR tokens at any time before a project is completed, however,
+in that case they will not get any rewards.
+
+›
+
+Periodically, stakers get rewards from the Reward Pool proportional to their staking amount.
+
+// Stkr
+
+›
+
+7
+
+Hence, the entire system is transparent, reliable, and robust. From the view of users, requesters, and
+providers, the platform is indeed decentralized. However, the government mechanism will initially
+be semi-decentralized because a set of governments will be chosen during the initialization phase.
+In the long term, once the rules and policies are matured enough the system will evolve into a fully
+decentralized network.
+3.1.1 Calculation of a reputation score
+Calculation of reputation scores will depend on the following parameters:
+›
+
+Staked amount.
+
+›
+
+Bid price.
+
+›
+
+Average running time of a Stkr node.
+
+›
+
+Average percentage of total uptime of a Stkr node (e.g, 99%).
+
+3.1.2 Onboarding process of a provider
+A provider will have the following features:
+›
+
+Must run a Stkr sidecar for each Ethereum node and stake a certain amount of ANKR.
+
+›
+
+Set a price (as they wish with a max value).
+
+›
+
+Provide a brand name.
+
+›
+
+Provide on-demand services.
+
+Note that an Ethereum 2.0 node requires to stake at least 32 ETH in order to be a validator. However, the
+rewards will not be affected even if more than 32 ETH is staked. In the Stkr infrastructure, each provider
+has a reputation score which represents the reliability level of a provider. In this case, we may have the
+following cases for staking ETH:
+›
+
+Provider is fully trusted: If the provider is fully reliable and trusted, then the provider does not
+need to stake any ETH, but in this case, the requesters are required to stake at least 32 ETH. If there
+are losses during this staking period, then the requester loss will be compensated by the insurance
+pool.
+
+›
+
+Provider is not trusted: If the provider is not trusted, then it should at least stake 16 ETH and the
+remaining 16 ETH will be staked by the requester. This prevents the requester’s loss completely
+since all the loss can be compensated by the provider’s stake.
+
+›
+
+Provider is semi-trusted: If the trust level of a provider is between the first and second case, then
+the provider must stake at least k ETH where k is defined by the government while the requester
+is required to stake 32 - k ( k can be different for each provider).
+
+// Stkr
+
+Why shouldn’t a provider stake only ANKR? In the Stkr system, the penalty can only be performed
+
+8
+
+by Ethereum and the loss will be paid in ETH. If a provider stakes only ANKR and the ETH price
+increases sharply then the loss may not be compensated by the staked ANKR. Hence, the Stkr
+infrastructure will be robust even in case ETH or ANKR prices fluctuate heavily.
+
+3.2 Smart contracts in the Stkr infrastructure
+The smart contracts of the Stkr Infrastructure include, but are not limited to:
+›
+
+›
+
+Stkr Nodes:
+›
+
+Registered nodes with a unique identifier.
+
+›
+
+Current staked ETH and collected rewards.
+
+›
+
+Provider ID and its capacity resource details.
+
+›
+
+How much ETH/ANKR is staked by the providers and the users.
+
+›
+
+Start and finish time of a node.
+
+Marketplace:
+›
+
+Matching of requesters and nodes.
+
+›
+
+Assigning a user to be a qualified provider.
+
+›
+
+Managing an auction mechanism for requesters to decide the best offer given by the providers
+(e.g., Vickrey auction6).
+
+›
+
+›
+
+›
+
+›
+
+Government:
+›
+
+List of governors.
+
+›
+
+Collecting statistics (to monitor the system).
+
+›
+
+Updating policies.
+
+›
+
+Redistributing tokens to requesters.
+
+›
+
+Managing total collected rewards for a user.
+
+›
+
+Managing the distribution of collected rewards in the pools.
+
+Providers:
+›
+
+List of providers and their details.
+
+›
+
+Qualifying providers.
+
+›
+
+The reputation score of a provider.
+
+Sidecars:
+›
+
+Status of installation of a Stkr node.
+
+›
+
+A sidecar can control only one single blockchain node.
+
+›
+
+A list of blockchain nodes to be checked for uptime.
+
+›
+
+Check the uptime score of other blockchain nodes.
+
+›
+
+The block ID of the latest check for a node.
+
+Requesters:
+›
+
+List of users and their details.
+
+›
+
+Total ETH/ANKR staked amount.
+
+Micro-pool:
+›
+
+Any provider sends ETH as collateral and executes the micro-pool smart contract to initiate
+a new Ethereum node.
+
+›
+
+The provider can specify the end time of staking period.
+
+// Stkr
+
+›
+
+9
+
+›
+
+The provider can add more ETH staking.
+
+›
+
+The provider cannot withdraw staked collateral until the completion of the node.
+
+›
+
+Any user can stake ETH to the smart contract.
+
+›
+
+As soon as the total amount of ETH reaches or exceeds 32 ETH, the provider will start its
+validator node immediately.
+
+›
+
+Once the node initiates processing requesters cannot withdraw their stake until completion of
+the project.
+
+›
+
+If a provider wants to stop the service for its node (or the service is stopped due to unexpected
+reasons) then the government migrates the requesters of that node to another pool.
+
+3.3 The role of ANKR tokens
+The platform adds the following utilities to the ANKR token:
+›
+
+All payments on the platform are done with ANKR tokens.
+
+›
+
+Requesters require ANKR tokens to pay to the infrastructure in order to initiate the process.
+
+›
+
+Providers are required to stake ANKR tokens as a collateral to become a qualified provider. They
+earn rewards (as ANKR tokens) due to staking. If providers become unresponsive, the underlying
+smart contract will immediately detect this and they will get slashed from their deposit.
+
+›
+
+A Stkr governor needs to maintain a minimum staked amount of ANKR tokens to retain membership
+in the government. Independently from the amount of stake, each governor will have an equal weight
+in voting for decisions in the platform.
+
+3.4 The main functionalities of the Stkr infrastructure
+At the first stage, the Stkr infrastructure will work on Ethereum 2.0 where the smart contracts are only
+limited to ERC20. Before we go into the details, we will briefly describe how the Stkr infrastructure
+works. Note that it is a decentralized hosting solution through Ethereum. Any provider can register their
+capacity of resources using ANKR tokens and install the Stkr sidecar on each node under their control.
+These nodes are evaluated by the government in their approval process as qualified providers. They are
+then called “Stkr nodes” of the Stkr infrastructure. Any requester can submit a project proposal to the
+Stkr infrastructure by paying some certain amount of ANKR tokens. The Stkr infrastructure evaluates
+the proposal, and approves it, if the underlying criteria are met. If an Ethereum 2.0 node is installed as
+a validator, both the provider and the requester (or micro investors altogether) must stake at least 32
+
+// Stkr
+
+ETH in total.
+
+10
+
+At the end of a project, the collected profit from that requester node is deposited into a smart contract,
+and is distributed to the participants.
+
+3.4.1 Initialization
+1.
+
+The Stkr infrastructure is launched by a governor who will publish a policy to qualify a provider (e.g.,
+Ethereum slash history, average uptime, reputation score) for giving services to different types of
+projects (any project which requires bandwidth, CPU, RAM, and storage capacity).
+
+2.
+
+Providers and Requesters launch the Stkr software through the user interface of the Stkr platform.
+
+All requesters and providers are registered on Ethereum through the Stkr infrastructure. Privacy of
+users will be provided through the pseudo-anonymity of the underlying Ethereum cryptocurrency
+addresses.
+
+OFF-CHAIN
+
+ON-CHAIN
+Cash Flow for Providers
+1. Pay for staking as collateral
+2. Get service income
+3. Withdraw staking once completed
+
+Cash Flow for Requesters
+1. Pay service fee in ANKR
+2. Invest/Withdraw ETH Staking
+3. Get staking reward (ANKR, ETH)
+
+ETH node 1
+service fee 1
+
+provider k
+
+smart contract
+marketplace
+
+smart contract
+governor
+
+smart contract
+providers
+
+smart contract
+sidecar
+
+smart contract
+requester
+
+CLI / website
+
+Stkr
+Governance
+
+ETH node n
+service fee n
+smart contract
+micro-pool
+
+Sidecar 1
+
+Sidecar m
+
+check the status and
+report to governance
+
+check the status and
+report to governance
+
+Figure 2: The Stkr Infrastructure
+// Stkr
+
+provider 1
+
+smart contract
+ETH 2.0 node
+
+11
+
+3.4.2 Creating a node on a provider
+When a requester initiates the process for an Ethereum node, the requester should first pay for the
+service fee in ANKR tokens and stake at least 32 - k ETH tokens to become a validator where the
+provider must stake at least k ETH. The k value is defined by the government and can be updated
+later. The k value can also be different for each provider. For requesters who have less than 32 k ETH, the platform will also provide a “micro-pool” system to bring multiple investors to satisfy the
+requirements.
+1.
+
+Any provider (with a proper resources of capacity) can apply to be approved as a qualified provider
+at any time. Notice that each provider is uniquely identified on the Stkr infrastructure.
+
+2.
+
+The Stkr platform encourages any provider to have more than one node by sharing more profits.
+Therefore, each provider has a max number of nodes that can be installed based upon their
+available capacity.
+
+3.4.3 Assigning as a qualified provider
+1.
+
+The government checks the application of potential providers according to the Stkr policy and
+approves listing as a qualified provider. For reliability and transparency reasons, the qualified list will be
+broadcasted on Ethereum.
+
+2.
+
+When the application is approved, the provider must stake at least Pmin amount of ANKR tokens,
+which will be used as the compensation in case of any loss of the requester due to a failure of the
+service. All of these processes will also be executed on Ethereum.
+
+In case a provider is qualified for more than one node, the collateral will be the maximal required
+amount for the compensation. Any qualified provider P can bid a price BidP to provide a service for
+a node. A qualified provider can stake at most Pmax - Pmin number of ANKR tokens as an investment
+in the platform where Pmax is the upper bound for the collateral by a qualified provider. All staking
+collateral will receive dividend periodically, which comes from the profit generated by all business in the
+infrastructure.
+3.4.4 Submitting a project proposal by a requester
+1.
+
+A requester asks a price for his/her project proposal from the Stkr infrastructure. For example, this
+project can be a blockchain full node (e.g., Ethereum 2.0) to be on the Stkr infrastructure using its
+underlying functionalities.
+
+2.
+
+The Stkr infrastructure determines how much CPU power, RAM, and storage capacity is required
+and then responds with a fixed price FP in terms of fiat currencies as well as the expected profit of
+the project.
+
+// Stkr
+
+3.
+
+12
+
+The Stkr infrastructure also provides information about the qualified providers such as capacity,
+cost, expected return rate, its performance score and reputation score.
+
+4.
+
+The requester needs to pay FP in terms of cryptocurrencies or fiat currencies to initiate the
+evaluation.
+
+5. The Stkr platform initiates an auction process for the project proposal to get the lowest price from
+the qualified providers.
+6. The requester does not need to provide any staking for the project, but after its completion, the
+requester can stake any amount of the profit as an investment.
+Any requester, independently from the project, can stake any amount of ANKR tokens. The governance
+will record the performance of each provider and give/update their score according to the history of its
+performance.
+3.4.5 Evaluation of a project by the government
+1.
+
+As soon as the requester pays the fixed price, the government will
+›
+
+filter out all providers who do not meet the pre-defined requirements of the Stkr infrastructure
+in the project.
+
+›
+
+choose those with the lowest bid price.
+
+›
+
+randomly pick up a provider from the resulting list, with probabilities proportional to their scores.
+The randomness will be computed in a decentralized manner to be transparent and verifiable.
+
+2.
+
+The Stkr infrastructure assigns the project to the picked provider, who immediately initiates the
+project.
+
+3.4.6 The Stkr pools
+Insurance Pool: The Stkr infrastructure utilizes an Insurance Pool to reduce the risk of users’ loss
+that might be occurred during the staking. For instance, assume that the total 32 ETH deposit of a
+node is slashed completely due to an attempt to cheat the ETH 2.0 consensus. In this case, the victim
+users on that particular node will be refunded with the entire k ETH from the provider deposit and
+the remaining loss of 32 - k ETH will be compensated by the Insurance Pool. Hence, the users
+who were on this unfortunate node will not lose their entire deposit as the whole network absorbs
+this loss equally. Periodically, the collected rewards in the Insurance Pool will be checked by the Stkr
+Governance. When the balance exceeds a pre-defined threshold value, they can be used for other
+purposes like transferring to the Reward Pool or burning ANKR tokens.
+Reward Pool: The rewards on this pool can be collected as ETH and ANKR. The following policy will be
+implemented on the Stkr infrastructure.
+›
+
+Each project on the Stkr node has a processing fee to be paid by the requesters and 10% of this fee
+
+›
+
+Once a project is completed, 10% of the total profit will be collected by this pool.
+
+›
+
+Periodically, 30% of this pool will be distributed to governors proportional to their staked amount.
+
+// Stkr
+
+will be collected by the Reward Pool.
+
+13
+
+›
+
+Periodically, 40% of this pool will be distributed to providers and requesters proportional to their
+staked amount.
+
+›
+
+20% of this pool will be distributed to ANKR Staking Users (who staked their ANKR tokens on the
+sidecar until the project is completed) proportional to their staked amount.
+
+›
+
+The remaining 10% will be used for development and marketing of the Stkr infrastructure.
+
+3.4.7 Computation of profit and distribution
+There are basically two conditions to start off a project: 1) A single requester 2) Micro-investors.
+In case of a single requester: Suppose a project is demanded by a requester R and the service is
+given by a provider P with a bid price BidP which generates a profit X. The distribution of cost and
+profit will be as follows:
+›
+
+Pprofit = BidP will be kept by the provider P.
+
+›
+
+RPprofit = (X + FP) x 10% will be saved in the Reward Pool.
+
+›
+
+IPprofit = (X + FP) x 10% will be saved in the Insurance Pool.
+
+›
+
+X + FP - Pprofit - RPprofit - IPprofit will be sent back to the requester R.
+
+Here the 10% rate can be adjusted by the governance (on Ethereum for transparency reasons).
+In case of micro-investors: In this case, a fixed price FP for processing a node will be publicly
+announced. The micro-investors will pay proportional to their stake. For example, if a micro-investor
+stakes 4 ETH then he needs to pay 4/32 x FP ANKR tokens. 10% of this fixed price will be
+transferred to the Reward Pool. The remaining part will be transferred to the provider (which initiated
+this particular node). Once the project is completed, the following policy will be implemented:
+›
+
+10% of the total rewards will be sent to the Insurance Pool that will be responsible for the
+compensation of any participants’ loss incurred during the staking.
+
+›
+
+10% of the total rewards will be sent to the Reward Pool that will be distributed to the community
+members that staked ANKR tokens.
+
+›
+
+80% of the total rewards will be distributed to the requester and the providers who staked ETH.
+
+3.4.8 Profit distribution from the Reward Pool
+The Stkr infrastructure periodically distributes collected ANKR tokens from the Reward Pool among the
+
+// Stkr
+
+ANKR stake holders according to their staked amount and period.
+
+14
+
+3.5 A simple example of profit distribution
+Assume that a requester asks for a two-months project which requires 4Ghz + 128GB storage + 16GB
+RAM. According to the Stkr pricing, it costs ~$50 per month, and therefore, FP = $100 in total. The
+requester needs to pay FP to start the process. The Stkr Foundation, on the other hand, will initiate
+an auction to fairly determine the qualified provider for this project. Assume that we have only three
+qualified providers: P1, P2, P3. Assume also that:
+›
+
+P1 submits its bid price of $60,
+
+›
+
+P2 submits its bid price of $70, and
+
+›
+
+P3 submits its bid price of $75.
+
+Note that P1 wins this auction as his bid is the lowest, and therefore will run the project for two months.
+Suppose that the collected profit of this project is X = $300 once the project is successfully finished.
+Hence, the Stkr platform will automatically (through smart contracts) send:
+›
+
+Pprofit = $60 to P1,
+
+›
+
+RPprofit = ($300 + $100) x 10% = $40 to the Reward Pool,
+
+›
+
+IPprofit = ($300 + $100) x 10% = $40 to the Insurance Pool, and
+
+›
+
+$260 = $300 + $100 - $60 - $40 - $40 to the requester.
+
+Once the project is completed, the Reward Pool will also distribute some additional profits to
+requesters proportional to their ANKR stake. Hence, the requester pays $100 and receives at least
+$260 (i.e., $160 is the profit).
+
+3.6 Penalty conditions
+›
+
+If a provider fails to successfully deliver a project, then the provider should immediately pay
+the incurred loss to the requester through the governance. The failure will be recorded on the
+Ethereum blockchain to provide transparency so that the score of the provider will be affected
+accordingly.
+
+›
+
+The collateral will be used to compensate the loss.
+
+›
+
+If there is any stake left, it will be returned to the provider according to the Stkr policy.
+
+›
+
+After starting off a project, the requester can not withdraw it (until it is completed).
+
+›
+
+If the reputation score of a provider is less than a pre-defined threshold then the Stkr infrastructure
+
+// Stkr
+
+will disqualify the provider for a certain period of time.
+
+15
+
+The Stkr government enforces a set of rules that govern both organizational and operational, and is in
+charge of any dispute between requesters and providers. The government implements the Stkr policy
+such as qualification of providers, rewarding sharing, and task allocations. For non-standard issues, the
+government will make decisions through a public and transparent voting mechanism. Each governor will
+have an equal weight in voting power irrespective from the amount of stake.
+
+3.7 Conversion of the value generated on PoS for Ethereum 2.0
+Until the second phase of Ethereum 2.0 goes live, users will receive an alias-token of ETH (called
+aETH) which is equal to the amount of ETH they have deposited. In the second phase, all aliases will be
+swapped on the BETH network, and this aliasing will not be used anymore. Users whom deposit ETH to
+be staked by the node (hosted on the provider) will instantly receive the aETH token which represents a
+tokenized staking deposit. This token:
+›
+
+can be held, traded, or sold.
+
+›
+
+does not need to be locked with the Stkr infrastructure to gain staking rewards over time.
+
+›
+
+will be able to be traded for Beacon ETH (BETH) when Phase 2 of the Ethereum 2.0 roll out occurs
+
+// Stkr
+
+and smart contracts on Ethereum 2.0 are enabled.
+
+16
+
+4 	Dynamic scoring for P2P
+credit checking
+A group of sidecars randomly choose other nodes and remotely audit their functionalities and
+availability to prevent any kinds of suspicious operations. Each node will be checked by k number of
+sidecars while each sidecar will check k number of other nodes during a fixed period of time. The lists
+will be randomly updated for each period to make the Stkr infrastructure more robust and reliable. This
+
+// Stkr
+
+way, the change of the credit over time will be provided.
+
+17
+
+5 	Cost and benefit analysis
+of participants
+The platform helps requesters to efficiently find the best provider and enables providers to get projects
+by utilizing their service. While the platform is organized in a decentralized manner, the Stkr free-market
+guarantees efficient trading. In the following sections, we show how all the participants are better off with
+this platform.
+
+5.1
+
+For requesters
+
+5.1.1 Benefits
+1.
+
+Monetary benefit from getting staking rewards from staking on projects (not necessarily an Stkr
+project. For example, it can be Eth 2.0). The benefit is calculated by (project staking reward)
+Example: A user staked 3,000 ETH. After 3 days, he gets rewards, including staking and delegation
+rewards, about 3 ETH. Meanwhile, he needed to pay the provider 1,500 ANKR tokens. So his overall
+benefit is (3 ETH - 1,500 ANKR).
+
+2.
+
+Time saved by running staking nodes instead of setting up an own machine.
+
+5.1.2 Cost
+1.
+
+Cost of using the Stkr platform to get a provider to stake tokens.
+
+2.
+
+Risk of getting slashed and not generating staking rewards.
+
+5.2 For providers
+5.2.1 Benefits
+1.
+
+Payment from requesters for provision of services.
+
+2.
+
+Use of spare capacity, otherwise would be wasted.
+
+// Stkr
+
+5.2.2 Costs
+
+18
+
+1.
+
+Fixed costs: This includes hardware servers, server racks, secondary power supply.
+
+2.
+
+Variable costs: This includes electricity, ISP monthly fee, AC or cooling devices, potential
+maintenance personnel.
+
+3.
+
+Entry staking cost: The ANKR tokens purchased for entering the market. (This entry cost is the
+minimum insurance coverage from the provider side).
+
+4.
+
+Insurance cost: Providers need to purchase additional tokens to increase the insurance coverage
+for their target users, so that they can be more competitive than other providers.
+
+5. Additional staking: Providers may choose to stake additional tokens to increase their probability of
+being chosen.
+6. Opportunity cost of shifting to other platforms or provide other services.
+
+5.3 Governance
+5.3.1 Benefits
+›
+
+Earn ETH rewards from the Reward Pool.
+
+›
+
+Earn ANKR staking rewards from the Reward Pool.
+
+5.3.2 Responsibilities
+1.
+
+Define the entrance bar for providers.
+
+2.
+
+Recommend providers with respect to the given criteria of each requester (through the Ethereum
+blockchain for transparency purposes).
+
+3.
+
+Initiate potential future market expansion.
+
+4.
+
+Development and maintenance of the Stkr platform and software.
+
+5.3.3 Costs
+1.
+
+Hardware monitoring (done by the governance software).
+
+2.
+
+Provides must report to the smart contracts to validate the existence and healthiness.
+
+3.
+
+Cost of maintenance of the Stkr platform and software.
+
+5.4 Participants in the investment staking pool
+5.4.1 Benefits
+1.
+
+Staking rewards of ANKR tokens.
+
+1.
+
+Opportunity cost of getting benefits from alternative investment methods.
+
+// Stkr
+
+5.4.2 Costs
+
+19
+
+6 	Future potential projects
+on the Stkr infrastructure
+The Stkr Infrastructure is not only built for staking purposes, it can also handle computational tasks.
+The Stkr infrastructure can expand to other industries in the future, including but not limited to:
+›
+
+Blockchain-as-a-service Workloads: The Stkr Infrastructure is not limited to Ethereum 2.0, but
+will allow anyone to launch a blockchain in minutes while maintaining privacy, scalability, simple and
+fast automatic deployment.
+
+›
+
+Efficient and Secure Deployment of Apps: Security breaches are the most crucial issue for many
+operational companies today. They need to make substantial investment to physically secure their
+environments by building fences which will never make it safe enough due to control management
+issues.
+
+›
+
+IoT or 5G Workloads: With the rapid development of IoT and 5G networks, the traditional central
+cloud computing model will evolve into an incentivized and decentralized system. Decentralized
+computing provides mobile computation, network control, and storage to network edges to help
+reduce latency in critical and computationally intensive applications.
+
+›
+
+Beyond Blockchain (DB/Archive): It can provide the most efficient and cost effective large scale
+archive solution which operates without any downsides.
+
+›
+
+High Security IT Workloads: It also prevents adversaries to attack critical infrastructures such as
+banking.
+
+›
+
+Decentralized Applications (DApps): Alternative to digital applications such as Facebook, Airbnb,
+
+// Stkr
+
+Twitter, and TikTok.
+
+20
+
+References
+
+1
+
+Ethereum 2.0 specifications. https://github.com/ethereum/eth2.0-specs. Accessed: 2020-07-26.
+
+2
+
+Evangelos Deirmentzoglou, Georgios Papakyriakopoulos, and Constantinos Patsakis. A survey on
+long-range attacks for proof of stake protocols. IEEE Access, PP, 02 2019.
+
+3
+
+Rixard Dillak, Devie Suchendra, Robbi Hendriyanto, and Anak Agung Gde Agung. Proof of work:
+Energy inefficiency and profitability. Journal of Theoretical and Applied Information Technology, 97,
+03 2019.
+
+4
+
+Rosario Gennaro and Steven Goldfeder. Fast multiparty threshold ecdsa with fast trustless setup.
+In Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security,
+CCS ‘18, page 1179-1194, New York, NY, USA, 2018. Association for Computing Machinery.
+
+5
+
+Rosario Gennaro, Steven Goldfeder, and Arvind Narayanan. Threshold-optimal dsa/ecdsa
+signatures and an application to bitcoin wallet security. In Applied Cryptography and Network
+Security, pages 156-174, Cham, 2016. Springer International Publishing.
+
+// Stkr
+
+6
+
+22
+
+Wikipedia. Vickrey auction, https://en.wikipedia.org/wiki/vickrey_auction. Accessed: 2020-07-26.
+
+BY ANKR
+
+

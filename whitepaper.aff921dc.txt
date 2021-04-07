@@ -1,0 +1,1063 @@
+Bot Ocean
+
+Whitepaper
+
+ALGORITHMIC TRADING MARKETPLACE
+
+Dragos Lipa
+
+Ioana Frincu
+
+CEO
+
+Head of Product
+
+Lorena-Iulia Tincu
+CTO
+
+Introduction
+
+Bot Ocean
+
+Crypto Traders challenges
+Heterogeneous trading ecosystem
+
+3
+
+Disparate trading tools
+
+3
+
+Unpredictable results
+
+3
+
+Vision & Mission
+
+4
+
+Differentiators
+
+5
+
+Market Overview
+
+6
+
+Platform features
+
+8
+
+Autonomous trading bot
+
+8
+
+Strategy Designer
+
+8
+
+Strategy Marketplace
+
+9
+
+Live Trading Bot
+
+9
+
+Decentralized account management
+and payout system
+
+9
+
+Exchange account aggregation
+
+10
+
+Portfolio Tracker
+
+10
+
+Analytics Dashboard
+
+10
+
+Social Trading
+
+10
+
+Business Model
+
+Token
+
+3
+
+11
+
+Account Levels for Shipwrights
+
+11
+
+Account Level for Anglers
+
+12
+
+BOT Token
+
+13
+
+Token functionality
+
+13
+
+Ocean DAO
+
+13
+
+Roadmap
+
+14
+
+Introduction
+
+1
+
+Introduction
+Since its inception, trading and investing in cryptocurrencies remains one of the most complex ﬁnancing
+forms, requiring substantial time and knowledge to have consistent positive results. This is further
+doubled by the constant growth patterns in the market and the fact that the market operates 24/7, adding
+to the high volatility levels. This means that trades need continuous monitoring and input, unlike traditional
+stock markets, where a more lax approach can still function.
+Due to the high complexity level, new solutions are required for coping, with automation being the most
+widely sought after. Due to this, some platforms have introduced a few rudimentary solutions to tackle this
+issue. The attempts number things like bot marketplaces, back testers, or bot builders. However, the
+notion of an even remotely complete ecosystem remains elusive.
+From a cost point of view, the barrier to entry remains high, creating a closed-off ecosystem and limiting
+the chances of more extensive participation from interested parties. This mentality has become pervasive,
+with hidden fees and uncertain regulations, which contribute to an overall lack of equitability and fuel a
+race for proﬁt. This opaque environment draws in only certain types of users, namely those who can adapt
+on the go to the context. Additionally, the high level of centralization gives little, if any, a choice to revenuegenerating users.
+There is much data ﬂoating around at the moment to prove the viability of blockchain technology and
+cryptocurrencies, ending the notorious bubble argument once and for all. Because the core principles
+which sit at the core of the technology, such as decentralization, transparency, privacy, and security, ensure
+the long term viability.
+This aspect, taken together with most platforms’ current state, creates a potential gap in the market,
+creating a perfect disruption environment. Most existing platforms are diﬃcult to use and understand,
+requiring either in-depth trading knowledge or programming skills, sometimes alienating new customers
+and proving to be time-consuming for the more experienced traders.
+
+Introduction
+
+2
+
+Crypto Traders challenges
+
+Heterogeneous trading ecosystem
+With the rising demand for cryptocurrencies, there is visible growth in the number of trading signal providers
+that sell advice for buying/selling assets. Distinguishing between legit platforms and scammy ones is
+increasingly diﬃcult. Most of these ‘signal providers’ do not offer automated trading solutions and often have
+inadequate risk management, and some lack speciﬁc trading strategies. We want to raise the bar and set the
+industry standard regarding creating a platform that empowers its users.
+
+Disparate trading tools
+Eﬃcient crypto-trading implies the use of multiple tools and services. This brings high costs for the end-user
+both in money and in time. Every newcomer is confused between exchanges, chartism tools, event calendars,
+market data, news aggregators, portfolio trackers, signal providers, trading bots, and other tools. It’s
+challenging to navigate this market of uncertainty, especially as a noob.
+
+Unpredictable results
+The crypto market volatility is both an attractive and detracting factor for investors, based on their savviness
+and investment experience. This factor can become a nuisance if the trading tools are not up to the task, and
+amateurs are building them.
+
+Introduction
+
+3
+
+Bot Ocean
+Vision & Mission
+Our vision is to create a truly decentralized platform
+
+A complete ecosystem composed of back testers,
+
+to automate and simplify the trading experience for
+
+strategy Shipwrights, and exchange connections
+
+new and existing traders. Bot Ocean represents the
+
+are prepared to provide a robust infrastructure that
+
+one-stop-solution every trader needs by their side.
+
+can support intense trading activity.
+
+The ever-growing demand for professional-level tools
+
+Our goal is to enable crypto-newcomers with state-
+
+for trading in this industry drives us to develop this
+
+of-the-art signals, tools, bots, and automation tools
+
+unique platform. Bot Ocean sits at the convergenceof
+
+to ﬁt their personal goals. Our platform is for both
+
+multiple technologies that beginner and professional
+
+newcomers as well as seasoned investors to build
+
+traders alike seek in a trading bot software.
+
+their perfect portfolio.
+
+Bot Ocean
+
+4
+
+Differentiators
+The platform represents a trading SaaS ready for users
+
+Compared to other platforms, Bot Ocean provides a
+
+to plug into their trading accounts on exchanges and
+
+full set of trading tools to support trading past the
+
+start trading. Bot Ocean does not hold users’ funds.
+
+hobbyist level, bringing real data, research, and
+
+Each user pays a ﬁxed and transparent monthly fee for
+
+information to the table for all users, equally.
+
+using the platform.
+
+Professional trading is now available to traders of
+all volumes and backgrounds, eliminating the need
+for a trader’s support to scale up.
+
+Beneﬁts
+
+QuantConnect
+
+Haasonline
+
+CryptoHopper
+
+Kryll
+
+Bot Ocean
+
+Decentralized platform
+
+Yes
+
+No
+
+No
+
+No
+
+Yes
+
+Trading Analytics
+
+No
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+Martket Research
+
+No
+
+No
+
+No
+
+No
+
+Yes
+
+Social copy trading
+
+No
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+Algorithmic Trading
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Bot Marketplace
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+Yes
+
+Dex Trading
+
+No
+
+No
+
+No
+
+No
+
+Yes
+
+Manual trading Dashboard
+
+No
+
+No
+
+No
+
+No
+
+Yes
+
+Educational Content
+
+No
+
+No
+
+No
+
+Yes
+
+Yes
+
+Mobile App
+
+No
+
+No
+
+No
+
+No
+
+Yes
+
+Bot Ocean
+
+5
+
+Market Overview
+With the launch of Bitcoin, trading services have started offering OTC options to buy this coin, and after new
+digital currencies emerged, the crypto trading sector has boomed. Even if the ﬁeld is less than a decade old, its
+growth is evident.
+
+Total Market Capitalization
+
+Unlike the traditional ﬁnancial markets traders, the
+
+According to Cambridge University’s third Global
+
+crypto traders are mostly self-educated. They learn to
+
+Cryptocurrency Benchmarking Study, “despite the
+
+trade on their own and then try to automate their activity
+
+considerable development of institutional-grade
+
+as much as possible. These are faced with the burden of
+
+ﬁnancial instruments and infrastructure, our data
+
+making emotional decisions, the lack of reliable trading
+
+suggests that crypto asset service providers’
+
+information, excessive amounts of data (mostly
+
+customer base is still primarily retail-driven.”
+
+irrelevant) to process, price manipulation, and scams.
+
+Thus, the need for advanced tools for individual
+traders grows YoY.
+
+Customer Base Breakdown by Type
+Share of total users
+75%
+
+16%
+
+63%
+
+30%
+
+82%
+
+75%
+
+70%
+
+Retail clients
+
+Business and institutional clients
+
+3rd global cryptoasset benchmarking study - Cambridge
+Accessed 21 Oct. 2020.
+1
+
+10%
+
+20%
+
+9%
+
+Asia-Paciﬁc
+
+7%
+
+Europe
+
+8%
+
+Latin America and
+the Caribbean
+
+5%
+
+Middle East
+and Africa
+
+30%
+
+North America
+
+Unknown
+
+Bot Ocean
+
+6
+
+Simultaneously, the trading environment becomes more attractive to investors and startups, leading to a
+growing number of exchanges popping on the market. According to Cambridge University, the number of
+identity-veriﬁed crypto-asset users was at 35 million in 2018 and grew by 189% until 2020 Q3, totaling 101
+million users across 191 million accounts at service providers.
+The accounts number increased YoY by 37%, which means that individuals are opening multiple accounts on
+different platforms. Hence the need to see the big picture of their investments from a single dashboard.
+
+32
+
+Granted Licenses per Year
+License count
+
+17
+
+11
+9
+
+4
+1
+
+2010
+
+2
+
+2013
+
+1
+
+2014
+
+2
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+Unidentiﬁed
+
+Bot Ocean
+
+7
+
+Platform Features
+The main features Bot Ocean’s users are beneﬁtting from are:
+
+Autonomous Trading Bot
+
+Exchange account aggregation
+
+Backtester
+
+Portfolio Tracker
+
+Strategy Designer
+
+Analytics Dashboard
+
+Strategy Marketplace
+
+Social Copy Trading
+
+Live Trading Bot
+
+Mobile App
+
+Decentralized account
+management and payout system
+
+Autonomous trading bot
+Trading has increased in popularity amongst early
+
+Even traditional environments such as Stock trading
+
+crypto adopters as well as challengers coming
+
+have been turning towards automation for years to
+
+from traditional ﬁnance. The main difference
+
+develop better and more eﬃcient ﬂows. But while this
+
+between FIAT trading and crypto trading is that
+
+can still be considered optional in traditional trading,
+
+there is no market open and close daily/weekly.
+
+it is a requirement in crypto trading.
+
+Due to this unique characteristic, crypto trading is
+increasingly becoming more dependent on
+
+Bot Ocean allows traders to outpace any human
+
+automation, being virtually impossible for any
+
+trading strategy and test it against massive historical
+
+human to dedicate the necessary time towards
+
+data, giving users an accessible and robust solution
+
+truly eﬃcient trading. This creates a problem,
+
+to create and implement their automation process. It
+
+and the only solution to it is automation.
+
+opens extensive possibilities in terms of portfolio
+creation while allowing the user to balance both their
+exposure as well as and risk.
+
+Strategy Designer
+Backtesting is the general method for seeing how
+
+The process, however, relies heavily on the provided
+
+well a strategy or model would have done based
+
+data and its quality. Potential tainted and corrupt data
+
+on past trade execution data. The goal is to
+
+can tamper with the results.
+
+assess a trading strategy’s viability by discovering
+how it would play out using historical data. If
+
+Bot Ocean supports traders by offering the possibility
+
+backtesting works, traders and analysts may have
+
+to backtest strategies against sets of data correlated
+
+the conﬁdence to employ it moving forward.
+
+with the largest exchanges on the market. This is a
+
+Backtesting is essential when developing new
+
+unique proposal, as Bot Ocean can provide high
+
+strategies, twerking solutions, and creating
+
+quality, clean data for back-testing use, leading to
+
+projections of investment returns.
+
+excellent quality in the analysis.
+
+Bot Ocean
+
+8
+
+Strategy Marketplace
+On most platforms, users can copy a portfolio of assets or follow a trader. Having funds blocked and
+accessing markets by proxy is not pleasant nor useful. On Bot Ocean, users can take advantage of strategies
+and strategy portfolios to manage their assets without uncertainty on whether their money is safe or
+accessible. All the strategies that get published on Bot Ocean are back-tested and veriﬁed by the Bot Ocean
+tools and then receive a grade depending on the strategy’s quality and results.
+Live Trading Bot
+For users who do not want to follow independent strategies or create their own, Orka Labs has prepared a
+Live Trading Bot that facilitates live trading. The process through which the user goes is:
+
+Select desired output
+(percentage of proﬁt)
+
+Input preferred risk proﬁle
+(this includes drawdown and
+type of traded assets)
+
+A Bot is ready to be
+integrated with the user’s
+wallet on an exchange.
+
+Decentralized account management and payout system
+We keep our crypto-oriented vision as close to us as possible. Therefore, the account access of each user will
+not be managed through a centralized system. All crypto-keys (private and public) are always kept by the user
+and stored on their computer. Neither Bot Ocean nor anyone else has access to these. The user is free to deal
+directly with their cryptocurrency exchanges without the knowledge or interference of Bot Ocean.
+Trading Volume for individual clients
+(with the speciﬁc strategies)
+
+Address of strategy owner
+Update on new strategy subscriber
+
+Trading
+Servers
+
+Launch strategy command
+Attach to strategy command
+Statistics feedback
+
+Users + Wallets +
+Fee Management
+Smart Contract
+
+User wallet balance
+
+Strategy Owner
+& Subscribers list
+Smart Contract
+
+Centralized
+platform
+
+Login process
+Dashboard / data
+Attach to strategy
+Launch strategy
+Deposit to platform wallet (for fees)
+
+User
+
+BotOcean
+Login App
+
+Bot Ocean
+
+9
+
+Each user will be able to access their account through their favorite wallet integration, such as Metamask. The
+user’s Ethereum address is the single way to access an account. We do not store any private keys or other
+information about the user. In addition to having a decentralized account management system, we will be
+managing all payouts made to the trading strategy creators through a smart contract system, thus ensuring
+transparency through the platform end to end.
+Exchange account aggregation
+Users keen on manual trading will have the opportunity to connect all their accounts to view their open trades
+and take action through Bot Ocean. In this way, manual traders will have their control center where they make
+the most out of their portfolio.
+Portfolio tracker
+Hodl-ers can now track their portfolio using our app by merely inputting their addresses, and we will take care
+of the rest. In the past, Blockfolio was the only choice for this, enabling the tracking of addresses. We cover
+both address tracking and trading tools, so all types of crypto users can track their ﬁnances end-to-end. This
+tool will provide the user with:
+
+Portfolio evolution for a
+certain period in BTC and USD
+
+Current portfolio
+distribution
+
+Available funds
+in wallets
+
+Analytics Dashboard
+Having intense trading activity and keeping funds in crypto requires an analytics overview of an individual’s
+ﬁnances at least as eﬃcient and straightforward to understand as the most advanced FinTech platforms out
+there. We provide ready-made dashboards for users to keep track of their trades, transactions, and balances
+through our data visualization tools.
+Social Trading
+Copy-trading lets you copy whatever the trader is doing. It is an automated trading tool that emulates the
+professional traders’ strategies and trades and replicates them as your own. Plus, unlike traditional brokers
+who take a ﬁxed charge from the invested capital, pro traders on the social copy trading environment will only
+take a share of your winnings, meaning that they will only make money when you make a proﬁt. Users will also
+always keep full control of their cryptographic assets on third-party exchanges.
+
+Bot Ocean
+
+10
+
+Business Model
+Bot Ocean’s Business Model democratizes trading tools, starting with the tools required to build your
+strategies. To lower the entry barrier to trading, we follow a freemium model.
+
+The platform’s users are:
+Anglers
+
+Shipwrights
+
+Bot Users
+
+Strategy creators
+
+Account Levels for Shipwrights
+Shipwrights represent users who create new trading strategies and publish them on the platform. They are
+split into multiple levels based on their AUM. Unlike other popular trading platforms, Bot Ocean does not
+require strategy creators to have any personal funds in the platform.
+
+The levels are:
+Walrus:
+You must not have had a monthly
+loss of more than 20% in the
+previous six months (unless the
+market experienced such a drop).
+For new strategies, backtesting
+results will be considered.
+
+Manatee
+You have been at the Walrus level for
+at least 30 days.
+You have at least ten average daily
+veriﬁed copiers with a combined AUM
+of at least 5 BTC.
+
+You are not copying other
+Shipwrights.
+You have at least one angler with a
+minimum AUM of 0.1 BTC.
+
+Bot Ocean
+
+11
+
+Narwhal
+
+Thousand Tonne Beluga Whale
+
+You have been at the Manatee level
+for at least 60 days.
+
+You have been at the Narwhal level for
+at least 60 days.
+
+Your account has average equity of
+at least 2.5 BTC.
+
+You have an AUM of at least 100 BTC.
+
+You have an AUM of at least 25 BTC.
+
+The stages for the Shipwrights are updated each Sunday night at 22.00 UTC and refreshed instantly. The
+follower count starts when the 1st trade using the bot is placed from a new account. There are no withdrawal
+fees for Shipwrights funds as their rewards are transferred to their Ethereum address monthly.
+
+Account Levels for Anglers
+Anglers represent users who create accounts on Bot Ocean to connect strategies to their exchange accounts.
+They do not develop new strategies but follow already existing ones. To use the bots on their exchange
+accounts, Anglers will have to connect their exchange API key to their Bot Ocean account and pay their tier
+fee. Then the trading will start automatically. All platform fees are computed in ETH using the CMC price for
+the base token of the order and must be paid every 30 days to the Bot Ocean wallet; otherwise, the trading
+services will be suspended.
+Anglers are split into multiple levels, based on their last 30 days volume using Bot Ocean Strategies.
+
+The levels are:
+Beneﬁts
+
+Recruit
+
+Junior Angler
+
+Journeyman
+
+Expert Angler
+
+Whale Hunter
+
+30-Day Volume
+
+0-5 BTC
+
+5-10 BTC
+
+10-25 BTC
+
+25-50 BTC
+
+>50 BTC
+
+Can trade using leverage
+
+No
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+Dedicated Account Manager
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Market Reviews
+
+No
+
+No
+
+Weekly
+
+Weekly
+
+Weekly
+
+Access to strategy portfolios
+
+No
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+Webinars
+
+No
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+Personalized market reports
+
+No
+
+No
+
+Monthly
+
+Weekly
+
+Weekly
+
+Early access to platform features
+
+No
+
+No
+
+No
+
+Yes
+
+Yes
+
+Bot Ocean
+
+12
+
+BOT Token
+Token Functionality
+The BOT token is a utility token focused on the value brought to the platform’s users. Therefore, the main
+advantage that the token brings to the users is a lifetime discount to platform fees.
+
+The token holders paying with BOT tokens will have a 50% discount on these fees. Tokens collected
+from paying fees in the Bot Ocean wallet will be burned instantly. Tokens received by the strategy
+creator will be transferred to their wallets.
+
+Ocean DAO
+The DAO will provide a democratic way to decide
+
+All new features and platform changes are initiated by
+
+on business strategy, strategy index components,
+
+the Bot Ocean Board quarterly, composed of Bot Ocean
+
+and future platform developments. Token holders
+
+team members (CEO, CTO, COO, Advisors) and a
+
+represent business partners and the board that
+
+selected number of DAO members.
+
+manages the marketplace and can access the
+company’s team through a private group.
+
+The Board proposes platform changes and other high
+importance business decisions, and then the DAO
+
+The token holders will be able to vote on what
+
+members cast their votes.
+
+strategies will make up strategy indexes, and they
+will receive early access to these strategies before
+
+All voting takes place on-chain to be completely
+
+other users. They also receive early beta access to
+
+decentralized. Each DAO member has ﬁve days to cast
+
+all platform features.
+
+their vote (Yes, No, Abstain) on the Proposal Smart
+Contract. After the period ends, the options are counted,
+and the decision is communicated and implemented.
+
+Ox3456adf868sdsds
+
+Ox3dddgdgd6556ffc
+Proposal
+smart contract
+
+Vote
+ledger
+
+Decision
+output
+
+Oxasdgdsf868sdsids
+Here the data held is
+
+Oxasdgdsf868sdsids
+
+decision
+
+id
+
+YES votes
+
+NO votes
+
+ABSTAIN votes
+
+Token
+
+13
+
+Roadmap
+The average daily crypto trading volume is over $150B, with over 6000 markets to choose from. Strategy
+creators can take advantage of the whole market offering and connect the bots to Huobi, Bitmex, and Binance.
+We will integrate more exchanges gradually based on daily volumes.
+Based on our calculation, on a daily volume of $1.1M, we can produce a $1M revenue per year. We expect to
+achieve this in the ﬁrst 12 months of operations.
+
+Q4
+2020
+
+Full-stack development of the platform
+including UI functionality and user accounts
+Intuitive interface for the strategy creator
+and backtester
+Launch of the trading servers
+Implement our proprietary protocol for
+creating, running, and analyzing trading
+algorithms in a beta-testing environment
+Launch a bug-bounty campaign for crowdsourced security
+Beta release
+
+Q1
+2021
+
+Platform end to end testing
+Bug bounty reports review and ﬁx.
+Releasing the strategy marketplace
+in a beta-testing environment
+End beta testing and release the
+ﬁnal product
+
+Token
+
+14
+
+Q2
+2021
+
+Start expansion into international markets.
+Preparing necessary licenses for global
+expansion
+Set up a system for user proposals
+New features integrating the token
+
+Q3
+2021
+
+Launch new international markets
+Orka labs release their social trading portfolio.
+Allow for DAO to vote on strategies to be
+accepted in strategy indexes
+Start migration to a fully decentralized
+platform for non-custodial trading features
+and wallets
+
+Token
+
+15
+
+

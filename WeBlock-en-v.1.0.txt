@@ -1,0 +1,1387 @@
+The Decentralized Blockchain
+Acceleration Solution
+
+CONTENTS
+Abstract................................................................................................................................................5
+1.Introduction......................................................................................................................................5
+1.1. The current blockchain situation............................................................................................. 6
+1.1.1. Market Cycle......................................................................................................................6
+1.2. Market Period：.......................................................................................................................9
+1.2.1. Strong Correlation ............................................................................................................ 9
+1.2.2. High Volatility.................................................................................................................. 10
+1.2.3. Non-Linear Rise............................................................................................................... 11
+1.3.Common Problems..................................................................................................................11
+1.3.1. Complexity.......................................................................................................................11
+1.3.2. High cost..........................................................................................................................12
+1.3.3.Low efficiency...................................................................................................................13
+2.WeBlock:Vision/Mission/Targets/Costumer Group/Solution........................................................13
+
+
+Vision：.................................................................................................................................. 13
+
+
+
+Mission:.................................................................................................................................. 13
+
+
+
+Targets:................................................................................................................................... 14
+
+
+
+Costumer Group：................................................................................................................. 14
+
+3.WeBlock Solution ...........................................................................................................................14
+3.1.High Flexibility：..................................................................................................................... 14
+3.2.Cost-reduction：.....................................................................................................................16
+3.3.Low Risk：...............................................................................................................................16
+4.WeBlock's Business Model............................................................................................................. 17
+4.1.Main Approaches:................................................................................................................... 17
+4.1.1.Project creativity and tokenization:................................................................................. 17
+4.1.2.Core team formation:.......................................................................................................18
+4.1.3.ICO and PE:.......................................................................................................................18
+4.1.4.White Paper......................................................................................................................18
+4.1.5. Community and social media operations:...................................................................... 19
+4.1.6. Market channels and data indicators:............................................................................ 19
+4.1.7. Exchange Cooperation.................................................................................................... 20
+4.2. Business model:......................................................................................................................21
+4.2.1. One-Stop Service.............................................................................................................21
+4.2.2. Auto-Service, Flexible Customization............................................................................. 21
+4.2.3. High frequency................................................................................................................ 21
+
+4.2.4.Network model................................................................................................................ 21
+4.2.5.International.....................................................................................................................22
+4.2.6.Community.......................................................................................................................22
+5.WeBlock core service eco-system.................................................................................................. 22
+5.1.Webounty: The Path Node...................................................................................................... 23
+5.1.1. High Customization:........................................................................................................ 24
+5.1.2.Results-Oriented:............................................................................................................. 24
+5.1.3. Traffic sharing and development:................................................................................... 25
+5.2.WePayU:.................................................................................................................................. 26
+5.3.WeAdmin: the path node serving for team formation...........................................................27
+5.4.WeIXO:..................................................................................................................................... 29
+5.5.WeListing:................................................................................................................................ 31
+5.6.WeLabs:................................................................................................................................... 32
+6. WeToken application scenario and economic token system........................................................ 33
+6.1.WeBounty................................................................................................................................ 34
+6.1.1. Admin.............................................................................................................................. 34
+6.1.2. User................................................................................................................................. 35
+6.2. WePayU.................................................................................................................................. 35
+6.2.1. Admin.............................................................................................................................. 35
+6.3.WeAdmin................................................................................................................................. 35
+6.3.1.Admin............................................................................................................................... 35
+6.3.2. Administrator.................................................................................................................. 35
+6.4.WeIXO...................................................................................................................................... 36
+6.4.1. Admin.............................................................................................................................. 36
+6.4.2.User.................................................................................................................................. 36
+6.5.WeListing................................................................................................................................. 36
+6.5.1. Exchange..........................................................................................................................36
+6.5.2. Project Party....................................................................................................................36
+6.6.WeLabs.....................................................................................................................................37
+6.6.1.Project Party.....................................................................................................................37
+6.7.WeToken token economic system...........................................................................................37
+6.7.1. Circulation attributes...................................................................................................... 37
+6.7.2. Store attributes............................................................................................................... 38
+6.7.3. Payment attributes..........................................................................................................38
+
+6.7.4.Investment attributes.......................................................................................................38
+6.7.5.Token distribution.............................................................................................................38
+6.7.6.WeToken repurchase policy:............................................................................................ 39
+7.Technical Part..................................................................................................................................39
+7.1.Blockchain network layer........................................................................................................ 41
+7.1.1. Node................................................................................................................................ 41
+7.1.2.Sorting nodes................................................................................................................... 42
+7.1.3. Client................................................................................................................................43
+7.1.4.Certificate Authority(CA)..................................................................................................43
+7.1.5.Gossip protocol................................................................................................................ 43
+7.1.6.Consensus mechanism.....................................................................................................44
+7.1.7.Authority management....................................................................................................45
+7.2.Business/service layer............................................................................................................. 46
+7.2.1. Transaction...................................................................................................................... 46
+7.2.2. Block................................................................................................................................ 47
+7.2.3. Chain Code...................................................................................................................... 47
+7.2.4. Channel............................................................................................................................47
+7.2.5. Chain structure................................................................................................................48
+7.2.6. Ledger..............................................................................................................................48
+7.3.Transaction model................................................................................................................... 49
+7.3.1. Client (APP/WEB).............................................................................................................50
+7.3.2. Endorsement node..........................................................................................................50
+7.3.3. Confirmation node (committee node)............................................................................50
+7.3.4. Sorting Node................................................................................................................... 51
+7.4.Database..................................................................................................................................51
+7.4.1. Client................................................................................................................................51
+7.4.2.Account System................................................................................................................52
+7.4.3. Data management system.............................................................................................. 53
+7.4.4. Bonus redemption system.............................................................................................. 53
+7.4.5. Social and content UGC website..................................................................................... 54
+
+Abstract
+This paper provides a complete decentralized blockchain acceleration solution, which
+enables the blockchain institutions to issue directly peer-to-peer acceleration project.
+The accelerator generates the self-supporting project operation, adjustment into the
+scenario and into the requirements of the organizations’ development and growth.
+This specific solution is designed for the current requirement of the reference to the
+authoritative third-party accelerator service, which is the essential issue at the
+conventional internet sector.
+The solution provides the platform, where the blockchain projects can view messages,
+evaluations and the recommendations from other peer-to-peer institutions and users.
+As such creating the direct access for the service providers and the consumer base
+feedback. The mechanism is schemed that all the messages, evaluations and
+recommendations are scheduled to be shown after obtaining the authentication
+of more than 51% of the community governance nodes, so the authenticity and
+impartiality are being fully ensured.
+
+1.Introduction
+The concept of accelerators was born at the same time as the digital economy and
+has introduced the new scenario for the economy. Coming into the 21st century,
+many startups and entrepreneurs have joined the industry, whilst the entrepreneurial
+costs and entrepreneurial time continued to further narrow its width (Clarysse etc,
+2015) Further, the new flow of the average age of the entrepreneurs has become
+younger, which consequently caused the following two problems:
+1. A large number of homogeneous start-up companies compete for a single
+scarce resource;
+2. Younger entrepreneurs are commonly in lack of experience and resources
+(Pan Yong, Mao Ning, 2019). The birth of the accelerator has integrated of the
+industry's core resources and business counseling (Pauwels etc, 2016; Mian
+etc, 2016), which promotes the acceleration of the growth rate of the startups
+and reduces the trial mistake cost. The world’s first accelerator, Y-Combinator,
+founded by Paul Graham in Massachusetts in 2015, has accelerated the
+incubation of a new economic unicorn represented by Reddit and Airbnb. As a
+result, the similar accelerators have spread rapidly around the world, as
+shown in the picture. In the blockchain industry, accelerators represented by
+Draper, Consensus Lab, IBM, and Tribe have rapidly developed and expanded
+in the past 4 years, helping blockchain projects in such areas as finance,
+business guidance and the key resource integration. As for now, these
+accelerators have become one of the indispensable important components of
+the blockchain ecosystem.
+
+WeBlock.me (formerly Webounty.io) is deeply involved in the global network flow of
+the blockchain. It offers a one-stop autonomous blockchain acceleration solution. In
+the past year, we have gathered open-minded and experienced talents from over 20
+countries and regions to form a solid international team. By letting talented people
+from different regions, cultures and with different values work together to make
+suggestions for this blockchain project, and jointly empower this project has enabled
+to obtain sufficient resources and support at every critical stage of its early growth. At
+the same time, this has made WeBlock a truly decentralized platform with consensus
+and diversification as its core values from the beginning.
+
+1.1. The current blockchain situation
+1.1.1. Market Cycle
+Since the world's first ICO (Initial Coin Offering) issued by MasterCoin in July 2013
+(Keyan Wang, HanChao Li etc, 2019), there have been more than 3,000 ICOs in the
+world. However, in the early stage of ICO, accelerators and the similar representative
+institutions have not been emerged in large numbers of blockchain operations. This is
+partly because the overall market value of cryptocurrencies was too small at the time,
+and the other part was structured by most of the people who were attracted by
+blockchain, mainly computer geeks and interested at the cutting-edge technology
+financial practitioners. In 2014, the ICO released by ETH marked a major milestone in
+the history of ICO. It has not only brought blockchain technology to a whole new level,
+but also innovatively introduced the ERC20 token system, which greatly stimulated
+the rapid development of cryptocurrency. After several years of development,
+especially after the ERC20 token system has fully reduced the cost and difficulty of
+projects issuing their own tokens, ICO ushered into the golden age from 2017 to 2018,
+following data from icodata.com
+
+In 2017, there were more than 850 successful global ICOs, which raised more than 6
+billion US dollars. In 2018, this number reached 1,200 ICOs, and the amount of funds
+raised was 12 times of the last year, more than 72 billion US dollars. The ICOs, held by
+Telegram and EOS are not included, as the total amount of funds raised by these two
+companies alone is almost equal to the total fundraising for the whole year of
+2017 (Keyan Wang, Hanchao Li etc, 2019).
+With the maturity of ICOs, a large number of professional accelerators emerged into
+the blockchain field, such as: HASHED, GONGSHI LABs, FENBUSHI LABs, including the
+traditional Internet accelerators, as Y-Combinator, Draper Dragon, DanHua Capital,
+etc. The large number of accelerators entering the market has generated the growth
+for ICOs, which enabled some prospective for the small and medium projects to
+complete financing, and also has brought the huge profits to the accelerator
+organization itself. According to data from research analyst Larry Cermak (shown in
+the figure), without considering extreme values, the ICO projects has brought an
+average of more than 30 times the benefits to the accelerator.
+
+1.2. Market Period：
+Cryptocurrencies have a very obvious market period, which is characterized by:
+a. Strong correlation
+b. High volatility
+c. Non-linear rise.
+
+1.2.1. Strong Correlation
+According to Coinmarketcapcap's global cryptocurrency market capitalization chart,
+the current global cryptocurrency market value is about 200 billion US dollars, and the
+market value of Bitcoin (BTC) is around 66% of the entire cryptocurrency market value.
+BTC directly affects to the currency market value of other cryptocurrencies, and
+strongly correlates. As the market value of BTC changes, the market value of other
+cryptocurrencies also effectively changes. There are two existing reasons for this:
+a. First is the high consensus of BTC. As the world's first cryptocurrency, it has
+the broadest user base and widespread recognition.
+b. Second, other cryptocurrencies usually use BTC as a fundraising currency
+when conducting ICOs, so BTC not only becomes a hard currency, but it is
+deeply tied to the circulation value of other cryptocurrencies. For quite a long
+time, the market value and changes of the overall cryptocurrency have
+changed with the trend of BTC.
+
+1.2.2. High Volatility
+Compared with the traditional financial industry and the mature Internet industry, the
+cryptocurrency industry, which belongs to the cross-industry of the two, is still in its
+very early stage of rapid development. There are big potentials in the application of
+cryptocurrency and the blockchain technology in the commercial field, as it was for
+the Internet industry in 1990s. However, the overall volatility of the industry is still
+very high.
+According to statistics from HighCharts.com, the average volatility of BTC in the past
+five years was 3% for 30-day period, which is far lower than traditional currency with
+a 300%-500% of the average volatility.
+
+Although the market volatility has declined year by year in recent years. According to
+Bloomberg analyst predictions, the BTC volatility in 2020 will be very mature and tend
+to be a sovereign currency. BTC will bring a large-scale of bull market (Mike McGlone,
+2020), however blockchain commercial application of technology and cryptocurrency
+is still in the early stages, hence the short-term overall market instability is still the
+main tendency.
+
+1.2.3. Non-Linear Rise
+The consequence of the high volatility generates the BTC price possessing higher
+anti-risk ability. The price of BTC fluctuates greatly and the periodic changes of
+price are very frequent, which means that the switch between bull market and bear
+markets happens in a much faster way.
+Since the Cyprus incident in 2013, every major event in the national policy change of
+China will cause BTC to rise and fall dramatically, away from the law of linear
+regression. (Stråle Johansson, Nathalie Tjernström, Malin. 2014).
+
+1.3.Common Problems
+1.3.1. Complexity
+During the period of ICO, from budding to maturity, the overall projects development
+normally passes through tremendous changes. In the early and mid-terms, the project
+party only requires a whitepaper and a project website to start the ICO and build-up
+its community on the social media channels. With the future prosperity of ICO and
+the huge amount of financing behind it, the whole process has become segmented
+and streamlined.
+
+In the development of the blockchain projects, they not only need to write
+whitepaper and build up the website, but also need to go through financing rounds,
+system design, bounty incentives, third-party marketing, token airdrop, community
+AMA, social media campaigns, roadshows, investment sharing meeting, offline
+conferences and the social network activity. Each project needs to spend several
+months or a year to go through these processes. Considering the rapid development
+and iteration of the blockchain industry, there will be a large number of blockchain
+projects that miss a great deal of opportunities during this period, wasting time and
+cost. As each blockchain project have its own advantages and disadvantages, the
+accelerator does not have to be actively involved in every part.
+
+1.3.2. High cost
+Even though the efficiency and speed of blockchain accelerators are much faster than
+traditional Internet accelerators, they still cannot meet the market requirements for
+the blockchain projects. The most important point is the huge increase in cost.
+Considering the rapid expansion and horizontal development of the blockchain
+accelerators, the consumption of resources, especially the cost of human resource,
+office rental and etc. have increased from 10-20 thousand US dollars to hundreds of
+thousands of US dollars per year, or even to millions of US dollars. (Keyan Wang,
+HanChao Li etc, 2019). The huge service fees will be an obstacle for every blockchain
+project, which will bring down its existence and development. Therefore, many
+potential start-up projects lose their opportunities. At the same time, this
+phenomenon will also deflect the blockchain accelerator itself. According to the
+historical statistics, after the sharp decline in the market value of cryptocurrencies in
+2018, more than 95% of the blockchain accelerators have experienced a large-scale of
+layoffs, and some accelerators couldn’t even continue to operate normally. With a
+short-term profit-oriented market, the good prospective projects will be under the
+
+shadow of some scam operations, which hinders the high development speed of the
+cryptocurrency industry.
+
+1.3.3.Low efficiency
+Currently, the blockchain accelerator that is dominated by the centralized concept
+still does not have a good solution to the problem of project matchmaking and the
+balancing of accelerator resource consumption. During the bull market, because of
+the large amount of funds and new user inflow, the accelerator can easily bring a lot
+of resources to the project, thereby obtaining good results. But when the bear market
+arrives, due to the shrinking of the overall funds, there is not much of new funds and
+new users. As such, the service provided by the accelerator is deviated from their
+service fee differences. For instance, if the project party often fails to get good results
+after paying a high service fee, this means that those accelerators are not
+result-oriented. And as it was previously mentioned, the switch of bull market and
+bear market in blockchain industry is very rapid and it even occurs repeatedly
+throughout the year. Considering the low compatibility of the accelerators and the
+process complexity, it often takes a long time to complete a project acceleration. And
+this undesirable result may even appear multiple times during the service provision
+process.
+
+2.WeBlock:Vision/Mission/Targets/C
+ostumer Group/Solution
+ Vision：
+WeBlock intends to become a long-term, loyal and reliable partner for the blockchain
+startup projects. We strive to equip an extremely competitive super sportcar
+engine to those who are interested in the long-term development of the blockchain,
+so that the valuable blockchain projects with genuine ideas can travel at high speed
+on the blockchain track, develop their projects and quickly surpass their
+opponents and continue to be in a leading position to enjoy more eco-system
+resources and business opportunities.
+
+ Mission:
+WeBlock hopes to let more industries stir concern and devote themselves to the
+blockchain development, and strive to help every prospective blockchain project with
+its full service, including token design, decentralized operations services, one-stop
+empowerment services of the financial round, internet traffic flow, operation end and
+
+team resources to ensure that each blockchain project find its stage and boost the
+positive development of the entire blockchain eco-system.
+
+ Targets:
+
+
+
+
+
+
+
+
+
+
+To serve more than 100 projects with top 500 market value in Coinmarketcap
+by the end of 2020.
+To help top 10 best projects to enter the top 500 market value projects listed
+in Coinmarketcap.
+To form the first WeBlock eco-system community group with more than one
+million best community members.
+To serve the 70% of the top 500 market value projects in Coinmaretkcap in
+the next 3 years.
+To accelerate of the tokenization for more than 50 global mainstream
+industries such as social media, financial, cross-border business,
+wallet&trading platform, mining, catering, and etc.
+To integrate the Weblock eco-systeml community with an over 100 million
+global user pools to form an efficient and decentralized accelerated
+community organization.
+To help blockchain projects to target core users and connect with users, and
+build the community.
+
+ Costumer Group：
+WeBlock’s customer base comes from industries that can be combined with the
+decentralized blockchain philosophy, including social media, Internet, artificial
+intelligence, finance, international business, wallets&transactions platforms and etc.
+In our constant contact with various customer groups, we carefully evaluate the
+implementation possibilities of each specific business and accelerate the tokenization
+under a feasible path. At the same time, we are also actively exploring some new
+industries formed through blockchain technology. We believe that these
+tokenized new industries will be part of the social development in the next 5-10 years.
+
+3.WeBlock Solution
+After summarizing the problems appeared in the previous blockchain accelerators,
+WeBlock has proposed a solution with three core concepts:
+
+3.1.High Flexibility：
+
+After analyzing more than 300 successful ICO projects, WeBlock (here requires a chart)
+has noticed that the most of the blockchain teams are formed by a small group of
+elites (5-30 people). Each project has its own strengths, such as an excellent
+operation team or a unique code, but it also has some shortcomings, including the
+lack of marketing channels to voice for their projects, insufficient financing channels
+for their further operation cost and etc. This makes the compatibility for the
+acceleration solution with different projects extremely important. The
+peer-to-peer service of WeBlock breaks down and automates each key step in
+traditional acceleration service. Our customers can choose the required acceleration
+service autonomously based on its own needs and the comprehensive evaluation of
+our website.
+
+3.2.Cost-reduction：
+WeBlock's acceleration service, composed of big data matching and intelligent robots,
+reduces the use of human resources, hence reduces our service costs. We believe
+that human resources should be more applicable to the creative work, so we have
+designed a Node Authentication/Comment System, which can set us free from simple
+and repeating work. And instead spend our time in receiving feedbacks and
+suggestions for improving our robots and big data matching mechanism. At the same
+time, our intelligent service is developed in a peer-to-peer manner. Blockchain
+projects can be launched autonomously at any time and be stopped at any time, as
+such helping to yield a better outcome.
+
+3.3.Low Risk：
+Considering the size of the blockchain project at the beginning stage, most projects
+have relatively few opportunities for the trials and errors, so the process of
+accelerating services requires results-oriented and the responsibilities for the
+execution. This is very similar to the concept of POW. WeBlock accelerates the service
+to be more completed through proof of work, so the design of the overall accelerated
+service is carried out according to a standardized plan, and the service is provided
+
+after the target result obtained by the blockchain project, to ensure the maximum
+probability and the fastest speed to help the project complete 0-1 process.
+
+4.WeBlock's Business Model
+4.1.Main Approaches:
+Weblock overall business model based on big data analysis. Through the quantitative
+means, extracting the median value from the participation data of the cooperative
+projects in the past 1 year, in this way, we can clearly describe the growth path of a
+blockchain project, and through the data with the project fundamentals to calculate
+the project’s current position of life cycle, so as to automatically generate the
+corresponding acceleration program.
+Generally speaking, it includes the following aspects, as shown in the figure:
+
+4.1.1.Project creativity and tokenization:
+Blockchain projects are usually based on the existing physical industry and are
+processed by tokenization to form a new type of business that meets the needs of
+future development. However, not all the current physical industries can be tokenized.
+We often see some sunset industries and industries that have no other way to
+improve efficiency or innovation through decentralization going for financing or other
+purposes, forcible attempting to be tokenized, which not only wastes the effective
+social resources, but also has a negative impact on the sound development of the
+blockchain eco-system itself.
+Therefore, to find a good project that is suitale to be tokenized requires professional
+blockchain talents and relevant industry to evaluate and negotiate the process
+
+carefully. WeBlock conducts multiple rounds of online and offline evaluation through
+a review and consultation with blockchain experts from six countries, and to ensure
+that the project is in the right direction from the starting point.
+
+4.1.2.Core team formation:
+One of the core elements of a long-term well-run blockchain project is the Team. An
+efficient, suitable and complementary entrepreneurial team is the key to the
+successful operation of each project. Through a year of global talent reserve, WeBlock
+has evaluated from the dimensions of language, culture, performance and other
+aspects to match the most suitable talents for the projects. This includes the project
+core member database: core developers, project community managers, market
+media promoters, management talents and other relevant talents suitable for the
+industry.
+
+4.1.3.ICO and PE:
+Compared with the importance of the team, the fund is the lifeline, which decides on
+how long a project can run. Efficiently and appropriately obtain funds for the target
+blockchain start-up project with equal value will be an important indicator to measure
+the accelerator’s ability.
+Generally speaking, the source of funds for a blockchain community project are
+divided into two parts: ICO and PE. During the process, they are in no particular order,
+but no matter which party gets the funds first, we need to ensure that: first, make
+valuable projects obtain the maximum of funds; second, ensure that the purpose and
+use of funds are completely community-based and decentralized, preventing a single
+core leader of the project (project leader abandoning the project), and avoid a series
+of incorrect results, fraud or biased decision making. WeBlock's fundraising function is
+carried out in a completely decentralized manner. Project Visits/Community
+Ratings/Team Information/Project Execution/Project Evaluation/Project Investment
+Values/Community Quality and other dimensions are considered to form a complete
+set of project information fundamental analysis. After the big data processing, project
+information is forwarded to WeBlock's precise user group and PEs. For the ICO,
+proceeds the project matching with users, which allows the users to decide on
+investment, the ICO results match the due investment value of the project to the
+maximum extent. As for PE, WeBlock greatly reduce the time consumed on the
+research of the project and accelerates investment decisions.
+
+4.1.4.White Paper
+
+The white paper of a project marks the track, future development direction and goal
+of the project. A high-quality white paper allows community users and private equity
+institutions to quickly form a systematic understanding of the project. In the process
+of contacting with the project, we found out that many potential projects did not
+spend a lot of time to repeatedly polish and update their white paper, and further
+chose to apply the existing white paper template multiple times. It is not suggested to
+form a decentralized and self-promoting project, when its development is not based
+on the common consensus, but adopting the success path of other projects, as BTC or
+ETH. Because the result will definitely lead to the community with the continuous loss
+of members, eventually becoming another failure case.
+WeBlock team has selected and studied the successful projects of different countries
+and conducted the research on selected white papers. The research found that all the
+white papers of projects with progress are unique. Hence, it is required to create a
+unique white paper for each of our partners, this is where WeBlock has successfully
+generated its value, here need two examples (Celes, NPT).
+
+4.1.5. Community and social media operations:
+The community is the driving force behind the development of a project. The
+founding members need to provide the community with a diverse and free
+development environment, attract all valuable community users to enter the
+community, and make contributions to the community development. At the same
+time, the economic distribution system of the entire community required to be
+completed, in order to provide long-term incentives and dividends for the community
+users. This positive cycle can promote the project to evolve for a long time under the
+leadership of the community. WeBlock's multi-lingual community eco-system with
+more than 600,000 users is the example for such community. According to the POW
+economic system, Webounty completed its task system formation. As such, all
+contributing community members are systematically distributed the rewards every
+day to encourage them to repeatedly participate in community development.
+Social media is the external voice of the project. Through social medias like, Twitter,
+YouTube, Facebook, etc., a wider range of users are reached, forming an online social
+circle, helping the project to export brand awareness and project progress, and guide
+community users to provide value to the project. WeBlock’s experience in social
+media operation is even earlier than our own, as the members of the community’s
+core team are mostly social media opinion leaders. (Here are two examples) They
+know how to use social media to efficiently and positively affect users, so that the
+user’s project reach can be scaled and popular.
+
+4.1.6. Market channels and data indicators:
+
+For the mature blockchain projects, the market channel is an indispensable part of its
+structure. This part includes third-party communities, cooperative projects,
+well-known medias and popular KOLs. In order to achieve secondary dissemination of
+the project outside of its own media, media resources can form a communication
+eco-system matrix, increasing the user's credibility and repeated reach recognition.
+We can use the mature channel system accumulated by WeBlock to empower the
+project party and screen out the most optimized ones for the project party.
+The importance of data indicators to the project is self-evident, including the number
+of wallet addresses, the total value of the market, the total number of communities,
+the scores of third-party rating agencies, and etc. The process proceeds in orderly
+manner as; First, users will give the project a score, based on the various data
+indicators of the project, and then decide whether to participate in the project and
+the degree of participation based on this score. Secondly, when the project party try
+to list on the exchange, a good data will allow the exchange to provide more
+preferential treatment and conditions, these are all data resources and opportunities
+that ordinary project parties cannot have.
+Although, we can see that some project parties with high data indicators are still not
+developing very well. It can be the reason either of the following aspects:
+
+
+
+some key data indicators have false or low-quality components, such as the
+number of community members-many are false accounts, or
+institutional ratings-some institutions cannot be objective and fair, and only
+process the data on a decentralized platform can represent the quality of the
+data and be greatly improved and guaranteed
+
+WeBlock adopts an independent research and development of a third-party
+anti-cheating system, which mainly proposes solutions to the above problems. For
+technical details, please refer to page xx, Technology Section.
+
+4.1.7. Exchange Cooperation
+The exchange listing service has always been the most critical step in the financial
+empowerment of blockchain projects. Listing on a suitable exchange can make the
+project even more powerful and quickly become an influential blockchain project.
+Not-right exchange may bring long-term negative impact on the project and seriously
+affect the future development of the project. Within WeBlock's partners, there are
+not only more than 30 project parties, but also more than 50 well-known exchanges
+on the CMC. WeBlock has established a good long-term trust relationship with its
+exchange partners, which means that first of all, we can help the project successfully
+list on the target exchanges, secondly, we can get the channel price from the
+exchanges, which will greatly save project’s party expenses.
+
+4.2. Business model:
+4.2.1. One-Stop Service
+WeBlock is a professional one-stop incubation platform, dedicated to help
+outstanding blockchain projects to incubate overseas, and develop excellent projects
+in all directions. We will provide project consultation: project concept direction, white
+paper consultation and improvement, core technology consultation, project issuance
+plan consultation; entity establishment: establishment of foundation/limited
+company, listing of local directors, establishment of offshore compliance entity, legal
+compliance: legal structural construction, legal document issuance, tax/audit
+compliance, technical support: official website development, official APP
+development, token/chain development, ERC20 agreement, project implementation:
+global roadshows/events, community establishment/maintenance, brand public
+relations, all-media integrated marketing, investment incubation, exchange docking,
+market value management. The one-stop service system covers the entire life cycle of
+the project from conception, establishment, development and landing, accelerates
+the incubation process to be more efficient, and the clear and transparent service
+process also eliminates the concerns of customers and enables the rapid realization of
+the project.
+
+4.2.2. Auto-Service, Flexible Customization
+WeBlock provides the whole process of professional one-stop incubation content, and
+at the same time provides the project party with the full self-selection rights and
+offers the optional incubation functions. The project party can select the incubation
+content and stage according to its own development and weakness with flexible and
+optional customization of incubation period, achieving a the targeted, rapid and
+effective acceleration path.
+
+4.2.3. High frequency
+The traditional single-incubation model has acceleration disadvantages like poor
+effects, irreversibility, and inability to offer multiple single/stage incubation. Unlike
+the traditional one, for the cyclical development of project incubation and
+development cycle, WeBlock provides multi-frequency and high-frequent service
+content selection, realizing exponential growth of incubation effect and omni media
+marketing.
+
+4.2.4.Network model
+
+WeBlock platform is a one-stop incubation platform, that breaks through
+geographical restrictions, fully utilizes the concept of blockchain decentralization and
+distributed governance, implements 7*24-hour network execution of the entire
+incubation process, increasing work efficiency, office space entry fees and incubation
+time costs, faced by the project party during the incubation process.
+
+4.2.5.International
+The WeBlock platform team operates in more than 20 languages including English,
+Korean, Japanese, Russian, Spanish, Malay, etc. Team members include senior digital
+currency practitioners from the United States, Japan, United Kingdom, South Korea,
+Malaysia, China and other countries and regions. We achieve project incubation with
+multilingual and multicultural backgrounds.
+
+4.2.6.Community
+WeBlock's Webounty community platform is a bounty user growth operation
+platform, with 300,000+ private domain traffic and nearly 1,000 KOLs that can be
+recruited for the project teams. Through its independently developed POW-based
+model, Webounty applies a unique invitation authentication and content reward
+mechanism, establishing independent community traffic and communication
+channels for the project and expanding project consensus and influence.
+
+5.WeBlock core service eco-system
+In total, WeBlock is divided into 6, complementing each other, eco-system services.
+Each service corresponds to a critical success path node of the ICO project in the
+acceleration business model. The control and optimization of each critical path node
+is the most important manifestation of the core value of WeBlock eco-system service .
+
+5.1.Webounty: The Path Node
+Webounty is the intelligent community and social media user growth solution service
+based on the WeBlock system. It mainly solves the problems of project’s low
+community influence, lack of real users, low diversity of community users, and low
+active amount of community members. The main manifestation of Webounty is the
+bounty activity based on the independently developed intelligent robot Bounty-Man.
+The scheme operates in the strict accordance with the Proof of Work model. Through
+Bounty-Man analysis, certification, and screening of each user information, it is
+confirmed whether the user has real activity on the platform, as well as the
+occurrence path and authenticity of the activity, so as to rank the contribution from
+high to low and award the user corresponding rewards.
+
+WeBounty has developed different characteristics in its design concept from previous
+Bounty products:
+
+5.1.1. High Customization:
+As shown in the figure, Webounty can conduct community, social media growth and
+activeness customization for different projects. Project can choose the platform they
+want to focus on and the reward distribution value according to their own needs. At
+the same time, the project can adjust the rewards ratio and direction according to the
+daily data performance to maximize the effect.
+
+5.1.2.Results-Oriented:
+In more than 50+ completed projects, the average performance of Webounty could
+reach more than 80% satisfaction. It is achieved through systemization of the entire
+
+service mechanism adopting the form of POW. The system automatically allocates
+rewards to those who have completed the workload. At the same time, the system
+automatically generates a user reward form after the event, so that the project party
+can clearly quantify the input-output ratio.
+
+5.1.3. Traffic sharing and development:
+As a peer-to-peer platform, Webounty undertakes user traffic brought by different
+projects, as such forming a huge user traffic pool. Through the increase of the
+partners base, the user pool is further continuing to expand. During the process, any
+newly added project can share the user pool, so each project improving the effect of
+the previous one. Second, as Webounty's own user pool continues to expand, the
+marginal cost of the project is affectively declined, hence the entire user pool system
+is becoming more efficient.
+
+5.2.WePayU:
+WePayU provides a set of peer-to-peer services for decentralized digital advertising,
+which is based on blockchain technology and paid by digital currency. Unlike
+Webounty, it focuses on getting more attention and website visitors for initial
+blockchain projects by sending advertisements online with a small reward. The user
+clicks on an advertisement, which enables WePayU system to analyze the
+effectiveness of the click (IP address verification), duration (minimum viewing time)
+and the second jump rate to confirm whether the reward is issued and the summary
+of payments.
+
+WePayU's platform service eliminates the instability of the authoritative advertising
+platform, allowing advertisers to publish advertisements more efficiently, while users
+can selectively receive interesting and accurate advertisements and avoid malicious
+ones. The system enables the accumulation of corresponding income through the
+whole process.
+
+In the concept of quantifying results, WePayU applies the same concept as Webounty.
+Based on the tasks of advertisers, the system back-end summarizes the current and
+future performance predictions of the advertisements through the big data analysis,
+and gather the reference and strategies time adjustment, achieving maximum effect.
+
+Based on the decentralized and globalized nature of blockchain, WePayU's
+peer-to-peer digital advertising adopts a community-based operation method. With a
+comprehensive reach of more than 200 countries, WePayU can ensure that
+advertisers can reach sufficiently diverse areas of blockchain users, thus providing
+advertisers with sufficient diverse user.
+
+5.3.WeAdmin: the path node serving for team
+
+formation
+WeAdmin mainly solves the pain points of community team formation in the business
+model. We divide WeAdmin into two parts to deal with customer's team formation
+needs: The first is the Admin department (community administrator), as shown in the
+figure.
+
+At present, the Admin system has more than 15 highly qualified contract
+administrators. The team is highly professional at community operations and
+community maintenance in many languages. WeBlock's customers can view through
+their own permissions, contact interested administrators and recruit them for their
+community management. Through our platform, customers can book the type and
+duration of the preferred services.
+There is also a KOL department. As shown in the figure, WeAdmin is shared with
+certified third-party opinion leaders and powerful industry influencers to provide
+cooperation for the project party. And the project party can choose the required
+region, language and corresponding service according to their own preferences.
+At the same time, we introduced the token incentive system and the Jury System, (a
+picture is required here)
+
+We encourage ADMINs, KOLs and the media to show their personal information and
+experience more. Demonstrate and update of each information of the administrator
+(Name/Identity/Age/Work Experience/Cost/Service Content/Educational Background,
+etc.), a such corresponding tokens will be provided as a reward; evaluation by
+customers after the service ends is also encouraged with token incentives. Further,
+we form a third-party accredited agency from an active representative user of the
+community and other administrators’ feedback and the customers’ evaluation. If the
+decision is approved by more than half of the accrediting agency, the said customer
+will receive double amount of token, and the users who have voted to this evaluation
+will receive token incentives. Vice versa, if it was voted against by more than half of
+the accrediting agency, this evaluation will not be included, and affectively the
+incentives tokes are not distributed.
+
+5.4.WeIXO:
+
+Relying on WeBlock's community-based business model, the value of the entire
+WeBlock originates from the connecting project parties with high-quality users.
+Therefore, in the process of solving the project's online roadshow and
+fundraising problems, we have been implementing the highly active users and high
+transparency projects as the core concept, as such the overall concept is expressed
+through WeICO.
+WeICO pays close attention to the hottest and best projects in the present industry.
+The user’s attention determines the priority of project display. The scientific ranking
+of attention comes from the weighted average heat value, which is calculated as
+follows:
+
+Weighted average popularity value = (number of items viewed by users + degree of
+user's activity verification (time of registration/number of tokens held / KYC) +
+number of user authentication messages (token authentication) + degree of
+
+information disclosure by the project party)/ total viewed number of WeICO in the
+past 24 hours
+Users visit the investment analysis homepage of the interested project on WeICO and
+make investment choices via entering the third-party designated page.
+
+5.5.WeListing:
+
+WeListing is WeBLock's listing service in the acceleration ecosystem, relying on the
+highly qualified exchange resources that WeBlock has partnered with. By keeping in
+close contact with exchanges, we can obtain their latest channel prices. At the same
+time, as a channel partner of 30 exchanges around the world, we ensure that the
+listing service fee is lower than the official price of the exchange. Through token
+incentives and verification, we also display the target exchange on the website,
+including the recent developments and the latest listing policies and etc.
+The exchange list ranking is obtained by the calculated average method:
+
+Exchange's list ranking on the day = Exchange pload/update/login frequency (30%) +
+Exchange's number of online projects within 30 days (30%) + Exchange account’s
+holding tokens (30%) + Exchange's 24-hour liquidity Index (10%) / total number of
+tokens held by all exchange-certified accounts on the platform in 24 hours
+(Remarks: 24-hour liquidity index refers to Coinmarketcap & Coingecko)
+
+5.6.WeLabs:
+
+WeLabs consists of WeBlock’s founding governance committees on blockchain
+consultants of independent industries. It is intended to solve the problem of
+tokenization in the targeted industry. As part of the acceleration service, at the
+beginning of the entire acceleration cycle, the service WeLabs can provide continuous
+
+tokenization and linked business consulting services to help enterprises to transform
+into public chains, Alliance Chains and Private Chains, in order to achieve the purpose
+of decentralization. At the same time, the committee regularly publishes industry
+research and cutting-edge technology related papers, and research for high-quality
+project parties and institutions.
+
+6. WeToken application scenario and
+economic token system
+WeToken is a decentralized token system based on the WeBlock business model. It
+connects the entire business system through the concept of the Proof of Stake and the
+token model, ensuring that WeBlock’s business model is transparent, open, and
+community-based.
+WeToken application scenarios:
+
+6.1.WeBounty
+6.1.1. Admin
+(1) Customers subscribe to WeBounty traffic service through WeToken;
+(2) Based on the customer's WeToken holdings, design discounts on service fees.
+(3) In accordance with the customer requirements, WeBounty Homepage/Page Poster
+design and development services are provided upon WeToken payment.
+
+6.1.2. User
+Users can refer to WeToken to purchase WeBounty membership. Members can unlock
+daily tasks online and collect bonus points and more rewards. At the same time,
+members can obtain WeBounty assistant personal one-to-one customer service.
+
+6.2. WePayU
+6.2.1. Admin
+(1) Customers can publish advertisements through WeToken platfrom, renew the
+advertisement duration period, and change the advertisement attributes.
+(2) Customers can refer to WeToken for advertising tasks reward.
+
+6.3.WeAdmin
+6.3.1.Admin
+(1)
+(2)
+(3)
+(4)
+
+Customers refer to WeToken to view administrator personal information;
+Customers booking/changing/canceling administrator services through WeToken;
+Customers leave comments to the administrator through WeToken platform;
+Customer message comments are verified by community representatives,
+customer representatives and administrators. If more than 51% of the votes are
+approved, customers can receive corresponding WeToken incentives;
+(5) Customers refer to WeToken to book third-party KOL services.
+
+6.3.2. Administrator
+(1) Admin establishes a personal basic homepage on WeToken platform;
+(2) Admin can obtain the administrators recommended popular section within
+specified time period on the WeToken;
+(3) Admin obtains additional privileges of personal homepage (video/picture/file
+upload, etc.) in accordance with WeToken holdings;
+(4) Admin can cancel the reservation service of the Admin through WeToken;
+(5) Admin provides feedbacks and verifies the customer's message through WeToken.
+If the Admin's verification is the same as other 51% verification, Admin will
+receive the corresponding token incentive.
+
+6.4.WeIXO
+6.4.1. Admin
+(1) Customers refer to WeToken to post, change, or cancel their personal ICO
+homepage and basic information;
+(2) Customers refer to WeToken to obtain limited-time popular recommendations and
+the priority to display;
+(3) Customers can obtain the upgrading privileges of their homepages through
+WeToken (page beautification/extra data display/page customization
+module/additional quota reward).
+
+6.4.2.User
+(1) Users obtain additional quotas/discount quotas of projects through WeToken
+holdings;
+(2) Users can view WeICO project in-depth reports and investment recommendations
+by consuming WeToken.
+
+6.5.WeListing
+6.5.1. Exchange
+(1) The exchange establishes/modifies personal homepage and basic information by
+applying WeToken;
+(2) The exchange updates personal information by applying WeToken. (Personal data
+is strongly related to the popularity of the project and affects the project’ orders
+number);
+(3) The exchange popularity affects the display priority of WeToken holdings;
+(4) The exchange obtains WeListing offline resource matching meeting opportunities
+based on WeToken holding volume and duration time;
+(5) The exchange refers WeToken to view the interested visitors' project parties in the
+last 30 days;
+(6) The exchange obtains the visitor's contact information by applying WeToken.
+
+6.5.2. Project Party
+(1) The project party checks the latest listing price of the exchange by applying
+WeToken;
+
+(2) The project party communicates with the exchange representatives one by one by
+apllying WeToken;
+(3) The project party obtains the exchange listing discount through holding WeToken.
+
+6.6.WeLabs
+6.6.1.Project Party
+(1) The project party obtains WeLabs consulting services by applying WeToken;
+(2) The project party obtains white paper, chain modifications, alliance chain,
+generalized economic design, translation and other services by applying
+WeToken;
+(3) The project party obtains WeLabs' latest trend research report by holding
+WeToken.
+More application scenarios, please stay tuned...
+
+6.7.WeToken token economic system
+WeToken must have four simultaneous characteristic attributes: 1. Circulation
+attributes; 2. Storage attributes; 3. Payment attributes; 4. Investment attributes.
+
+6.7.1. Circulation attributes
+WeToken can be circulated freely through the secondary market, and holders can
+
+freely trade and transmit WON among relevant trading platforms, OTC
+(Over-the-Counter) trading platforms, ERC20 wallets and Dapps.
+
+6.7.2. Store attributes
+WeToken is a permanent encrypted digital token. After remembering the private key,
+the holder can choose to store WON in his ERC20 wallet, or choose to store it in the
+exchange, however WeToken community team is not be responsible for any losses
+incurred on the exchange.
+
+6.7.3. Payment attributes
+WeToken has more than 50 payment and pledging rights on the WeBlock platform for
+users to enjoy various functions and benefits on the platform.
+
+6.7.4.Investment attributes
+Due to the constant total amount and free circulation of WeToken, according to the
+general principle of currency circulation, when the circulation rate in the secondary
+market is high and the inventory flow is consequently has risen, the token can
+maintain its value and grow for a longer period of time (SaifedeanAmmous, 2018), so
+WON has an investment property that can preserve and increase its value.
+Reminder, the investment risk of encrypted digital token is high, investors should be
+cautious and self-evaluate all the information.
+
+6.7.5.Token distribution
+The total amount of WeToken is constant, with a total of 1 billion issued. In
+particular :
+ 15% Marketing: applied for Bounty/Airdrop to motivate the community, to be
+distributed in four years, whereas the reward is halved every four months.
+ 5% Advisor: applied for Advisor+Partnership. The tokenes are locked for 1 year
+and released in batches.
+ 20% Earlier contributor: applied for the early core contributors of the WeBlock
+community, the lock-up period is 2 years, and it is gradually released every six
+months.
+ 10% Private fund: applied for private funding or private equity institutions, the
+lock-up period starts from 2 months.
+ 10% Public Raise: for public offering/ICO.
+ 30% Product fees: applied for the usage fee of WeBlock's 7 products.
+ 10% Foundation: locked for 2 years, applied to build the WeBlock ecosystem,
+
+maintain daily operations, product integration and function development.
+
+6.7.6.WeToken repurchase policy:
+WeToken implements a monthly repurchase policy.
+When WeToken begins to circulate in the secondary market, the WeToken Foundation
+will disclose the monthly income of the product on the website, and will spend 50%
+of the income to buy back WON in the secondary market. After the repurchase is
+completed, the monthly announcements will be released.
+WeToken RefundICO policy: RICO
+WeToken will implement a hierarchical ICO policy. Considering the early market
+volatility of cryptocurrency, WON will conduct a two-year ICO to reduce the risk
+incurred to investor and enhance market risk resistance ability, so as to steadily pass
+through the early challenges of the industry with the entire community.
+Before circulation in the secondary market:
+A total of three rounds of ICO will be conducted. The first round price is 0.01 USD.
+The price for the second round is 0.015 USD, and the price for the third round is 0.02
+USD.
+After circulation in the secondary market:
+Crowdfunding is conducted once a week, and the crowdfunding price is calculated as
+to 90% of the average price in the secondary market at the certain time. All users who
+have successfully obtained the quota at this stage need to lock their positions step by
+step for 3 months. After the purchase is completed, 25% will be released immediately,
+and the remaining 75% will be released every month.
+WeToken RefundICO:
+After the ICO is launched, users can choose to repurchase the tokens at any time,
+return the purchased WON in exchange for the purchase currency at the ICO price.
+The repurchase conditions are as follows:
+(1) The repurchased WON must be locked.
+(2) After the user applies for the return of WON, the user's WON will be RICO
+locked and processed for refund. The foundation will send the repurchase amount
+to the user's wallet address to buy back WON within 2 months.
+(3) The effective date of the repurchase is within four months after the ICO, and the
+WON Foundation will no longer implement the Token repurchase policy for more
+than four months.
+
+7.Technical Part
+WeBlock adopts a decentralization concept to accelerate the project’s development
+and achieve the ultimate fund-raising purpose. It realizes the purpose of linking data,
+
+transaction, user ID information and characteristic behavior to the chain, ensuring the
+acceleration of the decentralization and automatic execution of the project. The
+overall structure of the system can be divided into three layers, from top to bottom:
+the bottom layer is the blockchain network layer, the middle layer is the consensus
+mechanism and the authority management layer, at the top layer is the
+business/service layer. The main function of the blockchain network layer is to
+implement a P2P network and provide the basic ability to build a blockchain network
+at the bottom. The system includes nodes and the services providers, who are acting in
+their relative roles. The consensus mechanism and authority management mainly
+implement the consensus mechanism based on the connectivity of the blockchain
+network layer. The functions provide the basis for a distributed ledger; the
+business/service layer supports chain code (code is running on the blockchain),
+transactions and other functional modules related to WeBlock business and the
+execution of the top-level applications development support services. The details are
+as follows:
+
+(1) Development layer: WeBlock platform, Token wallet, Task mall, Platform and a
+series of programmable interfaces.
+(2) Distributed ledger transaction layer: Token ledger, Task ledger, Public welfare
+
+ledger, Consensus mechanism.
+(3) Data layer: Token ledger history records, User ledger records, Project party ledger
+records, Public welfare fund ledger records, Data records, etc.
+(4) Security layer: Identity management, Authority management and Encryption
+services.
+a.
+
+Identity management: Verification node (committee is responsible for account
+maintenance and daily management decisions), Tracking node (data collection
+request), Ordinary node (user), Task initiating agency, Core team, Government
+supervision/Audit agency, Off-chain users ( inquire, download materials, and
+etc.).
+
+b.
+
+Authority management: Hierarchical authority control, various nodes obtain
+various authorities, the execution of all authorities is provided to the public upon
+inquiry.
+
+c.
+
+Encryption algorithm: ECDSA, ECC, Hash and other encryption algorithms.
+
+(5) Infrastructure layer: The main computing power and server resources are
+provided by the verification node.
+
+7.1.Blockchain network layer
+7.1.1. Node
+The concept of peer is originated from a peer-to-peer distributed network. It is a basic
+concept in distributed systems and blockchain networks, referring to services or
+software that perform certain functions in the network. Node functions may be the
+same, for instance, in a peer-to-peer network, the functions of all nodes maybe similar,
+or different, regarding in variety of contribution level (such as the different role
+between super nodes and ordinary nodes in the DPoS consensus mechanism).
+In the WeBlock network, node refers to all instances that fulfill the node function in
+the network. These instances may run in bare machine, in virtual machines, or in
+containers. The nodes communicate through the gRPC protocol.
+
+According to different functions, the nodes in the WeBlock network can be divided
+into three categories:
+Endorsement node: The main function of the endorsement node is to check and
+endorse the transaction proposal from the users;
+Confirmation node: The main function of the confirm node is to check the transaction
+request, execute the transaction and maintain the blockchain and ledger structure;
+Submission node: responsible for receiving the transaction and forwarding it to the
+sorting node.
+The roles classification of these nodes is only reflected in function, and these nodes
+will not be mutually exclusive. Therefore, it is agreed that the physical node can
+served as an endorsement node and a confirmation node at the same time. The
+submission node is operated through the SDK integration of the client.
+
+7.1.2.Sorting nodes
+The sorting node is a relatively special node, which is different from the
+aforementioned node during the code operation. The main function of the sorting
+node is to be responsible for the overall sorting of all transactions it receives. The
+sorting node implements two interfaces: broadcast interface and delivery interface.
+The broadcast interface is applied to receive transaction data in the WeBlock network.
+The delivery interface is applied for the WeBlock network to pass the block structure
+constructed after sorting.
+The sorting node supports multiple channels. Different channels are isolated from
+each other, and transaction-related information in the channel will only be sent to the
+nodes that join the channel (also based on the gRPC protocol), thereby improving
+privacy and security.
+From a functional point of view, the purpose of the sorting node is to assign a globally
+unique sequence number to each transaction in the network, and it actually does not
+require specific data content related to the transaction. To further enhance privacy, the
+transaction information sent to the sorting node may be partial information, such as
+
+encrypted data items, or just the transaction hash value, transaction ID, and other
+information. In fact, this design simultaneously increases the reliability and security
+of the sorting nodes.
+
+7.1.3. Client
+The client is the bridge between the user and the blockchain, and mainly includes two
+functions:
+1. Operation of the WeBlock Network
+2. Operation of the WeBlock Chaincode
+
+7.1.4.Certificate Authority(CA)
+The CA node is responsible for managing membership information in the WeBlock
+network.
+The WeBlock network uses a digital certificate mechanism to implement identity
+authentication and authority control, and the CA node implements a PKI service,
+which is mainly responsible for the management of identity certificates, including
+generation and revocation.
+It is worth noting that the process of issuing digital certificates by CA nodes is
+completely decoupled from the transaction processing process on the network.
+Therefore, CA nodes can issue digital certificates in advance and send them to the
+corresponding member entities. After obtaining digital certificates, these member
+entities can access various resources in the network. In addition, for the future access,
+it is no longer necessary to apply for a digital certificate from the CA node again. The
+working mechanism of the CA node ensures that it will not hamper the performance
+of the entire WeBlock network.
+
+7.1.5.Gossip protocol
+The nodes in the WeBlock network perform status synchronization and data
+
+distribution through the Gossip protocol.
+The Gossip protocol is a common protocol in P2P networks, applied for data
+distribution and information exchange between multiple nodes in the network. The
+WeBlock network has selected this protocol mainly because of its excellent
+performance, which is simple in design and easy to implement while maintaining a
+very high fault tolerance.
+The basic idea of the Gossip protocol is that the data sender randomly selects several
+nodes from the network and sends the data over; the receiver repeats this process
+(normally, only nodes other than the sender are selected for broadcasting). As this
+process continues, the nodes in the network achieve consistency. As such regulating
+the logarithm time complexity for the number of nodes in the entire network. The data
+can be sent by the sender or can be pulled by the receiver.
+
+7.1.6.Consensus mechanism
+The concept of consensus comes from the consistency of distribution in a distributed
+system. Roughly speaking, the consensus problem refers to the agreement on a certain
+ledger status between each node or process running independently in the WeBlock
+network. Commonly mentioned consensus mechanisms in the blockchain system are
+Bitcoin's PoW mechanism, Ethereum's PoS mechanism, EOS's DPoS, Ripple's PBFT
+algorithm, and Tencent's blockchain-modified t-Raft.
+The consensus process of the WeBlock network includes three links: Endorsement,
+Sorting, and Authorization.
+Endorsement means that the endorsement node checks the received transaction
+proposal from the client and decides whether to support it. Normally, endorsement
+means that the endorsement node adds a digital certificate to the received transaction
+proposal and the state change (transaction read-write set) generated by the transaction
+simulation operation.
+Sorting refers to reaching a globally consistent order for a batch of transactions over a
+period of time. Generally, sorting services are provided by a cluster of sorting nodes.
+
+The sorting service has no other functions except to be responsible for achieving a
+global consistent order, and the sorting node is easily expanded horizontally to
+improve the throughput of the entire WeBlock network, so the sorting service will not
+hamper the performance of the WeBlock network.
+Authorization refers to the final review before submitting the batch of transactions
+post sorting to the ledger. The authorization process includes checking the integrity of
+the transaction structure, whether the exchange’s endorsement signature meets the
+endorsement requirement, and whether the transaction’s read-write set meets the
+relevant requirements of multi-ledger concurrency control. If a status is displayed as
+“operation is performed” during the authorization process, all current status in the
+corresponding transaction read-write set must be the same when endorsement is
+executed, otherwise the transaction will be considered invalid and the transaction will
+be failed.
+The necessity of the authorization process is to avoid conflicts in status updates when
+transactions are concurrent, and to ensure that the transaction results seen by all nodes
+when the transaction are consistent.
+
+7.1.7.Authority management
+The authority management in WeBlock network includes two core concepts: MSP and
+identity certificate.
+Identity certificate is the foundation of WeBlock network to realize authority
+management. At the present, the WeBlock network uses the asymmetric key system of
+the ECDSA algorithm to generate public and private keys. WeBlock manages the ID
+card through the CA node, and each individual or organization can obtain its own
+identity certificate on the WeBlock network.
+MSP refers to the member service provider in the WeBlock network, and represents a
+set of mechanisms for authenticating a certain member (or node, process, etc.), and is
+the basis for implementing rights management. Based on MSP, member entities can
+confirm the data signature, as such the WeBlock network can verify the identity of the
+
+signature.
+The MSP structure of a member entity often includes digital signatures and
+verification algorithms, and a set of digital certificates that comply with the
+specifications. These certificates can be traced back to a common root certificate.
+
+7.2.Business/service layer
+The business layer component design makes WeBlock's underlying architecture
+transparent to application developers. Application developers do not need to know the
+implementation details of the WeBlock blockchain network, but only need to utilize
+the public programmable interface of the business layer for application development.
+At the same time, the underlying implementation of the WeBlock network can ensure
+that these applications can run smoothly on the WeBlock network. We will introduce
+several core concepts related to the business layer in the following text. These
+concepts reflect the characteristics of the distributed ledger platform based on
+blockchain technology, support the upper-layer distributed applications, and provide
+excellent scalability for the WeBlock network.
+
+7.2.1. Transaction
+Transaction is a basic concept in the blockchain network. The execution of a
+transaction means a status change of the ledger by calling the chain code. The client
+can request the distributed ledger to record transaction information. Generally
+speaking, to construct a legal transaction, the client first needs to create a transaction
+proposal, and then send it to the endorsement node. After receiving the transaction
+proposal, the endorsement node verifies it and decides whether to endorse it or not. A
+transaction proposal can only be constructed as a legal transaction request after
+sufficient endorsement is obtained before being sent to the sorting node. The sorting
+node executes the transaction requests (time stamping) and packages them into blocks,
+
+which are then broadcast to the entire network. The confirmation node in the WeBlock
+network performs verification after receiving the new block, and the verified block is
+written into the ledger, as such the transaction is completed.
+
+7.2.2. Block
+A block is a set of transactions marked with a timestamp after being operated by a
+sorting node. Blockchain is a chain structure formed by linking transaction history
+one by one. By adjusting the size of the block, the throughput performance and
+confirmation time can be balanced.
+The block structure is composed of three parts, including block header, data and
+metadata. The block header field is used to construct the chain structure, including the
+block number, the hash value of the previous block header field, and the hash value of
+the current block data field. The data field of the block records the transaction
+information packaged in the block. The metadata field records some auxiliary
+information of the transaction.
+
+7.2.3. Chain Code
+Chaincode is the code that runs on the WeBlock blockchain. The design of the chain
+code inherits the idea of smart contracts and has been expanded to support multiple
+high-level programming languages. There are currently two types of chain codes in
+the WeBlock network: user chain codes and system chain codes. The user chain code
+is used to provide support for upper-layer applications, and the system chain code is
+used to provide support for system configuration and management.
+
+7.2.4. Channel
+In a narrow sense, a channel is an atomic broadcast channel that is separated from
+each other on the sequencing service and managed by the similar concept.
+
+The channel, the configuration and data are bound to the channel (including
+transactions, ledger information, chain code instances, membership and permissions,
+etc.) together form a complete blockchain. These data will only be discovered or
+accessed by the members of the organization, who has joined the channel, any
+member outside the channel cannot access to the data of the channel. Since the
+channel and chain structures are in one-to-one correspondence, the channel and chain
+structures sometimes can be identical.
+The WeBlock network includes two types of channels, application channels and
+system channels. Application channels are used by user applications and are
+responsible for carrying various transactions. The latter is responsible for managing
+application channel operation.
+
+7.2.5. Chain structure
+The chain structure corresponds to the channel one by one. A chain structure includes
+the following parts:
+All transaction information in the bound channel that are stored in the form of blocks;
+Information about the chain code installed in the channel;
+The organization members that have the authority to operate on the chain structure to
+participate the on-chain activity.
+
+7.2.6. Ledger
+Ledger is a very core structure in the WeBlock network, and is the further derivative
+based on the blockchain structure. The ledger is mainly responsible for recording
+transaction information that occurs within the network. Transactions in the WeBlock
+network automatically modify the status of the ledger record.
+Structurally, the ledger includes a blockchain structure and multiple database
+structures.
+(1) Status database: The status database is derived from the execution of transactions
+
+in the blockchain structure and records the latest global status;
+(2) Historical database: The historical database stores historical change records of
+various status;
+(3) Index database: The index database stores the index information of the blockchain,
+such as hash value, block number (index to block), transaction ID (index to
+transaction), etc.
+From the perspective of the database, the blockchain structure records the history of
+status changes, and the status database records the final results of the changes. Each
+change in the status of the ledger is expressed through the read-write set that is
+generated by the transaction. Therefore, the transaction is actually the process of the
+WeBlock network accepting a transaction read-write set.
+It is worth noting that because the channels are isolated from each other, each channel
+has a corresponding independent ledger structure, and the ledger structures of
+different channels are also isolated.
+
+7.3.Transaction model
+In this section of the transaction model, we will show users a typical transaction
+process of a WeBlock network, and introduce to the main role of each core component
+of the WeBlock network transaction process.
+
+7.3.1. Client (APP/WEB)
+Client applications use the SDK to interact with the KCM network. First, the client
+obtains a legal identity certificate from the CA node to join the application channel in
+the WeBlock network. Before initiating a formal transaction, the client needs to
+construct a legal transaction proposal and submit it to the endorsement node. After the
+client collects enough endorsements (the number of endorsements to be collected is
+determined by the system rules), the endorsement can be used to construct a legal
+transaction request and send it to the sorting node. The client can also listen to
+network messages through the event mechanism to learn the execution status of the
+transaction.
+
+7.3.2. Endorsement node
+The endorsement node mainly provides the P-Proposal method for the client to call
+for the complicity of the endorsement processing of the transaction proposal. After
+receiving the transaction proposal from the client, the endorsement node first needs to
+detect the legitimacy of the transaction proposal and carry out a permission check.
+After the checking is passed, the transaction proposal should have the simulation run.
+And the status change caused by the transaction execution (recorded in the form of
+read-write set, including the key value and version of the read status, the key value of
+the written status) should receive endorsement before sending back the results to the
+client. In the WeBlock network, only some nodes act as endorsers.
+
+7.3.3. Confirmation node (committee node)
+Confirmation node is responsible for maintaining the blockchain and ledger structure.
+The confirmation node periodically obtains the sorted bulk transaction blocks from
+the sorting node, and conducts the final check before placing the transaction,
+transactions including the transaction information structure, signature integrity,
+whether it is repeated, and whether the read-write set version matches, and etc. After
+
+the completion of the checking and confirmation, the legal transaction is executed,
+and the result of the transaction execution is written into the ledger, with a new block
+being constructed and the block information being updated. In the architecture design
+of WeBlock, the same physical node can not only play the role of a single
+confirmation node, but also have two more roles of being confirmation and
+endorsement node.
+
+7.3.4. Sorting Node
+In the entire transaction process, the sorting node is the only node responsible for the
+block-sorting. The sorting here refers to the global sorting of all legal transactions in
+WeBlock network before packaging these transactions into the blocks batches.
+Identity management center: The identity authority management center is responsible
+for all certificates and authority in the WeBlock network and implements a standard
+PKI structure.
+
+7.4.Database
+7.4.1. Client
+The client is the carrier of various functions of the platform for the user. We have fully
+taken into consideration our users’ convenience, users’ habits, the interaction between
+human-computer scenarios, and as a result, designed two client applications: Token
+wallet and Global website.
+a.
+
+I. WeBlock website will serve as a platform for the project to accelerate
+incubation and promotion (information publicity, task release, procurement
+announcement, KOL resources, IXO announcement, and etc.,) task mall, data
+platform, and social network carrier.
+
+b.
+
+WeBlock APP is a mobile app on the WeBlock website, which enables WeBlock
+mobile users to easily access the WeBlock project platform. The WeBlock mobile
+application aggregates all the functions of the WeBlock website, based on which
+
+the WeBlock hot wallet function module is developed. Through WeBlock mobile
+platform, users can not only experience all the functions of the WeBlock website,
+but also use the wallet function module for payment and digital asset
+management.
+
+7.4.2.Account System
+
+WeBlock has a complete distributed account system. Our underlying facilities are
+secondary development based on Ethereum, so our distributed account system applies
+smart contract protocol distribution to fully improve user-friendly features. Users can
+achieve decentralized management of accounts through our account system, in
+particular, we allow users to manage accounts through a personified account name
+with a length of 12 bytes while using cryptographic algorithms to create digital
+identities, and cross-platform interaction. At the same time, our account system has a
+credible verification function of the user's identity to ensure the authenticity of the
+user's identity during the transaction process and the function of retrieving the user's
+identity, which maximizes the security of the WeBlock business and the user friendly
+experience.
+
+7.4.3. Data management system
+
+Through the WeBlock data management system, users can view the corresponding
+account records on the WeBlock website immediately after purchasing and using the
+corresponding module function of WeBlock. The purchase record is saved in the
+blockchain network, so it can be tamper-proofed, non-forgettable and cross-platform
+interactive.
+Seed user and project database: Distributed storage + Hash address
+The blockchain's high-redundancy storage, (distributed storage, each node stores one
+copy) decentralized management, cryptographic security and other characteristics
+make it easy to enjoy obvious advantages in the storage of important data. The
+WeBlock project encourages platform users, KOL, authoritative media, project
+agencies, exchanges, etc. to share their information data and evaluation ratings on the
+WeBlock platform through token incentives to promote the information sharing and
+resources integration among all parties in the entire WeBlock ecosystem, reducing the
+time cost and human resources cost of the eco-system parties cooperation search in
+the conventional way. All uploaded cooperative resource data will be packaged into
+blocks after being verified by the node and stored in each of them. At the same time,
+the hash value of the block will be broadcast, and the user can find the corresponding
+data through the broadcasted hash value. The data query interface will be public for
+users or institutions under the chain to perform data query. This query process is based
+on hash addressing, which is unlike IP addressing keeps the data storage safe and
+accurate. Regardless if some nodes or servers in the network suffer downtime, data
+loss or tampering, or even physical destruction, users can still find the data
+corresponding to the hash value on other nodes or servers through the block’s hash
+value.
+
+7.4.4. Bonus redemption system
+
+In the traditional bonus redemption business, rewards or bonuses are distributed
+through a centralized network, either online or offline. The rewards are stored in the
+central agency and the redemption is completed after passing the system verification.
+When there are problems such as operation error, cancellation and failure of rewards
+and bonuses claim or the fraud, the manual verification is required, which worsens
+potential risks and disputes, and reduces the efficiency of the claim.
+Further, the centralized bonus management system lacks transparency, and its
+authority is often unreliable. WeBlock's bonus settlement system will save user
+behavior in the blockchain and automatically calculate and distribute the rewards.
+User behavior and their task completion records are connected to other distributed
+ledgers of the system, and user identity and distribution results are all decentralized.
+When the task is completed, the distribution results will be automatically settled in the
+WeBlock redemption smart contract, and the rewards will be distributed to the
+winner’s wallet address and broadcast to the entire network. This process is not under
+the control and influence of any third-party centralized organization, thus ensuring
+absolutely openness, fairness and transparency of the cashing process.
+
+7.4.5. Social and content UGC website
+The WeBlock website is an open multi-functional integrated social and content UGC
+platform, and it is an activity with obvious community effect. The WeBlock website
+hopes to gather volunteers, enthusiasts and institutions dedicated to the cause of the
+blockchain industry around the world by establishing an open-themed social platform.
+All users can share their communities, traffic, content and resources through the
+WeBlock website, and can also seek help from institutions or individuals around the
+world through the platform. Those organizations and institutions engaged in
+blockchain work, can also share the latest research results and project progress
+through the platform and provide professional consulting services. We believe that
+through our efforts, the WeBlock website will definitely enable participants from all
+over the world to achieve global interaction, collaboration and mutual assistance.
+
+In order to encourage global users to participate in our community and keep the
+community active, we will issue token rewards to active users of community activities
+and contributors of community resources. At the same time, the platform's AI and
+Admin collaborative reward function will allows apply platform users to use WeBlock
+to reward excellent content published in the community. At the same time, content
+publishers can also choose to donate the rewards they receive on the platform to the
+fund.
+The WeBlock website will also take advantage of the excellent performance of
+blockchain technology in data storage and cross-platform interaction to establish a
+data platform. Through this data platform and its blockchain data service system,
+WeBlock achieves project development and the secure data storage of acceleration
+data and data contribution by community participants, enabling data not being
+tampered with or lost, greatly improving the data security. And second, promoting
+data being shared and interacted on the platform, which can greatly promote the
+resources sharing and communication among the blockchain industry.
+
+

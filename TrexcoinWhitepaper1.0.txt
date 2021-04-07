@@ -1,0 +1,32 @@
+5,000 Blocks
+
+20 %
+
+5,000
+
+1: 2300 Million For Proof of Burn. Completed!
+2000 Million For Burn
+
+NAME: Trexcoin
+Ticker: TREX
+2: 100 Million For Airdrops, Marketing
+Algorithm: Scrypt
+and listings over internet included:
+Type: POW / POS (proof of work / proofExchanges,
+of stake)explorers, Online shopping stores,
+Last POW Block: 5000
+Payment processors. Completed!
+POW Block reward:10 TREX
+Block generation time: 60 seconds
+3: 100 Million For Developer's Reward. Completed!
+POS interest: 20% per year
+Stake min age: 12 hours
+Stake max age: 1 Year
+Min tx fee: 0.00001 TREX
+Total Coins: 50 Billion
+Premine Coins: 10 Billion
+RPC Port: 6565
+
+Burn
+
+

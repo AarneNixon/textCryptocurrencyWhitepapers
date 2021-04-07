@@ -1,0 +1,1008 @@
+Whitepaper
+Abstract
+
+3
+
+1. INTRODUCTION
+
+4
+
+1.1 Issues of Blockchain
+
+1.2 Issues of Smart Contract
+1.3 Solution of Precium
+
+5
+8
+9
+
+2. PRECIUM PLATFORM
+2.1 Introduction
+
+10
+
+2.3 Onyx Core Layer
+
+12
+
+2.2 Architecture
+
+2.4 Precium Platform Layer
+2.5 Application (7render's)
+
+2.5.1 Necessity and Role of Onyx Chain
+
+Precium 2 / 34
+
+2.5.2 Ecosystem Components & Service Flow
+
+11
+13
+16
+17
+18
+
+3. ONYX CHAIN
+3.1 Hybrid Blockchain
+
+20
+
+3.3 Consensus Protocol for Onyx Chain
+
+24
+
+3.2 Technical Overview
+
+4. TOKEN ECONOMY
+
+21
+
+26
+
+5. ACTIVATION PLAN
+5.1 Roadmap
+
+5.2 Marketing strategy
+
+28
+
+6. TOKEN DISTRIBUTION
+6.1 Introduction
+
+6.2 Token sales and ICO fundraise managements
+
+7. TEAM & PARTNERS
+8. REFERENCE
+Disclaimer of Liability
+
+29
+
+30
+34
+
+Abstract
+
+Unlike existing methods of data storage in which all data is stored in a centralized server, blockchain
+technology allows data to be linked together like a chain and shared among all participants, creating
+a distributed, immutable system. Smart contracts automatically execute according to contract terms
+Precium 3 / 34
+
+set between the contracting parties, fundamentally eliminating the risk of contract failure without any
+additional administrative costs. These characteristics give smart contracts unlimited potential. However,
+smart contracts have many technical shortcomings to address for real-world applications. Blockchain,
+upon which smart contracts are based, is still technologically inadequate in regards to economic efficiency
+and the reliability of decentralization. Smart contracts are also difficult for normal users to write and use.
+Additionally, there is still no method to determine with certainty whether or not a smart contract has been
+fulfilled.
+The Precium platform is a new smart contract platform for peer-to-peer (P2P) transactions that allows
+contracting parties to create and use smart contracts simply and securely. The Precium platform provides
+users with a template of code for various contract terms, allowing platform users to select and combine
+their preferred contract terms to create a complete smart contract. In addition, anyone can create and
+upload contract terms to the Precium platform. These contract terms go through a validation process to
+ensure users’ safety.
+Onyx chain, the core of the Precium platform, is a hybrid blockchain that combines public and private
+blockchains. Onyx chain employs the raft consensus protocol used by Quorum, a representative private
+blockchain based on go-Ethereum, and simultaneously preserves blockchain’s transparency while
+enjoying a high transaction rate and high scalability. Onyx chain’s unique structure combining both public
+and private blockchains gives it differentiated advantages over other blockchains. It can also use Oracle
+technology more efficiently, which is a technology that calls information from an off-chain network to an
+on-chain network on the blockchain.
+Onyx chain can secure a competitive advantage over existing blockchains through Precium’s unique and
+efficient hybrid blockchain structure. With this foundation, the Precium platform will contribute to the
+development of a robust smart contract ecosystem.
+
+1. INTRODUCTION
+
+Various industries recognize blockchain as one of the innovative
+
+Precium 4 / 34
+
+technologies that will change the future. Enterprises in each industry
+are making various attempts to apply blockchain to their specific goals.
+Among these efforts is the active research and development of smart
+contracts, which can simplify contract procedures. A smart contract
+refers to a contract on a blockchain that automatically executes
+according to terms agreed upon by the contracting parties; in reality,
+they are executed according to the agreement of a number of parties.
+Depending on the purpose of the blockchain, the parties involved can
+be anyone who can participate in the blockchain or limited to a certain
+set of authorized users.
+These blockchain-based smart contracts have various advantages.
+Most importantly, they reduce or completely eliminate the dependence
+on a middleman, a role necessary for traditional contracts. Smart
+contracts are well-suited for use in contract structures that require
+trust between the contracting parties, and have a decisive advantage
+over middleman systems in terms of productivity and cost savings.
+Additionally, compared to contracts administered manually, smart
+contracts are faster and much less prone to human error since they
+can be automatically managed and executed only through the network.
+
+Precium 5 / 34
+
+However, blockchain and smart contracts would have many technical shortcomings
+to address for industrial application. Blockchain, the basis for smart contracts, is still
+technologically inadequate in regards to economic efficienc y and the reliability of
+decentralization. Smart contracts are also difficult for normal users to write and use.
+Additionally, there is still no method to determine with certainty whether or not a smart
+contract has been fulfilled.
+
+1.1 Issues of Blockchain
+
+In blockchain, information is recorded on a ledger that is distributed on a peerto-peer (P2P) network rather than stored on a specific institution’s centralized
+server. This new distributed database management system, also referred to as a
+distributed ledger, is jointly recorded and managed by its participants. This system
+highly differs from existing database structures in which jointly-used data is
+collectively managed in one place. By using a consensus algorithm, the data to be
+recorded on the distributed ledger is sorted and validated to maintain its integrity.
+
+Public blockchains and private blockchains can be distinguished based on who
+has read and write permissions, as well as who has permission to participate in the
+consensus.
+
+Precium 6 / 34
+
+Public Blockchain
+
+A public blockchain, also referred to as a permissionless
+ledger, is a distributed database management system in which
+all transaction parties share and store transaction information
+o n t h e d i s t r i b u t e d l e d g e r, e n s u r i n g t h e t r a n s a c t i o n s ’
+transparency. Therefore, any network participant can validate,
+create, or view transactions. The widely-known Bitcoin and
+Ethereum blockchains are two examples.
+While public blockchains are more secure from hacking and
+issues involving trust compared to centralized management
+systems, they suffer from technological challenges such as
+slow processing speed and limited scalability, as well as price
+volatility. These issues make real-world industrial application
+difficult to achieve. Of course, there are many technologies
+such as Plasma, Sharding, Raiden, and DAG being researched
+and developed to overcome public blockchain’s technological
+limitations. However, there has not yet been a solution to
+the blockchain trilemma—that is, simultaneously maintaining
+decentralization, security, and scalability.
+
+A private blockchain, also referred to as a permissioned ledger, is a blockchain in which only
+certain nodes can participate. Recently, this blockchain structure has drawn the attention of
+many companies. From a company’s perspective,
+being able to directly select trustworthy nodes
+makes private blockchain management easy;
+moreover, since the nodes are trusted, private
+blockchains can secure higher processing speeds
+and scalability through consensus methods
+d i ffe re n t f ro m p u b l i c b l o c kc h a i n s . H o w e ve r,
+private blockchain nodes are limited to a certain
+institution or company, forcing the system to
+depend entirely on the service provider and
+introducing limitations regarding trust.
+Private Blockchain
+
+Public and private blockchains have clear pros and cons regarding transparency, security,
+scalability, and confidentiality. Public blockchains emphasize decentralization since anyone can
+
+Precium 7 / 34
+
+join the network; they are also very secure because their many participants all share and store
+the ledger. On the other hand, only authorized nodes can join a private blockchain, which better
+protects private information and introduces significant performance and cost benefits.
+
+Cost-efficiency
+
+●Hybrid
+●
+Private●
+●Public
+●
+Openness
+
+Transaction Speed
+Decentralized Trust
+
+As a result, there is a trade-off between trust and speed when considering the advantages of
+public and private blockchains. Many blockchain experts expect the boundary between these
+two types of blockchains to blur in the future.
+
+1.2 Issues of Smart Contract
+
+Smart contracts, first proposed by Nick Szabo in 1996, were further enhanced through
+Turing-completeness and the Ethereum Virtual Machine (EVM). The heart of the technology is
+its automated contract mechanism.
+
+Smart contracts’ greatest strength is their ability to create reliable contracts without the use
+
+Precium 8 / 34
+
+of a middleman.
+
+This leads to cost savings and low execution risk, catching the attention of companies in
+various sectors, including those involved in financial transactions, real estate contracts, and
+trade.
+However, there are many technological shortcomings to address to freely implement
+smart contracts for real-world application. First of all, in order to create a smart contract, a
+programming language must be used to code the contract terms and content; this is difficult
+for everyday users to do themselves. Additionally, an existing smart contract cannot be
+partially modified nor reused, introducing inefficiencies. Particularly in regards to security, any
+errors or vulnerabilities in the code can cause huge damage to users.
+There is also no complete blockchain consensus process to determine whether or not the
+conditions in a smart contract are fulfilled. Smart contracts are saved on the blockchain, so
+whenever external information is used, the reliability of the smart contract will depend on
+the reliability of that external information. Therefore, if information taken from outside the
+blockchain network (off-chain) is tampered with or contains discrepancies, then bringing
+that information onto the network (on-chain) can severely damage the reliability of the
+smart contract. In addition, in order to validate on-chain information, many nodes need to
+continuously retrieve external information. This process can also introduce many other
+problems.
+
+1.3 Solution of Precium
+
+Private Blockchain
+
+Precium 9 / 34
+
+Public Blockchain
+
+Hybrid Blockchain
+
+Precium seeks to solve blockchain’s current problems through the development of Onyx
+Chain, a hybrid blockchain that combines public and private blockchains.
+
+With its structure combining public and private blockchains, Onyx chain employs the Raft consensus
+protocol used by Quorum, a private blockchain based on go-Ethereum, and simultaneously preserves
+blockchain’s transparency while enjoying a high transaction rate and high scalability.
+Onyx chain remedies public blockchain’s problems with smart contracts and aims to remain reliable in
+real-world applications. The smart contract’s basic information is disclosed through the public blockchain,
+while the contract’s detailed information is confirmed by the contracting parties through the private
+blockchain, protecting confidential information. In addition, Oracles, technology that brings external
+information onto the network, are used on the private blockchain, making it more efficient than if used on
+the public blockchain.
+With Onyx chain as a foundation, the Precium platform aims to make secure smart contracts more
+convenient to use. Without any programming, users on the Precium platform can select and combine their
+preferred contract terms to conduct smart contracts on the P2P network. Moreover, anyone can create
+and upload contract terms to the Precium platform. These contract terms go through a validation process
+to ensure users’ safety.
+
+2. PRECIUM PLATFORM
+
+2.1 Introduction
+
+Precium 10 / 34
+
+The Precium platform is a smart contract platform based on the Onyx chain for peerto-peer (P2P) transactions that allows users to create and use smart contracts simply and
+securely. Existing smart contract platforms require developers to code terms directly into a
+smart contract for users. However, this existing structure introduces a huge barrier to entry
+for the general public who may wish to create their own smart contracts.
+
+The Precium platform provides users with a template of code for various contract terms,
+lowering users’ barrier to entry for creating smart contracts.
+
+Precium platform users only need to select and combine their preferred contract terms to
+create a complete contract. The platform then combines the selected coded terms from a
+template to provide a complete smart contract. Therefore, without any programming, users
+can employ smart contracts to engage in P2P transactions with their desired peers.
+This process is also highly efficient in reusing smart contracts. In daily life, contracts made
+for different purposes may still share many common terms. This includes terms such as
+contract duration, the number of times the contract should be executed, and for what amount
+of time it should be executed. The Precium platform stores pre-validated code for not only the
+above common terms but also for a variety of contract terms specific to certain fields. This
+code is then provided to users in a template. As such, it is very easy to reuse contract terms.
+Errors and other issues are also reduced, since the same validated code is used repeatedly.
+
+2.2 Architecture
+
+Application Layer
+
+Precium Platform Layer
+
+Precium 11 / 34
+
+Template Creator
+
+Platform User
+
+Design Contract Template
+
+Create Smart Contract using Template
+
+Test Codes for Template
+
+Pay ONX and PCM
+
+Get Rewards
+
+Get Rewards
+
+Use Oracle API
+
+Use Wallet
+
+Onyx Core Layer
+BlockChain
+Private State
+
+Public State
+
+Precium’s architecture comprises three layers. The most
+fundamental, the Onyx Core Layer, contains the Onyx chain where
+all contracts on the Precium platform are generated. The Precium
+Platform Layer has a Template Creator that templates the code
+related to the smart contract and a Platform User to build a smart
+contract. In the Precium platform, template creators are provided with
+the various functions needed to template the codes used for smart
+contracts, and platform users can use the functions of payment,
+wallet, reward as well as smart contracts. The top layer, Application
+Layer, has various applications that utilize the features of the Precium
+Platform Layer.
+
+2.3 Onyx Core Layer
+
+Onyx chain employs the Raft consensus protocol used by the private blockchain Quorum, and
+Precium 12 / 34
+
+simultaneously preserves blockchain’s transparency while enjoying a high transaction rate
+and high scalability. Quorum is an Ethereum-based distributed ledger protocol developed by
+JPMorgan Chase, and was designed as a minimal fork of the go-Ethereum client.
+
+“Quorum is an Ethereum-based distributed ledger protocol that has been developed to
+provide the Financial Services Industry with a permissioned implementation of Ethereum that
+supports transaction and contract privacy.” – J.P.Morgan
+
+Quorum has key features such as transaction and contract privacy, multiple voting based
+on the consensus mechanism, network and peer node participation permissions, and high
+performance. In particular, in contrast with Ethereum, in which all nodes can freely participate,
+Quorum is classified as a private blockchain because nodes must first receive permission to
+participate. Onyx chain aims to maintain Quorum’s inherent features as much as possible while
+also retaining public blockchain’s transparency and security.
+
+2.4 Precium Platform Layer
+The Precium Platform Layer has a template creator that implements the terms of the smart
+contract as a code and provides them as templates, and a platform user who uses this to
+create and use the smart contract.
+
+Precium Platform
+Template Creator
+
+Platform User
+re
+
+bl
+
+reValidatePurcha
+
+re
+equire(_ra
+equire(_wall
+equire(_tok
+
+ress(0));
+ress(0));
+
+re
+value;
+
+re
+r
+equir
+equir
+
+ress(0));
+ances[msg.sender]);
+
+Precium 13 / 34
+
+equir
+re
+
+ances[msg.sender]);
+
+Reward
+
+Onyx Chain
+
+Template creators codify specific contract terms that can be used for smart contracts, test
+them directly on the Onyx chain and upload them to the platform. These uploaded templates
+are validated on the platform, which prevents various problems that may occur due to errors
+in the code. The verified code is made into a template and provided to the Precium platform
+user. If the platform user makes a contract using the template, the template creator who
+provided the template can receive Onyx Coin as a reward.
+The Platform users can build a smart contract by simply combining the contract terms that
+they need among the contract templates provided. This smart contract is then saved and
+automatically executed on the Onyx chain. As mentioned above, the smart contract’s basic
+information is shared through the Onyx chain’s public blockchain, and its detailed information
+can be confirmed by the contracting parties through the private blockchain, protecting
+confidential information.
+
+The Precium platform provides an
+optimal environment for Contract
+Creators to make contract templates on
+the Onyx chain. Once the Contract Creator
+p ro g ra m s t h e c o n t ra c t te r m s t h ro u g h
+Precium Solidity, the code is compiled;
+
+Precium Platform
+
+Onyx Chain Develop Environment
+
+bytecode, Function Signature, and ABI
+Contract Code
+
+are provided for compilation. Bytecode
+is the compiled smart contract code
+expressed as hexadecimal numerals, while
+Function Signature and ABI contain the
+smart contract functions and parameter
+
+Bytecode
+
+Function
+Signature
+
+ABI
+
+Compile
+
+Precium 14 / 34
+
+metadata.
+Since Onyx chain is built on the
+Ethereum-based Quorum, this is the
+
+Contract
+Verification
+
+same as Ethereum’s smart contract
+development environment. This means
+that Onyx chain smart contracts
+guarantee as much stability as Ethereum
+s m a r t c o n t ra c ts . T h e a u t h o r c a n t h e n
+
+Template
+
+transfer fully-compiled contract code to
+the Precium platform, where it is then
+va l i d a te d . F i n a l l y, v e r i f i e d te m p l a te i s
+added to the platform and provided to
+users, and the template creator can be
+re w a rd e d fo r t h i s . T h e c re a t e d s m a r t
+
+Smart Contract
+Creation
+
+contract template provides platform
+users with a convenient and secure smart
+contract environment. They can create
+s m a r t c o n t ra c t s i n t h e O n y x c h a i n b y
+s e l e c t i n g a n d c o m b i n i n g t h e c o n t ra c t
+items they want from various contract
+templates, which can be freely used and
+distributed within the platform.
+
+OnyxChain
+
+Public
+
+Private
+
+Private
+
+ON-CHAIN
+
+1
+
+Request
+
+OFF-CHAIN
+
+3
+
+2
+
+Reward
+
+Precium 15 / 34
+
+Respond
+
+API
+API
+
+API
+API
+API
+API
+
+Bringing external information onto the blockchain through Oracle technology is integral to
+maximizing the reliability of smart contracts. This is because outside information accessed by
+the Oracle is used to determine whether or not a certain smart contract’s conditions have been
+fulfilled. To increase reliability and provide developers with optimized APIs, Precium seeks to
+partner with organizations and research institutes that develop the APIs that provide external
+information to Oracles. Through this, Contract Creators can use reliable external information to
+help code contract terms. Additionally, organizations and research institutes that provide APIs
+may receive Onyx coins as compensation in proportion to the frequency of use of their APIs
+employed in the smart contracts. Beyond simply receiving reliable information, we hope for the
+Precium platform to catalyze a variety of markets in which smart contracts can be used.
+
+Precium 16 / 34
+
+2.5 Application
+
+7render ’s is an influencer commerce platform that operates celebrities and mega
+influencers based on the network of KCENT, the largest influencer management company
+in Korea. With 7render's, Influencers can efficiently advertise and sell products provided by
+brands, consumers will be able to buy products at a relatively low prices and rewarded by
+participating in related reviews and referral events.
+As mentioned in the previous section, Onyx Chain, a hybrid blockchain, has the advantage
+of having high transmission speed and high scalability while maintaining transparency.
+In addition, the Precium platform provides a structure that enables easy use of smart
+contracts and information protection through public and private blocks. These advantages
+of Onyx Chain are optimized for the e-commerce market where various contracts are made
+between brands, influencers and consumers. 7render's will be utilized as a representative
+platform of influencer commerce platform.
+
+2.5.1 Necessity and Role of Onyx Chain
+
+There are a variety of contracts on the Influencer Commerce platform:
+■ Product advertising agreement between brand and influencer
+■ Sales revenue sharing agreement between brand and influencer
+■ Sales revenue sharing agreement between influencer and platform
+■ Contract for ordering products between influencer and consumer
+
+Precium 17 / 34
+
+■ Product advertising agreement between platform and brand
+
+Some of the above agreements require that some must be transparently
+disclosed to everyone, while some may only be shared between participating
+parties. For example, the contracting process between a brand and an
+influencer or an ordering and selling process between an influencer and
+a consumer must be transparent, but the brand may not want to disclose
+the share of revenue with the influencer. In this case, the public blockchain,
+where all the information is on the chain and is made public, cannot solve the
+problem. Also, due to the nature of the commerce platform, which has various
+types of contracts, slow transmission speed of the public blockchain can result
+to unexpected problems when used in real life.
+Since Onyx Chain is a hybrid form in which both public and private blocks
+exist together, above problems can be solved by keeping a part of the contract
+content in a private block. In addition, it has faster transfer speed than
+public blockchains, making it suitable for real-life use. The various contract
+templates provided by the Precium platform can help to make 7render ’s a
+safe and powerful commerce platform by allowing brands and influencers to
+conveniently create smart contracts.
+
+2.5.2 Ecosystem Components & Service Flow
+The 7render ’s ecosystem is composed of influencer, brand, and consumer, with each
+
+Precium 18 / 34
+
+participant’s role as:
+
+■ Brand
+- Contact influencers to promote their products and make advertising contracts or offer
+to sell products.
+- Earn revenue by selling products directly to consumers and share profits with the
+platform.
+- Register a product on the platform, the brand must stake a certain amount of PCM.
+
+Precium 19 / 34
+
+■ Influencer
+- Make an advertising contract with brand, sell products in private market within 7render’s,
+and share profits.
+- Hold PCM to increase their reputation, giving them the opportunity to promote their market.
+■ Customer
+- Purchase products from the brand market and receive cashback.
+- Purchase products from the influencer market and receive cashback.
+- Write review and get rewarded.
+- Receive PCM rewards by participating in the referral system.
+- Receive various benefits by holding PCM.
+
+3. ONYX CHAIN
+3.1 Hybrid Blockchain
+
+Private
+Public
+
+oc
+ock
+Block
+N-4
+
+Hash
+sh
+
+Hash
+ash
+
+oc
+ock
+Block
+N-3
+
+oc
+ock
+Block
+N-2
+
+Hash
+sh
+
+oc
+ock
+Block
+N-1
+
+oc
+ock
+Block
+N
+
+Hash
+sh
+
+Hash
+sh
+
+Precium 20 / 34
+
+ON-CHAIN
+OFF-CHAIN
+
+Oracle
+
+Onyx chain is a hybrid blockchain combining public and private blockchains. As shown in the
+diagram above, each public block contains the hash value of the private block corresponding to
+the pair, securing the connectivity of the two blocks. Thus, while anyone can freely view Onyx
+chain’s public blocks, a private block can only be viewed by its corresponding user. In addition,
+the private blockchain is used when the Onyx chain receives external information through
+Oracle technology. This makes it more efficient than the public blockchain, which requires many
+nodes to access the API to validate the contract content.
+
+In conclusion, Onyx chain can be described is a blockchain with the structural nature of a
+hybrid blockchain that uses a public blockchain to notarize the hash of a private block.
+
+Onyx chain has a highly efficient structure for using smart contracts. In the case of smart
+contracts on a public blockchain, anyone can view the contract’s content regardless of the will
+of the contracting parties. In the case of Onyx chain, however, detailed contract information is
+stored on private blocks, allowing only the contracting parties to view the content.
+
+3.2 Technical Overview
+
+A variety of consensus protocols can be used on Quorum; QuorumChain, Istanbul
+BFT, and Raft are a few representative protocols. They differ in characteristics such as
+block generation speed and method and transaction finality. Raft is an asynchronous
+consensus protocol used in existing distributed systems. It enables the creation of
+a coherent system that can survive even if a portion of the servers comprising the
+system fail. Each server will always be in one of three states: Leader, Candidate, or
+
+Precium 21 / 34
+
+Follower.
+Normally, there is one leader and the remaining servers are followers. The followers
+only respond to the requests of the leader and candidates and do not make any direct
+requests themselves. On the other hand, the leader handles all of the clients’ requests,
+while a system member transitions to the candidate state when elected to become to
+the new leader. Each member saves a term number for the current time in the system;
+each term is an arbitrary period of time. These term numbers are exchanged whenever
+the servers communicate with each other; in the event that the term numbers are
+different, they will update to the most recent one. In addition, a leader or candidate will
+become a follower if in possession of an old term number, and requests with the old
+term number will be rejected.
+
+Through this process, information is shared among the servers, updates are made, and
+the system runs smoothly. The Raft protocol comprises the key components of leader
+election, log replication, and safety when reaching consensus among the members of
+a distributed system.
+
+■ Leader Election
+In the Raft protocol, one of the nodes is elected to be the leader every term. If the leader
+election fails that term, then a leader will be elected the next term. The elected node has
+strong influence. Here, the leader election ensures that at most one node can be elected as
+leader. During a certain period of time, the elected leader communicates with the other nodes
+and decides what gets added to the logs.
+■ Log Replication
+In the Raft protocol, the elected leader handles client requests. Each client request includes a
+
+Precium 22 / 34
+
+command; the leader first appends the command to its log and then sends a remote procedure
+call (RPC) to the other nodes so that they can replicate it as well. If the followers respond
+slowly, do not perform the operation, or suffer from some network problem, then the leader will
+continue to repeat the request until all followers save the appended log. The leader can only
+add new entries to the log; it cannot modify or delete existing entries.
+■ Safety
+Aside from the aforementioned leader election and log replication, the Raft protocol ensures
+safety by adding restrictions to each member that can be elected as leader. The leader elected
+in a certain term must possess all entries added in previous terms. In other words, whenever a
+log entry is added during a certain term it must be the leader’s most recent log entry, thereby
+ensuring safety.
+
+Based on the above features, the Raft protocol ensures that
+the entire system will continue to operate smoothly even if
+certain members of the distributed system fail.
+
+However, since the Raft protocol has features suitable for
+private blockchains, it is not suitable for use as a consensus
+protocol in the Onyx chain, a hybrid blockchain.
+
+Existing distributed systems are based on the trust of each
+Precium 23 / 34
+
+individual member that makes up the entire system. However,
+since the Onyx chain combines public and private blockchains,
+one should assume that it would be difficult to trust all of
+the nodes participating in the system. The entire system
+must continue to operate normally even if some nodes act in
+their own interest. This introduces a need to supplement the
+existing Raft protocol.
+
+3.3 Consensus Protocol for Onyx Chain
+
+The Onyx chain uses a modified version of the Raft protocol that supports
+Byzantine Fault Tolerance (BFT), a technique developed to solve the problem of
+unreliable nodes that make up the system.
+
+The new protocol used in the Onyx Chain is based on the Practical Byzantine
+Fault Tolerance (PBFT) consensus algorithm. Reaching consensus with the
+Precium 24 / 34
+
+existing BFT consensus algorithm is only possible on synchronous networks,
+while PBFT can also reach consensus on asynchronous networks with
+Byzantine nodes.
+
+In this protocol, each node on the system stores an encrypted hash value
+for the log entry; to obtain the log entry’s current encrypted hash value, one
+must employ a recursive method using the old encrypted hash values to verify
+the integrity and completeness of logs recorded in the past. This is possible
+because it uses the characteristics of encrypted hash values accumulated from
+previous records. Byzantine nodes can be prevented from tampering with the
+logs by matching accumulated logs.
+Each node on the Onyx chain has its own public key and private key. Each
+node and client shares one another’s public key, while messages are signed
+with the node’s private key. The message recipient validates the signature
+using the public key of the node that signed; the message is rejected if the
+signature is invalid. This system prevents Byzantine nodes from behaving like
+normal nodes.
+
+If the current Onyx chain leader is a Byzantine node, then a situation
+may arise in which the leader maliciously ignores all system requests.
+To prevent this, clients can mediate the leader’s rights if the leader
+does not act maliciously. The election of a new leader can also be
+initiated, preventing a Byzantine leader from interfering with the system.
+Additionally, during a leader election there should be one candidate for
+each term; the nodes each become candidates depending on a certain
+
+Precium 25 / 34
+
+schedule for several terms. To initiate the leader election process,
+the node must receive a number of election requests above a certain
+amount from other clients. This ensures that the leader does not behave
+negatively for over a certain period of time and prevents Byzantine nodes
+from initiating leader elections at will.
+Recently, various techniques are being researched for supporting BFT in
+the Raft protocol. Precium will continue to develop a consensus protocol
+that can be optimized for the structure of the Onyx chain, eventually
+leading the development of a hybrid blockchain.
+
+4. TOKEN ECONOMY
+
+Precium 26 / 34
+
+Precium platform is coexists with Onyx Chain's ONX coin and PCM tokens
+based on ERC20, a token standard that guarantees the compatibility of
+tokens that can be distributed on the Ethereum network. This is a strategic
+choice to provide stability to the ecosystem of many use cases where the
+Precium platform will be used. It is very confusing to use only coins that are
+not stable value in making contract or selling products on any platform, and it
+may cause platform instability.
+To solve this problem, the Precium platform enables major contracts and
+transactions through ONX, a stable coin that guarantees fixed value. ONX
+uses the onyx chain that is used only within the Precium platform and can be
+used for various functions such as smart contracts, payments, and rewards.
+PCM which price is determined by externally traded market value, can be
+applied in many use cases and will allow the token ecosystem to circulate
+continuously with appropriate supply and demand within various applications
+of the Precium platform. For example, 7renders, the first use case of the
+Precium platform mentioned earlier, has the following virtuous circulation
+structure:
+
+Precium 27 / 34
+
+■ Demand for PCM token
+i. If a commodity supplier wants to build a referral based network through the onyx chain, they
+must stake a PCM.
+ii. Influencers who sell actual products or have various contracts with brands and customers
+can stake PCM to improve their advertising efficiency.
+iii. Platform users can stake PCM for more rewards, cashback and discounts on the platform.
+■ Supply for PCM token
+i. Platform users can purchase products, receive cashback or PCM through product reviews.
+ii. Platform users can invite more users through the referral system and receive PCM in return.
+Precium platform, which will secure the stability of the monetary value through ONX, will
+discover additional use cases even after 7render’s, attracting more users to the platform and
+gradually increasing the PCM token circulation.
+
+5. ACTIVATION PLAN
+5.1 Roadmap
+2018/2H
+-China Road Show
+-Precium Wallet Release
+
+2017/4Q
+-Project Team Build
+
+2018/1H
+
+Precium 28 / 34
+
+-Launch Website,
+Whitepaper release
+-Private Sale
+
+2019/3Q
+-Influencer Commerce Platform V1 Launch
+(Influencer Market + Group-buy + Fiat/Token payment)
+-Precium Wallet with online/offline payment Release
+
+2019/1H
+-KCENT x PRECIUM Influencer Commerce
+Platform Beta Launch
+
+2019/4Q
+-Precium Onyx Test-net open
+-Influencer Commerce Platform V2 Launch
+(Mobile Application + SNS
++ Review + Blockchain)
+
+5.2 Marketing strategy
+As a blockchain consulting firm, the Precium Foundation has partnered with the KoreanChinese Silk Road International Association, which is responsible for promoting exchange
+between Korean and Chinese companies under China's Belt and Road Initiative (BRI). Through
+this partnership, the foundation will play a key role as the base for fruitful blockchain
+technology exchange between Korea and China. We have also partnered with Kcent, a leading
+entertainment group in influencer marketing, and TWOAB, an agency specialized in internet
+celebrity marketing in China. We are currently working on the first project to vitalize the
+Precium platform, the Influencer Marketing Project.
+The Precium platform's Onyx chain provides users with a template of contract terms that
+can be used directly to make smart contracts. We plan to support contracts for all tangible
+and intangible transactions, including transactions for used items, rentals, employment.
+Through future strategic alliances with various enterprises, Precium will expand the real-world
+applications of its platform and replace existing middleman-based contract systems not only
+in the Korean and Chinese markets but worldwide.
+Through training, seminars, and content creation, the Precium Foundation plans to widely
+promote not only the Precium platform, tokens, and smart contracts on the platform but also
+the benefits of blockchain technology and cryptocurrency. The foundation headquarters is
+currently being operated in Korea, with a branch in Singapore and a branch planned to be
+established in China in the future. In addition, we will forge relationships with Korea’s top
+universities to promote blockchain research and education and help cultivate the talent of
+blockchain developers.
+
+6. TOKEN DISTRIBUTION
+6.1 Introduction
+
+TOKEN SYMBOL
+
+PCM
+
+TOKEN ISSUED
+
+750,000,000 PCM
+
+TOKEN SALE
+(40%)
+
+300,000,000 PCM
+
+Precium 29 / 34
+
+6.2 Token sales and ICO fundraise managements
+
+FUNDRAISE
+Reserve
+30%
+Strategy Partner
+10%
+
+Operating
+(Including Legal)
+13%
+
+$
+
+$
+$
+
+Marketing
+17%
+
+Platform
+Developmant
+30%
+
+Precium 30 / 34
+
+Precium 31 / 34
+
+Precium 32 / 34
+
+Precium 33 / 34
+
+8. REFERENCE
+
+-Copeland, Christopher, and Hongxia Zhong. "Tangaroa: a byzantine fault tolerant raft."
+-Wang, Dennis, Nina Tai, and Yicheng An. "Byzantine Fault Tolerant Raft."
+-Ongaro, Diego, and John K. Ousterhout. "In search of an understandable consensus
+algorithm."USENIX Annual Technical Conference. 2014.
+-Abraham, Ittai, and Dahlia Malkhi. "The blockchain consensus layer and BFT." Bulletin
+of EATCS 3.123
+-Buterin, Vitalik. "Ethereum: A next-generation smart contract and decentralized
+application platform, 2013."
+-Wood, Gavin. "Ethereum: A secure decentralised generalised transaction ledger."
+
+Precium 34 / 34
+
+Ethereum project yellow paper 151
+-Nakamoto, Satoshi. "Bitcoin: A peer-to-peer electronic cash system."
+https://www.jpmorgan.com/global/Quorum
+https://github.com/jpmorganchase/quorum
+https://raft.github.io/
+https://blog.theloop.co.kr/2017/07/04/lft-loopchain-consensus-algorithm/
+https://github.com/kadena-io/juno
+https://spri.kr/posts/view/21876?code=issue_reports
+http://www.itworld.co.kr/news/107168
+https://tokenpost.kr/terms/5822
+http://it.donga.com/27260
+https://tokenpost.kr/terms/5447
+http://snowdeer.github.io/blockchain
+https://spri.kr/posts/view/21983?code=inderstry_trend
+https://www2.deloitte.com/content/dam/Deloitte/kr/Documents/insights/deloitteanjin-review/07/kr_insights_deloitte-anjin-review-07_10.pdf
+
+Disclaimer of Liability
+
+The content of this whitepaper must not be distributed without the “Exclusion of Liability”
+section below. Please carefully review the “Exclusion of Liability” section when reading this
+document. It is recommended that anyone unsure about investing consult their professional
+advisor, including their legal, financial, or tax advisor.
+The purpose of this whitepaper is to provide investors who will participate in the Precium token
+ICO with information regarding the Precium token and the Precium token platform, as well as
+our vision for the project’s development. This whitepaper is a guide and project explanation only
+meant to aid in understanding the content of a potential investment; it is not a guarantee of
+development. Therefore, the content of this whitepaper is nonbinding in investment contracts,
+Precium 35 / 34
+
+and this document as well is legally nonbinding.
+Certain estimates and financial information contained in this document are subject to change
+due to uncertain variables. Therefore, all information that can be used to infer earnings and the
+like should not be taken as a guarantee of future performance. The whitepaper is subject to
+modifications and updates depending on the development situation. No responsibility is assumed
+for the accuracy, reliability, or completeness of information related to earnings discussed in the
+whitepaper.
+As a result, we do not assume legal responsibility for any indirect or incidental occurrences.
+However, to maintain accuracy and trust, we will make sincere efforts to ensure that the content
+of this document can be confirmed at any time through the corporation or relevant persons
+introduced in this whitepaper. We will respond to inquiries related to the information contained
+in this white paper at any time.
+Although Precium tokens can be used for investing or other financial purposes, we assume no
+liability or relation to any profit or loss incurred due to the use of Precium tokens for purposes
+other than those outlined in this whitepaper.
+Finally, it is recommended that any person or organization residing in a country or territory that
+prohibits or otherwise restricts the transaction of digital tokens, digital currencies, and the like
+refrain from purchasing or investing in such tokens.
+
+

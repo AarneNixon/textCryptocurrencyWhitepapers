@@ -1,0 +1,791 @@
+THE TERRA FOUNDATION PRESENTS
+CREDIT (CREDIT) DECENTRALIZED PAYMENT PLATFORM
+
+WHITEPAPER
+
+"THE ONLY WAY A CRYPTOCURRENCY CAN BECOME A
+GLOBAL PAYMENT SYSTEM IS IF EVERYONE WHO
+MAKES PAYMENTS HAS ACCESS TO IT"
+Dan Ronchese
+Founder of The Terra Foundation and creator of the Credit (CREDIT)
+Cryptocurrency
+
+ABSTRACT
+A decentralized payment platform allows users to send and receive payments without the
+need for a trusted third-party. However, research has shown that there needs to be an
+intermediary to manage transactions and prevent double-spending. Blockchain and its
+use of digital signatures (Encryption) is only part of the solution. The decentralization of
+network nodes is crucial to ensure long term safety of the network. In both Proof-of-Work
+(PoW) and Proof-of-Stake (PoS) blockchains, the longest chain provides a validation
+point. In a Proof-of-Work environment, this system is flawed because it relies on computational power. This dependency means that if enough miners and equipment colluded,
+they could overpower a network. We propose Proof-of-Stake as a better alternative
+because it does not decide the longest chain based on hash power. Instead, wallet
+balance and coin maturity are the methods of determination. Unlike the majority of
+Proof-of-Stake Blockchains, our producers are more numerous and further decentralized
+thanks to an intuitive coin distribution program and the accessibility of our auto-staking
+desktop wallet.
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+TABLE OF CONTENTS
+Introduction - page 5
+1. Vision - page 6
+2. Mission - page 7
+3. Credit’s Usage- page 8
+4. Payment Platform- page 9
+5. Incentive for 3rd Party Producers- page 11
+6. Regular Cryptocurrency- page 12
+7. Alternative to Cash- page 13
+8. Long-Term Investment- page 14
+9. International Payments- page 15
+10. Proof-of-Stake- page 16
+11. Proof-of-Stake Advantages- page 17
+12. TerraCredit Staking- page 19
+13. Masternode Network- page 19
+14. Coin Specifications - page 25
+15. Team- page 26
+16. Roadmap- page 28
+Conclusion - page 33
+Credits - page 33
+Contacts - page 34
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+INTRODUCTION
+Credit is a Cryptocurrency that aims to be a premier decentralized digital payment
+solution to the world's unbanked adult population. Studies show this population as an
+estimated $50,000,000,000,000.00 (Fifty Trillion Dollars) Market.
+Terra designed TerraCredit (CREDIT) to offer free and fast blockchain-based payments.
+Credit employs the Proof-of-Stake consensus mechanism. This approach allows any user
+to become a block producer. Block producers support the network and receive rewards in
+the form of new coins for doing so. This function replaces traditional mining that is
+expensive and complicated.
+The desktop wallet stakes users' coin balances automatically. This process allows them
+to become a block producer and earn rewards for maintaining the Credit blockchain. This
+feature creates a legitimate and passive income stream without the need to invest in
+expensive equipment or possess technical knowledge.
+The Credit wallet is simple to use and does everything automatically. You just need a
+computer or laptop. To get started, make sure your PC has an internet connection and
+that you have CREDIT coins in your wallet. Next, verify that your wallet is 100% synced
+and unlocked for staking. The rest happens automatically.
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+VISION
+The TerraCredit DAO’s vision is to see Credit become the leading cryptocurrency in the
+digital-economy. One that is functional, widely used, driven by its users, and adapting to
+their needs.
+We see Credit as a viable replacement to cash and a rewarding option that is attractive to
+new users. We hope that Credit will be a tool of change in the lives of its users, allowing
+them access to a new financial system that is better than any option available today.
+Our vision extends beyond this Golden age of humanity and thousands of years into the
+future. We expect that the Credit Blockchain will outlive all of its current users. The
+platform's design can benefit generations to come.
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+MISSION
+Our mission is to develop Credit into a force unto itself, much like Bitcoin. We have
+identified several traits that we believe a cryptocurrency needs to be successful and to
+achieve mass adoption.
+And they are:
+Transparency
+Decentralization
+Sustainability
+Security
+Feasibility
+User-friendliness Integration
+Credit was born to embody all of the above traits while still retaining the flexibility to
+improve and adapt to the ever-changing Financial and crypto environment.
+Another vital aspect of the Credit mission is the introduction of cryptocurrency into the
+lives of new users.
+Research proves that cryptocurrency is a life-changing catalyst of financial freedom that
+has the potential to change people's lives. Terra wants to expose as many people as it
+can to the benefits of Cryptocurrency use in daily life.
+One new user is one step closer to a complete Crypto-world, and at Terra, we believe that
+we have the potential to add a substantial amount of mileage toward this goal.
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+CREDIT'S USAGE:
+Credit functions as a digital payment platform, a decentralized solution to cash, and a
+peer-to-peer ecosystem. Credit's most critical role is as a medium of exchange to
+facilitate digital transactions.
+For Credit to be a medium of exchange, it must be a store of value. If Credit could not be
+stored over time and remain valuable, it would not fulfill its goal as a medium of
+exchange. Credit utilizes network wallets. These wallets allow users to stake holdings to
+support the network and earn new coins as a reward. This strategy ensures that the
+storage of Credit generates tangible value to the holder over time.
+Within the Terra ecosystem, Credit will function as a unit of account, providing a
+universal measure of the value of goods and services exchanged. This approach will
+enable both buyer and seller to make decisions about the value of the products or
+services on offer.
+International payments are instant and have virtually no cost. The transparency of the
+Credit Blockchain ensures public accountability of all transactions as every coin features
+trace capabilities.
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+AS A PAYMENT PLATFORM FOR THE WORLD'S
+UNBANKED
+A concept close to mind when creating Credit was Adoption. Adoption not only of Credit
+but all Cryptocurrencies is paramount.
+The more Cryptocurrencies directly linked to real-world usability, function, and value, the
+more adoption will occur.
+Although globally cryptocurrency adoption is on an upward trend, we at The Terra
+Foundation want to make sure that we do the most we can to bolster and nurture user
+adoption by making Credit user-friendly and rewarding.
+We want to make it simple and easy for everyday users to conduct transactions, and for
+businesses to start accepting Credit as a form of payment.
+Our analysis of the global unbanked adult population revealed the following results:
+94% of adults in high-income countries said they had a bank account, while only 54% of
+those in developing countries did. The Middle East had the lowest proportion of account
+holders, with only 14% on average. Notably, 80% of adults in developing nations have
+smartphones and use mobile apps.
+We have established that there is low use of bank accounts in the developing world. We
+also know that traditional cryptocurrencies pose many financial and technical barriers to
+new users from these regions. For the most part, this market gets little attention from
+the global cryptocurrency industry.
+In developing nations, the mobile money market is expanding. Only 2% of adults
+worldwide have a mobile money account. Also, 12% of adults in Sub Saharan Africa have
+one, half of whom have no other account. We found that countries with the highest
+dependency on mobile money solutions had the lowest usage of bank accounts.
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+It's worth noting that the most common reason for not having a bank account was that
+they did not have enough money and or the charges made it not viable to use a bank
+account over mobile money. Surprisingly, only 4% said they did not need one.
+Terra proposes that the Credit App-based wallet should replace centralized mobile money
+and cash at the same time. Credit offers virtually free instant payments that can be sent
+anywhere in the world. Additionally, the wallet earns you more coins.
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+AS INCENTIVE FOR 3RD PARTY PRODUCERS
+Terra designed Credit as a highly rewarding decentralized blockchain-based
+cryptocurrency.
+Credit is simple to use and does not require expensive equipment or advanced technical
+experience. Credit employs Proof-of-Stake as the consensus algorithm, unlike Proof of
+Work, the Credit Blockchain ignores computational power. Block producers are selected
+based on coin balance and maturity.
+The credit blockchain ecosystem utilizes nodes that are also known as wallets, the most
+common of which is the Desktop wallet. All Credit wallets feature an auto-staking
+function that allows any user with a modern PC, VPS, or even Raspberry Pi to become a
+producer.
+The reward for supporting the blockchain is an incentive to promote further
+decentralization between producers. The goal is to create an even playing field by
+allowing almost anyone to earn a passive income supporting the Credit Blockchain.
+Credit is simple, install the wallet, have sufficient balance, and you will earn. No tweaks,
+no dependencies, no issues, this level of accessibility is an incentive on its own.
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+AS A REGULAR CRYPTOCURRENCY
+Credit ticks all the boxes as a cryptocurrency, it is decentralized, it is blockchain-based,
+and features an open-source code. However, it goes far beyond these requirements and
+continues to offer a range of useful and beneficial improvements.
+Credit is faster than most cryptocurrencies and offers virtually free transactions. It is
+capable of handling millions of transactions every minute because of its frequency of
+block production. Credit is easy to use and provides a concise block production process.
+Block production is highly profitable because there is no demand for hash power. Credit's
+design will function on nearly any smart device.
+Users are encouraged to use Credit across multiple platforms and even develop their
+unique external frameworks, platforms, and applications implementing Credit.
+Credit's code will always remain open-source and available for adoption or improvement
+at any time. Any users wanting to do this will receive the full support, encouragement,
+and guidance of the TerraCredit DAO.
+Credit transcends its true purpose as a payment platform and also serves as a highly
+tradable asset. We have the benefit of entering the market in a downed state, and the
+future value of Credit looks bright once the market corrects.
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+AS AN ALTERNATIVE TO CASH
+We propose that the Terra App-based wallet is a suitable replacement for cash, one that
+allows for instant digital payments across a range of devices.
+In June 2019, the Terra wallet app will launch with a range of features to facilitate
+everyday payments. We are developing a variety of solutions that include technology
+such as tap and pay, QR scanning, and Point of Sale. These include online payments for
+e-commerce solutions and digital retailers.
+Terra will foster the trading and exchange of Credit for goods and services on a
+user-to-user level. Users are encouraged to shed the risks of using Fiat Currency and
+instead use Credit as it ensures safety, transparency, and value on every level.
+Credit transactions work on multiple levels of use, ranging from large corporations to
+small businesses. The primary market is individual users in an everyday environment.
+It's the directive of the TerraCredit DAO to make sure that no area of use sees neglect
+and that Credit's use fosters on all levels.
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+AS A LONG-TERM INVESTMENT VEHICLE
+Users can easily make long-term investments with sizable returns when holding their
+Credit in an online desktop wallet. After 8 hours, the balance will become staked to the
+network. You will periodically receive rewards of new coins for your effort in supporting
+block production.
+This strategy creates an ideal investment situation where you are the banker. There is
+zero trust required when you own and operate your wallet.
+The new coins you earn arrive from the future maximum supply. Plus, they deposit
+directly to your wallet. There is no middle man in this situation. The best part is that you
+retain your initial balance throughout this process, thus never diminishing your wealth
+unless you sell all of your coins. Then, that is the end of Block production for you.
+Many users will likely spend their profits. Credit's design welcomes millions of new
+cryptocurrency users to the global community. This platform aims to enrich their lives by
+rewarding them in a simple yet accessible manner.
+Over time, Credit's profitability model will become more attractive to new and first-time
+users, not to mention experienced miners that can sell their pricey equipment and stake
+Credit on their home computer.
+All of these earnings and new coins promote scarcity because a Credit balance is
+required to produce blocks. The bigger your balance, the more rewards you earn. This
+strategy is the ultimate win-win situation.
+This trend will continue. More new and experienced users will join the Credit Blockchain
+for its low cost, high reward, and simplicity.
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+INTERNATIONAL PAYMENTS
+It's a widely known fact that using cryptocurrency for international payments is faster
+and cheaper.
+This scenario is also the case with Credit. Our transactions are instant and carry virtually
+0 costs. Amazingly, the base fee for any transaction is 0.0001 CREDIT. Additionally, there
+is a payment grouping feature. With a target value of $0.01, you can easily see that
+Credit payments are almost free. The value of 1 CREDIT would need to increase in value
+1,000 times for a transaction to cost $0.01.
+When we say payments are instant, we mean instant. Credit introduces a higher rate of
+block production that can handle millions of nodes, all verifying blocks at the same time.
+Credit can handle millions of transactions in a minute.
+Many people don't live where they grew up but still have loved ones back home. It's
+common in many cultures for younger generations to send money home to rural communities. Credit is ideally suited to captivate the remittance market segment.
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+PROOF-OF-STAKE
+As the crypto sector approaches its tenth anniversary, there have been significant strides
+made in the field of blockchain security. Of these, none is more significant than the
+development of the Proof-of-Stake (PoS) consensus mechanism. This next-generation
+protocol was first introduced in a paper by Sunny King and Scott Nadal in 2012.
+In the paper, the two researchers explained in detail how the use of staking wallets could
+provide adequate security for blockchain networks in a manner that is far more efficient
+than Bitcoin's Proof-of-Work (POW) mechanism. This power reduction was possible
+thanks to a shifting of the core principles of the PoW mechanism.
+PoS systems share many similarities with PoW mechanisms. For one, every staking node
+is competing to create a valid block, however, unlike a PoW system that allows a node to
+attempt indefinitely. The TerraCredit PoS mechanism restricts the number of trials
+allowed over a given time. In this way, PoS coins eliminate mining centralization based
+on computational power.
+Currently, PoW systems continue to deal with serious concerns such as concentrated
+mining pools. These pools are the direct result of an arms race going on within the
+mining community. The very nature of a PoW system creates a scenario in which miners
+must attempt to outspend each other to remain relevant in the fast-changing sector.
+Today, to have any success in Bitcoin mining, a person must obtain an Application
+Specific Integrated Circuit (ASIC) mining rig. These rigs are thousands of times more
+efficient at calculating the PoW SHA-256 algorithm than a standard PC. However, they
+also cost thousands to purchase and operate.
+These rising costs have left many miners unable to keep up. This exclusion equates to
+more centralization in the market. A PoS consensus mechanism does away with these
+hardware demands and democratizes the entire mining process.
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+In the Proof-of-Stake validation strategy, nodes don't need to purchase expensive mining
+rigs to participate. Instead, the security for the network shifts to those who hold the
+most coins. These coins must remain across synchronized network wallets. This act is
+known as staking.
+
+PROOF-OF-STAKE ADVANTAGES
+Aside from the massive environmental benefits obtained through PoS integration, there
+are some other vital aspects worth mentioning. Primarily, decentralization is at the core
+of any PoS system. The more centralized a cryptocurrency becomes, the less secure the
+network remains. Nowadays, Centralization is a severe concern for PoW-based
+blockchains such as Bitcoin or Ethereum. In this way, a PoS system helps to democratize
+network responsibilities and creates a fair playing field for everyone.
+PoS Upgrades
+Since its introduction, the PoS consensus mechanism has undergone numerous
+upgrades. Each reiteration of this protocol has provided more security and speed.
+Notably, Pavel Vasin made the first major overhaul to the PoS system when he released
+his BlackCoin project. This project saw immediate success because it did away with coin
+age concerns.
+Coin age is a concept in which a node gains more influence in the market by not
+spending their tokens for more extended periods. It is also a measure of how long a
+UTXO (Unspent Transaction Output) remains unspent. Developers wanted to ensure that
+someone couldn't dominate the mining sector, so they placed a time limit on how long
+your coins remain valid for staking purposes. In the upgrade, developers focused on the
+number of coins staked versus their age. Higher balances mean a higher chance of
+satisfying the difficulty criteria.
+Today, the Proof-of-Stake consensus mechanism exists in many variations. Notably,
+version 3 of the protocol has seen great success since integration into the Zerocoin
+platform in 2018.
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+In the TerraCredit ecosystem, the PoS concept goes a step further. The network's design
+automatically decides what node is next to add the block of transactions to the
+blockchain. In this way, TerraCredit users enjoy a decentralized and secure experience.
+This decision depends on various factors:
+· Balance (UTXOs) staked by the wallet
+· Time Staked
+Decentralization is Crucial to Security
+TerraCredit's network features cutting edge design features tailored to eliminate
+centralization concerns. The entire platform includes a robust and open design that
+allows for further network maturity as time progresses.
+PoS Criticisms
+As with any new technology, there are still some in the market that think that PoS
+systems lack the security of PoW systems. These individuals cite attack vectors such as
+potential double-spending and vulnerabilities to long-range and nothing-at-stake attacks.
+TerraCredit eliminates these concerns through the integration of a confirmation protocol.
+Importantly, staking/masternode rewards require 100 consecutive confirmations. Only
+after 101 blocks can a node spend these earnings. This strategy helps protect against
+network dominance via malicious staking involving exponential growth.
+Attack Vectors Explained
+TerraCredit's robust design requires hackers to control approximately 70.7% of staked
+coins for a 50% chance of double spending or invalidating a single block. Unlike a PoW
+network, a PoS hacker would need to attack their financial status if they chose to undertake these actions. In the end, the hacker would stand to lose the most attacking the
+network.
+Another commonly referred to PoS attack vector is the history attack. In this scenario,
+blockthe first blocks are rewritten, compromising the validity of the current state of the block
+chain. TerraCredit developers introduced checkpoints within the network to eliminate this
+risk. Think of checkpoints as markers set at intervals preventing any alteration/forking
+prior.
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+TERRACREDIT STAKING
+TerraCredit assets allow users to stake on the network at any time. Notably, staking
+requires a user to possess at least one of the smallest units (0.000000001) of a CREDIT.
+The staking party will also need to have their wallet online and synchronized with the
+network. It's crucial to maintain all relevant block information up to date, and for wallets
+to remain unlocked for staking to occur.
+
+MASTERNODE NETWORK
+Intuitively, the TerraCredit network features a two-tiered design meant to increase functionality and security. The first tier in the system is the staking tier. It's here that all
+TerraCredit users can participate in transaction validations. The second tier is what's
+known as the master node tier.
+Masternodes
+Interestingly, the Masternode concept was pioneered and championed by Dash. Today it's
+prevalent in the market. Since its inception, the idea has made significant improvements
+to its capabilities. In the TerraCredit network, masternodes are responsible for the
+handling of particular specialized tasks.
+Masternode Network Technical Functions
+Masternodes handle a wide variety of functions that are independent of the staking
+nodes. As such, these nodes possess distinct capabilities unique to their raised status
+within the network. Critically, TerraCredit's blockchain prevents one masternode from
+gaining power or authority over others in the system. Here are some of the masternodes
+unique capabilities within the TerraCredit ecosystem:
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+Swiftx
+TerraCredit masternodes utilize Swiftx protocols. Swiftx is a specially designed coding
+that enables near-instantaneous transactions across the blockchain. These capabilities
+put TerraCredit in line with major payment processors such as banks or credit card
+companies such as Visa and MasterCard. Keenly, Swiftx transactions take place
+exclusively within the masternode portion of the TerraCredit blockchain. All functions
+related to Swiftx take place via a quorum between masternodes.
+How Swiftx Works
+The Swiftx protocol is simplistic but powerful. Whenever a user proposes a Swiftx
+transaction, it remains locked by a random delegate masternode. The locking of the
+operation serves the purpose of making the funds spendable only through a specific
+transaction.
+From here, the network recognizes all different blocks or transactions regarding the
+Swiftx transaction. The hash of the secured transaction broadcasts using a
+high-performance asynchronous messaging library over the entire masternode network.
+Interestingly, this strategy allows TerraCredit's blockchain to achieve consensus
+instantly. Also, it eliminates the need to wait for multiple confirmations.
+Coin-Mixing
+To create the most robust and helpful cryptocurrency to date, TerraCredit developers
+integrated a coin-mixing feature. Coin-mixing is one of the most popular ways to add
+private transactions to a network. The process involves the obscuring of transactions via
+the dividing of funds to protect their source.
+This protocol is not the same as moving the total of a transaction directly from the
+source to target, but rather, dividing it into mixed transactions. The goal here is to
+complicate any tracing efforts. Mixed coins are more difficult to track versus single point
+transactions. This process serves to maintain the fungibility of units of the currency.
+Additionally, it gives TerraCredit users the ability to legitimately make private
+transactions, with no record stored on the blockchain.
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+TerraCredit's network utilizes the most advanced coin-mixing protocol in the market. This
+next-generation protocol takes cues from Zerocoin's sophisticated coin-mixing system.
+The coding features profoundly improved privacy baked into the cryptography.
+Additionally, this strategy limits the need for coin-mixing dependency on masternodes.
+TerraCredit will continue to pioneer technology to remain at the very forefront of privacy.
+Masternode Decentralized Governance
+The TerraCredit platform functions as a Decentralized Autonomous Organization (DAO).
+DAOs are not dependent on human intervention to complete complex contractual
+agreements. In this scenario, the DAO sets out the community's governance guidelines.
+This strategy eliminates the risks of a concentration of power within the community. This
+organic approach to governance intends to draw the most value from members of the
+TerraCredit community. Additionally, it provides individual users with the most flexibility
+to achieve their interests.
+In the TerraCredit network, Masternodes from the primary governance mechanism. These
+nodes can vote on proposals made by community members. Notably, anyone can submit
+a proposal for a masternode voting session. Additionally, the platform includes a robust
+community discussion about all aspects of development.
+Notably, there are currently over 500 TerraCredit nodes all working in tandem to secure
+the network. This number will expand significantly over the next five years. Keenly,
+TerraCredit's governance protocols are designed by and for the community. The intention
+is that all members of the community can agree on factors that fall in line with
+everyone's best interests.
+Proposal Voting
+Each masternode in the network is entitled to one vote on any given proposal. In this
+way, masternodes function as a decentralized voting mechanism set up in the rules
+governing the blockchain. In this process, the tally of the votes at the end of the session
+results in the final decision. This layout provides for some unique capabilities. For
+example, the community chooses and funds TerraCredit developers after the community
+approves their work.
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+How Masternodes Vote
+Masternodes can communicate with the network via their wallet Dapp. Masternodes have
+access to commands inside their wallet and various tools. Each time a masternode votes
+on an issue, it propagates across the network, validates, and then becomes a blockchain
+object.
+TerraCredit Proposal Lifecycle
+Every proposal within the TerraCredit ecosystem receives a fair and balanced review from
+the network. As such, there is a clean-cut process in which each project must follow.
+First, the proposal goes before the community discussion. Here the concept is introduced to the community. There will be attention paid to its overall goals, functionalities,
+and specifics. Here is also where members can provide valuable feedback and first
+impressions.
+After its introduction, a proposal will go to the forum. A forum post helps describe the
+concept in more concrete terms. This description includes the details of the strategy laid
+out. The community carefully vets these proposals to see if they fit into the overall
+direction of the network.
+If the proposal continues to gain momentum, it becomes a proposal post.
+A proposal post is a forum post that has undergone vetting from the community and is
+ready for further discussion. This post gets paired with a proposal added to the blockchain. Ideally, this proposal must be made more than 72 hours from the next superblock
+for masternode holders to vote on it.
+Let the People Decide
+Finally, the proposal goes before the masternodes, and the voting process begins. For a
+project to pass, 50% of active voters must submit a vote on the concept. The final
+approval of a proposal will require that the total yes votes minus no votes exceed 10% of
+the total masternodes.
+Whenever a proposal passes, an additional fee of 5 CREDITs is required to implement it.
+Once approved, the implementation comes with the next superblock making this system
+highly efficient.
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+Masternode Acquisition
+Operating a TerraCredit masternode requires a person to meet specific criteria. Master
+Masternodes have unique capabilities and responsibilities within the network. For their extra
+service, these nodes receive additional compensation in the form of CREDIT rewards.
+To qualify as a masternode, a person must hold at least 50,000 CREDIT stored in their
+masternode controlling wallet. These CREDITs must remain unspent. If the person
+spends any of these coins, they will lose their masternode status and all the benefits
+associated with it.
+The 50,000 CREDITs requirement serves multiple purposes. Primarily, it ensures long
+term node participation. It also creates vested interests on the part of nodes to see the
+network expand. Critically, this requirement makes it nearly impossible for a single entity
+to host enough masternodes to achieve the 51% necessary to corrupt the governance of
+the network. Additionally, Masternode operators must have a static IP address.
+Dynamic IPs cannot participate because they cannot remain in constant contact with the
+TerraCredit blockchain. Also, masternodes must maintain a reliable and stable internet
+connection. Consequently, hosting two masternodes cannot be accomplished without a
+secondary IP address.
+Setting Up a Masternode
+Technical experience is a plus for those seeking to set up a masternode. Masternodes
+can run on Linux machines, through a server host, or devices such as the Raspberry Pi.
+Regardless of the hardware, the set up requires some technical know-how such as the
+editing of a .conf file, allocation of a new wallet address, and other actions executed by
+Linux command console. Masternode operators will also need to practice private key
+management, the setting up of a firewall, a physically protected machine, and other
+security measures to ensure they remain valid.
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+Masternode Staking Reward Program
+TerraCredit's use of a dual tiered network provides users with some significant advantages over the competition. The TerraCredit ecosystem enables both staking and masternode tiers to maintain the health of the network. Consequently, both offer rewards, albeit
+slightly different. In general, a masternode receives rewards more consistently than
+someone who stakes their coins. A masternode has several qualities that set it apart
+from a staking wallet:
+· It requires 50,000 CREDIT to be left unusable by the holder
+· It must have Internet Connectivity.
+· It requires a Separate IP address Linked to the User's Wallet
+For those who want more flexibility, there are advantages to staking over hosting a
+masternode. These include:
+· The ability to opt-in and out of staking as the user pleases.
+· No Minimum CREDIT amount.
+· The option to divide up holdings between addresses.
+· No requirements on specific denomination (masternode 50,000 requirement)
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+COIN SPECIFICATIONS
+Coin name: TerraCredit
+Coin abbreviation: CREDIT
+Algorithm: Quark
+Address letter: T
+RPC port: 43796
+P2P port: 43795
+Block type: Proof of Stake
+Block size: 2 MB
+Block Time: 60 Seconds (Re-targeting every block)
+Coin Emission Rate: Max. 20 CREDIT per block (Always less due to
+burnt fees & unused treasury). 19 CREDIT allocates as
+staking/masternode rewards, and 1 to superblock budget payout.
+Coin Supply Control: All transaction & zCREDIT minting fees burnt
+from coin supply
+Coin supply: 86 million coins
+Pre-mine amount: 100 m coins
+Burn amount: 14m coins
+Post-Swap amount: 86 m coins (ratio 1000:1)
+Pre-Swap amount: 86 b coins
+Privacy Technology: Custom zCREDIT coming in September 2020
+Key Features: Custom accumulator check-pointing system
+Maximum Coin Supply: • Transaction speed: less than 1 second
+PoS Stake Eligibility
+Minimum Input Age: 60 blocks
+Reward Maturity Confirms: 101 confirms
+Wallet Status: Requires wallet kept running & online
+Transaction Send Eligibility Minimum Confirm: 6 confirms
+Masternode: 50,000 Credit collateral
+Master node confirms: 15
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+TEAM
+
+DANIELE MARCO RONCHESE
+FOUNDER
+
+SAMUEL DOKUN
+FRANCHISEE
+
+ENER OCTAVIO BUITRAGO CAMELO
+FRANCHISEE
+
+OGECHI NNADI
+COMMUNITY MANAGER
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+MARCO SIMONETTI
+FINANCIAL MANAGER
+
+OLUWASEUN BAMGBADE
+FINANCIAL CONTROLLER
+
+RUSLAN KURBATOV
+SUPPORT AGENT
+
+SEUN GEORGE
+SUPPORT MANAGER
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+ROADMAP
+TheTerra concept began years ago. During that time, our team made significant progress.
+We are excited to share the CREDIT roadmap and bring you up to date with the
+development so far.
+16 November 2018 – Complete
+Initial commit to Github with the final working source code. The genesis block was mined
+and included a pre-mine of 30.4 Billion coins using Proof of Work.
+18 November 2018 – Complete
+The last PoW block was mined (Block height 10,000), and the blockchain switched to
+Proof of Stake only.
+24 November 2018 – Complete
+Windows, Linus, MAC, and Raspbian GUI full node staking wallets compiled and uploaded
+to the web for free download.
+4 December 2018 – Complete
+Global Airdrop : Round 1 – Base reward 100,000 coins and unlimited referral of 5,000 per
+new user.
+4 January 2019 – Complete
+Global Airdrop : Round 2 – Base reward 90,000 coins and unlimited referral of 5,000 per
+new user.
+4 February 2019 – Complete
+Global Airdop : Round 3 – Base reward 80,000 coins and unlimited referral of 5,000 per
+new user.
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+6 February 2018 – Complete
+Web-based block explorer goes live, with full api. Includes: https://terra.credit
+27 February 2018 – Complete
+Bitcointalk Forum Announcement: https://bitcointalk.org/index.php?topic=5114929.0
+29 February 2019 – Complete
+Web-based CRM setup, https://terra-hub.com (Social network which rewarded users with
+coins for all actions. Including referral of new users)
+4 March 2019 – Complete
+Global Airdrop: Round 4 – Base reward 70,000 coins and unlimited referral of 5,000 per
+new user.
+4 April 2019 – Complete
+Global Airdrop: Round 5 – Base reward 60,000 coins and unlimited referral of 5,000 per
+new user.
+4 May 2019 – Complete
+Global Airdrop: Round 6 – Base reward 50,000 coins and unlimited referral of 5,000 per
+new user
+.
+27 May 2019 – Complete
+Web and Android-based wallet set up for mobile users, https://terra-wallet.com and
+https://play.google.com/store/apps/details?id=terrawallet.com.walletbeta&gl=ZA
+4 June 2019 – Complete
+Global Airdrop: Round 7 – Base reward 40,000 coins and unlimited referral of 5,000 per
+new user.
+18 June 2019 – Complete
+Credit (CREDIT) listed at Bitforex Exchange here
+https://bitforex.com/en/spot/credit_usdt
+4 July 2019 – Complete
+Global Airdrop: Round 8 – Base reward 30,000 coins and unlimited referral of 5,000 per
+new user.
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+28 July 2019 – Complete
+Credit (CREDIT) listed as an official tracked asset on CoinMarketCap here
+https://coinmarketcap.com/currencies/credit/
+29 July 2019 – Complete
+Terracex – Exchange launched (Which has grown into Terrabit) https://terra-bit.io
+4 August 2019 – Complete
+Global Airdrop : Round 9 – Base reward 20,000 coins and unlimited referral of 5,000 per
+new user.
+4 Septemeber 2019 – Complete
+Global Airdrop : Round 10 – Base reward 10,000 coins and unlimited referral of 1,500 per
+new user.
+4 October 2019 – Complete
+Global Giveaway: Airdrop closes after 10 successful rounds, 380,000 users gained and
+30B coins claimed.
+1 December 2019 – Complete
+Credit (CREDIT) Celebrates 1 year of block production.
+1 December 2019 – Complete
+Final distribution and KYC qualifications. Distribution Close.
+3 January 2020 – Complete
+Terrabit launched as a web-based platform that absorbed TerraceX, and Tellus-Pay with
+full functionality for users and merchants.
+10 March 2020 – Complete
+Terrabit – Lite is launched in PlayStore:
+https://play.google.com/store/apps/details?id=com.app.terrabitt&gl=ZA
+13 April 2020 – Complete
+TerraCredit new website launch: https://terra-credit.com
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+1 May 2020
+Terrabit API Ticker Data Update for interacting with the exchange only for public market
+data.
+The HTTP API allows read access to public market data through the public endpoint
+Public HTTP Endpoint: https://app.terra-bit.io/api/public
+1 June 2020
+Terrabit API Chart Data Update for interacting with the exchange only for public market
+data.
+The HTTP API allows read access to public market data through the public endpoint
+Public HTTP Endpoint: https://app.terra-bit.io/api/public
+30 June 2020
+Press Release: TerraCredit Hardfork Official Announcement, across all news and social
+media channels. It’s advised all users to deposit their coins to Terrabit or participating
+exchanges to ensure that their balance swaps to the new chain between 4 – 7 August
+2020.
+30 June 2020
+Whitepaper major update with the pending Hardfork in mind. The update includes specifications and new features. These upgrades include anonymity, master nodes, and more
+info on our fundraising activities planned for later in the year.
+28 July 2020
+Terrabit celebrates its 1st anniversary of trading. Stay tuned for all the information about
+promos to help us celebrate.
+31 July 2020
+Credit Hardfork: New coin/daemon name changes from credit to Terracredit symbol
+remains CREDIT. Lower supply revised mining rewards and the addition of master nodes.
+Full specs available in whitepaper update. Swap rate: 1000 : 1, fixed reward of 20 CREDIT
+per block, 1 block per 60 seconds, 50/50 split with master nodes. 10% Superblock reward
+for Governance. Proposals and voting will see TerraCredit turn into a DAO Decentralized
+Autonomous Organisation that will only produce 1 Billion coins over the next 100 years.
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+1 August 2020
+Credit Hardfork: Is live and chain swaps will take place primarily at Terrabit and other
+major exchanges. There will be a short period of downtime as our partner exchanges
+update their nodes and the swap should be automatic across all markets, wallets etc.
+Coinmarketcap and Coingecko will also update with the new supply and distribution
+information.
+1 August 2020
+TerraCedit Hardfork Swap : Legacy CREDIT Deposit Round – 1 August 2020 | Old CREDIT
+swaps to new chain at a rate of 1,000 : 1 in favor of the new chain. Simply send your
+coins to any participating exchange or Terrabit and the swap is instant. Swap takes place
+on 1 August and no swap will be honored past that date.
+15 August 2020
+New development roadmap and whitepaper will be released.
+GET CREDIT
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+CONCLUSION
+In closing, we are confident that the combination of advanced Blockchain technology and
+simplified user access will be a strong proponent for the success of Credit in new markets. Credit offers fast and virtually free transactions on an energy-efficient Blockchain
+that costs very little to support.
+
+CREDITS
+Literary References:
+1. Bitcoin Whitepaper: https://bitcoin.org/bitcoin.pdf
+2. Peercoin Whitepaper: https://peercoin.net/whitepapers/peercoin-paper.pdf
+3. Wikipedia: https://en.wikipedia.org/wiki/Proof-of-stake
+Opensource Technology:
+Bitcoin: https://github.com/bitcoin/bitcoin
+Litecoin : https://github.com/litecoin-project/litecore-litecoin
+Zerocoin (zCASH) : https://github.com/zcoinofficial/zcoin
+PIVX: https://github.com/PIVX-Project/
+https://pivx.org/white-papers-2/
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+CONTACT DETAILS
+Project Name: TerraCredit DAO
+Coin name: TerraCredit (CREDIT)
+Website: https://terra-credit.com
+Email: info@terra-credit.com
+Nelson Mandela Square.
+West Tower, 2nd Floor,
+Maude Street,
+Sandton,
+Johannesburg,
+South Africa, 2196
+T: + 2711 881 5566
+E: info@terra-credit.com
+Terra Credit | Updates: https://t.me/terracreditupdates (Our update channel, latest news,
+network status and upgrades)
+Terra Credit | Telegram group: https://t.me/terracredit
+(Our main and original community channel, you need to be in this channel to claim Credit
+in any round).
+Terra Credit | Price Discussion: https://t.me/Terracreditprice
+This group facilitates speculative discussion relating to the price of TerraCredit
+(CREDIT).
+FaceBook | https://www.facebook.com/pg/Terra-Credit-Project
+Twitter | https://twitter.com/TerraCredit
+Explorer: https://explorer.terra-credit.com
+Source: https://github.com/CREDIT-2-0/TerraCredit
+
+Credit: Designed for Mass Adoption
+https://terra-credit.com
+
+

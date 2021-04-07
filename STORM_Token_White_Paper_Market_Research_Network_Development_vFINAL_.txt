@@ -1,0 +1,407 @@
+StormX™, Inc.
+FINAL
+October 16th, 2017
+
+Buy Zynga Poker Chips
+
+This document is the intellectual property of CakeCodes Global SEZC, Inc. Neither
+duplication nor distribution is permitted without written permission of CakeCodes Global
+SEZC, Inc.
+Storm Play™, Storm Gigs™, Storm Market™, Storm Task™, StormX™ and STORM Token™ are
+trademarks (™) of CakeCodes Global SEZC, Inc.
+The information and views expressed in this document, including URLs and other Internet
+website references, may change without notice.
+
+CakeCodes Global SEZC, Inc.
+
+Confidential 2017 | Patents-Pending
+
+Page 2 of 20
+
+StormX, Inc. (“StormX”) is rebranding its popular AdTech application “BitMaker” to “Storm
+Play,” and contemporaneously kicking off both the increased gamification of, and the
+integration of blockchain technology to, the app. To introduce blockchain technology into
+its technology stack, StormX is introducing the STORM token, an ERC20-compliant token
+that operates on the Ethereum blockchain. “Storm Makers,” who post tasks in the Storm
+Play app, are required to pay for posts in STORM tokens, and “Storm Players,” who are the
+users of the app earn rewards, denominated in Bolts, for performing tasks. With the
+introduction of Storm Play, Storm Players now have the option of monetizing their earned
+Bolts in STORM tokens. Storm Players may then become Storm Makers by in turn using
+STORM tokens to pay to post tasks on the platform.
+The introduction of blockchain to the Storm Play app marks the first step in an evolution
+toward what StormX envisions as an entire decentralized marketplace for tasks – the
+“Storm Market.” The Storm Market will operate similar to the Apple App Store or the
+Google Play Store in that it will serve as a platform where Storm Makers and Storm Players
+can create and accept tasks using smart contracts powered and paid for with STORM
+tokens. StormX aims to make the Storm Market a platform that operates via a combination
+of StormX APIs and other proprietary software tools and applications, along with
+Ethereum-based smart contracts for various types of tasks which will execute using STORM
+tokens. People worldwide can benefit by adopting the Storm Market model as a
+mechanism for commerce, as it makes it easy for Storm Makers and Storm Players to
+connect and interact with significantly reduced transaction costs.
+
+Website: www.stormtoken.com
+
+CakeCodes Global SEZC, Inc.
+
+Confidential 2017 | Patents-Pending
+
+Page 3 of 20
+
+Abstract
+
+3
+
+Table of Contents
+
+3
+
+Overview
+
+5
+
+The Freelancer Marketplace
+
+6
+
+StormX Background
+
+8
+
+Gamification Design
+
+9
+
+Storm Player Types (6 Persona Types)
+
+10
+
+Storm Player Journeys
+
+10
+
+Introducing the Storm Market
+
+12
+
+Storm as Smart Tokens
+
+12
+
+Storm Market Launch
+
+13
+
+Future Development Plans: Storm Tasks
+
+14
+
+StormX Team
+
+15
+
+Team Overview
+
+15
+
+Key Team Members
+
+16
+
+Lead Advisors
+
+18
+
+Acknowledgements
+
+20
+
+CakeCodes Global SEZC, Inc.
+
+Confidential 2017 | Patents-Pending
+
+Page 4 of 20
+
+Finding a steady flow of flexible opportunities to earn, not just to get by in life, but to
+truly advance ourselves and our families is a global need.
+In the current freelancer market, centralized industry leaders including Upwork, Fiverr &
+Amazon, charge up to 40% in transaction fees. The current system has too many
+middlemen making the global freelance market expensive and inefficient. In taking the first
+step toward tackling this problem, StormX, Inc. (“StormX”) is rebranding its popular microtask application “BitMaker” to “Storm Play,” and contemporaneously kicking off the
+integration of blockchain technology into the app with the introduction of “STORM
+tokens.” Storm Play is the user portal into StormX’s existing micro-task marketplace, which
+will be called “Storm Market” in the rebranded app. While currently Storm Market
+primarily features promotional user engagement tasks, StormX’s vision is that there will
+ultimately be three distinct categories of tasks:
+1. Promotional user engagement.
+2. Freelance labor, ranging from micro-tasks to app QA testing to longer
+independent contract-style engagements.
+3. Shopping-related opportunities where users can learn about or sample retail
+goods and services.
+StormX’s vision is that the Storm Market will operate a decentralized platform where
+anyone will be able to offer or engage in tasks using Ethereum blockchain-based “smart
+contracts” powered by ERC20-compliant STORM tokens.
+The Future of Storm Market is here.
+With the launch of the rebranded Storm Play app in conjunction with the distribution of
+STORM tokens, the core elements of Storm Market are in place. Storm Market participants
+soliciting engagement (i.e., sellers, advertisers, companies, etc. – we call them “Storm
+Makers”) use STORM tokens to place tasks in the Storm Market, and the participants
+wanting to engage (consumers, viewers, freelancers, etc. – we call them “Storm Players”)
+receive reward units called Bolts in return for performing specified tasks. Bolts may not be
+transferred off of Storm Market and are redeemable for STORM Tokens. STORM Tokens
+may then be resold, used to pay for the listing of tasks on Storm Market or utilized in any
+way the holder sees fit. (As detailed below, for a transition period, Storm Players will
+continue to be able to choose to convert Bolts to ETH, BTC, or STORM tokens, but once the
+transition is complete, Bolts will only be transferrable to STORM tokens.)
+
+CakeCodes Global SEZC, Inc.
+
+Confidential 2017 | Patents-Pending
+
+Page 5 of 20
+
+Blockchain is revolutionary.
+As demonstrated by the success and growth of Blockchain-based distributed computing
+networks like Bitcoin and Ethereum, the future of the Internet involves decentralized,
+efficient, inclusive, and global ecosystems. StormX believes that blockchain-based
+marketplaces will be a critical foundation to global, digital ecosystems. The creation and
+integration of STORM tokens into Storm Play reflect StormX’s vision to fully integrate
+blockchain technology into Storm Market. At launch, Storm Market will remain a centralized
+platform, but the StormX team is developing blockchain-based smart contracts that will
+decentralize the process of creating and engaging in tasks in Storm Market, removing
+inefficiencies, and enabling Storm Makers and Storm Players to engage directly with each
+other in an open and transparent platform powered by STORM tokens.
+Ultimately, the Storm Market will seek to enable ways to earn rewards and compensation
+through gamified micro-tasks and other engagement tasks and freelance work from
+anywhere, at any time, on any device, by:
+1. Making it easier to find new opportunities
+2. Making it easier to advance
+3. Making it easier to engage, no matter what role a person is playing
+StormX’s Principles:
+1. Effective global inclusion can only happen when all marketplace participants can
+negotiate and settle efficiently
+2. The ability to earn and improve one’s condition is a basic human right
+3. Efficiency is about respecting the most valuable resource of all, time
+
+There has been a major shift in the freelancer marketplace over the last five years.
+Today, employers place a much higher emphasis on technology and automation, rendering
+the traditional work schedule nearly obsolete. Companies hire people from all over the
+world while maintaining operational efficiencies and reducing costs. The digital world
+allows for a company to hire a software developer from Brazil, a user experience designer
+from England, and community manager from India. This is a major advantage to both
+parties: task performers are no longer bound by geographical location and task posters are
+able to hire from the global talent pool.
+
+CakeCodes Global SEZC, Inc.
+
+Confidential 2017 | Patents-Pending
+
+Page 6 of 20
+
+Figure 1: The traditional information worker paradigm is being disrupted by technology and automation.
+
+Centralized platforms have established this as a strong market. Companies like Fiverr,
+Taskrabbit, Upwork, and Mechanical Turk have their workforces distributed throughout the
+world, but existing inefficiencies are financially hurting many of these freelancers. Today’s
+platform participants are losing up to 40% of their wages in platform transaction fees,1 with
+long transaction periods, and they are not receiving the corresponding value in return. This
+can create a toxic relationship between the task poster and task performer. Freelancers
+want to earn more, and to keep more of what they actually do earn. Blockchain can
+change these dynamics through the efficient listing of tasks and implementation of
+rewards programs which can be monetized through conversion to STORM tokens.
+
+1
+
+For example, Mechanical Turk charges an additional 20% commission when requesters need more
+than 10 people, as seen in: http://www.businessinsider.com/amazon-mechanical-turk-price-changes,
+and https://requester.mturk.com/pricing.
+CakeCodes Global SEZC, Inc.
+
+Confidential 2017 | Patents-Pending
+
+Page 7 of 20
+
+StormX started by taking a different approach to the digital advertising marketplace and
+creating an advertising marketplace that rewards the engagers of gamified advertisements
+with cryptocurrency through the android mobile application, Storm Play. Storm Play works.
+This unique approach to the advertising marketplace helped develop the idea behind a
+much larger opportunity to extend this network of potential Storm Players into a
+marketplace with more earning opportunities consisting of a wide variety of gamified
+micro-tasks.
+Through Storm Play, StormX has already grown a market with 250,000+ monthly active
+Storm Players. As of August 21, 2017, Storm Market participants have access to:
+
+Figure 2: Storm Play’s highlight achievements.
+
+CakeCodes Global SEZC, Inc.
+
+Confidential 2017 | Patents-Pending
+
+Page 8 of 20
+
+Gamification principles are used throughout Storm Market.
+Gamification is the process of adding games or game-like elements, such as a micro-task,
+to encourage active participation. Gamification is the process of integrating game
+mechanics in 'non-gaming' contexts2, such as websites, apps, and services, in order to
+boost the user's motivation for participation, enhance the level of engagement and
+increase user loyalty. It is an iterative process in which a gameful design framework is
+deployed to foster the user's journey to mastery. People already have gamified services like
+language learning courses (e.g. Duolingo and MindSpace). Games like Candy Crush, Clash
+Royale and the Clash of Clans have already developed an array of effective gaming
+techniques.
+The main goal of embedding a 'gamification' layer to the Storm Market platform is to make
+it effective in reaching objectives for boosting and delivering business results, like ROE
+(Return on Engagement). Storm Play can make monotonous work much more enjoyable
+through a gamified platform.
+Gamification strategies and techniques create the easiest and most enjoyable way
+for people to earn within the Storm Market.
+●
+
+Experience rewards system (Storm Players are rewarded with Bolts, formerly known
+as Blocks) for:
+○
+
+Creating tasks
+
+○
+
+Completing tasks
+
+○
+
+Managing other Storm Players that a person referred in to complete a task
+successfully
+
+○
+
+Helping categorize a task or helping to rank a task
+
+“Treks” are how StormX internally conceptualizes the journeys designed within the platform
+experience that help a Storm Player go from being a new user of Storm Play, to a master
+user of Storm Play.
+
+2
+
+Dederding et al., 2011: https://www.cs.auckland.ac.nz/courses/compsci747s2c/lectures/paul/definitiondeterding.pdf.
+CakeCodes Global SEZC, Inc.
+
+Confidential 2017 | Patents-Pending
+
+Page 9 of 20
+
+This platform has vast kinds of Storm Maker treks. Different Storm Players earn Bolts
+which may be redeemed for STORM tokens by doing different kinds of tasks. Each actionloop and journey (described below in greater detail) corresponds to different kinds of
+Storm Player types, to make them applicable to different kinds of real world people. Storm
+Market uses gamified design to appeal to the following different types of users:
+
+Figure 3: Six types of Storm Players
+
+Gamification mechanics focus on enabling Storm Players through “journeys,” which can
+range from beginner level to mastery level. The mechanics focus on helping Storm Players
+become advocates of the Storm Market platform. Currently, a Storm Player can progress
+through the following phases with respect to the Storm Play application:
+1. Discovery phase
+2. Onboarding phase
+3. Getting immersed [habit building] phase
+4. Mastery phase and replay.
+
+CakeCodes Global SEZC, Inc.
+
+Confidential 2017 | Patents-Pending
+
+Page 10 of 20
+
+Figure 4: Storm Players, and Storm Makers are going through a journey from beginner to mastery.
+
+The basic unit of the gamification design process are “action-loops.” An action-loop serves
+to boost a user's engagement. Storm Makers can offer Storm Players different ways of
+aggregating Bolts, like QA Testing. Storm Players track their micro-task progress according
+to their Bolts earned to date, which can best be characterized as the experience points a
+Storm Player accumulates as he or she completes tasks. After performing the task, a Storm
+Player can level up - that is, as the Storm Player’s number of total Bolts earned increases,
+so does the Storm Player’s experience rank. Different action-loops can be designed for
+each of the four phases of the Storm Player’s journey to mastery on different treks. Once
+the Storm Player is done they may redeem their aggregated Bolts for STORM tokens.
+
+Figure 5: Action loops are the micro-engagement engines that create an effective gamification framework
+
+CakeCodes Global SEZC, Inc.
+
+Confidential 2017 | Patents-Pending
+
+Page 11 of 20
+
+An effective gamification design framework includes action-loops that take into account the
+user’s intrinsic motivation. This means that effective gamification depends on the ability to
+provide appropriate feedback to the user, as shown in the diagram below. This positive
+feedback comes in the form of Bolts.
+
+Figure 6: User intrinsic motivation driven approach.
+
+3
+
+Storm Play has shown significant growth by providing users with a gamified AdTech
+experience, and StormX sees this gamification model as the foundational point for creating
+an improved marketplace for not just advertising, but all sorts of microtasks. As StormX
+integrates blockchain technology and adds additional features, all players involved in the
+marketplace benefit.
+
+StormX is rebranding and launching Storm Market, which operates as a platform that
+supports both proprietary applications and open-sourced smart contracts aimed at
+facilitating transactions in a micro-task marketplace. The Storm Market network provides
+network participants with rewards (Bolts), tools, features, and other customized access via
+STORM tokens.
+
+3
+
+Based on Deci & Ryan Self-Determination Theory, 2012
+
+CakeCodes Global SEZC, Inc.
+
+Confidential 2017 | Patents-Pending
+
+Page 12 of 20
+
+StormX is introducing the STORM token as an ERC-20 token that will facilitate transactions
+within an opt-in, secured, gamified marketplace, that will eventually be run by blockchainbased smart contracts on Ethereum. The STORM token will be implemented to have the
+option to be used as a Smart Token using the Bancor protocol, however, the Bancor
+protocol technology will not be enabled at launch. The Smart Token template is an ERC20compatible token template. More information about Bancor can be found on the Bancor
+website and the Bancor white paper.
+At the launch of the network, Storm Makers will need to pay StormX using STORM tokens in
+order to create micro-tasks in Storm Play. STORM tokens can be acquired through:
+●
+
+Storm Play, by aggregating Bolts that are redeemable for STORM tokens.
+
+●
+
+STORM token user acquisition token allocation, which will be dispensed through
+Storm Play channels such as email, Storm Play, or social media.
+
+The launch of the Storm Market will be marked by StormX’s sale of STORM tokens and its
+contemporaneous rebranding and gamification of what was previously known as the
+Bitmaker AdTech application to Storm Play. Specific examples of how Storm Market has
+introduced gamified user scenarios are:
+1. Marketing Visibility via Boosts: Many of today’s freelancers struggle with
+being able to market themselves, inhibiting their access to more
+opportunities. Within Storm Market, Storm Players can use their balance of
+Bolts for boosts. Boosts give the Storm Player access to more micro-tasks for
+a certain period of time.
+2. Training: Many of today’s freelancers also struggle with understanding what
+is required in terms of skill to gain access to different types of tasks. Storm
+Market users can engage in training tasks to develop skills and receive Bolts.
+Each skill has its own level to increase based on the number of tasks
+completed. These training tasks also help the Storm Player understand his or
+her current skill level and the gaps to close in order to reach his or her next
+skill level, which in turn can unlock more tasks.
+3. Gamified Project Management: Storm Players are rewarded for reaching
+task milestones within complex tier tasks. Storm Players will be rewarded
+when they complete a task milestone, which will help the Storm Player be
+
+CakeCodes Global SEZC, Inc.
+
+Confidential 2017 | Patents-Pending
+
+Page 13 of 20
+
+

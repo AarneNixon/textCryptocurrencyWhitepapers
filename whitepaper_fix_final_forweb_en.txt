@@ -1,0 +1,1634 @@
+New insurance ecosystem
+
+1
+
+4
+
+1.0. Abstract / Intro
+
+1.1. Background
+
+6
+
+2.0. Summary of The Insureum Protocol
+
+11
+
+2.1. Policyholders
+
+13
+
+2.3. Developers
+
+14
+
+2.2. Insurance companies
+		
+
+2.3.1. The Challenge
+
+2.4. Third parties
+
+3.0. Changes to Value Chains with the Insureum Protocol
+3.1. Phase 1: Product Development
+
+13
+14
+
+16
+17
+
+20
+
+		
+
+3.1.1. Data purchase
+
+22
+
+		
+
+3.1.3. Value distribution
+
+23
+
+3.3. Phase 3: Claim management
+
+26
+
+3.1.2. Product development
+
+3.2. Phase 2: Sales and marketing
+3.4. Use Cases
+
+22
+24
+
+27
+
+		
+
+3.4.1. Micro insurance (Short-term, specific coverage) 27
+
+		
+
+3.4.3. Risk prevention
+
+		
+		
+
+3.4.2. Usage-based insurance (UBI)
+
+28
+
+3.4.4. Personalized insurance / P2P insurance
+
+28
+
+4.0. Insureum Token Dynamics
+4.1. InsureTech
+
+28
+
+29
+
+30
+
+4.2. Data value dynamics
+
+30
+
+4.4. Strategies to boost adoption
+
+31
+
+4.3. Insureum Tokens
+
+4.5. Ensuring sustainability of The Insureum Foundation
+
+2
+
+31
+
+32
+
+5.0. Timeline
+
+34
+
+6.0. ISR Token
+
+36
+
+6.1. Terms & Conditions Summary
+
+36
+
+6.3. Use of proceeds
+
+39
+
+6.2. Insureum (ISR) Token Offering Event
+
+37
+
+6.4. Governance
+
+40
+
+6.6. What is KYC and why is it needed?
+
+42
+
+6.5. Ethereum-based coin
+
+41
+
+7.0. Team
+
+44
+
+8.0. Advisors
+
+48
+
+9.0. Partners and supporters
+
+52
+
+10.0. References
+
+54
+
+Zikto Inc. is a Korean startup company, ranked by Forbes as a
+top-10 Korean startup in 2017. Zikto first started as a wearable
+device brand in 2014. In 2017, Zikto extended its business to develop ‘The Challenge’, a multiple IoT device integration platform.
+Currently, Zikto is partnered with several Korean insurance and financial conglomerates, including KB Financial Group, Kyobo Life
+Planet, and SK Planet, in connection with the development of a
+new protocol called Insureum, designed to eventually disrupt the
+existing insurance industry by leveraging blockchain technology.
+Insureum, a combination of Insurance + Ethereum, is the cryptocurrency that will be used in their Insureum Protocol. Zikto Pte. Ltd. will
+be carrying out the Insureum token sale as described in this Whitepaper. Further information on Zikto Pte. Ltd. is available below.
+
+3
+
+1.0. Abstract / Intro
+Despite the insurance industry’s success over the last 30
+years, it has never been a technology leader. Finally, with
+the Insureum Protocol, the insurance value chain will
+become cost efficient and simple, and create larger value
+in the insurance industry by enabling transactions between
+stakeholders. Insurance companies, policyholders and 3rd
+parties alike can all make transactions according to their
+own competencies, and all excess value (created from the
+transactions) is shared based on their contribution.
+Zikto started negotiations with insurance and financial
+institutions in 2015, concerning the gathering and
+processing of lifecycle data. It was these new connections
+that led Zikto down the path toward changing their focus as
+a company.
+The Zikto team realized that a lot of players in traditional
+finance-based sectors have a strong initiative to understand
+their current and potential customers. A data-gathering
+intermediary can be a real asset for these sectors to
+understand their target audiences. With reliable data, they
+can develop better products that are customized, digitalized
+and more cost-efficient.
+However, it is very difficult and costly for these sectors to
+gather this data by themselves. It requires a significant
+investment of time and money to develop and integrate
+such a system, market it to the public, manage the data
+gathering processes, and analyze it. The Challenge, Zikto’s
+data integration platform, bridged the gap nicely by
+providing data and analysis gathered from various smart
+devices. Zikto secured a number of sales agreements and
+ongoing negotiations with global insurance companies, as
+The Challenge offered a good value-for-price. As just one of
+millions of app developers, Zikto ultimately decided to side
+with the win-win monetization strategy of adjusting their
+focus to the processing and integration of data.
+Now, Zikto is expanding the idea of data sharing to another
+level: developing a protocol to facilitate the transactions. It
+will promote more stakeholders in the traditional insurance
+industry, benefiting all. Insurers will find easier ways to
+gather data, users and policyholders will have access
+
+4
+
+FIG 1. How Insureum will change the insurance industry landscape
+
+5
+
+to better insurance products, and third parties like app
+developers and sales agencies will find optimal ways to
+monetize their services and products.
+The Insureum Protocol is a new blockchain-based insurance
+ecosystem that seeks to connect insurers, their customers,
+and developers. It is designed to assist insurance companies
+in tailoring insurance policies to individual lifestyles to
+provide unique incentives for customers. Zikto’s vision is
+for the Insureum Protocol to create the conditions through
+which many new insurance products attractive to people
+under the age of forty are developed.
+1.1. Background
+How can traditional, slow moving insurance companies
+create new cost-efficient processes and adapt to constantly
+changing market demand? Decentralization via blockchain
+technology will give these companies a way to outsource
+costly manual processes like gathering and analyzing data,
+and avoid falling behind.
+Insurance companies are facing drastic changes to the state
+of the market and its fundamental structure. While other
+industries adopt and adapt to global digitization trends,
+the conservative insurance industry is losing ground. Their
+growth has slowed hand-in-hand with the market due to
+a rapidly aging population and the changing lifestyles of
+new generations. Meeting the needs and wants of younger
+demographics is extremely challenging because of a lack
+of data and poor capability to deeply analyze it. Globally,
+a number of insurers are already providing data and
+digital-driven healthcare services to their policyholders to
+reduce the cost from claims. For example, the international
+Medolution programme supported by the National
+Research Council of Canada ↗ is based on the idea of using
+digitization to reduce costs ↗, while improving patient
+quality of life. The Canadian Government’s ‘Smart Health’
+program ↗ is similarly based on the idea of reducing costs
+with digitization.
+
+▫
+
+▫
+▫
+
+6
+
+Despite the emerging market, there is a global trend of
+reduced growth in the insurance industry. This is mainly due
+to stagnancy in advanced markets such as the US and other
+developed countries including Germany, UK, and Australia,
+which are expected to see less than 1.5% growth through
+2018. The non–life insurance market is forecasted to see a
+lower growth rate compared to the life insurance market,
+but the overall trend is almost identical in both markets.
+As a result of insurance companies’ poor access to data and
+inability to deeply analyze the data they do have, customers
+are stuck with limited options from insurance providers
+who present them with insurance plans which are not 100%
+suitable for their individual needs.
+About 30 years ago, the insurance industry experienced an
+age of innovation. New investment-linked products appealed
+to a wider range of customers. But since then, the only
+major innovations in the insurance industry have been the
+ability to compare plans and shop online. Insurance policies
+have remained largely the same with entrenched and
+standardized packages which are not tailored for individual
+lifestyles. Because of this, insurers are having a hard time
+attracting buyers in their twenties and thirties, as they do
+not find insurance offerings attractive. Even those who do
+consider buying insurance discover that their lifestyles are
+not well-matched with available insurance plans. These
+groups may avoid making an insurance purchase and may
+put off retirement planning as something to look into in
+another decade. Millennials also find that there is no clear
+way to subscribe to specific policies they want. For example,
+a car owner who only commutes less than 5 miles per day
+would not want to purchase the same insurance policy
+that their neighbor subscribes to, which covers more than
+100 miles of driving per day. The traditional insurance
+products, by their nature, are not designed to cover different
+individual needs and wants.
+
+7
+
+FIG 2. Total market growth forecast of
+non-life insurance market by country, 2014 - 2018 13
+
+FIG 3. . Total market growth forecast of life
+insurance market by market, 2014-2018 13
+
+FIG 4. Global Insurance Market Index by quarter, 2012 - 2017
+(Q1 2012 as baseline (1.0) 13
+
+8
+
+Life insurers, for instance, have until now relied on actual
+medical data to create the actuarial tables their plans are
+based on. The problem is that this information is hard to
+get a hold of, as doctors and medical institutions are rightly
+reluctant to provide sensitive patient records. The lack of
+such information is even tougher for smaller companies who
+want to enter the scene but have no relevant data to rely on
+when creating their protection plans.
+For auto and other non-life insurances, there’s a virtually
+endless stream of user data available online, but very little
+of it provides insight that is useful to insurers in connection
+with the creation of new insurance products for a new
+generation of customers.
+After insurance policies are created and marketed, they go
+through a lengthy process known as underwriting before
+they come into force, where the insurance provider decides
+whether to issue the insurance policy to the customer.
+Between underwriting and making a claim, insurance
+companies, inspectors and customers may waste time and
+money in making sure that claims are valid and fraud-free.
+FIG 5. Increase in mobile initiatives of different
+stakeholders in the insurance industry, 2011 - 2016 13
+
+9
+
+It is extremely challenging (and expensive) for insurance
+companies to be agile and create their own platforms to
+collect necessary data to speed up product creation and
+underwriting. Especially considering the fact that there are
+plenty of platforms with almost identical purposes (e.g.,
+mobile applications and websites), acquiring and retaining
+users on their own platforms is more difficult than it seems
+to be. Furthermore, policyholders are reluctant to give away
+their personal information without any incentive.
+Due to the difficulties stated above, currently, most
+insurance companies process their value chains manually.
+Customers are paying high premiums to insurance
+companies partly due to these poorly-managed value chains.
+According to reports published by McKinsey & Company,
+these costs can be reduced by 30% by automating and
+digitizing the processes.
+At the same time, there are a lot of services collecting user
+data but not effectively monetizing it. Many individual app
+developers use advertising as a monetization strategy, which
+is renowned to be the least effective, according to a survey
+by Combo App 13. If they can successfully monetize the
+acquired data in mutually beneficial way, it will be a gamechanger for them.
+FIG 6. Most common monetization strategies for apps
+
+10
+
+2.0. Summary of The Insureum Protocol
+The Insureum Protocol bridges the technology gap between
+the insurance industry, 3rd party developers (Applications &
+IoT), and policyholders.
+Unlike manually managed value chains, the Insureum
+Protocol uses blockchain technology to create a
+decentralized ecosystem which connects insurers, their
+policyholders, and third-party developers, and seeks to
+provide access to a plethora of individually anonymous, but
+demographically identifiable data. The premium paid will
+enrich the total value creation of the industry. Furthermore,
+the created value is shared based on each stakeholder’s
+contribution.
+In recent years, adjacent industries (finance and healthcare)
+have been seeking new ways to access customer data. In
+the insurance industry, IoT, wearables and other smart
+technology can give highly relevant information about
+customers to insurance companies that can help them tailormake plans and create insurance products which appeal to
+potential customers.
+FIG 7. Main stakeholders in the Insureum Protocol
+
+11
+
+For example; GPS and telematics tracking can inform
+insurance companies how fast someone drives, or suggest
+that a driver who regularly drives for long periods should
+schedule more breaks. Other technologies may track
+how often they go rock climbing, cycling, etc. Insurance
+companies could also determine the amount of steps taken
+during a normal day as one measure of health.
+Within the Insureum protocol ecosystem, insurers, their
+policyholders and third-party developers can exchange
+blockchain-based tokens called Insureum to buy and sell
+anonymized data. Insurers will receive the data they want
+and have the opportunity to develop totally new or even
+better types of insurance products, especially for usagebased insurance segmentation. Developers are incentivized
+to connect apps to the Insureum Protocol to receive
+Insureum, and policyholders are rewarded for sharing their
+anonymized data.
+The value of the Insureum Protocol is described below. The
+value to any particular stakeholder may vary depending on
+the future development of the Insureum Protocol and other
+factors. However, Zikto plans to ensure the main idea of
+Insureum-incentivized data-sharing will be actualized in the
+following ways during the first stage.
+FIG 8. China InsureTech segments, key players and market size forecast by 2020 13
+
+12
+
+2.1. Policyholders
+The Insureum Protocol gives policyholders more power
+to choose plans that perfectly match their lifestyles by
+providing insurers with diversified data, even though such
+plans will not be purchasable through Zikto or marketed via
+the Insureum Protocol, at least at the initial stage. However,
+we have plans to serve as a free marketplace for insurance
+products in the future after acquiring the proper regulatory
+license. When policyholders choose to share data, they are
+rewarded by being able to trade and earn cryptocurrency
+(Insureum). They could, at a later stage, perhaps also
+save time and effort when making claims, as most of the
+processes would be automated by utilizing smart contracts
+on the blockchain.
+By its fit-for-all nature, consumer insurance products cannot
+meet the needs of the various individual policyholders.
+With the Insureum Protocol, policyholders will be able
+to purchase customized insurance products such as (for
+example) pet insurance, car insurance only for long-distance
+driving, real estate insurance only during the holiday season,
+cybersecurity insurance and others for a more reasonable
+price. Secondly, the data that they currently share for free
+will be made more valuable. Data users (insurers and other
+third parties) will reward the policyholders (and other
+data providers like app users) for the data with Insureum.
+Considering that there is currently almost no reward for the
+data, this will dramatically impact perspectives on the value
+of the data.
+Imagine an insurance policy that rewards you if you hit
+metric goals like walking 10,000 steps per day. Or if you’re
+a safe driver and don’t slam your brakes in traffic, you’ll be
+entitled to a discount.
+2.2. Insurance companies
+Insurance companies will be able to create mini ecosystems
+that contain in-house or third-party apps that accurately
+gather and analyze the real data of (potential) policyholders.
+Within these ecosystems, cryptocurrency is exchanged
+
+13
+
+between developers and insurance companies, and can
+be used to buy and sell anonymized data to develop and
+manage customized product offerings.
+Being able to identify fraud by cross-referencing transactions
+on the blockchain could also help insurance companies to
+save time and money when it comes to underwriting and the
+claims process.
+2.3. Developers
+Currently, many of the apps that gather user data via IoT
+devices don’t appear to have proper business models
+through which they may easily and quickly monetize this
+data. Using Insureum and The Insureum Protocol, app
+and API developers may be able to create and maintain a
+variety of new programs based on requests from insurers.
+The Insureum Protocol could be used by both insurance
+companies and developers to exchange apps and/or data in
+a turnkey ecosystem, with limited difficulty and costs due to
+transactional or trust issues, as all transactions will be based
+on Insureum and on a blockchain.
+2.3.1. The Challenge
+In 2015, Zikto launched its ‘Zikto Walk’ wearable, which
+became incredibly popular among insurance companies
+looking to gather data about people’s lifestyle habits. Using
+what it learned, the Zikto team shifted its focus to providing
+data aggregated from multiple health apps to insurance and
+financial companies. This data presently feeds into a Ziktodeveloped platform called ‘The Challenge’. ‘The Challenge’
+is a mobile marathon platform which tracks activity from a
+range of wearables and applications via an API and seeks
+to build financial products for insurance and financial
+companies.
+In 2017, The Challenge was adopted by KB Card, one of the
+largest financial conglomerates in Korea, with the world’s
+first activity-based reward platform for credit cards. Users of
+KB Kookmin Card receive rewards when achieve the goal of
+walking 10,000 steps per day. The card has been successfully
+
+14
+
+adopted by the users, and sold more than 23,000 by March
+2018.
+The Challenge platform will be leveraged in order to
+kickstart and maintain the Insureum Protocol.
+Currently, setting up an API and platform that collects
+wearable data from different manufacturers (e.g., Nike,
+Apple or Fitbit) would cost roughly $2–3 million (based on a
+rough estimation by a local insurance company), according
+to an insurance industry expert. Using ‘The Challenge’
+platform instead, insurance companies now only need
+to pay an average of 70¢ per customer, per month. ‘The
+Challenge’ will also be an efficient option for insurers who
+want to develop activity level–based insurance and refer to
+specific PHRs (Personal Health Records), but don’t have their
+own platform.
+
+▫
+
+FIG 9. The Challenge card with KB Kookmin Card ↗
+
+15
+
+2.4. Third parties
+All the stakeholders who are connected to the insurance
+value chains will be able to join the protocol and share the
+value as the protocol will cover all value chains from product
+management to claim management.
+Third party stakeholders include, but not limited to: app
+developers who develop apps/services to gather data from
+users by insurers request; database providers who store
+users’ lifecycle data; GAs who act as external sales agencies
+for the insurers; inspectors for the claim management
+process; and freelance underwriters.
+The database providers can also participate as a distributed
+database provider since the transactions among the
+stakeholders will mostly be data-heavy. In sales and
+marketing, an external salesforce (GA: general agents) will
+“outsource” sales of the insurance company, collaborating
+with the internal salesforce. For claim management, external
+inspectors can provide inspection service for the claims
+requested from the policyholders. In the later stages, we
+project that the underwriting and risk management can
+be partially outsourced to external underwriters and risk
+assessors.
+All transactions will be based on blockchain technology,
+leading to less (if not zero) transaction costs and more
+efficient value distribution.
+
+16
+
+3.0. Changes to Value Chains with the Insureum Protocol
+Traditional insurers appear to lack any significant
+capability to develop digital-based products for emerging
+needs, like usage-based or digital insurance products,
+as such development requires more diverse data from
+policyholders. As shown in the diagram above, insurers
+lack communication with their users, especially during the
+product management process of their value chain. This is
+mainly because of their old-fashioned product development
+models. Insurance products are not well-aligned with the
+changing needs of the customers, especially for those in
+younger age groups.
+FIG 10. Value chain and transactions with users/policyholders
+of traditional insurance companies
+
+17
+
+The existing value chain makes it challenging for insurers
+to lower the prices of insurance products. Most processes
+are manual and human-based, which leads to high
+operating costs. Insurers want to obtain the capabilities of
+process automation and data processing to cut costs, but
+these digitization and automation improvements require
+intensive investments of time and money. Furthermore,
+it is challenging to acquire and retain consumers on their
+platforms (mobile apps and websites) even if they manage
+to develop their own in-house platform. Users are reluctant
+to use a variety of platforms developed by different parties,
+not only those of insurers but also those of other app
+developers. Also, according to the report 13, the outdated
+underwriting process results in additional time and costs,
+and undermines insurance sales.
+FIG 11. Value chain and transactions with users
+and 3rd parties in the Insureum Protocol
+
+18
+
+On top of this, the traditional value chain has little room
+for other 3rd party players to participate, as most existing
+processes are centralized, performed solely by the insurer.
+Currently, insurers develop their own data-gathering apps
+even though there are external applications and platforms
+available. Part of the reason for this inefficiency is that
+the internal systems are designed for centralized use by
+insurers.
+Policyholders are directly affected by this. Almost all
+insurance products are still developed in the same way as
+they were in the 1980’s due to a lack of ability to develop
+digital insurance products. Smaller, niche-targeted insurers
+(e.g., P2P insurers) offer more customized insurance
+products, but are not able to reach the general public. Also,
+prices are increasing across the board, leading to customer
+dissatisfaction. 13
+The Insureum Protocol is an ecosystem designed to resolve
+the problems described above. By decentralizing the value
+chain processes of insurers, more value can be created both
+from larger sales and lower costs. Insurers, 3rd parties,
+and users can share the created value according to their
+contributions to it.
+The overall processes will be executed on the Insureum
+Protocol in three phases, focusing on each value chain
+process in each phase in order:
+
+19
+
+3.1. Phase 1: Product Development
+Insurers can buy user data, developers can gather and
+analyze the data based on insurers’ requests, and users can
+sell their data using the Insureum Protocol. Insurers can
+gather users’ lifecycle data to develop more customized,
+usage-based insurance products. Developers can gather
+and analyze requested data with their pre-developed or
+on-demand solutions. Users can easily sell their lifecycle
+data using developers’ solutions and get rewarded with
+Insureum.
+FIG 12. Transaction of insurers, users and 3rd parties
+in the product development process
+
+20
+
+Insurers can develop more custom digitized insurance
+product offerings using their users’ data and developers’
+analytics (e.g., sleep cycle, daily walking distance,
+menstruation cycle) by requesting specific data and analytics
+to target users and developers. This will also be very useful
+for renewal-based insurance products, such as annual
+vehicle insurance. Currently it takes about 3 months to
+sync accident data due to the data-gathering and analytical
+processes from multiple entities and adjust the premium for
+the following period. With blockchain-based real-time data
+syncing, mismatches and inefficiencies would dramatically
+decrease. Insurers can properly acquire and use specific
+data with owners’ consent.
+Under the EU GDPR Act (https://www.eugdpr.org/) which will
+be enforced from May of 2018, all personal data collected
+and used by organizations active in EU should either be
+discarded or properly purchased from the owners. The
+Insureum Protocol can be of obvious assistance in ensuring
+data is collected legally and morally in Europe.
+Developers, such as smart phone application and web
+service developers, can use or modify their products and
+services to gather requested data. In most cases, insurers
+will directly contact a specific developer whose product/
+service has the desired target user base and type of data,
+such as ‘active 20-30s’ or ‘wearable device users’. The
+developer will then use their existing product/service to
+gather or sort out the required data. For example, if an
+insurer enquires about 20-30s women’s sleeping cycle data
+for a new project development, the developer of a sleep
+cycle tracking app (e.g., Sleep Cycle, Lark, Apple Health) can
+sort out 20-30s women’s data and provide it to the insurer
+with the users’ consent.
+Users can sell their lifecycle data to developers and insurers
+in a more transparent, legitimate way. As general awareness
+grows about how their personal data is used, users will be
+more eager to learn how their data is used, who uses it, and
+finally be compensated accordingly.
+
+21
+
+The contract used in this process will make sure that data
+has been successfully created and sent by the DApp, as well
+as maintaining its integrity. Users and those who request
+their (anonymous) data can exchange the data for Insureum
+in a secure and decentralized ecosystem. DApp developers
+will also receive Insureum in return for adding value to the
+network by hosting the DApp on the platform.
+Critical information such as creation date, duration, creator
+and data hash value will be stored in an Ethereum chain.
+However, the actual data can be stored in distributed
+storage by the platform provider until the contract is closed.
+This is to save gas and create an efficient network while
+maintaining the benefit of using a public chain.
+Anyone who requests data can always verify its integrity
+by checking the data hash value on the Ethereum chain.
+The data can be trusted, regardless of how many times the
+owner of the data changes, since there is no way to alter the
+original data.
+The diagrams below show the transaction’s underlying
+processes within the product development value chain:
+3.1.1. Data purchase
+Data platform or insurance companies with Insureum tokens
+will reward the end-users for collecting data necessary to
+create new insurance products. Users may spend Insureum
+tokens within the Insureum-enabled data platform, and they
+may also use Insureum tokens to pay insurance companies
+for their service or premiums.
+3.1.2. Product development
+Insurance and data platform companies will collaborate
+together on the Insureum Protocol to utilize the blockchain
+technology to create new types of insurance products. In
+addition, any InsureTech companies from other value chains
+can also contribute to create and distribute the insurance
+product.
+
+22
+
+3.1.3. Value distribution
+All premiums and rewards can be paid by Insureum tokens,
+and it is encouraged to stick with Insureum to enjoy the
+benefits of the blockchain ledger. (They may of course
+still pay for their premiums with fiat currency as well.) In
+addition, general agencies, financial planners and even
+customers can make referrals to get rewards within the
+protocol.
+
+23
+
+3.2. Phase 2: Sales and marketing
+Insurers can leverage external sales agencies (GA; general
+agents), to pinpoint the target consumers. They can also
+work with GA in the Insureum Protocol and utilize an
+optimal commission scheme using the blockchain. With
+smart contracts, commissions can be automatically paid to
+the GA according to the number of products sold and the
+duration the product was activated for. GAs can access a
+targeted user pool based on big data analysis. Users can sell
+their lifecycle and insurance data to receive ISR as a reward,
+and use the ISR (or even fiat currency) to purchase custom
+usage-based digital insurance products.
+
+FIG 13. Transactions of insurers, users and 3rd parties
+in the sales and marketing process
+
+24
+
+Users can also share insurance data starting in phase 2,
+including what type of insurance products they have and
+their duration of policy activation. With this data, insurers
+and GAs can effectively understand their target users by
+demographic or other metrics. This will help them optimize
+their sales process, from segmentation and customer
+targeting to actual sales and performance evaluation. The
+Insureum Protocol will provide required data analysis so
+insurers and GAs can leverage the full potential of the data.
+Insurers can optimize their internal salesforce by having
+two separate and easily-assessable sales channels: internal
+salesforce and GAs. Their internal salesforce can utilize the
+protocol’s user pool to reach their optimal target market
+and analyze sales performance, which will help improve
+their overall sales efficiency. Also, the insurers can efficiently
+expand their target market by collaboration with the GAs.
+This process will reward GAs who successfully deliver on
+their contract with the end user. Distribution is one of the
+key factors to successfully launch an insurance product,
+and Insureum rewards GAs in the same manner it works in
+the real world. At this point, users will pay their insurance
+premiums, and pre-defined portions will be transferred to
+the GA as per commission schemes when certain conditions
+are met.
+Since smart contracts can store transaction data virtually
+forever, commission schemes will be more reasonable in
+the Insureum Protocol. GAs can receive commissions the
+whole time the insurance policy is active. This will benefit
+both the GA and insurer simultaneously. The GA will be
+encouraged to ensure the insurance policy is active as long
+as they can to receive the maximum commission. Under
+the current commission scheme, a GA’s goal is to keep the
+insurance policy active for only two years in order to collect
+the maximum commission of the policy holding.
+The majority of the data will be stored in the Ethereum
+network. Detailed information will be encrypted with the
+owner’s private key. The insurer will have read permission of
+the contract by default.
+
+25
+
+3.3. Phase 3: Claim management
+Insurers and inspectors can also automate the claim
+management processes. Users can also easily provide data
+and receive insurance benefits by using the automated
+service. Insurers can receive validated data from inspectors
+collected from IoT and digital devices. It is then used to
+manage claims requested by the users. Once validated, the
+smart contract can automatically pay policyholders using
+ISR. Fraud risks and transaction and contracting costs are
+minimized with blockchain and smart contracts.
+FIG 14. Transactions of insurers, users and 3rd parties
+in the claim management process
+
+26
+
+Whenever a policyholder files a claim, the smart contract
+will automatically initiate and check if the conditions are
+met. If they are, users will be instantly paid and the platform
+provider will also be rewarded for facilitating the data
+and Insureum exchange. However, there may be cases
+when inspectors are required. Peer evaluation or even a
+professional inspector can also add value to the network,
+and they will be rewarded for their efforts.
+And even in cases where a human inspector is required,
+the whole messy process of underwriting is cleaned up by
+keeping data neat and tidy on the blockchain. The decisionmaking process becomes much more time and energyefficient, resulting in dramatic financial savings for insurers
+and speedier claim filing for policyholders. Everybody wins.
+When making a claim, policyholders and inspectors don’t
+need to use third party data centers to exchange data about
+a claim. A direct line into accurate and secure information
+will save both parties time and money.
+Smart contracts tied to P2P insurance schemes are protected
+from fraud. As all data and transactions are recorded on the
+blockchain, inspectors have much less room for error and
+can quickly pay out any owed contracts.
+3.4. Use Cases
+Since the blockchain is a newly-adopted technology, there
+will be a variety of new insurance products leveraging it in
+the near future. Listed in this section are four insurance
+product types that are most compatible with blockchains
+and expected to be available within the next 3 years.
+3.4.1. Micro insurance (Short-term, specific coverage)
+Policies can be instantly taken out and recorded on the
+blockchain. This is especially useful for young people who
+are travelling or about to engage in high risk activities
+like rock climbing or hang gliding. They can subscribe to
+activity-based, short-term insurance specifically designed for
+such activities. With this type of micro insurance, younger
+generations who were not previously interested in being
+insured would be more open to the idea of becoming so.
+
+27
+
+3.4.2. Usage-based insurance (UBI)
+UBI is based on the idea to match the premium with the
+exact value of the insurance product. The idea itself is
+well-known. For example, let’s say you have car insurance
+but don’t drive a lot. With UBI, customers will only pay for
+what they use and get reimbursed for being outstanding
+customers. ‘Third generation UBI’ telematics inside your
+car check how you drive (braking hard, swerving) and will
+reward you if you drive safely. Even ‘risky’ elderly drivers can
+get access to lower premiums if they can prove they are still
+actually good drivers.
+3.4.3. Risk prevention
+Transactions and data from wearables are secure and totally
+decentralized. This means that no one party is responsible
+for the surveillance of the majority of the data. The claims
+industry is incredibly risk-prone and spends over $2 billion
+a year to identify fraud. The security of the blockchain is the
+killer app here. Nobody can lie, and everything is there for
+everyone to see. Still, that does not mean that the data itself
+is open to everyone; all the data is protected by encryption
+with a hash function, but the transactions will be recorded
+and visible to everyone.
+3.4.4. Personalized insurance / P2P insurance
+P2P (peer-to-peer) insurance is a risk-sharing network
+where a group of associated or like-minded individuals pool
+their premiums together to insure against a risk. Peer-toPeer Insurance mitigates the conflict that inherently arises
+between a traditional insurer and a policyholder when an
+insurer keeps the premiums that it doesn’t pay out in claims.
+This will be more realistic especially with the blockchain,
+since all the transactions will be open and the data sharing
+and processing will be automated.
+Also this will dramatically reduce the inefficiencies from the
+underwriting process, which is time consuming and costly.
+Insurance companies have traditionally had to go through a
+lengthy and expensive underwriting process. The blockchain
+has eliminated this process almost entirely. Now, plans can
+be securely created, reviewed and delivered to customers
+rather than waiting for pricing, underwriting and inspectors.
+28
+
+4.0. Insureum Token Dynamics
+Thanks to smart contracts on the blockchain, payments
+can be immediately issued once certain parameters are
+met. This is something that was impossible before without
+lengthy review processes.
+FIG 15. The InsureTech universe 13
+
+29
+
+4.1. InsureTech
+InsureTech is one of the hottest areas in the insurance
+industry and is a feasible solution to digitize the industry. As
+the attractiveness and room for disruption of the industry is
+huge due to the large market size and relatively low degree
+of digitization, many InsureTechs have evolved to disrupt the
+industry.
+Most InsureTechs are focused on increasing and facilitating
+the use of the value chain of the insurance industry, and not
+disrupting it. According to McKinsey’s article “InsureTech the threat that inspires,” only 9% of InsureTech companies
+are disrupting the value chain.
+Despite the buzz and interest from the industry, nobody has
+really asked the fundamental questions on this topic: What’s
+missing, what’s next, and who will be left standing? At Zikto,
+the team truly believes many of the value chain problems
+and processes can be solved with public blockchain
+technology. The Insureum protocol will effectively solve
+the traditional problem of delayed digitization and give the
+industry a chance to adopt blockchain technology.
+4.2. Data value dynamics
+The core premise at the heart of the Insureum token is that
+all data has value and insurance companies need trusted
+data.
+1. Data has historically been utilized to develop insurance
+products. However, real time diversified data will give the
+opportunity for insurance companies to develop new types
+of insurance products and give more benefits to their
+customers through multiple IoT devices.
+2. The more the data is used successfully, the lower the
+loss ratio will be for insurance companies. The more
+policyholders are verified, the more valuable the data
+becomes.
+
+30
+
+3. When each source of data contains more layered and
+cross-verified data, the value of the total data set increases.
+This allows for the implementation of dynamic pricing for all
+insurance packages using IoT products.
+4.3. Insureum Tokens
+The Insureum token is a tool used by nodes / participants
+to access the value chain and create disruptive insurance
+products. Consumers can pay their premiums with
+cryptocurrency at any insurance company.
+Insureum will employ a digital token to manage incentives
+and payments for all nodes across the insurance industry
+value chain. This token will be an integral part of the
+economy concerning data sharing, validation, rewards,
+and payment for product development on the Insureum
+protocol. Nodes and participants will be rewarded each time
+their data is used for analytics purposes or when revenue
+is generated by insurance product sales from the insurance
+companies.
+4.4. Strategies to boost adoption
+A big question behind many utility tokens is: How do I make
+sense of the early adoption cycle and make sure the tokens
+are usable and have utility in their industry?
+Since Zikto is in the early stages of the widely-adopted
+blockchain technology, the team knows insurance
+companies and 3rd party platforms will be hesitant to
+enter into a tokenized economy. For this reason, Zikto has
+developed incentivizing strategies to jump-start the value of
+the Insureum token in the market:
+1. For 3rd parties: Zikto will create an optimal commission
+scheme for general agencies and financial planners to sell
+products created for the Insureum protocol, as described in
+section 3.2.
+
+31
+
+2. For insurers: Zikto will allocate 15% of the ISR tokens for
+promotions to join the protocol. However, the ISR will be
+locked in for one year (selling this ISR on an exchange will
+be prohibited for this duration), and it can only be used to
+reward users and purchase data from 3rd parties.
+3. For users: Customers can pay their premium payments
+with ISR tokens granted by insurance companies.
+These strategies will create a system of immediate adoption
+into the ecosystem and strengthen the value of token at the
+exchange.
+4.5. Ensuring sustainability of The Insureum Foundation
+The core value of a decentralized ecosystem is the lack of
+any central entity controlling or influencing transactions
+within the ecosystem — with this structure, the foundation
+needs a sustainable cash flow structure to manage and
+maintain the sustainability of the protocol. Cash inflows
+will be invested into managing issues like influential
+inflation or deflation, ambiguous or harmful behaviors
+from stakeholders, or extreme cases like illegal use. Zikto
+has allocated 15% of the total fund as a reserve pool to
+effectively manage potential risks.
+The Insureum Protocol will implement a dynamic fee
+scheme, which will be integrated into the protocol based
+on: 1) the amount of ISR and data transferred, and 2) the
+maturity of the product. The key takeaway of keeping the fee
+structure dynamic is to prevent transactions on the protocol
+from becoming too expensive or complex. By only imposing
+fees for transactions with large amounts of data and value,
+the protocol can attract a much larger range of stakeholders,
+including less influential stakeholders (less capital, data,
+etc.) to execute transactions on the protocol. Even for
+large companies, the fees will still be cheaper than overall
+transaction and contract costs compared to traditional
+transaction methods. Furthermore, as fees will be imposed
+to ‘well-performing’ products/services that survive long
+enough and generate sufficient profits, the stakeholders
+
+32
+
+who benefit the most from the protocol/ecosystem will be
+the ones who pay. Also, no stakeholders will need to pay any
+fees during the first few years, since maturity is calculated
+on a yearly-based.
+Another monetization tool is the customization that smart
+contract templates offer. Basic features will be provided
+without any cost to stakeholders, though in the event
+a transaction has complex requirements, stakeholders
+will have a need for more specific and customized Smart
+contracts. The stakeholders can either revise the contract
+directly (if they have enough internal resources with
+blockchain expertise) or can request an update or upgrade
+(which will be cost-efficient in most cases as very low fees
+will be offered).
+The details on fees described above will be fine-tuned along
+with the development of the Insureum Protocol.
+
+33
+
+5.0. Timeline
+The team has been hard at work on The Insureum Protocol
+ICO project since October 2017. They’ve already raised
+$5.2M USD in seed and Series A funding and secured a
+5-year contract with KB Kookmin Card(국민카드), one of
+Korea’s largest credit card companies. In addition, the team
+was listed by Forbes in 2017 as one of 10 up-and-coming
+Korean startups to watch for.
+
+FIG 16. Timeline of the Insureum Protocol
+
+34
+
+2017. 4. 1
+2017. 5. 1
+2017. 6. 1
+2017. 10. 16
+2018. 5
+
+2018. 3Q
+2018. 4Q
+2019. 2Q
+2019. 4Q
+2020
+2020 3Q
+2021
+
+Launch of ‘The Challenge’ (Integrated step count 		
+platform for wearable devices and smartphones)
+
+Operation of blockchain-related pilot project with SK
+Telecom, CoinPlug, Daily Intelligence (ICON)
+5-year contract to provide step count data to KB 		
+Kookmin Card
+Completion of first draft of the white paper
+Public Token Sale(not held)
+
+Partnerships with insurance companies to develop
+blockchain-based insurance products
+
+Deploy MVP for Insureum protocol interface to 		
+expand scope of gathered data
+Launch Insureum Platform (phase 0) and implement
+strategies to gather main players (insurance 			
+companies, users, 3rd parties)
+Start Phase 1, focus marketing on DApp developers,
+distribute smart contract templates
+
+Start Phase 2, focus marketing on sales agency (GA),
+develop optimal sales commission scheme
+
+Start Phase 3, focus marketing on inspectors, 		
+connect to IoT devices
+Pilot test underwriting automation, start discussion
+on Insureum Protocol expansion
+
+35
+
+6.0. ISR Token
+Insureum (ISR) is a fixed supply of tokens that will be
+issued during the token creation. No more tokens will
+ever be created. Our potential investors may participate
+with Ethereum (ETH) and investors may access tokens by
+following the “ISR Token Sales Terms & Conditions”.
+
+6.1. Terms & Conditions Summary
+Token: Insureum (ISR)
+Total number of tokens: 297,000,000 ISR
+Number of tokens offered: 193,050,000 ISR
+Currency accepted: ETH Only
+Fixed Price: 1 USD per 10 ISR
+Duration:
+-Presale: 00:00 May 30, 2018 (UTC)
+-Public sale: June 2018 (UTC; to be announced)
+Special Condition: Token sales will close early if target
+amount is reached
+Offering Details:
+
+36
+
+Topic
+
+Detail
+
+Insureum Token
+
+● Insureum (ISR) is a smart contract
+digital protocol that satisfies the
+payment requirements of insurance
+ecosystem between consenting parties
+within the Insureum Protocol.
+
+The Issuer
+
+● ZIKTO PTE. LTD., A Singapore based
+private limited company.
+● Major shareholders: Ted Kim & David
+Suh, who both co-founded ZIKTO Inc.
+(Korea) & ZIKTO Corp (USA).
+
+Rights
+
+● No voting or membership rights in any
+Zikto entity.
+● No revenue sharing, dividends, equity,
+& etc in any Zikto entity.
+● No governance rights with respect to
+the Insureum Protocol or any related
+project.
+
+Refunds
+
+● None
+
+Listing
+
+● Exchange partners
+(Targeting: 3Q 2018)
+
+6.2. Insureum (ISR) Token Offering Event
+65% of the tokens will be available to public investors. 15%
+will be allocated to the ISR team & advisors, and 15% will
+be reserved. The remaining 5% will be allocated to the
+foundation & strategic partners to maximize the impact of
+our token sales event.
+
+37
+
+Fig 17. ISR distribution percentage by group
+
+Please note that the percentage discussed above may vary
+with the amount raised through the token sales event.
+Final disclosure will be announced through the following
+channels:
+1.
+
+Website: http://insureum.co
+
+2.
+
+Facebook: https://www.facebook.com/insureum/
+
+3.
+
+Medium: https://medium.com/@insureum_zikto
+
+4.
+
+Twitter: @insureum_zikto
+
+38
+
+6.3. Use of proceeds
+The funds will be used to accelerate the completion of
+the Insureum protocol. Selected key proceeds are divided
+into seven key segments: Strategy Partners, Marketing,
+Technology Expenses, Reserve 1, Reserve 2, Operation
+(Legal, etc.) and Business Development.
+Fig 18. Fund usage percentage by key segment
+
+- Strategy Partners: 20%
+Any costs associated with the Insureum protocol expansion
+which are provided to potential global business partners.
+- Marketing: 15%
+Marketing costs will be used to advertise the Insureum
+Protocol to potential strategic partners and directly to B2C
+customers. This will lead to larger network protocols with
+diversified nodes and products. This also includes incentives
+for early adopters described in section 4.4.
+
+39
+
+- Tech Expenses: 15%
+This percentage will go to completing the development
+of the Insureum Protocol as described in this paper. This
+includes the Insureum Engine, DAPPs, the smart contract
+system, security, etc.
+- Reserve 1: 15%
+Tokens maintained in this pool have the potential to increase
+in proportion according to platform growth.
+- Reserve 2: 15%
+This portion will be reserved for the foundation to decide a
+specific use for in the future.
+- Operation: 10%
+This covers regular monthly costs: legal fees, accounting,
+compliance, infrastructure, outsourcing, staffing,
+management, etc.
+- Business Development: 10%
+This covers fees associated with global expansion of the
+Insureum Protocol in the future, including offices and
+business development-related expenses.
+6.4. Governance
+Initial governance of the Insureum Protocol will be under
+Zikto PTE Ltd., a private limited entity incorporated in
+Singapore. Eventually, where permitted by relevant laws
+and legal requirements, - Zikto plans to migrate governance
+of the Insureum Protocol to a Decentralized Autonomous
+Organization (DAO). However, whether this is permissible
+and how this can be accomplished is uncertain and Zikto
+has no obligation to carry out any such migration. In any
+event, Insureum token-holders have no right or ability to
+participate in the governance of the Insureum Protocol.
+
+40
+
+6.5. Ethereum-based coin
+Insureum is an ERC20-based token. Instead of creating a
+new individual node to create a blockchain, Insureum uses
+Ethereum nodes and will be based on existing Ethereum
+blockchains. By doing so, the Insureum Protocol can
+efficiently supply the processing power (nodes) and leverage
+Ethereum’s networking power and feature sets.
+Insureum can take advantage of the Ethereum chain and
+store critical information by using a small amount of gas.
+Creating our own blockchain nodes can be inefficient for
+a utility coin as it requires a huge investment in both time
+and money. Therefore, by using the Ethereum network’s
+processing power, Insureum has a head-start and is
+equipped with a greater and more secure storage capacity.
+The stored data is inherently secure and invulnerable to
+even a single point of failure. Insureum will be able to
+process block creation and store the data on the Ethereum
+nodes.
+Ethereum has two distinctive features: smart contracts and
+Decentralized Autonomous Organizations (DAOs). Smart
+contracts automate transactions and force them to follow
+rules set by the contract. They are one of the most valuable
+features of using cryptocurrency and the blockchain.
+This will significantly benefit the insurance industry by
+reducing costs associated with contracting and executing
+transactions.
+Smart contracts enable developers to create trusted
+networks and help to form a decentralized ecosystem with
+unknown individuals/organizations. This foundation will help
+nodes to join the ecosystem.
+In order to decentralize the entire value chain of the
+insurance industry, Insureum suggests three types of
+smart contracts: First, a smart contract can be added to
+any transaction(s) based on Ethereum. When added, it will
+hold a certain amount of cryptocurrency until a predefined
+action is triggered. Thus, transactions will not be required
+to have an intermediary (trusted 3rd party that oversees
+
+41
+
+and guarantees the transaction) throughout the entire
+transaction processes.
+This feature can be extremely useful when newly-established
+parties are developing insurance products. Since smart
+contracts ensure that every transaction will follow their
+contract, associated issues and costs from credibility
+automatically drop.
+Additionally, smart contracts can work as a virtual
+coordinator to disseminate rewards to the proper users
+based on the amount of value they have added to product
+development and sales processes. To properly use the
+feature, the protocol must carefully decide which data to
+store in the Ethereum public chain due to its gas price.
+Since the gas price is adjusted based on the amount of data
+associated with transactions, the total gas price could offset
+the value of using a smart contract if there is huge amount
+of data added onto the transaction.
+6.6. What is KYC and why is it needed?
+In order to participate in the token sale, Zikto will require
+users to register for and complete a KYC (a.k.a. KnowYour-Customer) procedure. The primary objective of the
+KYC check for token sale registration is to prevent money
+laundering, fraud, etc.
+It is important for the Zikto team to understand who future
+token holders are and manage risks accordingly. Zikto takes
+security very seriously and believes that for blockchain
+technology to be widely adopted, it needs to be established
+on a safe, secure foundation. This KYC certification is
+benchmarked against standards typically adopted by banks
+and global financial institutions.
+Registering your KYC information is easy. Here’s what you
+need:
+● a photo or scan of your passport identification page
+● a selfie of you holding your passport, with the ID page
+open
+
+42
+
+● an e-mail address
+● a mobile phone number
+● the ETH address of your Ethereum wallet *
+Just head over to our website and register on the whitelist.
+Enter the required information, upload the two required
+image files, and you’re good to go. Once you’ve successfully
+registered, we will contact you for verification.
+Investors may be whitelisted by registering their KYC
+information before the presale period begins. The KYC
+registration process will remain open throughout the presale
+and public sale period. If there is any problem, they must resubmit the KYC registration form before the public sale ends
+in order for their purchase to be valid.
+
+43
+
+7.0. Team
+Ted Kim - Co-founder, CTO and co-CEO
+He is focused on development and engineering of the
+Insureum Protocol. Prior to founding Zikto, Ted worked
+in the Future Device Lab at LG Electronics specializing in
+machine and deep learning. Ted majored in both electrical
+engineering (BA) and computer engineering (MS) at Purdue
+University.
+David Suh - Co-founder, CFO and co-CEO
+David is in charge of the financial management, fundraising,
+and business development at Zikto. Prior to founding Zikto
+with Ted, David worked as a proprietary trader at Shinhan
+Investment Corporation and as an Analyst at Sears Holdings.
+David holds a BA of business administration from Purdue
+University.
+Ziggy Bak - Chief Strategy Officer
+Ziggy oversees strategy and marketing. Before joining the
+team, he worked as a business developer at Reddal, a global
+management consulting firm, and at Crevisse & Partners,
+a venture capital/incubator. He also founded a fashion
+advertisement startup called Style Plugged and worked at
+global consulting firms (BCG and Bain) as an intern. Ziggy
+holds a BA of business administration from Korea University.
+Eric Kim - Pirncipal Blockchain Engineer
+Eric manages blockchain and front-end development
+and software engineering for the Insureum Protocol.
+Before Zikto, Eric led software development at Teleca and
+Adobe. He also was a founder and manager of Node Link
+Technology, an IoT startup. Eric Kim received a B.S. and M.S.
+at Korea University in physics.
+
+44
+
+Thomas Choi - Data scientist
+Thomas manages data outflow at Zikto. Thomas managed
+the government project of blockchain development with
+SK Telecom and Coin Plug in 2017. Before joining the team,
+Thomas worked at MWN, and founded and managed a
+startup company called Sentence. Thomas graduated from
+Virginia Tech with a B.A and M.S in electrical engineering.
+Andrew Kim(A.J.) - Front End Developer
+A.J. is responsible for front-end development for the
+Insureum Protocol. Before joining Zikto, he worked in
+software development at KTH, Coupang, and led open
+source software development of a health IT project at the
+National IT Industry Promotion Agency (NIPA).
+Michael Ahn - Marketing manager
+Michael is responsible for overall marketing strategy at
+Zikto. He worked at Streami (GoPax), one of the largest
+crypto exchange in Korea and T3 Trading Group in the US
+before joining Zikto. Michael holds BA in economics and East
+Asian studies at Brandeis University.
+Eugene Cha - Business Analyst
+Eugene is responsible for marketing and financial analysis,
+strategic planning, and statistical data analysis at Zikto.
+Eugene received a B.A. from Cornell University and a M.Sc.
+from Kumoh National Institute of Technology.
+Katherine Bang - Marketing Manager
+Katherine is responsible for marketing strategy and
+execution at Zikto. Before joining Zikto, Katherine was an
+AE at SMS Group, an event marketing agency. She has
+experience of working overseas at LG Electronics and Avon
+as a strategic planner and global sourcing analyst. Katherine
+majored in Communications at New York University.
+
+45
+
+Kay Lee – Contents Marketer
+Kay is responsible for creation of original content for online
+and offline marketing. Before Zikto, Kay was part of the
+Sales team at Johnson and Johnson Medical. Kay graduated
+from Sogang University with a bachelor’s degree in Business
+Administration.
+Kelly Kim - UI/UX Designer
+Kelly is responsible for UI/UX design at Zikto. Before joining
+Zikto, Kelly was responsible for UI/UX design as the Creative
+Director at Wanderlust. Kelly majored in Visual Graphic
+Design for her B.A. at Seoul National University.
+Jay Jung - Graphic Designer
+Jay works in graphic design at Zikto. Before joining Zikto, he
+developed experience in branding and editorial design at
+iDuo. Jay majored in Graphic Design at Central Saint Martins
+College of Arts and Design.
+Hailey Son - Graphic Designer
+Hailey also works in graphic design at Zikto. Before Zikto,
+Hailey worked at FleishmanHillard Korea as an editorial and
+graphic designer. Hailey majored in Visual Communication
+Design at Ewha Womans University.
+Fred Kim – Web Publisher
+Fred is responsible for publishing original content and
+updating web pages for Insureum. Fred majored in
+Architecture and Interior Design at Kaywon University of Art
+and Design.
+Jenny Kang - Operations Manager
+Jenny oversees overall finance and operation administration.
+Prior to Zikto, Jenny managed finance and HR at Oracle
+Korea, L’Oreal Korea, and InMobi Korea. Jenny received a B.A
+in business administration from Monash University.
+
+46
+
+Newt Choi - Customer service manager
+Newt manages customer service and customer orders. Prior
+to Zikto, Newt worked on a Korean Air CS team and in the
+pharmaceutical department of Inje University Ilsan Paik
+Hospital. Newt majored in animal biology science (BA) from
+Hankyoung University.
+
+47
+
+8.0. Advisors
+Will O’Brien - Technical and strategic advisor
+A veteran in the cryptocurrency and blockchain industry,
+he was Founder and CEO of BitGo from 2013-2015, Limited
+Partner and advisor to Blockchain Capital since 2013, and
+is an investor and advisor to pioneering projects including
+Civic, Orchid, Photon, Nodle, and Telegram. Will’s angel
+investment and advisory portfolio spans a broad range
+of sectors, and he has been featured in multiple major
+media articles. Will holds a B.A. in Computer Science from
+Harvard University and an MBA from MIT Sloan School of
+Management.
+Chanwoo Lee - Investment advisor
+He is currently a professor in business administration at
+Kookmin University, former CIO for NPS (National Pension
+Service – world’s 3rd largest pension fund, USD 520 Billion
+AUM) and former CIO for Teacher’s Pension Service, CIO for
+National Credit Union Federation, CIO for Kyobo Financial
+Group and many more. Chanwoo received a Ph.D. in
+business administration from Kwangwoon University and
+MBA from Yonsei University, bachelor’s degree in Economics
+from Korea University.
+Ran Neuner – Strategic Advisor
+Ran Neuner is providing strategic advises for development
+of Insureum Protocol. Ran is the founder of a cryptocurrency
+investment company called ‘Onchain Capital’ and currently
+hosts Cryptotrader on CNBC. He is a global expert in
+cryptocurrency trades and investments and was ranked
+the 9th most influential person among 100 in the global
+cryptocurrency market according to Richtopia, English
+financial online media. Ran Neuner majored in Finance for
+his Bachelor of Commerce at the University of Witwatersrand
+and is a qualified Chartered Financial Analyst (CFA).
+
+48
+
+Ismail Malik - Blockchain and media advisor
+He is the Editor in Chief at ICO Crowd and he was selected
+as one of the worldwide 100 most influential people in the
+Crypto market. He is also a Founder & CEO at BlockchainLab.
+Mr. Malik studied in Birkbeck, University of London.
+Santhosh Kumaraswamy - Engineering advisor
+He is the President at Mobiuso, Co-founder & CTO at
+EOSNodeOne, founder at Innovation Biosciences and the
+advisor to companies at Blueprint Health (New York). He
+was a director at Skyscape, which was acquired by Merck.
+Santhosh holds a master’s degree of business administration
+from Harvard University and Boston University, and a
+bachelor’s degree from the Indian Institute of Technology
+(IIT Madras).
+Kingsley Edwards – Blockchain advisor
+He is the CEO at Block16.io, co-owner of Rogue Sports,
+founder of Las Vegas Bitcoin Meetup, former VP of business
+development at Unikrn and founder and CEO of Leet.
+Chanki Lee - Investment advisor
+He is the CPO and Co-founder at Nextmatch, former CEO at
+DAYLI Marketplace and executive board member at DAYLI
+Financial Group. Chanki has a Bachelor of Computer Science
+from POSTECH.
+Yohan John Kim - Investment advisor
+Yohan is Founder and Managing Partner of NE Partners,
+a blockchain startup advisory and investment company,
+and is also Limited Partner of Pantera’s ICO Fund. Yohan
+serves as Advisor for numerous blockchain companies and
+investments in the industry, including StreamToken, Origin
+Protocol, FunFair, DMarket and others. He has operational
+experience as International Senior VP of eDaijia, Senior
+Director of Operations & Head of Kabam KR, and Director
+
+49
+
+of GREE Korea. He spent time as a venture capitalist and
+investment banker (Kennet Partners, TeleSoft Partners,
+Citigroup Global), executing transactions resulting in over
+$1B USD in value.
+Yoonsup Choi - Healthcare advisor
+He is the Chairman of Choi Yoonsup Healthcare Research
+Center, Managing Partner at Digital Healthcare Partners,
+and visiting professor at the Digital Health school of
+Sungkyunkwan University. Yoonsup has a BA in computer
+engineering and life science and a PhD of System
+Biotechnology from POSTECH.
+Sungjae Hwang - Investment advisor
+Mr. Hwang is Co-founder & CEO of FoundationX, Co-founder
+& Partner of FuturePlay, Co-founder & CSO of Pium, and the
+former Co-founder & CPO of Fluenty (Acquired by Samsung
+Electronics). He has a PhD. in HCI from the Graduate School
+of Culture Technology, an MS in Computer science from
+KAIST, and a Bachelor’s degree in Computer Science from
+Kwangwoon University.
+Chiweon Kim - Healthcare advisor
+He is a Managing Partner at Digital Healthcare Partners and
+Managing Director of Seoul Wise Convalescent Hospital.
+Before starting his career in medicine, Chiweon worked
+at McKinsey & Company. He received a PhD of Internal
+Medicine from Seoul National University and a MS from the
+graduate school of public health at Yonsei University.
+Sungki Lim - Insurance advisor
+He is a Director of the Institute of Actuaries of Korea, Team
+Leader of product/actuaries and IFRS TFT at Kyobo Life
+Planet Insurance. Sungki studied mathematics (BA and MS)
+at Seoul National University.
+
+50
+
+Kwang-nam Kim – Investment advisor
+He is the representative of KNK Partners and a partner
+patent attorney at Ji-Myeong Patent & Law. He has 20 years’
+experience in investment and intellectual properties. He
+managed various kinds of private funds (AUM of KRW 300
+million) at ‘Ideabridge Asset Management’. Kwangnam has
+a BA and MS in electrical engineering from Seoul National
+University.
+Gana Oh - Medical advisor
+He is a Managing Director at Oh-Gana Dermatology
+Hospital, and studied at Korea University Medical School.
+
+51
+
+9.0. Partners and supporters
+Partners
+
+Supporters
+
+52
+
+Disclaimers:
+This Whitepaper may be amended from time to time
+without notice. This Whitepaper is intended to provide
+general information and is not meant to be exhaustive,
+comprehensive or authoritative. Zikto accepts no liability
+in relation to the Whitepaper, or any reliance on the
+Whitepaper, and does not warrant the accuracy or
+completeness of the Whitepaper.
+Insureum tokens may only be purchased pursuant to the
+Terms of Sale of the Insureum token sale.
+If any of the risks described above and/or other additional
+risks presently regarded to be immaterial actually
+materialise, the commercial viability of the Insureum
+project and/or the Insureum Protocol may be materially and
+adversely affected. These risks could result in the failure
+of the sale of the Insureum token, the destruction of the
+Insureum token and/or the termination of the development
+or operation of the Insureum project and/or the Insureum
+Protocol.
+
+53
+
+10.0. References
+1. The future of underwriting. A transformation driven by
+talent and technology.
+2. Steven Bertoni, Oscar Health Using Misfit Wearables to
+Reward Fit Customers. Forbes (Dec. 8, 2014). Retrieved from
+https://www.forbes.com
+3. Stephen O’Hearn, Jamie Yoder, Manoj Kashyap, Javier
+Baixas, Jonathan Howe, Steve Davies, Ronald Sloukgi,
+Salvador Nacenta, John Shipman, Xiaorong Huang, Abhijit
+A Mukhopadhyay, Mathijs Kortenhorst, Anuraag Sunder.
+Opportunities await: How InsureTech is reshaping insurance.
+June 2016. PWC.
+4. Sierra Wireless, White Paper, 2015. Capturing the UsageBased Insurance Opportunity.
+5. Fitbit Benefit Guide, Jan, 2017.
+6. Tanguy Catlin, and Johannes-Tobias Lorenz. (2017). Digital
+disruption in insurance: Cutting through the noise. Digital
+McKinsey. March, 2017.
+7. Eric Ankelsaria. (2017). Digital disruption in the insurance
+industry, KPMG, May, 2017.
+8. Jacques Mulder, Bill Fera, Shaun Crawford, Gautam Jaggi,
+Jim Costanzo, Christin Delany, Alex Jung. (2015). The future
+of health insurance: A road map through change, Ernst &
+Young LLP, 2015.
+9. Gail McGiffin. (2015). The future of underwriting: A
+transformation driven by talent and technology, Ernst &
+Young LLP, 2015.
+10. Walter Poetscher. (2015). Usage Based Insurance: The
+New Normal, July, 2015.
+11. Tanguy Catlin, Rob Hartman, Ido Segev, Ruxandra
+Tentis. (2015). The Making of a Digital Insurer: The Path to
+
+54
+
+Enhanced Profitability, Lower Costs and Stronger Customer
+Loyalty. McKinsey, March, 2015.
+12. Blockchain Technology in the Insurance Sector. McKinsey
+& Company. January, 2017.
+13. 2018 Insurance Outlook, Deloitte Center for Financial
+Services. 2017.
+14. Facing digital reality, McKinsey & Company, March, 2017.
+15. InsureTech Caught on the Radar, Oliver Wyman and
+Policendirekt, 2017.
+16. LIMRA researches on US life insurance market (20172021)
+17. Global insurance review 2016 and outlook 2017/18;
+Global insurance review 2017 and outlook 2018/19, Swiss Re,
+2017-2018
+18. International collaboration opens doors to Canadian
+smart health innovations, National Research Council Canada,
+Jan 2018.
+19. Insurance Companies Jumping on Bio Health Market,
+Hankyung Health, 2018 (http://health.hankyung.com/
+article/2018022072761; in Korean language)
+20. Figure 2: Swiss Re report (reference 17. Global insurance
+review 2016 and outlook 2017/18; Global insurance review
+2017 and outlook 2018/19, Swiss Re, 2017-2018)
+21. Figure 3: Global insurance review 2016 and outlook
+2017/18; Global insurance review 2017 and outlook 2018/19,
+Swiss Re, 2017-2018
+22. Figure 4: LIMRA US Life Insurance Sales Survey (2017),
+Market Forecast (2018), Research on Mobile Initiative (2017)
+23. Figure 5: Marsh: Global Insurance Market Index, Second
+Quarter 2017, “Global Insurance Rates Decline for 17th
+
+55
+
+Consecutive Quarter”, https://www.marsh.com/us/insights/
+research/global-insurance-market-index-q2-2017.html
+24. Figure 8: Oliver Wyman Report, Seg 2 & 3 (Insureum
+Protocol will cover both seg): http://www.oliverwyman.
+com/content/dam/oliver-wyman/global/en/2016/oct/
+OliverWyman_ChinaInsuretech.pdf
+25. Figure 15: Based on a graphic by Venture Scanner.
+26. Survey by Combo App: https://comboapp.com/
+blog/2014/05/12/mobile-game-monetization-report/
+27. P2P Insurance: https://www.investopedia.com/terms/p/
+peertopeer-p2p-insurance.asp
+
+56
+
+

@@ -1,0 +1,445 @@
+Page 1 of 11
+
+TurtleNetwork WhitePaper
+2.2
+
+Page 2 of 11
+
+Document Control
+Document Information
+Details
+Document ID
+Document Owner
+Document Editor
+Issue Date
+Last Saved Date
+File Name
+
+Information
+TurtleNetwork WhitePaper
+TurtleNetwork.eu
+TurtleNetwork Advisors
+01/10/2018
+20/09/2019
+TurtleNetwork WhitePaper v2.*
+
+Document History
+Details
+2.0 (Draft 1.0)
+2.0 (Draft 1.2-1.5)
+2.0(Draft 1.6)
+2.0
+2.1
+2.1
+2.2
+
+Information
+01/10/2018 - start of WP 2.0 Draft
+26/10/2018 - 29/10/2018
+30/10/2018 - Public review
+05/11/2018 - Final released 2.0 version
+04/04/2019 - re-branded from BlackTurtle to TurtleNetwork
+14/04/2019 - updated links
+20/09/2019 – updated links, included Founder details
+
+Page 3 of 11
+
+Table of Contents
+1.
+
+Abstract ..................................................................................................................... 4
+
+2.
+
+Introduction ............................................................................................................... 4
+
+3.
+
+Crowdfund ................................................................................................................. 5
+
+4.
+
+TurtleNetwork Brand .................................................................................................. 6
+
+5.
+
+4.1
+
+Turtle Network............................................................................................................... 6
+
+4.2
+
+TurtleNetwork (TN) Coin ................................................................................................. 8
+
+4.3
+
+BlackTurtleNode ........................................................................................................... 9
+
+4.4
+
+TurtleNodeBot .............................................................................................................. 9
+
+4.5
+
+TNTippingBot ................................................................................................................ 9
+
+TurtleNetwork Services ............................................................................................. 10
+5.1
+
+Gateway Services ......................................................................................................... 10
+
+5.2
+
+ICO Due Diligence (IDD) ................................................................................................ 10
+
+6.
+
+Official Links ............................................................................................................. 11
+
+7.
+
+Social Media............................................................................................................. 11
+
+Page 4 of 11
+
+1. Abstract
+The name Turtle is chosen because of the spiritual meanings of the Turtle. Some of the
+strongpoints include the ability to stay grounded, even in moments of disturbances and
+chaos. The ability to pace itself, find and execute purpose through determination and
+persistence. Most notably the strength to understand and endure against all odds. These are
+strong ingredients to build a trusted, innovative, and best-of-breed blockchain.
+
+2. Introduction
+History of the TurtleNetwork Brand
+The humble beginnings of the Turtle started with the Founder, Bram Nagtegals, a twentysomething skilled coder. Bram initially managed a node on the Waves Platform called
+‘BlackTurtleNode’ then created the ‘TurtleNode (TN) token’ on Waves Platform.
+Determination led to the creation of the ‘TurtleNodeBot’ notification service. A successful
+crowdfund was then held early 2018 to build value around TurtleNode services. Foresight
+and the need for building knowledge, experience & value-added services, led to the creation
+of the ‘Turtle Network’ mid April 2018. Advisors were introduced and as services expanded,
+re-branding to BlackTurtle occurred and alignment of service offerings completed, hence an
+updated WhitePaper 2.0.
+WhitePaper 2.x introduces a re-brand from BlackTurtle to TurtleNetwork in April 2019, as
+detailed below;
+TurtleNetwork = Overall brand (can reference by TurtleNetwork or TurtleNetwork.eu)
+Details;
+•
+•
+•
+•
+•
+•
+
+Network: Turtle Network or aka TNetwork (shortname).
+Exchange: TN Decentralized Exchange or aka TN DEX (shortname)
+Token: TurtleNetwork (TN) on Turtle Network & the Waves Platform.
+Service: BlackTurtleNode
+Service: TurtleNodeBot or @TurtleNodeBot
+Service: TNTippingBot or @TNTippingBot
+
+History of $TN Token
+Token was originally created on the Waves platform and called TurtleNode (TN), Waves
+Platform code was forked, and the Turtle Network was created using TurtleNetwork (TN) as
+the underlying asset on the Turtle Network and Turtle DEX.
+As of the TurtleNetwork re-brand, a new token created on Waves platform called
+TurtleNetwork (TN). TurtleNode (TN) on Waves platform will be swapped in good time to
+
+Page 5 of 11
+
+TurtleNetwork (TN), allowing for a uniform token across both networks with no change in
+maximum supply of 100m.
+Vision
+- Our vision is to provide trusted, innovative & best-of-breed blockchain solutions through
+service excellence.
+Brand Value Statements
+- We strive for an open collaborative community with good governance.
+- We offer innovative products & solutions that are beneficial to all $TN hodlers.
+- We provide an open, trusted, secure & distributed Blockchain network for everyone.
+- We encourage open development and provide opportunity through technology.
+
+3. Crowdfund
+The crowdfunding was held on the Waves Platform in 2018 and known-as the TurtleNode
+crowdfund (TurtleNode WhitePaper Link), with the following tiered rates;
+Tier 1: 0.00020 Waves/TN for the initial 5 million TN
+Tier 2: 0.00021 Waves/TN for the following 10 million TN
+Tier 3: 0.00022 Waves/TN for the following 15 million TN
+Tier 4: 0.00024 Waves/TN for the following 20 million TN
+Tier 5: 0.00026 Waves/TN for the following 25 million TN
+Tier 6: 0.00028 Waves/TN for the following 15 million TN
+The crowdfunding started on January 1, 2018 and ended on March 16, 2018.
+A total of 21 900 WAVES were collected @ +- $4.70 per WAVES.
+Crowdfund Distribution: 90% Fund raising, 2% for the founder, 8% Community Appreciation
+funds.
+Evidence of Crowdfund;
+First ICO sell on Waves Platform: wavesexplorer.com/blocks/820645
+Last ICO sell on Waves Platform: wavesexplorer.com/blocks/920443
+Full ICO Wallet transactions: 3PKPd4HDTM9qFmDYQ4Fn7vrjnPR63aFWdej
+
+Page 6 of 11
+
+4. TurtleNetwork Brand
+Founder & BlackTurtle BVBA business owner:
+
+Primary Role: Founder & BVBA owner
+Secondary Role: Architect & Lead Developer
+Tertiary Role: IT Technical blockchain & infrastructure specialist
+
+TurtleNetwork Advisors involvement in the TurtleNetwork Brand:
+Advisors are defined as: supporting an open, trustworthy, fair & decentralized manner. The
+‘Advisors’ are a trusted group of talented actively involved individuals that represent the
+brand ‘TurtleNetwork’. The ‘Advisors’ support open collaborative discussions & decisions,
+drive initiatives & improvements within. Never allow, participate or encourage hate speech
+or disrespectful behaviour.
+The Advisors will operate across the whole Brand ‘TurtleNetwork’, from across the globe and
+with a vested interest in the success of the Brand “TurtleNetwork’ and all services within.
+
+4.1
+
+Turtle Network
+
+“Turtle Network - Open, Trusted, Secure, Distributed Blockchain Network for Everyone”
+“Turtle Decentralized Exchange, aka Turtle DEX, is an exchange accessible from the wallet,
+allowing every token created on Turtle Network or accessible via Gateways to trade in a
+decentralized manner”
+The Turtle Network is a particle network of the Waves Platform with many inherited
+elements and benefits. They include a wallet, decentralized exchange (DEX), gateways, token
+creation, leasing and non-turing complete smart contracts. Most significantly the Turtle
+Network provides important advantages with respect to community support, speed of
+development, flexibility and assistance/guidance from Advisors.
+Turtle Network Value Proposition;
+•
+•
+
+Network is decentralized
+Decentralized Exchange, orders execute peer-to-peer (p2p).
+
+Page 7 of 11
+
+•
+
+•
+
+•
+
+•
+•
+
+•
+
+•
+•
+•
+•
+•
+•
+•
+•
+
+Fast & Secure: With the adoption of the Waves-NG protocol, the Turtle Network has
+transaction speeds of over 100 transactions per second (tps), Mass Transfers closer to
+400 transactions per second (tps). Transactions and trades occur within seconds, all
+verified within 1 minute.
+Network Security: Turtle Network secures its network through mining with a stake
+leasing protocol called LPOS (Leased Proof of Stake). LPOS is an energy-efficient type
+of mining which means that minimal electricity consumption is required to secure the
+blockchain.
+Network governance: Node owners vote to activate new features on the network,
+voting is weighted on the amount of TN leased to the node pool. The LPOS (Fair POS)
+protocol allows nodes with more TN leased to the pool, a bigger opportunity to mine
+or validate blocks on the network.
+Secure Wallet & Funds: Strong security, 15 SEED words secure wallet with password.
+Passive Rewards: Any amount of TurtleNetwork ($TN) can be leased to a Pool. This
+makes it possible for smaller stakeholders to combine forces and help secure the
+network while earning block rewards in $TN, stake any amount of $TN, funds remain
+in the wallet.
+Easy Token Creation: Tokens can be created quickly & easily within the decentralized
+wallet. The newly minted token is also immediately tradeable on the Turtle
+Decentralized Exchange (DEX).
+Asset Ticker Assignment: Basic security checks & KYC required for Tickers on the
+Turtle Network, to minimize scams or bad actors.
+Based on Waves Platform technology, Particle Network with many inherited elements
+and benefits.
+Advisors contributing towards open collaborative discussions & decisions, drive
+initiatives & improvements within the brand ‘TurtleNetwork’.
+Good governance: Allow the community to be actively involved in binding decisions
+through blockchain voting (secure, transparent & fair).
+Open development environment, open sourced code.
+Gateways: numerous supported Gateways.
+ICO Due Diligence (IDD): service framework for ICO risk management.
+Striving towards total decentralization of the Network with no reliance on central
+entities.
+
+Turtle Network Technical Specifications;
+•
+•
+•
+
+API: Web Interface available to the Turtle Full Node API using Swagger.
+Algorithm: Leased Proof of Stake (LPOS)
+Mining: Turtle Network secures its network with a stake leasing protocol called LPOS,
+every node with a balance greater than 1,000 TurtleNetwork ($TN) is capable of
+forging blocks.
+
+Page 8 of 11
+
+•
+•
+•
+
+Block Time: 1 minute.
+Exchange: Accessible via Wallet, Centralized matcher, Peer to peer order matching
+settled on the blockchain.
+Network Fees;
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+
+•
+
+Transfer: 0.02TN
+Create-alias: 10TN
+Exchange 0.04TN
+Issue Token: 1000TN
+Reissue: 1000TN
+Burn 0.02TN
+Lease 0.02TN
+Lease cancel: 0.02TN
+Set-script: 1TN (asset and account script)
+Mass-transfer: 0.02 +(tx.amount+1*0.02)/2, so 3 recipient is 0.06 TN, 4 = 0.08 TN
+SponsorFee: 10TN
+Data: Data: 0.021 TN minimal fee (depending on data size this becomes bigger)
+
+Node Reward Fees: Minimum Generating Balance of 1000 TN’ required, forger gets
+40% & next forger gets 60% of the rewards.
+
+4.2
+
+TurtleNetwork (TN) Coin
+
+Token name: TurtleNetwork
+Symbol: TN
+Decimals: 8 on Turtle Network & on Waves platform
+Total Supply: Fixed total amount of 100,000,000 (100 million)
+Re-issuable: no
+Asset ID: bPWkA3MNyEr1TuDchWgdpqJZhGhfPXj7dJdr3qiW2kD on Waves Platform
+Issued by: 3PKPd4HDTM9qFmDYQ4Fn7vrjnPR63aFWdej (BlackTurtle)
+Platform: Created on the Waves Platform with the name TurtleNetwork (TN), base token on
+the Turtle Network with the name TurtleNetwork (TN).
+Token Utility: $TN is the base token for the Turtle Network Blockchain. $TN is required in
+order to operate a node. $TN is also required for all fees on the platform, such as token
+creation, alias creation, trading and transfer fees.
+TurtleNetwork Token details: blackturtle.eu/turtlenetwork-token-tn
+TurtleNetwork (TN) Qualified Token on Waves Platform on 31 July 2019 by Bettertokens.
+[OLD] TurtleNode Token details: blackturtle.eu/turtlenode-token-tn
+•
+
+[OLD] Asset ID: HxQSdHu1X4ZVXmJs232M6KfZi78FseeWaEXJczY6UxJ3 on Waves
+Platform
+
+Page 9 of 11
+
+4.3
+
+BlackTurtleNode
+
+BlackTurtleNode was founded in October of 2017 as a node on the Wavesplatform.
+BlackTurtleNode assists in securing the Waves Network with its stake leasing pool and 99% of
+block rewards are distributed once per week to lessors of the node.
+BlackTurtleNode’s mission is to provide technical support as well as develop innovative tools,
+which are useful for the community.
+
+4.4
+
+TurtleNodeBot
+
+TurtleNodeBot is a notification service for the Turtle Network & Waves Platform, on
+Telegram. Standard functions include showing trades, transactions and balances.
+Premium functions require 10K $TN and allow for setting price notifications for exchanges,
+access to faucet claims, outgoing and cancel transaction notifications.
+More information can be found here: turtlenetwork.eu/turtlenodebot.
+
+4.5
+
+TNTippingBot
+
+TNTippingBot is a tipping service for the Turtle Network platform, on Telegram.
+Tip users with any Turtle Network asset, including Gateway assets, within a Telegram group.
+Sending tokens is simple and easy, simply tip by username using an easy command.
+Once an admin activates the bot within a telegram group, any telegram user who has a
+username, automatically gets a Turtle Network wallet and address created. Users can send
+and receive Turtle Network tokens in seconds, for a fee of .02 TN.
+Bot activation;
+– Telegram group admin inserts @TNTippingBot into the group.
+– Telegram group admin gives the bot admin rights to delete messages only, then the bot will
+clean messages posted.
+More information can be found here: turtlenetwork.eu/tntippingbot.
+
+Page 10 of 11
+
+5. TurtleNetwork Services
+5.1
+
+Gateway Services
+
+The Turtle Network utilizes Gateways for external tokens/coins to transfer to and from the
+network in a seamless and decentralized manner.
+A token is created on the Turtle Network with a 1:1 backing of the actual token (e.g. BTCtBTC). A custom Gateway is created with easy instructions to deposit or withdraw tokens
+from the network (e.g. https://bitcoingw.blackturtle.eu). Utilizing the Wallet, the token can
+instantly be traded on the Turtle DEX with any other pair on the Turtle Network.
+The gateways developed and operational, as of October 2018, are BTC, LTC, WAVES, DOGE,
+SYS, WGR, BCH and DASH. New Gateway development requirements, more information can
+be found on the website, turtlenetwork.eu/gateway-services.
+
+5.2
+
+ICO Due Diligence (IDD)
+
+The ICO Due Diligence (IDD) is a service developed by TurtleNetwork that offers a thorough
+Due Diligence of the registered Initial Coin Offering or ICO. The IDD Framework was
+introduced as a mechanism to reduce risk for ICO investors on the Turtle Network. The
+process however is not to be used as investment advice or as a solicitation of any offer to buy
+or sell any token, coin or related service.
+The IDD Framework provides a consolidated IDD Assessment Report & Risk Rating of the ICO,
+combining one self-assessment by ICO holder and two assessments by Advisors. After the
+concluded IDD Assessment Report, a public survey is setup to provide an unbiased view and
+analysis from the public of the ICO, with consolidated results immediately available and
+viewable.
+After the IDD process, an Airdrop of tokens from the analysed project, will be distributed to
+$TN holders on the Turtle Network. A percentage of the generated tokens will be airdropped
+to all Turtle Network supporters and Advisors.
+More information can be found here: blackturtle.eu/ico-due-diligence-register-interest
+
+Page 11 of 11
+
+6. Official Links
+Explorer: https://explorer.turtlenetwork.eu
+Statistics: http://statistics.turtlenetwork.eu
+Wallet: https://client.turtlenetwork.eu
+Github: https://github.com/BlackTurtle123/TurtleNetwork
+Turtle Network Data Feed API: https://marketdata.turtlenetwork.eu
+Roadmap: https://www.turtlenetwork.eu/insight
+
+7. Social Media
+Email: support@turtlenetwork.eu
+Web: https://www.turtlenetwork.eu
+Telegram: https://t.me/TurtleNetwork
+Twitter: https://twitter.com/TurtleNetworkTN
+Facebook: https://www.facebook.com/TurtleNetworkTN
+Reddit: https://www.reddit.com/r/TurtleNetwork
+Bitcointalk: https://bitcointalk.org/index.php?topic=5138663
+Github: https://github.com/BlackTurtle123/TurtleNetwork
+YouTube: https://www.youtube.com/channel/UCzbSukzGRKxpNov6yp4275w
+Instagram: https://www.instagram.com/turtlenetworktn
+LinkedIN: https://www.linkedin.com/company/blackturtle-bvba
+Steemit: https://steemit.com/@turtlenetwork
+
+

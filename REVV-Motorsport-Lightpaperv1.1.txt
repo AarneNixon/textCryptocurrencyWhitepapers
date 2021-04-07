@@ -1,0 +1,332 @@
+REVV Token
+The evolution of motorsport gaming through player empowerment
+Light Paper (version 1.1)
+3 September 2020
+Authored by Animoca Brands
+
+● REVV is an ERC-20 utility token that is designed to be the currency of purchase,
+utility, and action in supported play-to-earn motorsport blockchain games
+● Supported games include:
+○ F1​® Delta Time​: the official Formula 1​® blockchain game, which has
+generated 559.37 ETH plus US$355,790 in sales of NFTs as at time of
+writing
+○ MotoGP™: an upcoming game based on MotoGP that combines strategy
+and management with the intense thrill of motorcycle racing
+○ A third title to be announced soon
+● The total supply of REVV has been fixed at 3,000,000,000 tokens.
+
+Copyright © 2020 ANIMOCA BRANDS CORPORATION LIMITED. ALL RIGHTS RESERVED.
+
+1. Introducing REVV
+The REVV token is a fungible cryptographic token that exists on the Ethereum blockchain. A fungible
+token is an asset that is interchangeable with tokens of the same type, so that one REVV token
+always has the same value and properties as any other single REVV token.
+REVV is the main utility token and in-game currency of the branded motorsports games produced by
+Animoca Brands, including ​F1​® Delta Time​, an upcoming title based on MotoGP™ intellectual
+property, and a third title to be announced soon. REVV is being leveraged as a cross-title utility, and
+the driving force behind the Play-to-Earn model.
+
+- Page 2 Copyright © 2020 ANIMOCA BRANDS CORPORATION LIMITED. ALL RIGHTS RESERVED.
+
+2. REVV Anatomy
+REVV is a standard Ethereum ERC-20 token with commonly used interfaces. It also supports
+contract operators whitelisting to provide approval-free REVV tokens transfers throughout the
+company’s contracts ecosystem. This also brings the potential for frictionless native
+meta-transactions: the ability to push transactions on the blockchain using REVV as the payment
+token for the gas, without requiring the native ETH token at all.
+REVV implements the ERC-165 introspection standard, with the following ERC-165 interfaces
+supported:
+
+Name
+
+Reference Interface
+
+ERC165 Interface ID(s)
+
+ERC-165 (​EIP​)
+
+https://github.com/OpenZeppelin/openzep
+pelin-contracts/blob/v3.1.0/contracts/intro
+spection/IERC165.sol
+
+0x01ffc9a7
+
+ERC-20 (​EIP​)
+
+https://github.com/animocabrands/ethere
+um-contracts-erc20_base/blob/v3.0.0a/co
+ntracts/token/ERC20/IERC20.sol
+
+0x36372b07
+
+ERC-20 Detailed
+
+https://github.com/animocabrands/ethere
+um-contracts-erc20_base/blob/v3.0.0a/co
+ntracts/token/ERC20/IERC20Detailed.sol
+
+0xa219a025
+
+https://github.com/animocabrands/ethere
+um-contracts-erc20_base/blob/v3.0.0a/co
+ntracts/token/ERC20/IERC20Allowance.sol
+
+0x9d075186
+
+ERC-20 Allowance
+
+name(): 0x06fdde03
+symbol(): 0x95d89b41
+decimals(): 0x313ce567
+
+- Page 3 Copyright © 2020 ANIMOCA BRANDS CORPORATION LIMITED. ALL RIGHTS RESERVED.
+
+3. Token Economy
+REVV is a true utility token that has real use beyond any innate stored value. The purpose of REVV is
+to serve as a single currency connecting multiple Animoca Brands blockchain game titles based on
+motorsport intellectual property. REVV won’t be burned through use, but instead will be reintroduced
+back into the economy after it is used by players for gameplay fees and NFT purchases.
+
+3.1 REVV Allocation
+Predefined amounts of REVV are initially allocated to ​F1​® Delta Time and ​MotoGP​. The Reserve will
+provide token allocations to new titles as they are added to the REVV ecosystem.
+REVV Total Token Supply Distribution (%)
+
+Allocation Type
+
+REVV Amount
+
+Reserve
+
+1,300,000,000
+
+Initial DEX Offering
+
+250,000,000
+
+Team & Advisors
+
+300,000,000
+
+Player Reward Reserve
+
+250,000,000
+
+F1​®​ Delta Time
+
+500,000,000
+
+MotoGP™ Project
+
+400,000,000
+
+Total
+
+3,000,000,000
+
+- Page 4 Copyright © 2020 ANIMOCA BRANDS CORPORATION LIMITED. ALL RIGHTS RESERVED.
+
+3.2 REVV Release Schedule
+This release schedule image displays the percentage of the total supply of REVV that will enter into
+circulation, starting from the September 2020 offering until year-end 2023. The Reserve (not shown)
+will be utilised to provide allocations of REVV to new titles that are added to the REVV ecosystem.
+
+- Page 5 Copyright © 2020 ANIMOCA BRANDS CORPORATION LIMITED. ALL RIGHTS RESERVED.
+
+4. Token Utility
+4.1 ​F1​®​ Delta Time
+F1​® Delta Time provides the first reference for how REVV can be used in Animoca Brands’
+blockchain titles, with each additional supporting title adding value and utility to the broader REVV
+ecosystem and the token itself.
+
+Utility
+
+Description
+
+NFT Purchases
+
+REVV will be used as a means to purchase
+exclusive ​F1​® Delta Time NFTs. The number of
+NFTs made available for purchase will be
+proportional to the amount of REVV in
+circulation.
+
+Gameplay Entry Fees
+
+Players of ​F1​® Delta Time pay REVV as an entry
+fee for all of the gameplay modes, which
+include the Time Trial and Grand Prix.
+
+Gameplay Rewards
+
+A portion of the gameplay fees collected in
+each race will be used as player rewards, to be
+granted to participating players based on their
+race performance. A portion of the gameplay
+fee will also be paid as dividends to the track’s
+owners.
+
+Staking
+
+Owners of race car NFTs can “stake” them to
+earn REVV, the amount of which is determined
+by the rarity and value of the NFT and the
+length of the staking period. Players can also
+stake REVV itself, and in return receive
+additional REVV dividends as well as NFTs.
+
+4.1.1 REVV allocation in F
+​ 1​®​ Delta Time
+In ​F1​®​ Delta Time​, REVV is pre-allocated to one of four REVV Pools.
+Reserve​: ​The Reserve is set aside to funnel REVV into the other pools when required as the player
+base grows.
+
+- Page 6 Copyright © 2020 ANIMOCA BRANDS CORPORATION LIMITED. ALL RIGHTS RESERVED.
+
+Staking​: ​This is specific to the Staking feature. The Staking pool of 6,020,000 REVV is reserved for
+the 2019 race car NFTs, with this pool being active for 12 weeks after the launch of the Staking
+feature.
+Game Operations​: ​The Game Operations pool will provide gameplay incentives as new features are
+rolled out, by increasing the rewards for initial engagement.
+Promotion & Marketing​: ​This pool will be used for marketing initiatives, including promotional
+airdrops.
+
+REVV Token Allocation in ​F1​®​ Delta Time
+
+- Page 7 Copyright © 2020 ANIMOCA BRANDS CORPORATION LIMITED. ALL RIGHTS RESERVED.
+
+Flow of REVV in F
+​ 1​®​ Delta Time
+
+4.2 MotoGP
+Animoca Brands is developing a blockchain game based on FIM Road Racing World Championship
+Grand Prix, commonly known as MotoGP™ (“MotoGP”). The MotoGP game will combine the
+experiences of strategy and management with the intense thrill of motorcycle racing.
+REVV will be the core currency of the MotoGP title, similarly to the way it is utilised in ​F1​® Delta Time​.
+More information about the MotoGP title will be released in the near future.
+
+4.3 Unannounced project
+REVV will be the core currency of at least one other upcoming game, to be announced in the near
+future.
+
+- Page 8 Copyright © 2020 ANIMOCA BRANDS CORPORATION LIMITED. ALL RIGHTS RESERVED.
+
+4. REVV Community Overview
+5.1 Social activity
+Development strategy for the REVV Token platform is currently focused around an audience that
+uses English as the common language, with plans to support additional languages as the project
+grows. As the first available product in the REVV ecosystem, a significant portion of current activity
+occurs in ​F1​® Delta Time channels. Additional social resources will be set up and deployed to service
+the upcoming game based on MotoGP as that product’s beta launch approaches. A third
+motorsport blockchain-based title that will be part of the REVV ecosystem will be announced in the
+near future.
+
+5.2 Current growth and distribution strategies of REVV
+●
+●
+●
+●
+
+Partnering directly with well-known IPs and engaging their existing fans
+Conducting Non Fungible Token (NFT) sales to promote the soon-to-be-launched games and
+encouraging secondary market transactions
+Competitions and rewards for existing content owners
+Play-To-Earn mechanism in the form of a beta mini game, to engage/attract existing/new
+users
+
+5.3 Future growth and distribution strategies of REVV
+●
+●
+●
+●
+●
+●
+
+Expansion of the REVV ecosystem, which currently includes F
+​ 1​®​ Delta Time​, with a game
+based on MotoGP in production, and a third title to be announced in the near future
+Conducting staking programs to incentivise community participation
+Additional Play-To-Earn mechanisms to be launched
+AMA sessions to engage with the community
+Further competitions to encourage content collection, following and active participation
+Active marketing campaigns
+
+5.4 Community and social channels as of 2 September 2020
+REVV Telegram Community
+REVV Telegram Announcements
+REVV Twitter
+Animoca Brands Medium
+Animoca Brands Youtube
+Animoca Brands Facebook
+
+Animoca Brands Twitter
+F1​®​ Delta Time​ Twitter
+F1​®​ Delta Time​ Discord
+F1​®​ Delta Time​ Medium
+F1​®​ Delta Time​ Youtube
+F1​®​ Delta Time​ Facebook
+
+- Page 9 Copyright © 2020 ANIMOCA BRANDS CORPORATION LIMITED. ALL RIGHTS RESERVED.
+
+5. Project Advisors
+
+Holly Liu
+Kabam Co-Founder,
+visiting partner at Y
+Combinator
+
+Ed Fries
+Former VP at Microsoft,
+Founder of Xbox Game
+Studios
+
+Sherman Lee
+Founder Raven Protocol, angel
+investor at Deep Ventures
+
+Benjamin Rameau
+CEO of Smile Research, former
+VC and M&A at Binance
+
+Gabby Dizon
+Founder Alto.io, CEO of
+Altitude Games
+
+Mark Cheng
+Partner at Mind Fund Group
+
+Sebastien Borget
+COO and Co-Founder at
+Pixowl, and The Sandbox,
+President of Blockchain Game
+Alliance
+
+Mikhael Naayem
+Chief Business Officer and
+Co-Founder at Dapper Labs
+
+Aleksander Leonard Larsen
+COO and Co-Founder at Axie
+Infinity, Secretary Board of
+Directors at Blockchain Game
+Alliance
+
+- Page 10 Copyright © 2020 ANIMOCA BRANDS CORPORATION LIMITED. ALL RIGHTS RESERVED.
+
+6. Legal
+Details and terminology in this document are subject to change.
+The REV ERC-20 token is a standalone token that will have utility inside ​F1​® Delta Time and other
+products, but is not a product of​ F1​®​ Delta Time​ or of any other specific game.
+This document is for reference only, and should not be used or considered as investment advice or
+recommendations for any technology mentioned within.
+This document is for personal use only, and should not be redistributed, edited, updated or
+reattributed.
+The F1 FORMULA 1 logo, F1 logo, FORMULA 1, F1, FIA FORMULA ONE WORLD CHAMPIONSHIP,
+GRAND PRIX and related marks are trade marks of Formula One Licensing BV, a Formula 1
+company. All rights reserved.
+MotoGP™ Project © 2020 [DORNA]
+Copyright © 2020 Animoca Brands Corporation Limited. All rights reserved.
+
+- Page 11 Copyright © 2020 ANIMOCA BRANDS CORPORATION LIMITED. ALL RIGHTS RESERVED.
+
+

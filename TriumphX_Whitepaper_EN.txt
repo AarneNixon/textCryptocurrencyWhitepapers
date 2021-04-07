@@ -1,0 +1,1404 @@
+W H I T E P A P E R
+
+Ver 1.03
+
+LAST UPDATED: 10 AUG 2020
+
+Disclaimer
+PLEASE READ THIS DISCLAIMER CAREFULLY AS IT CONTAINS IMPORTANT INFORMATION. PLEASE CONSULT YOUR
+PERSONAL LEGAL, FINANCIAL, TAX OR OTHER APPROPRIATE PROFESSIONAL ADVISOR(S) BEFORE TAKING ANY ACTION.
+The Tokens (as described in this Whitepaper) are not intended to constitute securities in any jurisdiction. This Whitepaper
+is not a prospectus or oﬀering document of any kind. It is not intended to constitute an oﬀer of securities or a solicitation
+for investment in securities in any jurisdiction. This Whitepaper also does not constitute or form part of any opinion or
+any advice to sell, or any solicitation of any oﬀer by the distributor or issuer of the Tokens to purchase any Tokens nor
+shall it, or any part of it, nor the fact of its presentation, form the basis of or be relied upon in connection with any
+contract or investment decision.
+There are material risks and uncertainties associated with TriumphX, its business and operations, the Tokens, including
+that any Token sale may not occur. This Whitepaper, any part thereof and any copy thereof must not be taken or
+transmitted to any country where distribution or dissemination of this Whitepaper or the Tokens is prohibited or
+restricted. No part of this Whitepaper is to be reproduced, distributed or disseminated without including this section.
+TriumphX is a recently organized start-up company, subject to all the risks and uncertainties of a new enterprise.
+TriumphX’s blockchain-based technology is in an early stage of development, will be subject to modiﬁcation as issues
+inevitably emerge, and ultimately may not be accepted in the marketplace. The statements in this Whitepaper are made
+only as of the date set forth on the cover page. Accordingly, TriumphX and its aﬃliates do not make or purport to make,
+and hereby disclaim, any representation, warranty or undertaking in any form whatsoever to any entity or person,
+including any representation, warranty or undertaking as to the continued accuracy and completeness of any of the
+information set out in this Whitepaper.
+By accessing or accepting possession of any information in this Whitepaper or any part thereof, you represent and
+warrant to TriumphX and its aﬃliates as follows: 1. You agree and acknowledge that the Tokens do not constitute
+securities in any form in any jurisdiction; 2. You agree and acknowledge that this Whitepaper does not constitute a
+prospectus or oﬀer document of any sort and is not intended to constitute an oﬀer of securities in any jurisdiction or
+solicitation for investments in securities and you are not bound to enter into any contract or binding legal commitment
+and no cryptocurrency (including the Tokens) or other form of payment is to be accepted based on this Whitepaper; 3. You
+agree and acknowledge that no regulatory authority has examined or approved of the information set out in this
+Whitepaper, no action has been or will be taken under the laws, regulatory requirements or rules of any jurisdiction by
+TriumphX or its aﬃliates in connection with the dissemination of this Whitepaper, and the publication, distribution or
+dissemination of this Whitepaper to you does not imply that any applicable laws, regulatory requirements or rules have
+been complied with; 4. You agree and acknowledge that this Whitepaper, the undertaking and/or completion of any
+future Token sale or future trading of the Tokens on any cryptocurrency exchange, shall not be construed, interpreted or
+deemed by you as an indication of the merits of TriumphX or the Tokens; 5. The distribution or dissemination of this
+Whitepaper, any part thereof or any copy thereof, or the acceptance of the same by you, is not prohibited or restricted by
+any laws, regulatory requirements or rules applicable to you, and where any restrictions in relation to possession are
+
+2
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+applicable, you have observed and complied with all such restrictions at your own expense and without liability to
+TriumphX or its aﬃliates; 6. You agree and acknowledge that if you elect to purchase any Tokens, the Tokens are NOT to
+be construed, interpreted, classiﬁed or treated as: a. any kind of currency other than cryptocurrency; b. debentures,
+stocks or shares issued by any person or entity (whether TriumphX or its aﬃliates), including any rights, options or
+derivatives thereof; c. units in a collective investment scheme; d. units in a business trust; e. derivatives of units in a
+business trust; or f. any other security or class of securities. 7. You are fully aware of and understand that you are NOT
+eligible to purchase any Tokens if you are a citizen of one of the countries listed in the section below titled “Notices for
+Particular Investors”; 8. You have a basic degree of understanding of cryptocurrencies, blockchain-based software
+systems, cryptocurrency wallets or other related token storage mechanisms, blockchain technology and smart contract
+technology; 9. You are fully aware and understand that in the case where you wish to purchase any Tokens, there are
+material risks associated with TriumphX and its business, plans and operations, the Tokens and any potential future sale
+or distributions of the Tokens; 10. You agree and acknowledge that none of TriumphX nor its aﬃliates is liable for any
+indirect, special, incidental, consequential or other losses of any kind, in tort, contract or otherwise (including, but not
+limited to, loss of revenue, income or proﬁts, and loss of use or data), arising out of or in connection with any acceptance
+of or reliance on this Whitepaper or any part thereof by you; 11. You acknowledge and agree that TriumphX can make
+material amendments to this Whitepaper at any time after the date hereof and without any notice to you or your
+consent, and you further acknowledge and agree that TriumphX makes no representation or warranty regarding the
+accuracy of any information set forth in this Whitepaper; and 12. All of the above representations and warranties are true,
+complete, accurate and non-misleading from the time of your access to and/or acceptance of possession of this
+Whitepaper or any part thereof.
+This Whitepaper may contain forward-looking statements including, but not limited to, statements as to future
+operating results and plans that involve risks and uncertainties. Forward-looking statements involve known and unknown
+risks, uncertainties and other factors which may cause the actual results, performance or achievements of TriumphX to
+diﬀer materially from any future results, performance or achievements expressed or implied by those projected in the
+forward-looking statements for any reason. NO ADVICE No information in this Whitepaper should be considered
+business, legal, ﬁnancial or tax advice regarding TriumphX, the Tokens or any future Token sale or distribution. You should
+consult your own legal, ﬁnancial, tax or other professional adviser regarding TriumphX, and its business and operations
+and the Tokens. You may be required to bear the ﬁnancial risk of any purchase of the Tokens for an indeﬁnite period of
+time or suﬀer the complete loss of any amounts paid for the Tokens.
+NOTICES FOR PARTICULAR INVESTORS For residents of the People’s Republic of China (which, for the purposes of this
+Whitepaper, does not include Hong Kong, Macau, and Taiwan) only: The Tokens may not be marketed, oﬀered or sold
+directly or indirectly to the public in the People’s Republic of China (the “PRC”) and neither this Whitepaper nor the
+Purchase Documents, which has not been submitted to the PRC securities and regulatory commission, nor any oﬀering
+material or information contained herein relating to the Tokens, may be supplied to the public in the PRC or used in
+connection with any oﬀer for the subscription or sale of the Tokens to the public in the PRC. The information contained
+in this Whitepaper and the Purchase Documents will not constitute an oﬀer to sell or an invitation, advertisement or
+solicitation of an oﬀer to buy any Tokens within the PRC. Residents of the United States or any country subject to
+sanctions from the United States, including without limitation Belarus, Burundi, Central African Republic, Cuba, Iran.
+
+3
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+Abstract
+The global gaming industry has grown rapidly in the last decade with vibrant thriving communities growing
+from various games such as Fortnite. Despite the size of the gaming industry, gamers still have little control
+over their in-game assets which has been fully monopolised by the game creators themselves with little
+regulatory oversight on the area.
+The market for secondary trading of in-game items is estimated to be a whopping 50 billion USD in 2018
+with a large volume of microtransactions occurring. Despite the size of the market, secondary market
+trading of items is frequently prohibited, and where they are allowed, the game service providers or
+third parties service providers charge a large hefty commission fee on the transactions.
+Despite the high fees, users have no alternatives to secondary market trading due to the need for two
+parties to be able to trust each other in P2P trading. This necessitates the use of blockchain technology to
+eliminate the need for trust to conduct the transactions. For such a system to work, it is crucial that the
+blockchain is stable, scalable and secure for the game item trading industry.
+TriumphX aims to provide a decentralised exchange to conduct peer-to-peer (P2P) trading without the need
+for hefty fees and to lose control of their digital in-game assets.
+
+TriumphX was designed
+and built by gamers, for gamers.
+
+4
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+Market Overview
+Newzoo forecasts that the game market will continue to grow in the following years, exceeding $200 billion
+at the end of 2023. By then, the games market will grow with a +8.3% CAGR to $200.8 billion.
+
++7.7 %
+
+Global Games
+Market Forecast
+
+Total Market CAGR
+2018-2023
+
+Forecast Toward 2023
+
+$200.8Bn
+$138.5Bn
+
+$145.7Bn
+
+2018
+
+2019
+
+$159.3Bn
+
+2020
+
+2023
+
+Source: ©Newzoo - 2020 Global Games Market Report
+newzoo.com/globalgamesreport
+
+It is also estimated that the 2020’s global game market will generate revenues of $159.3 billion USD, which
+represents a healthy 9.3% year-on-year growth. While all game segments have an increase in engagement
+and revenues in 2020, mobile gaming experienced the biggest increase. In total, mobile games will generate
+revenues of $77.2 billion in 2020, growing +13.3% year on year, the fastest among all segments.
+
+5
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
++77.2 Bn
+
+2020 Global
+Games Market
+
+Mobile game revenues in
+2020 will account for 48%
+of the global market
+
+Per Device & Segment with
+Year-on-Year Growth Rates
+
+MOBILE
+
+PC
+
+$77.2 Bn
+
+$36.9 Bn
+
++13,3% YoY
+
+9% 2%
+
+TABLET GAMES
+
+$13.7 Bn
++2.7% YoY
+
+(SMART)PHONE GAMES
+
+$63.6 Bn
++15,8% YoY
+
+48%
+
+23%
+
+BROWSER PC GAMES
+
+$3.0 Bn
+
+21%
+
+-13,4% YoY
+
+2020 TOTAL
+
+40%
+
+$159.3Bn
+
+BOXED/DOWNLOADED
+PC GAMES
+
++9.3%
+YoY
+
+28%
+
++4,8% YoY
+
+$33.9 Bn
++6,7% YoY
+
+28%
+
+CONSOLE
+
+$45.2 Bn
++6,8% YoY
+
+Source: ©Newzoo - 2020 Global Games Market Report - April Update
+newzoo.com/globalgamesreport
+
+There is a wide variety of platforms that complements the vibrant and thriving gaming markets for PC and
+Console games such as streaming services via Twitch, secondary market trading for in-game digital items
+and through third party services such as ItemBay. However, despite the size of the mobile gaming market,
+the complementary services to the mobile industry is signiﬁcantly smaller.
+
+These complementary services have a signiﬁcantly smaller market as Global Esports revenue projections
+through 2022 by various reputable sources including Goldman Sachs, Newzoo, SuperData, PwC and Business
+Insider Intelligence puts the size of Esports market to be 1.5bn USD to 3bn USD. While projections vary, the
+common consensus is that the Esports market can be expected to grow rapidly and double over the next
+two years.
+
+6
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+Global Esports Revenue Projections Through 2022
+Millions
+
+Newzoo
+
+Goldman Sachs
+
+SuperData
+
+PwC
+
+Bll
+
+$3,000
+$2,500
+$2,000
+$1,500
+$1,000
+$500
+
+2023
+
+2019E
+
+2020E
+
+2021E
+
+2022E
+
+Source: Business Insider Intelligence, PwC Global Entertainment &
+Media Outlook 2019-2023, Newzoo, SuperData, Goldman Sachs
+
+Esports used to be considered as a niche group of users and a subset of sports culture, but its rapid growth
+due to popular games such as Fortnite ad championing from mainstream celebrities such as Michael Jordan,
+Drake and DJ Marshmello has led to Esports growing into a vibrant industry of its own.
+
+The vibrancy of the gaming market and Esport market has also led to a third market that is rapidly growing,
+secondary market transactions for the digital in-game items. The size of the market is estimated to have at
+least $50 billion USD of Gross Merchandise Value according to Juniper Research. This is a massive growth
+from the current $30 billion USD in Gross Merchandise Value in 2018. Around 60% of console gamers have
+purchased virtual items at some point, along with 43% of PC gamers and 33% of smartphone gamers. In the
+last 12 months, video gamers have spent an average of $133 (console gamers), $96 (PC gamers), and $37
+(smartphone gamers) on virtual items.
+
+7
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+Limitations of Secondary
+Market Transactions
+Lack of Trust
+Despite the potential size of the secondary market transactions for in-game digital items, there is a lack of
+trust among the buyer and sellers. This gives rise to the need for third party custodial services which take
+hefty commission fees in the process. Fees vary among the third party service providers, but generally fees
+can be as high as 10% of the transaction. With an estimated industry size of $50 billion USD, this can be up
+to a whopping $5 billion USD in fees collected from users representing value lost to users due to the inability
+to trust.
+Through TriumphX, users can engage with TriumphX smart contract to securely lock their items for P2P
+transfers. The smart contract will only release both items once both users have locked their respective
+Non-Fungible Token (NFT) and TRIX token for trading. Such blockchain service eliminates the need for trust
+among buyers and sellers and allows for seamless P2P transactions instantaneously.
+
+Lack of security
+Despite the hefty commissions collected by third party custodial services facilitating the trading of in-game
+items, it is still necessary to trust that the third party custodial service and automated trading bots are
+functioning properly without glitches. Among the users of third party trading services, the most important
+aspect users look out for is the security of the platform. While some third party services have established a
+reputation among the gaming community, security at these services may still be compromised and hacking
+remains a prevalent issue among service providers that handles large volumes of transactions
+
+Low Liquidity
+Trading of in-game items in the secondary markets is highly fragmented with various third party service
+providers. The wide variety of items provided in the markets also creates diﬃculties in ensuring high
+liquidity in some markets. TriumphX solves this through a two-prong method, (1) combining all of these
+markets through a single neutral network that all third party service providers can trade eﬃciently for NFTs
+that exists across all types of blockchains, and (2) the incentive mechanism provided to liquidity providers
+of NFTs to ensure deep liquidity in markets.
+
+8
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+Non-transparent information
+Information regarding in-game items is diﬃcult to obtain as there is no transparent database on statistics
+of each in-game item such as the total quantity of items that are in existence, the total number of items
+that are being traded actively, trading volume of items, and the rate of emission of new items. Without such
+information, the market largely relies on price discovery which can be ineﬃcient due to asymmetrical
+information. Large third party service providers for secondary market trading may be able to manipulate
+such markets given the better access of information that they have.
+Through TriumphX, all information regarding in-game items are recorded transparently on the blockchain
+and users can use our block explorer to ﬁnd out more information about the quantity of in-game items in
+existence, their last traded price, and even to obtain information on historical traded prices. Users can also
+observe whether there are attempts to hoard a particular item for market manipulation and can be more
+aware of trading such items in a more eﬃcient market.
+
+Unsanctioned by most game providers
+In 2018, Valve issued a cease and desist order to OPSkins, which was one of the largest P2P custodial services
+for conducting trades on the secondary trading of items. Valve has also deactivated all accounts related to
+the trades. While Valve has not issued an oﬃcial reason for the shutdown, it is very likely that the reasoning
+for the shutdown from Valve is to drive skin sales to the Steam Community Market instead of third-party
+platforms. Valve has since undertaken additional measures to limit the ability to send items from various
+loot boxes to further restrict the ability of gamers and to enhance their own proﬁtability. Some of these
+measures include limiting the ability of users to transfer items more than once and to restrict the transfer
+of items for a certain period of time after the items are transferred.
+We believe that such actions undertaken by game providers restrict the ability of users to have full control
+over their in-game items which they have purchased and intend to create TriumphX to enable the
+transaction of such secondary market trading. To align the economic interest of game service providers and
+the users, game service providers such as Valve will be able to become a strategic partner of TriumphX to
+gain proﬁts from all transactions conducted on the blockchain platform and restrict such third parties from
+proﬁting at the expense of the game service provider.
+
+9
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+Vision
+TriumphX is a decentralised exchange for the trading of in-game items that exists as NFTs. Our goal is to
+create a highly liquid decentralised market that enables users to trade NFT tokens that exist across various
+blockchains with the highest security and transparency. To achieve this, TriumphX will be integrated with
+multiple decentralised exchanges to facilitate the deep liquidity of NFT tokens. The TRIX token will
+complement the TriumphX ecosystem by creating a sustainable token economy through game theory and
+the TriumphX blockchain will be designed with scalability, interoperability and achieve ﬁnality in
+transactions in the most secure and transparent manner. It is designed to complement the rapid growth of
+gaming and Esports to provide gamers with the quality of services that they deserve.
+
+10
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+TriumphX
+Blockchain Technology
+Blockchain Architecture
+
+Services
+Fee | Price Decision | TDI | PoO | P2P
+
+Protocol Layer
+Kabocha Protocol | TRIX Wallet
+
+Base Layer
+TSCE | Machine Learning
+
+Blockchain Layer
+Polkadot Parachain built using Substrate
+
+11
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+1. Blockchain Layer
+Considering transparency, stability, security, and scalability, TriumphX will be built on the Polkadot network
+as a parachain. Polkadot enables interoperability and scalability by allowing specialized blockchains to
+communicate with each other in a secure, trust-free environment. Through the parallelized model of
+Polkadot, TriumphX will be built as a parachain that can compile into WASM and be connected to the
+Polkadot network.
+The Polkadot Relay Chain does not implement smart contracts natively. However, it's possible for parachains
+to enable smart contract functionality and then beneﬁt from the security and interoperability features of
+Polkadot. This is the core reason for building TriumphX as a parachain due to the ability to contain our own
+runtime logic that beneﬁt from the shared security and the cross-chain messaging provided by the Polkadot
+Relay Chain. With the high degree of ﬂexibility and customization, TriumphX will be able to customize the
+chain according to the commercial needs of partners within the network.
+TriumphX will be developed using Substrate Core, which grants us the ability to design the entire runtime
+and implement it from scratch.
+
+Triumphx Council Reward system
+Stability is the most important factor of the TriumphX platform services. In this scenario, validators would
+exert their utmost eﬀort on the node operation to maintain the stability of their business.
+In the initial stage of the blockchain, few business opportunities would be available since the token
+economy has not been activated. Therefore, we plan to recruit council members who can form stable
+blockchain networks for an appropriate level of compensation. The initial council members will receive an
+annual compensation of 5% of the amount of trust for a period of time needed to stabilize their businesses.
+Such compensation plans will remain eﬀective until 101 companies are registered as validators.
+The council members also act as a form of governance for the TriumphX blockchain and will have the ability
+to vote on key decisions concerning the TriumphX blockchain such as the fees on the platform.
+
+Creating a Sustainable Decentralised Governance Model
+As we expect centralized exchanges to hold signiﬁcant sums of tokens, safeguards will be put in place to
+ensure that exchanges are barred from the governance process and voting process to prevent manipulation
+of the network in the interest of the exchanges using tokens which are not owned by themselves. These
+safeguards include identiﬁcation on the blockchain and active governance from the validators to bar
+addresses that have been identiﬁed as exchange addresses on the network.
+
+12
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+At the start, there shall be two validators, managed by the creators of TriumphX. As time goes by, more
+validators will be opened, up to a total of 101 validators. Subject to future governance changes by the 101
+validators, the number of seats may be further expanded.
+Each validator term lasts for a period of 12 months, and after the initial 12 month period, all validators,
+including the initial two seats controlled by the founders, will be put up for voting by the network users. This
+ensures true decentralization of the network.
+In the long-term, there may be additional DAOs being created on the TriumphX blockchain to satiate the
+need for greater coordination outside of the initial validator setup. These DAOs can be governed by various
+decision-making processes such as simple 1-person-1-vote mechanism, delegated voting, 1-token-1-vote, or
+other more complex mechanisms.
+
+Election of Validators
+Users will need to signal (by time-locking their TRIX tokens to vote for certain decisions on governance of
+the TriumphX blockchain). These tokens will not be spent and will be returned to the voters after a certain
+period of time.
+
+Council
+Member
+Applicants
+
+Successfully voted as Council Members
+
+No votes, rejected
+
+Smart contract
+signaling using
+TRIX tokens
+
+TRIX Tokens
+Owners
+
+13
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+2. Base Layer
+It is necessary to extend the basic functions of the blockchain to connect the blockchain with real-world
+services, maintain the stability of the mainnet, and conﬁgure blockchain services. The base layer of the
+TriumphX platform consists of functions necessary to fulﬁl such requirements.
+
+TSCE (TriumphX Smart Contract Extension)
+Extended functions are required to use smart contracts on the blockchain for contracts of real-world
+service. TriumphX provides TSCE (TriumphX Smart Contract Extension), which adds TriumphX's own
+extension to the existing Substrate API.
+Real-life contracts require a variety of information, such as the coin price of exchanges, stock price,
+exchange rate, weather information, and a random number generator used in games or lotteries. When
+retrieving data from outside the blockchain, it is necessary to check the correctness of the information and
+thoroughly make exceptions when the information is deemed to be incorrect. TSCE implements Oracle
+functions in a decentralized way.
+On the blockchain, it is not always possible to check the execution time of the contract due to resource
+issues. Thus when a scheduled execution is required, it cannot be implemented only with a smart contract.
+TSCE, like Oracle, implements the scheduled execution function in a decentralized manner.
+TSCE plans to create a library of functions with scalability in mind. In the process, we will also focus on the
+eﬀorts to prevent hacking.
+
+Machine Learning
+Machine learning and blockchain may seem to have no common ground, but both are rapidly evolving
+technologies, and will play key roles in the business platforms in the future. While designing the TriumphX
+platform, we have learned that we need to actively adopt the latest machine learning techniques. Machine
+learning will play crucial roles in various aspects of TriumphX, such as anomaly detection to spot external
+attacks, and pricing system to quickly determine the appropriate fee and price.
+
+14
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+3. Protocol Layer
+The TriumphX platform provides decentralized protocol called ‘Kabocha’ that can be easily extended and
+connected to enable eﬀortless creation of decentralized applications (DApps). This protocol is managed by
+TSCE and API. The TriumphX platform manages the dependency of API libraries and provides a convenient
+development environment. Because the Kabocha protocol is designed as an open platform, anyone can
+connect to TriumphX. Documentation and tutorials for the Kabocha Protocol and all APIs will be released on
+GitHub in line with the testnet release schedule
+
+P2P
+Service Structure
+
+Base
+
+Escrow
+
+Price Decision
+
+PoO
+
+PG
+
+TDI
+
+Reputation
+Kabocha Protocol
+Protocol Layer
+Kabocha Protocol
+
+TRIX Wallet
+
+TRIX Wallet
+A dedicated wallet is required to obtain TDI or mutual evaluation information of the TriumphX platform.
+While the wallet itself is not a decentralized protocol-based service, it is necessary for the TriumphX
+platform to provide an integrated service. Wallets needed to be protected with the highest level of security
+in the decentralized blockchain technology. The source code of the wallet will be released as an open source
+and will be continuously audited for security issues.
+
+15
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+Services
+The services provided by TriumphX are optimized for general DApp development. Services will be constantly
+updated and added.
+
+1. Fee Service
+The fee for all services on the TriumphX platform is paid with TRIX tokens, so the fee module is included in
+all services. Overly high fees would make the users uneasy, while too low fees would cause problems in
+system operation. The TriumphX platform implements machine learning to monitor and determine the
+optimal fee to create a healthy blockchain community. Fee standards and the charging process will be
+transparently disclosed in a decentralized way.
+
+2. Escrow Service
+A contract itself can be implemented as a smart contract on the blockchain. However, an extended smart
+contract is required to specify an escrow at the beginning of the contract and release the escrow at the
+termination of the contract . The TriumphX platform implements such functions using TSCE, enabling users
+to tokenize their in-game digital items.
+
+3. TriumphX Digital Identity (TDI) Service
+KYC (Know your customer), the process of verifying the user's identity, has become a basic requirement on
+most of the public blockchain services, including ICOs. The KYC process varies from country to country, and
+services provided vary depending on the level of veriﬁcation. This process is complex and time consuming,
+taking up to weeks or longer for completion. Due to the issues of GDPR, careful attention must be paid to
+the personal information collected.
+TriumphX platform provides strong KYC for security and privacy protection through TDI service, and the
+information registered through TDI can be used simultaneously for all services on the TriumphX platform.
+Each user that has completed their KYC will receive an NFT into their wallet, identifying their wallets and
+accounts that are associated with the user for seamless capabilities in integrating across diﬀerent
+blockchain networks.
+
+4. PoO Service
+Proof-of-Ownership (PoO) is a function that electronically proves one’s ownership of their assets, which is
+essential for online spot trading. It is necessary to cooperate with a publicly trusted organization to
+implement PoO. Also, the organization that handles PoO is handled must go through a high level of security
+and audit similar to that of ﬁnancial institutions. Therefore, it is very challenging for general users to
+implement the PoO function. On the TriumphX platform, PoO will be implemented in conjunction with
+credible institutions for each asset.
+
+16
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+5. P2P Transaction Decision Service
+P2P trading is a method of determining the price between the buyer and seller. For this function, we need
+an algorithm that accurately and quickly establishes exchanges in which both sides can beneﬁt. The
+TriumphX platform provides services for all types of multi-chain based P2P transactions.
+
+P2P Automated Market Maker
+TriumphX adopts an innovation popularised by Decentralised Finance (DeFi).
+Through the use of an automated market maker (AMM), we are able to quickly facilitate the trading of NFTs
+that belong to the same subset (i.e. NFTs that represent the same items). The AMM will require liquidity to
+be provided by the gamers who will be rewarded in TRIX tokens for the liquidity that is provided for price
+discovery.
+An AMM does not have any buy/sell order book. Instead both sides of trades are pre-funded on-chain by
+liquidity pools. Liquidity pools allow users to seamlessly switch between tokens on-chain in a completely
+decentralized and non-custodial manner simply by connecting their cryptocurrency wallets to the liquidity
+pool. Liquidity providers are compensated for their services in providing liquidity via trading fees based on
+the percentage of their contribution to the pool.
+
+1. Send pre-deﬁned ratio
+of TRIX tokens and NFT
+tokens into the pool.
+
+Liquidity Providers
+3. Liquidity Providers are
+paid a portion of feeds
+collected by Liquidity Pool
+(decided by council members).
+
+2. Traders buy NFT/TRIX
+using TRIX/NFT correspondingly,
+ﬁlled by AMM using Liquidity Pool.
+
+Liquidity Pool
+
+Liquidity Providers
+
+TriumphX will use the Constant Product Market Maker (CPMM) model based on the function x*y=k which
+establishes a range of prices for two tokens according to the available quantities (liquidity) of each token. To
+demonstrate how a CPMM model works, when the supply of token X increases, the token supply of Y must
+decrease, and vice-versa, to maintain the constant product K. When plotted, the result is a hyperbola where
+liquidity is always available, but at increasingly higher prices that approach inﬁnity at both ends.
+
+17
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+The Constant Products Mechanism in Action
+1,600.000
+1,400.000
+Pool of TRIX
+
+1,200.000
+1,000.000
+
+Larger sale of NFT yield
+samller incremental amount
+of TRIX, indicating that price
+of NFT has increased
+
+800.000
+600.000
+400.000
+200.000
+0.000
+0.000
+
+5.000
+
+10.000
+
+15.000 20.000 25.000 30.000 35.000
+Pool of NFTs
+
+6. Pricing Service
+P2P transactions are established when there are two-party transactions. However, in real-world
+transactions, trading based on ﬁxed price is more common. When there are enough P2P transactions for
+internal processing, the P2P transaction decision service is suﬃcient. On the other hand, when the
+transaction is concentrated on one side, issues of pricing and liquidity for cashing arises.
+While the spot and ﬁat trading is ﬁxed, the coin-ﬁat exchange is determined by the transaction volume,
+price, and ﬂuctuation of the coin. In the case of minor coins, the small trading volume and the high volatility
+makes large spread inevitable. However, if the spread becomes too large, customers would not want to
+trade. The TriumphX platform provides a real-time pricing service using machine learning to solve this
+problem.
+
+7. Payment Gateway (PG) Service
+PG requires processing of large volumes of microtransactions of transactions. In this case, stability and
+speed is the most important factor, since users would not use the system if payment processing is delayed.
+The slow processing speed and lack of scalability of Bitcoin is arguably one of the core reasons why it has not
+been adopted as a method of payment. On the TriumphX platform, a stable PG service is implemented using
+multi-chain.
+
+18
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+Product Features
+Creation of Non-Fungible
+Tokens for Trading
+Through TriumphX, gamers are able to tokenize
+Non-Fungible Tokens (NFTs) that represent the
+unique in-game items that they own. To tokenize
+these NFTs, gamers will be required to stake a small
+amount of TRIX tokens corresponding to a proportion
+of the in-game item’s value. An API will validate the
+ownership of the items held by these users hence it is
+possible for the users to create a NFT of in-game
+items that have limited transferability as the item
+does not ever have to leave their inventory.
+The item can also continue to be used while it is being
+actively traded among users until a buyer redeems
+the item. Through the same API and through smart
+contract capabilities within the TriumphX blockchain,
+the item will be automatically transferred to the
+buyer and the staked TRIX tokens will be released
+back to the seller.
+
+In the event that there is a rapid change in value of
+the NFT or in the value of the staked TRIX token such
+that there is insuﬃcient collateral to tokenize the
+in-game item, the seller will need to put up additional
+collateral otherwise the NFT will be taken to have
+been repurchased and redeemed by the seller, and
+the buyer will receive the staked TRIX token as
+payment. This is considered to be a liquidation of the
+seller, and upon liquidation, the seller will also have to
+pay an additional fee of 2% of the purchase value
+which is sent into an insurance fund on the TriumphX
+blockchain as a safeguard against potential slippage
+of costs. This insurance fund is fully governed by
+smart contract capabilities and provides reassurance
+for buyers of the NFTs that the value of their assets
+will be fully backed and redeemable for the actual
+value of the items.
+
+TDI Module
+P2P trading is enabled
+between TRIX and NFT tokens
+via the TriumphX Platform
+through smart contract
+1. Submit KYC docs
+to receive KYC NFT
+for veriﬁcation.
+
+Sellers
+
+3. Submit orders to
+sell NFT NFT is
+
+3. Submit orders to
+buy NFT TRIX is
+
+transferred once
+orders are matched.
+
+transferred once
+orders are matched.
+
+2. Tokenize in-game
+items by staking TRIX
+tokens to receive NFT.
+
+Games
+
+(that facilitate trading)
+
+19
+
+TriumphX Platform
+5. Staked TRIX tokens are
+returned to the Seller once the
+NFT is redeemed and in-game
+intem is sent from Seller to Buyer
+
+Buyers
+
+4. Redeem in-game items by
+sending NFT into the game
+and registering with account.
+
+Games
+
+(that facilitate trading)
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+ERC-1155 Token Standard
+Adoption And Future NFTs
+NFTs will exist as ERC-1155 tokens on the Ethereum
+blockchain in the initial stages and future token
+standards that are backward compatible with the
+ERC-1155 token standard will be implemented to
+ensure interoperability across all blockchains within
+the TriumphX network.
+ERC-1155 token standard was selected as it is able to
+manage multiple token types within a single deployed
+contract. For example, a combination of fungible
+tokens, non-fungible tokens or even semi-fungible
+tokens can be created. For game developers,
+adopting the ERC-20 or ERC-721 standard would
+require the creation of thousands of unique smart
+contracts, each representing a unique in-game item.
+The ERC-1155 standard would enable each game to
+operate on a single smart contract. Transaction fees
+may also be lower as multiple token types can be
+swapped at once.
+
+Aggregated Public Database on NFTs
+While the in-game items that have been tokenized
+exist as NFTs on the blockchain, these NFTs can still be
+aggregated under the same subset of items. For
+example, two “Legendary Dragon Sword” tokenized
+on TriumphX exist as two unique NFTs, but the
+blockchain recognizes these two NFTs as the same
+item, hence can be used interchangeably with the
+same price.
+The key objective of having these items existing as
+NFTs is to enable tracing of ownership of the items
+such that when it is redeemed by the buyer, the
+blockchain will know which is the seller of the item
+and can conduct the transfers between the two
+accounts accurately.
+Because of this ability to recognize diﬀerent NFTs as
+representation of the same item, the TriumphX
+Explorer is able to group these items together to
+state useful statistics such as the total number of
+
+20
+
+items tokenized and in existence on the blockchain,
+the total historical traded price of such items, the
+number of items owned by each user to identify if
+there is hoarding of items and more.
+
+Interoperability Across
+Diﬀerent Blockchains
+TriumphX has a concrete plan for achieving
+interoperability through Polkadot, a cross-chain
+bridging network that Parity is developing in
+partnership with Substrate. Through the connection
+with Polkadot, TriumphX will have true
+interoperability with all blockchains in the Polkadot
+network and cross-blockchain transfers of any type of
+data or asset can be accomplished. This increases
+liquidity of NFTs and TRIX tokens as it increases access
+to the NFTs by the communities across a large
+number of blockchains.
+For high-stakes transfers and trading, users may opt
+to have ﬁnality of their transactions occurring on a
+time-tested network such as Ethereum which has
+high security but also higher costs and longer time
+taken for ﬁnality onchain. Alternatively, if lower cost
+of transactions and speed is of essence for the user, a
+diﬀerent blockchain such as EOS can be used by the
+user for quicker conﬁrmation time. It is also possible
+for users to leverage on more complex strategies such
+as obtaining speed via an initial EOS transaction, and
+automatically ﬁnalizing the transaction on Ethereum
+after a pre-deﬁned period of time helping users
+manage the trade-oﬀs between transaction costs of
+short term trading (e.g. scalping/swing trading of
+NFTs) while ensuring security for items that are held
+as a store of value by the users.
+In the future, if there are additional networks capable
+of enabling cross-chain transferability and
+interoperability, TriumphX can be further integrated
+with these networks to further increase the
+cross-chain transferability of NFTs ensuring that
+TriumphX blockchain is future proofed regardless of
+how new platforms are developed and forward
+compatibility of the NFTs with blockchain networks
+that have yet to exist.
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+Alignment of Economic Interest
+with Game Service Providers
+Game Service Providers are usually less receptive to
+leverage on blockchain technology to tokenize their
+in-game items into NFTs. A key reason for this is
+because it limits proﬁtability of their games if
+alternative secondary markets are used, limiting the
+ability of these in-game service providers to earn
+revenue from secondary market trading within their
+own platform or that it limits primary market
+purchase of new in-game items directly using ﬁat
+currencies.
+While it is a rational decision to protect their revenue
+stream, it also holds back the community of gamers
+and the potential for these game service providers to
+grow their future revenue streams. Gamers who have
+purchased these in-game items using cash should
+have full control of their items as a fundamental right.
+Gamers are also more likely to purchase in-game
+items and loot boxes directly from the game service
+providers if they know that their items have resale
+value on the secondary markets. Combined, these
+factors can lead to a signiﬁcantly larger revenue
+stream for the game service providers.
+
+Incentive for Game Service Providers
+To ensure that the tokenization of in-game items does
+not cannibalize their own revenue stream, TriumphX
+ecosystem allows for game service providers to stake
+TRIX tokens and to verify to the TRIX validators of
+their identity to gain a portion of proﬁts that are
+made from the secondary trading of NFTs on the
+TriumphX blockchain. This alignment of interest
+expands the entire economic pie for both gamers and
+game service providers, leading to economic beneﬁts
+reaped for both stakeholders. To be able to earn such
+fees, the Game Service Provider have to make their
+games available on the blockchain in addition to
+staking.
+
+21
+
+As a start to encourage adoption, TRIX will provide
+new Game Service Providers with some ecosystem
+tokens on their staked tokens to further incentivize
+Game Service Providers to build their game on the
+blockchain.
+
+Gamers’ Community Engagement
+The popularity of games has resulted in the growth of
+a vibrant gaming community. These communities
+frequently exist on discussion boards such as Reddit
+or informal wiki pages created by the gamers
+themselves, oﬀering useful discussion, feedback and
+guides for new gamers. The presence of such
+communities is frequently the cause of success of the
+games themselves.
+To further increase engagement of games with the
+vibrant gaming community, game service providers
+will be able to create unique Community Tokens (CT)
+which exist as fungible utility tokens on the TriumphX
+blockchain, representing their game. These CTs can be
+used as rewards to gamers for their activity and
+engagement within the community and can also be
+traded for money on the secondary markets. Gamers
+with a large number of CTs can redeem these CTs for
+in-game items, used for priority access to tournament
+tickets, limited edition merchandise or even to vote
+for new features to be included into the game. The
+possibilities are limitless and can be determined by
+the game service providers themselves.
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+TRIX Token Economy
+Utility of token
+
+1. As a currency for P2P transaction on the decentralised exchange (trading of items)
+2. To pay for transaction fees (discounted fees using TRIX)
+3. Staking by game companies to enter into the TriumphX ecosystem for a share of proﬁts made from
+the transactions occurring on TriumphX marketplace
+4. Governance – signalling and voting for changes to the TriumphX blockchain
+
+Token distribution
+Private sale investors
+
+30%
+
+3,000,000,000 TRIX
+
+Ecosystem Fund
+
+30%
+
+3,000,000,000 TRIX
+
+Reserves
+
+20%
+
+2,000,000,000 TRIX
+
+Team & Advisors
+
+10%
+
+1,000,000,000 TRIX
+
+Strategic Partnerships
+
+5%
+
+500,000,000 TRIX
+
+Marketing
+
+5%
+
+500,000,000 TRIX
+
+Token supply
+Total supply: 10,000,000,000 TRIX tokens
+
+22
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+TRIX Valuation
+Given that the total supply of TRIX is ﬁxed, the core factors inﬂuencing the network value of TRIX is based
+solely on demand drivers. The fundamental demand driver of TRIX is through liquidity demands from the
+P2P trading of in-game items that have been tokenized on TriumphX blockchain.
+
+SS TRIX * V TRIX = P TRIX * GMV T
+Where,
+
+SS TRIX
+
+represents the total supply of TRIX tokens which is a constant at 10,000,000,000 TRIX tokens
+
+V TRIX
+
+represents the velocity of TRIX tokens
+
+P TRIX
+
+represents the price of TRIX tokens
+
+GMV T
+
+represents the total Gross Merchandise Value of in-game items being traded P2P on TriumphX
+
+Through the equation above, the core driver of the price of TRIX token would result from the Gross
+Merchandise Value of all transactions that occur on the TriumphX blockchain. The greater the size of each
+transaction and larger volume of trading that arises from deep liquidity of P2P trading, we can expect the
+price of TRIX token to increase, ceteris paribus.
+
+Another key driver of the price of TRIX token is based on the velocity of TRIX token. As a payment token, the
+velocity of TRIX token is expected to be higher at the start when the ecosystem is less mature. However,
+with time and as more companies onboard with TriumphX to become validators, there will be an increase in
+TRIX tokens being used for staking to gain beneﬁts from being an ecosystem partner. Additionally, as
+trading volume increases, the sellers of NFTs will need to stake more tokens as collateral to tokenize their
+in-game items for trading. With an increase in trading volume and liquidity, more TRIX tokens will be needed
+to enable the trading, further reducing the velocity of TRIX tokens and driving up the price of TRIX tokens,
+ceteris paribus.
+
+23
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+Partnerships
+Ekkorr Inc.
+
+Ekkorr is a game development company that was founded in September 2011 in Korea. Most members are
+the experts that have ten years of the development experience over. They have been developing and
+operating the total of nine games including Endless Frontier, Tiny Conquerors etc. The development team
+has a deep understanding of the operation of games through their seven-year experience in launching
+several successful titles.
+
+Through the partnership with Ekkorr, we expect that there will be a lot more DApps and game service
+providers onboarding with the collaboration to launch games on the TriumphX Blockchain. The founder of
+Ekkorr, Shin Myung-yong, who is popular in Korean game development community, intends to build his next
+game on the TriumphX platform. The new game is titled “Endless Defence” and will be designed to be
+integrated with TriumphX.
+Due to the global nature of gaming where users are located globally, there have been a lot of
+inconveniences such as diﬀerent currency rates when trading items, however, through TRIX, you can trade
+items more eﬃciently and conveniently.
+
+24
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+Endless Frontier
+
+Endless Frontier Global IP achieves over 30M accumulated downloads, and over 70B KRW (58M USD) in
+accumulated sales
+- Easy IP access with a global fandom base
+- Distinguished SNS functionalities with emojis, auto translation, mini-games, and etc.
+- Multilingual service for global market
+- Intuitive UX for easy participation
+
+iOS
+
+Android
+
+22%
+
+23%
+16%
+
+Korea
+
+<EF Downloads by OS>
+
+25
+
+US
+
+11%
+Japan
+
+7%
+China
+
+6%
+Taiwan
+
+Others
+
+<EF players by country>
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+Metal Slug Inﬁnity
+
+Popular arcade game METAL SLUG is back as an IDLE RPG!
+Battles with unique characters and combat vehicles are now at your ﬁngertips!
+All the characters and Slugs from the Metal Slug franchise are here!
+- MARCO, TARMA, ERI, and FIO from previous Metal Slug games
+- Defend against waves of Rebels, Guerrillas, Aliens, Mummies, and Zombies.
+- Don't forget about P.O.W, they'll repay you with powerful weapons if you save them
+
+The game has more than 1,000,000+ downloads on the Google App store with an average rating of 3.9
+stars based on a total of 30,000+ reviews.
+
+26
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+Endless Frontier Defence
+
+Endless Frontier Defence is a new concept for idle defence RPG games using intellectual property from the
+popular Endless Frontier!
+- Early game: Defend against incoming waves of enemies that grows stronger!
+- Mid game: Build your kingdom and recruit legendary heroes that can level up to become stronger, and
+secure additional territories to build your kingdom’s economy!
+- Late game: Massive PvP environment against other players and strategize on how you can defend your
+kingdom while attacking other players for resources!
+
+Endless Frontier Defence builds upon the years of experience that we have accumulated at EKKORR and our
+success at building games such as Endless Frontier with more than 30million downloads.
+The game is designed with blockchain integration in mind and we have created a sustainable and viable
+economic system for in-game items that can be attained in the game, while maintaining a fun and diverse
+gaming experience with content such as campaigns, exploration, tower of challenges, arena battles,
+invasions, hall of heroes and much more!
+The game is also designed to be social with ease of communication among players to facilitate community
+building and trading of items.
+
+27
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+Korea Mobile Game Association (KMGA)
+and Korea Blockchain Contents Association (KBCCA)
+TriumphX has signed a Memorandum of Understanding (MoU) with KMGA and KBCCA on
+29 July 2020.
+The purpose of the MoU is to cooperate for the successful launch of the TriumphX
+blockchain-based decentralised P2P trading exchange for the trading of in-game items
+that has been tokenized on the blockchain.
+The signed MoU also aims to popularize the use of blockchain-based games and to
+accelerate the commercialization of such games.
+
+28
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+Team Members and Advisor
+Myungyong Shin - Co-Founder
+•
+•
+•
+•
+•
+
+B.S. in Computer Engineering, KAIST (Korea)
+M.A. in Seoul Nat’l Univ.
+CEO, Ekkorr Co., Ltd.
+Recipient of Presidential Award for Export in Game Industry
+Idle Game “Endless Frontier” Developer
+
+Young-Han Byeon - Co-Founder
+•
+•
+•
+•
+•
+
+B.S. in Computer Engineering, Seoul Nat’l Univ. (Korea)
+Vice President, EF Games
+Analyst, Daewoo Securities
+Investment Examiner, Next Venture Investment
+Investment director, Platinum Technology Investment
+
+Young- il Moon - Co-Founder
+• TGXC Founder
+
+Jae-woong Shim - Co-Founder
+• TGXC Founder
+
+29
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+Soohyung Lee - CEO
+•
+•
+•
+•
+•
+•
+
+Graduate School of Journalism and Mass Communication, Yonsei University
+Chief Director, E-business Dept., Daum Communication
+CEO at Tour Express
+Founder and CEO, Namu Communications
+Center Head in Busan and Kyungnam, Kakao
+3rd President of Korea Association for Social Contents’ Development (KASCO)
+
+Richard Lee - Head Manager
+•
+•
+•
+•
+
+Graduate School of Economics, Yonsei Univ.
+Asset Management, Hana Futures
+Derivative Management Team 1, Hana Financial Investment Co., Ltd.
+Strategic Business, Hanhwa Investment & Securities
+
+Seong-uk Choi (ZEUS) - Project Manager
+• CEO, Cowincomfunny Co., Ltd.
+• Developed HFT-DMA trading algorithm
+• In charge of COINZEUS development
+
+Yong-gil Ham (ZEUS) - Development Team Manager
+•
+•
+•
+•
+
+30
+
+CTO, Cowincomfunny Co., Ltd.
+Developed HealthCare Embedded Core
+Developed SWs for trading ﬁrms
+In charge of COINZEUS backend
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+Phil-jong Kim (ZEUS) - Frontend Developer
+•
+•
+•
+•
+
+CEO, ENFactory
+Developed solar power generation system
+Developed SWs for trading ﬁrms
+Developed COINZEUS front
+
+Nam-kyu Choi (ZEUS) - Engineer
+
+• Developed HealthCare Embedded Core
+• Developed SWs for trading ﬁrms
+• Developed front end of COINZEUS
+
+Sung-hee Noh - Crypto Planning Team Manager
+
+• Managed advanced IT convergence game projects at KOCCA
+(The Korea Creative Content Agency)
+• Managed convergence smart content projects at NIPA
+(National IT Industry Promotion Agency of Korea)
+• DGE platform planning
+
+Candice Kim - Digital Marketing Head
+
+• B. A. in Visual Communication Design, Dankook Univ., Korea
+• Digital marketing planning and design for company SNS and blog
+• Web designer at Creative Comms Co., Ltd.
+
+31
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+Yu-mi Oh - Main Web Designer
+
+• Design multiple token branding and crypto exchange
+and application interfaces
+• BX/UIUX Designer (present)
+
+Hye soo Jang - Web Designer
+
+• DH International Web designer
+• TGEX Web/BX Designer (present)
+
+Ahreum Han - Crypto Planning Team Assistant Manager
+• Part of the domestic overseas sales department
+• In charge of English Translation at DGE (present)
+
+Hyeryeong Li - Crypto Planning Team Assistant Manager
+• Japan Tezukayama University BA graduate
+• Shanghai Toyota-Boshoku Sales/Operation Planning Division
+• In charge of Japanese / Chinese Translation at DGE (present)
+
+32
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+Sung-ik Hwang - Advisor
+•
+•
+•
+•
+•
+•
+
+President, Korea Mobile Game Association (present)
+President, Korea Blockchain Contents Association (present)
+Council Head, Busan Indie Connect Festival, (present)
+Co-head, National Assembly Korea Game Forum (present)
+Head, Indiecraft KGF (present)
+Advisor, Sinwon Law Firm (present)
+
+Hoon Baik - Advisor
+
+• Jim Beam Chicago HQ, Triumph Motorcycle UK, Publicis One,
+Philip Morris International and Hyundai Motor Company
+Global Company Design Project
+• Hyundai Motors Genesis branding
+• Responsible for graphic design and marketing production
+at Digital Gold Exchange
+
+Nitesh Thakur - Marketing Advisor
+
+33
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+Team Members and Advisor
+Se-won Yun - Game Producer
+•
+•
+•
+•
+•
+
+B.S. in Computing, KAIST (Korea)
+CTO, Ekkorr Co., Ltd.
+Developed and operating Endless Frontier
+Developed and operating Tiny Conqueror
+Developed and operating Puzzle Fantasy
+
+Hyeon-Yong Choe - Game Producer
+•
+•
+•
+•
+•
+•
+•
+
+B.S. College of Engineering, Seoul Nat’l Univ. (Korea)
+M. A. College of Engineering, Seoul Nat’l Univ. (Korea)
+Producer, Ekkorr Co., Ltd.
+Developed Endless Frontier
+Developed TouchTag & Signage Platform
+Developed Tiny Conqueror
+Developed Smart TV motion sensing 3D game
+
+Ji-Hun Jeon - Game Producer
+
+• B.S. in Industrial Management, KAIST
+• Developed Endless Frontier
+• Developed and operating Metal Slug Inﬁnity
+
+Jae-Ha Choe - Game Producer
+•
+•
+•
+•
+
+34
+
+B.S. in Electrical Engineering, KAIST (Korea)
+Developed and operating Endless Frontier
+Developed and operating Tiny Conqueror
+Developed and operating Puzzle Fantasy
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+Hong-Seok Choe - Game Producer
+•
+•
+•
+•
+•
+•
+
+B.S. in Computer Engineering, Seoul Nat’l Univ. (Korea)
+Ekkorr Co., Ltd. (present)
+NCSoft (previous)
+Developed V4
+Developed Tale Seeker
+Developed Lineage II
+
+Sang-Won Jeong - Game Producer
+•
+•
+•
+•
+•
+•
+•
+
+35
+
+B.S. in Mechanial and Aerospace Engineering, Seoul Nat’l Univ.
+B.A. in Business Management, Seoul Nat’l Univ.
+Ekkorr Co. Ltd. (present)
+Gameville (previous)
+Developed <Autopuzzle Defense>
+Business operation of <Grimm Notes>
+Investment Management of IDLE Idea Factory Co., Ltd.
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+triumphx.io
+Suite 3, Global Village, Jivan’s Complex,
+Mont Fleuri, Mahe Seychelles
+help@triumphx.io
+
+©2020 - White Paper - TriumphX - All Rights Reserved
+
+
