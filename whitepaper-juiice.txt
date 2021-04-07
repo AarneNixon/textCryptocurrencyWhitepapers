@@ -1,0 +1,613 @@
+Influence for a better world
+
+Whitepaper v1.6
+ERC20 TOKEN
+
+www.juiice.io , www.juiice.com
+April 2019, Juiice Ltd (last updated May 2020)
+
+“MAKE SOME EXTRA JUIICE”
+SOCIAL MEDIA PLATFORM
+
+Juiice can be used in many sentences
+“power of influence” - he’s got real juice in this town
+“money” - earn some extra juice, so we can buy a new car
+“power” - my phone is out of juice
+“gossip” - she just told me some serious juice about her “
+purchase or investment money” - you’ve got juice for that?
+
+JUIICE.COM
+
+SOCIAL MEDIA SHARING PLATFORM
+JUIICE is dApp enabled website & mobile app
+DaPP = decentralized application
+Front End > Smart Contract > Blockchain
+
+Juiice Ltd. Wickhams Cay II, Road Town, Tortola VG1110, British Virgin Islands , Registration #: 2011211
+
+Disclaimer and Risk Disclosure
+PLEASE READ THIS ENTIRE SECTION AND DO NOT TAKE ANY ACTIONS UNTIL YOU FINISH IT
+
+The purpose of this white paper is to present a summary of Juiice’s business model and value
+proposition and introduce the Juiice crowdsale for potential token purchasers in connection
+with the proposed token sale. The information set forth below may be changed for any reason,
+it may not be exhaustive, and it does not imply any elements of a contractual relationship. The
+sale and purchase of JUI tokens will be managed and governed by selected Token Sale Provider
+(The Exchange), its policy and Terms of Sale.
+If you are in any doubt as to the action you should take, you should consult your legal, financial,
+tax or other professional advisor(s), immediately navigate away from the Juiice website, and not
+contribute to the development of Juiice.
+This white paper does not purport to be all-inclusive or contain all the information that you may
+desire when examining the project. This white paper’s sole purpose is to provide you with
+relevant and reasonable information for you to determine whether to undertake a thorough
+analysis of the project and the company with the intent of acquiring JUI tokens. PURCHASE OF
+JUI TOKENS INVOLVES A HIGH DEGREE OF RISK AND YOU SHOULD NOT SPEND ANY FUNDS
+IN THIS SALE UNLESS YOU CAN AFFORD TO LOSE THE ENTIRE AMOUNT SPENT. Please refer
+to the Terms of Sale for a more comprehensive list of the possible risks concerning the JUI
+token purchase. All information and content provided in this white paper are to be used on an “
+as is” basis. In deciding to purchase JUI tokens, you must rely on your examination of the project
+and the terms thereof, including the merits and all different risks involved. Before deciding on the
+purchase of JUI tokens, you should consult your legal, financial, tax or other professional advisor
+(s) as to all matters concerning this purchase, and carefully review and consider this white paper
+in its entirety. You and other prospective token purchasers are encouraged to ask questions
+about Juiice, its business, and the Terms of Sale of the crowdsale, and to request such data as
+may be necessary to enable you to make an informed purchase decision.
+Nothing in this whitepaper, on the Juiice website or in Terms of Sale will be deemed to
+constitute a prospectus of any sort or a solicitation for investment, nor does it in any way pertain
+to an offering or a solicitation of an offer to buy any securities in any jurisdiction. If you decide to
+purchase JUI tokens, please note that your purchase does not involve the exchange of
+cryptocurrencies for any form of securities, investment units and/or form of ordinary or other
+shares in Juiice or any other company. Furthermore, you as a JUI token holder do not receive
+any form of a dividend or another revenue right that is guaranteed or participate in profit sharing
+scheme nor receive any right of ownership in Juiice Ltd. or any right to participate in the
+management of Juiice Ltd. It is for these reasons that we believe that JUI tokens are not
+securities and may be purchased by anyone. This document is not composed in accordance
+with and is not subject to, laws or regulations of any jurisdiction that are designed to protect
+purchasers.
+No regulatory authority has examined or approved of any of the information set out in this
+whitepaper. No such action has been or will be taken under the laws, regulatory requirements
+or rules of any jurisdiction. The publication, distribution or dissemination of this whitepaper
+does not imply that the applicable laws, regulatory requirements or rules have been complied
+with. No financial information contained in this whitepaper has been audited.
+
+Disclaimer and Risk Disclosure
+PLEASE READ THIS ENTIRE SECTION AND DO NOT TAKE ANY ACTIONS UNTIL YOU FINISH IT
+Juiice, its founders, team members and any third party involved in the Juiice project do not
+warrant or assume any legal liability arising out of or related to the accuracy, reliability, or
+completeness of any material contained in this whitepaper or any accompanying material or
+statements. To the maximum extent permitted by the applicable laws, regulations and rules,
+Juiice, its founders, team members, and any third party involved in the Juiice project will not be
+liable for any indirect, special, incidental, consequential or other losses of any kind, in tort,
+contract or otherwise (including but not limited to loss of revenue, income or profits, and loss
+of use or data), arising out of or in connection with any acceptance of or reliance on this
+whitepaper or any part thereof, or any accompanying material, statements or information
+provided on the Juiice website by you.
+All statements, estimates, and financial information contained in this white paper, on the Juiice
+website, in press releases, or in any other place accessible by the public, including oral
+statements that may be made by Juiice, its founders, team members, and any third parties
+involved in the Juiice project and acting on behalf of Juiice, that are not statements of
+historical fact, constitute forward-looking statements or information. Such forward-looking
+statements or information involves known and unknown risks and uncertainties that may
+cause actual events or results to differ materially from the estimates or the results implied or
+expressed in such forward-looking statements. These statements may be identified by words
+such as “expect”, “target”, “anticipate”, “intend”, “plan”, “estimate”, “will”, “should”, “could”, “would ”,
+“if”, “may”, “possible”, “project” or other words of similar meaning or form. However, these words
+are not the exclusive means of identifying forward-looking statements.
+The law in certain jurisdictions may restrict or limit the sale and purchase of JUI tokens. The JUI
+tokens are not being offered or distributed to, as well as cannot be resold or otherwise alienated
+by their holders to, citizens of, natural and legal persons, having their habitual residence,
+location or their seat of incorporation in the country or territory where transactions with digital
+tokens are prohibited or in any manner restricted by applicable laws or regulations. If such
+restricted person purchases JUI tokens, such restricted person has done so on an unlawful,
+unauthorised and fraudulent basis and in this regard, will bear negative consequences. Persons
+above that participate in the fundraising by providing false information about their citizenship,
+residency place and nationality, will breach the Terms of Sale of JUI tokens and would have to
+compensate any damages and/or losses suffered due to this violation. You agree that you
+purchase, receive and hold the JUI tokens at your own risk and that JUI tokens are provided on
+an ‘as is’ basis without warranties of any kind, either express or implied. It is your responsibility
+to determine if you are legally allowed to purchase JUI tokens in your jurisdiction and whether
+you can then resell JUI tokens to another purchaser in any given jurisdiction. You bear the sole
+responsibility for determining or assessing the tax implications of your participation in the
+crowdsale, purchasing, or receiving and holding JUI tokens in all respects and any relevant
+jurisdiction. You represent and warrant to us that the contributed funds do not derive from any
+illegal activity and allow us appropriate Anti-Money Laundering (AML) Checks. You understand
+and accept that we may at any time and without any explanation reject any contribution on the
+basis of simple suspicion that the funds derive from illegal acts or that AML regulation was not
+honoured.
+This white paper may be updated or altered with the latest version of the white paper prevailing
+over previous versions. Juiice is not obligated to give you any notice of the fact or content of
+any changes. The latest version of the white paper in English is available at the website https://
+juiice.io/. However, there is no obligation to update, supplement, or correct this white paper or
+accompanying materials in any respect, or otherwise to provide you with access to any
+additional information. The information contained herein may from time to time be translated
+into languages other than English or used in the course of written or verbal communications
+with existing and prospective token purchasers, customers, partners, etc. In the event of any
+conflicts or inconsistencies between such translations and communications and this official
+English language white paper, the provisions of this English language original document will
+prevail.
+
+Intro
+People are creative by default , and this attribute gets fresh wind with each
+new medium . Internet , together with other modern technologies , gave
+creativity wings like nothing before. Not only everyone can express himself in any
+imaginable way, his work can be easily seen all around the globe. This gave birth to a
+completely new form of art: viral user-generated digital content.
+This art includes just about anything imaginable , from breathtaking photos of nature
+and video performances of various talents to trendy jokes , funny clips and original
+thoughts . On the other side , every moment tens of millions viewers are amused ,
+amazed and even enlightened by this snack content . It is like a free fast food of
+entertainment.
+We set Juiice as an art gallery of viral micro content , which will both entertain visitors
+and encourage authors to spread their creativity , their talent , their sense of humor ,
+their interesting way of thinking . No superpowers or extra skills are required for
+participation, it can be just a silly dog photo or a simple meme.
+We think users are valuable resource of any platform , but exploited without proper
+compensation . On our platform , anyone can participate with contributing and
+spreading not only to the top few celebrities with millions of followers and receive
+reward for their participation . It doesn 't matter where you live , the blockchain
+technology enables the whole world to be properly rewarded. Blockchain is perfect for
+rewarding content creators through smart contracts!
+.
+Curious? Creative? Juiice is the answer.
+
+Mladen Babić, CEO
+
+“Our purpose is “Rewarding Philosophy”, so we’re making the tool,
+where you receive rewards for interactions you’re now doing for free!
+Users are a valuable resource for any platform and are exploited
+without any proper compensation!”
+
+1
+
+Challenge
+There is an abundance of online exhibitions of interesting , amusing user
+generated content , from forums to designated apps . We all visit them and
+through a decade this has become a multi -billion business . Sites like
+Facebook , Youtube , Instagram , Twitter , 9Gag , Quora , Tumblr , Ranker ,
+WikiHow are getting richer and richer because of our involvement , our
+uploaded photos , our jokes , our likes , and our shares . This kind of activity
+usually doesn’t get any commission.
+
+User attention does not get rewarded
+With current popular platforms and apps, people that make the sites big and popular
+are not rewarded for it. Those sites are cashing in huge amounts of money
+accumulating from ads, direct sales, etc. We believe that it’s the people who make
+those sites big that should be rewarded . User’s involvement is the most valuable
+resource, for which every advertiser competes, but it is exploited without any proper
+reward participation.
+
+Sharing should be paid
+Online marketing is based on visits that drive sales. So it is fair to say that nowadays
+traffic is one of the most important components. But so far directing traffic to these
+sites is free . For example , the most popular activity on social media is sharing
+meaningful posts, funny videos, and interesting photos. We are all doing it regularly,
+hence promoting those sites, but without anything in return.
+
+Only some content creators are paid
+It is easy to make content, but a lot of creators of micro-content aren’t paid at all. All
+those cat memes, fantastic photos, silly videos and jokes we all laugh at and admire
+every day are made for free . Same goes for numerous good articles and useful
+reviews. Even many influencers and bloggers get demonetized or their channels get
+closed down, because of different rules that are applied selectively.
+
+‘’Every problem has a solution. You just have to be creative enough to find it.’’
+- Travis Kalanick, co-founder of Uber’’
+
+2
+
+Solution
+Juiice is on a mission to remunerate content creators,
+influencers and even casual users for their involvement - a
+service they provide to the network.
+Write your thoughts , capture and share your moments , upload an image, spread a
+video , and earn money doing it. We are going to share the advertisement revenue
+amongst our active community, so everyone will be motivated to contribute to quality
+content . And we are not stopping at that ! Our platform will also give the user a
+chance to directly remunerate other content authors and even to be paid while playing
+casual web games.
+With Juiice platform and application , everyone will be able to cash -in the time and
+potential from those sites and apps they use the most . Everyone has something to
+show to the world, community or friends, everyone has a question, everyone laughs at
+silly videos , everyone needs a famous quote . Everyone connects with other people
+around the world. 2019/2020 will be the years of micro-influencers from all over the
+world.
+
+3
+
+Market potential
+We 're tapping into a huge market that grows daily , where competition is
+already very hard and big . But with an empowering and simple idea and
+unique rewarding algorithm, we can become a major player too. Furthermore,
+we will work hand in hand with them, using their big network to direct traffic
+to our platform. Our users will share Juiice content all over other established
+sites and receive a remuneration based on the traffic they bring in. We even
+believe that many of them will follow our steps.
+
+There are nearly 4.4 billion internet users around the world. Around 3.4 billion people
+use social media. Almost everyone owns a smartphone, laptop, PC or tablet. Social
+media sites and video sites are booming and the majority of internet traffic consists
+of video content and images. Not only our devices but ‘WE’ are online 24/7. We wake
+up and immediately check emails and messages, browse through news and social
+happening. Before we even get to our work, we already spend half an hour getting all
+forms of information from everywhere and everyone.
+
+By the end of 2020, 90% of internet traffic will consist of video content. With
+video on demand services , streaming video games, animated gifs, pictures ,
+messaging and advertising revenue worldwide there are billions of dollars
+turning around . In the past 5 years , there was a rapid average growth of
+internet traffic for 15-20% yearly . While traditional television is stagnating
+and the percentage of old school TV viewers is constantly decreasing ,
+streaming video is gaining momentum.
+
+4
+
+Some of those sites are hiding their ad revenue, some publicly show their reports. So
+here are the numbers we have found on the internet. 2018 was the year of Facebook
+, leading with close to 60 billion dollars of revenue, following Youtube with just above
+20 billion dollars. Instagram is growing and Facebook bets on it big time. So we're
+diving into a big market!
+
+Sources: statista.com
+
+Did you know that in Asia, Africa and South America lives about 3 billion people who
+are between 14 and 40 years old? Majority of those people own a smartphone .
+These emerging countries have the biggest potential, following the already big base
+of social media users from North America and Europe.
+It's a perfect time to jump in and present people a chance to make money from
+online involvement on the Juiice platform. History favors the bold, and we are here to
+make the change.
+
+5
+
+Our users
+Micro influencers & already known influencers
+Influencers are sort of pop stars on the internet due to their strong presence on social
+media . They have a lot of followers and subscribers , and can influence a certain
+group of people. They are the ones who bring the biggest user attention by uploading
+their videos, pics, music, quotes, etc...
+
+Content creators:
+Content creators are anyone who make videos, take pictures , photoshop a meme,
+create music or write a blog. They are making jokes, spreading the word, showing
+interesting hobbies and skills. Juiice is what they need to monetize their work, sense
+of humor and talents.
+
+Social media users:
+There are billions of people that use social media networks and sites. Use them and
+start getting rewards with your connections , followers, friends, etc. If you don't have
+anything to upload , then you can share the content and spread the word. You will be
+remunerated for that too!
+
+Gen Z, gen Y, and gen X
+We will mostly target GEN Z (born in mid-1990 to mid-2000s) and GEN Y (known as
+millennials, early 1980s to mid-1990s). We believe these two groups will change the
+market as we know it. Generation X (born in the 1960s to the early 1980s) is not be
+our top targeted generation, however they will use our platform and app for sure.
+
+Why target gen Z and gen Y?
+They are our future! They are looking for new ways of expressing and making money!
+They grew up with the internet , they know how to handle smartphones , they think
+differently than older generations . For example , Gen Zs who are watching social
+videos each month is 40 percent above average for using online sources to research
+products. They also are influenced by social reviews, admitting that lots of “likes” and
+positive comments on social media motivates them to make a purchase.
+2019/2020 will be the years of micro-influencers and entrepreneurs and they will
+use every tool possible on the market, that can bring them the same extra
+revenue.
+6
+
+Platform features
+Juiice ecosystem is made up of users , content creators and advertisers . The
+platform takes a small part of advertising revenue, but the rest goes to the active
+community . Our business model empowers micro influencers and normal social
+media user to work with Juiice closely and finally get compensated for their
+presence and casual activities online.
+
+Free user account
+Anyone that register at Juiice platform become our Juiice user. The account is free
+and can do any function platform offers: add content, share content, do daily tasks
+and unlock extra features, reward your favorite content creator and support any listed
+charity.
+
+Juiice Power Account (remuneration account)
+This account unlocks power features . For adding or sharing content , you receive
+remuneration - as a payment for service provided to our network. Users unlock power
+account with 1000 JUI tokens. Unlock is needed in order to prove commitment and to
+avoid fake accounts spreading inappropriate content . Tokens can be either purchased
+or received from other users as a reward.
+
+Gamification in a fun way
+Juiice account will also feature gamified system apart from money rewarding
+scheme . For every action, including liking and commenting , users will be awarded
+with Juiice Pulp. Juiice Pulp is not redeemable , but it will raise users ‘pulp-level’ and
+give them badges and ranks, hence motivating them to be actively involved.
+
+Donation feature
+Inside your remuneration account , you can set to donate certain percent from your
+account to confirmed and proven charities or campaigns that will be published on our
+platform. This will be taken care by smart contracts.
+
+7
+
+Influencers tools
+Juiice will have various influencer tools, where advertisers can hire an influencer or
+publish a call out to influencers, so they can apply for their campaigns and pay them in
+Juiice tokens.
+
+Daily queue bonuses
+There will be daily quests, such as watching ten trending videos, sharing something
+over Facebook and getting likes on your comments . These ‘dailies’ will be awarded
+extra features and bonuses.
+
+Invitation bonus
+Through our referral program members will be encouraged to invite others to join
+Juiice, because they will receive share from their earnings.
+
+8
+
+JUIICE Token
+Juiice is creating the social media and entertainment platform for today ’s
+generation , inspiring more culturally rewarding , trusted , and value-driven social
+engagement. As a social media platform, we aim to bring people and communities
+together, and connect them to relevant content and opportunities while enabling
+every single user to monetize the value of their online activity.
+Juiice is creating the social media and entertainment platform for today’s generation,
+inspiring more culturally rewarding, trusted, and value-driven social engagement. As a
+social media platform, we aim to bring people and communities together, and
+connect them to relevant content and opportunities while enabling every single user
+to monetize the value of their online activity.
+The fundamental principle behind the Juiice ecosystem is that all participants should
+be financially motivated to create, share, post or like online content and share value
+with each other. The ecosystem itself consists of users, content creators, influencers,
+advertisers and app developers – all connecting and transacting with each other
+through a network of decentralized communities.
+Juiice’s main source of revenue comes from advertising, where 60% of the revenue
+will be used to remunerate platfrom users for their engagement with the platform
+content (liking, sharing and commenting; for such engagement they will be
+remunerated in JUI tokens), while the remaining 40% will fund the operational costs
+and furthure development.
+
+To quickly establish the ecosystem during the initial stage and encourage early user
+adoption , Juiice will set a remunerate pool of JUI tokens to kick-start growth through
+user acquisition , while rewarding content creators and active users for their
+contributions. YES, Juice is about to monetise all your social media activity, even “likes”
+and “shares” of valuable content.
+
+9
+
+JUI is a true utility token that will power Juiice social media platform, grant access to
+powerful platforms’ features and be used to reward Juiice’s active users:
+• Juiice Remuneration Account – Juiice proprietary algorithm measures and analyses
+user ’ s activity , such as uploading and sharing of the content , and determines the
+appropriate remuneration for each contribution based on the number of views, shares
+and likes.
+• JUI is the only way to receive remunerations in the Juiice platform for
+performed services (activities) in the network.
+• JUI token enables in-app purchases, such as virtual goods, to pay other users
+( such as influencers) other users or grant access to new apps supported by the
+platform.
+• JUI token powered donations, encouraging charities to engage with platform’
+s users to help the needy.
+• Juiice Market Place and Direct Advertising, allowing users and influencers to
+promote their products and bring traffic to their websites in exchange for JUI tokens
+.
+• Connecting influencers and advertisers - No more agencies’ cuts. JUI tokens will
+be held in the escrow until both parties are satisfied with their agreement and each
+site fulfils its obligations.
+
+Juiice and Blockchain
+Juiice is creating a decentralized social media platform and rewarding
+mechanism powered by Ethereum blockchain. JUI will be implemented on the
+public Ethereum blockchain as an ERC20 token. The Ethereum blockchain is
+currently the industry standard for issuing custom digital assets and smart
+contracts. The ERC20 token interface allows for the deployment of a standard
+token that is compatible with the existing infrastructure of the Ethereum
+ecosystem, such as development tools, wallets and exchanges. The public
+Ethereum network will serve as the settlement layer for JUI tokens, allowing for
+transfers, purchases of virtual assets and reward distribution to be made directly
+on the blockchain. Smart contracts will automatically execute transaction
+payments and the distribution of rewards without the participation of a third-party
+intermediary. Moreover, Juiice will use smart contracts, allowing advertisers to set
+their own requirements and preferences. Once the influencer agrees with the
+advertiser’s offer, the terms will be written into the smart contract, which will then
+be sealed with a timestamp and put onto the blockchain. When it comes to
+payments, one of the biggest advantages of using the blockchain technology in
+the advertiser-influencer relationship is the ability to offer an escrow. Both the
+advertiser and the influencer should be motivated to successfully fulfil contract
+obligations by placing a deposit in JUI tokens. This deposit is released to the
+Advertiser (as a payment) only after the service is rendered, forcing both parties to
+respect their contractual obligations.The platform will encourage and reward third
+party developers who will deploy and promote new decentralized applications.
+10
+
+Token Sale Summary
+General Information: JUIICE - JUI
+• Juiice token (Ticker: JUI) is a fully compliant ERC-20 utility
+token
+• Total number of JUI Tokens that will be generated during the
+Token Generation Event: 50,000,000,000 JUI
+• No additional tokens will be created in the future and all tokens,
+not sold in the Token Sale, will be destructed.
+• Total number of JUI tokens reserved for Token Sale (the
+Private and Public Sale): 30,000,000,000 JUI (60 %)
+• Minimum sum of contributions (soft cap): 1,000,000 USD
+• JUI token price: 1 JUI = 0.0002 USD*
+* Subject to change during the Public Token Sale and in accordance with Terms of Sale
+of the nominated exchanges.
+For the purposes of participating in the token sale, all crowdsale buyers will need to
+undergo a know-your-customer (KYC) procedure as required by applicable KYC/AML
+laws and regulations.
+Buyers from particular jurisdictions (including, but not limited to the United States ,
+Canada and Singapore) as specified in the terms and conditions of the Juiice token
+crowdsale (published on our website www.juiice.io) will not be eligible to participate in
+the token sale.
+
+11
+
+Total number of generated JUIICE Tokens: 50,000,000,000
+• 60% of tokens will be sold in the ICO to secure funds for further product
+develop- ment, operations and international expansion
+• 10% of tokens will be given to early early stage supporters, true believers,
+who showed a lot of trust and provided rocket fuel for our idea
+• 10% of tokens is reserved for Juiice Foundation.
+• 7% of tokens will be awarded to our advisors and ambassadors that helped
+the project with their knowledge and expertise
+• 6% of tokens will be held by project founders and the rest of the team that
+helped to bring the project to life with their hard work and dedication
+• 4% of tokens is intended for the initial stocking of the bounty pool to award
+contributors, who help build and curate our database of entities
+• 3% of tokens will be added to Juiice.com remuneration pool
+
+Vesting Plan for the Team, Advisors and Ambassadors
+All tokens belonging to founders will be reverse vested for 24 months with
+monthly cliffs.
+
+12
+
+Total number of generated JUIICE Tokens: 50,000,000,000
+• 40% Marketing
+• 20% Product Development
+• 15% Administrative and operational cost
+• 15% Business development
+• 5% Legal cost
+•5% IT infrastructure
+
+13
+
+Roadmap
+We will share wisdom and the joy of giving!
+Decentralizing and rewarding people for spending time on our
+apps and platforms!
+
+Q2 2019
+
+-POC (proof of concept)
+
+Q3 2019
+
+-MVP (minimum viable product)
+
+Q4 2019
+Q1 2020
+- Gamification added to Juiice
+platform
+- Features: create groups,
+open promo pages, Juiice
+learning school
+
+- Working web platform
+- Closed private pre-sale (10
+% of tokens)
+
+Q2 2020
+
+-App released on google play and
+apple store
+- Live streaming for users
+
+Q3 2020
+-IEO (initial
+exchange
+offering)
+- Token
+transaction infromation
+platform
+- Expansion of
+features on platform
+- Tools for micro
+influencers
+
+Q4 2020
+
+-Integration of AR (
+augmented reality) features
+- Own games added top
+Juiice platform
+Cooperation with online
+celebrities/influencersl
+- Juiice chat rooms
+- Juiice photo & video lab
+
+14
+
+Team
+
+MLADEN BABIĆ
+
+ZOKKI REHAR
+
+IGOR ŠINKOVEC
+
+CEO
+
+COO
+
+CSO
+
+JUNIOR PRESEZNIAK
+
+DAVID TOMŠIČ
+
+Senior Developer
+
+Editor in Chief
+
+SILVO FORTUNA
+Community Manager
+
+SANJA BABIĆ
+
+ANURAG SINGH
+Sr. iOS Developer
+
+GOPAL GUPTA
+Sr. Android Developer
+
+Content Manager
+
+HIMANSHU YADAV Sr.
+NodeJS Developer
+
+15
+
+Advisors
+
+OŽBEJ DRMOTA
+IEO & Blockchain Advisor
+
+DARYL NAIDOO
+IEO & ICO Advisor
+
+MALLIKARJUNA NAIDU
+Blockchain Advisor
+
+HADI DEEN
+Social Media Advisor
+
+ROBERT GAZVODA
+IEO & Startup Advisor
+
+NIKOLA KORBAR
+Crypto Advisor
+
+TILEN ČUK
+Gamification Advisor
+
+ANŽE ŽURBI
+Gamification Advisor
+
+VIVIAN CHEANG
+Brand Ambassador
+
+ROEL DE LEEUW
+Brand Ambassador
+
+16
+
+Partners
+
+Contact us: wm@juiice.io
+
+17
+
+

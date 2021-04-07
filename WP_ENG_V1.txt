@@ -1,0 +1,1850 @@
+WHITE PAPER
+©EFFORCE - All rights reserved - efforce.io
+
+Important considerations
+Important:
+This document is confidential and by accepting delivery of this document, you agree to keep
+confidential all information contained herein. The document is a marketing document and is not
+intended to be legally binding. Nothing in this document shall be deemed to constitute a prospectus
+of any sort or a solicitation for investment, nor does it in any way pertain to an offering or a
+solicitation of an offer to buy any securities in any jurisdiction. The information in this document
+does not constitute a recommendation by any person to purchase EFFORCE tokens or any other
+cryptographic token or currency and neither the Issuer (EFFORCE Limited) has authorized any
+person to make any such recommendation.
+Restricted Persons.
+The sale of EFFORCE tokens is not directed at, and each purchaser of EFFORCE tokens will be
+required to represent, among other things, that they are not: (a) a citizen, resident (tax or otherwise)
+of, a person located or domiciled in, or any entity organized in or owned by certain persons in
+(i) the United States (including any U.S. Person pursuant to the U.S. Securities Act of 1933 (as
+amended)), (ii) Canada, (iii) any jurisdiction listed by the Financial Action Task Force as high-risk or
+with strategic deficiencies; (iv) Cuba, Democratic People’s Republic of Korea (North Korea), Iran,
+Pakistan, Syria, the Government of Venezuela or Crimea or (v) any jurisdiction for or in which the
+sale of EFFORCE tokens, or any offer or solicitation in respect of EFFORCE tokens, would require
+registration or licensing not obtained by the Issuer or otherwise would be unlawful or which restricts
+or licenses the activities of the kind that can be accessed or used with EFFORCE tokens; or (b) a
+person under the age of 18 years (any such person falling under (a) and (b) a “Restricted Person”).
+In addition, each purchaser of EFFORCE tokens will be required to represent that such purchaser
+is outside of the United States at the time of agreeing to purchase the tokens, was outside of the
+United States at the time any offers to sell or any offers to buy the token were reviewed, and will
+be outside of the United States at any time that such purchaser performs its obligations under the
+Token Purchase Agreement. Consequently, you must make your own assessment as to your ability
+to purchase EFFORCE tokens pursuant to laws applicable to you and to confirm that you are not a
+Restricted Person. No registration or other action has been or will be taken in any jurisdiction that
+would, or is intended to, permit the sale of EFFORCE tokens in any country or jurisdiction where
+registration or other action for that purpose is required. None of the Issuer or any of their respective
+agents or representatives, is making any representation to any potential purchase of EFFORCE
+tokens as to the legality of a purchase of EFFORCE tokens by such purchaser under the laws
+applicable to such purchaser.
+
+Important considerations
+
+2
+
+Purchaser Sophistication.
+EFFORCE tokens are speculative and involve a high degree of risk and uncertainty. The sale of
+EFFORCE tokens is aimed solely at persons who have sufficient knowledge and understanding
+of blockchain and cryptographic tokens and other digital assets, smart contracts, storage
+mechanisms (such as digital or token wallets) blockchain-based software systems and blockchain
+or distributed ledger technology, to be able to evaluate the risks and merits of a purchase of
+EFFORCE tokens and are able to bear the risks thereof, including loss of all amounts paid and loss
+of EFFORCE tokens purchased. Potential purchasers must further make their own independent
+assessment, after making such investigations as they consider necessary, of the merits of, and
+their suitability for, purchasing any EFFORCE tokens and should consult their accounting, legal and
+tax representatives and advisers in order to evaluate the economic, legal and tax consequences of
+purchasing EFFORCE tokens.
+Forward-Looking Statements.
+Certain statements contained in this document may constitute forward-looking statements or
+speak to future events or plans. Such forward-looking statements or information involve known and
+unknown risks and uncertainties, which may cause actual events to differ materially. No reliance
+should be placed on any such forward-looking statements or information.
+Private Presentation.
+This White Paper is being delivered only to selected persons, and not through any general
+solicitation or general advertising. You may not, nor are you authorised to, deliver or disclose the
+contents of this document to any other person. No person is authorized to provide any information
+or to make any representation not contained in this White Paper or in the Token Purchase
+Agreement. No person or entity other than the Issuer is authorized to sell, resell, or distribute the
+EFFORCE tokens on behalf of the Issuer or any of its affiliates.
+Purchasers of EFFORCE tokens, or any interest therein, from any person or entity other than the
+Issuer are not entitled to rely upon this White Paper or the Token Purchase Agreement.
+Risk Factors.
+Purchasing the EFFORCE tokens entails risks and purchasers could lose their entire purchase
+amount. Certain risks are described in the Token Purchase Agreement
+
+Important considerations
+
+3
+
+Table of contents
+Abstract
+
+05
+
+1. 		
+
+Introduction
+
+10
+
+1.1 Energy Efficiency
+
+10
+
+1.2 The E.S.CO. Model and EPC
+
+14
+
+EFFORCE
+
+17
+
+2.1 The Problem of Energy Efficiency
+
+17
+
+2.2 Vision: EFFORCE
+
+18
+
+Business Model
+
+20
+
+3.1 Energy Saving Tokenization
+
+20
+
+2. 		
+
+3. 		
+
+3.2 The Role of the Blockchain
+and the Energy Performance Smart Contract
+
+21
+
+3.3 Contributor, Saver & Consumer
+
+24
+
+3.4 Using the Energy Performance Smart Contract
+
+25
+
+3.5 Using Token for Energy Efficiency
+
+27
+
+3.6 Business Case
+
+28
+
+Token Sale
+
+31
+
+4.1 Token Function
+
+34
+
+4.2 Token Distribution
+
+37
+
+5. 		
+
+Team
+
+38
+
+6. 		
+
+Road Map
+
+45
+
+6.1 First Steps
+
+45
+
+6.2 Teen Age
+
+52
+
+6.3 Growth Age
+
+53
+
+4. 		
+
+4
+
+“True innovation is one that
+improves people’s lives”
+Steve Wozniak
+Apple Co-Founder
+EFFORCE Co-Founder
+
+Abstract
+
+5
+
+8 years of experience
+in energy efficiency.
+We helped more than
+2000 clients save more than
+$700 million in energy costs.
+AitherCO2 is an Energy Service Company with offices in
+Milan, London, Dakar and San Francisco.
+
+$ 700M
+Saved
+
+2000
+Clients
+
+6
+
+Abstract
+
+EFFORCE is a
+blockchain-based
+energy saving trading
+platform.
+The platform brings together those who want to improve the energy efficiency of their buildings or
+industrial processes with a pool of contributors interested in being repaid in tokens representing the
+energy savings achieved thanks to efficiency improvement projects.
+
+Abstract
+
+7
+
+The Energy Efficiency market is a complex financial system.
+Thanks to EFFORCE this market will become easily accessible to everyone for the first time.
+The linking between the financing partners and those in need of investments to improve the energy
+efficiency of their structures is made possible by Energy Service Companies (E.S.Co).
+Through Energy Performance Contracts (EPC), these structured companies are able to generate
+returns on initial investments: energy efficiency translates into savings in bills for the beneficiaries.
+The EFFORCE platform solves the three main problems of the energy efficiency market: the
+difficulty of putting contributors and Savers in contact, the size of the investments required and the
+type of financial return.
+Through EFFORCE, energy saving financed by the contributor (Contributor) is tokenized and used
+or sold to energy-intensive consumers (Consumers), who can thus stop paying their bills, forever!
+
+“
+
+The first Blockchain platform that allows
+you to participate and benefit from worldwide
+energy efficiency projects.
+
+Abstract
+
+8
+
+In the last 10 years, the
+energy efficiency market
+has reached a value of
+$241 billion, with growth
+of 10% per annum.
+According to a study published by the International Energy Agency (IEA), investments in energy
+efficiency increased by 9% in 2017.
+This growth rate remained constant and in the same year the energy efficiency market reached a
+record value of USD 241 billion.
+
+$ 241
+Billion
+
+Abstract
+
++10%
+Per annum
+
+9
+
+1. Introduction
+
+1.1 Energy efficiency
+In energy engineering, the term energy efficiency indicates the ability of a physical system to
+obtain a given result using less energy than other so-called “lower efficiency” systems, generally
+increasing the yield and thus allowing energy savings and a reduction in operating costs.
+More than 68% of the energy used in the world is NOT covered by an efficient energy standard
+and the system within which it is used could be made more efficient. Just consider that most of the
+growth in the demand for energy coming from the cooling of habitable environments takes place in
+those parts of the world where there is no regulation to support the energy saving process.
+Technological innovation is creating new opportunities for progress in terms of efficiency.
+Digitization is profoundly changing the energy sector, just as innovation begins to have a significant
+impact on energy efficiency.
+In 2016, the world continued to generate more and more value from its energy consumption. In
+the same year, the global Energy Intensity, i.e. the amount of primary energy demand needed to
+produce a unit of gross domestic product (GDP) generated, decreased by 1.8%, resulting in a socalled “energy bonus” of USD 2.2 trillion. This is twice the entire Australian economy.
+
+1.1 Energy efficiency
+
+10
+
+OECD
+GDP
+
+Energy demand
+
+Energy intensity
+
+250
+
+200
+
+150
+
+100
+
+50
+2000
+
+2004
+
+2008
+
+2012
+
+2016
+
+Non OECD
+GDP
+
+Energy demand
+
+Energy intensity
+
+250
+
+200
+
+150
+
+100
+
+50
+2000
+
+2004
+
+2008
+
+2012
+
+2016
+
+Sources: Adapted from IEA (2016a) World Energy Outlook 2016; and IEA (2017a),
+World Energy Statistics and Balances 2017 (database), www.iea.org/statistics.
+
+1.1 Energy efficiency
+
+11
+
+The energy efficiency system
+is deeply changing the way
+we consume energy.
+Consider that from 2000 to date, the world would have consumed 12% more energy without energy
+efficiency. A figure that equates to turning off Europe for a year.
+
+-12%
+2000
+
+2018
+
+Not only that: in addition to environmental benefits, improving energy efficiency also leads to
+increased security. In fact, many countries have avoided additional expenses and risks related to
+energy imports.
+
+1.1 Energy efficiency
+
+12
+
+Thanks to the energy
+efficiency achieved:
+From 2000 to 2016, Japan imported 20% less oil and 23% less natural gas than it would have done
+in the same period without energy efficiency interventions.
+Germany and the United Kingdom, which correspond to the largest gas markets in Europe, have
+achieved a reduction in imports of natural gas from Russia equal to 30% of the European total.
+Short-term energy security has improved, as energy efficiency has reduced the daily gas demand
+peak. This means that imports have not been reduced on an annual basis, but in the periods of
+greatest demand.
+
+Japan
+
+-20%
+oil
+
+-23%
+
+natural gas
+
+1.1 Energy efficiency
+
+Germany and
+the United
+Kingdom
+
+-30%
+
+natural gas
+
+13
+
+1.2 The E.S.Co model
+and the EPC
+EFFORCE is a blockchain-based energy saving trading platform.
+The platform brings together those who want to improve the energy efficiency of their buildings or
+industrial processes with a pool of contributors interested in being repaid in tokens representing the
+energy savings achieved.
+This method of implementing the energy efficiency market for the first time makes a particularly
+complex energy-financial system simple and accessible.
+Thanks to EFFORCE any economic entity that wishes to implement solutions on its energy
+systems, be they industrial processes or buildings, will be able to negotiate part of its energy
+savings directly with Consumers or Contributors. Through the tokenization of the energy saved, it
+will be possible to guarantee liquidity and extend access to capital investment.
+To optimize the cycle of financing and access to capital, EFFORCE allows the tokenization of
+energy savings.
+It represents a contractual mechanism between companies that want to improve the efficiency
+of their processes and energy consumers. The proposed model is the same as that of Energy
+Service Companies (E.S.Co) which, through Energy Performance Contracts (EPC), manage to
+obtain positive economic returns against an initial investment in energy efficiency projects.
+This contractual form makes it possible to channel financial investments into projects for the
+redevelopment and performance improvement of an energy system, be it an industrial plant or a
+building, owned by a third party (Beneficiary).
+The value of energy savings deriving from the intervention is shared between the
+E.s.Co, which made the investment and implemented the redevelopment process, and the
+Beneficiary. The E.s.Co uses its own energy saving quota to make a return on the investment,
+while the Beneficiary sees its energy expenses decrease.
+Energy Performance Contracts allow the savings deriving from lower energy consumption to
+be divided between the party that improved the performance of the efficiency- improved energy
+system (the E.s.Co) and the party benefitting from the energy efficiency intervention
+(the Beneficiary).
+
+1.2 The E.S.Co model and the EPC
+
+14
+
+The way it works is extremely linear from a financial point of view, but decidedly
+more complex from a technical-implementation point of view:
+
+1
+
+Before carrying out an energy efficiency
+project, any entity that owns an energy system
+pays its bill to a private or
+state-owned supplier of electricity and gas.
+
+2
+
+The E.S.Co evaluates the energy systems
+owned by the Beneficiary and implements
+them, in order to invest its financial resources
+in redevelopment interventions or energy efficiency improvement of plants
+or buildings.
+
+3
+
+For the entire duration of the contract, the
+Beneficiary pays a part of the energy savings
+generated to the E.s.Co. This gives a return on
+the initial investment.
+
+1.2 The E.S.Co model and the EPC
+
+15
+
+4
+
+At the end of the contract, the Beneficiary can
+take full advantage of the savings and the technology installed.
+
+5
+
+The financial investment is fully borne by the
+E.S.Co. The Beneficiary obtains an immediate
+guaranteed reduction of energy costs and, at
+the end of the contract, benefits from a new
+and already installed efficiency improvement
+intervention.
+
+The greater the energy savings obtained by the Beneficiary, the greater the returns for the Esco
+and the Contributors, since the savings generated are the actual financial performance of the initial
+investment.
+
+Therefore, the goal is common:
+using and managing the plant in the best way
+possible to maximize its advantages.
+
+1.2 The E.S.Co model and the EPC
+
+16
+
+2. EFFORCE
+
+2.1 The problem
+of energy efficiency
+If one thinks of the constant increase in the demand for energy, the construction of power plants
+and chimneys often comes to mind. Many do not consider that it is much cheaper and more
+ecological, on the other hand, to reduce energy consumption.
+Unfortunately, however, access to the energy efficiency market is hampered by a number of
+factors, including:
+•
+
+The high initial costs. Accessing a complex energy efficiency system requires a minimum
+investment of 200,000 euros.
+
+•
+
+The need for technical knowledge of the functioning of energy systems and smart meters to
+monitor the energy savings achieved.
+
+•
+
+The lack of trust and a meeting place between those who need to implement the investment to
+improve the energy efficiency of their structure and those who actually want to invest in order to
+obtain alternative returns.
+
+•
+
+The inability of one of the parties to evaluate in a technical manner the actual savings
+achievable thanks to the efficiency improvement intervention.
+
+•
+
+The limited technical knowledge of the sector on the part of financial institutions, which are
+not able to calculate the returns on the investments made. Moreover, the E.S.Cos do not have
+access to the capital channel as a financial institution.
+
+•
+
+Uncertainty on the pay-back period of the investment.
+
+Addressing these problems is necessary, also in view of reaching the economic development
+defined by the World Bank, which aims to guarantee access to sustainable, reliable, and modern
+energy for all. One of the salient points of this development will be to double the overall rate of
+energy efficiency improvement by 2030.
+
+2.1 The problem of energy efficiency
+
+17
+
+2.2 Vision: EFFORCE
+EFFORCE is the first blockchain-based platform that connects the demand and supply of energy
+efficiency investments.
+Through EFFORCE, anyone wishing to attract investments to make energy improvements to their
+buildings or industrial processes can easily do so by registering their request on the platform.
+The EFFORCE team will validate the request and develop, together with the company, the energy
+efficiency improvement project, evaluating the necessary investment, the annual internal rate of
+return (IRR) and thus concluding an Energy Performance Contract (EPC).
+For example, for the energy redevelopment of an industrial shed, it may be necessary to:
+•
+
+Replace the lighting system.
+
+•
+
+Insulate the walls and roof.
+
+•
+
+Improve the heating and cooling system to make it suitable for the needs of the building,
+exploiting and recovering as much as possible the heat cycle generated by the production
+process itself, through heat recovery.
+
+An intervention of this magnitude could lead to an IRR of 38% on the investment for the 7-year
+duration of the EPC contract.
+It may be that the company does not have the technical knowledge to implement these solutions,
+or that it does not want to access the banking channel in order not to increase its debt exposure
+towards banks. Or the company may even want to share its renovation intentions with its
+customers, involving them in the corporate image improvement project.
+To overcome these problems, the company can use EFFORCE to look for the necessary
+crowdfunding to proceed with the energy redevelopment projects, in exchange for sharing the
+savings generated.
+
+2.2 Vision: EFFORCE
+
+18
+
+All those wishing to invest in energy efficiency projects through a secure and decentralized
+blockchain-based system will also have access to EFFORCE.
+The role of the blockchain is fundamental, since it guarantees the integrity and uniqueness of the
+energy saving data obtained. The data that each smart meter will transmit will be validated and
+certified by the blockchain, so as to be able to unequivocally guarantee the savings obtained at a
+certain point in time and, therefore, the quantity of KWh saved which will be loaded on the user
+profile of the contributor (the so-called “Contributor”).
+The energy savings of each contributor will be tokenized and can be used both to offset energy
+consumption and to be traded.
+
+“
+
+EFFORCE will allow each Contributor
+to be an active part of an E.S.Co that works with
+qualified counterparties, in order to obtain energy
+savings to be sold or used to reduce the costs
+of their energy bill.
+
+2.2 Vision: EFFORCE
+
+19
+
+3. Business Model
+
+3.1 Energy Saving
+Tokenization
+The main objective of any economic entity interested in improving the energy efficiency of its
+systems, be their industrial processes or buildings, is to optimize its cash flows.
+EFFORCE allows such entities to rapidly be connected with those who are interested in purchasing
+the energy savings resulting from the implementation of such projects, without the use of equity.
+Through the tokenization of the energy saved, a liquid and transparent market is created,
+guaranteed by the blockchain and accessible to all.
+To optimize the cycle of financing and access to capital, EFFORCE tokenizes energy savings.
+Tokenizing energy savings represents a contractual mechanism between companies that want to
+improve the efficiency of their processes and the community.
+The innovative tokenization model has been clarified by the European regulator. It is structured as
+a reward-based crowdfunding, where Contributors are rewarded with free energy savings that they
+can keep, sell or use to offset their energy consumption.
+The EFFORCE platform was built to change the way energy savings are generated and
+redistributed globally. After years of experience in the energy efficiency market, the EFFORCE
+team was able to identify its limits.
+First, the enormous waste of energy due to the lack of an efficient system. Just consider that the
+energy demand for cooling habitable environments is greater in those parts of the world that lack
+regulation to support energy efficiency processes.
+The second problem is the difficulty in bringing together capital and the energy saving sector. The
+high number of intermediaries and parties involved even only partially in the efficiency process
+is the cause of the increase in implementation costs, pay-back periods and even delays in the
+physical execution of projects.
+
+3.1 Energy Saving Tokenization
+
+20
+
+3.2 The role of the
+blockchain and the
+Energy Performance
+Smart Contract
+Through EFFORCE, energy end Consumers can participate in tokenized energy savings.
+Thanks to the control system and data certification guaranteed by the blockchain,
+EFFORCE has created the first Energy Performance Smart Contract.
+Each EFFORCE token holder will be granted with the access with priority to the energy savings
+projects that will be listed in the platform, contributing to the spreading of energy efficiency on a
+global scale. Each project will have a wallet in which the amount of KWh saved from that project
+will be accrued. In this way each token will accumulate the KWh of energy saving achieved.
+These savings derive from the efficiency improvement projects with high financial returns carried
+out by reliable industrial and commercial partners.
+
+Through a global network of connections, the data indicating the energy savings is recorded and
+guaranteed by control units, such as smart meters, already widely used for calculating the energy
+efficiency achieved.
+This is a way of tracking both the work carried out and the result obtained in an unequivocal and
+timely manner.
+
+3.2 The role of the blockchain
+
+21
+
+The transparency and reliability of the blockchain, in addition to clarifying a system currently
+characterized by information asymmetry, involves the community, involving it in the efforts and
+results related to the various efficiency improvement projects financed.
+An Energy Performance Smart Contract guarantees the savings obtained over a certain period of
+time of a specific energy efficiency project.
+The energy savings generated become a tangible asset in the hands of token holders, who may
+decide to sell them or use them to reduce their electricity bills. Furthermore, 1% of the energy
+savings obtained in this way and certified by the Energy Performance Smart Contract are donated
+and distributed among all EFFORCE Contributors, thus increasing the value of their tokens also at
+a nominal level.
+
+“
+
+In other words, through EFFORCE,
+the energy savings of a third party are
+tokenized and can be used by everyone.
+
+3.2 The role of the blockchain
+
+22
+
+Efforce securitizes
+energy savings.
+This is the innovation that can revolutionize
+the energy efficiency market.
+
+3.2 The role of the blockchain
+
+23
+
+3.3 Contributor, Saver
+and Consumer
+There are 3 players involved in the EFFORCE platform: Contributor, Saver and Consumer.
+The Contributors are those who access the auction mechanism through the EFFORCE platform
+to purchase the future savings generated by efficiency improvement projects and guaranteed by
+smart contracts. The tokens held will give priority to the investment.
+The Savers are the owners of industries, transport systems, buildings and other energy systems
+that benefit from efficiency improvement projects and use part of the energy savings obtained to
+their advantage, thus reducing the need to purchase energy.
+The Consumers are those who want to buy the energy savings generated by third parties to offset
+and ultimately eliminate their electricity bills.
+Furthermore, at least 1% of all energy savings obtained are donated and redistributed
+among all EFFORCE token holders forever!
+
+This allows energy
+savings (and not energy)
+to circulate among
+the Savers and the
+Consumers.
+
+3.3 Contributor, Saver e Consumer
+
+24
+
+3.4 Using the
+Energy Performance
+Smart Contract
+All holders of EFFORCE tokens will be able to take part in the efficiency improvement projects
+in which they invest through the subscription of Energy Performance Smart Contracts, which
+represent the saving of 1 KWh of energy saved at a given future time.
+Through smart contracts, certified savings allow Contributors to hold tokens representing the
+savings generated. In this way, the company is able to sell the energy savings that can be obtained
+in advance, thus financing the implementation of the efficiency improvement on its production plant
+or on its residential building.
+Each energy efficiency project proposed by Savers must contain the following information:
+
+1
+
+The costs
+
+2
+
+The percentage of savings shared with Contributors
+through the Energy Performance Smart Contract
+
+3
+
+The duration of the Energy Performance Smart Contract
+
+4
+
+The amount of savings generated
+
+5
+
+The duration of the auction period
+
+6
+
+The intrinsic return of the operation
+
+3.4 Using the Energy Performance Smart Contract
+
+25
+
+In this way, each Saver in possession of EFFORCE tokens can participate in these auctions to
+invest in Energy Performance Smart Contracts and thus accumulate the savings obtained.
+Furthermore, at least 1% of all energy savings obtained are donated and redistributed among all
+EFFORCE token holders forever!
+The Contributors will have the right to access the auctions to support innovative energy efficiency
+projects, obtaining in return the energy savings generated. They can also decide whether to use
+them to reduce their consumption, or to sell them to Consumers, who will have significant interest
+in buying the savings of others, rather than paying their energy costs. The order of access to
+new efficiency improvement projects and the consequent collection of the related energy savings
+depend on the number of tokens held by the Contributor.
+
+“
+
+Furthermore, at least 1% of all energy savings
+obtained are donated and redistributed among
+all EFFORCE token holders forever!
+
+3.4 Using the Energy Performance Smart Contract
+
+26
+
+3.5 Using Token
+for Energy Efficiency
+Each token represents an Energy Performance Smart Contract, which guarantees the savings
+obtained over a certain period of time, thanks to a specific energy efficiency project.
+The energy savings generated become a tangible asset held by token holders, who may decide to
+sell them or use them to reduce their electricity bills.
+Tokens representing energy savings can therefore be used to reduce their energy costs.
+Through the wallet, the energy savings obtained over time can be kept and spent to reduce their bill
+whenever the price of electricity is such as to be convenient for offsetting.
+Moreover, all Consumers can purchase energy savings to offset their energy costs. In fact, it will be
+increasingly viable to improve the energy process of an inefficient system and to enjoy part of the
+savings obtained, rather than paying the high energy costs.
+
+3.5 Using Token for Energy Efficiency
+
+27
+
+3.6 Business Case
+AitherCO2 funded the intervention concerning the installation of blended winglets on twenty
+aircrafts of the fleet of an Italian charter operator with an EPC.
+Blended winglets are wingtip extensions that improve the performance of the aircraft by reducing
+induced drag and consequently reducing fuel consumption. The induced drag decreases as the
+speed of the aircraft increases, since it is the result of the shape of the advancing vehicle.
+Part of this induced drag stems from the lift generated by the wings. The static pressure above
+the wing is lower than that under the wing. The pressure is equal only at the ends of the wings,
+provided that the profile allows the total air pressures above and below the wing to be equalled.
+
+The profile of the classic wing is specifically designed to allow this event in the direction of motion,
+but at the tip it does not allow the reunification of the two flows in a homogeneous manner,
+creating turbulence and, consequently, an increase in induced drag. This requires additional work
+on the engines to bring the aircraft to the correct flight speed and height, thereby increasing fuel
+consumption.
+Blended winglets reduce induced drag, making it easier to move the aircraft and decreasing the
+effort of the engines, which will be able to reach the same speed and flight altitude as a similar
+aircraft without winglets, saving fuel consumption.
+
+3.6 Business Case
+
+28
+
+An aircraft with blended winglets is able to save 8% of Jet A1 Fuel compared to an aircraft without
+them.
+The measure of the energy savings derives from the difference in specific fuel consumption before
+and after installation of the blended winglets. This data is obtained by default from the on-board
+instrumentation, since it is essential to prepare the flight plan and decide the amount of fuel to be
+loaded.
+The company has a fleet of 20 Airbus A380s. The tank capacity is 350 tons of Jet A1 Fuel each for
+a total of 7000 tons of Jet A1 consumed each time the fleet is filled up.
+
+With 2 fills per week and an estimated
+JET A1 cost of USD 1000/ton, the
+customer’s annual savings during the
+first two years of execution of the EPC
+contract amounted to USD 220 million
+and saved the environment 2.3M tons
+of CO2.
+
+3.6 Business Case
+
+29
+
+The EPC contract has a duration of 5 years and the cost of the operation was USD 100 million,
+with an annual IRR of 50%.
+
+YEAR 0
+
+YEAR 1
+
+YEAR 2
+
+Cost
+
+45.000.000
+
+-
+
+-
+
+Tons
+
+350
+
+350
+
+350
+
+A380
+
+20
+
+20
+
+20
+
+Total tons of full tanks
+
+7.000
+
+7.000
+
+7.000
+
+Cost of JET A1r
+
+1.000
+
+1.000
+
+1.000
+
+Cost of full tank
+
+7.000.000
+
+7.000.000
+
+7.000.000
+
+8%
+
+8%
+
+8%
+
+525.000
+
+525.000
+
+525.000
+
+104
+
+104
+
+104
+
+Cost of full tanks per year
+
+728.000.000
+
+728.000.000
+
+728.000.000
+
+SAVING on full tanks per year
+
+58.240.000
+
+58.240.000
+
+58.240.000
+
+SAVER 40% of saved energy in eur
+
+23.296.000
+
+23.296.000
+
+23.296.000
+
+Contributor 40% of saved
+energy in KWh
+
+67.208.960
+
+67.208.960
+
+67.208.960
+
+582.400
+
+582.400
+
+582.400
+
+Energy Efficiency
+SAVING
+Number of full tank
+
+Sharing 1% of saved energy in eur
+
+3.6 Business Case
+
+30
+
+4. Token Sale
+The Summary below describes the principal terms of the EFFORCE tokens. Certain terms and
+conditions described below are subject to important limitations and exceptions.
+Prospective purchasers should review the entire Token Purchase Agreement, available from the
+Issuer, including the risk factors stated therein.
+The summary below is qualified in its entirety by reference to the actual text of the Token
+Purchase Agreement. Capitalized terms not defined herein shall have the meaning ascribed to
+such term in the Token Purchase Agreement.
+EFFORCE Tokens are ERC20 Utility Tokens based on the Ethereum blockchain.
+The EFFORCE token might launch an IEO round after Private Placement. The number of tokens
+available during the IEO, if there is such an IEO round, will be decided after the Private Placement
+is over and the tokens will be released according to the lock-up rules.
+
+Overview
+Token Name
+Token Symbol
+Total WOZX Token Amount
+Emission Rate
+
+4. Token Sale
+
+EFFORCE
+WOZX
+1,000,000,000
+New token will never be created.
+
+31
+
+Purchase Price
+Nominal value of 1 coin
+
+decided through private placement
+
+New token will never be created
+
+Principles of Tokenomics
+
+Consumers initiate the fundraising for a particular energy efficiency project
+
+Contributors would participate with a stable coin into a specific energy efficiency project;
+their holding of EFFORCE tokens will be used as the criterion to decide the allocation of
+the contribution proportion of the project (e.g. on a pro-rata basis)
+
+Savers implement the energy efficiency projects with the raised capital
+
+The energy saving achieved from the projects will be mainly distributed to the Contributors
+and the Savers
+
+The interest stakes in the energy savings of the projects could be traded on the EFFORCE
+platform
+
+At least 1% of the total energy savings achieved from all the projects will be distributed to
+all EFFORCE Token holders
+Dual Token model (stable coin and EFFORCE token): The stable coin is used as project
+operating capital and the EFFORCE Token would function as a Utility token to represent
+the platform rights and incentives
+
+4. Token Sale
+
+32
+
+Issuance Key Facts
+
+ISSUER
+
+EFFORCE Limited, a Bahamas based company
+limited by shares, formed for the purpose of issuing
+EFFORCE tokens on behalf of its controlling entity
+EFFORCE Ltd, a Malta company.
+
+TOKEN
+
+EFFORCE, a utility token at the heart of the
+EFFORCE platform.
+
+PURCHASER ELIGIBILITY
+
+As set forth in the Token Purchase Agreement.
+
+USE OF PROCEEDS
+
+Proceeds may be used for working capital and
+general business purposes, including capital
+expenditures, operating expenses, repayment of
+indebtedness and other recapitalization activities.
+
+SALES DOCUMENTATION
+
+Purchase and sale of the EFFORCE tokens shall
+be on the terms and conditions set forth in a Token
+Purchase Agreement.
+
+TOKEN DISTRIBUTION
+
+Up to 1,000,000,000 Tokens will be issued by the
+Issuer. The Tokens will be sold in a private offering
+outside of the United States without the means
+of general solicitation or general advertising. Any
+Tokens that remain issued may be sold in the
+manner and times determined by the Issuer in its
+sole discretion.
+
+LOCK-UP
+
+4. Token Sale
+
+as decided in Private Placement
+
+33
+
+4.1 Token Function
+WOZX Role and its intrinsic value
+The EFFORCE Token (WOZX) is a Utility token that functions as the certificate of the energy-saving project initiation and cooperation by Consumers and Savers with EFFORCE.
+Tokens will be released according to the Lock-up policy.
+EFFORCE Token (WOZX) will function as the privilege qualification of well pursued energy-saving
+projects.
+e.g.: Contributors who want to take part in energy-saving projects on the platform may be required to lock 1 token for each 1 USDT of contribution. This mechanism would enjoy the potential to
+activate a huge market by certain locking requirement rate, such as 1 EFFORCE token:10 USDT,
+which of course would vary from project to project according to market situation and the decision of
+the project team.
+At least 1% of total energy savings achieved of all the projects will be distributed to all EFFORCE
+Token holders. The percentage could be adjusted as decided through the governance mechanism
+of EFFORCE platform.
+EFFORCE Token holders may use their tokens as rights and interests such as voting rights for the
+general governance, such as the ratio of redistribution of energy savings, etc.
+The token can be used to stimulate the whole platform ecology.
+
+4.1 Token Function
+
+34
+
+Incentives for mining
+According to the TOKEN DISTRIBUTION MODEL, up to 200,000,000 EFFORCE tokens (WOZX)
+will be used to incentivize the Contributors, the Consumers, the Savers and anyone who
+introduces, contributes to and takes part into the energy-saving projects on the platform.
+Mining is initiated when energy-saving projects are launched successfully and rewards will be
+degressive every year.
+The releasing plan is spanned in 10 years according to the following timeline:
+25% of the tokens allocated for incentives will be released in the first year, half of that amount during the second year and then degressively each year further.
+The principle for distributing incentives will depend on the nature of the incentive.
+Major partners, such as global energy saving institutions, savers, data auditing institutions and PR
+companies, will be eligible to receive MAJOR PARTNERS SING-UP INCENTIVE, once qualified
+cooperation agreement is achieved.
+This kind of incentive shall not represent more than 30% of the total amount of tokens released for
+mining every year.
+Contributors of the energy efficiency projects can receive the FUNDING PARTNERS
+CONTRIBUTION INCENTIVE. This kind of incentive shall not represent more than 70% of the total
+amount of tokens released for mining every year.
+
+4.1 Token Function
+
+35
+
+Token diagram
+The scheme below shows the role of the EFFORCE token and how it will affect the whole
+eco-system. The circulation of the Token is enhanced by the use of the Platform as a major tool for
+Energy Efficiency.
+
+The usage and tranding demand would increase with the scale-up of the quality projects. And EFFORCE token would
+appreciate accordingly. The core of the EFFORCE tokenomics is to attract more quality energy saving projects, and
+therefore to increase the value of the ecosystem and reduce the liquid token in the market, and to achieve the goal to
+increase energy eﬃciency for the whole planet.
+
+PROJECT A
+
+PROJECT B
+
+PROJECT “...”
+
+Expansion of the EFFORCE Ecosystem
+
+45%
+
+15%
+
+20%
+
+20%
+
+Private
+Placement
+
+Ecosystem &
+Consultans
+
+Project incentives
+/ R&D
+
+EFFORCE Ltd
+/ Malta
+
+Release continually
+according to be lock-in
+policy
+
+No more than 1.5% and
+released monthly
+
+No more than 5% and
+released annually
+
+No more than 1% and
+released annually, 20 years
+in total
+
+INCENTIVIZE THE EXECUTION
+
+SELL / BUY TOKEN
+
+OF EFFORCE ECOSYSTEM
+
+PLATFORM
+
+Secondary
+Market
+
+ENERGY
+
+ENERGY
+SAVINGS
+
+INVEST
+IN PROJECT
+
+SELL
+BUY TOKEN
+
+BUY TOKEN AND PAY
+TRANSACTION FEES
+
+Exchange
+Market
+
+Contributors
+
+SAVINGS
+
+Consumers
+
+INITIATE
+ENERGY
+SAVING
+PROJECTS
+UNDERTAKE
+PROJECTS
+
+Project initiators
+
+Savers
+Energy saving
+Companies
+
+SELL / BUY TOKEN
+
+36
+
+4.2 Token Distribution
+Private Placement
+
+45%
+
+EFFORCE Ltd
+
+20%
+
+Incentive for Mining
+
+20%
+
+Ecosystem and Consultants
+
+15%
+
+Incentives for mining
+Issuer may sell a maximum of 450,000,000 WOZX in Private placement according to lock-up policy
+Issuer may allocate up to 200,000,000 WOZX to EFFORCE Ltd (Malta) at a maximum rate of 1% a
+year as incentive for the whole ecosystem
+Issuer may allocate up to 200,000,000 WOZX as project incentive for mining.
+Mining is initiated when energy-saving projects are launched successfully and rewards will be
+degressive every year
+Issuer may allocate up to 150,000,000 WOZX as Incentive for establishing the energy saving ecoplatform, project development, team incentives, sales, marketing, etc.
+No more than 1.5% are released monthly.
+
+4.2 Token Distribution
+
+37
+
+5. Team
+Jacopo Visetti
+
+Project Lead / Co-Founder
+Jacopo is a pioneer in energy efficiency markets. After years of
+experience as a quantitative analyst, he founded AitherCO2, a
+leading company in the energy efficiency market. He is a visiting
+professor in several universities worldwide, regularly participates
+as a speaker at energy saving events and has consulted on
+environmental market mechanisms to Fortune 500 Companies
+and to the California State Senate. Jacopo graduated in Finance
+from the Cattolica University of Milan and in Macroeconomics
+from Harvard University.
+
+Steve Wozniak
+Engineer / Co-Founder
+
+Co-founder, Apple Computer Inc.
+A Silicon Valley icon and philanthropist for the past three
+decades, Steve Wozniak helped shape the computing industry
+with his design of Apple’s first line of products the Apple I and
+II and influenced the popular Macintosh. In 1976, Wozniak and
+Steve Jobs founded Apple Computer Inc. with Wozniak’s Apple
+I personal computer. The following year, he introduced his Apple
+II personal computer, featuring a central processing unit, a
+keyboard, color graphics, and a floppy disk drive.
+
+5. Team
+
+38
+
+Jacopo Vanetti
+CTO & Tech Expert / Co-Founder
+He started to program at 10 years of age.
+Combining his passion for programming with the desire to
+create, he became an entrepreneur and founded a software
+house in 2008 and in 2011 an online payment development
+company. In 2016 he was awarded the National Innovation
+Award by the President of the Republic, Sergio Mattarella.
+
+Sergio Carloni
+CEO
+
+Chief Executive Officer of AitherCO2 SpA, holding of the
+AitherCO2 group, he has years of experience as a senior
+executive manager for various companies. He teaches
+Corporate Management at the Master’s course of the
+Il Sole 24 Ore Business School, with a focus on credit
+management. With extensive knowledge of business and
+corporate management, Sergio is a consultant in many fields,
+including organisation, governance, compliance, administration
+and financial control. Thanks to the international experience
+gained in Europe, Switzerland and the United States, he is a
+consultant for banks and start-ups worldwide.
+
+5. Team
+
+39
+
+Ken Hardesty
+Co-Founder
+
+Kenneth Hardesty is an international technology manufacturing
+CEO/COO with a dynamic professional career in both private
+and public companies. At various time in his career, he
+has lived and worked in the US, Asia, India or Europe with
+local governments, accessing capital markets, and building
+shareholder/stakeholder confidence. As CEO, he has directly
+established sales and a global audience, establishing global
+manufacturing operations from start-up, to over seven thousand
+employees.
+As Cofounder and active Member of the Board of EFFORCE,
+Mr. Hardesty, provides guidance for strategic partnering
+opportunities, as well as contract manufacturing and licensing
+partners in Asia, India and worldwide.
+
+Corrado Catania
+Director
+
+After years of experience in structuring and trading financial
+products at BANCA IMI, in 2012 Corrado entered the
+environmental market sector. For AitherCO2 he handles deal
+origination operations on energy commodities, especially in the
+air transport sector.
+He holds a Master’s degree in Financial Mathematics from the
+Bocconi University.
+
+5. Team
+
+40
+
+Stefano Scozzese
+
+Head of Communication / Co-Founder
+Recognized as one of the most talented creative directors in
+Italy, Scozzese has made a profession out of his passion for
+design and his strategic vision. Creative Director for Andrea
+Bocelli since 2004, with his agency specializing in brand
+building, he has implemented Design & Communication projects
+for companies and brands of international renown such as
+Giorgio Armani, Disney and Samsung.
+In 2012 he received the award for the best creative director of
+the decade at the Italian Web Awards.
+In 2020 has successfully completed the Harvard Business
+School Certificate Program “Sustainable Business Strategy”,
+designed to enable business leaders to play a major role in
+building a just and sustainable world.
+
+Andrea Castiglione
+
+Investor Relations / Co-Founder
+Castiglione brings a heavily quantitative background into
+EFFORCE after focusing most of the past decade on
+researching network diffusion models and decision theory.
+He began developing financial trading and pricing algorithms
+from a young age to support investors worldwide in hedging
+their portfolios. With a broad experience in technology sector,
+Castiglione has been a key advisor to several international family
+offices and investment funds.
+
+5. Team
+
+41
+
+Anyu Chen
+
+Responsible for Asia
+A specialist in Economics and Innovation and Technology
+Management in the Energy Efficiency field, Anyu has
+years of experience in developing leading-edge projects and
+products in China, Dubai, Hong Kong and Europe. Currently she
+manages energy efficiency projects in Asia for AitherCO2. She
+holds an MSc from the Bocconi University.
+
+Federico Lattuada
+Responsible for EMEA
+
+After years of experience as a researcher in environmental and
+energy sciences, Federico became a partner of AitherCO2,
+where he is responsible for the issue of
+White Certificates (TEE) and the environmental market
+mechanisms. He graduated in Energy Markets from the Catholic
+University of Milan.
+
+Paola Mignuolo
+
+Corporate Clients Account Manager
+An expert in global energy efficiency markets, Paola is the
+reference person in Europe for the various energy efficiency
+protocols. She is Key Account Manager for AitherCO2.
+
+5. Team
+
+42
+
+Maurizio Castelli
+Risk Manager
+
+Co-founder of AitherCO2, he is in charge of the London office.
+He deals with the development of energy efficiency projects in
+California and in Africa. For AitherCO2, Maurizio manages the
+compliance and risk management department.
+
+Giulio Modorati
+EPC Expert
+
+After working in the Equity Capital Market team for RBS, Giulio
+completed numerous IPOs, both in Italy and abroad. He is a
+partner of AitherCO2, where he manages the financial aspects
+of Energy Performance Contracts and the White Certificates
+(TEE) market.
+
+Cristina Beggiato
+Communication PM
+
+Thanks to a solid experience in Marketing & Communication and
+a strong organizational ability, Cristina has managed numerous
+international projects of various types and complexity for the
+key clients of Scozzese consultant for banks and start-ups
+worldwide.
+
+5. Team
+
+43
+
+5. Team
+
+44
+
+6. Road Map
+
+6.1 First steps
+According to a study published by the International Energy Agency (IEA), investments in energy
+efficiency increased by 9% in 2017. This growth rate remained constant and in the same year the
+energy efficiency market reached a record value of USD 231 billion.
+More than 68% of the energy used in the world is NOT covered by an efficient energy standard
+and the system within which it is used could be made more efficient. Suffice it to consider that most
+of the growth in the demand for energy coming from the cooling of habitable environments takes
+place in those parts of the world where there is no regulation to support the energy saving process.
+
+For this reason, we want to make investment in energy efficiency fluid
+and accessible. In fact, the current system is hampered by a number
+of factors:
+•
+
+Need for a minimum investment of 200,000 euros to access a complex energy efficiency
+system.
+
+•
+
+Technical knowledge of the functioning of energy systems and smart meters to monitor the
+energy savings achieved.
+
+•
+
+The lack of trust and a meeting place between those who need to implement the investment to
+improve the energy efficiency of their structure and those who actually want to invest in order to
+obtain alternative returns.
+
+•
+
+Uncertainty on the pay-back period of the investment.
+
+•
+
+The limited technical knowledge of the sector on the part of financial institutions, which are
+not able to calculate the returns on the investments made. Moreover, the E.S.Cos do not have
+access to the capital channel as a financial institution.
+
+6.1 First steps
+
+45
+
+The first aim of EFFORCE is to build a platform that brings together supply and demand,
+simplifying the investment method and making it more secure. Thanks to EFFORCE, contributors
+will always have access to clear information on the IRR and the pay-back period of their
+investments.
+Thanks to the proceeds deriving from the Presale phase, EFFORCE can be the first platform for
+bringing together energy efficiency supply and demand.
+In this initial phase, the focus will be on engineering and building the foundations of the first
+decentralized energy efficiency platform. The initial phase will end as soon as it will be possible to
+invest and disinvest in energy efficiency projects.
+
+“
+
+EFFORCE eliminates these information
+asymmetries, making the investment
+process more transparent and accessible.
+
+6.1 First steps
+
+46
+
+Q1 2020: Finalizing Platform
+Development for Factories
+and Real Estate Projects
+The platform for bringing together supply and demand and the accounting of energy savings
+obtained from the energy efficiency interventions carried out will be operational starting from the
+first quarter of 2020.
+Until such time, all EFFORCE tokens will be able to be used to purchase environmental services
+and consultancy on energy efficiency at AitherCO2.
+AitherCO2 will put the first projects that can be implemented on the platform, in order to make the
+exchange platform operational also on the supply side.
+
+Among these projects, we would like to highlight two in particular:
+•
+
+Energy efficiency project on a dual 8.55MW industrial tri-generation plant located in Italy, with a
+total cost of 6,500,000 euros, with an annual IRR of 20% for 7 years.
+The term “tri-generation” refers to a particular form of cogeneration that involves the
+simultaneous production of three forms of energy starting from a single fuel:
+1. power
+2. heat
+3. cooling
+(CHCP = Cogeneration of Heat, Cooling and Power)
+
+6.1 First steps
+
+47
+
+Process definition:
+•
+
+Hourly consumption profiles of the plant for power, heating and cooling.
+
+•
+
+Definition of the process scheme and of the system solutions to optimize efficiency and
+flexibility.
+
+•
+
+Choice of the types of the main machines to be installed.
+
+•
+
+Definition and optimisation of the plant operating modes
+
+•
+
+Definition of the plant layout and of dimensioning of the building.
+
+•
+
+Civil and architectural design of the building
+
+Primary energy requirements of the plant:
+•
+
+Electrical requirement: 100,000 MWh
+MAX power: 22 MW
+HV delivery (132 kV)
+Operation with 2 x 16 MVA TRAFO
+
+•
+
+Heating requirement: 50,000 MWh
+Boiler room for the production of super-heated water at 135°C for the plant and the production
+cycle
+
+•
+
+Cooling requirement: 10,860 MWh
+MAX power: 9 MW
+Water cooled chiller groups for production
+
+6.1 First steps
+
+48
+
+Prospective return of the project:
+YEAR 0
+
+YEAR 1
+
+YEAR 2
+
+YEAR 3
+
+YEAR 4
+
+Cost of the project
+
+6,500,000
+
+Mainteinance cost
+
+130.000
+
+130.000
+
+130.000
+
+130.000
+
+130.000
+
+Saved Energy in eur
+
+2.701.871
+
+2.701.871
+
+2.701.871
+
+2.701.871
+
+2.701.871
+
+Saved Energy in KWh
+
+78.084.072
+
+78.084.072
+
+78.084.072
+
+78.084.072
+
+78.084.072
+
+SAVER 40% of Saved Energy in
+eur
+
+1.080.748
+
+1.080.748
+
+1.080.748
+
+1.080.748
+
+1.080.748
+
+Contributor 40% of Saved
+Energy in KWh
+
+31.233.629
+
+31.233.629
+
+31.233.629
+
+31.233.629
+
+31.233.629
+
+27.019
+
+27.019
+
+27.019
+
+27.019
+
+27.019
+
+Sharing 1% of Saved Energy in
+eur
+
+Energy redevelopment project for a hotel complex costing 1,350,000 euros located on the French
+Riviera (France), with an annual IRR of 15% for 5 years.
+The redevelopment project includes the renovation of a hotel complex consisting of 5 buildings, for
+a total of 600 rooms, belonging to a market leading chain of holiday villages.
+
+Definition of the efficiency improvement process:
+•
+
+Heating and cooling system, thanks to the installation of heat pumps in energy efficient class
+with the aid of solar thermal panels
+
+•
+
+0.55MW cogenerator for the SPA and wellness centre section for water heating
+
+•
+
+Smart system for accumulation and redistribution of energy consumed by the buildings
+
+•
+
+Complete renovation of the building envelope (thermal cladding and triple glazing)
+
+•
+
+Complete revamping of 12000 LED light points
+
+6.1 First steps
+
+49
+
+Primary energy requirements of the plant:
+•
+
+Electrical cooling requirement: 2,100 MWh
+
+•
+
+Heating requirement: 2,000 MWh
+
+•
+
+Energy requirement for hot water: 2,640 MWh
+
+•
+
+Electrical requirement: 6,600 MWh
+
+Prospective return of the project:
+YEAR 0
+
+YEAR 1
+
+YEAR 2
+
+YEAR 3
+
+YEAR 4
+
+Cost of the project
+
+1,350,000
+
+Mainteinance cost
+
+250,000
+
+250,000
+
+250,000
+
+250,000
+
+250,000
+
+Saved Energy in eur
+
+700,000
+
+700,000
+
+700,000
+
+700,000
+
+700,000
+
+8,990,000
+
+8,990,000
+
+8,990,000
+
+8,990,000
+
+8,990,000
+
+380,000
+
+380,000
+
+380,000
+
+380,000
+
+380,000
+
+3,596,000
+
+3,596,000
+
+3,596,000
+
+3,596,000
+
+3,596,000
+
+7,000
+
+7,000
+
+7,000
+
+7,000
+
+7,000
+
+Saved Energy in KWh
+SAVER 40% of Saved Energy in
+eur
+Contributor 40% of Saved
+Energy in KWh
+Sharing 1% of Saved Energy in
+eur
+
+6.1 First steps
+
+50
+
+To these projects will be added those of all the Savers interested in redeveloping their building or
+industrial complex in terms of energy efficiency, using crowdfunding to channel the investment
+through Energy Performance Smart Contracts.
+In this way, EFFORCE will also deal with regulating the supply side, evaluating and proposing
+efficiency projects to those interested in investing in an energy efficiency quota.
+
+Consumer side
+For Consumers interested in reducing their energy costs, EFFORCE will implement a marketing
+campaign in order to reduce its disbursements and channel the interest of small and large buyers
+to the market for the purchase of energy savings of others.
+
+Q3 2020: First Efficiency Project Completed and Beginning of Energy
+Efficiency Sharing
+
+6.1 First steps
+
+51
+
+6.2 Teen Age
+Increase the number of companies interested in receiving energy
+efficiency investments through EPC.
+In this second phase of geographical and sector expansion, marketing will be increasingly
+important, in order to implement energy efficiency projects on: transport, residential and tourism
+buildings and complex industrial processes.
+Imagine a production company, or simply any residential complex that wants to
+improve its energy consumption, attracting the capital needed from all over the world in
+cryptocurrencies or in fiat currencies, selling part of the savings obtained from the efficiency
+process.
+
+Q1 2021: Road and Marine Transport industry is added to the project
+platform
+Starting from the first quarter of 2021, we will be able to proceed with the improvement of energy
+efficiency of company fleets and shipyards.
+
+6.2 Teen age
+
+52
+
+6.3 Growth Age
+In this phase, the EFFORCE goal is to be recognised as the leading platform worldwide, in terms of
+both savings volumes obtained and number of registered users, able to support energy efficiency
+projects through the direct financing of a part of the project itself.
+Starting from 2026, we want to consolidate our global presence as the main platform bringing
+together supply and demand in the energy efficiency market.
+
+6.3 Growth Age
+
+53
+
+To register your interest please contact team@efforce.io.
+
+Thank You
+EFFORCE Ltd
+171, Old Bakery Street
+Valletta VLT 1455, Malta
+efforce.io | team@efforce.io
+54
+
+

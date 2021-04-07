@@ -1,0 +1,1079 @@
+PRiVCY WHITE PAPER
+Version 1.0
+
+OWN YOUR PRIVACY
+Prepared by: PRiVCY Team (August 2018)
+PRiVCY White Paper v 1.0 (August 2018)
+
+1
+
+ABSTRACT
+
+Traditional financial authorities such as Banks and Governments have always failed when it comes
+to the trust put in them by masses. In 2008, Lehman Brothers filed for bankruptcy, before which
+markets were performing well and global economies were booming, until one day suddenly Lehman Brothers fell, the financial system froze, and the world economy almost collapsed. Bitcoin
+despite claiming to have revolutionized the concept of peer to peer payment by eliminating the
+role of the intermediary from transactional activities still offers a transparent ledger, and thus, depriving users from the much-needed privacy. It is also evident that due to the huge load and too
+many transactions happening at a time, Bitcoin has been showing many signs of weakness such
+as: Sluggishness or more than usual time for transactions (even up to days in some cases), Higher
+Transaction Fee, Highly dependency on Pool System and Large Organizational Miners.
+Considering the huge potential crypto market has, and to facilitate the community with a cryptocurrency that is fully encrypted, private and efficient in the truest sense, our team of highly experience
+fintech specialists have carried out an extensive research and developed a modern age cryptocurrency called PRiVCY Coin. This white paper gives a detailed description of our research and planning. It also aims to demonstrate the current status and future plans of PRiVCY Coin ecosystem, its
+associated products and solutions such as PRiVCY E-Commerce Plugins, PRiVCY Messenger—A truly decentralized, encrypted and anonymous messenger, and PRiVCY Coin—the payment gateway
+within PRiVCY Coin ecosystem. It aims to inform our readers how we are using our teams’ expertise
+to provide decentralized financial services with full privacy at lower costs, minimal fee with higher
+speed, efficiency, and higher returns.
+
+PRiVCY White Paper v 1.0 (August 2018)
+
+2
+
+TABLE OF CONTENTS
+
+1
+
+Abstract
+
+p. 2
+
+2
+
+Disclaimer
+
+p. 5
+
+2.1
+
+Restrictions on distribution and dissemination
+
+2.2
+
+Risks and uncertainties
+
+3
+
+Background
+
+4
+
+Problem statement
+
+p. 10
+
+5
+
+Solution PRiVCY Coin
+
+p. 11
+
+6
+
+Introduction to PRiVCY Coin
+
+p. 12
+
+7
+
+Features of PRiVCY Coin
+
+p. 13
+
+8
+
+7.1
+
+Privacy
+
+7.2
+
+Faster Transaction Confirmation Time
+
+7.3
+
+Decentralized Governance
+
+7.4
+
+Enhanced Security
+
+7.5
+
+Easy Transactions
+
+7.6
+
+Enormous Potential
+
+7.7
+
+User Friendly and dedicated wallet
+
+7.8
+
+Portable
+
+7.9
+
+Utility and Acceptability
+
+Technical Architecture
+8.1
+
+PROOF-OF-WORK
+
+8.2
+
+Proof-of Stake
+
+8.3
+
+PRiVCY Coin Combining the best of both PoW and PoS
+
+8.4
+
+PRiVCY Coin Incentivized Staking
+
+8.5
+
+PRiVCY Mixing Protocol - Anonymity Enhanced
+
+8.6
+
+PRiVCY Messenger
+
+8.7
+
+PRiVCY Plugins for Ecommerce
+
+PRiVCY White Paper v 1.0 (August 2018)
+
+p. 8
+
+p. 16
+
+3
+
+9
+
+Specifications of the blockchain
+
+p. 23
+
+10
+
+Technical information of PRiVCY Coin
+
+p. 24
+
+11
+
+Marketing Policy
+
+p. 25
+
+11.1
+
+Use Community to Nurture Currency
+
+11.2
+
+Community Building Strategies
+
+11.3
+
+Attracting and convincing merchants
+
+12
+
+Roadmap for PRiVCY Coin
+
+p. 27
+
+13
+
+Funds Distribution
+
+p. 28
+
+PRiVCY White Paper v 1.0 (August 2018)
+
+4
+
+2 DISCLAIMER
+
+PLEASE READ THIS DISCLAIMER SECTION CAREFULLY. IF YOU ARE IN ANY DOUBT OF
+THE ACTION YOU SHOULD TAKE, YOU SHOULD CONSULT YOUR LEGAL, FINANCIAL,
+TAX, OR OTHER PROFESSIONAL ADVISOR(S).
+This document is a whitepaper setting out the current and future developments of the PRiVCY Coin Platform and PRiVCY Coin Ecosystem. This paper is for information purposes only
+and is not a statement of future intent. Unless expressly specified otherwise, the products
+and innovations set out in this paper are currently under development and are not currently
+in deployment. PRiVCY Coin makes no warranties or representations as to the successful development or implementation of such technologies and innovations, or achievement of any
+other activities noted in the paper, and disclaims any warranties implied by law or otherwise,
+to the extent permitted by law. No person is entitled to rely on the contents of this paper or
+any inferences drawn from it, including in relation to any interactions with PRiVCY COIN or the
+technologies mentioned in this paper. PRiVCY Coin disclaims all liability for any loss or damage of whatsoever kind (whether foreseeable or not) which may arise from any person acting
+on any information and opinions relating to PRiVCY Coin, the PRiVCY Coin Platform or the
+PRiVCY Coin Ecosystem contained in this paper or any information which is made available in
+connection with any further enquiries, notwithstanding any negligence, default or lack of care.
+The information contained in this publication is derived from data obtained from sources
+believed by PRiVCY Coin to be reliable and is given in good faith, but no warranties or guarantees, representations are made by PRiVCY COIN with regard to the accuracy, completeness
+or suitability of the information presented. It should not be relied upon, and shall not confer
+rights or remedies upon, you or any of your employees, creditors, holders of securities or other equity holders or any other person. Any opinions expressed reflect the current judgment
+of the authors of this paper and do not necessarily represent the opinion of PRiVCY Coin. The
+opinions reflected herein may change without notice and the opinions do not necessarily
+correspond to the opinions of PRiVCY Coin.
+PRiVCY COIN may amend, modify or update this paper and will notify a reader or recipient
+through its social channels and communities thereof in the event that any matter stated
+herein, or any opinion, projection, forecast or estimate set forth herein, changes or subsequently becomes inaccurate.
+PRiVCY Coin, its founders, directors, employees, contractors and representatives do not have
+any responsibility or liability to any person or recipient (whether by reason of negligence,
+negligent misstatement or otherwise) arising from any statement, opinion or information,
+expressed or implied, arising out of, contained in or derived from or omission from this paper. Neither PRiVCY Coin nor its advisors have independently verified any of the information,
+including the forecasts, prospects and projections contained in this paper.
+
+This Whitepaper does not constitute a prospectus or offer document of any sort and is not
+intended to constitute an offer of securities or a solicitation for investment in securities in any
+jurisdiction. This Whitepaper does not constitute or form part of any opinion on any advice to
+PRiVCY White Paper v 1.0 (August 2018)
+
+5
+
+sell, or any solicitation of any offer by the distributor/vendor of the PRiVCY Coin (the “Distributor”) to purchase any PRiVCY Coin nor shall it or any part of it nor the fact of its presentation
+form the basis of, or be relied upon in connection with, any contract or investment decision.
+The Distributor will be an affiliate of PRiVCY Coin Platform (“PRiVCY Coin Platform”), and will
+deploy all proceeds of sale of the PRiVCY Coin to fund PRiVCY Coin Platform cryptocurrency
+project, businesses and operations. No person is bound to enter into any contract or binding
+legal commitment in relation to the sale and purchase of the PRiVCY Coin and no cryptocurrency or other form of Payment is to be accepted on the basis of this Whitepaper. Any
+agreement as between the Distributor and you as a purchaser, and in relation to any sale and
+purchase, of PRiVCY Coin (as referred to in this Whitepaper) is to be governed by only a separate document setting out the terms and conditions (the “T&Cs”) of such agreement. In the
+event of any inconsistencies between the T&Cs and this Whitepaper, the former shall prevail.
+No regulatory authority has examined or approved of any of the information set out in this
+Whitepaper. No such action has been or will be taken under the laws, regulatory requirements or rules of any jurisdiction. The publication, distribution or dissemination of this Whitepaper does not imply that the applicable laws, regulatory requirements or rules have been
+complied with. There are risks and uncertainties associated with PRiVCY Coin Platform and/or
+the Distributor and their respective businesses and operations, the PRiVCY Coin, the PRiVCY
+Coin purchase on associated exchanges and the PRiVCY Coin Wallet (each as referred to in
+this Whitepaper).
+This Whitepaper, any part thereof and any copy thereof must not be taken or transmitted
+to any country where distribution or dissemination of this Whitepaper is prohibited or restricted. No part of this Whitepaper is to be reproduced, distributed or disseminated without
+including this section and the following sections entitled “Disclaimer of Liability”, “No Representations and Warranties”, “Representations and Warranties By You”, “Cautionary Note On
+Forward-Looking Statements”, “Market and Industry Information and No Consent of Other
+Persons”, “Terms Used”, “No Advice”, “No Further Information or Update”, “Restrictions On
+Distribution and Dissemination”, “No Offer of Securities Or Registration” and “Risks and Uncertainties”.
+To the maximum extent permitted by the applicable laws, regulations and rules, PRiVCY Coin
+and/or the Distributor shall not be liable for any indirect, special, incidental, consequential
+or other losses of any kind, in tort, contract or otherwise (including but not limited to loss of
+revenue, income or profits, and loss of use or data), arising out of or in connection with any
+acceptance of or reliance on this Whitepaper or any part thereof by you.
+PRiVCY Coin and/or the Distributor does not make or purport to make, and hereby disclaims,
+any representation, warranty or undertaking in any form whatsoever to any entity or person,
+including any representation, warranty or undertaking in relation to the truth, accuracy and
+completeness of any of the information set out in this Whitepaper.
+No information in this Whitepaper should be considered to be business, legal, financial or
+tax advice regarding PRiVCY Coin, the Distributor, the PRiVCY Coin Airdrop and sale on listed
+exchanges. You should consult your own legal, financial, tax or other professional adviser regarding PRiVCY Coin and/or the Distributor and their respective businesses and operations,
+the PRiVCY Coin, the PRiVCY Coin Sale on exchanges. You should be aware that you may be
+required to bear the financial risk of any purchase of PRiVCY Coin for an indefinite period of
+time.
+2.1 RESTRICTIONS ON DISTRIBUTION AND DISSEMINATION
+The distribution or dissemination of this Whitepaper or any part thereof may be prohibited
+or restricted by the laws, regulatory requirements and rules of any jurisdiction. In the case
+PRiVCY White Paper v 1.0 (August 2018)
+
+6
+
+where any restriction applies, you are to inform yourself about, and to observe, any restrictions which are applicable to your possession of this Whitepaper or such part thereof (as the
+case may be) at your own expense and without liability to PRiVCY Coin Platform and/or the
+Distributor. Persons to whom a copy of this Whitepaper has been distributed or disseminated, provided access to or who otherwise have the Whitepaper in their possession shall not
+circulate it to any other persons, reproduce or otherwise distribute this Whitepaper or any
+information contained herein for any purpose whatsoever nor permit or cause the same to
+occur.
+2.2 RISKS AND UNCERTAINTIES
+Prospective purchasers of PRiVCY Coin (as referred to in this Whitepaper) should carefully
+consider and evaluate all risks and uncertainties associated with PRiVCY Coin, the Distributor
+and their respective businesses and operations, the PRiVCY Coin, the PRiVCY Coin Sale, all
+information set out in this Whitepaper and the T&Cs prior to any purchase of PRiVCY Coin. If
+any of such risks and uncertainties develops into actual events, the business, financial condition, results of operations and prospects of PRiVCY Coin and/or the Distributor could be
+materially and adversely affected. In such cases, you may lose all or part of the value of the
+PRiVCY Coin.
+
+PRiVCY White Paper v 1.0 (August 2018)
+
+7
+
+3 BACKGROUND
+
+Finance, like most human inventions, is constantly evolving. In the beginning it was basic:
+food was traded for livestock, and livestock for resources like wood, or maize. It progressed
+to precious metal, such as silver and gold, which was followed by the centralized economy in
+the form of Currencies such as U.S. Dollar controlled and issued by financial authorities and
+governments.
+These centralized authorities, however, have always failed when it comes to the trust put
+in them by masses. In 2008, Lehman Brothers filed for bankruptcy, before which, markets
+were performing well and global economies were booming, until one day suddenly Lehman
+Brothers fell, the financial system froze, and the world economy almost collapsed. The root
+cause wasn’t just reckless lending and lack of transparency, but rather the financial sector’s
+failure to keep up with innovation. The bank’s collapse has become the defining moment for
+the financial crisis as central banks and governments rushed to bail out other troubled banks
+in the US and EU.
+Ever since then, the global economy has been struggling to recover from the shock. The gross
+domestic product, or economic growth, is still below the levels seen before the crisis. While
+there is growth, it’s been painfully lackluster in recent years. In the US, GDP is forecast to rise
+2.4% in 2016, the same as in 2014 and 2015, according to the International Monetary Fund.
+The UK faces an even uncertain future since it voted to leave the European Union—GDP
+growth was 2.2% in 2015, compared to 2.6% in 2007.
+Unemployment levels have fallen since the crash but there remains a particularly weak area
+of the labor market: wage growth. Right after the crisis, traders rushed into gold. The price of
+the traditional safe-haven surged but in a sign that all is not well, gold prices are still very high.
+Just a few months ago investors Bill Gross and Jeffrey Gundlach said gold was about the only
+asset worth buying these days.
+Alongside many reasons that resulted in the financial crisis, some noteworthy points are the
+lack of privacy and seeming disregard for investors, enormous fees both from investors and
+companies, low liquidity and centralized control and single point of failure being offered by
+these financial institutions. To avoid such crisis in the future, and out of anger towards the
+banking system for the collapse, unfairness, inefficiency, and disappointment caused by a lack
+of change, forward thinking traders and brokers are looking for a solution that will disintermediate and commoditize today’s status quo. A new ecosystem was required where all these
+problems are addressed profoundly and the user doesn’t have to rely on central authorities
+whose action may result in the system to collapse.
+As a result, a new financial ecosystem called Bitcoin was introduced by Satoshi Nakamoto in
+2009, aiming to address these problems profoundly, and relieving users to not rely on central
+authorities whose action may result the system to collapse. Bitcoin utilizes cryptography to
+disguise identities and has a transparent public ledger, which negates the ideological roots
+of Bitcoin and cryptocurrencies stem from the need for decentralizing the current monetary
+system, shifting the power and control assumed by the government and big banks to the
+masses. Since the dawn of cryptocurrencies, and in particular Bitcoin (BTC) the aim has been
+to facilitate a new breed of the payment system. One of the key tenets of any peer-to-peer
+PRiVCY White Paper v 1.0 (August 2018)
+
+8
+
+payment system is that it has to have superior privacy or at least a degree of privacy. The
+Bitcoin whitepaper has a section dedicated just to privacy. It details how BTC has a level of
+anonymity which requires the user keeping their public address anonymous. Times have
+changed since the creation of Bitcoin though and it’s no longer as feasible to keep your wallet
+address separate from your identity due to most fiat on-ramps, such as Coinbase and similar
+sites, being required to comply with KYC (Know Your Customer) Laws. Public wallets are viewable by anyone and include not only the balance of the wallet but also how much money has
+been received and paid out (including the public wallet addresses of senders and receivers).
+This might be great for a non-profit or other publicly transparent entity, but do we really want
+anyone and everyone to see what we have and whom we send to?
+Thus, it is justified here to claim that Bitcoin, despite having achieved a tremendous success,
+has so far failed to deliver on their initial promise: To become a decentralized, private, more
+democratic and efficient means of payment and transaction. Consequently, there are many
+people wanting to invest in blockchain technologies. However, with the passage of time, it has
+been realized that the technology of which bitcoin is based still has become really slow when
+it is facing enormous load.
+
+PRiVCY White Paper v 1.0 (August 2018)
+
+9
+
+4 PROBLEM STATEMENT
+
+Bitcoin has revolutionized the concept of peer to peer payment by eliminating the role of
+the intermediary from transactional activities. However, it also is a reality that because of its
+transparent nature, coin holders are deprived of the much-needed privacy. Furthermore, it
+also is evident that, over the time, the process needed to do a simple transaction is becoming cumbersome and time taking for ordinary users. Due to the huge load and too many
+transactions happening at a time, Bitcoin has been showing many signs of weakness such as:
+Sluggishness or more than usual time for transactions (even up to ten minutes in most cases),
+Higher Transaction Fee, Highly dependency on Pool System and Large Organizational Miners.
+
+PRiVCY White Paper v 1.0 (August 2018)
+
+10
+
+5 SOLUTION - PRIVCY COIN
+
+Considering the huge potential crypto market has, and to facilitate the community with a
+cryptocurrency that is fully encrypted, private and efficient, in the truest sense, our team of
+highly experience fintech specialists have carried out an extensive research and are developing a modern age cryptocurrency called PRiVCY Coin.
+
+PRiVCY White Paper v 1.0 (August 2018)
+
+11
+
+6 INTRODUCTION TO PRIVCY COIN
+
+PRiVCY Coin is a peer-to-peer cryptocurrency and can be termed as a modified version of the
+technology on which bitcoin was built as it allows completely private transactions, faster confirmation rates and achieve consensus through the combination of Proof of Stake and Proof
+of Work technology, rather than depend on PoW only.
+PRiVCY Coin enables instant, near-zero cost transactions to anyone anywhere in the world.
+It is an open source global payment network that is fully decentralized without being dependent on any centralized authority such as banks or governments. Fueled by Computation
+and secured by Mathematics, PRiVCY Coin network empowers individuals to control their
+own finances themselves. Being operated through TOR network— a highly secure private
+network— our blockchain network ensures that your wallet IP remains hidden for any transactional activity, and so does your geographical location.
+Furthermore, in pursuit of providing the much-needed privacy and ensuring that all transactions remain totally anonymous, we have developed the combination of ToR and Cryptography, which will be unique and ensure your transactions will not be traced back to you. It
+will increase your anonymity not 2 times, but almost 4 times. We want to create something
+accessible not only by our community but by everyone, where you will not need to register
+any personal information to get anonymity you deserve.
+It resolves the problem associated with bitcoin by featuring faster transaction confirmation
+times and improved storage efficiency. PRiVCY Coin is a project that is created by the combined efforts of hundreds of technicians, miners, investors from all across the world. Out of
+the love and passion for the fintech, the team has always been trying to resolve the issues
+associated with in the cryptocurrency space. This leads us to the creation of a new digital
+asset, a coin that offers advanced features and efficiency on top of blockchain fork. Built on
+Bitcoin’s Bit Core platform, PRiVCY Coin will surely be more advanced than Bitcoin and would
+eventually become today’s leading cryptocurrency. PRiVCY Coin would continue the Bitcoin’s
+mission by taking control of finance from Banks and governments and give it back to the
+original deserving i.e. ordinary people, but with full privacy and offering faster speed, without
+relying on pools or centralized entities.
+
+PRiVCY White Paper v 1.0 (August 2018)
+
+12
+
+7 FEATURES OF PRIVCY COIN
+
+7.1 PRIVACY
+It’s a common misconception that Bitcoin and other cryptocurrencies are fully anonymous
+and transactions are private and untraceable. In fact, many blockchains only disguise users’
+identities while leaving behind a public record of all transactions that have occurred on the
+blockchain. The data in the ledger often includes how many tokens a user has received or
+sent in historical transactions, as well as the balance of any cryptocurrency that they have
+within their wallet.
+There is a concern that even with their identities disguised, users can still be identified based
+on their activity within a blockchain. While it’s true that you can transact with bitcoin without
+having to provide your Social Security number or bank account, there’s still data on the digital
+ledger that could potentially be linked back to you. For instance, the Internal Revenue Service
+recently won a court case against cryptocurrency exchange Coinbase requiring it to hand
+over information on more than 14,300 users who’d exchanged more than $20,000 worth of
+bitcoin between 2013 and 2015. While the move was made, so that the IRS could possibly
+go after capital-gain tax evaders, the bigger theme here is that these transactions aren’t as
+anonymous as they appear.
+With PRiVCY Coin, users can enjoy the advantages of using blockchain, while still being sure
+that their information is private and completely anonymous. The amount of coins you own,
+send and receive are not observable, traceable nor linkable by way of transaction history on
+the Blockchain.
+How we offer Privacy?
+PRiVCY Coin uses TOR to send untraceable transactions. PRiVCY Coin also employs stealth
+addresses that allows the sender to use a one-time user address for their transactions, and
+this keeps the transaction private. The recipient only needs a single address, but before they
+receive the value that is sent, that block is sent to unique addresses on the chain where they
+cannot be connected to the sender or recipient’s personal address. This ensures that only
+the sender and receiver can consistently know where payments originated and where they
+were sent.
+7.2 FASTER TRANSACTION CONFIRMATION TIME
+Unlike Bitcoin that takes hours and sometime even days for a transaction to be confirmed,
+PRiVCY Coin will use technology that ensures transactions are much faster, no matter what
+the transactional load and frequency is. PRiVCY uses technology that allows PRiVCY Coin to
+compete with nearly instantaneous transaction systems such as credit cards for point-ofsale situations, while not relying on a centralized authority. Through the use of a consensus
+between Miners and Stakers, the signals of a transaction are locked and only spendable in a
+specific instant transaction. Widespread vendor acceptance of PRiVCY Coin and DS could revolutionize PRiVCY Coin by shortening the delay in confirmation of transactions from as long
+as an hour (with Bitcoin) to as little as a few seconds, and as a result, will make PRiVCY Coin
+PRiVCY White Paper v 1.0 (August 2018)
+
+13
+
+ideal for usage of daily transactional activities such as shopping, dining or hoteling etc.
+7.3 DECENTRALIZED GOVERNANCE
+PRiVCY Coin offers decentralized governance through achieving consensus by allowing community i.e. PRiVCY Coin holders to participate and work as dedicated nodes PRiVCY Coin
+blockchain network. The blockchain is capable of handling any amount of transactional volume, all the time, without having the chances of the network getting down or showing any sign
+of sluggishness. All nodes have equal power and control. The currency is not created, maintained nor represented by any one person or company, i.e. a central authority, and thus unlike
+traditional financial institutions that allow centralized control, PRiVCY Coin provides complete
+decentralization which means there is no risk of a single point of failure.
+7.4 ENHANCED SECURITY
+Based on the combination of Proof of Work(PoW) and Proof of Stake (PoS) consensus model,
+PRiVCY Coin will achieve distributed consensus for every transaction, thus enhancing the
+security of your digital assets. PRiVCY Coin enables you to get profound information on all
+transactions ever made. The code cannot be cracked or altered with unauthorized changes.
+The system is decentralized and securely protected against influence from single users.
+7.5 EASY TRANSACTIONS
+You can transfer PRiVCY Coin to anyone—anywhere in the world as long as the recipient is
+connected to the internet. All you have to do is ask for a receiver Wallet Address or Public Key
+and then input the number of coins you want to send in our dedicated wallet. Once you have
+entered the required information and confirmed, transactions would get confirmed within
+seconds. Every coin is worth the same value and is thus mutually interchangeable. No coin
+risks potential blacklisting nor debasement due to deprecating transaction history.
+7.6 ENORMOUS POTENTIAL
+You can be a part of a project that has the true potential of becoming the world’s leading
+payment system. More demand for PRiVCY Coin ecosystem over the time will raise the value
+of the coin itself. Investment in PRiVCY Coin will get profit from the raising price of PRiVCY
+Coin on the market exchange. The value of PRiVCY COIN will increase from market demand.
+7.7 USER FRIENDLY AND DEDICATED WALLET
+All transaction with PRiVCY Coin can be easily done by using PRiVCY Coin wallet application
+available on our website with any major operating system i.e. Windows, Linux and Mac. We
+are also working on the best and most secured Webwallet in the world. Furthermore, in
+future, we are planning to expand our wallet to be supported by famous wallets including
+hardware wallets. The encrypted technology of these wallets would allow you to secure your
+PRiVCY Coin, so that you can view transactions and your account balance.
+7.8 PORTABLE
+PRiVCY Coin is designed to be portable. With the current major currencies, it is difficult to
+PRiVCY White Paper v 1.0 (August 2018)
+
+14
+
+carry around large amounts of money. Cash amounting to millions is risky to carry for several
+reasons, which is why cryptocurrency investors prefer it to other currencies. With PRiVCY
+Coin, you can easily carry around a million dollars’ worth of PRiVCY Coin in a few MegaBytes
+worth of data space.
+7.9 UTILITY AND ACCEPTABILITY
+Unlike traditional cryptocurrencies that are struggling with their acceptability and mainly rely
+on exchanges and market supply and demand hype for controlling their value, PRiVCY Coin
+aims to provide inherent utility by getting accepted as a medium of account at PRiVCY Coin
+associated merchants. We are currently in negotiations with many merchants.
+
+PRiVCY White Paper v 1.0 (August 2018)
+
+15
+
+8 TECHNICAL ARCHITECTURE
+
+At its very core, the modern banking system is based on a simple paradigm - ‘Trust’. We
+give our money to banks and they provide us with services in return (deposits, loans, and
+investments). While we could perform these services ourselves, it has proven much more
+convenient to use this centralized, trust-based system. To mitigate the potential for abuse
+presented by such a global centralized system, decentralized blockchain-based assets, such
+as Bitcoin, have been introduced.
+In order to keep the system running and achieve consensus mechanism for our dedicated
+blockchain—Privacy, PRiVCY Coin uses an alternative consensus mechanism that is combination of Proof of Work(PoW) and Proof of Stake(PoS), where consensus is achieved through
+minting. This is the backbone of the PRiVCY Coin financial ecosystem as it provides the decentralized capability of validating transactional activities. It facilitates trust in user’s peer to peer
+activities i.e. PRiVCY Coin products and services across the globe, and third-party products
+across many different domains. Validation of transactions is done in an energy efficient manner by showing a proof of owning coins and also through traditional mining devices. Anyone
+holding a particular stake of PRiVCY Coin, or having a mining device can use our Mining Model
+and earn lucrative rewards through staking and mining.
+The consensus model that we use are explained below:
+8.1 PROOF-OF-WORK
+To secure a decentralized network and ensure users cannot double-spend their funds, Bitcoin utilizes a Proof-Of-Work (PoW) algorithm, which requires miners to prove through distributed consensus—a large pool of people who are geographically segregated agreeing on
+transactions or blocks are valid and which transactions are invalid to be added/rejected to
+the blockchain— have spent a certain amount of computational resources in order to make
+an attack on the network uneconomical. Proof of work works as a deterring protocol, with
+the main goal of deterring cyber-attacks such as Distributed denial-of-service attack (DDoS),
+which carries the purpose of exhausting network resources of a computer system by sending
+multiple fake requests. It involves scanning for a value that when hashed, such as with SHA256, the hash begins with a number of zero bits. The average work required is exponential in
+the number of zero bits required and can be verified by executing a single hash.
+The proof-of-work also solves the problem of determining representation in majority decision making. If the majority were based on one-IP-address-one-vote, it could be subverted by
+anyone able to allocate many IPs. Proof-of-work is essentially one-CPU-one-vote. The majority
+decision is represented by the longest chain, which has the greatest proof-of-work effort invested in it. If a majority of CPU power is controlled by honest nodes, the honest chain will grow
+the fastest and outpace any competing chains. To modify a past block, an attacker would have
+to redo the proof-of-work of the block and all blocks after it and then catch up with and surpass the work of the honest nodes. We will show later that the probability of a slower attacker
+catching up diminishes exponentially as subsequent blocks are added. To compensate for increasing hardware speed and varying interest in running nodes over time, the proof-of-work
+
+PRiVCY White Paper v 1.0 (August 2018)
+
+16
+
+difficulty is determined by a moving average targeting an average number of blocks per hour.
+If they’re generated too fast, the difficulty increases.
+The computing power required to carry out the cryptographic calculations only ever increases as the difficulty increases, thus consuming greater amounts of electricity. In the long run,
+this would be counterproductive to the health of a cryptocurrency as miners would have to
+sell substantial portions of their coins for fiat currency to foot the electricity bill, devaluing the
+price of the cryptocurrency. Thus, It can be deduced that PoW networks aren’t financially ideal
+as only miners can receive block rewards and transaction fees in return for precious resources, whereas regular users do not see any ROI from holding their coins.
+8.2 PROOF-OF STAKE
+Proof of stake opens the door to a wider array of techniques that use game-theoretic mechanism design in order to better discourage centralized cartels from forming and, if they do
+form, from acting in ways that are harmful to the network. It is also a better alternative to the
+proof of work algorithm by achieving the same distributed consensus at a lower cost and in a
+more energy efficient way. The transaction confirmation mechanism shifts from a burden of
+proof of the expenditure of resources over to total stake held — transactions are confirmed
+by simple nodes who hold large balances— and the greater the balance the user holds, the
+more likely they are to receive fees and block rewards. While this significantly reduces the
+number of resources required to confirm transactions and effectively allows the average user
+to see positive ROI on balances held, this system still requires a user to maintain connectivity
+at all times, to do so via a high-bandwidth connection, and for their wallets to be unlocked
+24/7. During any timeframe in which all aforementioned conditions aren’t met, the user is
+skipped by the network and does not receive their fair share of stake rewards.
+8.3 PRIVCY COIN - COMBINING THE BEST OF BOTH POW AND POS
+PRiVCY Coin is a hybrid system encompassing both concepts of Proof-of-Work and Proof-of-Stake to solve inherent issues pertaining to security and decentralization with sustainability and scalability in mind. In its initial stages, PRiVCY Coin will be a PoW centric coin where
+network circulation is increased through traditional mining and miners are rewarded with
+block rewards. A proven method for exponential growth in infancy stages where hashing difficulty levels are low and reward-to-work ratio is high.
+As PRiVCY Coin’s value, network circulation and hashing difficulty increases, users are rewarded with coins through the PoS algorithm. Therefore, as traditional mining becomes less
+rewarding over time, a progression into PoS increases sustainability as energy requirements
+of the network are significantly reduced. Furthermore, this increases security as it becomes
+significantly more difficult to acquire 51% of all PRiVCY Coin as opposed to 51% of all mining
+power and exponentially more difficult as the value and circulation of PRiVCY Coin increases.
+8.4 PRIVCY COIN INCENTIVIZED STAKING
+•
+
+Wallet is build up to stake the coins available in your balance. You need to have coins in
+your balance in order to stake. The more coins you have in your balance, the higher your
+staking weight, and the more are the rewards you would get. Every block is processed in
+minutes and the reward is coins for every block that is processed by staking process.
+
+•
+
+Staking ROI is between 10 % in year 1, 7% in year 2, 5% in year 3, 1% years after that , this
+is not a fixed ROI as the staking needs to be done correctly. Here are the steps:
+
+PRiVCY White Paper v 1.0 (August 2018)
+
+17
+
+•
+
+In order to stake, your coins have to mature for 24 hours
+
+•
+
+To stake you have to have your wallet unlocked for staking
+
+•
+
+After 24 hours, wallet will start mining operation, using your total coins you will have the
+staking weight.
+
+•
+
+The higher the weight, the faster the rewards
+
+•
+
+Every balance that has coins, and is staking, it will split in two after staking, giving you more
+chances to find a block
+
+•
+
+Difficulty is retargeted every block, so the more staking addresses you have, the higher
+the chances to find a block
+
+•
+
+If you move the balance (use the coins) your coins will not be mature anymore end they
+will need another 24 hours to mature.
+
+8.5 PRIVCY MIXING PROTOCOL - ANONYMITY ENHANCED
+In order to ensure that all transactions remain anonymous and maximum privacy is provided,
+we are developing mixing technology. This technology will make cryptocurrency transactions
+anonymous. As traditional cryptocurrencies have public, open sourced ledgers which record
+all transactions on a blockchain, this means that if you make a transaction with such open
+sourced coins such as Bitcoin, for example, then this transaction will be recorded for all the
+world to see. The actual transaction will not have your name attached to it, but rather, a string
+of numbers and letters associated with your account. Also, it will not reveal the identity of the
+party whom you sent your Bitcoin to.
+However, for many people, this is not enough anonymity. The reason is because many people
+fear that due to the ledger being public, that eventually, their transactions will be traced back
+to them by hackers, or by well-funded companies who are looking for key financial information. This is unacceptable for people who want the highest possible levels of privacy. So, many
+people turn to coin mixers to achieve these higher levels of privacy.
+If two or more people wish to obfuscate the trails of the coins they control, they can simply
+exchange their coins with one another. Each participant of such an exchange will end up
+controlling coins with a history that’s not theirs, while ridding themselves of any coins that do
+reflect their own activity. Similarly, PRiVCY Mixer works by essentially taking your PRiVCY Coins
+when executing a transaction, mixing it with a giant pile of other coins, and then sending you
+the total amount in smaller units of PRiVCY Coins to an address of your choosing.
+PRiVCY mixing service will provide members with hard case of coin mixing, which will be very
+easy to use and will make your coins untraceable. Also, in addition to the mixing service, it will
+allow the development team to add additional coin protocols, such as RingCT, CoinJoin and
+zk-Snarks. Our target it to make this coin to mean it’s name, purpose, and make it as easy as
+possible without the user being an expert. Our aim is that PRiVCY coin reflects it’s name.
+
+PRiVCY White Paper v 1.0 (August 2018)
+
+18
+
+YOUR BALANCE
+
+YOU SEND
+
+500
+
+500
+
+BOB TRANSFERS
+
+BOB’S MIXER BALANCE
+
+WALLET NO.1
+
+WALLET NO.2
+
+Bob has 1200 coins and he would
+love to send 500 anonymously.
+So he decides to mix them.
+
+Bob sends 500 coins to his unique
+assigned address. He can create a new
+address each time he wants
+to top up his balance.
+
+500 COINS
+
+500 PRIV
+
+After a few days, Bob decides to spend his coins.
+He pays 300 PRiV for a Lambo, 60 PRiV for medical purposes and 140 PRiV for a Testament Album.
+Coins paid from Wallet Address NO. 3***, which is in no way connected to Wallet Address NO.1 or Wallet
+Address NO. 2
+Only Bob knows what this transaction was made for and in no way connects Bob to these transactions.
+***Wallet Address NO. 3 - Is a pre-loaded address, which doesn’t have any connection to wallets NO1 or NO2. While Bob’s coins are held on
+Wallet Address NO. 2 he makes payments from a totally unrelated wallet, that way he can feel safe and untraceable. Once Wallet Address NO. 3
+gets empty, our automatic system creates a new address and all coins from Mixer sent to it. So nobody knows if Bob’s coins were spent, partially
+spent or haven’t been spent at all.
+
+PAYS
+
+-300 PRIV
+
+YOUR BALANCE
+
+PAYS
+
+-300 PRiV
+
+-60 PRIV
+
+-60 PRiV
+
+PAYS
+
+-140 PRiV
+
+-140 PRIV
+
+0
+
+Be like BOB, delete your account once done!
+
+YOUR BALANCE
+
+0
+DELETE ACCOUNT
+
+PRiVCY White Paper v 1.0 (August 2018)
+
+Once Bob spends his balance, he decides
+to DELETE ACCOUNT.
+Which will prevent anybody recovering any data
+of Bob’s transactions.
+Even PRiVCY DEV team will not have that
+information.
+
+19
+
+8.6 PRIVCY MESSENGER
+With the rapidly developing technologies in the modern world, the risk of jeopardizing one’s
+privacy is growing. The web is quite an unsafe place to be and there is an outstandingly high
+number of cases when the digital privacy of people is being compromised. When it comes to
+messaging applications, the users are mostly required to verify their identity, providing huge
+amounts of personal data, including phone numbers, addresses, photos, which makes them
+vulnerable to the attacks which are aimed at stealing private information. The absolute safety
+and control of private and corporate data is of precedence in the information age. The need
+for safe message exchanges grows every day as consumers look for protection against relentless hackers and tracking. Such an application should allow users to exchange confidential
+information safely with friends, colleagues, and clients, without the fear of transferred data
+being compromised.
+Majority of the social networks and messengers today claims to provide anonymity and safety
+for their users, but demand multiple privacy related entries for their use: Phone numbers,
+camera-use, microphone-use, location data, email addresses, social networking account access, all information that is transferred to servers that can use the data without the owner’s
+permission.
+We aim to reverse this trend and provide a truly private, anonymous messenger called PRiVCY Messenger uses sophisticated combination of blockchain technology and ToR technology and ensures the much needed trust in private data transfer security.
+PRiVCY messenger is a decentralized peer to peer connectivity platform that will enable users
+to chat in a complete private and anonymous environment, this means that every message
+you send through PRiVCY messenger is encrypted, and sent to the person you want to receive it via a network of other people, rather than going through any servers. PRiVCY Messenger
+will work to hide and without the possibility of intervention to retrieve data being exchanged,
+such as text or even a file you shared. In this era, we are all looking for options so that people
+are not able to see what you shared or what you wrote to your friends or family. We believe
+you have rights to share your personal information with people you trust without anybody
+else finding out what you shared.
+Some of the features PRiVCY Messenger would offer are:
+•
+
+Decentralized governance means that no central authority can manipulate data or the
+platform itself
+
+•
+
+All messages are stored directly in the blockchain which provides immutability and easy
+accessibility
+
+•
+
+No IP Address tracing
+
+•
+
+User’s address book is complete private without the platform being given any access
+
+•
+
+No access to the user’s location information
+
+•
+
+Users can complete be anonymous i.e. without having to perform any KYC
+
+•
+
+All messages are fully encrypted on the sender’s device and then decrypted on the recipient side
+
+•
+
+The client app does never transfer a user’s Private Key or mnemonic phrase over the
+network
+
+•
+
+No user Private Data is being transferred
+
+•
+
+The message history is never stored on a device and is directly loaded from the blockchain
+
+PRiVCY White Paper v 1.0 (August 2018)
+
+20
+
+8.7 PRIVCY PLUGINS FOR ECOMMERCE
+When it comes to payment processors in e-commerce, generally, credit cards, PayPal, COD
+(cash on delivery), are the most famous. However, with the advent of cryptocurrencies, this
+trend is quickly shifting. Merchants are interested in accepting digital currencies which are
+more efficient, instant and secure. As per our roadmap, we envision developing a number
+of plugins, where PRiVCY Coin holders can use their digital assets as a medium of payment
+and purchase items from merchants all across the world. Although, there exists a variety
+of competitors in the market when it comes to acceptance of cryptocurrencies as payment
+method, we are providing users with the much needed anonymity and complete privacy that
+traditional crypto based ecommerce plugins lack.
+Our aim is to create plugins for the leading ecommerce platforms including but not limited to
+Woocommerce, OpenCart, Shopify and Magento etc. There will no longer be restrictions with
+the PRiVCY Coin plugins since owners of PRiVCY Coin will be able to carry out their payments
+in any part of the world. These plugins will further allow merchants or website owners to sell
+their products online and accept PRiVCY Coin as payment method directly on their online
+store. All transactional data would be encrypted. The development team is also working on
+a new web design and a page that will provide necessary support to all e-commerce users.
+PRiVCY Coin is yet to take the anonymous cryptocurrency payment acceptance market. This
+is an effort to stop credit card fraud and chargeback scams by making instant payments. You
+won’t have to wait for weeks or months to get paid.
+Here are some reasons why your website could benefit from accepting PRiVCY Coin and the
+benefits PRiVCY Plugins would provide:
+Minimal Costs:
+For the most part, PRiVCY Coin transactions come with much smaller processing fees, while
+in traditional centralized ecommerce platforms, a big share of order is deducted by banks.
+Using PRiVCY Plugins, users can accept any crypto currency of their choice at small % of the
+total order amount, while accepting PRiVCY Coin is completely free of cost.
+Digital:
+Being a digital cash system, PRiVCY Coin doesn’t require third party banking entity to process
+transactions. All transactions are completely peer to peer and decentralized. Moreover, combination of PoW and PoS is used to achieve consensus which means there can never be any
+double spending or security breaches.
+Simple Implementation:
+Websites and online store owners can directly integrate our plugins into their stores without
+having to rely on experienced developers. An intuitive interface with easy to understand features would be implemented which ensures that plugin integration becomes a few step
+process doable in minutes.
+
+PRiVCY White Paper v 1.0 (August 2018)
+
+21
+
+Security and Privacy:
+Implementation of the plugins as decentralized apps ensure that there is no security breaches. Unlike credit card and banking payments, no personal information needs to be given
+out in order to do so, which may ease consumers’ concerns about making payments online.
+Simplicity:
+PRiVCY Coin is totally peer-to-peer, thus, users won’t have to worry about consumers paying
+with a compatible financial solution. So long as they have a PRiVCY Coin wallet, would be able
+to integrate their wallets with our ecommerce plugins and directly transact for the ecommerce activity.
+Convenience:
+There is no waiting period before you can gain access to your new funds. Once money is transferred from customers’ wallets to your own, the money is yours to use. Just be aware that
+payments can’t be reversed - on either end - which means that if you plan on issuing refunds,
+it’s not as simple to do with Bitcoin.
+Fraud:
+Backed by cryptography and secured by combination of PoW and PoS consensus mechanism, all transactions happening through PRiVCY Plugins are secure and virtually impossible to
+crack. And because payments can’t be reversed, you won’t have to worry about fraudulent
+payments and the ensuing fees you have to pay for those chargebacks.
+
+PRiVCY White Paper v 1.0 (August 2018)
+
+22
+
+9 SPECIFICATIONS
+OF THE BLOCKCHAIN
+
+PoW X13
+Algorithm Blocks 1 - 1000 - 10 $PRiV
+PRiV / block Blocks 1001 + > - 7 $PRiV / block Payout / halved
+until PoW is phased out PoS 60s block
+Target 1st year = 10%
+2nd year = 7%
+3rd year = 5%
+4th +> = 1%
+Current Nodes Addnode=otwsvate4vvogbrt.onion:17770
+addnode=nufiijzpo7ac2k6u.onion:17770
+
+PRiVCY Coin White Paper
+
+23
+
+10 TECHNICAL INFORMATION
+OF PRIVCY COIN
+
+Full name: PRiVCY
+
+Total premined coins: 21 000 000 PRiV
+
+Transaction code: PRiVCY
+
+•
+
+Marketing & Bounty Fund 2,500,000
+
+Algorithm: PoS and PoW
+
+•
+
+GiveAways 500,000
+
+Block time: 60 second
+
+•
+
+Airdrop 11,000,000
+
+PoW Reward: 7 PRiV
+
+•
+
+Development Fund 4,000,000
+
+Maximum PoS Bonus: 10%
+
+•
+
+Founders Reward 3,000,000 (locked until
+the end of AD)
+
+Maximum Supply: 30 000 000 PRiV
+
+Transaction fee: min 0.001 PRiV
+Block size: 1.5 Mb
+Transaction confirmations:
+5 confirmations
+
+PRiVCY White Paper v 1.0 (August 2018)
+
+24
+
+11 MARKETING POLICY
+
+11.1 USE COMMUNITY TO NURTURE CURRENCY
+To make PRiVCY Coin marketable, the first step we follow is to find a community and build a
+currency around them, rather than building a currency and expecting everyone to show up.
+We focus on making it sensitive to their needs and be relevant to their cultural heritage and
+background. We intend to conduct seminars, use marketing campaigns, forums, blogs and
+use our social media platforms to further enhance and gain trust of our valued investors as
+well as entering some key partnership/sponsorship contracts.
+11.2 COMMUNITY BUILDING STRATEGIES
+Some of the mediums we use for community building include but are not limited to: I. Word of mouth marketing
+It means when you are apprised by someone you trust directly. As it says that there is no
+marketing better than the word of mouth, we are at a huge advantage because of our already
+developed network.
+II. Crypto Expos
+To spread our message loud and clear to our potential investors, we will create awareness
+campaigns all across the world and will participate in crypto-expos. We are looking to sponsor
+any events and our marketing team will actively participates in these expos ensuring maximum exposure of PRiVCY Coin.
+III. Strategic Alliances
+We also keep on partnering with key merchandisers around the world from time to time, as it
+is beneficial for both the parties and helps in enhancing the acceptability of the coin.
+IV. Celebrity Endorsements
+For ensuring maximum outreach to the public, we will conduct events and advertisements
+where PRiVCY Coin is endorsed by famous celebrities from different industries to ensure greater visibility to the coin and our platform.
+V. Airdrop and Affiliate Marketing Policy
+We are conducting a 20 week Airdrop and will launch an affiliate marketing policy for expanding our community and ensure that our message is reached to the maximum number of
+people.
+
+PRiVCY White Paper v 1.0 (August 2018)
+
+25
+
+11.3 ATTRACTING AND CONVINCING MERCHANTS
+One of the most important aspects for a cryptocurrency is: marketing it so well that its miners
+and holders have a place to spend it. We know our target group and have the best strategies
+in place, to convince even those who are not aware of crypto. We aim to get the currency accepted as a payment solution in online shops to get their attention. To do so, our approach is
+not just about educating them with factsheets, but also to inspire them to learn and discover
+the advantages of investing in our coin. Money is a ledger, it is a tool that people use as a way
+of achieving their goals and satisfying their needs. We aim to help people fulfill these desires
+and needs by providing them the right startups to invest in. We know that merchant adoption is similar to miner adoption, however, it is just a matter of understanding their different
+outlooks.
+
+PRiVCY White Paper v 1.0 (August 2018)
+
+26
+
+12 ROADMAP FOR PRIVCY COIN
+
+Q3-Q4 2017
+
+Q3-Q4 2018
+
+Idea Seed
+
+AirDrop
+
+Initial Research and team building
+
+White Paper V1.0 Release
+
+Blockchain development initialized
+
+Listing on crypto trading exchanges
+
+PoW consensus model Initialized
+
+PRiVCY Mixing protocol release
+
+Website Development initialized
+
+ecommerce plugins release
+
+Wallet Development Initialized
+
+Sponsorship of key crypto influencers
+
+PoS functionality added
+
+Increased marketing
+presence SEO campaigns
+
+PR marketing strategy devised
+
+Q1-Q2 2018
+Community Development Started
+Website released
+Mainnet release
+Team Expansion
+
+PRiVCY White Paper v 1.0 (August 2018)
+
+Exciting partnerships
+
+Q1 2019 and beyond
+New applications
+Android/iOS wallets
+Improved privacy features
+Privacy HODLers driven development
+
+27
+
+13 FUNDS DISTRIBUTION
+
+We are aiming to make PRiVCY Coin as the leading cryptocurrency cryptocurrency, and have
+devised a proper plan that would give our dream a practical implementation. PRiVCY is using
+free 20 week Airdrop in which 11 000 000 PRiV will be evenly distributed to registered users.
+Continued strategy execution will be financed from Development fund, Bounty/Marketing
+fund and Giveaway fund.
+Founders fund will be released and split evenly between three founders of PRiVCY after the
+end of Airdrop.
+Marketing & Bounty Fund 2,500,000
+GiveAways 500,000
+Airdrop 11,000,000
+Development Fund 4,000,000
+Founders Reward 3,000,000
+Total 21 000 000
+
+PRiVCY White Paper v 1.0 (August 2018)
+
+28
+
+SOCIAL CHANNELS
+
+Website: https://privcy.io/
+BitcoinTalk Forum ANN: https://bitcointalk.org/index.php?topic=4503790.0
+GitHub: https://github.com/privcycoin/privcy
+Wallets download: https://github.com/privcycoin/privcy/releases/
+WebWallet: https://privcy.zone/
+Explorer: http://explorer.privcy.io/
+Discord: https://discord.gg/dTar3DP
+Faucet: http://faucet.privcy.io/
+Twitter: https://twitter.com/PRiVCY_COIN
+Facebook: https://www.facebook.com/PRiVCYCOIN/
+Reddit: https://www.reddit.com/r/PRiVCY/
+Instagram: https://www.instagram.com/privcy_official/
+Follow Our Official Telegram Channel: https://t.me/PRiVCY_announcements
+Join our Official Telegram Group: https://t.me/PRiVCY_community
+
+PRiVCY White Paper v 1.0 (August 2018)
+
+29
+
+

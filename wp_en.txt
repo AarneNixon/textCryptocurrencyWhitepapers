@@ -1,0 +1,1200 @@
+cryptoenergy.io
+
+WHITEPAPER
+
+CRYPTOENERGY WHITEPAPER 2019
+
+Contents
+
+1.
+
+Introduction
+
+3
+
+2.
+
+The oil and gas industry: overview and potential
+
+6
+
+3.
+
+CryptoEnergy oil production project
+
+9
+
+4.
+
+Initial exchange offering (IEO)
+
+17
+
+5.
+
+The CryptEn investment
+
+24
+
+6.
+
+Team
+
+27
+
+Annex 1: CryptoEnergy project expenses and efficiency
+
+32
+
+Annex 2: Disclaimers
+
+34
+
+2
+
+CRYPTOENERGY WHITEPAPER 2019
+
+INTRODUCTION
+
+3
+
+CRYPTOENERGY WHITEPAPER 2019
+
+1. Introduction
+The international market for oil and its derivates has been among the biggest global
+industries in the last century. The total revenues for the oil and gas exploration and production industry (E&P) surpassed the $2 trillion mark in 2017, comprising between 2% and 3%
+of the global GDP. If energy derivatives based on oil and gas are counted, the figure
+growths even higher. In other words, it is difficult to overstate the importance of the oil industry for the world economy, both in terms of production of goods and services, and also
+for global investment. It could be said that the development of today’s civilization and daily
+life are inconceivable without this essential raw material.
+At the same time, technological progress in the 21st century, most particularly during
+the current decade, have changed business models. The way firms and even governments
+around the world produce, market, sell and distribute goods and services has changed in
+response to new technologies. Among these technological trends, blockchain stands out
+as a revolutionary one, affecting how people interchange value or make investments.
+Bitcoin has multiplied its market price 44 times in the last 4 years, and investment in crypto-assets has grown exponentially during the same period. Moreover, blockchain has
+brought new models for raising funds and developing projects of all kinds, with the appearance of the so-called initial coin offering (ICO), and its related figures: the initial exchange
+offering (IEO).
+This whitepaper describes the CryptoEnergy project, which offers potential investors
+the possibility to take part in the development of a large hydrocarbon field in Russia. CryptoEnergy will comprise the best of two worlds: the huge and significant oil industry, and the
+innovative and revolutionary crypto industry. Investors shall benefit from the stability of a
+solid economic field like oil exploitation, and also from the dynamism and flexibility of the
+crypto economy.
+CryptoEnergy is based in the development of an oil production field in the Russian Irkutsk region, located in the geographical area of Siberia, the largest oil and gas producing
+region in the former Soviet Union (FSU), both in the geographical area it covers and its reserves of recoverable oil and gas. The project will be executed by an expert team with long
+experience in the oil and gas exploration and exploitation industry.
+In order to finance the development of the above referred project, an initial exchange
+offering (IEO) will be conducted by Tarex Business Ltd., a company already registered at
+the US Securities and Exchange Commission (SEC). As it will be explained ahead in more
+detail, the project will bring about an innovative way of financing and investment, even inside the crypto-world standards. Through the IEO, a limited supply of ERC-20 standardbased tokens, denominated as “CryptoEnergy tokens (CryptEn)” will be issued, functioning
+as energy derivative investment instruments.
+4
+
+CRYPTOENERGY WHITEPAPER 2019
+
+The rest of this whitepaper will be structured in the following way. In the second section, the current state and potential of the oil and gas industry will be explained, with particular reference to Russia. In the third section, the CryptoEnergy project will be described
+in more detail, including some technical aspects. In the fourth section, all relevant details
+about the IEO, including its specifications and schedule, will be covered. In the fifth section, it will be presented a detailed explanation of the CryptEn token, as an energy derivative instrument. Considerations of why it constitutes a good investment, with potential high
+returns, shall be presented. The sixth section shall present the team.
+Also, a disclaimers section is included at the end of the whitepaper.
+
+5
+
+CRYPTOENERGY WHITEPAPER 2019
+
+6
+
+CRYPTOENERGY WHITEPAPER 2019
+
+2. The oil and gas industry: overview and potential
+It can be said without exaggeration, that oil is the most important mineral in our current industrial world. As an energy source, only electricity would be more important, and
+yet electricity itself is to a great extend produced using oil as power fuel. Our daily life
+would be inconceivable without oil: transportation, heating, electricity and other basic
+needs are heavily dependent on oil. On the other hand, the existence of the main industrial
+and production branches is impossible without oil conversion products. The whole global
+value chain depends on an adequate supply of oil: from the chemical industry, to synthetic
+textiles, or transportation networks around the world.
+One of the core characteristics of oil, which make it so valuable in our industrialized
+world, is its versatility for being transformed in a wide array of different derivative products.
+Indeed, more than two thousand various products are obtained from oil. Existing types of
+fuel include petrol, kerosene, diesel, boiler fuel and gas turbine fuel. There are approximately a thousand varied types of lubricating and special oils, which are necessary for the
+successful operation of almost all mechanical devices. There are also process carbon,
+grease lubricants, paraffin, bitumen, petroleum coke, clothing, household chemicals, polymer film. Besides, oil is a raw material intended for the production of a series of organic
+synthesis products. It is not surprise, thus, that the economy, energetics, transport and agriculture all directly depend on oil.
+There are important correlations and mutual dependencies between the level of oil
+prices and the global economy. It has been found, for instance, that increases in the price
+of oil have negative impacts on importing countries’ GDP, and positive impacts in exporting
+countries, like Russia. The inverse impact is also present, though only to a limited extent: a
+decrease in global GDP, like the one occurred after the 2008-2009 global financial crisis,
+implies a decrease in oil demand; and this in turn affects negatively its price level.
+Even though a sluggish global economy decreases oil demand and prices, the inverse is not normally the case: demand for oil is not strongly affected by changes in its
+price. In economic jargon, the demand for oil is inelastic. The reason behind this is the
+heavy dependency of our industries on oil as an energy source. As a consequence of this,
+shortages in the supply of oil (due, for instance, to war or political conflicts in exporting
+countries) are not accompanied by decreases in demand, which cause prices to increase
+sharply.
+Oil price volatility negatively affects entire economies: both in importing and exporting
+countries, but for different reasons. As previously said, other sources of energy depend on
+the price of oil, like natural gas or electricity when it is fuel-generated. For this reason, the
+oil price is one of the main indicators characterizing the condition of the global economy,
+and it is the most important commodity quote, influencing stock and exchange markets indices all over the world.
+7
+
+CRYPTOENERGY WHITEPAPER 2019
+
+In addition to the huge size of its commodity market, oil is also the basis to a no less
+significant financial market of energy derivatives, driven as much by speculation as it is by
+spot prices. This oil derivatives market is comprised of the financial instruments such as
+futures, options and other types of contracts, and its market capitalization, relative to its
+physical counterpart, has increased exponentially in the last 25 years . All this sets an additional impulse for oil prices.
+Given the significance of oil for the world economy, it is difficult to overstate the importance of having a stable and reliable supply of this energy source. With tensions raising
+in Middle East, the biggest oil supply region in the world, and deep economic and social
+crisis in Venezuela, the country with the biggest reserves in the world, Russia has become
+one of the most stable and secure oil exporting countries. Currently Russia covers about
+5% of the global supply of oil, a share that is expected to increase in the future. At the
+same time, Russian supply determines oil prices and informs price developments in Europe and, in part, Asia. Therefore, oil production is an important policy tool of international
+economy for Russia, entailing a weighty argument in terms of external policy making.
+In the Russian Federation, the biggest oil producing geographical region is Siberia.
+Large scale geological prospecting and research works in the region has allowed the evaluation of the large prospects in terms of the oil and gas content of the Siberian platform. Oil
+and gas exploration has resulted in impressive effects. Prospecting works and the accurate
+evaluation of the deep-seated bedding rock of the Siberian platform has shown large reserves of discovered fields and has once again proven the region’s prospects, becoming
+the new large oil and gas province of Russia. And inside Siberia, one of the most important
+regions is that of Irkutsk.
+Currently, Irkutsk has oil resources in the order of 7.9 billion tons, including predicted
+and extracted reserves. Production levels have increased very fast in the last 10 years:
+from 460,000 tones extracted in 2008, the volume of oil and gas condensate production
+exceeded 18,000,000 tones in 2018, a 3,913% increase.
+The Irkutsk region is strategic not only for its high oil extraction and reserve levels,
+but also because almost all of its produced oil is transported through the “Eastern Siberia –
+Pacific Ocean” pipeline (ESPO), which supplies oil to the Asia-Pacific market, including
+three of the most important economies in the world: China, Korea and Japan. Moreover,
+the quality of the ESPO oil is very high, being considered a Light-Sweet mixture. For this
+reason, the ESPO oil blend is merchandised on the London and Singaporean markets at a
+premium of 0.75-2.5 USD/barrel in relation to Dubai Crude and Brent Crude.
+All of the above provides the context to the CryptoEnergy oil exploitation, project,
+which will be situated in the Irkutsk region, Russia.
+
+8
+
+CRYPTOENERGY WHITEPAPER 2019
+
+B U S IN ES S
+
+PETROLEUM
+BLOCKCHAIN
+
+EXCHANGE
+
+CRYPTOCURRENCY
+
+NATURAL GAS
+
+DIGITAL WALLET
+
+TOKEN SALE
+
+ENERGY
+
+INVESTMENT
+
+GAS
+
+MONEY
+
+SMART CONTRACT
+
+SEISM IC EXPLO R AT IO N
+
+ESPO
+
+W ELLS
+
+CASH
+
+TOKEN
+BARREL
+FINANCIAL
+KYC POLICY
+
+DRILLING
+
+TRANSACTION
+
+FINANCE OIL
+
+PETROCHEMISTRY
+
+FINANCIAL
+
+G EO LO G Y
+
+BARREL
+
+TOKEN
+INVESTMENT
+ENERGY
+
+FINANCE
+RESERVE
+
+FUEL
+
+NETWORK
+
+CRYPTOCURRENCY
+
+RISK FACTORS
+
+BUSINESS
+
+BLOCKCHAIN
+
+CRYPTOENERGY
+MINING CASH
+
+9
+
+DRILLING RIG
+
+EXCHANGE
+MONEY WELLS
+PETROLEUM
+
+BONUS
+GAS
+
+O
+IL
+SEISMIC
+IEO
+
+CRYPTOENERGY WHITEPAPER 2019
+
+3. CryptoEnergy oil production project
+This section exposes the specifics of the CryptoEnergy project for the production of
+oil, which shall be the basis of the CryptEn digital token as an energy derivative.
+3.1. Location specifics and potential for extracting oil
+The extraction of oil is to be conducted in a licensed location, situated 100 km to the
+north of the city of Irkutsk, with a total square area of 3,953 km2. The License Nº IRK
+14375 HP, with the purpose of conducting geological survey, exploration and production of
+hydrocarbons on the licensed site, was issued on January 28, 2008 for a period of 25
+years, being valid until January 28, 2033.
+Under several technological and geological criteria, the licensed location for the project is a place with high potential for oil extraction. Among the facts that support this conclusion, are the following:
+• Geological prospecting works have proven the oil and gas content of Lower Cambrian deposits from the Ushakov suite to Angarsk suite, where the location is situated;
+• The region is characterized by extensive development of collectors;
+• There is availability of structural and lithological traps; allowing for its consideration
+as a highly prospective region based on the fact that oil and gas are available in virtually all
+the complexes;
+• The prospects may also be connected with the fringes of the Ushakov deposits and
+lower deposits of the Moti suite in the north part of the territory explored;
+• The expert evaluation conducted on the potential reserves of the licensed site
+showed the following extracted hydrocarbon reserves:
+ oil – at least 28.6 million tons (if the oil recovery factor to 0.25)
+ gas – at least 40 billion m3.
+ condensate – 4 million tons.
+
+10
+
+CRYPTOENERGY WHITEPAPER 2019
+
+3.2.
+
+Field development works
+
+The development of the oil field at the licensed location will comprise a series of activities that have to take place before production begins. These prospecting works are the
+following:
+• Design works, which shall be conducted under the “Program for prospecting and
+evaluation works at the licensed site”, and conducted by the “Group work project of prospect wells construction”;
+• A space survey of the licensed site;
+• A geological survey of work performance;
+• Development of an ecological monitoring program;
+• Reprocessing of geological materials of works executed at the licensed site in previous years. This includes, the reprocessing and reinterpretation of archive seismic exploration materials, and the digitization of earlier drilled wells;
+• Seismic exploration works;
+• Drilling works;
+• Processing and interpretation of geological materials from seismic exploration;
+• Well-core analysis;
+• Geophysical exploration, well tests and other works.
+
+3.3. Factors that affect oil production volumes
+There exist three key factors that affect production volumes of oil and natural gas on
+the licensed site: 1) the general geological reserves of industrial-category oil and natural
+gas (physical); 2) the extraction rate (technical); and 3) the conditions and possibilities for
+sales of the hydrocarbons produced (economic).
+Regarding the first factor, it has to be observed that general geological reserves of oil
+and natural gas directly depend on the thickness of the bearing stratum and its specifications. The company has taken a conservative approach in evaluating hydrocarbon reserves. The amount of actual resources should be much greater.
+The second factor, extraction rate, depends on the bearing reservoir specifications
+and, basically, on the porosity, permeability, reservoir pressure, oil saturation and methods
+of extraction.
+In relation to the third factor, the company has planned the production volumes, taking into account the fact that annual hydrocarbon production shall not exceed 4-5% of the
+value of those that have been proven and placed on the balance sheet at the industrial operation stage. Taking into account the available margin and average production volume for
+one well used for production, daily output has been received in the amount up to 25
+tons/day per oil well.
+
+11
+
+CRYPTOENERGY WHITEPAPER 2019
+
+3.4. Schedule of project implementation
+The implementation of the CryptoEnergy project will be executed in two general
+phases: a first stage of exploration, and a second stage of development and exploitation of
+the oil deposits.
+3.4.1. Stage 1: Exploration
+Oil exploration was carried out at the license area in 2008-2019. The final stage of
+exploration and evaluation work in 2020 will include the previously listed field development
+work.
+The main purpose of 2020 works is to finalize the prospecting and evaluation stage.
+For this reason, the main part of seismic exploration works on the site shall be finalized
+and the entire volume of prospecting and exploration drilling will be executed within a period of 9 months. Plans for 2020 include placing reserves on the balance sheet with the
+State Committee for Mineral Reserves and approving the field pilot field development plan.
+Execution of these works will allow for commencing the field pilot development, prospect
+and production drilling, production and the sale of hydrocarbons in 2021.
+The main part of drilling and seismic exploration works shall be executed by external
+agencies (service companies), under subcontractor agreements, within the project’s implementation. All expenses for seismic exploration, drilling and other works (like remuneration of workforce, transportation, accommodation and nutrition, expendable materials,
+equipment lease, etc.) shall be paid by the subcontracted agencies, which should include
+such expenses into their fees.
+As a result of the performance of the first stage, the project capitalization and volume
+of the produced oil reserves will increase according to the category C1 + C2 and will be
+equal to at least 7 million tons. The duration of the first stage is expected to be 9 months,
+with a total cost of USD 16.82 million.
+
+12
+
+CRYPTOENERGY WHITEPAPER 2019
+
+The following table details the sub-phases of the exploration stage and their corresponding works.
+
+Sub-phase 1: Seismic exploration. Purchase of drilling equipment. Investigation of earlier drilled wells.
+Cost: USD 8.3 million. Duration: 3 months
+
+• Performance of field seismic exploration works by means of the CDP 2D method.
+• Processing and interpretation of the performed field seismic exploration works by
+means of the CDP 2D method, their coordination with earlier performed works, and
+the creation of a unified structural and tectonic model.
+• Preparation of additions to the plan for prospecting and evaluation works at the site
+with the subsurface resources.
+• Purchase of drilling equipment, its transportation to the work performance area,
+equipment installation, supervision and testing.
+• Preparation of additions to the detailed plan for the construction of prospecting and
+evaluating wells.
+• Preparation of plans for the inspection and repair of earlier drilled wells Nº 1, 2 and
+3 and their coordination with the Federal Service for Ecological, Technological and
+Atomic Supervision (Rostechnadzor).
+• Inspection of well Nº 1.
+
+Sub-phase 2: Drilling of wells Nº 1, 2 and 3.
+Cost: USD 8.1 million. Duration: 6 months
+(works to be performed in each well).
+
+• Drilling of the prospecting well with the opening of terrigenous Riphean bedding
+rock using side-tracking technology on the basis of the respective well, with a depth
+of 900–950 m or a new prospecting well, including the following works performed in
+the well.
+• The entire complex of well geophysical exploration;
+• Well-core selection from the prospective bedding rock;
+• Vertical seismic profile shooting;
+• Testing of the prospective bedding rock in open well hole and housing pipe;
+• Selection and analysis of formation fluids.
+• Inspection of well.
+
+13
+
+CRYPTOENERGY WHITEPAPER 2019
+
+Sub-phase 3: Resource audit. Resource placement on the balance sheet.
+Cost: USD 0.42 million. Duration: 7 months.
+
+• Preparation of a geological model of hydrocarbon deposits, discovered according to
+the results of the geological prospecting works performed.
+• Calculation of the reserves of discovered hydrocarbon deposits, including their protection, with the State Committee for Mineral Reserves.
+• Performance of a reserve audit by an international company (NeftegazconsultingAudit).
+• Preparation of the field pilot development plan.
+• Preparation of the plan for the second stage of the prospecting and exploration works
+at the licensed site.
+
+3.4.2. Second stage: development and exploitation of deposits
+Based on the results gathered from the exploration of the location and the drilling of
+the first 3 wells, the second stage will cover the set of activities directed to set up and operate those wells for the extraction of oil.
+This stage will be sub-divided into two successive sub-phases, as shown in the following table.
+Sub-phase 1: Purchase of additional drilling equipment.
+Field supplementary exploration. Start of pilot development.
+Cost: USD 58.26 million. Duration: 12 months.
+
+• Purchase of auxiliary drilling equipment for exploration and production drilling (includ-
+
+ing a drilling unit with top drive).
+•Exploration drilling; twelve exploratory wells.
+• Performance of field seismic exploration works by means of the CDP 2D and CDP 3D
+methods.
+• Processing and interpretation of the field seismic exploration works performed by
+means of the CDP 2D and CPD 3D methods, their coordination with earlier performed
+works, and improvement of the unified structural and tectonic model.
+• Correction of the geological model of hydrocarbon deposits, discovered according to
+the results of geological prospecting works performed.
+• Recalculation of reserves of discovered hydrocarbon deposits, including their protection, with the State Committee for Mineral Reserves.
+• Performance of a new reserve audit by an international company (Neftegazconsult14
+
+CRYPTOENERGY WHITEPAPER 2019
+
+ing-Audit).
+• Measures for the construction of field facilities.
+• Oil production within the scope of the pilot development plan.
+• Preparation of the field development plan.
+
+Note on cost calculation:
+The cost of exploration drilling works is estimated at 1,440 million Russian rubles.
+The total cost of other expenses for geological survey works and administration in
+2020-2021 (seismic exploration, design and permission documentation, preparation
+and lease of sites, roads, eco-monitoring, processing of seismic exploration materials,
+well-core analysis, expenses for supplementary exploration and facilities construction,
+taxes, etc.) is approximately 1,414 million Russian rubles. Total cost of works (including inflation): 2,854 million Russian rubles. (USD 47.56 million).
+Purchase of drilling equipment, including a mobile drilling unit with top power drive:
+642.2 million rubles (USD 10.7 million.).
+Total cost of works and equipment: USD 58.26 million
+
+Sub-phase 2: Production drilling. Field facilities construction.
+Attainment of design parameters.
+Cost: USD 43 million. Duration: 12 months.
+
+• Field development and facilities construction works. Drilling works.
+• Drilling works within the scope of the field development plan, drilling of 12 production
+wells with horizontal sites.
+• Facilities construction and project process support.
+• Measures for accompanying gas recovery.
+
+The total cost of the development and exploitation of deposits stage is estimated to
+be USD 101.26 million. Part of this cost will be covered through the reinvestment of funds
+provided by hydrocarbon production and sales.
+The annual volume of oil production will increase to 300,000 tons, and the annual
+revenues from hydrocarbon production will amount to USD 90.6 million.
+
+15
+
+CRYPTOENERGY WHITEPAPER 2019
+
+3.5. Main estimated indicators of the CryptoEnergy project (2020-2029)
+The following table presents the estimation for 4 key indicators about CryptoEnergy
+project’s performance.
+1. Total volume of oil production: 1.878 million tons.
+2. Revenues from product’s sale: 36,764 million Russian rubles (USD 612.73 million),
+including:
+• Oil exports: 36,480 million Russian rubles (USD 608 million).
+• Oil sale at the internal market: 284 million Russian rubles (USD 4.73 million).
+
+3. Expenses: 10,915 million Russian rubles (USD 181.92 million), including:
+• Expenses for geological prospecting works: 303 million Russian rubles (USD 5.05
+million).
+• Expenses for development and facilities’ construction: 9,767 million Russian rubles
+(USD 162.78 million).
+• Production expenses: 845 million Russian rubles (USD 14.08 million).
+
+4. Financial results:
+• Net profit: 18,047 million Russian rubles (USD 300.78 million).
+• Money flow: 14,185 million Russian rubles (USD 236.41 million).
+• Payback period: 50 months.
+•Discounted money flow (NPV at a rate of 10 %): 12,903 million Russian rubles (USD
+215.05 million).
+•Internal rate of return (IRR): 22.27%
+• Average annual return on investment: 44.5%
+
+16
+
+CRYPTOENERGY WHITEPAPER 2019
+
+17
+
+CRYPTOENERGY WHITEPAPER 2019
+
+4. Initial exchange offering (IEO)
+The execution of the CryptoEnergy project will be partially financed through a cryptobased fundraising event, known as an initial exchange offering (IEO). In this section, the
+technical and economic specifications of the IEO as such are to be explained.
+4.1. What is an IEO?
+During the last 3 years, crypto-based fundraising for startups and projects surged with
+the popularization of so-called “initial coin offerings” (ICO), an event where digital assets
+termed “coins” or (more frequently) “tokens” where sold to the public in exchange for future
+goods or services. The founders of a startup, for instance, could create a smart contract in
+the Ethereum blockchain platform, where a predetermined number of ERC-20 tokens were
+created and sold to buyers at a specified price. The number of ICO and volume of funds
+raised skyrocketed during the second half of 2017, reaching a peak at the same moment
+that Bitcoin surpassed the US$ 20,000 price mark, only to crash in the second half of 2018,
+with a 6-time decrease.
+Reasons for such phenomenal decrease are various (for instance, many ICO’s were
+outright scams or were managed by unexperienced teams), but probably the main driver
+was the decrease in the value of Bitcoin itself. There has been a strong correlation between the value of Bitcoin and the rest of crypto-assets, including ERC-20 based digital
+tokens. Both entrepreneurs and investors began looking for different ways, and as a result,
+initial exchange offerings (IEO) came to be mainstream in the cryptoworld.
+The main different between an ICO and an IEO is that in the latter’s case the process
+is directly managed by a digital exchange, which gives enhanced confidence and trust to
+the fundraising event.
+
+18
+
+CRYPTOENERGY WHITEPAPER 2019
+
+4.2.
+
+Tokenomics
+
+The digital token to be issued through the IEO will be based in the ERC-20 standard.
+The ERC- 20 based digital token will be denominated “CryptEn”. As mentioned, its issuance is done with the express objective of raising funds to partially cover the implementation of the project. The token specifications are as follows:
+Name
+
+CryptEn
+
+Symbol
+
+CE
+
+Tech standard
+
+ERC-20
+
+Total supply
+
+3.675.000
+
+IEO sale supply
+
+3.012.500
+
+Standard price
+
+$50,00
+
+Soft-cap
+
+24%
+
+Hard-cap
+
+$112.750.000
+
+The total supply of tokens will be distributed between the IEO sale, the team & advisors, and a reserve fund, in the following way:
+IEO sale
+
+3.012.500
+
+Team & advisors
+
+294.000
+
+Reserve fund
+
+368.500
+
+Total supply
+
+3.675.000
+
+The total IEO sale supply of CE tokens (3,675,000) will be offered for purchase under
+a specific schedule, with limited token availability for each phase
+The soft-cap and hard-cap above mentioned are related to the whole IEO process.
+Each of the phases in the IEO schedule will have its own hard-cap, as it will be explained
+ahead.
+
+19
+
+CRYPTOENERGY WHITEPAPER 2019
+
+4.3.
+
+IEO schedule
+
+The execution of the IEO fundraising event will follow, in its schedule and structure, the
+phases of the CryptoEnergy project implementation explained in Section 3. In other words, for each
+stage in the development of the project, there will be a corresponding stage in the IEO, preceded
+by a pre-Sale stage.
+
+PRE-IEO – Starting date: 01/10/2019 – End date: 31/12/2019
+IEO Stage 1 – Corresponding project stage: Exploration. Additional exploration of the licensed site. Resources audit. Placement of
+oil reserves on the balance sheet.
+Starting date: 01/01/2020 – End date: 31/03/2020
+
+IEO Stage 2 – Corresponding project stage: Development and exploitation
+of deposits. Additional exploration of the deposit. Elaboration and infrastructure development of the deposit. Attainment of the design
+parameters.
+Starting date: 01/04/2020 – End date: 30/09/2020
+
+4.3.1. Pre-IEO
+Pre-IEO stage will be a private sale of CE tokens, under the following parameters:
+• Hard cap: USD 7,000,000
+• Entrance limit (IEO min. purchase): USD 140
+• Duration: 3 months or until hard cap is reached (whatever happens first).
+• Applicable discount: 30% ($35), equivalent to a 43% bonus.
+• Given the 30% discount on the standard price and the hard cap, the number of CE
+tokens available during pre-IEO will be 200,000, plus 25% of that number (50,000) from
+the loss compensation reserve, as needed. The loss compensation reserve mechanism
+will be explained in the sub-sub-section 4.3.4.
+
+4.3.2. IEO – Stage 1
+IEO stage 1 will be conducted under the following parameters:
+• Hard cap: USD 19,000,000
+• Entrance limit (IEO min. purchase): USD 160
+• Duration: 3 months or until hard cap is reached (whatever happens first).
+• Applicable discount: 20% ($40), equivalent to a 25% bonus.
+20
+
+CRYPTOENERGY WHITEPAPER 2019
+
+• Given the 20% discount on the standard price and the hard cap, the number of CE
+tokens available during IEO stage 1 will be 475,000, plus 25% of that number (118,750)
+from the loss compensation reserve, as needed.
+The attracted investments through both pre-IEO and IEO stage 1, will ensure the
+placement of capital reserves on the company’s balance sheet, as well as the beginning of
+the pilot production (development) and oil production in the field. This will ultimately increase the value of the CE tokens once the IEO is concluded.
+4.3.3. IEO – Stage 2
+IEO stage 2 will be conducted under the following parameters:
+• Hard cap: USD 112,750,000
+• Soft cap: 24%
+• Entrance limit (IEO min. purchase): USD 200
+• Duration: 6 months or until hard cap is reached (whatever happens first).
+• Applicable discount: None. CE tokens are sold at standard price.
+The amount of tokens available during the IEO stage 2 will be 1,735,000, plus 25% of
+that number (433,750) from the loss compensation reserve, as needed. To that number will
+be added, also, any unsold tokens from pre-IEO and IEO stage 1, excluding tokens from
+the loss compensation fund, as it will be explained below.
+4.3.3. Loss compensation fund
+The lost compensation fund (LCF) is a special reserve, consisting in a number of tokens equal to 25% of the tokens to be available for sale during each of the IEO phases.
+The objective of the LCF is to serve as a hedging mechanism against volatility of Ethereum
+cryptocurrency (ETH) throughout the process of transforming ETH to fiat, that takes on average 20-25 days.
+The LCF functionality can be illustrated with a simplified example.
+Assume that pre-IEO sale is successfully concluded by selling all 200,000 CE tokens
+at the discounted price of $35, reaching the pre-IEO hard cap of $7 million. Assume, also,
+that the effective price of ETH during pre-IEO was $140, so that a total of 50,000 ETH were
+collected. However, during the process of converting ETH to USD, the price of ETH
+dropped 15% to 119$. This situation would effectively reduce the fundraising hard cap from
+$7 million to $5.95 million.
+Therefore, in order to compensate for this loss, a total of 30,000 tokens from the LCF,
+equivalent to 15% of the 200,000 sold, would be offered for sale at the discounted price of
+35$, which would raise an additional $1.05 million, restoring the hard-cap of $7 million.
+In practice, the LCF hedging mechanism will be more complex, because the ETH to
+fiat conversation process will be done daily, not at the end of the respective IEO stage. The
+calculation of the loss coming from ETH depreciation during conversion to fiat shall be
+done also daily, and it will take on account also past ETH price increases. The rationale
+will be to bring for sale CE tokens from LCF under an “as needed” principle, aiming to keep
+the number of additional CE tokens as low as possible.
+
+21
+
+CRYPTOENERGY WHITEPAPER 2019
+
+Throughout the IEO in all its phases, the management team might offer LCF tokens
+for sale under special bonuses to certain investors, according to the size of their purchase.
+In any case, at the end of the IEO, any remaining LCF tokens, will be burned.
+
+4.4.
+
+Use of funds
+
+The funds raised throughout the IEO in all its phases will be entirely dedicated to the
+implementation of the CryptoEnergy project, including financial and marketing activities
+deemed appropriate by the managing team.
+As a general rule, the speed and extent of the project’s implementation will depend
+on the level of funds raised. In other words, depending on investment volumes, numerous
+variants of project implementation are possible. The project has a scaling effect: if the
+amount of funds collected is high enough, the volume of hydrocarbon production can be
+increased.
+The company is currently extending infrastructure and offering investors the opportunity to participate in this process in order to increase current production volumes due to
+funds attracted in the first stage. The company is carrying out the full repair of existing
+wells and side-tracking in wells, as well as additional seismic works, which enables the
+placement of larger quantity of hydrocarbons on the balance sheet.
+The growth of placement volumes in the second stage of investment will lead to an
+increase in the production plan, in proportion to the volume of funds received. Overfulfilment of the minimum placement target will allow for accelerating the timeframe for
+reaching the projected production volumes. On the other hand, in the case that investment
+volumes decline by 25%, the timeline for reaching the planned production volume would
+increase. As well, all the intermediate indicators for the project’s implementation would be
+reduced. However, the project could be implemented in the planned volumes but with a
+delay in the timeline.
+In the case that the initial investment is reduced by 50%, the project is still feasible;
+however, the planned production volume, as well as scope of supplementary exploration
+works, development and arrangement should be halved. Finally, in the case that the initial
+investment is reduced by 64% and 78% (64% for the ICO/IEO first stage and 78% for the
+ICO/IEO second stage), the project should be implemented in a reduced version. In addition, the production volume equal to 200 thousand tons per year should be ensured.
+Taking into account the token repayment within the stated maturity period, the remaining part of revenues from hydrocarbon sales will be reinvested into development in
+the field, at least within the first five years. Therefore, the project is stable to risks connected with a reduction in the amount of financing.
+
+22
+
+CRYPTOENERGY WHITEPAPER 2019
+
+4.5. Tokens in reserve fund, and team & advisors
+As previously mentioned, 10% of the CE tokens from the total supply will be destined
+to a reserve fund (not to be confused with the loss compensation fund); and 8% from the
+total supply will be distributed between the team & advisors.
+The CE tokens held in reserve fund will serve as a buffer for financing unexpected
+cost increases in the development of the CryptoEnergy project. Also, they might be used
+for additional investment in supplementary exploration and encouraging new fields. These
+could include the use of technology of transportation of natural and associated petroleum
+gas in the hydrate state, and the use of nanotechnology of methane utilization in coal
+mines.
+In both cases (financing of cost increases / additional investments), the CE tokens
+held in the reserve fund will be made available for purchase by investors through digital
+exchanges.
+Regarding the 8% of CE tokens distributed among the team members and advisors,
+these are retribution for the work and services provided by them in developing and implementing the CryptoEnergy project. The CE tokens will be distributed to team members and
+advisors under a vesting schedule of 12 months, in the following way: 25% of the assigned
+tokens will be delivered to their wallets every 3 months after the conclusion of the IEO.
+
+23
+
+CRYPTOENERGY WHITEPAPER 2019
+
+24
+
+CRYPTOENERGY WHITEPAPER 2019
+
+5. The CryptEn investment
+The CryptEn digital token will function as a crude oil contract. This section will explain the details of the digital financial instrument contained in each CE token, as well as
+give an explanation of why its purchase will likely constitute a profitable investment.
+
+5.1. Investment specifications
+The company that is conducting the IEO is Tarex Business Ltd., incorporated in the
+British Virgin Islands. Tarex Business Ltd. is a company that belongs to the corporate
+group that will develop the CryptoEnergy project, under the License Nº IRK 14375 HP in
+the Irkutsk location.
+Every ERC-20 token represents a unique promise by Tarex Business Ltd. to deliver
+to the corresponding token holder, at a maturity date of forty eight (48) months after the
+end date of the IEO, either:
+a) one (1) barrel of ESPO Light-Sweet mixture crude oil, produced at the CryptoEnergy
+oil fields in the Irkutsk location;
+or
+b) the equivalent in US dollars of the market price of one (1) barrel of ESPO LightSweet mixture crude oil, at the beginning of the trading day in which the token holder redeems the CryptEn token for repurchase.
+The market value will be quoted from Oilprice.com, according to the London and Singapore oil exchanges, and will be constantly featured in CryptoEnergy’s website.
+As a simple example of the afore explained: a person (natural or legal) that holds
+1,000 CE tokens, would be entitled after 48 months from the date the CryptEn IEO is concluded, to be delivered 1,000 barrels of ESPO Light-Sweet crude oil produced at the CryptoEnergy facilities, or to be paid the equivalent market price at the day of repurchase.
+1,000 CE tokens are equivalent, for instance, to the size of a NYMEX Light Sweet Crude
+Oil futures contract.
+In simpler terms: at maturity date, every CE token in circulation would be open to be
+repurchased by CryptoEnergy in exchange of 1 barrel of ESPO mixture oil or its equivalent
+market price.
+
+25
+
+CRYPTOENERGY WHITEPAPER 2019
+
+5.2. CryptEn investment likely profitability
+The current average price of ESPO Light-Sweet crude oil is 65 USD. The estimated
+return on investment (ROI) for a CE token holder who purchased it at the standard price of
+50 USD (IEO second stage) would be 30%, if the price of oil is maintained. For a CE token
+holder who bought it at 20% discount during the IEO first stage, ROI would be 62.5%, while
+for someone who bought it at 30% during pre-IEO sale, it would be 85.7%. The ROI numbers would be significantly higher than from a typical investment.
+Of course, an increase or decrease in the price of ESPO crude oil would be quickly
+reflected in the market price of a CE token in digital exchanges, because it would directly
+affect its ROI. Also, as the CryptoEnergy project is implemented and the mature date for
+CE tokens approaches, their market price is expected to increase (in a similar way that the
+price of a bond increases as the maturity date approaches).
+In fact, the market price of the CE token in digital exchanges, would be practically tied
+to the price of 1 barrel of ESPO crude, minus a potential discount given that the token functions as a oil contract. The logic for this is quite simple: if the price of 1 barrel of ESPO oil,
+6 months before CE token maturity date, is 70$, the market price of a CE token would be
+expected to be $70 minus the discount related to the 6 months that the holder has to wait
+for the token repurchase.
+In any case, after the IEO is concluded and the CE tokens are listed in digital exchanges, their market price will be the one quoted in the digital exchanges, according to
+supply and demand.
+Besides this potential return of investment, CryptEn (CE) tokens have two important
+advantages. First, in contrast with crypto-currencies and most digital tokens, their market
+price can be subject to a fundamental analysis, because it is economically tied to the price
+of one barrel of crude oil. This trait makes them a far less volatile digital assets than cryptocurrencies like Bitcoin or Ripple. Also, the value of a CryptEn token is not expected to be
+strongly correlated to Bitcoin and most other cryptocurrencies. This makes them a good
+way of diversifying a crypto investment portfolio.
+Second, CE tokens allow to make relatively small investments in crude oil as a commodity. The typical size of a crude oil futures contract is 1,000 barrels, which at the standard price would be $65,000, an amount too high for the ordinary middle income investor.
+CE tokens, in contrast, allow almost everyone to invest in oil.
+
+26
+
+CRYPTOENERGY WHITEPAPER 2019
+
+27
+
+CRYPTOENERGY WHITEPAPER 2019
+
+6. Team
+The project team consists of geologists, drillers, scientists and experts, executives,
+and economists; all of them with experience in the field of oil production.
+The General Director of the company that executes the project has practical experience working in the Siberian region, having earlier drilled the first horizontal production
+well in the Kovykta gas and condensate field, which has the largest gas reserves in Eastern Siberia and belongs to Russian state company Gazprom. Other team participants in
+the project’s management also have broad experience in geological exploration, drilling
+and oil and gas prospecting works, including in the neighbouring territories of Eastern Siberia.
+Team members have experience in business collaboration with the largest Russian
+and global companies engaged in oil and gas production and geological exploration, as
+well as service companies. These include Rosneft, Gazprom, Lukoil, Tatneft, Bashneft,
+Burgaz, Irkutsk Oil Company, Novatek, Tatneft-geophysics, Irkutsk-geophysics, Halliburton, Weatherford, Schlumberger, etc.
+Team experts include leading specialists from consulting companies, scientific and
+research organizations, specialists who are well known within Russia and internationally
+with broad experience in the oil and gas fields. These include: LLC Neftegazconsult-Audit
+(a subsidiary of the Russian independent company Neftegazconsult with the participation
+of the leading international petroleum auditors - Miller and Lents, Ltd.), the All-Russian
+Scientific and Research Geological Oil Institute, the Hydrocarbon Production Centre of the
+Skolkovsk Science and Technology Institute, the Kazan Institute of Aerospace Instrument
+Engineering, and the Siberian Scientific and Analytical Centre of Fuel and Energy Complex
+(SibNATs). LLC Neftegazconsult-Audit offers a variety of consulting services in the Russian upstream petroleum industry.
+The team's legal consultant is the law firm Skolkovo Legal, established with the support of the Skolkovo Foundation and providing services in the field of corporate law (including support of transactions to attract and provide financing, mergers and acquisitions, etc.),
+legal protection of intellectual property, protection of personal data, services in support of
+commercial transactions, as well as in many other areas. A specialized area of the law firm
+is to work with ICO, STO and IEO projects.
+
+28
+
+CRYPTOENERGY WHITEPAPER 2019
+
+Ilgiz Salihzyanovich Mukhametzyanov – CEO
+Graduated from the Ukhta Industrial Institute and obtained a degree in drilling oil and gas wells. Qualification: Mining engineer.
+Completed his training and internship at the Halliburton Energy
+Services, Dallas (USA), specializing in directional drilling. Has
+thirty years of experience in the oil and gas industry. He advanced in his career from a driller to general director of a drilling
+company. He has worked at various positions in Yganskneftegaz
+OJSC, Saymburneft LLC, TatNeft OJSC, Udmurtneft-Burenie
+LLC, Izhevskaya Drilling Company LLC in Bashkiria, Tatarstan,
+Western and Eastern Siberia. He oversaw the drilling of the first
+horizontal production well in Eastern Siberia at the largest Kovykta gas condensate field
+(Gazprom). He has extensive experience cooperating with the largest oil and service companies from Russia and globally.
+
+Arkady Anatolyevich Bokserman – Project Consultant
+Full member of the Russian Academy of Natural Sciences. Doctor of Technica Sciences. Professor with more than 250 published works and about 100 inventions. He founded a scientific
+school, including about 100 candidates and doctors of sciences
+in the field of oil production methodology. Laureate of I.M. Gubkin awards for creating the cyclic water-flooding method and
+Ministry of Oil Industry awards for creating and developing the
+thermogas method for increasing oil production. Recognized
+inventor of the USSR. Honored Worker of Science and Technology of the Russian Federation. Honored Oil Worker. Honored Worker of the Fuel and Energy Complex.
+
+Karim Halimovich Rakhmangulov – Chief Geology Officer
+Graduated from the I.M. Gubkin Russian State University of Oil
+and Gas with a degree in geology and exploration of oil and gas
+fields. He also completed an internship at the Edmonton Training Center (Canada). Has 40 years of experience in the oil and
+gas sector. He has occupied leading positions in the largest
+Russian oil companies, such as Bashneft in Bashkiria,
+ganneft, and Lukoil in Western Siberia, Oil Technology
+seas in Russia and Kazakhstan, and Sistema-Invest (AFK
+Sistema). He has published dozens of works and obtained
+29
+
+CRYPTOENERGY WHITEPAPER 2019
+
+eral invention certificates. Honored Oil Worker of Russia.
+
+Anatoly Leonidovich Urvantsev – Project Coordinator
+Graduated from the Mechanics and Mathematics Department of Novosibirsk State University in 1969. Candidate of Physical and Mathematical Sciences. He has more than 20 years of experience with the Siberian Branch of the USSR Academy of Sciences, Novosibirsk, in the
+field of computational methods and software application for modeling
+applied tasks, including those related to the needs of the oil and gas
+industry. From 2001 to 2005, he served as chief specialist of Zarubezhneft OJSC, Moscow, and was responsible for RussianVietnamese oil projects. From 2005 to 2015, he was deputy general
+director and academic secretary of the A.P. Krylov VNIIneft OJSC,
+Moscow and he coordinated R&D projects, “smart deposits” in particular. He has published more
+than 70 scientific works, including those on numerical methods for solving applied problems, problems of software development and application for modeling real processes and systems.
+
+Khavkin Alexander Yakovlevich – Project Consultant
+Doctor of Technical Sciences. Corresponding member of the Russian
+Academy of Sciences. Honored Oilman. Member of the International
+Academy of Nature and Society and the New York Academy of Sciences. Member of the International Society of Petroleum Engineers.
+Specialist in geological and hydrodynamic bases of increasing hydrocarbon yield, development of low-permeability and clay-containing
+reservoirs, multiphase hydrodynamics in porous media, nanotechnology in oil and gas production. Author of more than 170 publications, including more than 20 patents and inventions, author of the discovery.
+Khavkin, the first among oilmen, among the well-known scientists of
+nanotechnology, was awarded the UNESCO medal “for contribution to the development of nanoscience and nanotechnology” in 2010.
+
+30
+
+CRYPTOENERGY WHITEPAPER 2019
+
+Neftegazconsult-Audit – Consultant of the project
+NEFTEGAZKONSULT-AUDIT is a subsidiary of the Russian independent company
+NEFTEGAZCONSULT with the participation of the leading international petroleum auditors, Miller and Lents, Ltd. They offer a variety of consulting services to the Russian upstream petroleum industry, such as the following:
+o Audit and evaluation of field stocks;
+o Drawing up a conclusion on the investment attractiveness of the asset with subsequent technical support for geological research as the project is implemented in accordance with the terms of reference.
+o Reserves categorization by modern domestic and foreign classifications.
+o Examination of recoverable reserves, taking into account modern technologies that
+ensure a high level of oil recovery. Estimates of reserves by different methods, including method of material balance, volumetric method, the method of analogies.
+Estimation of resources by different methods, including probabilistic and deterministic methods.
+o Creation of the geological model of the deposit (correlation of sediments, stratigraphic relationships of reservoirs, allocation of objects for calculating reserves).
+
+31
+
+CRYPTOENERGY WHITEPAPER 2019
+
+Annex 1: CryptoEnergy project expenses and efficiency
+A. Expenses at field supplementary exploration and development stage
+Expenses include the following:
+• Expenses for geological prospecting works;
+• Expenses for field development;
+• Administrative costs.
+The total expenses for geological prospecting works are equal to 303 million Russian
+rubles (USD 5.05 million).
+Expenses for field development and facility construction include all expenses for exploration (15 wells) and production drilling (36 wells, including 6 re-injection wells), as well
+as expenses for field facilities’ construction, including the purchase and installation of oil
+and gas treatment equipment, creation of internal production pipeline network, warehousing and shipment of end products, recovery of accompanying oil gas, energy supply, infrastructure construction, and transport communication in the field. These main project expenses will amount to approximately 9,767 million Russian rubles (USD 162.78 million) in
+the period 2019-2028.
+Administrative expenses include management expenses and obligatory licensed
+payments for the use of bedding rock, amounting to approximately 400 million Russian rubles (USD 6.67 million).
+
+B. Expenses at the production stage
+The company is responsible for production expenses connected with the expenses
+for hydrocarbon production and its preparation for sale and transport at the production
+stage. Based on existing practice, specific production expenses for one ton of oil equivalent at oil and gas companies such as JSC Oil Corporation Rosneft, JSC Oil Corporation
+Lukoil, TNK-VR, JSC Tatneft, JSC Gazprom, JSC NOVATEK, amount to approximately
+450-500 Russian rubles/ton on average. Taking into account the geographical and geological conditions of hydrocarbon resource development at the licensed site, as well as the
+availability of developed infrastructure at that site, we used a significant margin when considering specific production expenses per ton of oil, amounting to 450 Russian rubles/ton.
+32
+
+CRYPTOENERGY WHITEPAPER 2019
+
+In addition, annual production expenses directly depend on the volumes of hydrocarbons
+produced.
+
+C. Transport expenses
+All prices were accepted, taking into account hydrocarbon sales at the production site
+and the fact that transport expenses have not been included into the product cost. Owing
+to the close proximity of the Angarsk oil refinery and the oil and gas chemical unit for processing hydrocarbons, there have not been any problems with selling any amount of liquid
+hydrocarbons in the first stage of production.
+In the future, it is necessary to prepare a logistic scheme for transporting hydrocarbons to Transib for further sale on the internal market, as well as for export. Since the
+shipment of the produced oil is planned from 2020 for export, accounting for 65% of the
+production, additional expenses for transport, transshipment in port, custom duties and
+freight (CIF Singapore) will amount to approximately 6,434 Russian rubles/ton or 950 Russian rubles/barrel (14.6 USD/barrel).
+Calculation of expenses for oil export:
+• Rail shipment (4,262 km) from the «Meget» station to the «Kozmino» station – 6,320 Russian rubles per ton;
+• Transshipment in the Kozmino port:
+- drain on the overpass of the railway – 25,387.40 Russian rubles per 100 tons;
+- transshipment oil base 16,520.04 Russian rubles per 100 tons;
+• Freight Nakhodka-Singapore 100 thous. tones (USD 20 thous. x 15 days) – USD 300
+thous.
+D. Efficiency of the project implementation
+The money flow and discounted money flow are important factors, characterizing the
+project efficiency.
+The accumulated money flow for the implementation period in 2019-2028 will be
+equal to 14,185 million Russian rubles (USD 236.41 million). However, it is necessary to
+correct the money flow by multiplying the discount rate per year for the sake of calculation
+correctness, where the discount rate is equal to 1 (1+i) raised to n, where ‘n’ is the number
+of the year from the beginning of the project’s implementation, and ‘i’ is the discount rate.
+Therefore, the flow of money in all these years becomes equivalent to the flow in the initial
+period. A discounted money flow at a discounting rate of 10% will be 12,903 million Russian rubles (USD 215.05 million).
+One more indicator, characterizing the project’s efficiency, is the internal rate of return (IRR). The IRR is such a discount rate, when the project money flow becomes equal to
+zero. The IRR indicator does not have any calculation formula and is determined by the
+formula NPV(IRR) =0. Practically, the value of the IRR indicator has a set level of accura33
+
+CRYPTOENERGY WHITEPAPER 2019
+
+cy, which can be selected. The internal rate of return (IRR) in our project is equal to
+22.27%.
+Such indicators as the average annual return on investment is also important. This
+indicator, calculated as average annual profit from the project, divided into capital expenses, is equal to 44.5%.
+
+Annex 2: Disclaimers
+Please read this disclaimers section and the legal part below. If you are in any doubt
+as to the action you should take, you should consult your legal, financial, tax, or other professional advisor(s).
+The information set forth in this entire whitepaper may not be exhaustive and does
+not imply any elements of a contractual relationship. While we make every effort to ensure
+that, any material in this white paper is accurate and up to date, such material in no way
+constitutes the provision of professional or investment advice and this white paper is provided “as is”. The information contained herein is subject to change.
+Tarex Business Ltd. as the official organizer of CryptEn tokens Initial Coin Offering
+(ICO) / Initial Exchange Offering (IEO) or any of its officers, employees or contractors, including team mentioned in this document do not guarantee, and accept no legal liability
+whatsoever arising from or connected to, the accuracy, reliability, currency, or completeness of any material contained in this white paper.
+Tarex Business Ltd. cannot guarantee a positive ROI for CE tokens, since oil price
+can drastically change, or many unforeseen circumstances, events or actions that are beyond the control of Tarex Business Ltd. might affect the market price of CryptEn tokens.
+Purchasers and CryptEn token holders should seek appropriate independent professional and investment advice prior to relying on, or entering into any commitment or transaction based on, material published in this white paper, which material is purely published
+for reference purposes alone.
+CryptoEnergy does not provide any opinion on any advice and does not make and
+expressly disclaims all representations and warranties, express, implied, statutory or otherwise, whatsoever, including, but not limited to: purchase, sale, or any other transactions
+with CryptEn tokens and the fact of presentation of this white paper shall not form the basis
+of, or be relied upon in connection with, any contract or investment decision.
+
+34
+
+CRYPTOENERGY WHITEPAPER 2019
+
+No person is bound to enter into any contract or binding legal commitment in relation
+to the sale and purchase of CryptEn tokens, and no cryptocurrency or other form of payment is to be accepted based on this white paper.
+Should you wish to execute any contract in relation to CryptEn tokens please contact
+CryptoEnergy, but before doing it you shall seek an independent legal counsel opinion that
+such transaction is legal and allowed to be made under the applicable laws of your domicile country.
+CryptoEnergy, its affiliates, directors, shareholders, employees, advisors and/or subcontractors shall have no liability for damages or losses of any kind arising out of the use,
+reference to, or reliance on this white paper or any of the content contained herein, even if
+advised of the possibility of such damages or losses.
+All matters associated with CryptoEnergy (CryptEn) project, including the terms of
+distribution of CryptEn tokens are available at http://www.cryptoenergy.io/ (the “Website”).
+CryptEn token is a cryptographic token used in the CryptoEnergy (CryptEn) project,
+an unregulated, digital asset, issued and controlled by its developers, and used and accepted by the members of the CryptoEnergy (CryptEn) project community.
+CryptEn tokens provide no direct or indirect rights to the equity capital or income, nor
+any corporate governance rights in any legal entity which is licensed for the right to use the
+mineral reserves of the licensed site of the CryptoEnergy project, or in any other legal entity of the CryptoEnergy group of companies.
+CryptEn tokens are not accepted outside the CryptoEnergy project and do not have a
+fixed exchange value equal to the amount delivered at the time of issue. The sale of CryptEn tokens is final and non-refundable.
+CryptEn tokens can not have a performance or a specific value outside the CryptoEnergy project. Therefore, CryptEn tokens should not be used or purchased for speculative or investment purposes.
+Purchase, ownership, receipt, or possession of CryptEn tokens carries no rights, express or implied, other than the expectation to use tokens to confirm the ownership right in
+equivalent amount of oil from the reserves of the project’s field.
+In particular, tokens do not represent or confer any ownership right or stake, share or
+equivalent rights, or any right to receive future revenue shares, intellectual property rights
+or any other form of participation in or relating to the Company and its corporate affiliates,
+other than any rights described in the Tokens Pre-Sale Agreement, the Tokens Sale
+Agreement.
+The tokens are not intended to be a digital currency, commodity, bond, debt instrument or any kind of financial instrument or investment carrying equivalent rights, nor are
+the tokens intended to represent any form of money or legal tender in any jurisdiction, nor
+35
+
+CRYPTOENERGY WHITEPAPER 2019
+
+any representation of money (including electronic money). Accordingly, any protections
+offered by applicable law in relation to the purchase, holding and/or sale of the instruments
+and/or investments referred to in this document shall not apply to any contribution made
+under these terms for the purchase of the tokens or to your holding or sale of CryptEn tokens.
+Warnings on the risks inherent to the participation in the CryptoEnergy project is reserved for natural or legal persons acting within the scope of their professional activities.
+Any private individual acting on a non-professional basis as a simple consumer, including
+within the meaning of EU Directive 2011/83/EU relating to consumer rights, shall refrain
+from purchase of CryptEn tokens.
+This document is being distributed only to, and is directed only at (and any purchase
+activity to which it relates will be engaged only with): (i) investment professionals; (ii) qualified or accredited investors; (iii) certified sophisticated investors; and (iv) other persons to
+whom it may otherwise lawfully be communicated (all such persons together being referred
+to as “relevant persons’’). Any investment to which this document relates is available only
+to (and any investment activity to which it relates will be engaged only with) relevant persons. This document is directed only at relevant persons and persons who are not relevant
+persons should not take any action based upon this document and should not rely on it. It
+is a condition of you receiving and retaining this document that you warrant to the Company that you are a relevant person. If you fail to do so, you agree to hold harmless and indemnify the Company from any liability, risk or penalties resulted from your negligence or
+willful misconduct.
+Any person purchasing CryptoEnergy tokens expressly acknowledges technical and
+market uncertainties which are inherent in any business development projects as presented in this document and that the CryptoEnergy project, therefore, may not come to a final
+realization as planned or may have to be abandoned, or the rights or the token purchasers
+may vary significantly from those listed in this document or any documents available at the
+Website.
+You acknowledge and agree that there are risks associated with purchasing, holding,
+using and disposing of CryptEn tokens in connection with the oil price volatility and the
+CryptoEnergy project itself, as disclosed and explained in this document and in the materials available at the Website.
+Before purchasing CryptEn, any purchaser should carefully consider the risks, costs
+and benefits of acquiring CryptEn and, if necessary, receive independent recommendations in this regard.
+If you have any questions regarding any of the risks, please refer to the User Agreement, the Tokens Pre-Sale Agreement and the Tokens Sale Agreement documents available at the Website or contact us at support@cryptoenergy.io
+
+36
+
+CRYPTOENERGY WHITEPAPER 2019
+
+The offering of CryptEn on any trading platform is performed in order to allow the use
+of the CryptoEnergy project benefits and not for any speculative purposes. The offering of
+CryptEn on any trading platform does not change the legal qualification of the tokens,
+which remain a simple means for operations within the CryptoEnergy project.
+The Company and/or its subsidiaries should not be treated as a consultant for any legal, fiscal or financial matters. Any information contained in this document is provided for
+general information purposes only and the Company does not make any representation as
+to the accuracy or completeness of this information.
+
+Regulatory authorities in many countries carefully study the enterprises and operations related to cryptocurrencies. In this regard, regulatory measures, investigations or actions may affect the activities of the CryptoEnergy project and even limit or prevent its development in the future. Any person who undertakes to purchase CryptEn must be aware
+of the CryptoEnergy business model. This white paper and the documents available at the
+Website may be changed or need to be modified due to new regulatory requirements and
+compliance with any applicable laws in any jurisdiction. In this case, the purchasers
+acknowledge and understand that neither the Company nor its subsidiaries are liable for
+any direct or indirect loss or damage caused by such changes.
+The purchaser expressly acknowledges and accepts that he/she will not be entitled to
+and shall not sue or bring any direct or indirect legal action or lawsuit before any courts,
+regulators, arbitration bodies and/or any alternative dispute settlement bodies against the
+Company, its affiliates, directors, shareholders, employees, advisors and/or contractors
+(the “CryptoEnergy Parties”) in the event of the non-performance, nondeployment or nonimplementation of the CryptoEnergy project, even in cases where CryptEn tokens have
+lost some or all of their value.
+In addition, none of the CryptoEnergy Parties may in any way be held liable, without
+limitation, for any of the following: (1) any delays with implementation of the CryptoEnergy
+project at any stage for the reasons out of reasonable and fair control of the CryptoEnergy
+Parties; (2) any changes to the business strategy of the CryptoEnergy project to be made
+solely by the CryptoEnergy Parties; (3) any limitations to the rights of the CryptEn tokens
+holders at any stage; (4) any non-compliance of the tokens purchasers with applicable
+laws and regulations; (5) any changes to this document, terms and conditions of the CryptEn tokens distribution and any other documents or materials available at the Website; (6)
+any technical failures in smart contract operations; (7) non-performance, failure or unavailability of the services due to a third party or the purchaser breach of obligations; (8) indirect
+or direct damages and losses related to purchase from the Company by the purchaser of
+CryptEn tokens; (9) suspension of access, temporary or permanent suspension of the
+CryptoEnergy project (in particular, arising from a request issued by an appropriate administrative or judicial authority, or notification received from a third party); (10) loss, alteration
+37
+
+CRYPTOENERGY WHITEPAPER 2019
+
+or destruction of all or part of the content (information, data, applications, files or other
+items) hosted on the infrastructure and data backups in particular; (11) mismatch between
+the CryptoEnergy project and the Purchaser’s needs; (12) security incidents relating to use
+of the Internet, concerning in particular the loss, alteration, destruction, disclosure or unauthorized access to the purchaser’s data or details on or via the Internet; and/or; (13) damages to systems, applications and other items installed by the purchaser on any infrastructure.
+
+KYC Procedure
+Focusing on the safety of your contributions, during the ICO/IEO we will request every token holder to go through the identification procedure (KYC) to confirm the identity and
+country of residence.
+Each Participant is required to pass the KYC. In order to proceed with KYC check
+during the ICO, on your personal profile page on the website http://www.cryptoenergy.io/ ,
+please attach scanned copies of the documents listed below:
+1. For а physical person - passport or ID (page with photo, name and number); for a
+legal person - passport or ID (page with photo, name and number) of the Director or authorized representative; and
+2. Proof of residence with country of origin:
+- for a physical person in case of non-compliance with the country that issued the passport
+or ID
+- utility bill or Bank account statement with name and address;
+- for a legal person - a document of the authorized body of the country of registration confirming the current status of the Director or a power of attorney for the representative, certified by a notary or other legal means; and
+3. Selfie with a piece of paper with handwritten CryptEn logo.
+Within 10 (ten) business days your documents will be checked for KYC compliance.
+
+38
+
+CRYPTOENERGY WHITEPAPER 2019
+
+If you are an accredited investor from the United States you are required to verify
+your status with additional documents mentioned in the section Accredited Investor Verification.
+You do not have to provide any information if you do not feel comfortable doing so. If
+you do not provide all of the requested information, you should not be able to receive your
+BIT tokens. In this case, please follow the Refund procedures described below.
+
+Refund Procedure
+In order to claim a refund of your contributions made for CryptEn tokens, please send
+us email to support@cryptoenergy.io with Subject “Refund” with your ETH or BTC address,
+your full name and your email and attach the scanned copies of the documents listed below:
+1. For a physical person - passport or ID (page with photo, name and number); for a
+legal person - passport or ID (page with photo, name and number) of the Director or authorized representative; and
+2. Proof of residence with country of origin:
+- for a physical person in case of non-compliance with the country that issued the passport
+or ID - utility bill or Bank account statement with name and address;
+- for a legal person - a document of the authorized body of the country of registration confirming the current status of the Director or a power of attorney for the representative, certified by a notary or other legal means; and
+3. Selfie with a piece of paper with handwritten ETH or BTC address to which you
+wish to obtain the refund.
+Within 10 (ten) business days your documents and video will be checked and Refund
+will be initiated.
+
+39
+
+CRYPTOENERGY WHITEPAPER 2019
+
+The Company reserves the right to compensate for losses incurred on the date of the
+refund request, if the refund is made due to the lack of confirmation of the status of an Accredited Investor.
+
+Accredited U.S. Investor Verification
+An accredited investor, in the context of a natural person, includes anyone who:
+• earned income that exceeded USD 200,000 (or USD 300,000 together with a
+spouse) in each of the prior two years, and reasonably expects the same for the current
+year, OR
+• has a net worth over USD one million, either alone or together with a spouse (excluding the value of the person’s primary residence).
+On the income test, the person must satisfy the thresholds for the three years consistently either alone or with a spouse, and cannot, for example, satisfy one year based on
+individual income and the next two years based on joint income with a spouse. The only
+exception is if a person is married within this period, in which case the person may satisfy
+the threshold on the basis of joint income for the years during which the person was married and on the basis of individual income for the other years.If calculating joint net worth
+with a spouse, it is not necessary that property be held jointly. Calculating net worth involves adding up all your assets and subtracting all your liabilities. The resulting sum is
+your net worth.
+The value of your primary residence is not included in your net worth calculation. In
+addition, any mortgage or other loan on the residence does not count as a liability up to the
+fair market value of the residence. If the loan is for more than the fair market value of the
+residence (i.e., if your mortgage is underwater), then the loan amount that is over the fair
+market value counts as a liability under the net worth test. Further, any increase in the loan
+amount in the 60 days prior to your purchase of the securities (even if the loan amount
+does not exceed the value of the residence) will count as a liability as well. The reason for
+this is to prevent net worth from being artificially inflated through converting home equity
+into cash or other assets.
+In addition, entities such as banks, partnerships, corporations, nonprofits and trusts
+may be accredited investors. Of the entities that would be considered accredited investors
+and depending on your circumstances, the following may be relevant to you:
+• any trust, with total assets in excess of USD five million, not formed to specifically
+purchase the subject securities, whose purchase is directed by a sophisticated person, or
+• any entity in which all of the equity owners are accredited investors.
+
+40
+
+CRYPTOENERGY WHITEPAPER 2019
+
+The SEC does not require any specific verification method or process for accredited
+investor verification. Depending on the circumstances, the company may rely on a written
+confirmation from a third party to verify your accredited investor status.
+In order to verify your accredited investor status please provide to support@cryptoenergy.io a written confirmation of your accredited investor status obtained
+from any of the following third parties:
+• a registered brokerdealer: or
+• SEC-registered investment adviser; or
+• licensed attorney; or
+• certified public accountant.
+Such third party could be engaged directly by you (e.g., your personal broker-dealer,
+investment adviser, attorney or certified public accountant).
+You can obtain information about a registered broker by visiting FINRA’s BrokerCheck Site: https://brokercheck.finra.org/
+You can obtain information about an investment adviser by visiting the SEC’s Investment Adviser Public Disclosure Site: https://adviserinfo.sec.gov/
+You can obtain information about a licensed attorney or certified public accountant by
+contacting the appropriate state bar or board of accountancy.
+
+41
+
+

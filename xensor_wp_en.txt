@@ -1,0 +1,959 @@
+XENSOR
+Project
+
+IoT network for automation of machinery and
+fixed asset management
+
+Contents
+
+XENSOR Project
+1
+
+Abstract
+
+2
+
+Project Background
+2.1 Project Background
+2.2 Smart City Market
+2.3 Problems
+
+3
+
+Xensor Project
+3.1 Project Description
+       1) Asset Surveillance - Monitoring Farmland,
+Factory, and Buildings
+       2) Asset Control - Automation of Farmland and
+Factory Facilities
+       3) Communication Network
+       4) Data Market
+3.2 Business Model
+       1) Asset Automation Based on Hardware Sensors
+       2) IoT Network Based on Gateways
+       3) Decentralized Market
+3.3 XSOR Token Economy
+
+4
+
+Token Information
+
+5
+
+Roadmap
+
+6
+
+Team & Advisor
+6.1 Team
+6.2 Advisor
+
+7
+
+Business Partners
+
+03
+
+IoT network for automation of machinery and
+fixed asset management
+
+XENSOR
+Project
+
+1
+
+Abstract
+
+The advent of the fourth industrial revolution amidst novel innovations and technology
+induced revolutionary changes in everyday life. In particular, technology behind internet of things
+(IoT) began to receive much attention in constructing smart cities for its potential to solve
+problems concerning superannuated cities, traffic, energy deficiency, and crime. As both
+developed and developing nations competed to promulgate “city revolution” by devising smart
+cities, the importance of IoT garnered even more importance.
+
+However, many hurdles, such as high investment costs and the dangers of data hacking,
+impeded the rapid commercialization of IoT. In order to manage entire cities and assets,
+communication networks requiring the manual installation of numerous gateways had to be
+implemented, and the costs of server construction and maintenance amounted to considerable
+burden. As a result, insufficient funding of the communication networks led to holes in security
+that increased the vulnerability to hacking.
+
+Xensor, a business that previously developed and manufactured IoT sensor hardware,
+tackled the challenge to provide the IoT infrastructure required to construct smart cities. In doing
+so, Xensor decided to adapt blockchain technology and cryptocurrency ecology to solve the two
+ever-looming problems of IoTs: frail security, and high investment as well as maintenance costs.
+Xensor project has elevated the efficiency of data storage and transactions by automating specific
+points of data management, and has simultaneously lowered the cost of constructing IoT
+communication networks. In addition, Xensor plans to apply an incentive policy to its hardware
+clients by tokenizing data and providing monetary value to the data provided. These aspects play
+important roles in the structure of the Xensor ecology.
+
+All in all, Xensor project has taken the challenge to integrate IoT, one of the main
+components of the fourth revolution, and blockchain to help construct efficient and effective
+smart cities.
+
+04
+
+IoT network for automation of machinery and
+fixed asset management
+
+XENSOR
+Project
+
+2
+
+Project Background
+
+2.1
+
+Smart City Outline
+The fourth revolution has imbued our lives with diverse revolutionary technologies.
+
+Among the various innovations, smart cities based on IoT technology has received much
+attention as the solution to problems that traditional cities experienced. A smart city refers to a
+city in which its facilities and buildings have been applied with information and communications
+technology (ICT), including IoT, to provide effective services to its residents. The concept of smart
+cities is expanding throughout the world as the infrastructure and service that can solve problems
+concerning superannuated cities, traffic, energy deficiency, and crime.
+
+As an amalgam of multiple revolutionary technologies and city infrastructures, a smart
+city provides features that can be classified into the following three categories: infrastructure,
+data, and service. The “infrastructure” category begins the construction of ICT-based businesses,
+and includes elements concerning the city, ICT, and spatial information. The “data” category
+processes the information gathered by the infrastructure, and expands the network both vertically
+and horizontally, encompassing both IoT and data-sharing. Finally, it is the job of the “service”
+category to analyze the data and produce algorithms to better the lives of the residents and
+achieve “city revolution.” Among these elements, the technology behind IoTs, which connects
+devices and infrastructures within the city and gathers data from various sensors, takes the
+largest share of the pie as its market size is the greatest and as it requires the most investment.
+
+Recently, both develop and developing countries are competing with each other to
+promote their own version of a smart city that serves as the model of city revolution. By
+expanding city infrastructure that uses state-of-the-art technologies, they all aim to create smart
+cities that simultaneously improve the quality of life and reflect characteristics of the country, city,
+and culture.
+
+05
+
+IoT network for automation of machinery and
+fixed asset management
+
+XENSOR
+Project
+
+[ Fig 1 ]  Concept of Smart City Service
+
+2.2
+
+Smart City Market
+[ Fig 2 ]  Global Smart City Market(US$bn), 2018 - 2025
+
+$3,000
+21.7%
+
+$2,577
+
+20.6%
+
+$2,500
+
+19.5%
+18.5%
+17.5%
+
+$2,094
+
+16.3%
+$2,000
+$1,721
+$1,428
+
+$1,500
+$1,194
+$1,007
+$1,000
+
+$858
+$737
+
+$500
+
+$2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+Source: ”Smart Cities Market Analysis & Segment Forecasts to 2025”, Grand View Research, 2018
+
+06
+
+IoT network for automation of machinery and
+fixed asset management
+
+XENSOR
+Project
+
+The global smart city-related market is expected to reach USD 1.4 trillion by 2020.
+Currently showing annual average growth rate of 10~19%, the market is showing particularly
+rapid growth in the Asia Pacific region. Asia is expected to increase its share of the global city
+market from 28.6% in 2016 to 33.9% by 2025.
+
+Smart factories and smart buildings that constitute a smart city are heavily influenced by
+IoT sensors, which enable the monitoring of traffic, energy, living, welfare, and water
+management systems. Consequently, the global sensor market, where Xensor’s expertise lies, is
+expected to show noteworthy growth from USD 5.1 Billion in 2016 to USD 6.3 Billion in 2021.
+Over 1 billion new sensors are released every year, and average annual increase rate of total
+sensor production surpasses 50%.
+
+[ Fig 3 ]  Global Sensor Market Size(US$Mn). 2016 - 2021
+
+$9,000
+CAGR 4.5%
+
+$8,000
+$7,000
+$6,000
+$5,100
+
+$5,330
+
+$5,569
+
+$5,820
+
+$6,082
+
+$6,356
+
+$5,000
+$4,000
+$3,000
+$2,000
+$1,000
+$2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+Source: Markets and Markets
+
+2.3
+
+Problems
+IoT technology, which serves as the backbone of a smart city, comes with considerable
+
+cost and dangers of security. A smart city needs to efficiently store, utilize, and share data
+resulting from hyperconnected services, platforms, networks, and devices. Therefore, significant
+investment on gargantuan cloud services that manage sensors and data is required, and even
+
+07
+
+IoT network for automation of machinery and
+fixed asset management
+
+XENSOR
+Project
+
+after the construction of the infrastructure, continued flow of capital is necessary for the
+maintenance of the sensor hardware and servers.
+
+Security is of paramount importance in IoTs that store data, monitor, and govern smart
+cities. In fact, the nature of IoT networks poses a grave security risk: a compromise of a single
+device may result in the hacking of the entire communication network, rendering substantial
+damages. However, because of the high investment costs of IoT solutions, many users have
+resorted to cheaper devices characterized by substandard security.
+
+Moreover, the dissemination of cheaper devices undermine the credibility of the collected
+data because of their vulnerability to data hacking. Establishing the veracity of the data is crucial
+to the function of IoTs as the collected data is used to produce algorithms that provide the very
+services. The production of algorithm itself requires high level of difficulty, expertise, and
+technology, and thus comes at a great cost. If the credibility of the data is undermined, the
+algorithm also becomes futile, adding to the damages suffered by the investors.
+
+08
+
+IoT network for automation of machinery and
+fixed asset management
+
+XENSOR
+Project
+
+3
+
+Xensor Project
+
+3.1
+
+Project Description
+Xensor, a business that previously developed and manufactured IoT sensor hardware,
+
+tackled the challenge to provide the IoT infrastructure required to construct smart cities. Xensor
+project has improved the efficiency of data storage and transactions by automating specific
+aspects of data management, thus lowering the cost of constructing IoT communication
+networks. Xensor has also integrated blockchain technology in device networks to ensure the
+credibility of the data, and plans to implement an incentive policy to its hardware clients.
+
+Blockchain technology is ideal in supporting data transmission, automated services,
+monitoring, and mutual sharing services among devices within IoT networks. Although some
+drawbacks hamper the processing time and scalability of blockchain technology, the
+shortcomings can be compensated by utilizing IoT-specific main-nets and exploring everdeveloping innovations.
+
+Xensor will develop its project in the following order: asset surveillance, asset control,
+communication networks, and data market. Since Xensor has developed and commercialized
+sensor devices, the two stages of asset surveillance and asset control are already obtaining good
+results. Currently, Xensor is in the process of creating scalable IoT communication networks that
+can easily be adapted in various fields.
+
+[ Fig 4 ]  Xensor device launch product
+
+09
+
+IoT network for automation of machinery and
+fixed asset management
+
+XENSOR
+Project
+
+1) Asset Surveillance - Monitoring Farmland, Factory, and Buildings
+
+Traditionally, various equipment were necessary to safely monitor a building 24 hours a
+day, requiring many maintenance personnel to make rounds of inspection and tend the
+equipment. However, hiring a considerable number of employees for every building is inefficient
+in terms of both time and cost. Such a feat can easily be replaceable by automated sensors.
+
+A large building with total floor area of 26,000㎡ requires approximately 200 sensors.
+Connecting all these sensors with wired cables is both physically and financially cumbersome,
+and even with conventional wireless sensors, the fee per circuit is still costly due the
+shortcomings of IoTs.
+
+Xensor provides the solution by applying low power wide area (LPWA) technology to
+connect sensors that are as far as 15km from the gateway. Even with a vast number of walls, a
+building with total floor areas of 26,000㎡ and 66,000㎡ requires only one and three gateway(s),
+respectively, to construct communication networks that span the entire area. With Xensor, only
+about five maintenance personnel is required to cover a total floor area of 26,000㎡.
+
+LPWA technology is commonly used in the area of IoT to conduct remote surveillance
+and monitoring by sensors that relay low-capacity data at slower rates. Previously, technology
+such as Bluetooth and Zigbee were used in IoT connections, but these were limited to an area
+with a radius of only 30 meters. LPWA made a breakthrough in IoT technology by allowing
+transmission of data over dozens of kilometers, consuming less electricity, and conserving
+battery life over many years.
+
+Currently, Xensor is providing its asset surveillance service to many large-scale buildings
+in Seoul, Incheon, Vietnam, and Indonesia.
+
+10
+
+IoT network for automation of machinery and
+fixed asset management
+
+XENSOR
+Project
+
+[ Fig 5 ]  Xensor Solution - Asset Surveillance
+
+2) Asset Control - Automation of Farmland and Factory Facilities
+
+Farms that are immense in size, as those in California, require helicopters to spread
+agricultural pesticides. In order to reduce the inefficiency that results from using expensive
+helicopters, a novel method of watering the crops by installing equipment in sectors of the
+farmland was developed. Unfortunately, the innovation could not distinguish areas that were well
+watered from those that were dry, and the produce worsened.
+
+Such a problem can be easily solved by using sensors that monitor the humidity of the
+land and IoT technology that controls water from the sprinklers. However, it would be very
+inefficient to use conventional IoT technology such as Wifi and Bluetooth to cover the vast area
+of farmland.
+
+Xensor provides the solution with its miniaturized gateways that can connect sensors
+within a 15km radius. Xensor’s products can thus create automated “smart farms,” and even
+smart factories using the same technology in appropriate positions.
+
+11
+
+IoT network for automation of machinery and
+fixed asset management
+
+XENSOR
+Project
+
+[ Fig 6 ]  Xensor Solution - Environmental Control
+
+3) Communication Network
+
+Just dozens to hundreds of Xensor gateways, which act as the backbone of the
+infrastructure of smart cities, can establish IoT communication networks throughout an entire city
+at a low cost. Currently, Xensor provides asset surveillance and control services with its sensors
+and communication technology. By advancing into the third stage, the communication network,
+Xensor will be able to provide more diverse services using the scalability of IoT devices and
+networks.
+
+Many countries in South-East Asia, which are home to some of the most famous tourist
+spots, are vulnerable to calamities and safety accidents due to the lack of city infrastructure. For
+instance, drainage systems become easily overburdened during rainy season, compromising
+roads and thus tourist services. IoT solutions may provide a solution to this predicament, but the
+substantial cost deters the city from installing the necessary equipment.
+
+Xensor, however, can be an option for these cities in developing countries of South-East
+Asia, as it can set up communication networks at a lower installation cost and an even lower
+maintenance fee.
+
+12
+
+IoT network for automation of machinery and
+fixed asset management
+
+XENSOR
+Project
+
+[ Fig 7 ]  Xensor Solution - Communication Networks
+
+4) Data Market
+
+Xensor sensors can currently detect fire, leaks, power failures, and malfunction, and a
+new sensors with functions detecting air quality and floating population are under development.
+The aggregated data from these sensors may contain danger-related information of a particular
+area, providing valuable information with monetary value.
+
+For example, black boxes in automobiles are usually used to assess car accidents, but car
+insurance companies provide discounts if the car owner chooses to install a black box in his or
+her car. Similarly, Xensor can provide data that predicts danger and accelerates emergency
+response, which may also lead to financial incentives after the installment of Xensor devices.
+
+Xensor gateways can be applied in all services of a smart city once it is installed. In
+particular, if autonomous cars are commercialized, Xensor can be used to calculate the risk of car
+accidents and predict traffic. Xensor can collect data from any location, and it is not limited to
+buildings, farmlands, and factories. Such data can be of fiscal value to insurance companies,
+investment banks, governmental institutions, consulting firms, and credit card companies.
+
+One of the goals of Xensor is to provide a decentralized data market platform based on
+blockchain and cryptocurrency technology. Data purchasers from anywhere in the world may
+procure data uploaded in the data market with cryptocurrency, and data sellers may sell the
+collected data, creating a healthy market with continuous flow of demand and supply.
+
+13
+
+IoT network for automation of machinery and
+fixed asset management
+
+XENSOR
+Project
+
+3.2
+
+Business Model
+The business model of Xensor is composed of three elements. Firstly, Xensor provides
+
+asset automation services using its sensors. Secondly, Xensor creates IoT communication
+networks using its gateways. Thirdly, Xensor establishes a decentralized data market where the
+data collected from the previous two items may be traded.
+
+The three elements of Xensor’s business model operate the business under an organic
+relationship that begins with the automation service enabled by Xensor sensors. They are backed
+by sensor, terminal, and network technology, which are applicable in both immobile and mobile
+assets, and in both miniature and large assets.
+
+Many sensors detect various changes, including temperature, vibration, movement, and
+weight. The data collected by these sensors are stored within the interior and then integrated at
+the terminal. The terminal exists in various forms in a smart city, be it an automobile, air
+conditioner, or a heavy machinery. The integrated data can be shared and analyzed through the
+decentralized data market to provide various services for the assets of the smart city.
+
+[ Fig 8 ]  Xensor Business Model
+
+1) Asset Automation Based on Hardware Sensors
+
+14
+
+IoT network for automation of machinery and
+fixed asset management
+
+XENSOR
+Project
+
+Xensor devices for the smart city is composed of multiple sensors. Internal machinery
+includes temperature, humidity, and gyro sensors that detect earthquakes and misplacement.
+External sensors detect fire, leak, power shortage, and malfunction. The fire sensor developed by
+Xensor deserves a special mention as it is different from other commercial fire sensors.
+
+One of the main reasons for fire in a building is that sprinklers are turned off in a particular
+area that is undergoing interior redesign or partial reconstruction. Sprinklers need to be
+disconnected lest a sparkle due to welding may set off the sprinklers of the entire building. The
+workers have to take the risk of working amidst inflammable gas such as toluene produced from
+paint or paint thinners while the sprinklers are turned off.
+
+Fire sensors developed by Xensor, however, can detect 14 types of flammable gases
+unlike conventional fire sensors that can only detect carbon monoxide. By continuing to add
+powerful and distinctive features in its sensors, Xensor strives to produce even more specialized
+data.
+
+[ Fig 9 ]  Capacity of a Fire-detecting Xensor Sensor
+
+15
+
+IoT network for automation of machinery and
+fixed asset management
+
+XENSOR
+Project
+
+2) IoT Network Based on Gateways
+
+Xensor sensors can perform both asset surveillance and asset control by using their
+sensed data to operate a controller. An IoT network is required for this task, but devising a
+network using conventional technology such as WiFi and Bluetooth are very inefficient.
+
+Xensor’s miniaturized gateway can provide wireless communication around a 15km
+radius, enabling the construction of highly efficient IoT networks. Despite its minimized size,
+Xensor gateway can control an entire farm, and solve environmental tasks such as controlling city
+lights and car parking.
+
+Moreover, installment of mere hundreds of Xensor gateways can create a communication
+network that covers an entire city. With the integration of sensors and communication
+technology, the network can provide diverse services for the city, including but not limited to
+environment surveillance and control. The global efforts to design smart cities is a great
+opportunity for Xensor to provide communication infrastructure to developing countries in SouthEast Asia
+
+The second-generation Xensor devices currently under development have achieved
+enough miniaturization that they can function even within IoT networks of wire services. In other
+words, the new Xensor devices become fully functional just after attaching onto point-of-sale
+(POS) devices in franchise and retail stores. Xensor has partnered with Nuvent, a rising commerce
+company in Korea, to install sensors in the head office buildings of ten franchise firms and 3,400
+retail stores. By doing so, Xensor will be able to collect diverse data that will be conducive to the
+creation of a decentralized data market.
+
+3) Decentralized Data Market
+
+Xensor sensors can currently detect fire, leaks, power failures, and malfunction, and a new
+sensors with functions detecting air quality and floating population are on the way. Data collected
+by the sensors may be used to evaluate risks and prevent accidents. Demand for such data as well
+as the subjects of investigation are increasing with time. Danger-related information of a particular
+area is crucial for the automated services of smart cities. Xensor project aims to create a
+decentralized data market where the data collected from its sensors are put to practical use.
+
+16
+
+IoT network for automation of machinery and
+fixed asset management
+
+XENSOR
+Project
+
+In addition to the danger-related data from its sensors, Xensor, with its secondgeneration models, will accrue even more data by targeting the POS market. Data that
+accumulates with the dissemination of Xensor gateways will by anonymized and encrypted to be
+uploaded in the data market, and when a buyer purchases the data with cryptocurrency, the
+supplier will also be rewarded.
+
+3.3
+
+XSOR Token Economy
+The token economy of Xensor project will be used to establish the aforementioned
+
+business model. Accordingly, the most important entity in Xensor’s token economy is the Xensor
+hardware holder, who collects data from the sensors which play a key role in the business model
+and the token economy.
+
+The Xensor team has decided that mining blocks by producing and verifying blocks is
+analogous to running business using Xensor sensors that produce and verify data. By the same
+analogy, the Xensor hardware holder corresponds to a node that produces and verifies blocks,
+and the act of producing data corresponds to mining blocks. Xensor’s token economy will operate
+on such “data-mining” model.
+
+The holder of the Xensor hardware can install an application provided by Xensor to check
+the amount of data collected by his or her hardware. Xensor will provide an opportunity for the
+holder to participate as a “miner” in Xensor’s token economy by asking if he or she agrees to
+offer the data for the data market.
+
+If the Xensor hardware holder refuses to offer the data, he or she will not participate in
+the token economy, and will receive neither rewards nor disadvantages. If the holder does indeed
+agree to offer the data, he or she will become a constituent of Xensor’s token economy and
+receive rewards for offering the data.
+
+17
+
+IoT network for automation of machinery and
+fixed asset management
+
+XENSOR
+Project
+
+[ Fig 10 ]  Xensor Token Economy Flow
+
+Hardware Maintenance Parts
+Purchase(XSOR)
+
+XSOR Reward encashment
+
+Xenix
+
+Hardware
+Owner
+(Person)
+
+Gateway
+
+DATA MKT
+
+Data
+aggregation
+
+DATA Pool
+
+Data
+transmission
+
+Data supply
+XSOR Reward
+
+Proceesing Data
+
+Data
+Anonymous
+
+Data
+randomization
+
+Data
+Buyer
+Data supply
+Fiat
+
+Non-processed
+Data
+Data
+Buyer
+
+XSOR Pool
+Hardware
+Owner
+(Company)
+
+List data by
+category
+(e.g. Person,
+Company,
+cities, etc)
+
+Exchange
+XSOR
+
+XSOR payment
+
+Data
+Buyer
+
+The data collected from Xensor hardwares will be anonymized and edcrypted for the data
+market to remove any kind of personal information. This process will occur then the data reaches
+the Xensor gateway. Before being uploaded into the decentralized data market, anonymization
+and edcryption will automatically occur as the data are classified into corresponding categories.
+The purchaser will not be able to determine from whom or where the purchased data comes
+from, but will be able to examine the individual category of the data.
+
+The data purchaser will need to purchase XSOR tokens to purchase data from Xensor’s
+decentralized data market. The Xensor hardware holder may sell his or her XSOR tokens received
+as compensation for offering data in exchanges for fiat or other cryptocurrencies. The holder may
+also use the XSOR tokens to purchase services rendered by Xensor, including solution services,
+hardware maintenance, hardware purchase, and communication network service. The data
+purchaser and the hardware holder propel the XSOR token economy.
+
+The XSOR tokens paid by the data purchaser will be stored in the XSOR Token Pool. After
+the deduction of a minimal fee required to operate the services, all the newly stored XSOR tokens
+will be used to compensate Xensor hardware holders who offer their data.
+
+18
+
+IoT network for automation of machinery and
+fixed asset management
+
+XENSOR
+Project
+
+The amount of XSOR tokens given as compensation for offering data will be determined
+after consideration of services that can be purchased using XSOR tokens, including
+communication network fee and maintenance fee.
+
+19
+
+IoT network for automation of machinery and
+fixed asset management
+
+XENSOR
+Project
+
+4
+
+Token Information
+
+Xensor will manage “XSOR Token Pool,” supplied with a fixed number of XSOR tokens,
+to reward the Xensor hardware users for providing data. Sixty-five percent of the initial circulating
+supply will be stored in the XSOR Token Pool, but as the number of Xensor hardware holders
+increase, the stored tokens may deplete quickly. Therefore, the Xensor Team will use a portion of
+its profits to purchase XSOR tokens from the market and store them in the XSOR Token Pool.
+
+The tokens in the XSOR Token Pool will only be used to reward the Xensor hardware
+owners for providing data, and no entity will be able to approach the pool for other purposes.
+
+1) Token Allocation
+
+Reserve 10%
+XSOR Sale 20%
+Team & Advisor 10%
+
+Next Business 30%
+
+2) Fund Allocation
+
+XSOR Token Pool 30%
+
+Market Stabilization 10%
+
+Legal ＆ Operations 20%
+
+Software Development 30%
+
+Manufature 40%
+
+20
+
+IoT network for automation of machinery and
+fixed asset management
+
+XENSOR
+Project
+
+5
+
+Roadmap
+
+Business Roadmap
+
+Development Roadmap
+
+2019 1Q
+XS Token Private-sale
+XS Token Pre-sale
+
+2019 2Q
+XSOR Coin crowd-sale
+Indonesian Factories Installations
+
+2019 2Q
+XSOR Project Launch
+
+2019 3Q
+Vietnamese Factories Installations
+
+2019 4Q
+Korean retail Stores Installations
+
+2019 4Q
+Fine Dust Sensor Launch
+xensor B2C device launch
+(xensor 2.0)
+
+2020 1Q
+Xensor Network Installations
+in Miding Vietnam
+
+2020 1Q
+Floating population sensort
+Launch
+
+2020 2Q
+Data Market
+
+21
+
+IoT network for automation of machinery and
+fixed asset management
+
+XENSOR
+Project
+
+6
+
+Team & Advisor
+
+6.1
+
+Team
+
+CEO · Daryl Lee
+
+COO · Joongsoo Sim
+
+CMO · Yoseop Seon
+
+Publisher at thatGEAR
+
+COO at xenixstudio
+
+National Information-
+
+Member at Judicial
+
+Director of Business Development
+
+society Agency
+
+Information and
+
+at APIS Project
+
+National IT Industry-
+
+Development Committee
+
+Promotion Agency
+
+of Supreme court
+
+2 patent of block chain
+
+Council Member of Songdo
+
+technology
+
+Blockchain forum
+
+CTO · Yeongho Kim
+
+CDO · Moonjoo Na
+
+Contents · Seunghwan Hwang
+Journalist of theGEAR
+
+CTO at xenixstudio
+
+CDO at xenixstudio
+
+CTO at xenixmedia
+
+CDO at xenixmedia
+
+CMO at xenixstudio
+
+Master of Engineering,
+
+CDO at Mahatra
+
+CMO at xenixmedia
+
+Computer Science
+
+CDO at nzple
+
+CMO at Mahatra
+
+(Sungsil University)
+
+22
+
+IoT network for automation of machinery and
+fixed asset management
+
+XENSOR
+Project
+
+6.2
+
+Advisor
+
+Bitsonic, CEO · Jinwook Shinn EVVO IoT, CEO · Ryan WONG
+CEO at Bitsonic
+
+SDChain, CEO · David S. Pan
+
+CEO at Evvo Group
+
+CEO at SD Chain
+
+CEO at Scoopmedia
+
+CEO at Evvo IoT
+
+Director of IoT Asia
+
+CEO at Drive T
+
+Executive Director
+
+Marketing at Arm
+
+Adviser of IONIA
+
+of CCM Group, SG
+
+Masters in Finance, Harvard
+
+University of Texas, Austin
+
+BA in UC Berkeley
+
+Hexlant, CEO · Jinwoo Noh
+CEO at Hexlant
+
+23
+
+IoT network for automation of machinery and
+fixed asset management
+
+XENSOR
+Project
+
+7
+
+Business Partner
+
+24
+
+IoT network for automation of machinery and
+fixed asset management
+
+XENSOR
+Project
+
+Investor Notice
+
+This document has been written to convey information regarding the platform the
+XENSOR team is planning and developing. This document only serves to convey information, and
+no content in this document states or guarantees its accuracy or safety.
+
+This document includes information from sources that the XENSOR team deemed
+credible, but the XENSOR team does not guarantee the accuracy and suitability of the
+information. The XENSOR team is not legally liable to any losses or damages due to the
+information regarding the team or the XENSOR platform.
+
+The contents of this document contain information written after interpretation at the
+time, and are subject to change without notice, and the XENSOR team has no responsibility to
+revise, rectify, or renew this document.
+
+Those who receive this document must rely on their own knowledge, investigation,
+judgement, and evaluation of the information included in this document, and the XENSOR team,
+employees, and shareholders have no responsibility or obligation whatsoever to anyone for
+statements or opinions that are mentioned, alluded, produced, included, derived, or omitted from
+this document.
+
+This document shall only be used in Xensor.cc, and for no purpose can anyone
+redistribute, copy, transfer, or publish this document entirely or partly without the prior written
+consent of the XENSOR team.
+
+

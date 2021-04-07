@@ -1,0 +1,547 @@
+Disclaimer
+
+3
+
+About the token
+
+4
+
+Technical specifications, emission
+
+5
+
+Legal restrictions
+
+6
+
+Investing in cryptocurrency
+
+7
+
+Maincoin mission and plans
+
+9
+
+Maincoin products and developm
+
+10
+
+Justification of the return on investment in Maincoin
+
+21
+
+ICO Model
+
+22
+
+Use of raised funds
+
+24
+
+Incineration
+
+25
+
+Conclusion
+
+26
+
+2
+
+Disclaimer
+This document is not an advertising catalog or other document
+containing an offer of securities, and is not intended to offer
+securities or attract investment in securities in any jurisdiction.
+
+3
+
+About the tokenе
+Maincoin token is a secure open source software that runs on the basis
+of Ethereum and is supported by hundreds of thousands of users.
+Maincoin token is a decentralized digital currency that allows you to make
+instant payments around the world.
+Maincoin token is a digital money that is better than cash, because all
+transactions are anonymous and secure.
+Only you can manage all your funds, as the Blockchain technology is an
+independent system and does not have third parties who could steal your
+funds or somehow affect your transactions.
+The main objective of Maincoin is to create a global and independent
+financial structure.
+This allows us to solve one of the most important problems of different
+profile businesses – the creation of an ecosystem in which the token is
+used as a single means of payment.
+By the time of the ICO, the Maincoin token already has a large number of
+markets and real use as a means of payment in a rapidly growing business.
+All these factors, of course, guarantee the constant growth of the Maincoin
+value and the development of the token ecosystem.
+Any company can use Maincoin products to simplify business operations.
+It should also be noted that the transition to the use of Maincoin as a means
+of settlement in any business, not only simplifies accounting, but also
+increases the level of security and independence of the storage of funds.
+Maincoin products allow any company to move to a new level
+of digital business.
+
+4
+
+Technical specifications, emission
+Blockchain
+
+Ethereum network
+
+Token Type
+
+ERC-20
+
+Token Symbol
+
+MNC
+
+Token Name
+
+Maincoin
+
+Max Total Supply
+
+500 000 000 MNC
+
+Explorer 1
+
+explorer link
+
+Explorer 2
+
+explorer link
+
+Github coins
+
+github link
+
+Сontract
+
+contract link
+
+Maincoin token is issued on the Ethereum blockchain and is an
+implementation of the ERC-20 standard.
+All tokens that implement the ERC-20 interface are supported by
+most crypto exchanges and crypto wallets that work with Ethereum.
+The token's smart contract is written in the Solidity language.
+The token fully complies with the international security standards
+ISO/IEC 27001 and CryptoCurrency Security Standard (CCSS).
+No additional issue of Maincoin tokens is provided.
+
+5
+
+Legal restrictions
+Maincoin token is not a direct or indirect analogue of shares, claims,
+ownership rights or legal interest in relation to Maincoin Money company.
+Maincoin token does not entitle its holders to any promises of payments,
+dividends, unconditional income, profits, or investment returns, and is not
+intended to secure the issuance of securities in the British Virgin Islands,
+the United Kingdom, or any other jurisdiction.
+According to the terms of the issue, the Maincoin token:
+1) Non-refundable and cannot be exchanged for cash money by
+Maincoin Money company or any affiliated person of Maincoin Money.
+2) Does not provide the token holder any rights in any form with respect
+to Maincoin Money (or any of its affiliates), or its income or assets, including
+but not limited to any right to receiving dividends, income, ownership or
+share, security, any voting, distribution, redemption, liquidation, property
+(including all forms of intellectual property or licensing rights), or other
+financial or legal rights or equivalent rights, or any other form of
+participation in relation to Maincoin Money company.
+3) Is not a contract for difference or any other contract, the purpose
+orintended purpose of which is to make a profit or avoid losses.
+4) Is not a security, debt obligation or any other type of financial instrument.
+5) Is not a loan to Maincoin Money company or any of its affiliates.
+The ownership of the Maincoin token does not contain any rights, express
+or implied, other than the right to use the Maincoin token as a means that
+can be used to participate in the Maincoin Money company ecosystem.
+
+6
+
+Investing in cryptocurrency
+Cryptocurrency is a type of digital currency, the accounting of internal
+units of account of which is provided by a decentralized payment system
+that operates in a fully automatic mode.
+A cryptocurrency is simply a number denoting the amount of data in units
+of account that is recorded in the corresponding position of the data transfer
+protocol information packet.
+At the same time, the system does not contain any information about the
+owners of addresses, which is the basis for the anonymity of transaction
+participants.
+The absence of any internal or external administrator for cryptocurrencies
+leads to the fact that banks, tax, judicial and other public or private authorities
+cannot influence the transactions of any participants in the payment system.
+Cryptocurrency is not subject to inflation and is an independent monetary unit.
+Cryptocurrency has its own value and can be exchanged for real money.
+Like any other medium of exchange, cryptocurrency can be used to
+exchange for goods or for another currency. The list of companies that
+accept cryptocurrency to pay for goods and services is constantly growing,
+and ATMs with the withdrawal function are located all over the world.
+Cryptocurrency debit cards are being created that allow their owners to
+pay for purchases through regular terminals in stores.
+In other words, all this proves that cryptocurrency is a full-fledged
+electronic money.
+Users of the system recognize the value of cryptocurrency, which means
+that cryptocurrency is no different from ordinary money.
+Cryptocurrencies automate monetary relations and make them completely
+transparent, in other words, cryptocurrency is a new generation of money.
+
+7
+
+Since the issue of coins is limited, according to the rules of the economy,
+the cryptocurrency can only become more expensive in price.
+Cryptocurrency is an independent monetary unit.
+Its issue is not regulated by anyone and does not control the movement of
+funds in the account.
+The Maincoin task is to integrate the token into the business, release
+products for the business and create various business areas.
+All this, in turn, creates a natural demand for Maincoin, so the Maincoin
+token is an excellent and reliable tool for investment.
+
+8
+
+Maincoin mission and plans
+Any business cannot develop without applying economic innovations
+and minimizing the costs of its scaling.
+Companies that conduct various businesses, starting work with Maincoin,
+get the opportunity to completely reduce the cost of various types of reporting
+and accounting, as well as significantly increase cost savings due to low
+commissions and instant transactions.
+The Maincoin Money company conducts active technological developments
+based on the Maincoin token, introducing it into various commercial business
+structures.
+The main core of the Maincoin token application is, first of all, settlements
+between users for goods and services, as well as mutual settlements
+between large and small enterprises.
+Thanks to the products of Maincoin Money company, the development
+of the token ecosystem is aimed specifically at the commercial segment
+of scaling, thus the token is gaining more and more users and is widely
+used in the economy.
+Thus, the token's liquidity and its shortage in the market are created,
+which in turn leads to the constant demand for the token and its
+investment benefits.
+Maincoin Mission:
+- Create a universal currency for any business.
+- Expand the token ecosystem.
+- Create commercial products.
+- Develop new business areas based on the token.
+
+9
+
+Maincoin products and developm
+The Maincoin token is created to participate in various business processes
+as a means of payment.
+Maincoin Money company is actively developing products that allow you to
+automate and simplify any business processes.
+The priority in product development is a high degree of protection and ease
+of use, as well as the complete absence of third-party influence.
+Maincoin-based products are created for the rapidly scalable ecosystem
+of any enterprise, whether it is a large construction company or a simple
+online store.
+An important point is that in all products, the token is used as a means
+of payment.
+This use of the token throughout the ecosystem provides a constant
+potential for its value to grow.
+
+10
+
+Maincoin Products:
+
+Maincoin Wallet
+Official website: maincoinwallet.com
+
+The Maincoin Wallet allows you to quickly and easily make transactions
+around the world.
+The wallet is easy to use and high-tech.
+Complete absence of controlling organizations or any intermediaries.
+The Maincoin Wallet is adapted to different types of cryptocurrencies
+and has a high degree of protection.
+The Maincoin Wallet is an upgraded version of the original Myetherwallet.
+The Maincoin Wallet uses the original Myetherwallet networks and libraries.
+
+11
+
+Maincoin Explorer
+Official website: explorer.maincoin.money
+
+Maincoin Explorer is a fully transparent token reporting.
+All the movements of funds are tracked around the world at any time,
+which greatly simplifies the conduct of any business and also reduces
+the cost of accounting.
+
+Product functionality:
+- Online token exchange rate.
+- Conversion of the token into various currencies and cryptocurrencies.
+- Trading turnover on the exchanges and the total capitalization of the token.
+- Token transaction history.
+- History of token transactions on exchanges.
+- Report on token holders including all exchanges.
+
+12
+
+Maincoin Merchant
+Official website: merchant.maincoin.money
+
+Maincoin Merchant is a unique technical solution for
+automating any business.
+
+Product functionality:
+- Accepting Maincoin token payments on any website of various
+companies in automatic mode.
+- Instant API payments of the Maincoin token to any number of wallets.
+The product has a high degree of protection and complete
+independence in use.
+Storage and management of funds-is made only from platformer wallets,
+excluding any action of third parties.
+
+13
+
+Maincoin products in development:
+
+Boom-Bo
+Official website: boom-bo.com
+
+Product Description:
+A free bulletin board that presents all kinds of goods and services,
+cars, real estate, job ads, various stores, entertainment, leisure,
+charity, and much more.
+Features of the resource:
+Payment for advertising on the Boom-Bo resource, as well as paid
+announcements will be available in various fiat currencies, as well
+as in the Maincoin token.
+At the same time, in the Maincoin token, payment for advertising or
+paid announcements will be at a 50% discount.
+The task of the resource in the ecosystem of the Maipcoin token:
+- Increase the trading turnover of the Maincoin token.
+- Scale and popularize the Maincoin token as a means of payment.
+
+14
+
+MAIN KASSA
+Official website: mainkassa.com
+
+MAIN KASSA is a multi-currency crypto-aggregator for accepting
+and paying payments online on any website.
+MAIN KASSA is the second version of the Maincoin Merchant product.
+
+Updates:
+- This version supports working with a variety of cryptocurrencies.
+- New improved interface.
+- Improved resource performance.
+- Storage and management of funds only from users wallets.
+- Instant API payments of Maincoin and other cryptocurrencies
+to any number of wallets.
+
+15
+
+Features of the resource:
+The payment for the services of the MAIN KASSA is made in the
+Maincoin token.
+The task of a resource in the Maincoin ecosystem:
+- Increase the number of companies using the Maincoin token
+as a means of payment.
+- Scale and popularize the Maincoin token.
+- Increase the trading turnover of the Maincoin token.
+
+16
+
+AVTOMAIN BUSINESS
+Official website: avtomain.biz
+
+AVTOMAIN BUSINESS is a monitoring of any earnings on the network.
+The site will feature:
+Invest projects, farms, matrices, exchanges, casinos, ICO projects,
+cryptocurrencies, EPS, wallets, exchangers, aggregators, studios,
+various business monitoring, stores, business forum, MLM leaders,
+bloggers and much more.
+The resource will also provide detailed instructions for beginners on
+how to build your business online.
+
+Features of the resource:
+This resource will cover the entire spectrum of earnings on the network.
+Each resource or company represented on the AVTOMAIN BUSINESS
+platform will be rated by the platform users themselves.
+
+17
+
+Also, real reviews will be published about each company,
+blogger or MLM leader.
+The payment for advertising on the AVTOMAIN BUSINESS resource,
+as well as the listing, will be available in the Maincoin token.
+The task of the resource in the ecosystem of the Maincoin token:
+- Scale and popularize the Maincoin token as a means of payment.
+- Increase the trading turnover of the Maincoin token.
+
+18
+
+RED Change
+Official website: red-change.com
+
+RED Change is the monitoring of exchange rates and exchanges.
+This resource will show in real time all the current rates, as well as the
+reserves of exchange services of currencies and cryptocurrencies,
+including the exchange rates and pairs of the Maincoin token.
+Features of the resource:
+Create an instant purchase and sale of the Maincoin token
+for any currency or cryptocurrency.
+A lot of exchangers and exchanges working with the Maincoin token.
+The task of the resource in the ecosystem of the Maincoin token:
+- Easy, fast purchase and sale of the Maincoin token for any currency
+or cryptocurrency.
+- Increase the trading turnover of the Maincoin token.
+- Scale and popularize the Maincoin token as a means of payment.
+
+19
+
+20
+
+Justification of the return on investment
+Maincoin Money company is actively developing products based on Maincoin.
+One of the main tasks of the Maincoin Money company is to add a token to
+various business areas as a means of payment.
+The issue of the Maincoin token is limited, and according to the rules of the
+economy, the token can only become more expensive in price since its
+quantity is constant, which in itself means a complete absence of inflation.
+The Maincoin token is an independent monetary unit, since its emission is
+not regulated by anyone, and does not control the movement of funds in the
+account, which makes it an absolutely attractive investment tool.
+The Maincoin token and its products are the result of the development
+of new technologies in the field of blockchain.
+The core of Maincoin products is the innovation of business processes
+in the field of finance.
+The broad Maincoin product line aims to increase the liquidity and scalability
+of the Maincoin token.
+The Maincoin token as a separate investment tool and Maincoin products
+allow each user to extract maximum profit and build their capital.
+Business algorithms are built exclusively on the open personalization
+of doing business for each user.
+Complete absence of third parties or controlling organizations.
+All transactional activity is public.
+Users funds and profits are controlled by the users themselves.
+Rapidly developing in the world of blockchain technologies, Maincoin
+provides the community with only optimal solutions and independent
+financial instruments.
+The Maincoin token and its ecosystem of products is not just a platform
+for earning money, it is a new independent movement in the field of
+decentralized finance, which is based on the unique business process
+of crypto technologies.
+
+21
+
+ICO Model
+The primary distribution of the Maincoin token is made
+by conducting an ICO.
+At the time of the ICO, the token is in "freeze".
+After the completion of all ICO stages, the entire token
+emission is completely "unfrozen".
+
+The ICO model is implemented in several stages.
+Total emission
+
+500,000,000 MNC
+
+ICO distribution
+
+250,000,000 MNC
+
+Unallocated tokens participating in the ICO will be destroyed.
+The ICO is held on the Livecoin exchange.
+The distribution of tokens is planned in the following order:
+
+Stage
+
+Date
+
+Discount
+
+Presale 1
+
+29.10.2018-29.11.2018
+
+75%
+
+15 cents
+
+Presale 2
+
+29.11.2018-19.12.2018
+
+50%
+
+30 cents
+
+Presale 3
+
+19.12.2018-08.01.2019
+
+25%
+
+45 cents
+
+General sale
+
+Of necessity
+
+0%
+
+60 cents
+
+22
+
+Token Price
+
+250,000,000 MNC tokens remain in the company's Maincoin Money fund
+to develop the token ecosystem and fund product development.
+The starting price of the token entering the market after the end of the
+ICO and the complete "unfreezing" of the emission:
+1 MNC = 0,60 US dollars
+Further, the price for one token will be determined as a result of market
+trading and depend on the demand for the token.
+
+23
+
+Use of raised funds by
+Maincoin Money company
+Maincoin token emissions tasks:
+- Creation and development of unique business products using the token.
+- Expanding the token ecosystem.
+- Creating an advertising budget to promote the token.
+- Creating an advertising budget to promote a ready-made business,
+where the Maincoin token will be used as a means of payment.
+- Integration of the token into its own ecosystem as a means of payment.
+- Integration of the token into a third-party ecosystem as a means of payment.
+- Financing of the token's entry into the markets.
+
+24
+
+Incineration
+Maincoin Money company reserves the right to burn the token if necessary.
+The personal fund of the Maincoin Money company may be subject to
+burning (250,000,000 MNC), as well as any Maincoin asset owned by
+Maincoin Money company.
+The Maincoin Money company may conduct additional token burning
+actions in conjunction with the Maincoin community.
+All ongoing actions for the disposal of the token are officially posted
+on the token's website - maincoin.money in the "ACTIONS" section.
+
+25
+
+Conclusion
+Using Maincoin products, any enterprise can create a financial ecosystem
+that can significantly reduce the costs of many positions that modern
+businesses face.
+The Maincoin token participates in the turnover of real business as an
+independent means of payment.
+Maincoin Money's products automate any business process.
+Scaling the business and the token ecosystem can be implemented
+in various ways, including by connecting a third-party business to the
+token ecosystem.
+Using Maincoin and its products, users can get not only the ability to
+move any financial flows within a few seconds, but also resources for
+the development of their companies.
+All this allows us to conclude that the Maincoin token is a promising and
+relevant coin for both various businesses and ordinary users.
+
+26
+
+

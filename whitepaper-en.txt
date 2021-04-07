@@ -1,0 +1,1483 @@
+Nework
+Incentive platform for connecting human skills
+based on chain block technology
+
+White Paper Version 5.0
+14 Aug. 2018
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+Colophon
+Versions
+
+Record
+
+Time
+
+Version 1.0
+
+Initial record，define Nework’s underlying architecture.
+
+2018.2.25
+
+Version 2.0
+
+Added POMT system as amendments and revisions.
+
+2018.3.11
+
+Version 3.0
+
+Added Mission Trade concept.
+
+2018.3.23
+
+Version 4.0
+
+Added Mission company model.
+
+2018.7.27
+
+Version 5.0
+
+Chain company has been upgraded to MissionDAO.
+
+2018.8.14
+
+2
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+Abstract
+
+Nework Foundation Ltd is established in Singapore and managed on a non-profit basis. Nework
+is an incentive platform to connect human work skills based on blockchain technology，with the
+target of maximizing bilateral value for individual business transactions in the world. It records
+personal trusted working hours vector by distributed bookkeeping to achieve the accumulation
+and reflection of personal value.At the same time ,Nework built it into individual business vertical
+industry public chain by making full use of Ethereum mechanism, and a better individual
+business ecological chain by uniting social forces.
+The world's individual business economy is rapidly emerging, Nework is committed to release allaround individual productivity globally . Based on the Nework platform, a great deal of work can
+be accomplished via the Internet in the future. Enterprises can complete work more efficiently
+by the way of diversified business cooperation, instead of recruiting a large number of
+employees.
+Nework is commit to solve problems in individual business behaviors like trust, anticipation,
+transaction, delivery based on smart contract of blockchain technology at the application layer.
+At underlying layer, it provides transaction chains adapted to individual businesses based on the
+transformed Ethereum， any individual or team can develop on this transaction chains, which will
+certainly make it an important business infrastructure.
+
+3
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+Content
+
+Abstract
+
+3
+
+1. Introduction
+
+6
+
+1.1 Blockchain is still on the eve of explosive growth
+
+6
+
+1.2 A great opportunity in individual business
+
+6
+
+2. The solution of Nework
+
+8
+
+2.1 Solving Strategies
+
+8
+
+2.2 Value reflection
+
+9
+
+3. Product Programs
+
+12
+
+3.1 What is Nework
+
+12
+
+3.2 Platform Pattern
+
+13
+
+3.3 Mission Trade
+
+14
+
+3.4 Cooperation
+
+15
+
+3.5 AI Matching
+
+16
+
+3.6 Mission Trade Center
+
+17
+
+3.7 Advertising Center
+
+17
+
+3.8 Product Features
+
+18
+
+4. Expected value of NEW
+
+24
+
+5. Incentiva mechanism
+
+26
+
+5.1 Incentive and punishment mechanism
+
+26
+
+5.2 POMt（Proof Of Mission Trust）
+
+29
+
+6. Ecosystem
+
+30
+
+6.1 R & D team（Nework）
+
+30
+
+6.2 Mission Chain Company holder
+
+30
+
+6.3 User
+
+30
+
+6.4 Developer
+
+31
+
+7. Commercial prospect
+
+32
+
+8. Technological realization
+
+33
+4
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+8.1 Client
+
+33
+
+8.2 Core service platform
+
+33
+
+8.3 AI Matching
+
+34
+
+8.4 Underlying Architecture
+
+34
+
+9. Issuing plan
+
+37
+
+9.1 NKC tokens
+
+37
+
+9.2 Distribution Program
+
+37
+
+9.3 pre-sale target
+
+38
+
+9.4 team lock positions promise
+
+38
+
+9.5 Login Exchange
+
+39
+
+10. Development Plan
+
+40
+
+11. Nework Foundation Ltd
+
+41
+
+12. Investment institution&Partner
+
+42
+
+12.1 Investment institution
+
+42
+
+12.2 Partner
+
+42
+
+13. Risk Statement
+
+43
+
+13.1 Disclaimer
+
+43
+
+13.2 Regulatory Risk
+
+43
+
+13.3 Competition Risk
+
+44
+
+13.4 Brain drain risk
+
+44
+
+13.5 Project Technical Risk
+
+44
+
+13.6 Risk of lacking awareness
+
+44
+
+13.7 Hacking Risk
+
+44
+
+13.8 Uninsured loss risk
+
+45
+
+13.9 Other risks unknown to date
+
+45
+
+5
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+1. Introduction
+
+1.1 Blockchain is still on the eve of explosive growth
+As the market continues to heat up in recent years, more and more people are beginning
+to pay attention to the area of blockchain technology . Especially in 2017, the number of
+digital money users ushered a explosive growth, with the active digital wallet users
+increasing from less than 5 million at the beginning of the year to more than 20 million
+users so far. The skyrocketing users has created a surge in demand markets and more
+and more people are beginning to realize that the label of blockchain is not just a of
+10,000-fold increase of Bitcoin’s price, but the reestablishment of trust and release of
+more trading possibilities. Based on the blockchain technology, it will born countless
+possibilities in the business environment, which is about to detonate a new revolution in
+information technology.
+
+1.2 A great opportunity in individual business
+The birth and popularization of each new technology will generate business opportunities
+that subvert the traditional model and emerge the new commercial empire created by
+this technology. The era of the Internet born Alibaba, Amazon, eBay and other business
+forms, making it convenient for personal trading behaviors ; while in the mobile Internet
+era, the birth of Airbnb, Meituan, Didi Chuxing and other giants businesses make it more
+convenient to both get services and provide services for profit. It is easy to find that the
+development of the Internet has continuous moved closer to the "individual-centered"
+and the the dominant position of individual economy in the evolution of
+
+technology is
+
+more and more obviously. Based on the blockchain technology, a more complete
+decentralized foundation platform can be built to push the individual business economy
+to a higher level or even to its peak.
+Individuals providing services in the business include freelancers, shared services
+providers, lawyers, Internet celebrities , individual household, special talents, senior
+talents and so on. Viewed only from freelancers, this group is growing at an alarming
+rate. According to the latest statistics from the McKinsey Global Institute, there are 162
+million freelancers in 15 countries in the United States and Europe and by 2025 they are
+expected to contribute about 2% of the global GDP with tremendous market space. The
+population and business scope covered by individual business is much larger than the
+freelancers, we can see that the individual business areas already have sufficient market
+6
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+opportunities and demand basis. Blockchain technology is an important weapon that can
+leverage the market in the field of individual business, so it is possible to enjoy the bonus
+of innovation technology to achieve geometric leap-forward growth if we can can seize
+the opportunity.
+
+7
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+2. The solution of Nework
+
+2.1 Solving Strategies
+To enrich the blockchain applications of individual business, it need to reduce the risk of
+trust to make individual business into a more deterministic shared resources,. Products
+and
+
+its development will be very important for only good product can truly solve
+
+problems, and research and development can ensure the business blockchain more
+steady operation , more secure transaction and high concurrency capabilities.
+Nework found that individuals have a strong will to become the center of the transaction,
+but due to the huge cost of trust, more diversified business behaviors can not be carried
+out; many issues appear in actual work like unmanageable demand, high costs of trust
+and communication, the unconsistent between expect and delivery, no one can
+collaborate, the long transaction process and so on. Nework offers a one-stop solution
+that anyone can easily post and participate in individual projects, and it also offer a range
+of management tools such as the tool that can start virtual chain company ( API
+secondary development support). At the same time, the transaction efficiency is
+improved through the Token incentive model to make the individual business platform
+rapidly start-up and prosperity, and finally make money through the value-added service
+and ecological service.
+
+At the blockchain level, Nework is based on the underlying architecture of
+
+distributed
+
+mission trust trade engine (DMTTE), which uses blockchain decentralized ledgers to
+8
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+record company ownership information, and solve the transaction problem by intelligent
+contract to ensure open and transparent. Thus the Nework can fully ensure the high
+performance of read and write operations to effectively avoid the current issues of
+blockchain, like the long transaction confirm time, high cost, easy to congestion and so
+on, to maximize the smooth interaction experience of the product.
+Nework team are from the original PMCAFF community, and the top players of the team
+comes from 360, Sina Weibo. The founder, Ade, is a well-known Internet entrepreneur
+who have served as growth head of Qunar international hotel, in charge of e-commerce
+product at 360 and as head of user incentives and value-added products in Sina Weibo.
+He has founded the PMCAFF product manager community for ten years, and has got
+many well-known investment such as: Lighthouse Capital, Alpha startups, Axp found, YI
+Capital, and also including the angel investors of Toutiao, Liu Jun and so on.
+
+2.2 Value reflection
+Nework - invest in yourself. Starting from Nework, human will set off a wave of entering an era
+of individual value. Nework records credible working hours vectors for individuals based on a
+non-tampered distributed ledger. The higher the Trusted Working Hours vector, the higher the
+value of individuals on Nework, and everyone can accumulate credible working hours vectors to
+realize personal values.
+
+1）Token incentive and circulation, to maximum the value
+Any behaviors users participate on the platform may earn or spend token, through the POMt
+Incentive system, Nework truly drives Token's circulate and continuously improves the value of
+NEW. For example : user creates a personal Mission Page can get token award from platform;
+user invites friends to join can also earn Token; user releases skills need to spend Token, user
+endorses investment for others also need to pay Token, users who want to establish contact
+with a big person can initiate strange private chat through token and so on.
+
+2）Value feedback mechanism of trust link to minimize the cost of trust
+Based on the POMt mechanism, fully exploiting the characteristics of the blockchain, any
+behavior based on the trust chain will participate in the allocation of the new block to motivate
+people to reduce the trust cost together. Such as: investing in friends, paying Token as a trusted
+endorsement of friends, trading failure or success of friend will correspond to penalties and
+incentives; Improving the broadcast of work skills chain and endorsement by promoting work
+skills for friends can also earn Token; In the process of skills trading, the situation of disputes
+9
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+can initiate social arbitration, the system through intelligent matching engine node to participate
+in arbitration.
+
+3）Effective anti-cheating, high cost，meaningless and high risk
+Nework is based on the blockchain and takes the trustworthiness working time vector as the
+main measure. It perfectly avoids various cheat behaviors in current internet transactions and
+reduces the selection cost more effectively for users in need.
+Cheating costs are high. On Nework, every trade order is deducted by 1% of the transaction
+amount back to the chain, which makes a loss of at least 1% of the transaction amount for each
+cheat.
+Cheat is not very significant, Nework based on the time vector, if a task takes 10 hours, the
+system can record at most 10 hours at the same period, which make check or scalp no sense.
+At the period of scalp , the executor are not allowed to take other missions for it occupied your
+work time.
+High risk of cheating, the process is recorded, behaviors like malicious cheats or scalps may
+lead to credit bankruptcy if identified by system.
+
+4）Contract template can not be tampered with ,ensure the full protection for individual
+business
+Nework provides users with basic contract templates and market for sale to pay or earn token.
+Each valid contract can not be tampered , for individual business to improve the effectiveness of
+reducing transaction risk. When a demand or execution party issues a demand or skill, it is
+equivalent to initiating a work order, and the other party claiming that the work order is
+equivalent to a closing transaction will generate a contract automatically. Nework provides the
+basic version of the contract template, everyone can make changes in the basic template, into a
+contract template to meet their needs. Different industries, different skills have different needs
+in the contract, Nework supports and welcomes all walks of life to participate in the construction
+of the contract template market, Nework contract template will become more and more vertical,
+such as: the legal profession, the design industry, consulting Industry and more.
+
+5）Original mission-based virtual chain company mechanism
+Nework streamlines the complexity of offline business forms and processes and brings everyone
+back to the business itself, creating Mission-based Mission Chain Company. Based on missions,
+10
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+chain companies break through a variety of geographical, financial, management restrictions,
+such as you want to create "only the greatest UI" chain company, based on the Mission who
+apply to join the company only needs to get more than 51% Through the people can work
+together for the great UI. Chain companies support trading, chain appreciation, or trading for
+everyone. Nework is an individual business economy chain based on the fact that more items
+can be hatched in the chain and NEW can also be used as a basis for issuing its own ICO Token.
+
+6）More and more prosperous and never stop work skills needs
+As long as man still needs work, there is always a demand for job skills. From all the data, the
+demand for individual work skills will become more and more prosperous. This is a never-ending
+market. Nework is a platform for the global individual business community, as the user coverage
+gradually increased, trading activities may happens 24 hours and credible total hours vector
+continuously increase, Nework will eventually achieve the global individual business The record
+of the trusted time vector.
+
+7） Innovative self-marketing / recruiting strategies
+Nework - invest in yourself. There are many ways to improve your own personal value on
+Nework, and in principle it is investment in yourself, Including someone pay token to endorse
+you, to expand the breadth of the connection, reward Token for friends to help promote your
+skills, trading skills to earn Token and Mission Trust (Trusted Working Time Vector).
+For the demand side, the system intelligently matches the executive candidate based on the
+demand, and fully understands the work track, the result and the credit of executors by the
+trusted working time vector which can greatly reduce the decision cost and the transaction
+failure rate, Way to improve the quality.
+
+8）A new ecology of advertising and tools
+In most of the current business platform, by the platform side of the operation of advertising
+decisions, and from which to make high profits. In the decentralized Nework, the user's skills can
+be motivated by paying the token to motivate other users to forward a chain of trust
+endorsements.
+In Nework will be born more ecological tools, such as: digital gifts, users can pay token on the
+platform to buy virtual gift to reward mutually. Nework is an incentive platform based on
+blockchain technology that connects human work skills. On nework, people can easily participate
+in all kinds of work as one of the individual business nodes.
+11
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+3. Product Programs
+
+3.1 What is Nework
+The open project also allows onlookers to participate in likes and forward to contribute the
+positive energy, both of which can get Token incentives from the nework bonus pool. When the
+business develops to relatively large, you can also open your own virtual company, provide multiperson collaboration and API secondary development.
+After Nework come online, it will issue Token: Nework Token for the orderly promotion of
+development. As to facilitate participation in the transaction, the transaction data will be
+recorded in the blockchain to ensure the truth can not be tampered with.
+
+Dapp
+
+App
+
+•••
+
+Portal
+
+OpenAPI
+
+GateWay
+
+Account
+
+Services
+
+SSO/LDAP
+
+Profile
+
+AI Matching
+SNS
+
+NLP
+
+Ads.
+
+Deep Learning
+
+Mission Trade
+Center
+
+TensorFlow
+
+DevOps
+
+Engine
+Mission Trade
+
+Mission Chain Company
+
+POM
+
+Smart Contract
+
+Ethereum
+
+Nework Coin
+
+Mission trust
+
+Iterative Devs
+
+Docker
+
+git
+
+Monitor
+
+12
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+3.2 Platform Pattern
+The Nework platform offers an innovative Mission Trade trading model where everyone
+completes the deal autonomously. Everyone is a transaction body such as: Starbucks, Apple and
+so on. Users can post deals, participate in deals, create chain companies, join chain companies,
+buy or sell chain companies, and more. In order to find a suitable transaction, the trading market
+provides search and match mechanism for transaction information. During this period, the user's
+Mission trust will be clearly displayed so that you can select the best user for trading.
+To introduce the Mission trust mechanism to the platform, Mission trust can not be traded and
+must be rewarded by POM through trading. Misssion power will become an important reference
+for trading options. Mission trust records the data of people success or failure. The people with
+higher Mission Trust will get a higher platform reward.
+To solve individual business problems of scale and tandardization, but also can be set up chain
+company directly on the platform to projec the entity's business, the platform provides an API to
+facilitate the development of more services based on its own business, so that each individual's
+business bigger and bigger. Users can create companies and also join the company to work
+together. Users will enjoy the reward when he make the company bigger, and the company
+provides Log records to facilitate members to view every transaction, but also play reward on
+the trading partners.
+
+Nework
+
+13
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+3.3 Mission Trade
+Every transaction on the Nework platform counts as a Mission Trade and all users participate in
+the released Mission Trade. Direct Trade users of Mission Trade can communicate, confirm or
+terminate the transaction during the transaction. Non-direct participation by Mission Trade users
+can be rewarded for likes, favors, etc. Nework facilitates the forward transactions through the
+POMt mechanism.
+
+Nework offers a variety of trading scenarios to ensure the circulation of Token continually and
+dynamically.
+1. Initiation
+The issuer fills in the demand and project information, and at the same time selects the Token
+of expenditure for the compensation of the executive, the cost of the platform, and the share of
+users of other participating projects.
+2. Matching
+According to the publisher's task information, the matching engine will push the project
+information to the appropriate executor to improve the transaction success rate.
+3. Arbitration
+If there is a dispute during the project, enter the arbitration process, the system selects a
+certain number of users for voting and arbitration, and allocates Token according to the
+arbitration result. The users participating in the arbitration will also get the corresponding Token.
+4. Gas / miner
+14
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+In order to speed up system operation and improve system throughput, a certain number of
+mining machines are required to mine and each transaction deals with gas as a reward for
+mining machines.
+5. Bidding
+The publisher may, according to the provider's availability, increase or decrease the price of the
+Token that is offered as a reward for the project. After receiving the assignment from the
+publisher, the executing party may choose to accept the bid or reject it.
+6. Link path of recommend share
+When the executing user receives the item push, he or she can share the information to other
+users without participating in the project. If the end user completes the project, the sharing user
+also receives a certain percentage of Token Reward.
+7. Cross-domain collaboration platform
+One project of the publisher can be completed by users of different implementing parties, and
+the project is divided into shares according to the proportion.
+8. Match engine and payment
+Matching engine will be based on the publisher's project information and the executing side of
+the user's skills, the current project situation and other information in accordance with the
+matching degree of screening out eligible for the implementation of the user.
+The matching engine matches a certain number of actors at a time, and if the publisher needs
+more executor information, you can increase the Token for more matches.
+Matching engine will consider the whole platform of information: project information, user
+information, user skills, user history transaction information ....
+Matching engine will be used machine learning, according to the completion of the transaction,
+and constantly improve the matching strategy.
+
+3.4 Cooperation
+In order to meet the needs of different parties, Nework platform provides users with an iterative
+collaborative template contract tool, users can purchase the most suitable transaction
+15
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+collaboration template by paying token, and group users can enjoy additional advanced
+functions through payment.
+1) Todo panel
+Platform provides panel function, real-time master job list and status.
+2) Template (basic)
+Contract template for individual transactions, with the development and maturity of the
+platform, the contract template will become more and more industrialized, verticalization, to
+provide an effective solution for the vertical industry.
+3) Template contract, pay for use
+Platform provides a variety of basic templates, third-party developers or applications can pay for
+use.
+4)Can not change the process management
+Once the contract is executed, the process is recorded in the blockchain and can not be
+modified.
+5) Quality Assurance
+When the transaction completed, if any parties
+After the completion of the transaction, both parties to the transaction may dispute the quality
+of the deliverable and may settle the dispute through arbitration. First, all users on the platform
+(users approved by both parties) will vote. If the result is still controversial, it may apply for
+platform arbitration (platform matching Engine recommended users), to pay the relevant costs.
+6) Team payment
+Users can set up a team to complete the task, according to the size of the team, pay the use of
+cycle.
+
+3.5 AI Matching
+With "smart big data" as the core, the user's characteristics (experience, skills, etc.) and the
+project characteristics (categories, functions) database are established. When the user releases
+16
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+the project, the project features and business needs are analyzed according to the project
+characteristics, and automatically match out the relevant technical staff. At the same time, it
+recommend executor for sponsor and recommend project to executors. Thus finding the best
+partner with less effort and cost. Users can rate the recommended results, the algorithm
+automatically recalculates based on scores, to achieve self-learning, improve the accuracy of the
+recommendation.
+
+A
+
+A
+
+B
+
+B
+Sponsor
+
+C
+C
+
+Mission Trust
+
+Executors
+
+3.6 Mission Trade Center
+In order to promote the platform development, Nework provides a trading center, and the user
+can Trade Mission in the transaction center, which behavior can be invited to participants and
+shared. During the course of the transaction, Nework introduced the concept of Proof of
+Mission (POM) into the Mission Trade's trading process. Each transaction will participate in the
+calculation of POM, and the results will be publicly and transparently recorded in the blockchain.
+Among them, Mission Power acts as the trust certificate of the market, and the higher the
+Mission Power value is, the higher the value of the entity is mapped.
+
+3.7 Advertising Center
+Nework provides an advertising hub for platform chain company growth, and the supporting
+chain companies buy advertising space through Token, as well as support external companies
+buy advertising space in cash. The ad center, combined with recommendation algorithms and
+DSP distribution logic, also can serve ads beyond Nework through the API.
+
+17
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+3.8 Product Features
+
+3.8.1 Account System
+Nework platform provides a complete set of account system, users can register by mobile
+phone number or mailbox and then join the Nework platform after successful registration. We
+will assign a unique Digital identity (Digital identity) and Digital wallet for each user, which will be
+written to the blockchain network. Users can use this unique digital identity to establish or join
+the MissionDAO, one user can add multiple MissionDAO, participate in the construction of
+multiple MissionDAO. All MissionDAO participated construction behavior of users will be mapped
+to the platform on a unique number assigned to the user identity.
+
+3.8.2 Mission Page
+Mission Page is the core tool for the Nework platform to demonstrate individual user value.
+Users' personal information and a range of activity activities on the Nework platform are
+recorded on the Mission Page, including user skills, endorsements, columns, Mission Power, and
+authentication information .
+1. Establish profile
+Users create and refine their Mission Page messages, Mission Page will show users’ behaviors
+in MissionDAO.
+2. Publish skills
+Users can post more skills by paying the token, and the published skills appear on their Mission
+Page.
+3. Skill promotion
+Users can pay token to promote their published skills.
+4. Private message
+On Mission Page, users can initiate a private message by pays to other users.
+5. Endorsement and Investment
+
+18
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+The user endorses someone for endorsement. When you endorse others, you must pay token to
+share the risks and benefits with your investors.
+6. Mission Power - valid trusted work time vector
+The user's Mission Power is displayed on the Mission Page as one of the criteria for judging the
+user's proficiency.
+7. POMt Equityedge
+Nework platform calculate the level of user proficiency mechanism.
+8. Column
+The user's logbook during the transaction will be displayed in the Mission Page as a column.
+9. Collaborative certification
+A new user registration, the platform will be recommended to the same skills of registered
+users, registered users by the common certification.
+10. Decentralized identification
+The personal information of all platform users is absolutely safe. When a user wants to obtain
+the user information of others, they must be read with the consent of the information owner.
+
+3.8.3 Mission Trade Center
+With the improvement of the ecological and more users’ join, will inevitably produce more
+Mission Trade and the MissionDAO. A certain mechanism is needed if users want to find the
+Mission Trade or MissionDAO that they interests. Therefore, we launched the mechanism of the
+Mission Trade Center.
+The Trading Center is Nework's foundation function, responsible for the collection and
+presentation of all Mission Trade and MissionDAO.
+
+19
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+3.8.4 Mission DAO
+People with the same Mission power can set up a MissionDAO, each MDAO has a unique access
+license, for easy access and memory of members of the company. Ownership of the chain
+company will be recorded through the blockchain ledger to ensure the truth can not be
+tampered with. MDAO can be the main business activities, MDAO participants can enjoy the
+MDAO trading revenue share of benefits. Specific split will be unified by Nework's unique POMt
+mechanism to calculate the reference dimensions include the cost of each user into the MDAO,
+the user Mission Power chain share, the number of transactions involving the user. In addition, in
+order to make chain business more scale, standardization, asset-based, Nework allows
+MissionDAO to trade. The benefits of the sale of the company will also be calculated and
+distributed by the system through the POMt mechanism. Finally, when the Mission power of the
+MDAO is less than one, the chain company bankrupts and dissolves its reputation in order to
+achieve the survival of the fittest.
+
+3.8.5 Interactive features
+
+20
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+1、Mission Trade
+1）Claim
+When the sponsor and the executor agree on the Mission Trade, the executor can initiate the
+claim. At this point, the sponsor will receive the claim and the Mission Trade Contract will be
+activated and approved by the smart contract management;
+2）In progress
+When the Mission Trade contract takes effect, the contract becomes active, in which case the
+sponsor will not be able to invite or accept another person's claim. In this state, both sides can
+apply for an interruption;
+3）Finish
+When the implementer has reached a contract in Mission Trade, the application can be initiated
+and completed. After the application is approved, the executive party can obtain the pre-set
+salary of the Mission Trade and the two parties receive the Mission Power award.
+4）Interrupt
+After the user agrees to claim the Mission Trade, both parties may initiate an interrupted
+application. When both parties agree, the Mission Trade will be judged as failed. At this time,
+both parties will be punished, that is, the corresponding Mission power will be reduced, and the
+corresponding NEW will be deducted.
+5）Share
+When users view or publish Mission Trade, users can share this task to other third-party
+platforms so that more users can claim their rights.
+6）Invitation
+When the user releases the Mission Trade, he or she can make a directional invitation. After the
+invitation is made, the invited party will receive the invitation notice and agree to obtain the
+Mission Trade.
+7）Comment, like
+
+21
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+All users can comment on the published Mission Trade, praise, comment or praise after the
+relevant comments and praise amount will be displayed publicly, and participating users will
+receive Mission Power as a reward.
+8）Reward
+When NKC (Nework Coin) is available in the user's account, you can enjoy the Mission Trade in
+progress
+1, if the transaction is confirmed to be interrupted halfway, then all the reward amount will be
+fully returned Nework reward pool;
+2. If the transaction is fully completed, the prize money will be distributed as an incentive to the
+sponsor and executor of Mission Trade, and all the players will receive the Mission power
+reward.
+2、Mission DAO
+1）Join
+Users can choose to join the Mission DAO according to their wish, each user can joins multiple
+Mission DAO and has an independent identity in each Mission DAO. If more than one-half
+members of the Mission DAO vote through when a user applies to join, the application is
+determined to be successful. The Mission Coin and Mission Power, which the user acquired by
+completing Mission Trade after joining, will be pro-rated under the Mission DAO.
+2）Exit
+The user can choose to opt out of a Mission DAO and the Mission Power provided by the user
+for the company will remain in the Mission DAO’s Mission Power system after exiting, but when
+the user is at a Mission Trade, the user cannot exit, must complete or dismiss the Mission Trade
+before exiting.
+3）Sale/Buy
+The user can trade Mission DAO with the NKC at the Trading Center and the transaction needs
+to be approved by more than 51% of the members in the company before the order can be
+completed.
+4）Bankruptcy
+
+22
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+When a Mission DAO’s Mission Power drops to 0, it automatically determines is in bankruptcy.
+The bankruptcy company will not be able to perform any of its activities, include claiming,
+releasing Mission Trade, or purchasing Mission DAO.
+
+3.8.6 Ecological Platform
+Nework is a well-established ecosystem of platforms that individual users can set up through the
+support provided by the Nework platform and even complete the ICO process on the platform.
+Nework has a comprehensive API system to meet the needs of the vast majority of users based
+on Nework's development needs and to promote the evolution of the platform by accessing
+more external applications.
+Nework provides users with advertising and incentive platform to help users through the
+advertising platform to promote marketing efforts, and can be used to motivate other users by
+token forwarded.
+Nework provides a digital gift platform, users can purchase virtual gifts on the platform token to
+reward each other.
+
+3.8.7 Filtration
+Because all the data in the blockchain is untamable, the keywords should be filtered to prevent
+the bad consequences caused by illegal words.
+
+23
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+4. Expected value of NEW
+
+NEW issue total of 1 billion yuan, five decimal places, a coin is called 1NEW, the smallest unit of
+NC (1NC is equal to 0.00001NEW, which is equal to one hundred thousand NEW).
+
+4.1 Value of Nework
+Nework is a fast-growing platform that will host tens of thousands of transactions and Mission
+DAO in the future. As the platform users continue to grow, and the sustainable development of
+ecological economy, NKC’s value will continue to rise.
+
+4.2 Obtain of NKC
+1. Participate in private placement support projects, using ETH exchange
+2. Participate in Nework ecological construction, access to the system of NEW incentives
+3. Participate in the high quality Mission Trade to get others NEW rewards
+4. Buy on third-party trading platform
+
+4.3 Applation of NEW
+The application scenarios of NEW include but not limited to:
+1.users can pay NEW to post of purchase skills ;
+2.users can pay NEW to invest endorsement on others;
+3.users can use NEW to reward or send red packets to each other;
+4.the platform offer NEW to motivated users with successful transaction and users in trust link
+chain.
+5.users can pay NEW to buy third-party applications.
+6.users can pay NEW to buy digital gifts;
+24
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+7.users can pay NEW to advertise and forward skills;
+8.users can pay NEW to send messages to senior users on platform initiatively;
+
+4.3 Deflation and inflation of NEW
+1) The user password is lost, resulting in dead NEW users, the currency will be recovered (or
+destroyed), will result in NEW deflation.
+2) If the amount of coins held by the bank is too low, users who can not pay transaction fees will
+be treated as non-current coins, which will result in the deflation of NEW.
+3) other value-added
+
+25
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+5. Incentiva mechanism
+
+5.1 Incentive and punishment mechanism
+To incentive the Mission Trade with high efficiency and high quality execution, Nework set up
+ITS(Incentives of Trade Success) and PTF(Punishment for Trade Failure) to incentive and
+punishment.
+In Nework, users and Mission Power of Mission DAO are the only basis for measuring its value
+and interest. The POM (Proof of Mission) algorithm can build NKC dispense mechanism, the
+rewards pool is calculated based on the Mission Power value of users to dispense the NKC to
+wallet of users.
+
+5.1.1 Incentive mechanism
+After completed the Mission trade, the published user need to pay NKC to executed user as
+reward. Both them can obtain the Mission Power value as award. The Mission DAO of the user
+who executed the Mission Trade can also get Mission Power value. If it’s failure to execute the
+Mission Trade, both them can be punished, decreasing Mission Power value, and deduct
+corresponding NKC.
+
+5.1.2 Reward Pool
+Rewards pool is used to reward both transaction users. The platform automatically replenished
+the rewards pool every day according to the reward elasticity coefficient.
+
+5.1.3 Reward Pool
+Nework counts the Mission Power values of the user and the virtual company on a daily basis,
+and add NKC to rewards pool automatically by POM. When the NKC in rewards pool is less than
+0.001, it will be dispense next time.
+
+26
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+Nework uses 25% of Token for motivation, and Nework's fairness is crucial for long-lasting
+human access. Premature consumption of Token is very unfair to future generations and affects
+the sustainability of ecology. Designed a two-tier incentive mechanism:
+First floor: Nework will take 25% of the Token divided into five years to release, and release the
+rest 50%
+
+of reminding each year, finished on the fifth year, thus ensuring the rapid
+
+development of the previous five years.
+The second floor: In order ensure the value of Nework to all human beings, it is necessary to
+provide good opportunities for future access to mankind in the world and work together to build
+an ecological environment. With reference to the growth of global stable economies, an
+additional 3% will be issued each year from the second year so that future generations will still
+enjoy fair access in the next 10, 50 and 100 years.
+
+27
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+Where n represents the number of issuance years, To is the total issued NEW, Tn is the current
+number of issued NEW, Mt is the number of the current year's issue.
+
+except for the 15% in first year ,from the second year ,the additional issued New is
+
+then the number of issues per day:
+
+The issued NEW, issued daily, is assigned to each user and virtual company according to the
+POMt algorithm.
+
+5.1.4 Compute mode of Mission Trust
+In Nework, the total number of Mission trusts that can be generated for each completed
+transaction is:
+
+Then, the sponsor can get 55% Mp, the executor can get 40% Mp, and the virtual company can
+get 5% Mp.
+
+28
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+Where v is the number of Mcoins traded set for each Mission Trade, p is the degree of difficulty
+set for each Mission Trade, of which 30% and 70% are weighting factors for the transactions
+volume and the degree of difficulty.
+Assuming the n successful transactions successfully happened in entire network , then the
+totally generated number of Missin Power is:
+
+The percentages of Mission trust for sponsor, executor and virtual companies are respectively
+55%, 40% and 5%.
+When the Mission Trade failed to perform, the platform reduced the user's Mission trust value
+by 40% for both sponsor and executor.
+
+5.2 POMt（Proof Of Mission Trust）
+POMt is the credit earned by completing Mission Trade. The user's credit consist of the number
+of issued Mission Trade issues, the number of successful Mission Trade, the price of successful
+Mission Trade, the number of failed execution of Mission Trade,the price of failed Mission
+Trade , the success The execution time of successful Mission Trade and other factors.
+In other words, POMt builds an incentive mechanism based on self-learning multidimensional
+grading model optimization techniques, it relies entirely on user activeness, transaction levels
+and transaction quality in the platform so that users' values can be most appropriately reflected.
+
+29
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+6. Ecosystem
+
+6.1 R & D team（Nework）
+As the initiator of Nework project, R & D team of
+
+Nework is committed to completing the
+
+construction and maintenance of the entire project. In order to implement Nework's platform
+value better, the Nework team will continue to improve the blockchain technology and continue
+to optimize the platform based on the blockchain technology. At the premise of helping more
+and more users quickly solve the problem, the Nework team pursue better experience and
+sustained values for users.
+
+6.2 Mission Chain Company holder
+The Mission DAO holder is the holder of a single chain company on Nework.
+Any individual or organization can become the holder of a chain company by paying 50 Mcoin
+for a Mission DAO in Nework.
+Chain company holder can post their demand on the Nework platform based on Mission Chain
+Company, while chain company holders can also enhance the company's competitiveness by
+attracting more excellent executors and then enhance the company's value by fulfilling more
+tasks on platform。
+As the cornerstone of the entire ecosystem, the Nework platform will be based on its exclusive
+POMt (Proof of Mission) reward and punishment mechanism to enhance or reduce the weight
+value of chain companies to ensure efficient operation of the platform.
+
+6.3 User
+All holders of accounts generated on the Nework platform are considered one user of the
+platform. All platform users have two roles on the Mission Trade: Sponsor and Executor, users
+can get POMt rewards or penalties by involving in Mission Trade on Nework platform, and the
+user is the key elements to ensure the normal operation of platform.
+
+30
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+6.3.1 Sponsor
+The sponsor is one of the user roles that builds the ecology of the Nework platform. The
+sponsor can be an individual or a Mission DAO. The sponsor can post mission on the Nework
+platform without limitation on form, but the originator is required to declare the mission value at
+the same time that the mission is posted.
+After the release of the mission, the sponsor can take the initiative to choose a different
+performer or chain company. The mission trade is deemed to be reached if the two sides come
+to an agreement on the implementation standards and results, they both get POMt award from
+the platform, otherwise, the mission trade fail and the corresponding penalty is assigned to both
+sides according to POMt award and penalty mechanism.
+
+6.3.2 Executor
+The executor is another user role in building the Nework platform ecosystem, it also can be both
+an individual and Mission DAO. The executor can post their skills on Nework platform and the
+skill information will be displayed on the executor's profile. The performer must also declare the
+value of the skill when releasing that.
+After the skills are released, the executor can take the initiative to select missions released by
+different individuals or chain companies to claim, The mission trade is deemed to be reached if
+the two sides come to an agreement on the implementation standards and results, they both get
+POMt award from the platform, otherwise, the mission trade fail and the corresponding penalty
+is assigned to both sides according to POMt award and penalty mechanism.
+
+6.4 Developer
+Developers are an important part of the Nework platform ecosystem and they are supposed to
+diversify Nework's platform information.
+Nework is an open underlying trading platform from beginning to end. Any organization or
+individual with development
+
+skills can build third party applications based on Nework's open
+
+attributes to help Nework platform users handle more business.
+
+31
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+7. Commercial prospect
+
+Nework's vision is to become the largest and most active business platform in the blockchain
+digital world. As the number of digital currency users and penetration continue to grow, the
+potential for Nework's stimulating cooperative productivity will gradually be released and
+eventually reach geometrically growth.
+It will also make it possible for more individuals to complete more business transactions online,
+built Mission DAO rapidly, and even more help them to map entity business to Nework ecology
+through API.
+Nework business revenue is mainly concentrated in several ways:
+1. Mission Trade related transactions commission, the platform get a cut from users in the
+completion of the production, trading, exchange, consumption, cooperation and other process .
+2. The platform get a cut in the purchase and transaction of Mission DAO.
+3. Shared ad revenues by getting through contextual ads information.
+4. API and efficiency tool revenue, Mission DAO using the API and SaaS tools provided by the
+platform will pay monthly.
+
+32
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+8. Technological realization
+
+NWC overall architecture can be divided into three layers, the client, the core platform system,
+the underlying architecture.
+
+8.1 Client
+Client refers to various terminal products provided by NWcoin to users, it supports iOS, Andriod,
+Web Browser and other platforms. NWC platform also provides a complete set of RESTful API,
+any individual and company developers can develop station applications based on this API.
+
+8.2 Core service platform
+The core service platform is implemented using a loosely coupled, highly cohesive and
+decentralized SAAS microservices architecture. The core service platforms consist of several
+service units like registration center, message center, log center, and configuration center. Each
+service unit can be deployed independently.
+Clients visit the core services provided by Nework through the RESTful API.
+Account: an open account management platform, record user-related assets, and provide thirdparty account login.
+SNS (Social Platform): After the user releases the Mission Trade, users can share it to thirdparty platform and all users can participate in the comments or likes to completed projects, and
+the participating users will receive the reward of the corresponding Mission.
+MCC (Transaction Center): Users can post or claim mission in the trading center , the platform
+will track the progress of the project.
+
+33
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+8.3 AI Matching
+The matching model accurately matches the two sides in the truncations according to the eight
+dimensions like skills, credit and ability to achieve oriented invitation and project
+recommendation.
+
+8.3.1 Matching Algrim
+In order to better match the project and skills, enhance the success rate of collaboration
+between the publisher and the claimant, the platform establishes a feature library based on the
+dimensions such as the account balance, POMt weight,whether claim mission , account ratings
+and tag matching, to reach accurate match.
+According to Pearson's formula, it calculate the similarity between user u and label v:
+
+Where, Puv represents the set project matched by user u and label v. Ru,a and Rv, a respectively
+represent the match score of user u and label v to mission a, Ru and Rv respectively represent
+the average score of user u and label v.
+
+8.3.2 Self-learning Model
+Based on the Big Data accurate matching blockchain data across the entire network, Mission
+Trade completion, and Mission Trade evaluations from both sides to train the ranking model,
+then to calculate the completion probability and sales a Mission Trade
+
+8.4 Underlying Architecture
+It adopt chain block and DMTTE underlying technology architecture
+
+8.4.1 Blockchain
+Account
+Account：The user's unique digital identity.
+Token
+34
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+Nework's Token (NKC) is based on the ERC20 standard. Users can view their NKC information
+through the Nework or any application that supports the ERC20 standard. Before Nework's
+exclusive blockchain come online , Nework will launch its original Token based on Ethereum, and
+migrate when the chain is complete, the migration will not effect user’s usage and digital
+assets.
+Ecological rules
+POMt incentive-based share rules;
+Number of NKC required to purchase Mission DAO;
+And other ecological rules that need to be added as Nework evolves.
+
+Smart contract
+
+contract MissionTrade {
+mapping (address => uint) balances;
+mapping (address => uint) trusts;
+// 可信凭证
+function POMt(address sender, address rev) returns(bool isOk){
+trusts[sender] += getPOMt();
+trusts[rev] += getPOMt();
+}
+// 写⼊入账本
+function sendCoin(address receiver, uint amount) returns(bool sufficient)
+{
+if (balances[msg.sender] < amount) return false;
+balances[msg.sender] -= amount;
+balances[receiver] += amount;
+// 分配 Mission Trust
+POMt(msg.sender, receiver);
+return true;
+}
+function getBalanceInEth(address addr) returns(uint){
+return ConvertLib.convert(getBalance(addr),2);
+}
+function getBalance(address addr) returns(uint) {
+return balances[addr];
+}
+}
+
+35
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+Ethereum's smart contracts are Turing-complete, and in Nework's ecosystem, many constraints
+are written into smart contracts, including the realization of the following contracts.
+
+8.4.2 DMTTE
+DMTTE (Distributed Mision Trade Engine) is developed based on smart contract with chain block
+technology, it is a transparent and trustworthy, highly scalable, distributed, middleware-free
+basic functional engine that complies with the POMt Incentive Mechanism.
+
+36
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+9. Issuing plan
+
+9.1 NKC tokens
+In order to effectively motivate community builders and participants to realize the platform's
+status quo, Nework launches the platform's original Token -NEW, with a total amount of 1 billion.
+Mission trust is issued to increase the trustworthiness of both partners.
+
+9.2 Distribution Program
+30% pre-sale
+15% Management Fund
+25% incentive fund
+20% core team (R & D and operations)
+10% Ecological Fund
+
+9.2.1 Early pre-sale
+R & D for the Nework platform, investment in hardware and bandwidth costs, project operations,
+etc. to ensure project sustainability.
+
+9.2.2 Management Committee Fund
+Nework is a long-term business, in order to continue to promote Nework's prosperity and
+development, we need to constantly attract the best people to work with us; the same time,
+Nework in the development process to achieve some important milestones, the need and more
+More partners to complete. This section is the team members who joined and contributed to the
+continued motivation later, as well as important business partners.
+
+37
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+9.2.3 Incentive Fund
+Nework uses a two-tiered incentive mechanism for long-lasting fair access: The first floor, which
+accounts for 25% of the total Token NKC, rents into the platform rewards pool, releasing 50%
+of the remaining amount each year, all the way to the fifth year. The second level refers to the
+growth rate of the world's stable economy (3%), with 3% of the total issuance annually since the
+following year. The total number of Tokens in the first and second levels serves as a bonus pool
+for motivating users. Based on the POMt, the system will determine the reward elasticity and
+assign a corresponding amount of NKC and Mission trust to the reward pool daily. Starting from
+the first year, every year in the form of additional supplement state reward base.
+
+9.2.4 Core Team (R & D and Operations, etc.)
+Nework R & D team for the birth and development of Nework to provide full product and
+technology support, paid a great deal of attention and effort. As well as early contributors By
+providing resources, funding provided indispensable assistance to the construction of Nework,
+with a reasonable share of NKC as a reward for both.
+
+9.2.5 Ecological Fund
+Nework's initial launch will set aside 10% of NKC as a state-of-the-art base for incubating or
+supporting premium applications based on Nework's ground floor for secondary development.
+
+9.3 pre-sale target
+This pre-sale, which accounts for 30% of the total number of launches, or 300 million NKC, is
+only available to certain buyers and raised in the form of ETH or BTC with a total equivalent of
+approximately $ 30 million. The presale target is only open to certain overseas buyers (非 China
+mainland).
+
+9.4 team lock positions promise
+20% of the NKC held by the founding team of Nework will all freeze after the pre-sale. The team
+promised to lock the warehouse 33 month. The first unlock after the completion of the six
+fundraising, followed by a quarter of each unlock part does not exceed 10% of the total team
+money.
+
+38
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+9.5 Login Exchange
+Nework plans to land overseas digital currency exchanges and open trades when conditions are
+ripe.
+
+39
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+10. Development Plan
+
+late Aug.2017
+
+Proposal for Nework platform construction and development
+
+middle Dec.2017
+
+Register Nework666.com domain name
+
+middle Dec.2017
+
+Start requirement research on product integration of blockchain and
+internet trading platform.
+
+late Dec.2017
+
+Complete technical research and selection, determine the system
+architecture solution
+
+Jan.2018
+Late Jan.2018
+
+Officially enabled Nework.pro domain name, Nework official
+website come online
+Newark project start to pre-sale
+
+Mar.2018
+
+Complete the entire design of product
+
+Apr.2018
+
+Start the underlying architecture design and development
+
+Q2.2018
+
+Complete the development of basic function and the
+verification of MVP, complete the development of web client
+
+Q3.2018
+
+Start Alpha test，iOS，Android client development
+
+Q4.2018
+
+Public beta come online，open to all users
+
+Q1.2019
+
+Complete the development of the blockchain open platform based
+ethereum to test
+
+Q2.2019
+
+Migrate Nework business to the blockchain open platform
+
+Q3.2019
+
+API platform and advertising system come online
+
+40
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+11. Nework Foundation Ltd
+
+The Nework Foundation Ltd's entity and members are based in Singapore and are managed nonprofitably. The individual business economy is rapidly emerging globally, Nework is commit to
+release global individual productivity all-round, making it a giant in individual transaction area like
+Alibaba.
+Team members have rich experience in the area of blockchain and deep accumulation and
+exploration in C2C skills transactions, at the same time, they work in close collaboration with
+PMCAFF (the world's largest Internet product manager community) ,with the target of the
+development and operation of Nework.
+
+41
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+12. Investment institution&Partner
+
+12.1 Investment institution
+
+12.2 Partner
+
+BigONE
+
+42
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+13. Risk Statement
+
+13.1 Disclaimer
+This document is only for informational purposes and its content is only for reference, it does
+not represent as any representation, solicitation or solicitation of a sale of stock or securities in
+Nework and its related companies. This document is not composed or understood as providing
+any purchase behavior , nor is it a contract or commitment of any form.
+Given the unpredictable conditions, the goals outlined in this white paper may change. Although
+the team will do its best to achieve all of the goals of this white paper, all individuals and teams
+that purchase NWCs should be at its own risk. Portions of the document may be adjusted in the
+new white paper as the project progresses and the team will release the update by posting a
+notice or a new white paper on the site.
+Nework expressly disclaims any direct or indirect damages by the Participants including:
+1, relying on the contents of this document;
+2, the wrong information, negligent or inaccurate information in this document;
+3, any behavior caused by this document.
+The team will work hard to achieve the goals mentioned in the document, but due to the
+existence of force majeure, the team can not fully fulfill its commitment.
+NWC is a tool for generating performance on the Nework platform but not an investment
+product. NWC is not a type of ownership or control. The control of NWC does not represent the
+ownership of Nework or Nework applications and NWC does not grant any individual rights to
+participate, control, or make any decisions about Nework and Nework applications.
+
+13.2 Regulatory Risk
+As the development of the blockchain is still in its early stages, there are no relevant regulatory
+documents in the world such as preconditions, transaction requirements, information disclosure
+requirements and lock-in requirements in the process of raising funds. And it is unclear how the
+current policy will be implemented. All of these factors may have an uncertain impact on the
+development and mobility of the project. While blockchain technology has become the main
+target of regulation in all major countries in the world, the Newor application or NWC may be
+affected if the regulatory body intervenes or exerts influence. For example, the restriction of the
+43
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+use by laws, NWC may be restrict ,hinder or even direct terminate Nework applications and NKC
+development.
+
+13.3 Competition Risk
+Many block chain project highly competitive in current areas , there is a strong market
+competition and project operating pressure. Nework project whether can break through in many
+outstanding projects, get widely recognized, both related with its own team capabilities, vision
+planning and other aspects linked competitors and even the oligarchy in the market, during
+which there is the possibility of facing vicious competition.
+
+13.4 Brain drain risk
+Nework brings together a dynamic and talented team of talent, attracting senior practitioners in
+the area of blockchain, experienced technical developers and more. In the future development,
+Nework will not rule out the possibility of the negative impact on the overall team as a result of
+the departure of core personnel and the conflict within the team.
+
+13.5 Project Technical Risk
+The accelerated development of cryptography or developments in technology such as the
+development of quantum computers may bring the risk of cracking to the Nework platform, it
+may result in the loss of NWCs. During the project update, there may be some loopholes. Once
+the loopholes are discovered, they will be repaired promptly, but there is no guarantee that this
+will not cause any impact.
+
+13.6 Risk of lacking awareness
+Nework applications has the probability that
+
+not be used by a large number of individuals or
+
+organizations, which means that the public is not interested enough to develop and develop
+these related distributed applications. Such a lack of interest may have a negative impact on
+NWC and Nework applications.
+
+13.7 Hacking Risk
+Nework is at risk of attack by hackers or other organizations, including but not limited to denial
+of service attacks, Sybil attacks, malware attacks, or conformance attacks.
+44
+
+Nework - Incentive platform for connecting human skills based on chain block technology
+
+13.8 Uninsured loss risk
+Unlike bank accounts or other financial institutions' accounts, there is usually no insurance
+coverage on Nework accounts or related blockchain networks, and in no event will there be any
+public entity guaranteeing your losses.
+
+13.9 Other risks unknown to date
+In addition to the risks mentioned in this white paper, there are other risks not yet mentioned or
+unexpected by the founding team. In addition, other risks may also appear suddenly or in a
+combination of the several types of risks already mentioned.
+All participants should have a full understanding of the team background, know the overall
+framework of the project and ideas, get a rational attitude before make any decision.
+
+Nework
+Incentive platform for connecting human skills
+based on chain block technology
+Official website：nework.pro
+Email：jialin@nework.pro
+
+45
+
+

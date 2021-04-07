@@ -1,0 +1,235 @@
+THE PLATFORM FOR
+CRYPTOCURRENCY AND
+BLOCKCHAIN BELIEVERS
+Wincash Coin – The Future of Blockchain-based Payment and Cryptocurrency
+
+W
+
+Wincash Coin – The Successor of SHA-256 Cryptocurrency
+and the trigger of Crypto Trends
+
+What is : Wincash Coin is real cryptocurrency with SHA-256 algorithm to bring
+the trend of cryptocurrency as the global payment system to the next level
+
+How it works : Wincash Coin uses POS/POW Hybrid and Master Node technology
+to join the blockchain network and take part in keeping the sustainability of
+transac ons in Bloc chain network and open the opportunity to worldwide to
+own Wincash Coin and take beneﬁts from its growth in the market
+
+Why : Wincash Coin is not an ICO tokens or coins, means it’s purely established
+as a real coin which is mineable and grow as the value of cryptocurrency. Wincash
+Coin is already with some partners from the Cryptocurrency-based Mutual-Aid
+Network and some companies that have the similar goals to revive the crypto
+trends by promo ng Win ash Coin.
+
+Beneﬁts : Back to 2014, one of the trigger of Cryptocurrency value is the rapid
+increase of the trust to cryptocurrency. It is caused by the appearance of Mutual
+Aid Network which has many par cipa ts all over the world and promote
+cryptocurrency as safe and eﬃcient way to transfer the money. Wincash Coin
+aims to be the same trigger or even beter. This means that no one would miss
+this uptrend.
+
+Table of Contents
+1. Abstract
+
+01
+
+2. Market Context
+2.1 The Trend of Cryptocurrency
+2.1.1 Introduction
+
+02
+
+2.1.2 Historical analysis
+
+03
+
+2.2 Mutual Aid Network and
+Cryptocurrency Believers The Triggers of Massive
+Growth in Bitcoin Value
+
+04
+
+3. Our Vision
+3.1 The Future Scenario
+
+05
+
+4. Wincash Coin – The better
+payment system, trigger
+of crypto trend
+4.1 The successor of
+SHA256 algorithm
+
+06
+
+4.2 Wincash, The reliable,
+secure future payment gateway
+
+08
+
+4.3 Why Wincash Coin
+4.3.1 Introduction
+4.3.2 POS System
+4.3.3 Masternode System
+
+10
+
+4.4 The momentum that you should
+not miss
+
+11
+
+4.5 The future of Wincash Coin
+and Payment Gateway
+
+11
+
+5. Road Map and Features
+
+12
+
+01
+
+02
+
+2.1 The Trend of Cryptocurrency
+
+03
+
+04
+
+2.2 Mutual Aid Network and Cryptocurrency Believers The Triggers of Massive Growth in Bitcoin Value
+
+05
+
+Our Vision
+
+06
+
+07
+
+08
+
+FEATURES
+
+Integration with 40 cryptocurrencies
+
+Ability to add Payment button
+for websites, blog.
+
+Add a payment button, page,
+or iframe to your website
+
+Install a shopping cart plugin for
+WordPress, Zen Cart, Magento,
+and others
+
+Send email invoices to request
+payment
+
+Payment Processing API
+
+BENEFITS
+
+Your business gets an alternative trustable
+payment method that works 365 days and 24/7.
+
+Your business gets a worldwide customer base.
+
+Your business gets more proﬁts, fewer fees,
+fewer credit/debit card chargebacks, and less fraud.
+
+It gives your business an option to keep some
+amount of your proﬁts in cryptocurrency as an
+investment option. This could help your
+business in the long-term.
+
+your business get the freedom to ‘Be Your
+Own Bank (BYOB)
+
+Architectural Design
+
+Key Derivation with standard of BIP32, BIP39, BIP44 Compliance, enhancing the security
+and ﬂexibility of user Using Electrum server deployed in Unix Solaris for high stability,
+sustainability and performance, Back end architecture design using JOYENT Smart Data
+Center, guarantees 99% uptime without downtime Using container instead of hardware
+virtualization/emulation for a faster system access and lightweight server load. Many other
+services and integrations
+
+Key Derivation with standard of BIP32,
+BIP39, BIP44 Compliance, enhancing the
+security and ﬂexibility of user
+
+Using Electrum server deployed in
+Unix Solaris for high stability,
+sustainability and performance,
+
+H
+I
+G
+H
+
+PERFORMANCE
+STABILITY
+FLEXIBILITY
+SECURITY
+
+Back end architecture design using
+JOYENT Smart Data Center, guarantees
+99% uptime without downtime
+
+Using container instead of hardware
+virtualization/emulation for a faster system
+access and lightweight server load.
+
+Many other services and integrations
+
+09
+
+10
+
+11
+
+Our Roadmap
+Q4 - 2018
+Idea creation
+1st partnership proposal approval
+Blockchain development
+Website and whitepaper
+Android wallet development
+Pre-mine period (20%)
+POW private mining for verifying transactions in blockchain
+
+Q1 - 2019
+1st partnership public launch & community building
+2nd, 3rd, 4th, 5th, partnership proposal approval
+Launch of android wallet on Google Playstore
+Ios wallet development
+
+Q2 - 2019
+Mining pool development
+Masternode development
+Desktop wallet development
+Medium exchange listing
+
+Q3 - 2019
+Public launch of mining pool (POW)
+POS starts after 12.000 blocks
+Staking and masternode program
+Launch of desktop wallet
+Launch of IOS wallet
+
+Q4 - 2019
+Next partnership public launching (2nd or more)
+Listing in Coinmarketcap
+Listing in Worldcoinindex
+Listing to other medium exchanges
+
+Q1 - 2020
+Wincash Pay launching (open for any platform)
+Marketing & community building of 2nd partnership or more
+Listing in top exchanges
+Others (will update soon)
+
+
