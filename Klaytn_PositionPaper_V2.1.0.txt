@@ -1,0 +1,1947 @@
+Position Paper v 2.1
+
+Copyright © Klaytn. All rights reserved.
+
+Table of Contents
+About Klaytn Position Paper
+
+4
+
+What’s a Klaytn Position Paper?
+What’s the Problem Klaytn is Trying to Solve?
+What Changed Since the Last Update?
+
+4
+4
+5
+
+1. Introduction
+
+7
+
+From Idealism to Pragmatism: Blockchain’s Inflection Point
+Businesses Will Drive Blockchain Mass Adoption
+Why Should Businesses Care About Blockchain?
+
+7
+7
+8
+
+2. Klaytn’s Vision of Mass Adoption
+
+10
+
+Why is Mass Adoption an Important Goal?
+Challenges to Blockchain Mass Adoption
+How Will Klaytn Achieve Blockchain Mass Adoption?
+
+10
+10
+11
+
+3. Klaytn Design
+
+13
+
+Overview of Klaytn Architecture
+
+13
+
+The Trust Model in Klaytn
+
+13
+
+Klaytn Network Structure
+
+14
+
+Core Cell Network (CCN)
+
+14
+
+Endpoint Node Network (ENN)
+
+14
+
+Service Chain Network (SCN)
+
+15
+
+Klaytn Main Chain Network
+
+15
+
+Core Cell (CC)
+
+15
+
+Consensus Node Network (CNN)
+
+15
+
+Proxy Node Network (PNN)
+
+16
+
+Endpoint Node Network (ENN)
+
+16
+
+Bootnode
+
+16
+
+Block Generation and Propagation
+
+16
+
+Block Generation Cycle
+
+16
+
+Proposer and Committee Selection
+
+16
+
+Block Proposal and Validation
+
+16
+
+Block Propagation
+
+17
+
+Public Disclosure and Open Validation
+
+17
+
+Separated Propagation Channels for Blocks and Transactions
+
+17
+
+Block rewards
+
+17
+
+Klaytn Accounts
+
+17
+
+Overview of Account, State, and Address
+
+17
+
+Decoupling the Address from the Key
+
+18
+
+Multi-Key Pairs and Role-Based Keys
+
+18
+
+Human-Readable Address (HRA)
+
+18
+
+Klaytn Wallet Key: A Unique Klaytn Key Format
+
+19
+
+Klaytn Account Types
+
+19
+
+Klaytn Transactions
+
+19
+
+Transactions Overview
+
+19
+
+Signature Validation of Transactions
+
+20
+
+Fee Delegation
+
+20
+
+SenderTxHash
+
+20
+
+Computation
+
+21
+
+1
+
+Klaytn Smart Contracts
+
+21
+
+Affordable Smart Contract Execution Cost
+
+21
+
+Smart Contract Language
+
+22
+
+Klaytn Token Standards
+
+22
+
+Creating Smart Contracts
+
+23
+
+Executing Smart Contracts
+
+23
+
+Disabling Smart Contracts
+
+23
+
+Upgrading Smart Contracts
+
+23
+
+Klaytn Tokens and Transaction Fees
+
+24
+
+Klaytn Virtual Machine (KLVM)
+
+24
+
+How KLVM Differs From EVM
+
+25
+
+Storage
+
+25
+
+Block Archiving
+
+25
+
+Service Chain
+
+26
+
+Service Chain Network (SCN)
+
+26
+
+Service Chain Features
+
+27
+
+Enterprise Proxy
+
+27
+
+Blockchain Enabler
+
+28
+
+Event Handler
+
+28
+
+Transaction Manager
+
+28
+
+Chain Router
+
+28
+
+Legacy System Integrator
+
+29
+
+Request Transcoder
+
+29
+
+Request Gateway
+
+29
+
+4. Klaytn Token Economy
+
+30
+
+Token Economy Overview
+
+30
+
+Incentive Structure
+
+30
+
+Klaytn Governance Council Reward
+
+30
+
+Klaytn Governance Council Reward Mechanism
+
+30
+
+Penalty for Misbehaving Council Members
+
+31
+
+Proof of Contribution
+
+31
+
+Service Providers
+
+31
+
+End-Users
+
+32
+
+Proof of Contribution Reward Mechanism
+
+32
+
+Klaytn Improvement Reserve
+
+32
+
+5. Klaytn Governance
+
+33
+
+Overview
+
+33
+
+Klaytn Governance Council : Co-governed by Klaytn Contributors
+
+33
+
+Bootstrapping
+
+33
+
+Governance Topics
+Governance Process
+
+33
+33
+
+General Governance Process
+
+33
+
+Klaytn Improvement Reserve Governance Process
+
+34
+
+Duties and Rights of the Governing Body
+
+35
+
+Duties
+
+35
+
+Voting Rights
+
+35
+
+6. Roadmap
+
+36
+
+1) 2019: Buildup Infrastructures
+
+36
+
+Focusing on Base Components (Klaytn & Toolkits)
+
+36
+
+Discovering Killer BApps
+
+36
+
+2) 2020: Buildup User Base
+
+36
+
+2
+
+Data-Driven Upgrade for Klaytn Scalability & Compatibility
+
+36
+
+Expanding User Base via BApps
+
+36
+
+3) 2021: Klaytn World
+
+36
+
+Klaytn to reach mainstream with performance, security, and productivity on-par with the traditional internet
+
+36
+
+Risks and Disclaimers
+
+38
+
+No Viewing in a Restricted Territory
+Information Only
+
+38
+38
+
+No Offer
+
+39
+
+No Advice
+
+39
+
+No Agreement
+Regulatory Risks
+
+39
+39
+
+Other Disclaimers
+
+39
+
+3
+
+About Klaytn Position Paper
+What’s a Klaytn Position Paper?
+This document is an update to the Klaytn Position Paper first published in September 2018 and
+updated in March 2019. The Position Paper defines the problems Klaytn aims to solve, explaining
+their nature and suggesting potential solutions that may be implemented to tackle those problems. As
+such, Klaytn’s Position Paper differs from a white paper in its perspective; a white paper typically
+defines a problem and declaratively describes how it will be solved, along with by when a technical
+solution will be delivered. In contrast, Klaytn’s Position Paper depicts a vision of the world where the
+hurdles we face today have been remedied, as to establish a shared sense of direction for Klaytn’s
+partners, platform participants, and community members.
+
+What’s the Problem Klaytn is Trying to Solve?
+From its onset in early 2018, Klaytn has identified blockchain mass adoption as its foremost goal.
+Ever since, the project has built a public blockchain network and a business-friendly development
+platform around it to help entrepreneurs and enterprises in various sectors build highly usable
+blockchain applications for a wide range of end-users regardless of their level of crypto-literacy. Klaytn
+believes that the full innovative potential of blockchain will be unlocked through the new breed of
+applications - services and products - that the technology unlocks, and that those new applications will
+deliver unprecedented utility and benefits to its users. In Klaytn’s view, this is how blockchain mass
+adoption will run its course - organic, user-centric, and natural as the next due step in the course of
+evolution.
+To realize its vision, Klaytn will provide a comprehensive suite of blockchain application development
+environment, starting with a public blockchain network, development platform, and developer
+supporting tools. Klaytn development platform aims to imbue businesses with the capability to create
+applications that integrate key qualities conferred by the underlying Klaytn public network, including
+transparency, security, and censorship-resistance. At the same time, the said platform supports
+enterprise-ready level scalability and performance in order to enable reliable business operations by
+massive international enterprises.
+To further strengthen its value proposition for businesses, Klaytn is built on carefully designed token
+economy, governance systems, and incentive programs to facilitate collaboration among diverse
+groups of contributors on its platform. Klaytn ecosystem participants include not only direct business
+partners, infrastructure co-operators, and governance participants, but also organic stakeholders such
+as developer communities, user circles, and other interest groups. Contributions from various groups
+are mediated and directed towards growing the ecosystem; Klaytn’s governance will support key
+growth activities such as maintaining its public network, advancing software development, growing a
+mesh of connected child networks, aligning interests among participants, and ensuring active
+participation in the governance decision making procedures.
+Paving the path towards a widespread adoption of blockchain technology by businesses and the
+wider body of end-users is an arduous task, riddled with challenges on many fronts. Nevertheless,
+Klaytn believes its vision of incubating the next breed of blockchain-powered services and products is
+the path to accelerate the arrival of the next phase of digital business evolution. To that end, Klaytn
+will continue to address numerous challenges that businesses face in their blockchain adoption
+
+4
+
+efforts, and remove friction end-users come across in their customer journey on blockchain-powered
+products.
+
+What Changed Since the Last Update?
+Klaytn Position Paper is continuously revised to deliver concise and accurate information on the
+nature and goals of the Klaytn project and its ongoing progress. The paper covers the project
+background and the principles behind the designs of Klaytn’s blockchain networks, development
+platform, and its tools. It also explains how Klaytn aims to build its ecosystem and facilitate various
+collaborations among participants as to achieve their support, which is a key component in realizing
+blockchain mass adoption.
+In Position Paper v2.0, an overview of Klaytn platform’s technology stack, including a high-level
+architecture and visualization of its networks, has been added to help readers gain a better
+at-a-glance understanding of Klaytn software. Tech-savvy readers looking for detailed information are
+encouraged to visit the technical resources at Klaytn Docs (​https://docs.klaytn.com/​) for a more
+through exploration under the hood.
+As blockchain technology continues to advance at an incredible pace, the requirements from
+stakeholders interested in leveraging the technology are becoming much more refined and
+demanding. In particular, the need for improved security has grown stronger than ever from enterprise
+stakeholders concerned about potential breaches. In response, Klaytn has further reinforced the
+robustness of its blockchain network’s security by carefully re-aligning the incentive structure to
+transition away from its previous two-layer network design where individual nodes have separate roles
+and responsibilities rooted on different incentive sources. That is, in v1.0, block producing
+responsibilities were assigned to Consensus Nodes while auditing responsibilities were solely given to
+Ranger Nodes. In the new v2.0 design, node roles are merged under a single incentive system so that
+all nodes collectively participate in data auditing across Klaytn under a singly-aligned incentive
+system. In essence, all nodes contribute to validating block production results. At the same time,
+nodes are re-categorized by the infrastructure function they contribute: Consensus Nodes continue to
+focus on rapid block production and propagation by leveraging their high caliber hardware and
+network resources, while other nodes form additional network layers encapsulating the core
+Consensus Node network to ensure responsive transaction request intake, faster transaction data
+propagation across the entire network, and improved protection against external attacks.
+The change enables Klaytn to support a long-term transition plan where the number of nodes
+participating in block production will gradually increase as technical requirements for block production
+ease down through infrastructure technology advancements. This will lead to an expanded pool of
+block producer nodes which will in turn reinforce the network’s security while preserving performance.
+As to accurately describe the adjusted roles, we have renamed the previous Ranger Nodes to
+Endpoint Nodes to emphasize the node’s functional contribution rather than their method of
+incentivization.
+Service Chain, the scalability solution in Klaytn, has also been extended in its feature and has been
+repackaged to make it easier for businesses to adopt. In v1.0, Service Chain was proposed as a
+logical segregation of multiple blockchain instances running on a single chain, with the purpose of
+solving resource limitation issues. Region Chain was presented as a physical expansion solution to
+address similar limitations. In v2.0, Service Chain has been repositioned as a consolidated scalability
+solution incorporating the features and benefits of both previous Service Chain iteration and Region
+Chain. The newly proposed Service Chain offers flexible node configuration capability that empowers
+enterprises to adopt a tailored Klaytn blockchain solution package that fits their unique business
+
+5
+
+needs and infrastructure resource availabilities. Configurable policies include data privacy and access
+permission policies, security settings, transaction fee models, and desired performance levels.
+In addition to the above features, Service Chain enables businesses to establish trusted connection
+with the public Klaytn mainnet through which immutable data validation proofs may be created, which
+ensures the integrity of the data on individual Service Chains by leveraging the trusted security of the
+mainnet. As an additional connectivity feature, Service Chain provides a network bridge function that
+connects individual Service Chains with the public mainnet to facilitate transfer of tokenized digital
+assets between blockchain networks.
+Note that, as of v2.1, Service Chain is still an experimental solution that requires further testing using
+extensive operational data to achieve fully stabilized performance. Users are advised to exercise
+caution and individual best judgment when evaluating potential risks of using Service Chain. Klaytn is
+committed to fully developing Service Chain to meet the needs of a wider range of stakeholders, and
+welcomes contribution from partners and ecosystem participants who share the goal of improving the
+solution.
+
+6
+
+1. Introduction
+From Idealism to Pragmatism: Blockchain’s Inflection Point
+If you have been interested in blockchain for some time, you might recall the time of early 2018 when
+quite a few number of communities were built around projects, clamouring with heated, resounding
+calls for action. Those calls urged people to look up and realize the unfairness lodged deep within the
+designs of contemporary economic systems, many of which involving central entities such as
+institutions or large businesses, with varying degrees of concentrated power. Those calls went on to
+urge people to take action, to leave behind the conformant systems and to create a new economy
+from scratch. Revamped designs for the new world would to be made possible by blockchain - the
+game changing technology which doubled as new grounds on which a new economic paradigm would
+be built to make ‘trustless’ the new norm of transactions and no single entity could hold
+disproportionate power over another. Unfortunately for many of the visionaries of the time, these calls
+mostly went unanswered. Throughout 2018, the messages resonated but failed to reach beyond the
+boundaries of enthusiastic communities of early adopters, and never went on to move the hearts of
+the majority.
+In 2019, we see decreased presence of projects solely focused on the decentralization ideal, replaced
+by stronger sense of realism and practicality. In hindsight, the disruptive world views and the drive for
+action demonstrated by the past projects were commendable. However, their execution plans were
+either too ‘opportunistic,’ hoping to exploit the mounting hype without in-depth understanding of the
+capabilities and limitations of the nascent technology of the time, or ‘overly optimistic,’ lacking viable
+product blueprints essential for realizing their visions. Those projects were unable to position
+themselves as practical solutions to be considered for adoption by pragmatic problem solvers looking
+for cost-effective solutions. However, after the extensive cooldown throughout 2018, surviving
+blockchain projects today have their feet on the ground. Enduring paradigm shifts and pivots, they
+have validated themselves against stricter standards by investing serious efforts to deliver working
+products that prove the value of their vision. Such change of trend in project value proposition is a
+telltale sign of the blockchain scene moving towards healthy pragmatism: a point of convergence
+where the bar is raised for product functionality and feasibility, along with a higher standard for
+professionalism and business ethics. Today, blockchain is evolving into a working, viable
+technological solution poised to solve real-world problems. A desirable outcome from the emergence
+of pragmatism is the positive market signals it sends - increased performance and scalability,
+enterprise-grade service stability, interoperability, and overall improved maturity - making blockchain a
+real, attractive option for businesses.
+
+Businesses Will Drive Blockchain Mass Adoption
+Blockchain’s history sprang from grassroots, led by remarkable individuals, investors with high risk
+profiles, nimble startups helmed by visionary entrepreneurs, and communities of enthusiastic early
+adopters. Collectively, they created inspirational blueprints for the future and planted seeds that
+ignited blockchain trials across numerous sectors. In 2019, with improving solution maturity and
+heightened sense of practicality, the cast of actors in the blockchain scene is expanding. In addition to
+startups and agile small businesses, global enterprises and institutions are increasing their adoption
+of the young technology. The shift has been set in motion by tech giants with existing
+business-to-business engagements in cloud infrastructure and software, such as Amazon, IBM,
+Microsoft, and Oracle. In the more end-user facing front, enterprises with massive user base and
+
+7
+
+strong influence over their digital interactions, such as the social media giant Facebook and Asian
+mobile ‘super app’ operators Kakao and LINE, are joining in with their own blockchain product trials.
+Larger entrants are expected to introduce blockchain-enabled products with higher degree of polish
+and refined interfaces appealing to a much wider range of audiences. They will create new end-user
+touchpoints at an unprecedented scale by leveraging their massive pool of existing users, stimulating
+market adoption and thereby creating inflow of new users for other blockchain projects to benefit from.
+Through carefully planned integration of blockchain with their existing services, and with help from
+their user experience expertise and brand reputation, larger entrants may shift blockchain market’s
+paradigm from the standstill pool of crypto-savvy users who started their customer journey at a
+fiat-to-crypto exchange, to a new paradigm dictated by the quality of products driven by user-centricity
+and value for the mass. Larger entrants can further contribute to blockchain by introducing their
+extensive competencies in numerous sectors to identify new adoption opportunities in traditional
+industries.
+The blockchain-enabled products that would be offered by larger entrants may not prioritize
+decentralization as its foremost value, and may not satisfy a number of key concepts often expected
+from a decentralized application (DApp). A new category of products which we look forward from
+larger entrants, namely blockchain application (BApp), will instead focus on drawing out the intrinsic
+qualities of public blockchain networks to create unique use cases and value propositions previously
+not possible without blockchain technology. BApps will transition the purpose of blockchain utilization,
+from disintermediation and elimination of central entities for creating a ‘trustless’ world, to integration
+of transparency and integrity onto new business opportunities where previous lack of trust and reliable
+data would have discouraged transactions and would only have left unfulfilled possibilities. By
+repositioning blockchain as a reinforcing technology for trust instead of a new replacement for what
+already works in the real world, we expect BApps to serve as onramps that showcase the capabilities
+blockchain deliver, promoting further adoption of the technology and accelerating mass adoption.
+
+Why Should Businesses Care About Blockchain?
+Businesses can be drawn to blockchain technology for a number of reasons. First and foremost,
+blockchain has the potential to significantly lower operation costs if applied to contexts where data
+accuracy and trustworthiness is a concern. The cost saving benefit of blockchain becomes particularly
+apparent in scenes with multiple parties involved in an entwined collaboration process, where the
+value or profit captured by each member is determined by the integrity of the shared data. For
+instance, retail supply chain management and insurance claim procedures are among the most
+popular targets of blockchain proof of concept projects where the immutable data characteristics of
+public blockchain networks are applied.
+However, a more fundamental reason for businesses to consider adopting blockchain lies in the
+technology’s long-term potential to disrupt existing business models and to create new ones. As a
+business model-enabling technology, blockchain supports new ways through which end-users engage
+with business to create value. As a shared ledger system that supports tamper-proof data entry, full
+transparency, and censorship resistance, blockchain can reduce the need for end-users to adhere to
+business procedure or value chain designs established by ‘authorities’ and alternatively choose to
+conduct more direct and spontaneous transactions outside their mediation. The transparent nature of
+public blockchain network ensures that the data created from customer activities is fully disclosed in a
+pseudo-anonymous manner for the benefit of all those involved in the transaction, not just the the
+business who is more accustomed to sole ownership of the data. Further, the high level of robustness
+against nefarious actors enables blockchain to securely support storage and transfer of tokens and
+digital assets on its network without necessitating clumsy add-on security software. This greatly
+
+8
+
+reduces friction from the customer journey when end-users engage in economic activities and content
+consumption online, such as making payments or money transfers, receiving and sharing loyalty
+points, claiming fractional shares of various assets, participating in crowdfunding, or purchasing
+financial products. In conjunction with smart contracts, blockchain supports automation across a vast
+range of financial interactions using widely available programming languages and tools. As a result,
+end-users are provided with a sophisticated infrastructure on which digitization and financial
+automation offers opportunities to realize unprecedented efficiencies.
+End-user behaviors constantly shift in response to the constant, multivariate changes in the society
+and the world we live in. Whereas the changes are hard to forecast, we can safely assume that
+blockchain technology is well-aligned with the user preference we expect to see in the near future
+where end-users will desire greater level of convenience and digital freedom in their online activities,
+not just in finance or commerce but also in personal information and identity management. The global
+shift towards a cashless society where preferred method of payment is fast changing to services with
+less friction, for example mobile payments, is an evidence of such behavior shift. With some
+extrapolation, it is not difficult to imagine that frictionless payment service on blockchain infrastructure
+where users could securely spend or transfer any amounts of money with negligible fee and
+immediate responsiveness would be well-received, creating a new competitive edge in competition.
+Businesses hoping to stay relevant in the market must continuously adapt and renew their value
+proposition in response to the changing environments. Correctly understanding emerging
+technologies poised for widespread adoption and explosive growth is an important part of making
+preparations for the future. With this understanding, businesses have maintained a keen, explorative
+interest in blockchain technology for the past few years. In 2019, we see multiple signs of those early
+interests and trials being materialized into a sense of reality.
+
+9
+
+2. Klaytn’s Vision of Mass Adoption
+Why is Mass Adoption an Important Goal?
+The term “mass adoption” has gained popularity from late 2018, attaining a buzzword-like status
+similar to ‘ICO’ and ‘DApp’ that came earlier. It is often referred to as the next big thing in blockchain,
+often with a strong tone of anticipation - yet the term is somewhat unclear in its meaning and a
+general consensus on its definition seems yet to be reached.
+With its mission set on achieving mass adoption, Klaytn has clear ideas about what the concept
+should comprise. Mass adoption is not the end goal, but rather a phase - a very important, meaningful
+next step for blockchain projects. Mass adoption represents a state of the market where products or
+services enabled by blockchain has crossed the adoption chasm and has started to gain widespread
+acceptance by the early majority of non-crypto users. The term also implies that a number of major
+challenges that hinder adoption today, such as usability hurdle for end-users involving wallets and
+private key management, or data privacy problem that prohibits adoption by organizations holding
+sensitive data, has been resolved in some form.
+Mass adoption will be a groundbreaking turning point for blockchain, because the inflow of end-users
+means greater volume of user activity, and more activity leads to larger amount of data becoming
+available for businesses to intake and advance their product and service offerings. After achieving
+mass adoption, the lead time for discovering new valuable use cases will be shortened significantly,
+and achieving self-sustainable blockchain-driven business models will become a tangible goal. These
+advances will be made possible through shortened product iteration cycles and abundant data, which
+will in turn expedite the search for blockchain product-market fit. In overall, blockchain technology will
+be able to stand on more stable grounds, with the gap between solutions created by the technology
+and the demand for them bridged by a solidified market.
+
+Challenges to Blockchain Mass Adoption
+As of now, blockchain is an immature technology with only a few years of eventful history under its
+belt. There are still many steep challenges ahead for blockchain mass adoption: for example, despite
+its existential purpose stated as becoming the “technology of trust,” blockchain is still often perceived
+as untrustworthy by many potential users. Limited scalability, low throughput, slow responsiveness,
+and uncertain reliability are among the friction points that often stand in the way of winning over
+clients from conventional technologies. The intrinsically high level of complexity originating from being
+a crossbreed of modern cryptography, peer-to-peer networking, and database systems further distract
+customers from grasping why blockchain is relevant to their sector. Making matters more complicated,
+legacy systems that organizations may replace with blockchain technologies to benefit from efficiency
+improvement are often deeply entrenched as integral parts of their current business. The engineering
+workforce required to implement blockchain solutions are often too expensive to finance and difficult
+to staff.
+The emerging trend of large entrants strengthening their interest in blockchain and launching strategic
+trials is exciting, and their initiatives are welcomed as a meaningful step forward. However, having
+bigger players joining the playing field is only incremental progress, insufficient to trigger mass
+adoption by itself. Blockchain mass adoption remains a mighty challenge because even if enterprises
+and institutions create exposure to their massive existing user pools, the nontrivial hurdles of user
+conversion and retention remains. Numerous tech-savvy, disruptive entrepreneurs are currently
+
+10
+
+investing tremendous efforts to deliver blockchain products offering ingenious customer experience
+that address the onboarding friction and retention problems, but at the end of the day, they face great
+difficulty finding users that they could bring onboard. User acquisition, especially targeting users that
+do not originate from cryptocurrency exchanges (and therefore are less interested in speculative
+token trading and more genuinely interested in the utility of the product) is a decidedly arduous task in
+the blockchain product scene today. Even when we eventually do come across a few projects that
+succeed in creating meaningful user base and sufficient level of retention, it is difficult to expect those
+few specimens to organically grow and trigger mass adoption - because massive user conversion is
+only achieved by crossing the chasm, and this requires business to scale up and actively connect with
+users by spending great amount of resource to acquire them. Crossing the chasm essentially involves
+industry-building efforts that must be collaborated among the large bodies of end-users and
+businesses of all sizes, including enterprises. To this end, blockchain is still untamed and unoptimized
+for enterprises to consider, and will require months or perhaps years of validation to be considered a
+viable solution to solve large scale problems.
+
+How Will Klaytn Achieve Blockchain Mass Adoption?
+To address the multi-faceted challenge of blockchain mass adoption, Klaytn opts for a multi-pronged
+strategy to enhance the experience of three different categories of users by delivering three separate
+packages: developer experience (DX) offerings, user experience (UX) offerings, and enterprise
+experience (EX) offerings. The offerings are designed to realize Klaytn’s goal of creating a
+business-centric, enterprise-grade blockchain ecosystem based on highly scalable and reliable
+infrastructure, populated by quality blockchain products and services, supported by steady inflow of
+end-users to consume the services, and aptly capable of scaling in collaboration with enterprises to
+reach mass adoption.
+The goal of Klaytn’s enhanced DX is to invest in the most sure-fire way of realizing blockchain mass
+adoption: to ensure that great products are developed and made available on Klaytn ecosystem. Only
+when we deliver blockchain applications that embrace the technology’s key values such as
+transparency or tokenization into its core design, with remarkable polish and usability that those
+products become inseparable from the users’ daily lives - only with this level of retention shall we see
+user base build up in support for the product, see those groups expand and become communities,
+and find user behavior data accumulate in meaningful volumes. When the aggregated user data could
+be used to discover valuable insights, that moment will become the start of a virtuous cycle of
+blockchain product evolution, leading up to the inevitable mass adoption.
+To alleviate the hurdles that businesses face when trying to develop quality blockchain products and
+services, Klaytn will provide the necessary underlying technology and development tools that address
+numerous friction points. DX offerings will start with integrated development environments and
+blockchain interoperability software, and will expand to include developer-friendly platform features
+and policies: these will include the platform infrastructure committed to providing reliable throughput at
+2,500 tps and above, immediate responsiveness targeting 1-second finality on each block, and
+predictable operational costs based on a fixed transaction fee model. Further, to enable frictionless
+user usage, Klaytn offers platform-level support for businesses to subsidize transaction fee for their
+users.
+In addition, Klaytn will be dedicated to provide a more fundamental developer support initiative by
+creating new user acquisition channels through its network of numerous enterprise and service
+partners by way of funneling their existing user base onto Klaytn. This will help blockchain application
+providers discover the scarce non-crypto users that they could acquire and accumulate to build their
+
+11
+
+own user bases, reinforcing developers’ motivation to improve their products and deliver better
+values.
+To deliver better blockchain UX, Klaytn aims to provide blockchain service providers with the means
+to minimize user acquisition hurdles and technical unfamiliarity challenges, such as account creation
+and management, private key safekeeping, and wallet provisioning and setup. Additional Klaytn
+offerings will include user experience guidelines, references for implementing intuitive, easy-to-use
+interface for wallets, and digital asset-related interaction designs. Klaytn will also provide highly
+usable block explorers that seamlessly integrate with a wide range of blockchain application usage
+scenes.
+To improve EX and better address the adoptions hurdles that enterprises experience, Klaytn plans to
+provide enterprise-grade network infrastructure with built-in reliability support and high throughput that
+enables companies to deliver blockchain products that satisfy modern end-user experience
+expectations without sacrificing public blockchain’s unique values of transparency, security, and
+censorship resistance. Further, to provide for the flexibility and customizability required to be
+considered for new technology adoption, Klaytn provides Service Chain as a native scalability solution
+that doubles as a customization feature for enterprises to configure their own blockchain network.
+Service Chain will offer extensive customization for individual organizations, including data privacy
+policy and performance output goals, helping stakeholders obtain organizational buy-in and
+decision-making comfort. Lastly, Klaytn supports businesses to continue leveraging their legacy
+investments by providing useful tools to seamlessly integrate existing assets, such as business
+intelligence or analytics tools, to help them avoid introducing additional friction in bringing blockchain
+into the operations process.
+Klaytn’s mission is to become the first blockchain solution to bring blockchain mass adoption to the
+world. To that end, we are committed to making cutting edge technologies easy to reach and
+frictionless to use, paving the road for a wider audience to experience and appreciate their value. By
+building a significant user base held together by trustful relationship, and by providing useful
+technologies as enabling infrastructure, we believe we can build a collaborative playground of new,
+adventurous businesses working hand in hand with users and communities to discover new
+opportunities and product-market fits, and accelerate the speed of new innovations reaching
+mainstream.
+
+12
+
+3. Klaytn Design
+Overview of Klaytn Architecture
+Klaytn’s technology is designed to make widely available a highly-reliable, high-performance,
+trust-reinforcing blockchain platform that enables massive-scale products and services to benefit from
+a higher degree of transparency, integrity, and security. To achieve these goals, Klaytn has built a
+platform design based on carefully researched product principles and innovative ideas. Figure 1
+illustrates the overall architecture of Klaytn, highlighting major components which will be described in
+further detail in the following sections. With design goals clearly set on mass adoption driven by
+service providers and enterprises, Klaytn’s platform architecture accommodates high level of
+flexibility, expandability, and modularity needed for horizontal growth across multiple sectors, with
+built-in scalability solutions and modular toolkits easily adaptable for differentiated global business
+needs.
+
+Figure 1. Klaytn Blockchain Platform Architecture
+
+Klaytn will progressively evolve its platform architecture and software designs over time as the project
+advances, in collaboration with its ecosystem participants and contributors. Klaytn plans to
+periodically release technical reports on performance improvements achieved by its design choices
+and implementations, as to share insights and learnings with the community and thereby to stimulate
+technical growth across all members comprising its ecosystem.
+The Trust Model in Klaytn
+Private blockchain can reach consensus more efficiently than public chains. BFT (Byzantine Fault
+Tolerant) based private blockchains, in particular, are capable of achieving high performance and
+efficiency by restricting the number of participant nodes. Such configurations, however, make an
+expensive trade-off: they fail to make meaningful use of blockchain benefits because limiting the
+number of nodes reduces data redundancy and weakens decentralization, and their permissive nature
+degrades transparency since consensus results are only open to a small group of participants.
+
+13
+
+Klaytn, however, chose Istanbul BFT as its consensus algorithm based on the belief that BFT’s
+performance benefits can be combined with the benefits of public blockchains through smart design
+choices. We believe that it is possible to build a public blockchain that retains its robust security and
+transparency while delivering enterprise-grade performance and reliability. Towards this goal, Klaytn
+adopts a trust model of ​private consensus with public disclosure​, where a smaller group of consensus
+nodes (CNs) executes BFT consensus in a private network while surrounded by a larger public
+network of permissionless endpoint nodes (ENs) openly accessing (and where necessary, verifying)
+block generation results. Ultimately, Klaytn aims to perfect the combined balance of public security
+and transparency on a high-performance backend that empowers businesses and end-users with
+easy and reliable access to benefits offered by blockchain technology, and will continue to refine its
+network design to best support this objective.
+
+Klaytn Network Structure
+Klaytn blockchain network is a combination of multiple peer-to-peer subnetworks composed of Klaytn
+nodes transmitting transactions and block data to execute value transfers and to execute smart
+contracts. Klaytn network can be subdivided into three logical subnetworks based on their roles and
+purposes, as shown in Figure 2.
+
+Figure 2. Klaytn Network’s Constituent Subnetworks
+
+Core Cell Network (CCN)
+CCN consists of Core Cells (CCs) that verify and execute transactions submitted through Endpoint
+Nodes (ENs). CCN is also responsible for creating and propagating blocks throughout the network.
+Endpoint Node Network (ENN)
+ENN consists of Endpoint Nodes (ENs) that mainly create transactions, handle RPC API requests,
+and process data requests from service chains.
+
+14
+
+Service Chain Network (SCN)
+SCNs are Klaytn subnetworks composed of auxiliary blockchains independently operated by
+blockchain applications (BApps). Servicechains are connected via ENN to handle data requests
+together with Klaytn network.
+
+Klaytn Main Chain Network
+Figure 3 shows the topology of Klaytn’s main chain network, where its CCN is shown in further detail
+revealing its two-layer constituent networks: Consensus Node Network (CNN) and Proxy Node
+Network (PNN). ENN which has been introduced in Figure 2 is also shown as a surrounding network
+outside PNN, with direct connections established between ENN and PNN.
+
+Figure 3. Klaytn Network Physical Topology & Core Cell Breakdown
+
+Core Cell (CC)
+CCN is composed of Core Cells (CCs), which is again composed of a single Consensus Node (CN)
+and two Proxy Nodes (PNs).
+Consensus Node Network (CNN)
+CNs form a full-mesh network among themselves called CNN. CNN executes BFT consensus over a
+WAN (wide area network) and requires each CN to satisfy stringent hardware and network resource
+requirements to carry out the consensus at a sufficient level of performance.
+
+15
+
+Proxy Node Network (PNN)
+PNs are connected with each other and forms PNN. PNs explicitly do not connect with their peer
+within the same CC. Typically, PNs maintain just one connection with a peer PN, but this number is
+subject to change depending on the network configuration.
+Endpoint Node Network (ENN)
+The outermost subnetwork in Figure 3, ENN, is solely composed of ENs connected to each other and
+also to a number of PNs. ENs serve as endpoints for Klaytn network, handling RPC API requests and
+processing data sent to and from service chains.
+Bootnode
+Bootnodes are special type nodes operated by Klaytn to help newly joining nodes register to the
+network and to discover other nodes to connect with. CN bootnodes reside within CNN and are not
+directly exposed to the public, while PN and EN bootnodes are publicly visible. PN bootnodes only
+allow permitted PNs to be registered, and lets eligible PNs connect with ENs. EN bootnodes provide
+ENs with information on which PNs to connect to.
+
+Block Generation and Propagation
+As a service-centric blockchain committed to achieving enterprise-grade performance and reliability,
+Klaytn is designed to minimize network latency and to secure high responsiveness that leads to
+quality end-user experience. The design choices integrated to block generation and propagation, in
+combination with the choice of consensus algorithm, play a very important role in determining the
+level of usability of a blockchain platform.
+Block Generation Cycle
+A ​round​ is a block generation cycle in Klaytn. Each round generates a new block, and is immediately
+followed by the start of a new round. Klaytn targets each round to last approximately one second,
+although block generation interval may be influenced by network traffic and node operation conditions.
+Proposer and Committee Selection
+In each round, Klaytn randomly but deterministically selects a Consensus Node (CN) as the proposer
+for the block to be created, and then selects a group of CNs as the committee for the given round.
+Klaytn is not directly involved in the selection of either the proposer or committee; instead, each CN
+uses a random number derived from the most recent block header to run a cryptographic operation
+which yields proof that the CN in question has (or has not) been selected to perform a role for the
+round. The committee size should be Byzantine resistant; if the size of the CNN is small, all CNs
+(except the proposer) are eligible to be selected as committee members.
+Block Proposal and Validation
+Once selected, the proposer broadcasts its proof of selection for the round (i.e., a cryptographic proof
+verifiable by the public key of the proposer) to all CNs. Thereafter, the CNs selected as committee for
+the given round responds to the proposer with their own proofs of selection, notifying the proposer to
+whom to broadcast the new block to be proposed. The proposer then selects a set of transactions
+from its transaction pool and creates a block by ordering them. Lastly, the proposer executes
+consensus with the committee to agree upon and finalize the newly created block. Note that Klaytn
+plans to continuously improve its consensus algorithm to achieve higher security and efficiency.
+
+16
+
+Block Propagation
+A proposed block must receive signatures from more than two-thirds of the committee members to be
+successfully finalized. When the committee reaches consensus, the new block is propagated to all
+CNs and the consensus round ends. Once the new block is propagated to all CNs, the information of
+the newly created block can be made available to all Klaytn network participants by delivering block
+header and body data to ENN through PNN.
+Public Disclosure and Open Validation
+Service providers and end-users on Klaytn network can freely validate block generation results and
+check if the CN committee have generated the block according to proper procedures. Such validation
+includes checking if the block header contains more than two-thirds of the committee signatures. All
+CNs must support open validation and are required to post their public keys (used to sign blocks) in a
+publicly accessible space (e.g., block headers). Open validation promotes transparency, deter
+censorship, and prevent malicious behaviors.
+
+Separated Propagation Channels for Blocks and Transactions
+A network’s latency is heavily affected by its degree of congestion. Assuming the network’s
+throughput remains constant, increased number of transactions will cause the network’s latency to be
+proportionately delayed. Latency delay is a critical issue in ensuring satisfactory end-user experience
+using BApps; typical users of legacy mobile apps or web services will not tolerate response time that
+takes more than a few seconds, and blockchain services have no reason to assume a higher user
+tolerance.
+Klaytn adopts a multichannel approach in order to handle network congestion issues. By assigning
+separate propagation channels for transactions and blocks, Klaytn network is able to propagate newly
+created blocks in a timely manner even when the network faces heavy congestion with high number
+of transactions. In this way, Klaytn ensures that BApps on its network can stay responsive to end-user
+requests regardless of intermittent network traffic spikes.
+Block rewards
+For each round, block reward (the sum of newly minted KLAY and transaction fees paid to process
+the block, which is ​9.6 KLAY​ as of mid-2019) will be distributed to Klaytn’s token economy structures
+according to preset distribution ratios. The proposer of the newly created block will receive 100% of
+the reward to be awarded to CNs, whereas the committee will receive none. Note that the probability
+of being selected as the proposer is influenced by the amount of KLAY staked by the CN, implying
+that a CN with more KLAY invested in the platform will probabilistically receive more rewards. Details
+of block reward distribution can be found in a later section of this document (“Klaytn Token
+Economy”), or at Klaytn Docs (​https://docs.klaytn.com/klaytn/token_economy​).
+
+Klaytn Accounts
+Overview of Account, State, and Address
+An ​account​ in Klaytn is a data structure containing information about a person or a smart contract.
+Klaytn’s ​state​ is the collection of all its accounts’ states - that is, the past and current state of all data
+stored across Klaytn’s accounts. When a transaction is executed on a Klaytn node, the state of Klaytn
+consequently changes across all its nodes. The state should be the same across all Klaytn nodes
+
+17
+
+within the Klaytn network if they have processed the same blocks in the same order. State information
+of each account is associated with a 20-byte ​address​, which is used to identify each account.
+Decoupling the Address from the Key
+In a typical blockchain platform, an account is associated with a cryptographically processed address
+of a certain length that usually looks like this: ​"0x0fe2e20716753082222b52e753854f40afddffd2"​.
+Such address is strongly coupled with a key pair - the address is deterministically derived from the
+public key of the key pair chosen for the account. This scheme has a number of disadvantages in
+terms of user experience. Some of them are the following:
+●
+●
+●
+
+Users cannot choose an address they want because it is derived from a randomly generated
+key
+Users cannot associate multiple key pairs to an account as to better protect their accounts
+because each account address is singly paired with a single set of keys
+Users cannot change their account’s key pair when the private key has been accidentally
+exposed or compromised, or even when the account owner wants to practice safe security by
+periodically changing his/her key
+
+The above limitations prevent users from recognizing account addresses as their identifiers, and this
+leads to a significant usability hurdle. To mitigate this issue, Klaytn provides the function to let users
+choose the address they would like to use, and also the key pairs they would like to associate with the
+given addresses. With this feature, users can custom-select the address that they want to use for the
+long-run, and they can also associate multiple key pairs to increase the account’s security. When
+more than one key pair is assigned to an account, each key pairs may be assigned a different role. It
+is worth noting that Klaytn also supports the more general scheme of accounts with address strongly
+coupled with a single key pair.
+Multi-Key Pairs and Role-Based Keys
+When an account’s private key is stolen or exposed, nothing can be done by the owner of the
+compromised account to restore the account’s security. The best hope for the unfortunate owner will
+be to generate another key pair to create a new account and then migrate the balance from the old
+compromised account to the new one while the balance still remains.
+Lack of support for advanced key schemes such as multi-sig or usage-specific key is another major
+source of user inconvenience. To efficiently address the problem, Klaytn accounts provide the
+following capabilities:
+●
+●
+●
+
+Klaytn account allows the key pair associated with the account to be changed
+Klaytn account supports multiple key pairs, along with the ability to assign each key with a
+different purpose
+Klaytn account maintains compatibility with accounts with a single key pair strongly coupled
+with its address
+
+By utilizing Klaytn account’s role-based multi-key support users can better handle real-life security risk
+situations such as private key mismanagement. For example, when a user realizes that his or her
+private key has been exposed, the user can simply replace the compromised private key by removing
+the exposed key pair from his or her account and creating a new key pair to replace them. This can be
+done by using a dedicated key reserved for updating account information which has been created in
+advance and stored separately from the compromised private key.
+Human-Readable Address (HRA)
+
+18
+
+The address scheme commonly found in blockchain platforms (using cryptographically processed
+address that looks like: ​“0x0fe2e20716753082222b52e753854f40afddffd2”)​ has its strength in
+privacy: they provide pseudo-anonymity that efficiently protects the privacy of account holders.
+However, the scheme also creates major problems in user experience. First, it is very difficult for a
+human brain to memorize, or even recognize, such addresses. This makes them prone to input
+mistakes and various human errors that often lead to non-trivial financial damages. Second, such
+scheme takes away from users the power to choose one’s own preferred identity handle that’s easier
+to memorize or use. Combined, these problems are among the toughest usability hurdles that cause
+BApp user experience for typical end-users (who are more accustomed to the simpler, frictionless
+user experience offered by legacy mobile apps or services) to be perceived as alien,
+incomprehensible, and severely inconvenient. To overcome the usability challenge without
+undertaking large-scale architectural modifications and while preserving backward compatibility,
+Klaytn aims to provide a mapping between a 20-byte address to a 20-byte length text string that users
+could customize to create their own preferred account address. This feature in Klaytn will be called
+human-readable address (HRA), and is currently under development with more information to be
+disclosed as soon as they are made available.
+Klaytn Wallet Key: A Unique Klaytn Key Format
+Klaytn Wallet Key​ is Klaytn’s unique key format designed to offer better convenience in managing
+Klaytn account’s private key along with its corresponding address information. The key scheme binds
+the two pieces of critical information into one, helping users store it more easily.
+Klaytn Wallet Key format is:
+0x{private key}0x{type}0x{address in hex}
+The key is in hexadecimal notation, and ​{type}​ always equals “00”. Other values are reserved.
+An example Klaytn Wallet Key is shown below:
+0x45a915e4d060149eb4365960e6a7a45f334393093061116b197e3240065ff2d80x000xa94f5
+374fce5edbc8e2a8697c15331677e6ebf0b
+
+Klaytn Account Types
+There are two account types in Klaytn: ​externally owned account (EOA)​ and ​smart contract
+account (SCA)​.
+EOA contains information such as nonce and balance; it does not contain code or storage. This type
+of account is created using a key pair, and is subsequently controlled by anyone who has the key pair.
+SCA has code associated with the account and is controlled by its code. SCA is created by smart
+contract deployment transactions; once deployed, this account type cannot initiate new transactions
+by itself and must be triggered by another account to execute, either by an EOA or another SCA.
+
+Klaytn Transactions
+Transactions Overview
+A transaction in a blockchain platform is a message sent between nodes that changes the state of the
+blockchain. For example, when a transaction that sends 10 KLAY from Alice’s account to Bob’s is
+executed, Alice's balance is decreased by 10 KLAY, and Bob's balance is increased by 10 KLAY.
+
+19
+
+Note that a transaction cannot be interleaved with another transaction because a transaction is an
+atomic operation. A typical blockchain transaction has components as shown below:
+
+Components
+
+Description
+
+value
+
+The amount of value (in tokens) to be transferred.
+
+to
+
+The account address that will receive the transferred value.
+
+input
+
+Data attached to the transaction, used for transaction execution.
+
+v, r, s
+
+The cryptographic signature generated by the sender to let the receiver obtain the
+sender's address.
+
+nonce
+
+A value used to uniquely identify a sender’s transaction. If two transactions with the
+same nonce are generated by a sender, only one is executed.
+
+gas
+
+The maximum amount of transaction fee the transaction is allowed to use.
+
+gasPrice
+
+A multiplier to get how much the sender will pay in tokens. The amount of tokens
+the sender will pay is calculated via ​gas​ * ​gasPrice​. For example, the sender will
+pay 10 KLAY for a transaction fee if ​gas​ is 10 and ​gasPrice​ is 10^18.
+
+Klaytn improves the single transaction model typically found in blockchain platforms by providing
+multiple transaction types that empower transactions with new capabilities and optimizations for
+memory footprint and performance.
+Signature Validation of Transactions
+In typical blockchain platforms, the sender address is derived from the public key which is derived
+again from the transaction signature. This is possible only if the address and the key pair are strongly
+coupled. Since the key pair has been decoupled from the address in Klaytn accounts, the sender
+address cannot be derived using the transaction signature. This is why Klaytn transaction types (with
+the except of ​TxTypeLegacyTransaction​) have the field ​from​. In Klaytn, to validate a transaction, the
+account key of the ​from​ account is obtained and then the obtained key is used to validate the
+transaction signature.
+Fee Delegation
+To provide businesses with the flexibility they need to design new business model, Klaytn provides a
+number of fee delegated versions of basic transaction types. These variants enable service providers
+to subsidize their end-user activities by paying for their transaction fees. Transaction fee subsidization
+can be further customized by using transaction variants with the Ratio parameter, letting service
+providers designate the percentage of the fee they would cover. Fee delegation transactions require
+at least two signatures: one from the sender, and another from the fee payer.
+SenderTxHash
+SenderTxHash​ is a hash value of a fee delegated transaction without the fee payer's address and
+signature filled in. Since the final transaction hash of a fee-delegated transaction cannot be
+determined until the fee payer signs the transaction, it’s difficult for the original transaction sender to
+
+20
+
+track the transaction en-route while it’s not finalized by the fee payer. To remedy this problem, Klaytn
+provides ​SenderTxHash​ in addition to the transaction hash. For the sender to track the completed fee
+delegation transaction, he/she first generates a ​SenderTxHash​ and then requests for the finalized
+transaction information with a dedicated fetch function using the ​SenderTxHash​ as an argument.
+For more in-depth information about the transaction types supported by Klaytn, please visit Klaytn
+Docs (​https://docs.klaytn.com/klaytn/design/transactions​).
+
+Computation
+Klaytn Smart Contracts
+Smart contracts in Klaytn are programs that implement business logics, games, libraries, token
+transfers, or any type of code interacting with the Klaytn blockchain. When conditions described in the
+smart contract are met, the contract executes immediately. The terms within smart contracts are
+described in programming language; their contents data are stored as their state.
+Klaytn provides several ways to write and execute smart contracts on the Klaytn network. First, Klaytn
+supports Solidity and maintains interoperability with Ethereum development toolkits such as Remix or
+Truffle. Smart contracts written in Solidity can be compiled using existing Solidity compilers and
+execute on Klaytn without additional work. Since Solidity is the ​de facto​ standard contract
+programming language in Ethereum and is backed by active communities, Klaytn supports the
+language to provide developers with the most familiar development environment onto which Ethereum
+DApp developers could easily migrate their existing work.
+In the future, Klaytn plans to accommodate smart contracts written in various programming
+languages, in order to extend support to a broader range of potential developers and provide them
+with development experience they feel they’re most familiar with. Going forward, Klaytn will continue
+to explore various programming languages that developers find interesting.
+Affordable Smart Contract Execution Cost
+One of the reasons that blockchains charge fees on smart contract executions is to utilize limited
+resources efficiently by preventing poorly or maliciously written contracts from running. That is,
+a blockchain platform increases the financial cost of running smart contracts intentionally (1) to induce
+developers to write efficient code, and (2) to deter adversaries in launching attacks by minimizing the
+expected financial gains. With a successful strategy, the fees charged on normal executions should
+be small, although the fees from malicious executions should be large. Although Ethereum’s
+opcode-based fee model is useful in discouraging wasting of resources, it may also dampen ordinary
+smart contract executions due to high gas prices on some opcodes (e.g., state write), hindering the
+adoption of blockchain technologies. To address this problem, Klaytn plans to use an opcode-based
+fixed fee model with (1) low unit cost per opcode and (2) a metered pricing model.
+1. Opcode cost is directly related to the amount of resources that the platform can use. The
+Ethereum state write cost is high since the storage, and the network bandwidth required to
+record and propagate the changed states are limited. Conversely, if a blockchain has
+abundant resources (e.g., CPU time, storage, network bandwidth), then the unit cost per
+opcode can be substantially lower than that of Ethereum, and the cost difference between
+opcodes can be minimized. Klaytn aims to lower opcode unit cost by vertically scaling each
+CN node (i.e., acquiring high-end hardware), parallelizing computation (i.e., logical scaling via
+servicechain), and horizontally scaling physical clusters (i.e., adding regions).
+
+21
+
+2. The Ethereum smart contract fees are determined by the sum of gasses required to execute
+opcodes. Although such a strategy is intuitive and effective, as the resulting cost is directly
+proportional to the number of executed opcodes, a small change in a smart contract can
+increase the execution cost significantly. To address this problem, Klaytn suggests a metered
+pricing model that adjusts the execution cost to the same level for a prescribed range of
+opcode execution. With a low unit cost per opcode and the metered model, most of (relatively)
+short smart contract executions can be performed at a lower, stable cost.
+Low price volatility
+The reason Ethereum has chosen a complex gas-based fee model is to distribute computing
+resources efficiently and to minimize the impact of cryptocurrency fluctuation by avoiding direct
+mapping between ETH and fiat currency. Klaytn will also adopt this model with some modifications to
+decouple the cost of smart contract execution from the exchange rate of KLAY.
+Smart Contract Language
+For writing smart contracts, Klaytn currently supports Solidity as the primary programming language.
+Solidity is adopted to Klaytn because it is the de facto standard contract programming language for
+Ethereum and has a large user base and an active community, and Klaytn aims to serve the
+community with familiar development experience so that the Ethereum DApp developers could easily
+experiment with or migrate their existing smart contracts on to Klaytn. In the future, Klaytn will support
+smart contract development using other programming languages. Investigation regarding various
+favorable programming languages that developers might embrace is currently ongoing. For more
+in-depth information about Solidity on Klaytn, please visit Klaytn Docs
+(​https://docs.klaytn.com/klaytn/design/computation/language​).
+Klaytn Token Standards
+Maximizing end-user and developer experience is a key goal in Klaytn's design principles. Klaytn’s
+decision to adopt Solidity as its smart contract language is an example of the principles in action,
+since the decision was made based on the fact that Solidity is widely adopted. The same logic applies
+for fungible and non-fungible token standards: Klaytn supports Ethereum token standards, specifically
+ERC20 and ERC721. These standards are widely adopted among blockchain developers, therefore
+Klaytn adheres to Ethereum compatibility as to provide a more familiar developer experience. For
+more in-depth information about Klaytn’s token standards, please visit Klaytn Docs
+(​https://docs.klaytn.com/klaytn/design/computation/token_standard​).
+Klaytn Execution Model
+Transactions can be generated by platform APIs as described in Platform API Specification
+(​https://docs.klaytn.com/api/platform​). These transactions are sent to Consensus Nodes (CNs) to be
+stored in a block. CNs check whether each received transaction is valid. Valid transactions are stored
+in the transaction pool; otherwise, they are discarded. A CN selects the executable transactions in the
+current block in its transaction pool and executes them one by one.
+To execute a transaction, the sender must pay some amount of KLAY as a transaction fee. This
+transaction fee in KLAY is calculated based on gas and a multiplier, ​i.e.​, gas price. Gas is a
+fundamental unit of computation. Every operation executed on a Klaytn node consumes a predefined
+amount of gas. The exact amount of KLAY required for the transaction is calculated by the formula
+illustrated in Transaction Fee (​https://docs.klaytn.com/klaytn/design/computation/exec_model​). The
+
+22
+
+transaction can fail if the sender submits a transaction accompanied by insufficient gas. A transaction
+can also fail if the sender's account has an insufficient balance.
+When a transaction is executed successfully, it is included in the current block. A CN gathers
+transactions until it reaches block gas limit or block time limit. Then, the CN makes a block with the
+transactions. This step requires filling several fields in the block. For example, it must calculate the
+hash values of transactions, receipts, state, etc. After all required fields have been completed, the CN
+generates a block hash.
+When block generation is complete, the block is propagated to all the other CNs. The other CNs all
+verify the propagated block and reach consensus on the verification results by exploiting the BFT
+consensus algorithm. When the verification process completes successfully by the majority of CNs,
+the block is stored in the blockchain. Because the BFT consensus algorithm satisfies the immediate
+finality property, the block is final and is never removed. After a block is finalized, the execution of all
+the transactions in that block are irreversibly guaranteed, and their execution results can be returned
+to the sender if requested.
+Creating Smart Contracts
+A smart contract can be created in the Klaytn blockchain by sending a transaction to an empty
+address with the binary as data. The binary can be in various formats; however, Klaytn currently
+supports one binary format, EVM bytecode. It is worth pointing out that this transaction requires a
+payment for execution. The account balance on the sender's account will be reduced according to the
+transaction fee model after the transaction has been stored in a block. After some time, the
+transaction should appear in a block, which confirms that the state it entails reached a consensus. At
+this point, the smart contract now exists in the Klaytn blockchain.
+Executing Smart Contracts
+A function of a smart contract can be called and executed either by sending a transaction to the smart
+contract or by calling the function locally in the node. When a function is called by sending a
+transaction, the function is executed by processing a transaction. This entails a cost in KLAY for
+sending the transaction, and the call will be recorded forever on the blockchain. The return value of
+calls made in this manner is the hash of the transaction. When the function is invoked locally, it is
+executed locally in the Klaytn Virtual Machine (KLVM), and the call returns the return value of the
+function. Calls made in this manner are not recorded on the blockchain; thus, they cannot modify the
+internal state of the contract. This type of call is referred to as a constant function call. Calls made in
+this manner do not cost any KLAY. Constant function calls should be used when only the return value
+is of interest, while a transaction should be used when side effects on the contract state are of
+interest.
+Disabling Smart Contracts
+Because smart contracts exist in the Klaytn blockchain, they cannot be deleted; they can only be
+disabled. For now, Klaytn has adopted the same process for disabling a Klaytn smart contract as is
+used for disabling smart contracts in Ethereum. For example, the Klaytn smart contract for KLVM can
+be disabled by using the ​selfdestruct (address recipient)​ call in Solidity (or the KLVM
+opcode ​SELFDESTRUCT​). The Klaytn team will also provide ways to disable smart contracts for other
+execution environments.
+Upgrading Smart Contracts
+
+23
+
+Klaytn will provide ways to upgrade a deployed smart contract to address the inconvenient user
+experience with existing blockchains. For example, deployed services on blockchains are difficult to
+upgrade. Klaytn will provide frameworks and smart contract libraries to enable service providers (SPs)
+to upgrade deployed services and migrate service information. Klaytn will provide this feature carefully
+by considering the following requirements.
+● Only authorized accounts or the owner of a smart contract should be able to upgrade the
+smart contract.
+● Upgraded smart contracts should be able to manipulate existing data maintained by the old
+smart contract.
+● Other smart contracts that refer to the old smart contracts should be able to determine
+whether to use newer, upgraded versions of those smart contracts.
+Klaytn Tokens and Transaction Fees
+KLAY is the main internal transferable cryptocurrency of Klaytn and is used to pay transaction fees
+when creating or executing smart contracts or when transferring KLAY.
+KLAY is a necessary element - in essence, the fuel - for operating Klaytn network. It is a form of
+payment made by the platform users to the consensus nodes (CNs) executing the requested
+operations. To put in another way, KLAY is an incentive; it ensures that developers write high-quality
+applications (because wasteful code costs more fee) and that the network remains healthy (Klaytn
+nodes are compensated for the resources they contribute).
+Transaction fee in Klaytn can be calculated in various ways depending on the execution environment
+where the transaction is executed. For example, the transaction fee for the current Klaytn virtual
+machine (KLVM) is computed as follows:
+Transaction fee := F( (total gas used) x (unit price) )
+●
+
+●
+
+F()​ could be a stepwise pricing function. This function is not finalized yet and is subject to
+change during further development of Klaytn. For Klaytn testnet, ​F()​ is an identity function,
+and the transaction fee is simply calculated as ​(total gas used) x (unit price)​.
+The ​total gas used​ is computed by KLVM based on the gas cost of the opcode and the
+intrinsic gas cost..
+
+This calculated transaction fee is subtracted from the sender's or enterprise account's balance,
+depending on the transaction. For further in-depth information on KLAY token and transaction fee,
+please visit Klaytn Docs (​https://docs.klaytn.com/klaytn/design/computation/exec_model​).
+
+Klaytn Virtual Machine (KLVM)
+KLVM is a virtual state machine that formally specify Klaytn's execution model. The execution model
+specifies how the system state is altered given a series of bytecode instructions and a small tuple of
+environmental data. KLVM is a quasi Turing-complete machine; the ​quasi​ qualification stems from the
+fact that the computation is intrinsically bounded through a parameter, ​gas​, which limits the total
+amount of computation performed.
+KLVM executes Klaytn virtual machine code (or Klaytn bytecode) which consists of a sequence of
+KLVM instructions. The KLVM code is the programming language used for accounts on the Klaytn
+blockchain that contain code. The KLVM code associated with an account is executed every time a
+
+24
+
+message is sent to that account; this code has the ability to read/write from/to storage and send
+messages.
+The current version of KLVM is derived from the Ethereum Virtual Machine (EVM), and will be
+continuously improved by Klaytn developers. In the future, other virtual machines or execution
+environments will be integrated to strengthen the capability and performance of Klaytn platform.
+How KLVM Differs From EVM
+As current KLVM is based on EVM, its specification is quite similar to that of EVM. The key
+differences between KLVM and EVM are:
+●
+●
+
+KLVM uses Klaytn's gas units, such as peb, ston, or KLAY.
+KLVM does not accept a gas price from the user; instead, it uses a platform-defined value as
+the gas price.
+
+Klaytn developers aims to maintain the compatibility between KLVM and EVM for the foreseeable
+future, but as Klaytn development accelerates, KLVM specification will also follow suit and be
+updated. This may result in a growing list of differences compared to EVM.
+
+Storage
+Block Archiving
+The high throughput of Klaytn result in high storage costs. Klaytn plans to perform block-archiving to
+ease storage burdens of participating nodes. With block archiving enabled, ENs may remove bodies
+of stale blocks, maintaining only a certain number of the last blocks. Only a subgroup of Klaytn
+network nodes will keep all the blocks in cost-effective storage and they will serve read requests by
+verifying older transactions no longer stored in ENs. However, even block archiving ENs will still have
+to keep the headers from all archived blocks in order to allow clients to securely verify the contents of
+the archived blocks.
+This process can effectively reduce the storage cost of ENs, encouraging diverse participants to join
+the ENN. Assuming 100 TPS in average and 1-second block latency, the size of data that an EN must
+replicate can be significant. If the average transaction size is 300 bytes, the expected EN daily
+storage requirement is 2.5 GB/day. While this does not hinder servers and desktops (where storage
+space is more easily expandable and less expensive), certain ENs running their nodes on lighter
+machines such as laptops could find this storage requirement a burden. By allowing ENs to only keep
+a fixed number of blocks, block archiving will extend its benefits to a broad spectrum of audiences on
+the network, fortifying data redundancy and security without requiring ENs to replicate an
+ever-growing ledger of blocks.
+Whereas removing block bodies may be perceived as weakening decentralization as block archiving
+nodes cannot independently verify all historical transactions without the help of other nodes.
+Nonetheless, not all applications need constant access to the complete history of transactions, and
+we believe that block archiving is a welcome feature strongly preferred by certain groups of services
+--- services that require only the latest states of applications. Serving all blocks in this context is
+inefficient and less desirable. We believe that block archiving will benefit many applications requiring
+high replication levels and the security of blockchain technology.
+
+25
+
+Service Chain
+Servicechains in Klaytn network are auxiliary blockchains independent from the Klaytn mainchain,
+tailored for individual BApp requiring special node configurations, customized security levels, or
+exceptionally high throughput that makes deploying the BApp on the Klaytn mainchain inconvenient or
+economically infeasible.
+While there are fully-decentralized scaling solutions, their difficult interfaces such as challenge or exit
+and non-immediate finality often leads to severely degraded user experience and usability hurdles
+that effectively prohibit the majority of average end-users from using the said features. Therefore,
+Klaytn has opted towards an approach in its Service Chain where a tradeoff has been weighed
+between full decentralization and better usability, instant finality, high performance, and high
+availability.
+Klaytn servicechains may be used for various service-specific goals, and can connect to the
+mainchain for multiple purposes - including data anchoring (periodic storing of block hashes from the
+service chain onto the mainchain to compensate for decreased security due to smaller number of
+nodes) and value transfer (interchain transfer of tokens including KLAY, Klaytn’s native unit of value,
+and Klaytn tokens issued by BApps).
+Service Chain Network (SCN)
+Servicechains connected to Klaytn mainchain are collectively called SCN. Figure 4 shows the network
+topology of service chains being used to meet various business needs, connected with Klaytn
+mainchain to expand the Klaytn network.
+
+Figure 4. Klaytn Main Chain and Service Chains
+
+26
+
+Figure 5 shows an example of SCN connected directly with Klaytn mainchain’s endpoint node (EN)
+using a main/sub-bridge model to use the servicechain’s features.
+
+Figure 5. Main Chain and Service Chain Connection using Main/Sub-Bridge Model
+Note that the method of connection between servicechains and mainchain may change in Klaytn’s
+future iterations.
+Service Chain Features
+Servicechains expand and augment Klaytn by providing a data integrity mechanism and supporting
+token transfers between different chains.
+For data integrity, servicechains can automatically anchor every block hash of its constituent blocks
+onto the main chain using a special transaction. This ​anchoring​ of data can ensure to the servicechain
+users that the data in the particular chain has not been altered once it is created.
+To help service providers easily migrate their users and assets across chains, Klaytn supports token
+transfer of KLAY or BApp-issued Klaytn tokens between different chains. Users can easily request for
+token transfer to another chain by sending a transaction to a special contract, called ​bridge contract​.
+Note that the value transfer function is currently under development, and will be available in a future
+Klaytn update.
+
+Enterprise Proxy
+Klaytn Enterprise Proxy (EP) is an off-chain proxy that communicates with underlying Klaytn
+blockchain on behalf of businesses that operate blockchain applications (BApp) on Klaytn. EP offers a
+layer of managed convenience for its client in order to improve the enterprise experience (EX) aspect
+of Klaytn, handling the managerial complexities in communicating with the blockchain - including
+transaction preprocessing, injection of necessitated data, and running the smart contracts requested
+by the transaction.
+EP is designed as an add-on service for enterprise users and larger application providers who can
+benefit more from seamless integration with key legacy assets and tools without negatively impacting
+one of the most important quality of blockchain - decentralization. In this regard, EP is a differentiation
+feature for Klaytn as it encompasses various offerings of useful tools for enterprise users, including
+Oracle, an application-specific dashboard. Further, EP enables enterprise users to use Klaytn
+
+27
+
+blockchain with traditional database and security systems typically believed to be difficult to integrate
+with decentralized systems, such as access control layers (ACL), firewalls (FW), and fraud detection
+systems (FDS). At its onset, EP will be offered as a software framework that stands between the
+legacy backend systems and Klaytn. In this way, EP allows users without extensive knowledge about
+blockchain to easily sync blockchain data and relay transactions via a single configuration.
+EP provides BApp service providers with two main usages. First, EP functions as a blockchain
+enabler reduce the technical hurdles in tasks inevitable for using blockchain technology. Second, EP
+serves as a legacy system integrator that supports Klaytn blockchain integration with traditional
+database and security systems.
+Blockchain Enabler
+From a service provider's perspective, blockchain can be a very unfamiliar technology unlike any
+other commercial solutions. For these groups of users, even the simplest value transfers or smart
+contract executions may require prohibitive amount of complexities and business logic considerations.
+To address this problem, Klaytn will address the fundamental complexity through provisioning of tools
+that make it easier to apply blockchain as easy-to-use essential elements readily applicable to existing
+services.
+Event Handler
+The event handler feature aims to address the innate complexities that comes with managing smart
+contracts deployed on the blockchain. Smart contracts are critically important elements of a BApp's
+business logic that are made publicly accessible and executable once deployed. Further complicating
+the problem is the fact that tracking who executed the smart contract to what end is a non-trivial task
+in decentralized environment such as blockchain. Event handler alleviates this challenge by
+automatically creating event subscribers that track any following events that affect the deployed smart
+contract. This feature is achieved through utilizing the application binary interface (ABI) that is created
+at the time the smart contract is deployed.
+Transaction Manager
+Sending transactions is a frequently occurring portion of work that is surprisingly complicated for
+BApps to manage properly. Often, a BApp is composed of multiple accounts which are assigned
+different roles, where each account can have a separate history of transactions. On each account, the
+nonce must be separately managed and coordinated with exact accuracy to avoid inconvenient
+transaction failures. The receipts resulting from each transaction are also important data that must be
+managed with a clear organization scheme for efficient retrieval that happens inevitably and frequently
+during the course of service operation. The transaction manager feature automates most of the heavy
+lifting of transaction delivery, including account management for applying the correct account to send
+transactions with, authenticating transaction transfers with the correctly corresponding identities and
+intentions, and managing transaction receipts in a well-organized manner. In overall, the transaction
+manager can be a tremendous help for enterprise users yet unfamiliar with organizing blockchain
+transactions.
+Chain Router
+Klaytn is an easily-scalable blockchain solution where enterprises could compose a separate
+blockchain network using Klaytn's native scalability solution Service Chain. This may lead to the
+existence of multiple private Service Chains instances operated by partner enterprises alongside the
+public Klaytn network. In such case, a BApp collaborating with multiple Klaytn networks may need to
+
+28
+
+state to which network it is sending a transaction. The chain router features handles the identification,
+configuration, and management of multiple Klaytn network information for BApp service providers.
+Legacy System Integrator
+Compatibility and integrability with existing processes and assets are key evaluation criteria used by
+businesses when they consider new technologies for adoption. As a distributed system with numerous
+points of access and without a unified authority to single-handedly control access privileges,
+blockchain technology propose a unique challenge for enterprise in terms of business backend
+system integration which corporates typically expect to be centrally controllable. Klaytn aims to solve
+this non-trivial challenge using a newly designed approach applied to Enterprise Proxy, incorporating
+legacy system integrator features into the offerings.
+Request Transcoder
+Request transcoder can be compared to a communication translator among heterogeneous systems.
+This feature receives requests from legacy systems in their native contexts, for example in REST API
+calls or gRPC calls, and converts them to transactions that can be processed by the underlying Klaytn
+blockchain network in an efficient manner.
+Request Gateway
+Collecting user behavior metrics and controlling contract execution request privileges per individual
+user is notoriously complex in distributed systems with multiple points of access. EP handles this
+challenge by providing a feature that enables service providers to require contract execution calls by
+users to be signed by an EP designated by the business. Through this scheme, users must send their
+contract execution requests to the EP in order to run the desired contracts, effectively turning the EP
+into a request gateway with which the business can collect user behavior metrics and enforce security
+measures to authorize user requests.
+As aforementioned, collecting metrics in a decentralized environment is a non-trivial task. Using the
+request gateway feature, however, businesses can monitor all user requests that go through the EP
+and collects meaningful metrics, including the number of DApp users, estimated DApp memory
+usage, TPS, service latency, and the average gas price for running contracts. The service provider
+can then project the collected metrics on a dashboard to display the status of the BApp, or trigger
+other functions or systems to respond to events observed from the metrics. Klaytn will provide a
+software framework to help service providers implement business intelligence dashboard systems that
+run request gateway to collect metrics and visualize the collected metrics.
+
+29
+
+4. Klaytn Token Economy
+Token Economy Overview
+Klaytn’s token economy is designed to create sustainable incentive structures for powering its
+ecosystem operations, growth initiatives, and strategic investments. Many public blockchain projects
+have monetary systems that solely incentivize their node operators (miners or block producers),
+focusing only on the technical aspect of network maintenance. However, such designs miss out on
+the importance of incentivizing other types of participants who contribute to the growth of the
+network’s token economy or invest in long-term growth prospects. In contrast, Klaytn’s token economy
+is designed to compensate more diverse forms of contributions from a wider range of participants, and
+has built-in incentive structure to procure sustained resources to fuel future growth initiatives and
+strategically sourced investment projects in addition to maintaining its blockchain nodes. For detailed
+information on token economy, please refer to Token Economy & Governance Paper(to be made
+available on https://www.klaytn.com/technology).
+
+Incentive Structure
+Klaytn’s incentive structure runs continuously with Klaytn network’s block generation. With every new
+block, newly issued KLAY and the sum of transaction fees used in the block (collectively called “block
+reward”) are aggregated and distributed to the following three destination accounts in accordance to
+the predetermined ratio:
+1) Klaytn Governance Council Reward: 34%
+2) Proof of Contribution (PoC): 54%
+3) Klaytn Improvement Reserve (KIR): 12%
+At the time of Klaytn mainnet launch, appropriate amount of KLAY will be minted per block in order to
+maintain and improve the Klaytn network. The annual inflation rate is subject to change through the
+Klaytn Governance Process. Transaction fee is charged per OPCODE and is metered according to
+the transaction fee table. For detailed information on the transaction fee table, please refer to Klaytn
+Docs (to be made available on ​https://docs.klaytn.com/​).
+
+Klaytn Governance Council Reward
+Klaytn Governance Council is the collective group of Core Cell Operators (CCOs). Council members
+are responsible for maintaining Core Cells (CCs), which makes the Council an essential body in the
+Klaytn ecosystem responsible for providing the underlying infrastructure. To become a Council
+member, the candidate must undergo a qualification review by the Klaytn Governance Process and
+must stake at least 5 million KLAY. The Klaytn Governance Council Reward is a structure for
+incentivizing Council members to continue to provide a stable foundation for the Klaytn ecosystem.
+Klaytn Governance Council Reward Mechanism
+For every block, a Committee composed of randomly selected Council members is formed. Each
+Committee has one member assigned the role of Proposer; all other Committee members assume the
+role of Validators. When a block is successfully created and added to the Klaytn blockchain, the
+Proposer of the said block is rewarded with 100% of the block reward. The probability of a Council
+member being selected a Proposer is proportional to the amount of KLAY staked by the member; that
+
+30
+
+is, the more KLAY a member stakes, the more likely that the member will be selected as a Proposer
+and potentially claim the block reward.
+As long as the minimum 5 million KLAY staking requirement is met, Klaytn Governance Council
+members can freely stake or unstake his or her own KLAY. Staking information is updated every
+86,400 blocks, and newly staked KLAY comes into effect two update cycles later from when the
+staking is completed. Withdrawing staked KLAY requires one week of delay as to prevent malicious
+members from immediately exiting.
+To prevent monopolized claiming of Klaytn Governance Council Reward by small groups of highly
+invested Council members, Gini coefficient may be used to adjust the effective amount of staked
+KLAY. The application formula is as follows:
+Adjusted staking amount = (Council M ember′s staking amount)1/1+G
+Penalty for Misbehaving Council Members
+A Council member may be subject to penalties for conducting misbehaviours defined below. In the
+future, more penalty rules can be established and refined through the Klaytn Governance Process.
+●
+
+●
+
+Causing Safety Failure:
+○ A Council member selected as Proposer creates more than one block in the same
+height
+○ A Council member selected as Proposer intentionally omits certain transactions
+Causing Liveness Failure:
+○ A Council member selected as Proposer fails to create a valid block
+○ A Council member selected as Validator fails to validate the block proposed by the
+Proposer
+
+Proof of Contribution
+Klaytn’s token economy depends on economic entities to spontaneously engage in economic
+activities, creating value and exchanging them with each other in the market. Such activities
+collectively build up an economy of circulating wealth that drives economic growth of the entire
+ecosystem. Klaytn incentivizes and stimulates participants in its economy by evaluating their
+contributions and compensating them via a transparent evaluation mechanism called Proof of
+Contribution (PoC).
+Proof of Contribution is designed to compensate all participants in the Klaytn token economy that
+makes meaningful contributions. However, currently, PoC primarily focuses on two types of economic
+entities: service providers (providing blockchain application services to end-users) and end-users
+(consumers of service provider’s offerings).
+Service Providers
+In order to achieve mass adoption of blockchain technology, it is important to implement and leverage
+widely popular, massive blockchain applications - or ​Killer BApps​ - to create a solid foundation of
+end-users who discover and enjoy value from such apps in their daily lives. Service providers play a
+key role in Klaytn economy as entities on the supply-side; they not only create supply of services to
+satisfy end-users, but they also serve as channels of new user acquisition and as anchors of user
+engagement. Acknowledging their contributions, Klaytn is designing PoC as an incentivizing
+
+31
+
+mechanism for service providers to effortlessly onboard the Klaytn platform and enjoy sustained
+support as they continue to grow in its ecosystem.
+End-Users
+Extended imbalance between supply and demand makes economies unsustainable, an observation
+which places end-users on a key position within Klaytn token economy. End-users are the
+fundamental driving force behind economic growth as the primary demand-side entities, creating
+valuable market signals by carefully selecting and using services and sharing reviews with each other.
+Recognizing the value of end-users, Klaytn is reviewing designs to make PoC an incentivizing
+mechanism for their contributions to growing the Klaytn ecosystem.
+Proof of Contribution Reward Mechanism
+PoC reward payment must be preceded by thorough evaluations of participants’ economic activities
+and their impacts on Klaytn token economy in order to avoid abusing by malicious actors. The
+specifics of incentives rewarded are subject to change as they are governed by decisions made
+through the Klaytn Governance Process, and will reflect circumstantial dynamics determined by
+Klaytn’s strategic directions in the future. For detailed information on the operation schedule, please
+refer to Klaytn Docs (​https://docs.klaytn.com/klaytn/token_economy​).
+
+Klaytn Improvement Reserve
+As technology continues to improve and the needs of users change over time, our platform must have
+the ability to quickly adapt to any new circumstance that arises.​ ​To respond to such changes, we must
+not only work on services, but also undergo various activities to maintain Klaytn’s ecosystem. For
+instance, research and development for better technology, or projects that contribute to the overall
+growth of the ecosystem may be part of these activities.
+These activities are necessary for Klaytn to progress continuously. Therefore, the Klaytn Improvement
+Reserve (KIR) will be managed on the platform for the investment and research on the Klaytn
+ecosystem.
+The spending necessary to set up the ecosystem can be categorized as following.
+●
+●
+●
+●
+
+Platform: Support for infrastructure, research and development, and the creation of a durable
+protocol
+Tools: Create a better development environment to enhance developer experience
+Community: Create programs to encourage participation in Klaytn’s ecosystem (community
+events, meetups, hackathons, etc.)
+Others
+
+KIR proposals can be created by any participant in Klaytn’s ecosystem. KIR spending proposals will
+be processed per KIR Governance Process.
+
+32
+
+5. Klaytn Governance
+Overview
+Klaytn Governance Council : Co-governed by Klaytn Contributors
+Klaytn believes that its contributors who build and grow the platform with their interests aligned with
+the platform’s long-term development plans are the most qualified entities to undertake Klaytn
+governance. Service providers who support mass adoption by delivering new services to Klaytn,
+Ecosystem builders who introduce and promote Klaytn to the world, or contributors of any other kinds,
+are potential members of Klaytn Governance Council. In other words, Klaytn Governance Council is
+the governing body that will generate long-term growth of Klaytn.
+Bootstrapping
+To make the platform trustworthy in its initial stages, only trusted entities are considered as potential
+Klaytn Governance Council members. This is designed to improve the protocol in a rapid manner for
+the development and stabilization phase.
+
+Governance Topics
+There are three categories of agenda for Klaytn governance:
+●
+
+●
+
+●
+
+Technology
+○ Matters related to the technical update of the platform. Here the issues on the
+blockchain’s basic structure (e.g., Account Structure), new features (e.g., L2 solution),
+or software update schedule are included.
+Economy
+○ The additional issuance of KLAY and its distribution structure, change in transaction
+fees, changes in Proof-of-Contribution service evaluation methods, Klaytn
+Improvement Reserve spending approval, and more issues are included in this
+category.
+Governing Rule
+○ The governance subjects and processes, as well as the rules for the responsibilities
+and rights of governing bodies, are included in this category.
+
+Governance Process
+Klaytn principally aims for the governance process to occur within the protocol (on-chain). Through
+this process, the votes will be recorded on the blockchain, and the results will be carried out following
+the vote. As the platform grows, more matters will be handled through on-chain governance.
+General Governance Process
+The governance process is operated per the following order: proposal introduction, statement of
+opinion submitted by advisors, voting by council members, and various follow-up procedures
+depending on the result of the vote.
+
+33
+
+Those who have the right to introduce proposals can make sure each proposal is voted on by
+introducing it. Once the proposal is introduced, the advisors must conduct expert analysis on the
+proposal and submit a statement of opinion with their results.
+The Klaytn Governance Council members have the right to vote on the introduced proposal and will
+reference the advisors’ statement of opinion to vote on what they believe to be the best option. If the
+number of votes passes the threshold, the proposal will pass; if not, the proposal will be dismissed.
+The follow-up measures for an approved proposal will be led by the chairman, and the chairman has
+the responsibility to carry out all proposals that have been passed by the council within his or her
+term. Specific proposal votes and follow-up measures follow the procedures outlined below.
+●
+
+●
+
+●
+
+Core Update
+○ These are proposals that suggest updates to Klaytn’s core code. The vote takes
+place online. However, even if the code update is passed, software update must take
+place on a set date for this code to be implemented. As such, the software update will
+also be proposed, and if it is passed, the core update will take place on the set
+schedule of software update.
+Parameter Change
+○ This concerns proposals that will be applied on the blockchain without any code
+updates. Currently, matters such as gas price, block reward amount, block reward
+distribution ratio, voting period, number of committee members, and more can be
+decided without code updates. The proposer may initiate the voting process, and the
+vote will take place on-chain during a predetermined voting period. Each voter’s
+choice will be saved in the block header, and the vote will automatically be closed
+once the voting period is over. Once the same length of time as the voting period
+passes after the vote, the decision will be automatically implemented to the platform.
+Therefore, no specific follow-up procedure is necessary.
+Standard Proposal
+○ This concerns proposals that request the approval of new standards for Klaytn, and
+the vote takes place online. As there is nothing to be changed in the platform, an
+approved proposal will only see an official announcement that Klaytn has officially
+approved a standard change.
+
+Klaytn Improvement Reserve Governance Process
+Unlike usual governance processes, the KIR governance process takes a series of steps composed
+of introduction of a proposal, spending approval, and follow-up procedures to implement an approved
+proposal.
+KIR’s proposal introduction methods are the following two.
+1. The financial commission, which votes on Klaytn’s financial issues and is composed of the
+finance commission members, can introduce a new proposal.
+2. A proposal passed by the House of Representatives, a system that evaluates different
+proposals through the votes of all users, is automatically introduced as a new proposal.
+The KIR’s final spending proposal will be determined through the votes of the Klaytn Financial
+Commision members. The goal is to automatically implement approved proposals on-chain as soon
+as it is passed, but in the early days following Klaytn’s launch, this process may be handled manually.
+
+34
+
+Duties and Rights of the Governing Body
+Duties
+Klaytn Governance Council are required to actively participate in Klaytn Governance Process and
+vote for the long-term growth of Klaytn.
+Voting Rights
+Each of the Klaytn Governance Council members can cast one vote. This was decided as it is
+important to make sure one body cannot hold monopolistic power over Klaytn. However, the number
+of votes each council member has may increase later on depending on their level of contribution to
+the platform and governance structure as well as on their amount of staked KLAY. Each governance
+council member will have their number of votes determined using the following formula. The maximum
+value that can be given by the following formula is capped at two, and thus each governance council
+member’s number of votes will be a real number between one and two.
+1 + α * f (governance contribution) + (1 − α) * g (staking amount), where 0 ≤ a ≤ 1
+governance contribution​ may be calculated using the number of new proposals introduced and
+whether the proposals were passed, voting participation rate for all proposals, etc.
+
+35
+
+6. Roadmap
+Klaytn is designed to center users and BApps. The roadmap is planned to realize it step by step as
+below.
+
+1) 2019: Buildup Infrastructures
+Focusing on Base Components (Klaytn & Toolkits)
+●
+●
+
+●
+
+Klaytn’s most important mission is providing an intuitive development environment and
+friendly end-user experience.
+Each component of Klaytn architecture will be improved for stability such as Block sync,
+storage layer improvement. The research of consensus algorithm, multi-VM and cryptography
+will be started for long-term development. In order to maximize a performance of Klaytn and
+secure a data privacy, Service Chain can be the option for BApp partners.
+The toolkits are supported to build BApps conveniently including BApp listing and data
+analytic tool with rich tutorials and documents
+
+Discovering Killer BApps
+●
+
+With +30 BApp service partners, Klaytn ecosystem will be enriched by embracing various
+industry domains including games, entertainment, healthcare, finance, etc. We strongly
+believe that some of our BApps achieve great success through massive user adoption.
+
+2) 2020: Buildup User Base
+Data-Driven Upgrade for Klaytn Scalability & Compatibility
+●
+
+Once being launched, Klaytn will be updated focusing on three challenges; Scalability,
+Stability and Interoperability. The features and direction are determined by user requirements
+and data extracted from BApps. The specific items to develop have block archiving,
+decentralized storage, mobile SDKs, etc.
+
+Expanding User Base via BApps
+●
+
+The activity of encouraging BApp providers such as community building, Proof of Contribution
+reserve and Klaytn Improvement Reserve will be conducted to expanding user bases.
+
+3) 2021: Klaytn World
+Klaytn to reach mainstream with performance, security, and productivity on-par with the
+traditional internet
+●
+
+Klaytn tackles down three challenges in order to make Blockchain easier. The users will be
+able to use Klaytn without noticing it is a blockchain technology. In the meantime, the
+interchain solution should be considered to bring seamless blockchain experience amongst
+different type of platforms.
+
+36
+
+To support building BApps incl.:
+BApp Listing
+
+DX
+Toolkits
+
+Data Analytics Tool
+Rich Tutorials & Docs
+
+To make improvements on stability and
+to maximize performance:
+
+Klaytn
+Platform
+
+To execute data-driven upgrades of
+Scalability & compatibility:
+
+Block Sync
+
+Block Archiving
+
+Storage Layer Improvement
+
+Decentralized Storage
+
+Consensus Algorithrm
+
+Mobile SDKs
+
+To provide seamless blockchain experience amongst different platforms:
+Interchain Solution
+
+Multi-VM
+Cryptography
+Servicechain
+
+Discovering Killer BApps
+
+Expanding User-base via BApps
+
+Games, healthcare, finance, etc.
+
+PoC, KIR, etc.
+
+Ecosystem
+
+2019
+
+Infra Buildup
+
+2020
+
+Build Users Up
+
+2021
+
+Klaytn World
+
+Risks and Disclaimers
+By accessing the information set forth in this document or any part hereof, you represent and warrant
+to Klaytn that you unconditionally and irrevocably accept and agree with the following:
+
+No Viewing in a Restricted Territory
+It may not be lawful for individuals or certain categories of individuals in certain jurisdictions, to view
+this document. Individuals who wish to view this document must first confirm they are not subject to
+any laws or regulations that prohibits or restricts them from viewing this document.
+In particular, unless permitted by the applicable laws and regulations, any offering of the tokens
+mentioned in this document (the “Tokens”) should not be made, nor any documents should not be
+sent, directly or indirectly, in or into, countries where participating in the sale of the Tokens is
+prohibited. For avoidance of doubt, it is not intended that any offering of the Tokens is being made in
+the People’s Republic of China or the United States. Klaytn shall not be responsible for individuals
+who access this document from territories whose laws or regulations prohibit such access of this document or where any part of the document may be illegal. Such individuals do so at
+their own risk.
+
+Information Only
+All information is provided without any warranties of any kind and Klaytn, its employees, officers
+and/or advisors make no representations and disclaim all express and implied warranties and
+conditions of any kind and each of Klaytn, its employees, officers and/or professional advisors
+assume no responsibility or liability to you or any third party for the consequence of reliance on such
+information, errors or omissions in such information or any action resulting therefrom.
+The information contained on this document may contain statements that are deemed to be
+“forward-looking statements”, which are prospective in nature and are not statements of historic facts.
+Some of these statements can be identified by forward-looking terms such as “aim”, “target”,
+“anticipate”, “believe”, “could”, “estimate”, “expect”, “if”, “intend”, “may”, “plan”, “possible”, “probable”,
+“project”, “should”, “would”, “will” or other similar terms. However, these terms are not exhaustive.
+Forward-looking statements inherently contain risks and uncertainties as they relate to events or
+circumstances in the future. Therefore, the information, opinions and forward- looking statements,
+including estimates and projections, in this document in respect of the anticipated roadmaps,
+development and projected terms and performance of the relevant entities, are selective and subject
+to updating, expansion, revision, independent verification and amendment.
+Klaytn is not making any representation or warranty or undertaking, including those in relation to the
+truth, accuracy and completeness of any of the information set out in this paper. Klaytn also expressly
+disclaims any obligation or undertaking to update or revise any forward-looking
+statements except to the extent required by law and neither Klaytn, its employees, officers or
+professional advisors make any assurance, representation or guarantee that any event referred to in a
+forward-looking statement will actually occur. Whilst Klaytn intends to fulfil all the goals set out in this
+document, in case of unforeseen circumstances, the goals may change or may not be achieved
+without any notice to you.
+
+38
+
+No Offer
+This document is for information purposes only and does not constitute or form, and not intended to
+be, an offer or solicitation of an offer to buy or sell, subscribe for, underwrite or purchase any form of
+investment or securities or other financial instruments, nor shall it or any part of it form the basis of, or
+be relied upon, in any way in connection with any contract or investment decision relating to the same.
+
+No Advice
+None of the contents of this document constitutes legal, financial, tax or other advice. You must
+conduct your own due diligence and ensure you comply with all local laws regarding cryptocurrency,
+tax, securities and other regulations in your jurisdiction. We encourage you to consult with the relevant
+professional advisors independently.
+
+No Agreement
+This document shall not be relied on to enter into any contract or to form basis of any investment
+decision. Any agreement(s) between Klaytn and you are to be governed by a separate document
+(“Sale Document”). In the event of any inconsistency between this document and the Sale Document,
+the respective Sale Document shall prevail.
+
+Regulatory Risks
+The regulatory status of cryptographic tokens, including any digital currency, digital assets and
+blockchain applications is unclear or unsettled in many jurisdictions. The publication and
+dissemination of this document do not imply that any relevant laws, regulations and rules have been
+complied with. No regulatory authority has examined or approved this document. Where any relevant
+governmental authority makes changes to existing laws, regulations and/or rules, or where financial
+institutions make certain commercial decisions, it may have a material adverse effect and/ or impair
+the ability of any relevant entity referred to in the document to function or operate as intended, or at
+all.
+
+Other Disclaimers
+This document is private and contains information about Klaytn, but it does not represent the entire
+content of Klaytn. The content of this document is subject to change in accordance with changes in
+the relevant laws and regulations, business situation and industry outlook, as well as the judgement of
+the management team. There may be changes in political, social, economic and stock or
+cryptocurrency market conditions and/or that there is no or little acceptance/adoption of the relevant
+Blockchain system and/or Tokens, such that the relevant Blockchain system and/or the Tokens
+become no longer commercially viable. Where references have been made to third-party websites or
+sources of information, we may not have sought further verification as to the accuracy, completeness,
+or timeliness of the information referred to therein, and no warranties whatsoever are made as to the
+same.
+
+39
+
+

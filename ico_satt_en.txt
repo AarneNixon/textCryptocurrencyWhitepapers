@@ -1,0 +1,1791 @@
+Smart advertising transaction token
+
+W h i t e pa p e r
+v. 5
+05/02/2020
+
+Contents
+01
+02
+
+Who Are We ?
+
+3
+
+understanding online advertising
+
+7
+
+The enormous potential of the online advertising market
+
+8
+
+B. A few definitions to understand advertising
+
+11
+
+C. The different online advertising business models
+
+12
+
+03
+
+A SMART CONTRACT TO govern ADVERTISING TRANSACTIONS
+
+13
+
+A. Selecting the publishers
+
+13
+
+B. Quantifying the results of an advertising campaign
+
+14
+
+C. Building trust, preventing fraud
+
+15
+
+D. Reducing costs, speeding up transactions
+
+16
+
+E. A complete and decentralized tool
+
+16
+
+04
+
+OPERATION OF THE SaTT SMART CONTRACT
+
+17
+
+A. Advertisers
+
+18
+
+B. Publishers
+
+19
+
+C. API - Oracles
+
+20
+
+D. SaTT Ecosystem
+
+21
+
+05
+
+Crowdsale and initial Distribution of SaTT Tokens
+
+23
+
+A. Progression of the crowdsale & bonus
+
+24
+
+B. Distribution of the SaTT
+
+25
+
+C. Percentage of operating expenses
+
+26
+
+06
+07
+08
+09
+10
+11
+12
+
+Faq
+
+27
+
+roadmap - TO INFINITY AND BEYOND
+
+28
+
+SaTT is live
+
+29
+
+BUYING SaTT EXCLUSIVE PRODUCTS
+
+30
+
+A STRONG, MOTIVATED TEAM
+
+31
+
+Disclaimer
+
+34
+
+Contact
+
+39
+
+2
+
+01
+
+Who are we ?
+
+ATAYEN, Inc is an American company specializing in developing applications dedicated for business
+pages on Facebook and other social networks.
+Facebook application developers since 2008, Gauthier Bros and Stephanie Clement founded ATAYEN,
+Inc. in 2014 to further develop the marketing application technology they invented to improve business
+pages on Facebook.
+ATAYEN, Inc.’s Iframe suite of apps allows customers to establish an effective communication hub
+using simple tools
+
+Iframe suite of apps by AtayeN, INC.
+Contact Form
+
+Newsletters
+
+Adds a customizable contact form
+to a Facebook page and automates
+responses.
+
+Provides a registration form for
+Facebook pages to faciliate customer
+contact and communication (emails,
+phone...).
+
+Automatic Newsletter
+
+Coupons App
+
+Generates newsletters automatically
+from Facebook page news feeds and
+sends them to its contact list.
+
+Create custom coupons to reward
+Facebook or other social network
+communities.
+
+Iframe Apps
+
+Add a Link
+
+Inserts any internet content (html,
+webs ite ...) into a Facebook page.
+
+Adds custom links that redirect users to
+specific pages.
+
+Store App
+
+Sharing Tools
+
+Creates or imports custom stores
+into a Facebook page for online sales.
+
+Allows customization of the appearance
+of shares on social networks while
+providing performance statistics (clicks).
+
+Return to Contents page
+
+3
+
+The challenge of revolutionizing advertising via Blockchain
+By studying the 4 million pages that use our applications, all our customers have the same goal,
+maximizing the penetration and awareness of their brands, products, services, news and promotional
+offers.
+We decided to provide a service to make the interaction of online marketing tools more transparent
+(Facebook, Instagram, Youtube, Twitter, Snapchat...).
+
+Some examples:
+• Mercedes releases its latest video on the Auto Journal
+Facebook page.
+• Amnesty International appears in the CNN Newsletter.
+• Nike publishes a post sponsored by Kobe Bryant on Instagram.
+• L’Oreal has products tested by the latest fashion influencers
+so they post them on their Youtube channels.
+Until now, this was all done by humans in agencies. They hold
+the cards. The opportunity was obvious: create a secure index of
+advertising offers!
+While searching for the best solution, we realized blockchain would
+be perfect for our needs.
+It is a decentralized and distributed database that guarantees the
+integrity of data and transactions.
+We will use it hold the data securely and verify payment once the
+terms of a contract are fulfilled.
+This allows us to offer a powerful and reliable tool to the development
+community to take care of advertiser / publisher relationships.
+The idea of ​SaTT was born (Smart Advertising Transaction Token).
+The SaTT is a «utility token» based on blockchain technology that
+allows exchange of advertising and audience payment.
+SaTT is regulated by a Smart Contract which lists advertising offers
+with all data held securely in the Ethereum blockchain.
+The Smart Contract sets the conditions for participation in
+campaigns, quantifies the success, and guarantees the final
+renumeration.
+The Ethereum blockchain is fast, inexpensive, safe and versatile
+allowing distribution of rewards on the internet traffic market more
+equitably by removing all the constraints induced by centralized
+intermediaries.
+
+Return to Contents page
+
+4
+
+atayen,inC
+
+Developing awesome apps since 2011
+
+ATAYEN
+
+A FEW FIGURES
+
+OVER ONE MILLION PERSO PAGES
+CANADA
+3,495
+
+RUSSIA
+8,213
+
+FRANCE : 116,702
+UK : 99,092
+ITALY : 22,743
+GERMANY : 21,739
+SPAIN : 20,925
+
+USA
+460,178
+
+USED IN
+
+JAPAN
+3,329
+
+121
+
+TURKEY
+19,809
+
+COUNTRIES
+BRAZIL
+27,468
+LATIN AMERICA
+52,836
+
+SAUDI
+ARABIA
+15,863
+
+515,505
+OVER
+4 MILLION
+BUSINESSES
+
+INDONESIA
+20,533
+THAÏLAND
+14,162
+
+130,140
+
+COMMUNITIES
+
+MUSIC ARTISTS
+
+228,161
+
+104,990
+
+PERSONAL PAGES
+
+PRODUCTS /
+SERVICES
+
+115,730
+
+482,832
+
+COMPANIES
+
+APPLICATIONS
+
+207,799
+STORES
+
+100,753
+WEBSITES
+
+Used by the world top brands
+
+4 Million facebook pages
+
+Return to Contents page
+
+7
+
+02
+
+Understanding Online Advertising
+
+Advertisers have many tools to publish, quantify and analyze their advertising campaigns. They can
+spread their messages through:
+Brand and co-brand websites
+Presence on community networks
+Rich Media Campaigns
+Content sponsorship, brand content, marketing influencers
+
+Digital strategy must be built and measured according to several problems as :
+How can they quantify the return on investment in the current environment?
+Accurate data to evaluate the effectiveness of digital actions with regard
+to campaign objectives in terms of impact on the brand (awareness,
+memorization, brand preference...) and/or performance (increased traffic,
+online sales, offline sales, generation of opportunities or leads...).
+
+Media buying strategies and communication budgets based on evaluation of
+the Web’s contribution to the media plan (coverage of the target, repetition of
+messages, complementarity of the media).
+
+Community engagement through content creation, participation in branding
+and social media outreach.
+Accurate data around that define the engagement and interaction, intimacy
+and influence of the clients.
+
+Understanding customer behavior, needs and expectations. Qualification
+of leads from behavior data, tools and third-party databases to generate
+business opportunities.
+
+Return to Contents page
+
+8
+
+A The enormous potential of the online advertising market
+The digital advertising market is growing rapidly.
+In the first half of 2017, the online advertising market represented 2 billion USDollar, a significant increase
+of 9.8% compared to the first half of 2016.
+The digital market is far ahead of other media. It represents 33% of investments versus 28.3% for
+television.
+
+In 2017 digital advertising generated 247.87 billion USD.
+2017: Total Media Advertising Spending Worldwide by Region
+
+2.45%
+
+36.98%
+
+17.48%
+
+32.40%
+4.23%
+6.46%
+
+2017: Breakdown by Media
+4.79%
+
+Search
+
+Influence
+
+Banners
+
+Acquisition
+
+Videos
+
+Emailing
+
+Rich media
+
+SMS
+
+Ads
+
+3.22%
+
+0.41%
+0.33%
+
+19.54%
+
+41.27%
+
+15.05%
+
+11.89%
+3.49%
+
+Return to Contents page
+
+9
+
+Revenues in the digital advertising
+market
+
+2017: Breakdown by Industry
+
+Retail
+
+350 B$
+300 B$
+
+315.64
+281.41
+
+250 B$
+200 B$
+
+32.40%
+
+247.87
+
+Automobile
+
+212.06
+
+12.90%
+
+150 B$
+100 B$
+
+Financial services
+
+50 B$
+
+12.20%
+
+0 B$
+2016
+
+2017
+
+2018
+
+2019
+
+Telecom
+
+2017: Breakdown by Platform
+Google: 33.00%
+
+10.90%
+Consumer goods
+
+8.80%
+
+Facebook: 16.20%
+Alibaba: 7.80%
+
+Travel
+
+8.20%
+
+Baidu: 6.20%
+Tencent: 3.00%
+Linkedin: 2.70%
+Yahoo: 1.40%
+Twitter: 1.40%
+Amazon: 1.00%
+Snapchat: 0.40%
+Others: 29.50%
+
+Return to Contents page
+
+Computer Products
+
+7.60%
+Media
+
+5.80%
+Leisure
+
+4.90
+Others
+4.30%
+Health and Pharmacy
+2.40%
+
+10
+
+B A few definitions to understand advertising!
+
+INFLUENCEr MARKETING includes all practices
+that aim to use the recommendation potential
+of the influencers, most often used in the sense
+of digital influencer.
+performance marketing are the techniques
+where the advertiser pays for advertising or
+marketing based directly on campaign results.
+Advertisers like this, since it theoretically
+limits risk if a campaign is unsuccessful.
+This sort of payment is often based on:
+• transactions billed to commission or to CPA ,
+• visits or clicks billed to CPC ,
+• various completed forms invoiced to CPA.
+AFFILIATe MARKETING works based on a
+payment model for affiliates (e.g.a webmaster
+or blogger) whenever a customer does a
+specific action (e.g. makes an order, purchase,
+installation, etc.). These networks are usually
+independent and work with Advertisers (CPA
+Networks - see below)
+Affiliate networks (CPA Networks)
+offer rewards to advertisers in the CPA
+model and offer a range of services including
+creating entire affiliate programs. The affiliate
+networks charge advertisers for customer
+actions, payment of commissions to affiliates
+and charge commissions for the service.
+An affiliate (webmaster, publisher, advertiser,
+influencer) is a marketing professional (or a
+group of marketers under a single account in
+an affiliate network) who provides publicity for
+a product or service in return for compensation
+or a payout for every targeted customer action
+originating from their site.
+
+Return to Contents page
+
+AN ADVERTISER, in this context, is the person
+encouraging affiliates to find customers by
+creating offers and paying for them (often
+through affiliate networks) for targeted
+customer actions corresponding to the
+conditions of the offer.
+Tracking is the monitoring of the many
+campaign parameters in the affiliate marketing
+process. For example: time, source and number
+of targeted activities.
+Fraud, in terms of affiliate marketing, means
+the different ways to deceive the affiliate
+network and the advertisers in order to obtain
+a monetary reward.
+There are a variety of common methods:
+emulation of targeted actions, spoofing the
+source of the customers introduced (cookie
+stuffing), tricking customers by using decoys
+to increase the probability of a targeted action
+(for example using a price significantly lower
+than the advertiser’s offer) and others.
+THE Lead is the targeted customer action in
+response to an advertising campaign: sales,
+order, call, registration, installation of the
+application, etc.
+THE OFFER is an advertising proposal to attract
+targeted activities from advertisers or affiliate
+networks.
+THE COMMITMENT is the concept of social
+commitment or commitment to social networks,
+usually meaning the set of interactions that
+can be generated on social publications
+(Facebook post, Snap, Tweet, etc.) organic
+or paid. Social commitment can therefore be
+translated as a "like", a comment, sharing or
+other forms of reaction offered by the different
+social networks.
+
+11
+
+C The different online advertising business models
+Advertisers, according to needs (to increase brand awareness, generate traffic, acquire leads or even
+develop their sales) will choose a payment mode for their publishers.
+These are the different ways to invoice online advertising:
+
+cpc
+
+(Cost Per Click)
+
+CPM
+
+(Cost Per Thousand)
+
+CPC is the cost per click
+generated by a publisher.
+
+CPM is the cost per thousand
+displays or impressions
+of an ad.
+
+cpa
+
+cPV
+
+(Cost Per Action)
+
+(Cost Per View)
+
+CPA is the cost per action,
+which can be a sale, a form
+or a quote request.
+
+CPV is the cost per view
+of a video.
+
+CPE
+(Cost Per Engagement)
+
+The advertiser pays when
+users interact with the ad
+(likes , comments, shares...).
+
+Return to Contents page
+
+conversion rate
+The conversion rate is the KPI
+corresponding to the % of people
+who performed an action
+in relation to the target
+population.
+
+12
+
+03
+
+A Smart Contract to govern advertising transactions
+Thanks to the SaTT Smart Contract, an advertiser can easily create advertising campaigns whose
+conditions for participation and results will be stored in distributed decentralized records (blockchain).
+These ads will be searchable via dedicated APIs. This means tampering with results will be extremely
+difficult.
+A SaTT Smart Contract transaction may only be validated if:
+
+The affiliate meets the
+criteria- age, sex, city,
+audience.
+
+The publisher has
+relayed the advertising
+campaign and the defined
+oracle has returned the
+result statistics.
+
+The "oracles" have
+returned the information,
+the transaction is executed
+and the SaTT amount
+transferred to the publisher.
+
+A Selecting the relevant publishers
+One of the biggest challenges of internet advertising
+is recruiting and validating advertising campaign
+partners.
+Advertisers must select the best partners. This can
+depend on the scope of their broadcast network, the
+topics addressed or simply its image.
+An example:
+Illegal streaming sites are able to generate
+significant traffic, but given the nature of the
+practices an advertiser will generally avoid
+using them in favour of a source that will not
+affect the integrity of its image.
+
+SaTT Smart Contract will give an advertiser the
+power to define criteria for partner participation
+in a campaign as well as our automated oracle
+performance.
+An advertiser may, for example, choose the Klout
+app to define the level of influence required to
+participate.
+
+Return to Contents page
+
+13
+
+B Quantifying the results of an advertising campaign
+In the current model, advertising agencies or affiliate
+networks are able to evaluate the performance of an
+advertising campaign, by its number of impressions,
+clicks, or sales.
+Therefore there is a specific statistical tool for each
+platform, which is relatively robust and secure, but
+does not include reactions on social networks that
+are useful in judging the performance of an ad.
+These tools are similar to the ones used by
+advertisers (e.g. Google Analytics, Facebook
+Analytics, etc.)
+The major advantage of SaTT is the use of the Smart
+Contract which communicates with third-party
+APIs to quantify the performance of campaigns
+and evaluate the amount of the transaction.
+These applications play the role of Oracle and
+interact automatically with the Smart Contract to
+quantify the performance of an advertisement and
+thus automatically define the amount to be paid to
+the publisher.
+The advertiser can choose between third party apps
+depending on its objective.
+
+For example:
+As part of an influencer marketing campaign,
+an advertiser can define an application
+specializing in the study of Instagram statistics
+as a performance oracle and thus quantify the
+remuneration to the publisher.
+In the same way, another may choose Google
+Analytics as a reference if it aims to quantify
+the visits to its website.
+
+Current Model
+
+Independent application platform
+
+The SaTT Smart Contract
+
+This is the typical group of applications that
+play the role of oracle.
+
+With the SaTT Smart Contract, advertisers and publishers will be able to obtain results such as
+impressions, clicks, subscribers, sales or reactions on the social networks for a campaign with the
+most relevant tools according to its objectives.
+Depending on the usage evolution, new tools can be added and will communicate with the SaTT
+Smart Contract.
+
+Return to Contents page
+
+14
+
+C Building trust, preventing fraud
+The security of current affiliate networks is threatened:
+If a centralized network is hacked, the hackers can access all system
+accounts.
+In the case of a technical failure on a centralized platform, all ad
+campaigns stop working until the incident is resolved.
+Advertisers and publishers of many ad networks must trust centralized
+advertising agencies without being able to verify the statistical results
+provided.
+Thanks to the blockchain, advertisers and their campaigns are not connected
+to each other. This means they are not all affected by a single hack or
+malfunction.
+Thanks to the SaTT Smart Contract, ads and transactions are governed by
+modules of independent persons secured by the Ethereum blockchain.
+In the event that a module or oracle malfunctions, the integrity of ads of
+other advertisers is preserved.
+
+The most common frauds found in the online advertising market
+Advertisers
+
+Publishers
+
+Inform a publisher that an
+order was not delivered and
+refuse to pay commission
+on the customer purchase
+
+Inject fake accounts to
+obtain CPA commission.
+
+Delay commission
+payments to publishers.
+
+Trick statistics by using
+robots.
+
+Make mistakes in the
+calculation of affiliate
+remuneration.
+
+Change the site tracking
+code so that not all leads are
+registered and paid.
+
+Advertising Agencies
+
+Discreetly remove
+advertiser and publisher
+accounts.
+Trick the statistics.
+
+The use of the SaTT Smart Contract
+allows advertisers and publishers to
+define a trusted third party (oracle)
+who will decide on the campaign
+performance statistics and the amount
+to be invoiced (examples: Google
+Analytics , Instagram Analytics , etc.).
+
+Return to Contents page
+
+The decentralized and distributed
+blockchain ensures integrity of the
+billing data and payments without any
+possibility of falsification.
+
+15
+
+D Reducing costs, speeding up transactions
+The traditional business model of conventional centralized
+advertising agencies relies on a prohibitive cost of entry and
+monthly billing for the services provided.
+The minimum fee for using their interface ranges from several
+hundred to thousands of dollars a month.
+
+Choice of oracle
+A
+
+B
+
+C
+
+With the blockchain and the SaTT Smart Contract, the transaction
+cost is split between the encryption and oracle modules based on
+user needs. There is no minimum monthly billing. The competition
+between the oracle modules guarantees a high level of service and
+competitive rates.
+In traditional centralized advertising agencies, the payment of
+commissions to affiliates may take several months, resulting
+in significant transfer fees and blocking where minimum billing
+amount is not met.
+By using SaTT, payments are immediate as long as the success
+criteria are met. Payments are subject to neither a transfer fee nor
+a currency conversion fee.
+
+E A complete and decentralized tool to govern advertising
+transactions
+
+A decentralized
+register
+
+An integration
+API
+
+A development
+SDK
+
+Traditional centralized advertising agencies offer proprietary interfaces that, through their design, may
+not meet all the expectations of advertisers and publishers.
+Some need access to specific statistics, to generate custom reports or to automate the creation of
+advertising.
+The SaTT Smart Contract, operating in a decentralized way via the Ethereum blockchain, allows
+developers to design tailor-made tools.
+Hence, any developer can design a SaTT-compatible campaign creation tool, an advertising directory or
+statistics interface.
+
+The SaTT Smart Contract is decentralized, it is not a proprietary platform.
+
+Return to Contents page
+
+16
+
+04
+
+Operation of the SaTT Smart Contract
+The SaTT Smart Contract works in a decentralized and distributed manner. The blockchain will include
+all current offers that allow any API or platform to perform operations, whether creating as part of an
+adbuilder, posting to make an ad directory, or as an oracle, for example by providing the necessary
+statistics to validate and quantify the transaction.
+The advantage of such a Smart Contract is to gather market offers in a decentralized database, to set
+the rules that apply to advertising contracts and to automatically trigger payments once the transaction
+is performed.
+
+Advantages
+For Advertisers
+
+Advantages
+For Publishers
+
+Very low fees
+
+Exclusive products
+
+International publishers
+
+Surety of payment
+
+No middleman
+
+Instant Payment
+
+Relevant statistics
+
+Easy Token Exchange
+
+Automatic Payment
+
+Relevant Statistics
+17
+
+Advertisers
+
+The advertiser wants to maximize the penetration of their message.
+
+We provide a simple, fast and powerful tool to identify the best communication
+medium, and the best performing potential partners.
+The SaTT Smart Contract faciliates the broadcast of advertisements according
+to performance objectives (e.g. to increase its visibility, to generate traffic, to
+generate sales opportunities or to directly make sales).
+It can follow the evolution of a campaign on the industry standards, such as Google
+Analytics, Instagram or Facebook Analytics through oracle module connections.
+Finally, publishers and communities can access exclusive products and events in
+exchange for SaTT.
+SaTT which it can turn around and reuse for new campaigns!
+
+Return to Contents page
+
+18
+
+Publishers
+
+The publisher
+
+wants to find the most relevant and profitable campaigns and
+content for its audience.
+Thanks to the blockchain, partners can now guarantee that the campaign is funded
+and will be paid as soon as the contract conditions between the partner and the
+advertiser are met, such as at the end of a campaign or performance threshold.
+Once the objectives are achieved, the Smart Contract automatically triggers the
+transaction and the specified funds are transferred directly to its portfolio net of
+the commission paid to the oracle modules.
+
+Return to Contents page
+
+19
+
+Oracles
+
+What is an oracle module?
+An oracle is an application between the Smart Contract and a data source to
+relay information on the performance of a campaign or process (number of
+clicks, number of views, ability to participate, validation of campaign integrity).
+When an application connects to Google Analytics and returns the volume of a
+publisher’s traffic on the advertiser’s website at the end of the month to an oracle
+module, it uses that data to determine if the conditions of the Smart Contract are
+fulfilled. Several oracles may be involved in the process before a Smart Contract based
+transaction is approved.
+For example:
+Coca-Cola could define that the company REECH decide on the capacity of
+publishers to participate, set the transaction condition to 2,000 views, and
+define Google Analytics as oracle to obtain the statistics, the results of the
+campaign..
+Oracles can be developed directly by ATAYEN, Inc. or by third-party developers via the
+SaTT API.
+The advertiser can choose the most relevant of the validated applications or have
+custom ones created.
+The application developers are compensated via commission when transactions are
+approved and validated.
+
+Return to Contents page
+
+20
+
+Oracles, trusted third parties to the transaction
+
+Performance
+oracle
+Performance oracles provide the statistics needed
+for billing. For example, it may be used to count
+views, clicks, lead engagement or sales.
+
+Contact Form
+
+Capacity
+oracle
+Capacity oracles analyze the partner profiles to
+validate they meet the criteria set by the advertiser
+for the campaign. These conditions can range from
+the reputation of the publisher on social networks,
+to factors such as its type of audience, or market
+segment.
+
+Security
+oracle
+Security oracles are an option for advertisers who want
+to analyze and validate the quality of the campaign
+as well as minimizing potential fraud. Some of the
+modules include robot detectors and a lead or visit
+analyzers.
+
+Return to Contents page
+
+21
+
+SaTT Ecosystem
+Convert money to SaTT,
+or vice versa
+
+CRYPTOCURRENCY EXCHANGE
+PLATFORM
+
+Convert SaTT into
+money
+
+Exchange SaTT for exclusive
+products
+
+ADVERTISERS
+
+PUBLISHERS
+Unlock payment after
+validation of all objectives
+
+Finance a
+campaign
+
+ORACLES
+
+SMART CONTRACT
+
+SaTT
+
+Analyze & validate
+achievement of objectives
+
+Launch of
+advertising
+campaigns
+
+Campaign parameters:
+
+Click result
+04/11/18
+YouTube
+1,000
+
+Return to Contents page
+
+22
+
+05
+
+Crowdsale and initial distribution of SaTT Tokens
+SaTT tokens emitted, Hard Cap
+
+20 000 000 000
+
+Protocol
+
+ERC20 / ERC223
+
+Payment
+
+$/€/BTC/ETH
+
+Decimal
+
+18
+
+Token value
+
+$ 0,0042
+
+Softcap
+
+$ 3 360 000
+
+Hardcap
+
+$ 28 560 000
+
+Referal program : 5%
+Through the Referral Program, a user can invite contacts using a unique
+referral code. If any of the contacts participates in the IEO, the user gets
+rewarded with a 5% commission of the participating amount.
+
+Return to Contents page
+
+23
+
+progression of the crowdsale and bonus
+
+Number of SaTT available
+
+$ value (USD)
+
+Stage
+
+% bonus
+
+Pre ICO
+
+100 %
+
+200 000 000
+
+$ 0.0021
+
+$ 420,000
+
+Step 1
+
+50 %
+
+300 000 000
+
+$ 0.0028
+
+$ 840,000
+
+Step 2
+
+30 %
+
+650 000 000
+
+$ 0.0032
+
+$ 2,100,000
+
+TOTAL SOFTCAP
+
+Price / SaTT
+
+1 150 000 000
+
+$ 3,360,000
+
+-
+
+Initial Exchange Offering
+Launchpad
+Target price $0.0042
+
+1 150 000 000
+
+Return to Contents page
+
+available
+
+24
+
+Distribution of the SaTT
+
+27.63%
+Reserve
+
+10.00%
+
+associates
+
+13.12%
+
+Grant Program
+
+34.00%
+
+7.50%
+
+crowdsale
+
+Team/advisors
+
+5.25%
+BONUS
+
+2.50%
+
+Bounties
+
+Distribution of tokens
+
+SaTT value
+
+$ Value (USD)
+
+34.00%
+
+6,800,000,000
+
+$ 28,560,000
+
+Reserve
+
+30.125 %
+
+6,025,000,000
+
+$ 25,305,000
+
+Grant Program
+
+13.125 %
+
+2,625,000,000
+
+$ 11,025,000
+
+10.00 %
+
+2,000,000,000
+
+$ 8,400,000
+
+Team / advisors
+
+7.50 %
+
+1,500,000,000
+
+$ 6,300,000
+
+Bonus
+
+2.75%
+
+550,000,000
+
+$ 2,310,000
+
+Bounties
+
+2.50 %
+
+500,000,000
+
+$ 2,100,000
+
+100 %
+
+20,000,000,000
+
+$ 84 000 000
+
+Crowdsale
+
+Associates
+
+TOTAL
+
+Burn reserve
+Undistributed tokens during
+Crowdsale will be burned.
+
+Return to Contents page
+
+Percentage (%)
+
+Vesting plan
+The tokens that are allocated to partners as well as to the team
+are blocked by contract for a period of one year, and is then made
+available in increments of 10% every month for the next 10 months.
+
+25
+
+Percentage operating expenses
+4.0%
+
+equipment & supplies
+
+16.1%
+
+8.7%
+
+outsourcing
+
+2%
+
+salaries & expenses
+
+real estate rentals
+
+2.7%
+
+0.7%
+
+insurances
+
+legal
+
+3.8%
+
+membership
+
+13.4%
+
+4%
+
+events
+
+data center
+
+13.4%
+
+advertising
+
+28.2%
+
+reserve fiat, btc
+
+2.7%
+
+travel & transport
+
+Equipment & supplies
+
+Membership
+
+Reserve FIAT, BTC
+
+Outsourcing
+
+Data center
+
+Events
+
+Real estate rentals
+
+Advertising
+
+Legal
+
+Insurances
+
+Travel & transport
+
+Salaries & expenses
+
+SaTT Events
+
+Much of the funding goes into promoting SaTT through advertising and events alongside the world’s
+largest web, advertising and blockchain shows.
+Our goal is to obtain maximum funds to democratize the use of SaTT and the use of the transaction
+application.
+A €/$/Bitcoin/Ether foreign exchange reserve is planned for all purposes deemed convenient.
+
+Return to Contents page
+
+26
+
+06
+FAQ
+
+WHAT IS A SaTT TOKEN?
+
+SaTT are tokens issued from an Ethereum smart contract. These tokens will be used in advertising
+transactions between advertisers and publishers.
+Does the token bestow ownership on the ATAYEN Inc. company?
+
+No, the tokens do not bestow any rights or ownership of ATAYEN Inc.
+The tokens allow you to use the advertising services provided by ATAYEN Inc. and to trade products
+and exclusive services
+HOW MANY SaTT TOKENS ARE AVAILABLE?
+
+We have issued 20 000 000 000 tokens out of which 118 000 000 are available for the crowdsale.
+We will not issue any additional tokens in the future.
+What can I buy with SaTT?
+
+You can already purchase our App Suite and our e-mailing service. Soon, you will be able to pay for
+advertising services as well as our partners’ services and products.
+How to get SaTT tokens?
+
+You can easily acquire SaTT during the crowdsale thanks to our wallet. You can purchase them with
+ETH, BTC or by bank transfer.
+You can participate from exchange platforms such as Bitrex, Binance or any wallet, as well as by credit
+card by using services like transferwise.
+Upon receipt of proof of payment, the corresponding SaTT are delivered to your wallet, and you will
+then be able to transfer them to any ERC20 wallet (MEW, Metamask, etc) or use our App.
+Where to store purchased SaTT?
+
+You can store your SaTT on our SaTT wallet at satt.atayen.us, on any ERC20 wallet (MEW, Metamask,
+etc) or on a nano Ledger key.
+How to create a SaTT wallet?
+
+To create your SaTT wallet with ease, go to satt.atayen.us, sign up or login through Facebook Connect
+and choose your password to secure your transactions.
+
+Return to Contents page
+
+27
+
+07
+
+RoadMap - to infinity and beyond
+
+28
+
+08
+
+SaTT is live: It’s already more than a currency
+
+You can exchange your SaTT with others Cryptocurrencies in P2P, 3xchange.io
+You can stock & transfer SaTT to your contacts, with the SaTT Wallet.
+You can sell or buy on Facebook with Store.
+You can pay or be paid in SaTT with the payment API PayBySaTT.
+You can send SaTT to the moon with the application When moon
+
+Return to Contents page
+
+29
+
+09
+
+Buying SaTT exclusive products
+SaTT is already a medium of transactions and can be used to buy our App Suite or products on Facebook pages
+that use our apps. The PayBySaTT functionality is easily installed in our app store. We will also offer SDK for
+third-party developers so that we make a host of exclusive products and events payable in SaTT.
+
+Exclusive products
+Exceptional products for
+exceptional people.
+
+Brands can sell exclusive products for SaTT to
+a community of exceptional people.
+September 2018: Installed in Store By
+ATAYEN, Inc. Sell or buy SaTT on Facebook
+stores
+Q.2 2019: SDK for third party developer
+(Woocommerce, Magento, Prestashop ...).
+
+Return to Contents page
+
+&
+
+Events
+Events reserved for
+SaTT holders.
+
+Every year we select at least 6 of the biggest
+events to offer a SaTT evening to discuss our
+project with the leaders of the community.
+Advertisers can also arrange exclusive events
+with the PayBySaTT module.
+
+30
+
+10
+
+A strong, motivated team
+
+Gauthier BROS
+
+Stéphanie Clément
+
+Geoffrey MOYA
+
+Caroline MURACCIOLI
+
+Wiem BOUTITI
+
+B lo c kc h a i n e x p e r t
+
+C h i e f d esig n / UX g u r u
+
+Web d esig n er
+
+CEO
+
+CTO
+
+Samir ksibi
+
+Asso ciate p ar tn er
+
+The Advisors
+
+Eric
+alexandre
+
+Barrak
+El Homayssi
+
+CEO J e t c o i n
+
+CEO SRG
+
+Richard
+ESTEVE
+
+Quentin
+herbrecht
+
+Philippe
+Erb
+
+jordan
+DELAGNEAU
+31
+
+The investors
+
+Kima Venture
+
+DotCorp
+
+NB Group
+
+Solly Azar
+
+Does our project interest you ?
+Would you like to support us ?
+We are ready to hear your proposal !
+
+I would like to participate
+
+Return to Contents page
+
+32
+
+11
+Disclaimer
+PREAMBLE
+The buyer of SaTT tokens understands and accepts that ATAYEN, Inc. does not aim to act as a substitute
+for the knowledge that the buyer must possess for its purchases on the cryptoassets market .
+Thus, the buyer of SaTT tokens assumes and acknowledges an understanding of the field of cryptoassets,
+systems developed by ATAYEN, Inc. and the Blockchain mechanism. This includes the risks associated
+with the crowdsale as well as the mechanism related to the use of cryptoassets, and more specifically,
+SaTT tokens (including storage).
+ATAYEN , INC. WILL NOT BE LIABLE FOR LOSS OF SaTT TOKENS, PIRACY, AND / OR SITUATIONS
+INVOLVING THE IMPOSSIBILITY FOR THE PURCHASER TO ACCESS THE SaTT TOKENS WHICH MAY
+RESULT FROM ANY ACTIONS OR OMISSIONS OF THE PURCHASER OF SaTT TOKENS AND THE USER OF
+THE SERVICES OFFERED BY ATAYEN , INC.
+THIS WHITEPAPER IN NO EVENT SHALL CREATE A PROSPECTUS OR OFFERING DOCUMENT. IT IS
+NOT INTENDED TO CONSTITUTE AN OFFER TO SELL OR AN INVITATION TO A PURCHASE AND / OR
+SUBSCRIPTION OFFER.
+THIS WHITEPAPER IS NOT INTENDED TO CONSTITUTE A SOLICITATION TO INVEST IN SECURITIES OR
+ANY OTHER FORM OF INVESTMENT PRODUCTS. THIS WHITEPAPER, IN WHOLE OR IN PART, AND ANY
+COPY OF IT, SHOULD NOT BE TAKEN OR TRANSMITTED TO ANY COUNTRY WHERE THE DISTRIBUTION
+AND DISSEMINATION OF WHITEPAPERS IS PROHIBITED OR RESTRICTED.
+
+1. GENERAL INFORMATION
+The SaTT token will not be legally considered a security since it does not give rights to dividend, interest,
+profit-sharing, or any other remuneration. Also, the SaTT tokens will not be considered shares because
+they do not give access to ordinary or extraordinary general meetings of ATAYEN, Inc.
+The sale of SaTT tokens is final and non-refundable. They cannot be used outside the platform
+developed by ATAYEN, Inc. Consequently, they cannot and must not be bought for speculative purposes
+or investments. The buyer of the SaTT tokens understands and is aware that the SaTT tokens issued
+by ATAYEN, Inc. operate in a decentralized non regulated market. The information issued by ATAYEN,
+Inc. relates to the crowdsale and SaTT tokens, and the purchaser of the said tokens understands that
+no specific European regulatory framework governs this activity. As a result, the buyer is aware that the
+purchase of SaTT tokens is undertaken without the benefit of legal and / or regulatory protection.
+Any person purchasing SaTT tokens understands, accepts and acknowledges to have carefully reviewed
+this whitepaper and to fully understand the risks, costs and benefits associated with the purchase of
+SaTT tokens and the services offered by ATAYEN, Inc.
+
+Return to Contents page
+
+33
+
+2. RISK
+2.1 General information on the risks related to cryptoassets
+2.1.1 Risks related to trading or holding cryptoassets
+The buyer acknowledges and understands that cryptoasset markets are decentralized nonregulated
+markets. The SaTT Tokens issued and the services offered by ATAYEN, Inc. therefore relate to
+unregulated markets which are not governed by any specific European framework. In other words, and
+unlike «traditional» financial assets, the Central Bank cannot take corrective measures to protect the
+value of cryptoassets in a crisis, or issue more assets in the markets.
+Cryptoasset markets are determined by supply and demand. These markets are dynamic markets and
+the corresponding prices are often extremely unpredictable and volatile. Cryptoasset prices are generally
+not transparent, are highly speculative and likely to be manipulated by the market. In the worst case,
+the asset may be reduced to zero value. Also, the buyer of the SaTT token and the user of the services
+offered by ATAYEN, Inc. acknowledge being aware that cryptoassets, due to their lack of regulation, are
+likely to be misused for illegal activities owing to the anonymity of transactions. The law enforcement
+and financial market regulation bodies are therefore likely to investigate alleged unlawful activities
+which could be detrimental to the buyer and / or the user.
+As a result, cryptoassets should be considered an extremely high risk asset and the buyer will always have
+to buy with the understanding and awareness that the funds can be lost. The purchase of cryptoassets
+is not suitable for everyone. The buyer therefore understands that SaTT tokens should not be bought
+without the necessary knowledge and expertise to understand the characteristics of the token, the
+crowdsale, the whitepaper and the exposure to risk.
+The buyer of SaTT tokens understands and accepts that ATAYEN , Inc. has no intention of acting as a
+substitute for the knowledge that the buyer must possess for its purchases on the cryptoassets market.
+The buyer of the SaTT tokens and the user of the services offered by ATAYEN, Inc. understands and
+accepts that ATAYEN, Inc. and this whitepaper is not intended as a substitute for the knowledge that the
+buyer must possess for its purchases on the cryptoassets market.
+Indeed, the buyer recognizes that the risk of loss in the purchase of cryptoassets can be considerable.
+The buyer must therefore carefully consider whether the purchase on this type of market is appropriate
+in view of their situation and financial resources. The buyer understands that a total loss of tokens is
+possible.
+2.1.2 Risks related to third parties
+The Blockchain is an independent public peer-to-peer network, free of any European legislation or
+regulations. The buyer understands that errors, failures and / or violations may occur in the Blockchain
+and may result in the loss of the purchased SaTT tokens. Also, the buyer acknowledges being bound
+and subject to any change and / or modification in the Blockchain system and being subject to any
+applicable law that may apply to the Blockchain. While ATAYEN, Inc. may provide information about the
+legislative and regulatory changes that could occur, ATAYEN, Inc. is not required to provide information
+on the subject and gives no guarantee, express or implicit, statutory or other, regarding features, current
+legislation and / or security in the Blockchain.
+2.1.3 Specific information on the risks related to the SaTT tokens
+
+Return to Contents page
+
+34
+
+SaTT tokens may eventually be exchanged on third party platforms (Exchanges). These third parties are
+not banks and do not hold their fiduciary assets / virtual assets as deposits.
+If such third party loses money, fails or goes bankrupt, there is no specific legal protection that covers
+the buyer for the losses resulting from the tokens that the buyer may have held with that third party, even
+if that party is registered with a national authority. The SaTT tokens and services offered by ATAYEN, Inc.
+cannot predict the risks associated with these third party holders (Exchanges).
+Indeed, depending on the structure and security of the digital wallet, some may be vulnerable to piracy,
+and lead to the theft or loss of cryptoassets, and more specifically the SaTT token. ATAYEN, Inc., despite
+the information it may provide, will not be liable for any losses caused by these third parties
+2.2 Specific information on the risks related to the SaTT tokens
+The acquisition and storage of SaTT tokens involves various risks. These include the possibility
+that ATAYEN, Inc., may not be able to launch its operations or projects, including development of its
+Blockchain or the services promised in this Whitepaper.
+As a result, and before acquiring SaTT tokens, any user acknowledges to have fully examined the risks,
+costs and benefits of acquiring SaTT tokens in the context of a crowdsale and, if necessary, to have
+obtained the opinion of a professional specialist on this subject.
+Any interested person unable to accept or understand the risks associated with the activity (including the
+risks associated with the non-development of the ATAYEN, Inc. platform) or any other risk as indicated
+in Article 2.1 above, should not buy.
+2.3 Important Warning on the Whitepaper and the Business Model
+This Whitepaper should not be considered as an invitation to invest. It does not constitute, nor relate
+in any way, to a securities placement. This whitepaper does not include or provide any information or
+indication that could be considered by the buyer as a recommendation or incentive to invest. SaTT
+tokens are just utility tokens and therefore can only be used on the platforms developed by ATAYEN, Inc.
+and are not intended as an investment.
+The possibility of buying SaTT tokens on trading platforms is only intended to allow the use of the
+services offered by ATAYEN, Inc. and is not an incentive to invest.
+In addition, ATAYEN, Inc. should not be considered a legal, tax or financial advisor. All information
+provided in this whitepaper is provided solely for the purpose of general information and ATAYEN, Inc.
+makes no warranty as to the accuracy and completeness of this information.
+ATAYEN, Inc. cannot be considered as a financial intermediary pursuant to Articles L. 519-1, L. 541-1, L.
+545-1, L. 547-1 L. 548-1 of the Monetary and Financial Code. As a result, ATAYEN, Inc. does not have to
+obtain authorizations for the purpose of combating money laundering or to register by virtue of Article
+L. 546-1 of the Monetary and Financial Code.
+The acquisition of SaTT tokens does not confer any rights in the activities of ATAYEN, Inc.
+The buyer of SaTT tokens understands and accepts the fact that national regulatory authorities can
+carefully examine the companies and operations associated with cryptoassets worldwide. As a result,
+regulatory measures, investigations and actions may affect the activities of ATAYEN, Inc. and even limit
+or prevent its operation.
+The buyer understands the ATAYEN, Inc. business model and that, in the future, the whitepaper and the
+
+Return to Contents page
+
+35
+
+economic terms may change due to new regulatory requirements. In such case, the buyer of SaTT
+tokens recognizes and understands that ATAYEN, Inc. cannot be held responsible for any loss or
+damage, direct or indirect, as a result of these changes. These change factors include, among others:
+•
+
+A change in the political, social, economic and cryptoasset stock market conditions as well as
+a change in the regulatory environment in the countries in which ATAYEN, Inc. carries out its
+operations and activities;
+
+•
+
+The risk that ATAYEN, Inc. may be unable to execute or implement its business strategy and future
+development;
+
+•
+
+Changes in interest rates and / or exchange rates of fiduciary currencies and cryptoassets;
+
+•
+
+Anticipated change in growth strategy and expected organic growth;
+
+•
+
+A change in the availability and fees payable to ATAYEN, Inc. as part of its business and its
+operations;
+
+•
+
+A change in the availability and salaries of employees that are required by ATAYEN, Inc. to operate
+its business and implement its operations;
+
+•
+
+A change in the competitive conditions under which ATAYEN, Inc. is operating.
+
+•
+
+A change in the capital requirements of ATAYEN, Inc. as well as the availability of financing;
+
+•
+
+A war or acts of national and international terrorism;
+
+•
+
+The occurrence of catastrophic events, natural disasters or any other event external to
+ATAYEN,Inc.;
+
+•
+
+Other factors beyond the control of ATAYEN, Inc.
+
+ATAYEN, Inc. will do its utmost to launch its operations and develop its platform. The buyer of SaTT
+tokens understands that ATAYEN, Inc. provides no guarantee on the objectives it wishes to achieve. As a
+result, ATAYEN, Inc., its bodies and employees are not responsible for the losses and damages resulting
+from the inability to use the SaTT tokens, except in the case of intentional or negligent wrongdoing on
+the part of ATAYEN, Inc.
+Thus, the buyer understands and accepts that nothing in this whitepaper is or can be considered to be a
+promise or commitment regarding the performance or future policies of ATAYEN, Inc.
+
+3. WARRANTIES
+By participating in the crowdsale, the buyer understands and accepts the above and in particular,
+warrants:
+•
+
+To have carefully read and to accept the entire contents of the whitepaper;
+
+•
+
+To have the authorization and full powers to buy SaTT tokens through a crowdsale according to the
+applicable laws in the territory of their domicile;
+
+Return to Contents page
+
+36
+
+•
+
+To reside in a jurisdiction that allows ATAYEN, Inc. to sell SaTT tokens through a crowdsale without
+requiring authorization by the competent courts in their declared domicile;
+
+•
+
+To not use the crowdsale for illegal activities, such as (but not limited to) money laundering and
+financing of terrorism;
+
+•
+
+To have sufficient knowledge of the nature of SaTT tokens and to have an understanding and
+significant experience with cryptoassets and Blockchain-based systems;
+
+•
+
+To buy SaTT tokens only to access the platform developed by ATAYEN, Inc.
+
+•
+
+To not buy SaTT tokens for investment and / or speculative purposes.
+
+IF IN DOUBT ABOUT THE PURCHASE OF SaTT TOKENS, IT IS ABSOLUTELY ESSENTIAL TO CONSULT A
+LEGAL, FINANCIAL, TAX OR OTHER COMPETENT PROFESSIONAL ADVISOR.
+
+Cedric
+DUBUCQ
+Attorney since 2013, Cédric
+Dubucq works in business
+law and assists companies
+and individuals in the field of
+cryptoassets. He is a
+founding member of the
+dothanks «Avotechs».
+
+Return to Contents page
+
+Thomas
+BERNARD
+Thomas Bernard provides legal
+support for digital companies.
+Business developer and
+attorney, Thomas has expert
+knowledge of all aspects and
+challenges of digital
+and cryptoassets.
+
+David
+Ybert de Fontenelle
+Entrepreneur and attorney,
+David Ybert de Fontenelle
+provides professional and
+personal legal support
+inherent to cryptoassets.
+
+37
+
+Contact us for more information
+contact@atayen.us
+www.satt-token.com
+
+Return to Contents page
+
+38
+
+

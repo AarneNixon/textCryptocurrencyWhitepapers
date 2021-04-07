@@ -1,0 +1,1319 @@
+SMART INFLUENCER CONTENTS SYSTEM
+ON BLOCKCHAIN TECH
+
+Whitepaper Ver 0.8
+
+ISTARDUST EXCHANGE PLATFORM
+
+Contents
+1. Market Analysis of Influence
+Systems Current Status of Influence Industry4
+
+4
+
+Influence Industry Problems
+
+6
+
+2. Definition and characteristics of ISTARDUST
+Defining ISTARDUST
+
+7
+
+ISTARDUST Platform Features
+
+8
+
+How to Use the ISTARDUST Platform
+
+10
+
+3. ISTARDUST Platform Services
+ISTARDUST Platform Services
+
+11
+
+A Case Study on the Use of the ISTARDUST
+
+12
+
+(Music / Fashion / Beauty / Entertainment / Game / Art / Donation & Sponsorship / IT)
+
+4. ISTARDUST Features
+ISTARDUST FUNCTION _ Influence Rank System
+
+18
+
+ISTARDUST Feature _ Messenger
+
+20
+
+ISTARDUST FUNCTION _ PAYMENT
+
+21
+
+ISTARDUST Media Commerce
+
+23
+
+ISTARDUST MUSIC
+
+24
+
+ISTARDUST GAME
+
+25
+
+5. ISTARDUST Business Model
+
+26
+
+6. ISTARDUST Token
+ISTARDUST Summary
+
+27
+
+ISTARDUST Token Sale
+
+28
+
+ISTARDUST Token Economy
+
+29
+
+ISTARDUST Ecosystem
+
+30
+
+7. ISTARDUST_TREASURE HUNTER
+
+34
+
+8. ISTARDUST Roadmap
+
+38
+
+9. ISTARDUST Team & Partner
+
+39
+
+10. ISTARDUST Legal Immunity Clause
+
+41
+
+Abstract
+Based on the philosophy of "Human talent is blockchain," ISTARDUST is an Influencer
+platform that enables everyone in the world to become an Influencer and create a fair
+distribution of revenue through blockchain technology.
+Through ISTARDUST, you can not only share your talent in music, art, fashion, IT, writing,
+ideas, design, games, travel, donations, but also share what you own, participate in various
+projects, communicate with everyone, create and enjoy your talent.
+ISTARDUST is a platform that provides new opportunities through effective IP (intellectual
+property rights) management, easy communication, convenient content modification,
+continuous experience and on-line business links
+
+3
+
+Status of Influencer Industry
+Google Search ‘Influence Marketing’ has increased by 1500% in the past 3 years
+
+Sources : influencermarketinghub.com
+
+Influence means a new word meaning "influence + er" to influence others. As SNS
+developed, each channel had tens of thousands to hundreds of thousands of followers,
+leading the trend or influencing others, and they started to have a huge impact on people,
+even though they were not as popular as traditional self-love and were not as popular as
+celebrities for their looks or performances.
+The global market for content creation, consumption and marketing through Influencer is
+expanding and regenerating through the Millennium generation, which uses social
+networking services based on mobile devices.
+
+“Digital-era social media is used as a key channel for online users to share information, experiences
+
+and thoughts. This is affecting more and more people from what other people say on social media.
+In particular, 47 percent of the major buyers said social media affected their purchasing behavior,
+far higher than 19 percent of other age groups. 74% of all online consumers make purchase decisions
+with the help of social media.“
+- Wall Street article excerpts -
+
+So, worldwide, social networking-based Influencer content and marketing are having a
+strong impact on viewers and consumers.
+
+4
+
+Status of Influencer Industry
+
+Sources : influencermarketinghub.com
+
+The increase in the market for Influencer marketing will lead to a growing desire for new
+Influence Books and Content Diversity. However, the Influencer Market cannot avoid the
+concentration of power by a small number of people, which has caused by many problems.
+Many brands are enthusiastic about more influential Influencer and are paying them a lot
+of advertising. As a result, if the content of Influencers is biased toward advertising
+revenue, it is likely that the content of the brand other than the content you and the
+consumer want will be reduced in quality, and the uniform content production that is
+biased toward certain trends and the revenue structure that is focused on the minority will
+harm the diversity of the content and threaten the ecosystem itself.
+In case of MCN company, advertising marketing is only focused on Top Influencer.
+The misshapen industrial structure, focused on the top Influencer, creates revenue and
+
+difficulty in entering the market through advertising marketing by the sub-Influencers that
+do not have many subscribers.
+As a result, it is difficult for Influencers to create and sustain new content. In addition, the
+company has difficulty in expanding its new business and operating human resources to
+manage many Influencer.
+
+5
+
+Problems of Influence Industry
+1. "What is the biggest problem in content production?"
+• The existing Influence platform is a platform that connects Influencer to advertisers
+only, and is designed to focus on creating advertising-based PPL content.
+• The crowd funding platform connects producers and consumers, but problems arose
+due to language, exchange rates, and payment issues.
+
+1. "What's the biggest problem in content production?"
+
+2. "What's the biggest problem with collaboration with
+Influencer content?"
+
+34%
+32%
+A shortage of
+budget
+
+27%
+A shortage of
+resources
+
+33%
+
+32%
+17%
+a lack of
+expertise
+
+24%
+A lack of
+time
+Communication
+
+Search for Influencer
+
+Payment
+
+*Proceeds a survey of 1,000 Global Influencer.
+
+2. "What's the biggest problem with collaboration with Influencer content?"
+• In the case of Influencer selection problems, the existence of appropriate Influencer
+with the same vision and goals as yours and the accessibility of information about
+where to find them. In addition, problems were created due to increased fatigue from
+searches and subjective choices based on limited information.
+• In the case of communication problems, it was suggested that communication
+problems and regular exchange of conversations with foreign Influencer, not domestic
+
+ones, were difficult due to communication problems and social networking services,
+and that an integrated communication channel was needed.
+• In the case of production cost issues, the question is when to pay production costs for
+joint projects, and the question of financial problems such as taxes, exchange rates, and
+money transfer issues has been raised, suggesting the need for reliable stabilization.
+
+6
+
+Definition of ISTARDUST
+ISTARDUST is a blockchain-based composite platform that connects Influence, Subscribers
+and Business around the world to generate revenue and donate money.
+The company provides platform services in the form of individual templates that
+complement existing Influencer marketing, crowdfunding, and talent sharing platforms,
+and provides instant messaging services that make it easy to find and communicate with
+Influencers around the world.
+ISTARDUST's internal platform makes it easy to find Influencers books around the world,
+participate in various projects and make donations. Through this process, you can
+participate in content production, performance, marketing, service, etc. and receive
+compensation based on your contribution.
+
+Influencer
+Creator
+
+(Use to Creator’s Coin- Monetization)
+
+User or Subscribers
+
+(Use to Platform Cash – Donate)
+
+For example, music Influents can distribute music that they collaborate with Influents
+around the world. All products reviewed and collaborated by Influencer, such as beauty,
+fashion, food, and goods, are provided through media commerce. You can purchase
+ISTARDUST tokens with platform cache at low cost.
+The game platform allows users to download existing games and blockchain-based games
+reviewed by Influencers, and connects gamers and developers around the world. We will
+also play various game leagues through ISTARDUST.
+The ISTARDUST Platform Cache and Creator Coins can be donated, sponsored, and funded
+
+by various projects, Influencer, and used on external platforms (music, games, media
+commerce) and instant messaging (sponsoring, payment, and transaction) within the
+platform. Creator and cash platforms listed on the coin is Exchange is an immediate
+transition as a token ISTARDUST. Influencer the revenue is divided into for donations and
+sponsorships by users user can. Of course, Creator through the qualification, users can be.
+
+7
+
+ISTARDUST Platform Features
+ISTARDUST Platform
+
+Various
+
+Influencer
+
+Legacy Platform
+
+Interactive
+
+Project
+
+Content
+
+Brand – Creator
+Creator – Creator
+
+Be focused on
+
+Easy to find
+
+Free
+
+Influencer
+
+communication
+
+Any creator
+
+Only
+
+Advertising
+
+One way
+
+Marketing
+
+Content
+
+Brand – Creator
+
+Be focused on
+
+Hard to find
+
+Difficult
+
+Influencer
+
+communication
+
+Top Creator
+
+Management of Influencer based on Data and Talent
+•
+
+A assessment on the Evaluation of the Manager and the Influencer
+
+•
+
+Motivates anyone to be a profit-generating creator
+
+Comfortable communication
+•
+
+Free P2P project funding
+
+•
+
+Open chat rooms between Influencer
+
+Easy and secure payment
+•
+
+Easily deal with and ensure reliability through platform cash and creator coins
+
+•
+
+Escrow services within the platform
+
+Confident IP (copyright) management and content business links
+•
+
+Non-modulated Distribution Structure through Blockchain
+
+•
+
+Distribution of various content through platform services
+
+8
+
+ISTARDUST Platform Features
+
+ISTARDUST uses blockchain-based platforms and services to help anyone become an
+Influencer. Tokenized social platform that creates a variety of content and presents new
+business opportunities.
+You can check your influence and reliability through the ISTARDUST Influencer Rank
+System, participate in various projects, and sponsor other Influencer Systems.
+If Influencer Systems meet certain criteria, they can create their own Creator Coins as
+content providers, and they can trade with other Influencer and fans.
+
+• Fair assessment and reliability through the Influencer Rank system
+• Support and reward the Creature Influencer on the ISTARDUST Platform
+• Find and connect new friends by country and city
+• Sell and purchase services on the ISTRADUST platform
+(Media commerce / Music / Game)
+• Real-time talks with Influencers worldwide via ISTRADUST Messenger
+(translation service provided)
+• Game, music, fashion, beauty, sponsorship, arts, business and entertainment
+total of eight categories of service
+
+9
+
+How to Use the ISTARDUST Platform
+
+Brand Project Progress Stage
+Brand Project
+Registration
+
+Influencer Campaign
+proposal
+
+Accepting Brand
+Proposals
+
+Start
+the brand Project
+
+1. The projects registered by the brand will be open to Influencers.
+2. After Influencer prepares a project proposal that meets the brand's requirements, apply.
+The brand will review various proposals and the project will proceed with final acceptance.
+3. After accepting the proposal, if you deposit the project amount, the Influencer Content
+will be created.
+
+4. Afterwards, marketing will be conducted through direct communication with Influencer.
+10
+
+ISTARDUST Platform Service
+
+11
+
+ISTARDUST Platform Use Cases
+1. Music
+#1. I am James, a composer. To complete the music I want, I need to play traditional
+instruments in Africa. However, it is not easy to find someone who plays an instrument.
+#2. I'm Akan. I'm one of those people who can play traditional African instruments. But not
+many people know of my existence. I'm more afraid of our music disappearing than being
+forgotten by people. I want to make an album once before I die.
+
+#3. I am Eric, a famous vocal trainer. Now I want to let the world know my voice. I was able to
+find a new project at ISTARDUST. This work will be released on my Instagram and YouTube.
+#4. Through ISTARDUST, influenza from all over the world began to take an interest in our
+project and supported it. And new contestants appeared. I will produce music videos and
+album designs based on our music.“
+#5. I'm Rick, the manager of the music distribution company. I want to distribute the music
+that Eric, James and Akan participated in on our site. I think the variety of music and contents
+created through ISTARDUST can transform the music industry.
+#6. Our project has been released worldwide through the ISTARDUST MUSIC. Many people
+listened to our music and shared our music profits with us and investors through ISTARDUST.
+And those who participated in our project were able to download our music for free and keep
+it.
+
+12
+
+ISTARDUST Platform Use Cases
+2. Fashion
+#1. Park Seung-woo, CEO of PLAC, who runs a jeans company, is planning a new design launch
+through a collaboration with new designers and artists, but he is having a hard time recruiting
+up-and-coming designers, artists and factories capable of producing small amounts of
+products.
+#2. Kim Jin, who runs a jean pants factory, has traditional manufacturing technology and
+newly developed technology, but has recently been having difficulty in supply and demand of
+
+clients due to the distribution structure that insists on a mass production system.
+#3. A graduate of FIT in the United States, LEAH wants to launch the brand of jeans he
+designed, but due to his lack of funds to address out-of-factory and distribution problems, he
+is wondering whether to withdraw the deposit from his home and invest in new business or
+get a loan from a bank.
+
+13
+
+ISTARDUST Platform Use Cases
+2. Fashion
+#4. A new project has been registered through Stardust. It's a new line of jeans to launch. Upand-coming designers and small-volume manufacturing companies were involved, and
+distribution was conducted through PLAC. The limited number of jeans to be produced is
+5,000 worldwide.
+#5. People all over the world became interested in the redesigned jeans and joined the
+project together. Fashion Influencer said they will market the brand of jeans that will be
+
+launched. And they were able to receive profits for the quantity sold through them.
+#6. The blue jeans produced were distributed through PLAC, and all quantities were quickly
+sold through SNS marketing through the Fashion Influenza. This allowed everyone involved in
+marketing and investment to receive a fair share of the proceeds, and each of the Influence
+companies involved in the project was ranked higher through their participation and results,
+so that they could receive additional tokens on the platform.
+
+14
+
+ISTARDUST Platform Use Cases
+3. Beauty
+#1. Irene, whose dream is to become a beauty YouTuber, participated in collaborative content
+production projects by famous brands and global beauty creators through ISTARDUST.
+#2. Through the progress of the brand project, we were able to succeed in producing our own
+content with support from the brand for the marketing costs needed to produce our own
+content.
+
+#3. With the success of the project, I was offered a product collaboration through cosmetics
+brand ISTARDUST. The limited edition collaboration product was supposed to be sold offline
+through the mall, but it was only 20 percent off at ISTARDUST Media Commerce.
+#5. Through ISTARDUST, Irene's cosmetics marketing was carried out as a new beauty
+influencers. Various contents have been produced through various SNS such as YouTube and
+Instagram.
+#6. Irene cosmetics were distributed back and forth through brands, and through various
+beauty influencer, they were able to sell all products quickly through SNS marketing effects.
+This enabled the provision of fair profits and special benefits to all those involved in marketing
+and projects.
+
+15
+
+ISTARDUST Platform Use Cases
+4. Entertainment
+#1. Kim Jie-ae graduated from the department of literary and artistic creation, and has already
+written a lot of various synopsis. However, he has delivered his work to many production and
+management agencies, but there is no reply. She posts her own scenario on Stardust, thinking
+deeply about whether she should continue writing in front of the reality that she doesn't even
+have a chance.
+#2. Choi Jin-haeng is already a famous film director in the movie field. Recently, it wants to
+expand its reach toward TV dramas, but it has been struggling with the formation of a closedminded community that rejects the entry of similar industries.
+#3. A new production company, Jung PD, is planning a web drama, looking for a good scenario
+and a new actor.
+#4. It is not easy to show one's acting skills because of the preconceived notion that a singerturned-actress will act.
+#5. Xiao of China is planning a web drama for his company in Korea. I'm looking for a scenario,
+a Korean actor and a Korean filming team. I want to find a funny story, a new image of an
+actor, and a talented filming team, but I have to figure out where and how to find it.
+#6. Scenario, actors, local filming and distribution for web drama production have been solved
+through ISTARDUST.
+#7. The web drama ended successfully, and it became the most viewed drama in China. Some
+of the proceeds from the drama were distributed to everyone who sponsored it through
+ISTARDUST.
+
+16
+
+ISTARDUST Platform Use Cases
+5. Art
+#1. I'm a drone photographer, Lee Hak-sung. I pride myself on my talent being superior to
+anyone's ability Under the theme of "Silver Nature," I want to host and exhibit the film in
+Russia's Siberian Snow Garden. However, it was not easy to invite models and exhibition
+spaces, so I registered with Stardust for the project and found people to work with.
+#2. I'm Danilova, a Russian fashion influencer.
+My friends and I decided to participate as models because there was a shooting in the Russian
+
+where I live.
+#3. The international conservation group has decided to invest in our project. It will proceed
+with marketing and campaigns based on content created through the project.
+#4. Amber, who runs a gallery in New York, got involved in the project while planning a new
+exhibition of photography, displayed her work in the gallery she runs and decided to donate
+part of the proceeds from the auction.
+#5. Through ISTARDUST, the company has launched a sales service for Russian Siberian images
+
+and photos created through the project.
+#6. Profits through ISTARDUST were fairly distributed to artists, project sponsors and
+international conservation groups.
+
+17
+
+ISTARDUST Function
+1. Influencer Rank System
+Anyone can be Influence if there's something that can influencer their talents, their goods,
+their ideas, their business, their distribution network, etc. Influencer can register your
+talents and other things in your profile.
+ISTARDUST's ranking system is not based on measurement items based on existing SNS
+subscribers, but is based on assessment by each category expert, advisor, and various
+Influencers. You can gain confidence over existing statistical figures. This allows Influencer
+to attract strong participation from other Influencer and advertisers.
+Influencer checks its status and receives its own coin generation authority available on the
+platform. This means that the rating will be raised from ordinary Influencer to Creator
+Influencer, and the company will have the right to generate profits.
+
+Profile
+registration
+SNS account authentication
+Talent registration
+
+Real-time
+check
+Platform manager / user
+
+Influencer rank
+determination
+
+Activity start
+
+Determining creator privileges
+
+18
+
+ISTARDUST Function
+1. Influencer Rank System
+
+RANK
+
+Percentage
+
+Platform Token (PT) Payment
+(Fluctuation by exchange token price)
+
+S
+
+★ more than 20
+
+20
+
+A
+
+★ more than 15
+
+15
+
+B
+
+★ more than 10
+
+10
+
+C
+
+★ more than 5
+
+5
+
+D
+
+★ more than 1
+
+4
+
+Indications are generated based on the talents of the Influencers, which are implemented
+through the Rank system and are based on the following criteria.. (Scatter scale ★★★★★)
+
+• Career (occupation, occupation, area of interest, etc.)
+• Talent result (content, achievement, physical property, human property, intellectual
+property, etc.)
+• SNS Fllowers (YouTube, Instagram, Facebook, etc.)
+• Expert evaluation
+• Evaluation of Other Influencers
+
+The Influencer Rank system evaluates your value and provides you with a token to work
+
+within the platform. The Rank system is updated regularly and serves as the basis for
+judging project participation with other Influencers.
+
+19
+
+ISTARDUST Function
+2. ISTARDUST Messenger – Communication System
+
+Chat and Call
+
+Game
+
+Remittance
+
+Individuals,
+Groups
+
+One person,
+Two people,
+PVP
+
+Individuals,
+Groups
+
+Translation service,
+Data call function
+
+Dapp external
+interlocks
+available
+
+ISTARDUST
+no fees
+
+Skin, Color, Etc
+change,
+Sticker service
+
+Item
+transaction
+
+Escrow service
+
+Transmission
+
+Voice message,
+Photographs,
+Videos,
+Sticker,
+GIF
+
+• Free communication with Influencers
+• Participation and sponsorship of various projects
+• Directly sponsored by Influencer (StarChat function)
+• Token management through electronic wallet
+• Project and Influencer search and recommendation service
+
+Through the ISTARDUST messenger, you can find Influencer for your interests or business
+connections, chat, participate in projects, call, and play games.
+In addition, the translation system will be linked together to ensure smooth
+communication with global Influencers.
+Influencers can sell their own emoticons, stickers, and so on, and can be purchased
+through the messenger through the ISTARDUST Coin and Platform Token. .
+Through ISTARDUST's AI system, you can receive recommendations for projects of interest,
+Influencer, and develop global Influencer Network.
+20
+
+ISTARDUST Function
+2. ISTARDUST Messenger – Payment System
+
+Chat and Call
+
+Game
+
+Remittance
+
+Individuals,
+Groups
+
+One person,
+Two people,
+PVP
+
+Individuals,
+Groups
+
+Translation service,
+Data call function
+
+Dapp external
+interlocks
+available
+
+ISTARDUST
+no fees
+
+Skin, Color, Etc
+change,
+Sticker service
+
+Item
+transaction
+
+Escrow service
+
+Transmission
+
+Voice message,
+Photographs,
+Videos,
+Sticker,
+GIF
+
+There is no fee for ISTARDUST's Creator Coin transfer between Influencer and ISTARDUST
+via Messenger.
+You can see a variety of projects and participate through the platform cash and the
+creator's coin You can also see additional rewards for projects you've promoted through
+social mining.
+Project funds are converted to coin through escrow service and can be guaranteed safety
+You can download various games reviewed by Influencers. You can also receive various
+additional rewards through game compensation, item trading, etc.
+Additional services for the ISTARDUST external platform (media commerce, music, and
+games) are provided through the messenger.
+You can use it.
+
+21
+
+ISTARDUST Function
+3. ISTARDUST Messenger – Sponsorship of Influencer and Project
+
+Real-time funding is possible through the ISTARDUST token to Influencer who stream live
+through the ISTARDUST messenger.
+It can be linked to various platforms where Influencer is broadcast live. Through
+ISTARDUST Messenger, chat rooms can be opened directly and connected to live
+broadcasts, and ISTARDUST users have no commission for sponsorship to the Influencer.
+Influencer can generate revenue based on sponsored tokens, which are cheaper than fees
+
+on other traditional platforms, and can also be paid to its fans.
+You can view various projects through the ISTARDUST Messenger, and you can directly
+participate and sponsor them via token. Through sponsorship and participation, Influencer
+can obtain platform activity points, which can be exchanged for token.
+
+22
+
+ISTARDUST Function
+4. ISTARDUST Media Commerce
+
+Products worldwide that need distribution and promotion through the ISTARDUST platform
+can be marketed through content collaboration with various Influencers.
+Content products reviewed by Influencers can be sold through ISTARDUST Media
+Commerce.
+Influencers can manufacture and sell their own products using their IPs.
+It also supports the launch of cosmetics and fashion brands through ISTARDUST.
+All products sold through the ISTARDUST platform are available through token and coin,
+and are available at a 20% lower price than the consumer price.
+
+23
+
+ISTARDUST Function
+5. ISTARDUST Music
+
+Through the ISTARDUST music platform, we work with music Influencers around the world
+to create a wide range of music sources.
+Through the platform, you can find all the resources and Influencer for making music such
+as songwriters, songwriters, chorus, choreographers, etc. In addition, you can create
+records through sponsorship and distribute and promote your own music streaming
+service.
+
+Music produced by Influencers can be sold through ISTARDUST MUSIC. All products sold
+are available through ISTARDUST token and coin, and are available at a 20% lower price
+than the consumer price.
+
+24
+
+ISTARDUST Function
+6. ISTARDUST Game
+
+The ISTARDUST gaming platform activates not only the various blockchain-based DApp
+games, but also the traditional gaming industry, and the ISTARDUST token makes it easy to
+pay for and enjoy a variety of game services.
+Glover game companies and Influencers can market together through review and
+participation in games.
+The elements needed to develop a game can be created by opening a project, and the
+
+resources, capital, publishers, Influencers, and marketing required for development can be
+easily configured.
+The various DApp service providers can provide their services to the Stardust platform's
+global Influencers and launch them through the game platform.
+
+25
+
+ISTARDUST Business Model
+
+External Platform
+
+Internal Platform
+Influencer
+
+Music content
+
+- Individual sponsorship and
+
+- Music release / Distribution and
+
+Periodic sponsorship
+
+publishing agents
+
+- Employment at Influencer
+
+- Fan-made concert agent
+
+Platform Usage Fee
+
+Video content
+
+- Premium service
+
+- Content External Platform Distribution
+
+(Manager management)
+- Mentor connection
+
+Fashion / Beauty Commerce
+
+Project Sponsorship
+
+- Brand mall dedicated to Influencer
+
+- Sponsored / Reward / Invested
+
+- Supports cosmetic / Fashion product launch
+
+Additional service
+
+Game
+
+- Project promotion / Data report
+
+- Item exchange
+
+- Emoticons, Stickers
+
+- Download the game.
+
+Payment
+- Simple Payment of ISTARPAY Cash
+
+26
+
+ISTARDUST Token Summary
+Methods of payment
+
+ETH, BTC
+
+Platform
+
+Ethereum
+
+Type
+
+ERC20
+
+Contract Address
+
+0xf2354F740f31704820f6FcfBA70B9dA065459b62
+
+Symbol
+
+ISDT
+
+Mining
+
+No Mechanical Mining
+
+Reward Mining
+
+reward mining by sponsorship,
+participate on influencer live content and event
+
+Decimals
+
+18
+
+Max Supply
+
+10,000,000,000 ISDT
+
+Private Sale Limit
+
+$100,000 per person
+
+Issuer
+
+LOUDLY SAGL
+
+Issuing Country
+
+Swiss
+
+Address
+
+Via Guglielmo Marconi 2 6900 Lugano
+
+Accounting Audit
+
+Auditing for ICO Funds usage breakdown
+
+Website
+
+www.istardust.io
+
+27
+
+ISTARDUST Token Sale
+Project funds secured through pre-sales are used for system development and operation,
+reserve funds for business development and securing intrinsic value of token, strategic
+investment, marketing and alliance cooperation for service activation, general
+management and reserve funds, etc. However, the use of the funds may vary depending
+on changes in market conditions such as listing and the direction of the project's
+implementation.
+
+•
+
+Sale (ICO, VC, Private) : 50%
+
+•
+
+Company Reserve: 20%
+
+•
+
+Reward : 15%
+
+•
+
+Development / Operation / Marketing : 10%
+
+•
+
+Team & Advisor : 5%
+
+28
+
+ISTARDUST Token Economy
+
+ISTARDUST Token Purpose
+
+Platform
+
+Influencer industry
+
+Utility
+
+Activation
+
+Convertibility
+through
+payment method
+
+ISTARDUST Token Acquisition
+By region of the world
+
+ISTARDUST Platform
+
+ISTARDUST Platform
+
+Join
+
+Platform activity
+
+Buy on
+the Exchange
+
+Project & content
+production
+and support
+
+Influencer
+sponsorship
+and donations
+
+Payment
+and transaction
+
+ISTARDUST
+Media Commerce
+
+ISTARDUST
+Music
+
+ISTARDUST
+Game
+
+ISTARDUST Using Tokens
+
+29
+
+ISTARDUST Ecosystem
+ISTARDUST TOKEN
+The ISTARDUST Ecosystem is centered on the ISTARDUST TOKEN.
+The ISTARDUST PLATFORM TOKEN (PT) is 1:1 exchange for the ISTARDUST TOKEN (ERC-20)
+on the blockchain.
+ISTARDUST TOKEN is a utility and platform call, which is necessary to use the services and
+functions that Influencers provide on the ISTARDUST platform.
+
+ISTARDUST TOKEN is an economic key value in the ISTARDUST Ecosystem.
+ISTARDUST TOKEN can only be used and traded through electronic wallets, including the
+ISTARDUST platform.
+You can exchange the ISTARDUST TOKEN with a Platform Cash (ICASH) or Creator Coin (CC)
+using the platform.
+Platform Cash (ICASH) can be purchased through traditional payment methods (credit card,
+Gift card, PayPal, etc.) and exchanged via the platform for ISTARDUST TOKEN.
+
+The total volume of the platform's ISTARDUST TOKEN does not exceed the total volume of
+the published ISTARDUST TOKEN.
+30
+
+ISTARDUST Ecosystem
+ISTARDUST ASSET FLOW STRUCTURE
+
+The green box shows the internal configuration of the ISTARDUST platform, which means
+the platform cash, the ISTARDUST Creator's Coin (iCC) for the sponsorship, donation and
+funding of each Creator Influencer, and the platform that responds 1:1 to the external
+blockchain's ISTARDUST TOKEN (SDT), and all of the platform (PT).
+In order to increase the utilization of ISTARDUST TOKEN issued in blockchain, the platform
+has been required to create a configuration to distinguish assets held in accordance with
+their respective Influencer roles.
+Notice that Platform Token (PT) has attracted ISTARDUST Token, which exists in the
+blockchain, into the Influencer platform with the same values and meanings.
+31
+
+ISTARDUST Ecosystem
+ISTARDUST PLATFORM STRUCTURE
+
+All Influencer Systems can purchase iCash, the platform cash.
+If you have the iSDT(ISTARDUST TOKEN), you can exchange PT, which is the platform token,
+to access inside the ISTARDUST platform, and purchase iCash, which is the platform cache
+with the exchanged PT.
+You can also purchase iCash directly through traditional cash payment methods.
+With iCash, the platform cash, you can purchase the individual creator coin (iCC) of Creator
+Influencer to participate in sponsorship, donation and cloud funding, and vice versa by
+purchasing a PT to convert it to ISTARDUST TOOKEN, iSDT.
+iCash is also available for all Influencer-related products, event products, and other media
+and shopping mall payments provided by the ISTARDUST platform.
+32
+
+ISTARDUST ECO-System
+ISTARDUST PLATFORM STRUCTURE
+
+The iCCs sponsored, donated, and funded by Creator Influencer can be converted to
+Platform Token (PT) and can be cashed differently than normal Influencer.
+If you purchase PT with iCC, you can exchange it with cash, ISTARDUST TOKEN, iCash, and
+use it both on and off the ISTARDUST platform. In addition, if you purchase PT with iCC, you
+can buy limited iCashbag points, which can be used to reward or buy limited or original
+creations of the Creator Influencer.
+In order to purchase PT by paying iCC, you must pay a fee for your own template existing
+on the platform, and the proceeds from the foundation will be used as a payment for
+ISTARDUST TOKEN's reserve and platform maintenance costs.
+
+33
+
+ISTARDUST_TREASURE HUNTER
+
+Absolute proliferation of subscribers and user influencer
+Approximately 800 million Treasure Hunters and Partners MCN influencers and Subscribers
+
+Platform Subscriber
+
+Token User Switching for
+
+Switching Rate
+
+Platform Subscribers
+
+0.01%
+
+10%
+
+2022. 1Q
+
+80,000
+
+8,000
+
+2022. 3Q
+
+160,000
+
+16,000
+
+2023. 1Q
+
+350,000
+
+35,000
+
+2023. 3Q
+
+800,000
+
+80,000
+
+Number of Influencer
+
+ISTARDUST Users
+800,000
+
+80,000
+
+350,000
+
+35,000
+
+160,000
+
+16,000
+
+80,000
+2020.1Q
+
+2022.1Q
+
+8,000
+2020.2Q
+
+2022.3Q
+
+2020.3Q
+
+2023.1Q
+
+2020.4Q
+
+2023.3Q
+
+2020.1Q
+
+2022.1Q
+
+2020.2Q
+
+2022.3Q
+
+2020.3Q
+
+2023.1Q
+
+2020.4Q
+
+2023.3Q
+
+34
+
+ISTARDUST_TREASURE HUNTER
+
+35
+
+ISTARDUST_TREASURE HUNTER
+
+36
+
+ISTARDUST_TREASURE HUNTER
+
+37
+
+ISTARDUST Road Map
+
+2021. 1Q
+
+STEP 1
+• Platform ver 1.0 Launch
+• Development of NFT
+
+STEP 2
+
+2021. 2Q
+
+• Platform Update (e-commerce service)
+
+• NFT Beta-test
+
+2021. 3Q
+
+STEP 3
+• Platform Update (project funding service)
+• NFT Launch
+
+STEP 4
+
+2021. 4Q
+
+• Platform update (game service)
+• NFT Expansion - Global influencers
+
+2022. 1Q
+
+STEP 5
+• Global Users 800,000
+
+STEP 6
+
+2022. 2Q
+
+• Global Users 1,000,000
+
+38
+
+ISTARDUST Partners
+
+39
+
+ISTARDUST Team
+
+CTO
+
+Co-CEO
+
+CEO
+
+Nathan Ryu
+
+Jaeyong Song
+
+Design & Publishing
+Team Manager
+
+Wonjin Choi
+
+Dongil Eom
+
+Development
+Team Manager
+
+Director of Payment
+
+General Accounts Director
+
+Seowoo Lee
+
+Kyoungmin Kim
+
+Lead Blockchain
+Developer
+
+Kunsik Song
+
+Sangil Han
+
+Project Manager
+
+Jinho Choi
+
+North America Director
+
+Southeast Asia Director
+
+Director of E-Commerce
+
+Shawn Kim
+
+Vince
+
+Junrae Choi
+
+Advisor
+
+Advisor
+
+Mike Chi
+
+Frank Fu
+
+40
+
+ISTARDUST Legal Immunity Clause
+
+This document is intended to provide information, including the ideas and technical details of ISTARDUST to
+unspecific people interested in ISTARDUST. The ISTARDUST Team carefully reviews the content and details the
+technical details to create the information contained in this document, and makes reasonable efforts to keep
+up to date with updates. However, this does not guarantee or claim that the ISTARDUST Team is accurate,
+complete, or otherwise accurate in any of the content related to this document.
+The content contained in this document is made at the time of creation, and not all or all of it is binding or
+obligated. Therefore, the ISTARDUST Team shall not be held liable for damages caused by the use or non-use,
+non-use, or inaccurate or incomplete information. In addition, the ISTARDUST Team is not responsible for any
+acts other than providing information for the purpose of this document.
+If conflicts exist in interpretation of other versions of this text, which are written in several languages other
+than Korean, the latest version of the Korean version has precedence. However, this should also not be
+understood as a guarantee of responsibility for the content of the Korean version.
+No information relating to the ISTARDUST COIN contained in this document may be copied, modified,
+distributed or provided to third parties without prior consent from the ISTARDUST Team.
+The 'predictive Information' contained in this document is information that has not been individually verified.
+This is not about past events, but about future events, and includes words such as 'expected', 'forecast', 'plan',
+and 'expectations'. The above 'forecasting information' is influenced by changes in the environment, which
+inherently implies uncertainty, which can cause significant differences in actual future performance from what
+is stated or implied in 'forecasting information'. Also, please understand that the future outlook is based on the
+date of data creation and considering the current market conditions and the development environment, which
+can be changed according to changes in the environment and strategy in the future, and without notice.
+The ISTARDUST Team shall not be held liable for any losses arising from the utilization of this material. In the
+event that the terms or expressions of this exemption from legal liability based on this document are contrary
+to the current statute, the terms and expressions shall remain in effect until the amendment, but shall remain
+valid for the remainder of the exemption.
+
+41
+
+THANK YOU
+
+ISTARDUST EXCHANGE PLATFORM
+
+

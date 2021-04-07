@@ -1,0 +1,213 @@
+Raydium Protocol Litepaper
+Raydium Team
+February 19, 2021
+Abstract
+In this paper, we propose Raydium, an automated market maker (AMM) built on
+the Solana blockchain which leverages the central order book of the Serum decentralized
+exchange (DEX) to enable lightning-fast trades, shared liquidity and new features for
+earning yield.
+
+1
+
+Background
+
+Decentralized Finance (DeFi) is currently experiencing exponential growth in terms of its
+offerings and user adoption. A diverse suite of financial instruments has been introduced
+onto various blockchains in a decentralized, highly-accessible and trustless manner. The
+total value locked in DeFi, as of 2021 February 18, has reached $42.18 billion, up from
+$1.077 billion a year before. [1] One of the most notable and heavily utilized instrument is
+Uniswap, a token exchange protocol on the Ethereum blockchain. [2] Its Automated Market
+Maker (AMM) utilizes the constant product formula [3] as such:
+Rα Rβ = k
+
+(1)
+
+where Rα and Rβ represents the number of tokens in the reserve, and k is the constant
+product.
+During a transaction trading ∆β amount of β for ∆α amount of α, with a percentage fee
+of (1 − γ) it must satisfy:
+(Rα − ∆α ) (Rβ + γ∆β ) = k
+
+(2)
+
+therefore the reserves would be updated as such: Rα →
+7 Rα − ∆α Rβ 7→ Rβ + ∆β , and
+k 7→ (Rα − ∆α ) (Rβ + ∆β )
+Thus, using the constant product invariant unlocks a gas-efficient way of automated
+exchange on Ethereum.
+1
+
+2
+
+Current Gaps
+
+As most DeFi token exchanges exist on the Ethereum blockchain, there are multiple inherent
+issues that make decentralized trading inaccessible for most users.
+1. High gas fees: At the time of writing, it costs over $100 to provide liquidity to an
+AMM pool, farm the LP token and harvest the reward.
+2. Speed: As the number of users grows rapidly, the underlying blockchain is increasingly
+congested. A user performing the above transaction would have spent on average 30
+minutes waiting for it to complete.
+3. Lack of limit orders: Traditional AMMs offer a way to set the number of tokens to be
+traded and a slippage value. If the conditions are unmet then the order and gas fee
+goes to waste instead of waiting for a transaction.
+4. Overlapping liquidity: Many DeFi AMMs have a huge overlap in their offerings.
+Traders should not pay for slippage because liquidity providers prefer one exchange
+over another.
+
+3
+
+Raydium
+
+Raydium is an automated market maker (AMM) built on the Solana blockchain which leverages the central order book of the Serum decentralized exchange (DEX) to enable lightningfast trades, shared liquidity and new features for earning yield.
+Solana was chosen as the underlying blockchain to allow for low-cost and high-speed
+transactions. It is a high-performance, permissionless blockchain based on Proof of History
+(PoH). [4] As of writing, it can handle 65,000 transactions per second with 400 millisecond
+block times. The protocol is designed to scale together hardware and bandwidth improvements, with capacity expected to double every 2 years.
+Raydium will be integrated into Project Serum, which is a decentralized exchange that
+supports trustless cross-chain trading. Despite being natively implemented on Solana, it will
+be interoperable with Ethereum. [5]
+To address the issues highlighted in the background, Raydium was built with the following
+features:
+
+3.1
+
+Orderbooks
+
+The orderbook shows available bid and offer prices between market participants. They give
+market participants the ability to express the number of tokens they are willing to trade at
+any price. Through the power of Serum, Raydium brings orderbooks back to AMMs.
+
+3.2
+
+Market making
+
+The bread and butter of Raydium. Raydium takes all the tokens accrued in its liquidity
+pools to place orders on the orderbook according to the constant product invariant.
+2
+
+3.3
+
+Coin Swaps
+
+For users who do not require the orderbook but enjoy cheap gas and low trading fees,
+Raydium has implemented this feature for users who just want to swap their tokens.
+
+3.4
+
+Farming
+
+Liquidity providers will be able to generate additional rewards for contributing. Key pools
+will be incentivized with RAY tokens.
+
+3.5
+
+Dual Reward Farming
+
+The Raydium community will govern the pools which receive farming rewards. Tokens which
+want to reward users for providing liquidity can also add additional reward tokens.
+
+4
+
+Features
+
+In this section, the features of Raydium are described in detail.
+
+4.1
+
+Orderbooks
+
+While the exchange itself is decentralized, the orderbooks are centralized on Serum. This
+means the orders submitted to the orderbook by Raydium can be transacted against by
+anyone on Serum and vice versa. This is unlike other AMMs which lack an order book to
+aggregate across liquidity pools. Raydium leverages existing Serum order flow as well as
+supplies the liquidity in its own pools, benefiting the entire ecosystem.
+
+4.2
+
+Market Making
+
+The purpose of market makers is to facilitate the process of finding a fair price for a product as
+well as to provide market participants with a trading partner. It is rewarded for each of these
+services. If the fair price is found, the market maker would earn the price difference between
+their bid and ask prices when participants trade against them. For providing liquidity the
+market maker earns a rebate fee from the exchange. Raydium is a pure market maker which
+takes the tokens locked in it to create a series of orders at different price points and sizes to
+provide liquidity. It creates orders using the constant product invariant. This equation has
+the special property that it is stateless and given any two tokens, without any information
+about their relative prices or value, it can provide “infinite” liquidity to traders. Raydium
+utilizes this equation and prices orders on the orderbook according to the Fibonacci sequence
+to provide up to 20 orders at a variety of prices. In the future, we expect other liquidity
+providing models to be employed to take advantage of oracles and increase liquidity usage.
+
+3
+
+4.3
+
+Swaps
+
+Raydium swaps will provide a simple, cost-effective and high-speed option for quickly swapping one token for another. While this is a standard feature available on other AMM platforms, the speed and efficiency at which it is executed will save significant costs for traders.
+For liquidity providers who frequently reallocate their assets to different pools the cost savings of swapping tokens will be significant, allowing for more opportunities and flexibility to
+take advantage of yield earning opportunities on Raydium.
+
+4.4
+
+Dual Reward Farming
+
+When tokens are added to a liquidity pool, Raydium issues a liquidity provider (LP) token
+to track what percentage of the pool the owner of this token represents. For certain pools
+decided by the Raydium community, these tokens can be farmed to return additional Raydium as rewards. In addition to this, projects can sponsor certain pools by adding tokens to
+a reward pool to further incentivize users. This helps new projects in two ways: users are
+further incentivized to hold project tokens and receive additional rewards while they provide
+further liquidity for these projects.
+
+5
+
+RAY Token
+
+5.1
+
+Utility
+
+The RAY token is anticipated to hold the following utility:
+1. Staking: Holders will be able to stake RAY tokens to generate additional yield earned
+from trading fees.
+2. The potential to stake RAY for additional multipliers on yield.
+3. Raydium is likely to also include a limited governance model allowing for stakers of
+RAY to participate and vote on community proposals and amendments.
+
+5.2
+
+Distribution
+
+The RAY distribution is projected as follows:
+• Max Supply: 555,000,000
+• Mining reserve: 34%
+• Partnership & Ecosystem: 30%
+• Team: 20% (Locked 1-3 years)
+• Liquidity: 8%
+• Community Pool: 6% (Locked 1 year)
+• Advisors: 2% (Locked 1-3 years)
+4
+
+References
+[1] DeFi Pulse. Feb 2018. DeFi Pulse Leaderboard https://defipulse.com/
+[2] Hayden
+A.
+2018.
+Uniswap
+Whitepaper
+@477aQ9OrQTCbVR3fq1Qzxg/HJ9jLsfTz?type=view
+
+https://hackmd.io/
+
+[3] Guillermo A, Hsien-Tang K, Rei C, Charlie N, Tarun C. Nov 2019. An analysis of
+Uniswap markets https://arxiv.org/abs/1911.03380
+[4] Anatoly Y. Solana: A new architecture for a high performance blockchain https://
+solana.com/solana-whitepaper.pdf
+[5] Serum Foundation. Jul 2020. Serum White Paper https://projectserum.com/serum_
+white_paper.pdf
+
+5
+
+

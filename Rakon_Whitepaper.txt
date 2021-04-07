@@ -1,0 +1,424 @@
+11/1/2019
+
+RKN
+TOKEN
+
+WHITE PAPER - VERSION 1.2
+
+Copyright Rkntoken.io | All Rights Reserved
+
+Legal Disclaimer
+This whitepaper has been prepared by "RKN Token" for the purposes of providing
+information on its projected business model and use case for its utility token ("RKN").
+This Whitepaper is provided for informational purposes only. The information contained
+in this Whitepaper is confidential and proprietary to the Company and is being submitted
+to you solely for your confidential use for evaluation purposes only, with the express
+understanding that without the prior written consent of the Company, you will not release
+the Whitepaper or discuss the information contained herein, or make reproductions of,
+or use this Whitepaper for any purpose other than evaluating a potential business
+relationship with the Company. Furthermore, by accepting delivery of this Whitepaper, you
+agree to promptly return to the Company, and destroy all copies in your possession, this
+Whitepaper and any other documents or information furnished by or on behalf of the
+Company, if you elect not to enter into a business relationship with the Company. A
+purchase of RKN tokens involves certain risks, especially the risk factors relating to any
+purchase of tokens. For greater certainty, this Whitepaper reflects information on the
+proposed business of RKN and is expressly not an offering of a financial investment. Any
+and all information contained in this Whitepaper may be updated, modified or amended
+at any time by RKN; as such, its completeness and factual accuracy is not guaranteed,
+and this information may change from time to time without notice. RKN does not
+undertake, and is not obligated to, provide readers with notice of any changes to the
+information herein. While RKN has endeavored to ensure that the information contained
+in this Whitepaper is accurate as at the time of publication, neither RKN , nor any of its
+officers, directors, employees, advisors, partners, or agents (the "RKN
+
+Representatives")
+
+make any representation or warranty, express or implied, or accept or will accept any
+responsibility or liability in relation to the accuracy or completeness of the information
+contained in this Whitepaper or any other written or oral information made available to
+any party. For greater certainty, RKN and the RKN Representatives expressly disclaim any
+and all responsibility for any direct or consequential loss or damage of any kind
+whatsoever arising directly or indirectly from:
+
+2 | Copyright Protected by rkntoken.io
+
+(i)
+
+Reliance on any information contained in this Whitepaper;
+
+(ii)
+
+Any error, omission or inaccuracy in any such information; or
+
+(iii)
+
+Any action resulting from such information.
+
+No representation or warranty is given as to the achievement or reasonableness of any
+future projections, estimates, prospects or returns contained in this Whitepaper. Readers
+should not construe the content of this Whitepaper, or any other communications by or
+on behalf of RKN or any of its advisors as financial, legal, tax or other advice.
+Accordingly, each reader of this Whitepaper should consult their own professional
+advisors as to financial, legal, tax and other matters concerning any potential
+participation in connection with the subject matter herein. Images used herein are for
+illustrative purposes only and are subject to all relevant international copyright and
+trademark laws and restrictions. Accordingly, this Whitepaper or any of its images, copy
+and material may not be reproduced without the prior, express written approval of RKN.
+Except for statements of historical fact, certain information contained herein constitutes
+Forward-Looking Statements which include, but are not limited to, statements related to
+activities, events or developments that RKN expects or anticipates will or may occur in
+the future, including the development and functionality of the RKN token, the RKN
+Platform and related services, to user adoption and experiences, context that may be
+offered on the RKN Platform, statements related to the Company’s business strategy,
+objectives and goals, and management’s assessment of future plans and operations
+which are based on current internal expectations, estimates, projections, assumptions
+and beliefs, which may prove to be incorrect. Forward-Looking Statements are often
+identified by the use of words such as "may", "will", "could", "would", "anticipate",
+"believe", "expect", "intend", "potential", "estimate", "budget", "scheduled", "plans",
+"planned", "forecasts", "goals” and similar expressions. Forward-Looking Statements are
+based on a number of factors and assumptions made by management and considered
+reasonable at the time such information was provided. Forward-Looking Statements
+involve known and unknown risks, uncertainties and other factors that may cause the
+
+3 | Copyright Protected by rkntoken.io
+
+actual results, performance or achievements to be materially different from those
+expressed or implied by the Forward-Looking Statements.
+
+1. KICK OFF:
+Everything started with an idea originated from the mind of a mysterious man, known as
+Satoshi Nakamoto with the release of a white paper followed by the first genesis block
+generated, represents the birth of blockchains. From doubts, speculations, hype & fear
+to a technology that revolutionized the world for forever. Bitcoin revolutionized the world
+and is globally recognized as Blockchain 1.0.
+The release of Ethereum white paper in 2004, represent a giant leap in blockchain through
+the introduction of smart contracts and their execution through virtual machines. Ethereum
+demonstrated the real–world application of blockchain technology.
+
+4 | Copyright Protected by rkntoken.io
+
+2. Understanding Of Blockchain Technology
+1. What is Blockchain??
+Blockchain is a method of storing information in the form of a chain of blocks.
+Each subsequent block references the previous one, so that the removal of the
+intermediate link invalidates the entire chain. Blockchain technology is used in
+modern solutions of distributed networks, when information is written to the chain
+by many participants, none of which can change the previously recorded data.
+This approach allows you to create reliable and transparent records of all
+transactions made on the network at the technological level.
+
+2. The Vision of RKN
+The vision of RKN is to build a trust-free and the preferred supplier to the
+Communications Infrastructure, Positioning, Aerospace and Defense markets with
+comprehensive application knowledge to enable transparent information flow and
+efficient collaboration.
+
+We live in a world of open, connected, global, free
+communication and information sharing.
+The open internet – a global, distributed network of computers that share common open
+software protocols has enabled billions of humans to connect and share information
+instantly, securely. The implications for the world have been profound, and are still
+unfolding.
+The invention of cryptographic assets and blockchain based computing and data sharing
+have ushered in the next major era of the open internet.
+
+5 | Copyright Protected by rkntoken.io
+
+We believe that RKN has all the necessary features to be a future part of web standards
+that has the capability to revolutionize the world. With the in mind, we are proud to
+announce “RKN Token” as a token to exchange in a secure, anonymous, opt in blockchain
+technology that aims at enriching the experience of the connected society by delivering
+innovative, highly reliable frequency control and timing solutions for infrastructure, satellite
+in space, or navigation devices.
+
+RKN Token is essential to realizing the full potential of block – chain technology in the
+world of frequency control and timing devices. RKN plans to create a network scheme to
+manage the creation, redemption, and flow to these assets in a way that is transparent
+to its users.
+In addition to governing and auditing network membership, RKN plans to provide
+technology to address price volatility and transaction scalability challenges on top of
+existing public blockchain infrastructure. Specifically, RKN plans to provide:
+•
+
+A mechanism for issuing members to mint and burn/redeem asset-backed “stable–
+coins,” to address price volatility;
+
+•
+
+Protocols to enable global stable–coin transaction interoperability on public block–
+chains using state channels for increased throughput and scalability;
+
+•
+
+Network membership rules and smart contracts to govern, audit, and manage the
+licensed network participants that mint, transact, and redeem stable-coins.
+
+3. The targeted market of RKN Ecosystem is:
+Global Positioning System:
+We have pioneered the most optimized way to design, manufacture and test oscillators
+to address the unique requirements of GNSS systems. No other company in the world
+can offer our products breadth, precision, innovation, and expertise in the field of GPS.
+
+6 | Copyright Protected by rkntoken.io
+
+In the corporate payments market, the fruit that hangs the lowest is in vendor payments,
+and in the ability to integrate verification into transactions. There have been several gig
+economy players expressing interest in using cryptocurrency for real-time payments for
+gig workers, while there have also been some inquiries among treasurers at larger
+corporations exploring the use of blockchain and cryptocurrency for things like foreign
+currency conversion and automatic sales tax calculations. RKN doesn’t yet operate in the
+B2B payments space. However, the company first rolled onto the scene as exclusive
+partner of Orbit Netwrok INC on ONCS project, allowing the firearms retailer to offer its
+own digital coin as a more secure form of payment. It automatically integrates compliance
+due diligence, like background checks and age requirement adherence, based on where
+sales are made — noting these security features in contrast with the reputation of crypto
+to provide anonymity in highly regulated industries like this.
+
+7 | Copyright Protected by rkntoken.io
+
+Telecommunication:
+
+With the exponential traffic growth in telecommunication, we enable our customers to
+build more reliable networks and systems supporting today’s precise timing standard. RKN
+provides some of the most advanced timing solutions and has led the world in enabling
+connectivity everywhere in a networked world.
+
+8 | Copyright Protected by rkntoken.io
+
+Internet of Things (IoT):
+
+With over 5 billion devices globally in 2015, IoT is the next big thing in technology and
+is expected to reach 20.8 billion connected devices by 2020. RKN is focused on delivering
+solutions for this growing and challenging market.
+
+Other Markets:
+RKN has an extensive portfolio of products for applications including the following: wireless
+control, test and measurement, smart power grids and metering, Machine to Machine
+(M2M) and the Internet of Things (IoT), avionics, airborne systems, communications, radars,
+submarines cable networks, oil exploration and other RF and digital applications requiring
+precise radio or data communications.
+
+9 | Copyright Protected by rkntoken.io
+
+4. 0.Distributed Business Ecosystem
+
+In this Era of heightened security, we are determined to design and manufacture
+frequency control solutions that will help organizations around the world to experience
+highly secured, synchronized and fast transaction systems that are crucial for the
+performance of critical applications.
+
+10 | Copyright Protected by rkntoken.io
+
+In the RKN platform, there are several main types of participants:
+
+1) Crypto Investors :
+2019 promises to be a crucial year for investors and the crypto space alike in
+the domain of digital currency. Join us as we continue to provide market-leading
+technology in the field of frequency control and timing solutions that will help
+you navigate the investment opportunities available as smartly, safely and
+securely as possible.
+
+2) Institutional Crypto Investor & Fund Managers :
+Cryptocurrency funds have emerged as an alternative to Institutional Investors
+and Fund Managers who prefer to pour-in more significant capitals into
+cryptocurrencies than average retail investors. RKN Token offers an effective
+approach for such investors to pause between periods of investment activity both
+short and long term, without completely exiting the crypto market. CRYPTO
+
+3) Various Organizations :
+Cryptocurrency funds have emerged as an alternative to Institutional Investors
+and Fund Managers who prefer to pour-in more significant capitals into
+cryptocurrencies than average.
+
+11 | Copyright Protected by rkntoken.io
+
+The "FUEL" in the Distributed Ecosystem – RKN Token
+1. The FUEL :
+In this Era
+frequency
+experience
+crucial for
+
+of heightened security, we are determined to design and manufacture
+control solutions that will help organizations around the world to
+highly secured, synchronized and fast communication systems that are
+the performance of critical applications.
+
+From the beginning, our vision was to create a truly reliable Cryptocurrency that
+will fundamentally revolutionize the way Frequency Control Products are engineered
+where speed and reliability are paramount. The outcome is "RKN Token – The FUEL
+of RKN Ecosystem" which will enrich the experience of the connected society by
+delivering innovative, highly reliable frequency control and timing solutions for
+infrastructure, satellites in space or navigation devices in communication forefront.
+RKN Token is the “Smart Money” or “Smart Value” in RKN Ecosystem which is
+programmable and executable in the smart contracts to carry on value transferring
+along with commercial activities running on RKN Blockchain.
+RKN Token can be bought through Initial Coin Offerings (ICO) or can be earned
+by promoting and lobbying for its adoption. Although, ICO contributors will have
+an immutable benefit, this will not be available to all the other holders of RKN
+Token.
+Simply join our newsletter for all the promotional updates.
+
+2. Stable-Coin Minting & Redemption Sequences:
+
+RKN Smart Contracts manage the minting and the redemption/burning of stablecoin, which can be used for both the exchange and wallet interoperability use
+cases. Customers who are on-board through a reliable token on ramp, such as
+web application created and maintained by a licensed RKN token issuing member,
+12 | Copyright Protected by rkntoken.io
+
+can transfer fiat funds into that RKN issuer’s account. The issuer then executes a
+series of commands with the RKN network to verify, mint, and validate fiat tokens
+pegged to the value of those deposited funds. The customers can then transfer
+those tokens elsewhere in order to use them. Redemption follows the reverse
+sequence. Upon successful verification and validation, funds from underlying fiat
+reserves would be transferred to the customer’s external bank.
+
+3. Wallet-to-Wallet Transaction Sequence:
+RKN can facilitate compliant, reliable, safe, high-speed transfers between
+individuals who use different wallet apps (like MetaMask, Ledger, Trezor (Upcoming))
+in shared as well as different cryptocurrencies without requiring private business
+development negotiations or using private networks.
+
+13 | Copyright Protected by rkntoken.io
+
+3. Public Blockchain Foundation
+
+14 | Copyright Protected by rkntoken.io
+
+The foundation devotes itself to the research, designing and manufacturing of highly
+accurate frequency control and timing solutions blockchain platform which is motivated
+on revolutionizing frequency control and timing ecosystem, enabling fraud free,
+transparent flow of sharing and transmission of values by all users and participants in
+the industry and a variety of blockchain based applications in this industry, promoting
+blockchain community ecosystem that is both secure and transparent.
+
+Board of Directors:
+
+Study and formulate long-term plans, manage the use of resources for the
+development of the RKN Token Platform, constitute regulations and
+management systems, analyses and approve the feasibility of new projects,
+and manage daily operations of RKN Public Blockchain.
+
+Risk Control Committee:
+
+Research and formulate risk control strategies, develop risk control
+standards, review overall operational risks, convene risk review meetings for
+projects and reveal the outcomes of reviews.
+
+Compensation and Personnel Committee:
+
+Formulate and modify remuneration, incentive programs, audit institutions
+and post settings, take charge of staff recruitment.
+Audit Committee:
+
+Responsible for operational audit, financial audit, and code audit.
+
+15 | Copyright Protected by rkntoken.io
+
+3. Organizational Structure and Advisors
+The RKN organization will be seeded with several key RKN employees who are
+determined to achieve success. This talent includes individuals in engineering,
+operations, business development, finance, and compliance. The RKN organization will
+be supported by a strong board of advisors with deep experience in internet platforms,
+protocols and consumer products, enterprise development, open source software, and
+deep expertise in cryptocurrency and blockchain technology.
+
+16 | Copyright Protected by rkntoken.io
+
+4. Technical Roadmap:
+
+17 | Copyright Protected by rkntoken.io
+
+The Roadmap of RKN technical development stated below complies with the vision and
+mission of RKN Blockchain:
+
+5. TOKEN LAUNCH
+
+Token Launch Summary:
+Launch date and time: March 15, 2019 at 00:00 UTC Time.
+Exchange rate: Token will have a launching price of 0.000001 ETH. (The rate can
+
+fluctuate depending on the market demand.)
+Token contract address: 0x6e5a43db10b04701385a34afb670e404bc7ea597
+Acceptable Currencies: Ethereum (ETH), Bitcoin (BTC)
+Token launch completion: Token launch will end when either the maximum number of
+ETH are raised. If less than the minimum ETH is raised, ETH can be retrieved by
+holders of RKN.
+
+Token Distribution:
+285,714,286 RKN Token will be issued in total with 85% distribution plan to be
+announced in White Paper Version 2.
+
+18 | Copyright Protected by rkntoken.io
+
+Fund Budgeting:
+RKN Ecosystem’s budget mainly includes day-to-day operations, technology development
+& research, business development and investment. The main categories are shown in
+the following table:
+CLASSIFICATION
+
+PERCENTAGE
+
+CONTENT
+
+Technology
+Development
+
+50%
+
+This mainly includes earnings for the technical team,
+recruitment of experts and developers, technical patent
+and protection of intellectual property rights
+
+Business
+Development
+
+30%
+
+RKN business engagement and development, knowledge
+exchange and sharing, regulation and compliance,
+alliance establishment and participation, etc.
+
+Investment
+
+10%
+
+RKN Incubation Program to support the other startups
+to build up business applications on RKN Blockchain or
+for collaborative purposes
+
+Daily Operation
+
+5%
+
+Daily administrative and operational tasks including,
+financial, reporting etc.
+
+19 | Copyright Protected by rkntoken.io
+
+6. Media Plan:
+For our Marketing Team, developing marketing strategy and implementing it are both
+equally important, though they think that developing the strategy is crucial phase as
+the whole outcome depends on. Although one cannot get best outcome from a
+strategy if it is not implemented in a scientific and modern way.
+
+7. Contract Integration:
+The valid contract address which can get integrated with RKN platform is assigned and
+validated by Etherscan.io platform which can be find as below:
+
+0x6e5a43db10b04701385a34afb670e404bc7ea597
+8.
+
+Disclosure:
+
+Once a year, the RKN Ecosystem/Foundation will share the progress and status of the
+business and technical development, operations, and future with the community. For the
+financial situation of the Foundation, the public financial report will be drafted and
+shared quarterly, and the work of the annual audit will be disclosed.
+The RKN Ecosystem/Foundation has established the Public Relations Committee, which
+serves as an external window for regular and irregular meetings, and will release
+important information to the public.
+
+20 | Copyright Protected by rkntoken.io
+
+

@@ -1,0 +1,265 @@
+cia l Ga mi ng Pla tfo rm
+A To ke n-B ase d Inc en tiv ize d So
+
+MultiCoin Gaming Center is a gaming platform for
+
+consumers/gamers across various blockchain ecosystems to
+play, socialize, and earning through playing and building the
+MCC ecosystem.
+
+1.
+MULTICOIN
+CASINO TOKEN (MCC)
+MULTICOIN CASINO (MCC) is the primary token that runs
+through the entire platform. MCC is M1 token issued on
+MCashChain and currently used on Multicoin.Poker, Maslott.com,
+Multicoin. Casino and many other games under the MultiCoin
+gaming ecosystem.
+
+Total supply of MCC is 100 billion tokens.
+MCC is stablecoin which the rate is ﬁxed at 100 MCC = 1 USDT.
+mMCC is the unit used in the games at which 1000 mMCC = 1 MCC.
+
+Deposits or withdrawals in BTC, ETH, LTC, XRP, BCH, MCash
+and MCC will convert to/from mMCC balance based on the market
+price (or our internal reserve).
+Part of house proﬁt will be used to periodically buy back and
+burn Multicoin Share token (MCS).
+
+01
+
+Multicoin casino token (MCC)
+
+2. MULTICOIN
+SHARE TOKEN (MCS)
+MULTICOIN SHARE (MCS) tokens are
+earned by playing games with MCC tokens.
+
+competitions, marketingand
+promotional partnerships.
+
+Total supply of MCS is 1 billion
+tokens, with 80% distributed as part
+of mining and airdrop system.
+
+MCS will also be airdropped to
+everyone who has at least 5000
+MCC tokens deposited in MultiCoin
+Casino and scales up in increments of
+5000 tokens.
+
+The remaining 20% of MCS is used for
+special events such as leaderboard
+
+For every MCS mined, all 1.00 MCS
+goes to the player. The player gets
+100% of the MCS that they mine. An
+extra 4/10 MCS is mined to the house
+and an extra 1/6 MCS is mined to the
+airdrop pool. Finally an extra 1/10 MCS
+is mined to the referrer (or to the
+airdrop pool if there is no referrer).
+
+02
+
+Multicoin share token (MCS)
+
+You can burn MCS for a share of the
+MCC Dividend Pool and other
+on-platform items.
+50% of house proﬁts (in MCC) from
+MultiCoin Gaming Center will be distributed weekly to all holders in proportion to their share of burned MCS
+tokens with no minimum or maximum needed to qualify.
+
+3.
+BUYING
+TOKENS
+UNIDEX Decentralized Exchange:
+www.unidex.market
+VINEX Exchange:
+www.vinex.network
+TVND Market Exchange:
+www.tvnd.market
+Coinhe:
+www.coinhe.io
+New exchanges will be added
+along the development pathway.
+
+03
+
+Buying token
+
+4.
+PL AYING
+IS MINI NG
+“Mining” is the term for playing the games in MultiCoin Gaming
+Center with MCC tokens to earn MCS tokens.
+As more MCS is mined the difﬁculty increases with a total of 80
+levels of difﬁculty.
+‘Mining boosts’ may be applied to tokens at our discretion.
+
+04
+
+Mining
+difﬁculty level
+
+Period
+
+To mine 1 MCS
+
+1
+
+The ﬁrst
+10 million MCS
+
+Play 1000
+MCC ($10.0)
+
+2
+
+The next
+10 million MCS
+
+Play 1050
+MCC ($10.5)
+
+3
+
+The next
+10 million MCS
+
+Play 1100
+MCC ($11.0)
+
+...
+
+...
+
+...
+
+79
+
+The next
+10 million MCS
+
+Play 4900
+MCC ($49.0)
+
+80
+
+The ﬁnal
+10 million MCS
+
+Play 4950
+MCC ($49.5)
+
+Playing is mining
+
+5.
+AIR D R O P
+From 10% to 15% of all mined MCS are put into a pool for
+airdrops to people who hold at least 5000 MCC in
+MultiCoin Gaming Center (refer to Section 2).
+Airdrops are based on deposited increments of 5000 MCC.
+For example holding 8000 MCC or 9999 MCC has the
+same level for airdrop.
+Airdrops are distributed from the pool daily.
+
+05
+04
+
+Airdrop
+
+6.
+MCC
+DIVI D END P OO L
+Players burn MCS tokens to gain a proportional share of the prize pool.
+Starting burn rate of MCS/share is 1000 (1 MCS = 1000 shares).
+
+03
+The rate
+will increase
+
+%
+
+%
+will be deducted
+
+temporarily to build a reserve
+bankroll and will be capped.
+Cap levels will depend
+on business levels.
+
+06
+
+MCC Dividend pool
+
+%
+of the pool will be
+
+distributed weekly to
+all holders in proportion
+to their share of burned
+MCS tokens.
+
+for each 1 million
+MCS burned.
+
+10
+
+A further
+
+Every week,
+
+The ﬁnal
+
+%
+will be put into
+the pool next week.
+
+7.
+DEVELO P E R
+FLATFOR M
+Multicoin Gaming Center will provide a platform
+for developers to build and integrate their games
+into the ecosystem. Multicoin Gaming Center will
+provide a set of tools and APIs for developers to
+interact with various site features including
+cross-chain token use, token and tokenized asset
+trading on the platform, account system, mining
+system, social system and much more.
+New projects can quickly gain a large player-base
+through promotion from Multicoin Gaming Center.
+
+07
+
+Developer ﬂatform
+
+8. R OAD M AP
+
+08
+
+Roadmap
+
+Q1/2020
+
+Multicoin Casino Beta Release
+Slots games release
+Dice games release
+
+Q2/2020
+
+Multicoin Share Reward
+system integration
+Referral system
+Chat room
+New in-house games
+New languages adding
+
+Q3/2020
+
+Sportsbetting
+Strategic partnership
+API access
+
+

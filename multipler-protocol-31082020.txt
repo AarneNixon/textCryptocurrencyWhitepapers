@@ -1,0 +1,682 @@
+Multiplier Protocol
+Simplified Stable Bonds (SSB)
+Version 2.0
+31/08/2020
+Author
+Multiplier Team
+https://multiplier.finance/about-us
+
+Table of Contents
+1.
+
+Introduction ............................................................................................................................................................ 2
+
+2.
+
+Multiplier Protocol .................................................................................................................................................. 2
+2.1 MXX Utility ............................................................................................................................................................. 2
+2.2 Simplified Stable Bonds (SSB) Contract ................................................................................................................. 3
+2.3 Simplified Stable Bonds (SSB) Contract Creation ................................................................................................... 3
+2.4 MXX Token Burn Mechanism................................................................................................................................. 5
+2.5 Early Redemption .................................................................................................................................................. 5
+2.6 Open Market.......................................................................................................................................................... 7
+2.7 Governance............................................................................................................................................................ 8
+
+3. Implementation and System Architecture .................................................................................................................. 8
+3.1 Implementation System Architecture.................................................................................................................... 8
+3.2 Price Feeds ........................................................................................................................................................... 10
+4.
+
+Token Economics .................................................................................................................................................. 10
+
+5.
+
+Roadmap ............................................................................................................................................................... 11
+
+6.
+
+Official Wallet Addresses ...................................................................................................................................... 11
+
+7.
+
+Disclaimers ............................................................................................................................................................ 12
+
+https://multiplier.finance/
+
+1
+
+1. Introduction
+Decentralized Finance (DeFi) is the merger of traditional banking services with decentralized technologies. Essentially,
+it involves a brand-new monetary system being built on public blockchains. Decentralization means that there is not a
+single point of failure, as identical records are kept across thousands of computers through a peer-to-peer network.
+Decentralized finance leverages on several key principles of the Ethereum blockchain
+-
+
+Huge and diverse range of ERC-20 digital assets.
+
+-
+
+Over USD 50 billion combined market cap of Ethereum ecosystem as of Q3 2020.
+
+-
+
+Utilising smart contracts to provide a fully secure, transparent and open decentralized financial system.
+
+With skyrocketing Ethereum fees and the exorbitant costs of interacting with DeFi smart contracts, the MXX protocol
+was designed to mitigate these gas fees through utilising ultra-efficient coding and optimisation architecture.
+Multiplier introduces Simplified Stable Bonds (SSB) contracts, that offer the full benefits of bonds in a simplified version.
+Users with Ethereum/ERC-20 digital assets can supply their tokens to the Multiplier protocol through SSB contracts as
+a source of stable returns, without having to manage their assets, fulfill loan requests or take speculative risks.
+
+2. Multiplier Protocol
+2.1 MXX Utility
+The MXX token represents ownership of the Multiplier ecosystem and is aggregated algorithmically according to
+liquidity contributed to the Multiplier platform, an application that facilitates the collateralisation where users can
+determine the tenure and interest rate on their underlying asset.
+The MXX protocol is audited, decentralised, open-sourced and publicly available. This provides support of public
+oversight and scrutiny of the entire ecosystem.
+MXX tokens are not pre-mined, and only minted through transactions that contribute to liquidity on the platform or a
+deposit that mints MXX tokens as a reward based on their underlying asset. Potential MXX holders are incentivised to
+mint MXX through transactions, and will have voting rights towards the governance of the network.
+
+https://multiplier.finance/
+
+2
+
+2.2 Simplified Stable Bonds (SSB) Contract
+SSB Contracts mint MXX tokens, offering users a stable yield for their underlying assets.
+Multiplier allows users to create their own SSB contracts where they can determine the tenure and interest rate that
+they want to earn on their underlying asset. Each SSB contract can have only one underlying asset. However, a user
+can create multiple contracts for different assets.
+There are no restrictions as to the number of contracts a user can create, subjected to the availability of the remaining
+MXX tokens that can be minted.
+
+2.3 Simplified Stable Bonds (SSB) Contract Creation
+For each SSB Contract created, users will need to provide a burn fee in the form of MXX. This burn fee will be sent to
+an official burn address, thus reducing the total token supply of MXX. This burn amount is currently set at 8% of their
+MXX returns.
+Tenure and Interest Rate is subjected to change and may vary.
+Tenure
+
+Day Count
+
+Interest Rate (APY)
+
+Contract Creation
+
+Effective Yield
+
+(MXX Burn Rate)
+3 months
+
+90
+
+200% p.a.
+
+8%
+
+184% p.a.
+
+6 months
+
+180
+
+400% p.a.
+
+8%
+
+368% p.a.
+
+9 months
+
+270
+
+1000% p.a.
+
+8%
+
+920% p.a.
+
+https://multiplier.finance/
+
+3
+
+Yield Chart
+1000%
+900%
+800%
+700%
+600%
+500%
+400%
+300%
+200%
+100%
+0%
+3 months
+
+6 months
+
+9 months
+
+Tenure
+Interest Rate (APY)
+
+Burn Fee (%)
+
+All pictures shown are for illustration purpose only. Actual product may vary due to product enhancement
+
+𝐵𝑢𝑟𝑛 𝐹𝑒𝑒 𝑅𝑎𝑡𝑒 = 8%
+
+𝐵𝑢𝑟𝑛 𝐹𝑒𝑒!"" =
+
+𝐴𝑠𝑠𝑒𝑡 𝑥 𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑅𝑎𝑡𝑒
+.
+𝑥 𝑇𝑒𝑛𝑜𝑟#$%& 8 𝑥 𝐵𝑢𝑟𝑛 𝐹𝑒𝑒 𝑅𝑎𝑡𝑒
+365
+𝑃𝑟𝑖𝑐𝑒 𝑜𝑓 𝑀𝑋𝑋 ∗
+
+*Refer to Section 3.2 Price Feeds
+
+Illustration
+John wants to create a contract with 25 ETH. He has indicated that he wishes his contract to have a 9-month (270
+days) tenure at an interest rate of 1000% p.a.
+Assuming the price of ETH is 400 USD and price of MXX is 0.05 USD
+𝐵𝑢𝑟𝑛 𝐹𝑒𝑒 𝑅𝑎𝑡𝑒 = 8%
+
+𝐵𝑢𝑟𝑛 𝐹𝑒𝑒!"" =
+
+10,000 𝑈𝑆𝐷 𝑥 1,000%
+.
+𝑥 2708 𝑥 8%
+365
+0.05 𝑈𝑆𝐷
+
+𝐵𝑢𝑟𝑛 𝐹𝑒𝑒!"" = 118,356.16 𝑀𝑋𝑋 𝑇𝑜𝑘𝑒𝑛𝑠
+
+John has to pay 118,356.16 MXX tokens to create the contract. Upon maturity, John will receive his principal of 25
+ETH plus interest of 1,479,452.05 MXX tokens.
+*Underlying protocol formulas are not fixed and might be subject to changes.
+
+https://multiplier.finance/
+
+4
+
+2.4 MXX Token Burn Mechanism
+There are 2 types of burn fees in the Multiplier ecosystem.
+•
+•
+
+Burn fee during contract creation
+Burn fee during contract early redemption
+
+The above burn fees are sent to the official burn address to be burned weekly, permanently reducing the maximum
+token supply.
+This process happens in the following stages:
+Stage 1: MXX is transferred to the official Burn Address 0x19B292c1a84379Aab41564283e7f75bF20e45f91
+Stage 2: The MXX in the Burn Address is periodically burned and announced publicly.
+Stage 3: The maximum supply of MXX tokens will be reduced accordingly on etherscan.io
+
+2.5 Early Redemption
+Users can choose to early terminate their SSB contracts prior to maturity. However, they will be subjected to a burn
+fee.
+The Burn Fee is calculated on the percentage of the current MXX minted throughout the contract.
+
+Early Redemption Burn Fee
+50%
+45%
+40%
+
+Burn Fee (%)
+
+35%
+30%
+25%
+20%
+15%
+10%
+5%
+0%
+Day 1
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Maturity
+Day
+
+Tenure
+
+All pictures shown are for illustration purpose only. Actual product may vary due to product enhancement
+
+https://multiplier.finance/
+
+5
+
+Legend:
+Let max = maximum burn rate = 50%
+Let Min = minimum burn rate = 5%
+Let Days = Day(s) into contract
+
+𝑀𝑎𝑥 − 𝑀𝑖𝑛
+𝐵𝑢𝑟𝑛 𝐹𝑒𝑒 𝑅𝑎𝑡𝑒 = 𝑀𝑎𝑥 − /
+3 𝑥 𝐷𝑎𝑦𝑠
+𝑇𝑒𝑛𝑜𝑟!"#$
+𝐵𝑢𝑟𝑛 𝐹𝑒𝑒 𝐴𝑚𝑜𝑢𝑛𝑡 = 𝐵𝑢𝑟𝑛 𝐹𝑒𝑒 𝑅𝑎𝑡𝑒 𝑥 𝑀𝑋𝑋 𝑚𝑖𝑛𝑡𝑒𝑑 𝑠𝑜 𝑓𝑎𝑟
+
+Illustration
+John has a contract with 25 ETH as underlying with a 9-month (270 days) tenure at an interest rate of 1000% p.a.
+John will receive 1,479,452.05 MXX upon maturity. However, 3 months (90 days) into the contract, John wishes to
+early terminate his contract as he needs to utilize his ETH.
+Assuming the price of ETH is 400 USD and price of MXX is 0.05 USD
+𝑀𝑎𝑥 − 𝑀𝑖𝑛
+𝐵𝑢𝑟𝑛 𝐹𝑒𝑒 𝑅𝑎𝑡𝑒 = 𝑀𝑎𝑥 − /
+3 𝑥 𝐷𝑎𝑦𝑠
+𝑇𝑒𝑛𝑜𝑟!"#$
+𝐵𝑢𝑟𝑛 𝐹𝑒𝑒 𝐴𝑚𝑜𝑢𝑛𝑡 = 𝐵𝑢𝑟𝑛 𝐹𝑒𝑒 𝑅𝑎𝑡𝑒 𝑥 𝑀𝑋𝑋 𝑚𝑖𝑛𝑡𝑒𝑑 𝑠𝑜 𝑓𝑎𝑟
+
+𝐵𝑢𝑟𝑛 𝐹𝑒𝑒 𝑅𝑎𝑡𝑒 = 50% − ?
+
+%&'%
+
+()& +"#$
+
+@ 𝑥 90 𝑑𝑎𝑦𝑠 = 35%
+
+𝐵𝑢𝑟𝑛 𝐹𝑒𝑒 𝐴𝑚𝑜𝑢𝑛𝑡 = 35% 𝑥 1,479,452.05 MXX 𝑥
+
+90
+270
+
+𝐵𝑢𝑟𝑛 𝐹𝑒𝑒 𝐴𝑚𝑜𝑢𝑛𝑡 = 172,602.74 𝑀𝑋𝑋
+
+John will receive his principal of 25 ETH plus remaining interest of 320,547.94 MXX tokens.
+*Underlying protocol formulas are not fixed and might be subject to changes.
+
+https://multiplier.finance/
+
+6
+
+2.6 Open Market
+SSB contracts that are early redeemed by previous users will be put up for listing in the Open Market. Users can choose
+to acquire these SSB contracts by putting up equivalent assets into the contract and continue to mint the remaining
+MXX in the contract till maturity. SSB contracts in the Open Market are on a first-come, first-served basis.
+
+𝐸𝑓𝑓𝑒𝑐𝑡𝑖𝑣𝑒 𝑌𝑖𝑒𝑙𝑑,--."/012+
+
+𝐶𝑜𝑛𝑡𝑟𝑎𝑐𝑡 𝑅𝑒𝑚𝑎𝑖𝑛𝑖𝑛𝑔 𝑀𝑋𝑋 𝑥 𝑃𝑟𝑖𝑐𝑒 𝑜𝑓𝑀𝑋𝑋
+S
+𝐴𝑠𝑠𝑒𝑡 𝑥 𝑃𝑟𝑖𝑐𝑒 𝑜𝑓 𝐴𝑠𝑠𝑒𝑡
+=
+𝑥 365 𝑑𝑎𝑦𝑠
+𝑅𝑒𝑚𝑎𝑖𝑛𝑖𝑛𝑔 𝐷𝑎𝑦𝑠 𝑡𝑖𝑙𝑙 𝑀𝑎𝑡𝑢𝑟𝑖𝑡𝑦
+O
+
+Illustration
+After John early redeems his contract, the contract will be automatically available on the Open Market for other users
+to re-acquire.
+The contract has a remaining tenure of 180 days (270 days – 90 days) and the MXX remaining to be minted is
+1,479,452.05 – 493,150.68 = 986,301.367 MXX tokens.
+Assuming Price of ETH remains at 400 USD and Price of MXX remains at US$0.05.
+
+𝐸𝑓𝑓𝑒𝑐𝑡𝑖𝑣𝑒 𝑌𝑖𝑒𝑙𝑑,--."/012+
+
+𝐸𝑓𝑓𝑒𝑐𝑡𝑖𝑣𝑒 𝑌𝑖𝑒𝑙𝑑,--."/012+
+
+O
+=T
+
+O
+=T
+
+𝐶𝑜𝑛𝑡𝑟𝑎𝑐𝑡 𝑅𝑒𝑚𝑎𝑖𝑛𝑖𝑛𝑔 𝑀𝑋𝑋 𝑥 𝑃𝑟𝑖𝑐𝑒 𝑜𝑓𝑀𝑋𝑋
+S 𝑥 100
+𝐴𝑠𝑠𝑒𝑡 𝑥 𝑃𝑟𝑖𝑐𝑒 𝑜𝑓 𝐴𝑠𝑠𝑒𝑡
+U 𝑥 365 𝑑𝑎𝑦𝑠
+𝑅𝑒𝑚𝑎𝑖𝑛𝑖𝑛𝑔 𝐷𝑎𝑦𝑠 𝑡𝑖𝑙𝑙 𝑀𝑎𝑡𝑢𝑟𝑖𝑡𝑦
+
+986,301.367 𝑀𝑋𝑋 𝑥 0.05 𝑈𝑆𝐷
+S 𝑥 100
+25 𝐸𝑇𝐻 𝑥 400 𝑈𝑆𝐷
+U 𝑥 365 𝑑𝑎𝑦𝑠 = 1000% 𝑝. 𝑎.
+180 𝑑𝑎𝑦𝑠
+
+*Underlying protocol formulas are not fixed and might be subject to changes.
+
+https://multiplier.finance/
+
+7
+
+2.7 Governance
+MXX tokens will carry voting rights for the governance of the network and will allow the protocol to gradually transit
+towards being entirely governed by the community.
+MXX holders are directly affected by protocol changes in the blockchain, and the governance token will give the
+community a voice as they can use their voting rights to make decisions on protocol developments. They will be able
+to present proposals to improve programs and other MXX holders with voting rights may choose to support them.
+The number of votes is proportional to their amount of MXX tokens. The move towards a decentralised governance
+process will protect investor interests, reduce systemic risk and increase long term utility of the protocol.
+We believe in (what we call) the Multiplier Effect, that decisions made by a large collective is better than decisions
+made by a single entity.
+Any MXX holder can make a proposal. MXX holders can use their MXX tokens to carry voting right for one or more
+proposals. A minimum of 50% vote nomination is required to pass a proposal.
+
+3. Implementation and System Architecture
+3.1 Implementation System Architecture
+The MXX protocol will allow users to create their own SSB contracts where they can determine the tenure and interest
+rate that they want to earn on their underlying asset. The protocol will be publicly available, open-sourced, and free
+to use.
+Functions
+
+Description
+
+createYieldContract(address _erc20Address, uint256 _collateral,
+uint16 _tenure)
+
+Allow users to create a contract using his/her ERC20
+collateral and specifying a tenure period.
+
+earlyRedeemContract(bytes32 _contractId)
+
+Allow users to early-redeem his/her contract.
+
+claimYieldContract(bytes32 _contractId)
+
+Allow users to claim his/her matured contract.
+
+https://multiplier.finance/
+
+8
+
+acquireYieldContract(bytes32 _contractId)
+updateMFactor(address _erc20Address, uint256 _mFactor)
+
+Allow users to acquire a contract from the Open Market.
+Allow smart contract owner to update the mint factor for
+the specified token.
+
+updateMFactorList(address[] memory _erc20AddressList,
+
+Allow smart contract owner to update the mint factors for
+
+uint256[] memory _mFactorList)
+
+a list of specified tokens.
+
+destroyOMContract(bytes32 _contractId)
+
+Allow smart contract owner to close a contract in the Open
+Market that is unacquired.
+Allow smart contract owner to withdraw MXX, in case the
+
+withdrawMXX(uint256 _amount)
+
+community votes to revoke a quantity of MXX supply in the
+smart contract.
+
+addErc20(address _erc20Address, uint256 _mFactor)
+
+Allow smart contract owner to add a new token to the
+platform.
+
+addErc20List(address[] memory _erc20AddressList, uint256
+
+Allow smart contract owner to add a list of new tokens to
+
+memory _mFactorList)
+
+the platform.
+
+removeErc20(address _erc20Address)
+
+Allow smart contract owner to remove a token from the
+platform.
+Allow smart contract owner to set the token’s validity. An
+
+setErc20Validity (address _erc20Address, bool isValid)
+
+invalid token cannot be used to create a new contract.
+However, all existing contracts can still be used until
+maturity.
+
+setInterest(uint256 _tenure, uint64 _interestRate)
+
+Allow smart contract owner to set tenure and interest rate.
+Allow smart contract owner to set the parameters such as:
+
+setParamType (ParamType _parameter, uint256 _value)
+
+https://multiplier.finance/
+
+•
+
+Burn fee
+
+•
+
+Minimum early redeem burn fee
+
+•
+
+Maximum early redeem burn fee
+
+•
+
+Total allocated MXX for the platform
+
+9
+
+3.2 Price Feeds
+Typically, a Price Oracle is used to retrieve the current exchange rate of each supported asset. However, it is also
+common that prices are manipulated by malicious actors to exploit the system. In order to avoid such an undesirable
+situation, MXX protocol will use an internal price factor (mFactor) for each asset instead of relying on a Price Oracle.
+Each assets’ mFactor will be provided and updated on a periodical basis. This mechanism provides a stable pricing and
+a fair system for all users.
+
+4. Token Economics
+Token issuance entity: Multiplier
+Token name: Multiplier Token
+Token ticker: MXX
+Token distribution mechanisms: No pre-mined, No pre-sale, and no ICO. Only through Minting
+Total token supply: 9,000,000,000 MXX
+Token address: https://etherscan.io/token/0x8a6f3bf52a26a21531514e23016eeae8ba7e7018
+Team allocation: 30% of total supply. Subject to 3-year vesting period
+Team allocation address: 0x48628Aa941722292eCf2169E6DAd958Bc62a93D0
+
+Team allocation vesting details:
+2.5% of total supply will be released every 3 months, over a span of 3 years.
+
+https://multiplier.finance/
+
+10
+
+5. Roadmap
+The proposed roadmap with previous milestones is shown below:
+
+Q4 2020
+
+•
+
+Community governance platform live.
+
+Q4 2020
+
+•
+
+Fully decentralised financial system and open-sourced.
+
+Q3 2020
+
+•
+
+DeFi Beta release. Codes are reviewed by external auditors.
+
+Q3 2020
+
+•
+•
+
+Opens Multiplier platform for MXX token minting.
+Lists MXX token on major exchange platforms and liquidity providers.
+
+Q2 2020
+
+•
+
+Rebranding and development of Multiplier platform.
+
+Q2 2020
+
+•
+
+Obtains Switzerland Self-Regulatory Organisation (SRO) VQF License Nr 10075 by
+FINMA.
+
+Q1 2020
+
+•
+
+Rolls out crypto lending platform.
+
+Q4 2019
+
+•
+
+Obtains Hong Kong SAR China NR. 1702/2019 Money Lenders License.
+
+6. Official Wallet Addresses
+MXX Token Smart Contract Address: 0x8a6f3bf52a26a21531514e23016eeae8ba7e7018
+Public Holding Wallet Address (Escrow 1 year): 0xF9822C484340f96BCf73835fC2f6a134e8A396f3
+Team Allocation Address : 0x48628Aa941722292eCf2169E6DAd958Bc62a93D0
+Burn Address: 0x19B292c1a84379Aab41564283e7f75bF20e45f91
+
+https://multiplier.finance/
+
+11
+
+7. Disclaimers
+Whitepaper
+This whitepaper is for informational purposes only and does not constitute any legal relations between you, Multiplier
+and any of its affiliates. This whitepaper is a working document that is subject to review and changes as required.
+
+Eligibility and Regulatory Approvals u
+No guarantees are provided for any prospective participants who wish to participate in Multiplier's token issuance, as
+laws and regulations relating to cryptocurrency are highly restrictive and relatively undeveloped. They are likely to be
+subject to regular changes and reviews by competent government authorities. Also, such laws and regulations are
+likely to vary significantly among various jurisdictions and are subject to significant uncertainty.
+Therefore, your ability to access marketplaces on which to trade MXX Tokens may be subject to new or changing laws
+and regulations or interpretations of existing laws and regulations and may adversely impact the liquidity and market
+price of MXX Tokens. The ability of a holder to access, use, transfer and exchange MXX Tokens may be affected by
+changes to legislation, regulatory guidance or actions, and judicial decisions. As such, there can be no assurance that
+any new or continuing regulatory scrutiny or initiatives will not have an adverse impact on the utility or value of MXX
+Tokens or otherwise impede the Issuer’s activities.
+
+Not a Sale of Security Tokens
+This whitepaper does not constitute a prospectus or financial service offering document and is not an offer to sell or
+solicitation of an offer to buy any security, investment products, regulated products or financial instruments in any
+jurisdiction. MXX tokens are not being structured or sold as securities.
+
+Legal Risks
+There is little or no precedent on how existing law might treat the issuance, fungibility, settlement finality, transfer,
+collateralisation, sequestration, loan, hypothecation, redemption or other disposition of MXX Tokens. There is also
+little or no precedent on how existing law might treat the rights and obligations between and among the Issuer and
+the MXX Token purchasers or holders. The occurrence of any related issue or dispute could have a material adverse
+https://multiplier.finance/
+
+12
+
+effect on the Multiplier Platform or the MXX Tokens. New developments in the law and regulations may also adversely
+affect the legal or regulatory treatment of the MXX Tokens or the Multiplier Platform and/or the Issuer’s businesses.
+
+Market Risks
+The market price and the value of cryptocurrencies and digital tokens can be extremely volatile. There can be no
+assurance that MXX Token holders will be able to receive a return of their capital or any returns or benefits. Purchasers
+and holders of MXX Tokens should assume the possibility of losing their entire investment or holdings in the MXX
+Tokens.
+No Representations
+No representations or warranties have been made to the recipient or its advisers as to the accuracy or completeness
+of the information, statements, opinions or matters (express or implied) arising out of, contained in or derived from
+this whitepaper or any omission from this document or of any other written or oral information or opinions provided
+now or in the future to any interested party or their advisers. No representation or warranty is given as to the
+achievement or reasonableness of any plans, future projections or prospects and nothing in this document is or should
+be relied upon as a promise or representation as to the future. To the fullest extent possible, all liability for any loss or
+damage of whatsoever kind (whether foreseeable or not) which may arise from any person acting on any information
+and opinions contained in this whitepaper or any information which is made available in connection with any further
+enquiries, notwithstanding any negligence, default or lack of care, is disclaimed.
+
+Forward-Looking Statements
+This whitepaper contains certain statements that are forward-looking, by their nature, subject to significant risks and
+uncertainties. Our forward-looking statements are based on information currently available to us about the business
+that we operate. Forward-looking statements may involve estimates and assumptions and are subject to risks,
+uncertainties and other factors beyond our control and prediction. Accordingly, these factors could cause actual results
+or outcomes that differ materially from those expressed in the forward-looking statements. Any forward-looking
+statement speaks only as of the date of which such statement is made, we undertake no obligation to update any
+forward-looking statements to reflect events or circumstances after the date on which such statement is made or to
+reflect the occurrence of unanticipated events.
+
+https://multiplier.finance/
+
+13
+
+Third Party Data
+This whitepaper contains data and references obtained from third party sources. While the management believes that
+these data are accurate and reliable, they have not been subject to independent audit, verification, or analysis by any
+professional legal, accounting, engineering, or financial advisors. There is no assurance as to the accuracy, reliability
+or completeness of the data.
+
+Translations
+This whitepaper and related materials are issued in English. Any translation is for reference purposes only and is not
+certified by any person. No assurance can be made as to the accuracy and completeness of any translations. If there
+is any inconsistency between a translation and the English version of this whitepaper, the English version prevails.
+
+Restricted Transmission
+This whitepaper must not be taken or transmitted to any jurisdiction where distribution or dissemination of this
+whitepaper is prohibited or restricted. The views and opinions expressed in this whitepaper are those of Multiplier’s
+and do not reflect the official policy or position of any government, quasi-government, authority or public body
+(including but not limited to any regulatory body of any jurisdiction) in any jurisdiction.
+
+Third Party References
+References in this whitepaper to specific companies, networks and/ or potential use cases are for illustrative purposes
+only. The use of any company and/or platform names and trademarks does not imply any affiliation with, or
+endorsement by, any of those parties. All references to ‘dollars’, USD or ‘$’ are references to United States dollars
+unless otherwise stated.
+
+Graphics
+All graphics included in this whitepaper are for illustrative purpose only. In particular, graphics with price reference do
+not translate into actual pricing information.
+
+https://multiplier.finance/
+
+14
+
+Risk Statements
+Purchasing MXX tokens involves substantial risk and may lead to a loss of a substantial or entire amount of the money
+involved. Prior to purchasing MXX tokens, you should carefully assess and take into account the risks, including those
+listed in any other documentation. A purchaser should not purchase MXX tokens for speculative or investment
+purposes. Purchasers should only purchase MXX tokens if they fully understand the nature of the MXX tokens and
+accept the risks inherent to the MXX tokens.
+
+No Advice
+The information contained in this whitepaper is for general information only. It should not be taken as constituting
+professional advice from us. Multiplier are not legal or financial advisers. You should consider seeking independent
+legal, financial, taxation or other advice to check how this whitepaper information relates to your unique personal
+circumstances. Multiplier and its affiliates are not liable for any losses caused, whether due to negligence or otherwise
+arising from the use of, or reliance on, the information provided directly or indirectly, by use of this whitepaper.
+
+https://multiplier.finance/
+
+15
+
+

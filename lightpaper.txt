@@ -1,0 +1,929 @@
+RISE Lightpaper V1
+An ecosystem for developers
+
+RISE offers a platform for Decentralized Applications (DAPPs), powered by
+a community driven Delegated Proof of Stake (DPOS) blockchain.
+
+2
+
+Background
+
+6
+
+1.0 Introduction to RISE
+
+7
+
+1.1 Vision
+
+7
+
+1.2 Problems RISE Aims to Address
+
+7
+
+1.2.1 Limited Blockchain Development Technology and Knowledge
+
+8
+
+1.2.2 Scalability of Blockchain Solutions
+
+9
+
+1.3 Who Would Use RISE Technology?
+
+10
+
+1.3.1 New Startups
+
+10
+
+1.3.2 SMEs
+
+10
+
+1.3.3 Blockchain Proof of Concept Teams
+
+10
+
+2.0 Decentralized Applications (DAPPs)
+
+11
+
+3.0 RISE Blockchain Protocol
+
+13
+
+3.1 RISE Delegated Proof of Stake
+
+13
+
+3.2 Delegates
+
+14
+
+3.3 Forging
+
+14
+
+3.4 Block Rewards and Reduction Schedule
+
+15
+
+3.5 RISE Network
+
+15
+
+3.6 Network Specifications
+
+15
+
+3.7 Network Fees
+
+15
+
+3.8 RISE Accounts
+
+17
+
+3.9 RISE Client/Web Wallet
+
+17
+
+3.10 RISE Performance (Transactions Per Second)
+
+18
+
+3.11 Atomic Block Processing
+
+20
+
+3.12 Dynamic Fees
+
+20
+
+4.0 RISE Developer Tools
+
+21
+
+4.1 API (Application Programming Interface) Libraries
+
+21
+
+4.2 Software Development Kit
+
+21
+
+4.3 RISE Technology Stack
+
+22
+
+4.3.1 Typescript Codebase
+
+22
+
+4.3.2 Node.js
+
+23
+
+4.3.3 PostgreSQL
+
+23
+
+4.3.4 Peer to Peer Communication via HTTP
+
+23
+
+5.0 Sidechain Technology / Build Your Own Blockchain
+
+24
+
+5.1 Building Blocks
+
+24
+3
+
+5.2 WordPress As An Inspiration
+
+25
+
+5.3 Tokens
+
+26
+
+5.3.1 Token Creation
+
+26
+
+5.3.2 Token Life and Management
+
+26
+
+5.3.3 Token Transfers
+
+27
+
+6.0 RISE Resources
+
+29
+
+4
+
+Abstract
+RISE is a community-driven Delegated Proof of Stake blockchain ecosystem, using the
+RISE utility token to access RISE technology. RISE has been created by developers for
+developers to build on blockchain technology. This paper describes the core features of
+RISE technology and blockchain protocol, including the status of development for each
+feature.
+RISE aims to enable developers with technology to create their own customisable
+DPOS blockchain ecosystem, in programming languages and concepts widely used in
+web development. RISE blockchain technology is developed by experienced web
+developers and intends to improve upon existing blockchain projects created before it.
+Supporting references in this paper will be derived from existing research and the
+primary technical experience from core developers building RISE technology. Refer to
+https://github.com/RiseVision​ for the RISE source code​.
+
+5
+
+Background
+In 2008/2009, the bitcoin network was developed as a peer to peer payment network
+operating a cryptographic protocol.1 The application running on the bitcoin network was
+Bitcoin, a digital currency. The bitcoin network uses a Proof of Work consensus
+mechanism, which is known to have high energy consumption and slow transaction
+speed.
+In 2013, Ethereum was proposed as an alternative blockchain platform for decentralized
+applications to execute smart contracts.2 Ethereum currently uses a Proof of Work
+consensus mechanism, but will be migrating to Proof of Stake through the development
+of the Casper project.
+In the same year, Delegated Proof of Stake as a consensus mechanism was developed
+to be one of the fastest, most efficient, most decentralized, and most flexible consensus
+models available.3 Applications with high user adoption that implemented Delegated
+Proof of Stake are Steemit4 and Bitshares5.
+In 2016, the RISE Delegated Proof of Stake network was created. A community driven
+blockchain, that is eco-friendly and decentralized through allowing RISE holders to
+contribute to the network by voting in 101 block producers, known as Delegates, based
+on amount of RISE staked in their wallets. RISE aims to enable web developers to build
+decentralized applications with popular programming languages using RISE technology.
+
+​Bitcoin: A Peer to Peer Electronic Cash System. Satoshi Nakamoto​.
+​Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform​.
+3
+​Delegated Proof of Stake Consensus. Bitshares.
+4
+​Steem Whitepaper.
+5
+​Bitshares.org.
+1
+2
+
+6
+
+1.0 Introduction to RISE
+RISE is a community-driven blockchain ecosystem, written in TypeScript, for the
+development of decentralized applications. The RISE blockchain operates a Delegated
+Proof of Stake consensus mechanism, which is in mainnet. Furthermore, RISE is a
+utility token used within the RISE blockchain network for access to the software,
+security features and transaction fees.
+
+1.1 Vision
+T​he vision of RISE is to enable developers with technology to create their own
+customisable DPOS blockchain ecosystem, in programming languages and concepts
+widely used in web development.
+
+1.2 Problems RISE Aims to Address
+According to Evans Data Corp it is estimated that there are 23 million software
+developers globally.6 The demand for developers will increase exponentially over the
+next decade as every single industry becomes more reliant on technology everyday.7
+Furthermore, DataUSA found that software (applications & systems) developers
+account for approximately 1.26 million of the total workforce in the United States with a
+projection of 17.8% growth over the next 10 years.8 As of 2017, the global blockchain
+technology market is predicted to reach 339.5 million U.S. dollars in size and is forecast
+to grow to 2.3 billion U.S. dollars by 2021.9 Gartner uses forecasting methodology to
+quantify the value of technology innovation and predicts that the business value-add of
+blockchain will grow to more than $176 billion by 2025, and then it will exceed $3.1
+trillion by 2030.10 This emerging market with great expected valuation requires the skills
+and talent to achieve the anticipated results. Nick Szabo, the initial founder of the
+concept and phrase ‘smart contracts’, believes there is an extreme ‘$/knowledge’ ratio,
+​Global Developer Population and Demographic Study 2018 Vol. 1. Evans Data Corp​.
+​Will The Demand For Developers Continue To Increase? Forbes.
+8
+​Software Developers, Applications & Systems Software. USADATA​.
+9
+​Size of the blockchain technology market worldwide from 2016 to 2021 (in million U.S. dollars). Statista,
+2018.
+10
+​Forecast: Blockchain Business Value, Worldwide, 2017-2030. Gartner, 2017.
+6
+7
+
+7
+
+where capital outweighs talent.11 Developers with blockchain skills are highly sought
+after in 2018 and will continue to be as the market develops and more business adopt
+blockchain technology. In 2017, the GitHub reached 24 million developers with open
+source projects written in over 337 unique programming languages. Github highlighted
+that the most popular languages were JavaScript, Python, JAVA and the fastest
+growing in popularity was TypeScript.12 RISE core codebase is written in TypeScript and
+RISE technology will be developed with popular programming languages and concepts
+used in web development.
+
+1.2.1 Limited Blockchain Development Technology and Knowledge
+There is a higher barrier to entry for web developers due to blockchain technology itself.
+Most well known and longest running blockchain technologies use C++ or Solidity,
+influenced by ​JavaScript​, ​C++​, ​Python​, ​PowerShell​. There are also new experimental
+programming languages being designed for blockchain technologies and smart
+contracts, such as Vyper.13 With these new and complex programming languages,
+developers could find the process frustrating and eventually desist exploring blockchain
+technologies.
+RISE technology is built using only widely known concepts and web technologies such
+as, TypeScript/JavaScript, SQL Database and HTTP for the communication layer.
+TypeScript is a more robust language for blockchain technology to be written in as it
+provides optional static typing, classes and interfaces.14 TypeScript is known to be the
+chosen language for large web projects and web developers see the benefits of a
+TypeScript codebase over JavaScript. Another benefit of TypeScript is that it compiles
+to JavaScript, therefore developers have the option to develop in either language. With
+this flexibility, the developer communities that can use RISE technology is even greater
+than before, ultimately increasing adoption of blockchain technology.
+
+​Blockchain Engineers are in demand. Techcrunch, 2018​.
+​The State of the Octoverse 2017. Github.
+13
+​Ethereum Vyper.
+14
+​TypeScript - JavaScript That Scale. Microsoft​.
+11
+12
+
+8
+
+1.2.2 Scalability of Blockchain Solutions
+One of the most prevalent problems faced by many blockchain solutions is scalability
+with regards to transaction throughput. According to a thesis by Tetras Capital, there is
+currently no DApp that has more than 5,000 Daily Active Users or 50,000 daily
+transactions.15 There is a need for a blockchain solution to accommodate an increase in
+user adoption and modules to customise scalability features such as block producers
+and transaction throughput as required by individual applications. Vitalik Buterin first
+addressed the pursuit of decentralization, security and scalability with the concept
+known as the ‘scalability trilemma’. At present most existing technology either is
+decentralized and secure or scalable which compromises decentralization to an extent.
+16
+A solution for this issue is Delegated Proof of Stake and the RISE protocol of 101
+block producers which ensures scalability without compromising security.
+Decentralization is achieved through each RISE holder having one vote per wallet to
+contribute to electing block producers and network validators. Bad actors can easily
+lose their position as a validator in the network through flexibility of the network, as
+opposed to relying on processing power from a central entity.
+
+15
+16
+
+​Ether (ETH) Bearish Thesis: The “Flippening” of Market Irrationality. Tetras Capital, 2018​.
+​Blockchains and the Scalability Problem. CryptoPotato, 2018​.
+
+9
+
+1.3 Who Would Use RISE Technology?
+RISE technology is primarily built for developers familiar with web development
+programming languages and concepts. At the foundation of any technology business
+and their objectives to have a DPOS blockchain ecosystem will be a developer or
+development team familiar with the RISE technology stack. RISE technology will be
+customisable and therefore, applicable across a wide range of industries and
+companies.
+
+1.3.1 New Startups
+New young companies or startups, beginning to develop their ideas and products would
+be ideal adopters of RISE technology. These startups tend to be small with a few
+founders or developers and agile in their approach to development, testing and taking
+their product to market.17 As smaller companies have less manpower and financing, a
+smart approach would be to use RISE technology to develop their blockchain based
+decentralized applications.
+
+1.3.2 SMEs
+Small to medium sized enterprises tend to have smaller budgets for exploring new
+technology. However, they are some of the first to innovate. Therefore, technology
+teams at SMEs may look to open source technology that they can adopt and customise.
+Across the European Union, small to medium sized enterprises account for nearly 99%
+of all businesses.18
+
+1.3.3 Blockchain Proof of Concept Teams
+Larger businesses may wish to explore RISE technology as a Proof of Concept to
+address specific business objectives. These endeavours are highly likely to be
+experimental pilot projects incubated within established businesses aiming to transition
+to blockchain technologies or create new applications as part of existing technology
+offerings. Enterprise businesses are presently being serviced by enterprise-level
+
+17
+18
+
+​What is a startup? Investopedia.
+​What is an SME? European Commission.
+
+10
+
+technology providers, such as IBM, Microsoft, Accenture, SAP, Deloitte and PWC.19 A
+survey conducted by Deloitte found that 40% of enterprises will invest $5 million or more
+in blockchain technology in the near future.20 RISE believes there are larger businesses
+that want to move towards blockchain technology for specific use cases, however, not
+all businesses are able to allocate the budget that enterprise-level service providers
+demand. Top blockchain use cases are still identifiable as supply chain, Internet of
+Things projects, digital records, payments applications, and digital currency, however,
+the survey found that 22% of enterprise respondents lack a compelling application to
+justify implementation. Although larger businesses are more established and stable,
+they face larger obstacles to innovate. These barriers to innovation can range from
+politics, culture, inability to act on signals crucial to the future of the business, lack of
+budget and strategy.21
+
+2.0 Decentralized Applications (DAPPs)
+Decentralized Applications, also known as DAPPs, are applications running on peer to
+peer network and not controlled by a single entity.22 Not all decentralized applications
+(for example, BitTorrent, BitMessage, Tor) run on blockchain. However, RISE and its
+developer tools will provide developers seeking to create DAPPS are based on RISE
+blockchain technology. For a blockchain based application to be considered a DAPP, it
+must embody the following characteristics:
+- Open-source - operating autonomously and available for adaptation of the
+protocol based on proposed improvements and feedback.
+- Blockchain powered - data must be cryptographically stored in a public,
+decentralized blockchain, avoiding single points of failure.
+- Tokenization - access to the application and any reward for contribution to the
+network requires a token.
+- Cryptographic Algorithm - token generation according to proof that nodes are
+contributing to the network. Bitcoin uses Proof of Work. RISE uses Delegated
+Proof of Stake. 23
+​Enterprise blockchain solutions: Know the major players​.
+​ConsenSys, Deloitte, and SAP Tip Enterprise Blockchain Moves​.
+21
+​The Biggest Obstacles to Innovation in Large Companies. Harvard Business Review​.
+22
+​What is a DAPP? Ethereum Stack Exchange.
+23
+​The General Theory of Decentralized Applications, Dapps. David Johnston et. al​.
+19
+20
+
+11
+
+RISE will enable developers to create DAPPs with RISE developer tools in
+programming languages and concepts familiar to web developers.
+
+12
+
+3.0 RISE Blockchain​ Protocol
+Status: Live
+
+3.1 RISE Delegated Proof of Stake
+RISE operates a Delegated Proof of Stake (DPOS) consensus mechanism.
+RISE DPOS requires Delegates to produce blocks. Delegates are accounts that are
+elected to be ‘Active Delegates’ by the RISE community. The Delegate accounts with
+the most weighted votes according to the total RISE voted, can create new blocks in the
+blockchain. The RISE network allows for 101 active Delegates to be elected block
+producers. Delegates that fall outside the 101 are listed as ‘Standby Delegates’, and
+can advance to the active list by receiving votes from other RISE holders. All users of
+RISE have one vote available per wallet to elect their chosen delegate. The weight of
+each vote is proportional to the amount of RISE the user has in the wallet the votes are
+cast from.
+Delegate promotion to the active list or demotion to the standby list happens at the
+completion of the block generation cycle. Each round (cycle of blocks) is created by the
+top delegates in a deterministically computed order at each round end (block cycle end).
+The block time is 30 seconds. Newly created blocks are broadcast to the network and
+added to the blockchain. A transaction can be considered confirmed after one block has
+included the transaction. However, after six or more confirmations, the transaction is
+considered securely confirmed. The round (block cycle) must complete 101 blocks,
+which is the number of active delegates. Assuming all active delegates are fully
+productive, the round time will use this logic:
+101*blockTime => 101*30secs
+In DPOS, forks can occur, but the longest fork wins. A fork is a change to the protocol,
+or a divergence from the previous version of the blockchain. Delegates must be online
+at all times and have sufficient uptime. Uptime is used to catalogue the reliability of a
+node by logging each time that it misses a block that was assigned to it.
+
+13
+
+Delegates can be removed, or demoted from active delegate to standby delegate, by
+being unvoted, if they miss blocks, or if they are not on the same blockchain as the
+majority of the rest of the delegates. There is no autoexclusion mechanism for
+delegates. When a delegate is removed, it must correct its blockchain to the one of the
+majority, and have more votes than the delegate that replaced them, to be placed back
+in the 101 block generation cycle.
+
+3.2 Delegates
+To become a Delegate, a user must register a Delegate account. This can be
+accomplished from the user’s RISE wallet. The account address will be the same after
+the delegate registration. All RISE accounts are eligible to become delegates and
+register corresponding usernames.
+New delegates begin as standby delegates. Standby delegates begin with an approval
+rating of 0% and will need to accrue votes from the RISE community in order to
+advance to be one of the top 101 delegates. Block generation is performed by the top
+101 delegates only. If you are in standby status, you will not forge any blocks.
+In the future, the 101 limit can be revised to increase the number of active delegates
+and add greater responsibilities for standby delegates. The role active and standby
+delegates play in the network, ultimately increases decentralization.
+
+3.3 Forging
+Forging is another term for block generation in the RISE network. For those familiar with
+Bitcoin, forging is comparable to mining. Every RISE account can enable forging, but
+only the elected 101 active Delegates will actually forge and be awarded RISE for
+generating blocks. Forging can be enabled by running a full node with RISE software.
+Standby Delegates, or other node operators, will still validate the work from the active
+Delegates. If a Delegate misbehaves other nodes will not accept the forged block. This
+facilitates decentralization and discourages Delegates intending to misbehave, or act in
+cartel like operations, from changing rules in their favour.
+
+14
+
+3.4 Block Rewards and Reduction Schedule
+Prior to block 1054080, 16th June 2018, each block produced 15 RISE. Since block
+1054080, each block produces 12 RISE. The timeline for block reward reductions is
+outlined below:
+Year 1:
+Year 2:
+Year 3:
+Year 4:
+Year 5:
+Year 6+:
+
+15 RISE per block (14.33% inflation)
+12 RISE per block (10.03% inflation) reduced at block 1054080
+9 RISE per block (6.84% inflation)
+6 RISE per block (4.27% inflation)
+3 RISE per block (2.05% inflation)
+1 RISE per block forever
+
+This schedule can be revised in the future based on community consensus to make
+changes to the coded schedule.
+
+3.5 RISE Network
+Status: Live with over 875+ Delegates
+
+3.6 Network Specifications
+RISE network specifications, differentiating RISE from other Delegated Proof Of Stake
+projects. The technical differentiators are as follows:
+● 1 Vote Per Wallet with a vote weight equalling the amount of RISE in wallet
+● 101 Elected Delegates to actively produce blocks
+● 30 Seconds of Block Time
+● 50 minutes and 30 seconds Round Time
+
+3.7 Network Fees
+All valid transactions in the RISE network must be processed. Active RISE Delegates
+process transactions and store them in new blocks. For this work, the Delegates receive
+a fee. All transactions in the network must generate some type of fee as a spam
+countermeasure and deterrent.
+15
+
+The default network fee for processing one RISE transaction is 0.1 RISE. For example,
+a 100 RISE transaction includes an additional fee of 0.1 RISE for a total transaction
+amount of 100.1 RISE.
+The following is a list of fees for different types of transactions:
+●
+●
+●
+●
+
+0.1 RISE for a spend transaction
+5 RISE for registering a second passphrase
+25 RISE for registering as a delegate, includes adding a username
+5 RISE for registering a multi-signature group
+
+Active Delegates receive the fees from all transactions at the end of each round time as
+well as a fixed amount of RISE per forged block determined by the reduction schedule.
+The number of blocks in a round is dependent on the number of active Delegates, which
+is 101 elected through community votes. If an active Delegate is not online the number
+of blocks in a round (block cycle) is still 101 and the network will enlist another active
+Delegate.
+At the current reward schedule, active Delegates receive a fixed 12 RISE per round
+time. If a block is missed by a Delegate, the next active Delegate in line who forges that
+block will receive double the amount of RISE awarded (24 RISE).
+In addition, at the end of each round time, all transaction fees of each forged block in a
+round are collected, summed and then divided by the number of blocks (101). Each
+active delegate who forged more than one block (because another active Delegate
+missed a block) will receive the transaction fee amount multiplied by the amount of
+blocks this Delegate forged in a round. One Delegate could forge two or even more
+blocks (in rare cases) per round.
+Delegates who missed creating a block assigned to them during that round are not
+rewarded.
+
+16
+
+3.8 RISE Accounts
+Status: 18602 RISE accounts exist as of block #1076660
+RISE accounts will be identifiable through a string between 1 and 21 characters
+(numbers) plus the letter ‘R’. All accounts are searchable through the RISE Block
+Explorer. 24
+BIP39 (Bitcoin Improvement Protocol) is the implementation of a mnemonic code or
+mnemonic sentence (a group of easy to remember words) for generating deterministic
+keys. RISE integrates mnemonic checksum of passphrases to make sure it conforms to
+the BIP39 standard and that passphrase is used to generate your account.25
+
+3.9 RISE Client/Web Wallet
+Status: Live/Upgrade in Progress
+The RISE client, also referred to as RISE web wallet, enables users to manage their
+account from anywhere with an internet connection. Users are able to send transactions
+with the RISE wallet, vote for a Delegate and register for a Delegate themselves.
+Currently, the RISE wallet can be accessed through a web browser. 26
+Using a web wallet gives users access to the blockchain, without the need to download
+the entire blockchain to their computer. Downloading a whole copy of the RISE
+blockchain requires users to set up a full node on a VPS (Virtual Private Server)/Virtual
+Machine or local dedicated server.
+The RISE wallet is being rewritten in TypeScript, a typed superset of JavaScript and
+React, which offers reusable UI components.27 A new release of the RISE wallet will
+provide a progressive multi-platform client, that can be installed as a desktop or mobile
+app. Based on user testing the web wallet will be responsive on multiple devices and
+aim to have enhanced user experience.
+
+​RISE Block Explorer.
+​Bitcoin Improvement Protocol. Satoshi Labs.
+26
+​RISE Web Wallet.
+27
+​React. Facebook Open Source.
+24
+25
+
+17
+
+RISE will be adding Nano Ledger support to give users the option to store RISE in the
+most secure way possible.28 Hardware wallets provide an added level of security
+against computers or mobile devices that may be infected with keyloggers or other
+malware.
+
+3.10 RISE Performance (Transactions Per Second)
+Status: Live
+At present, RISE can accommodate 50 transactions per minute as RISE is hard limited
+on the number of transactions a block can hold. Each RISE block can hold 25
+transactions. As RISE has a blocktime 30 seconds, the following logic will apply:
+1m/30s * 25 => 50
+Currently, it is not imperative for the RISE blockchain to support a higher amount of
+transactions per second as ~1500 transactions are processed and broadcasted every
+day. There is currently an enforced limit of 25 transactions per block for the RISE
+mainnet.
+Rigorous internal testing has resulted in the number of transactions the new RISE core
+1.1.0 will be able to handle, namely more than 1000 transactions per second on
+mid-level hardware. Benchmarks shows that the new RISE core is capable of handling
+up to 1000 transactions per second* with a i7–7700 CPU. To compare, Ethereum can
+only process 15 TPs and Bitcoin can only process 7 TPs due to block size limit 1MB.29
+1000 transactions per second is not a requirement for the RISE mainnet blockchain at
+present. However, a requirement for 1000 transactions might be essential for a future
+DAPP developer requiring a much higher transactions per second value and this will be
+possible based on RISE core technology. 30
+
+​Ledger Wallet. Ledger.
+​RISE Core 1.1.0/1.1.1 — Technical Overview
+30
+​RISE Core 1.1.1 — Mainnet
+28
+29
+
+18
+
+19
+
+3.11 Atomic Block Processing
+Status: Live
+The need for atomic block processing is to restore data integrity, which is crucial to
+blockchain technology. RISE is one of the only DPOS blockchains forked from Crypti to
+introduce and execute atomic block processing in mainnet.
+When a block is received by the node, the node will try to apply its transactions and
+ultimately save the block in the database. Prior to the release of RISE core 1.1.1 if an
+error occurred while applying one of the included transactions, the code needed to roll
+back on the previously committed transactions to achieve data integrity. This is known
+as roll back logic, which was error prone and complex. RISE is now delegating the roll
+back procedure to the database, which is designed and battle tested to perform this
+specific kind of rollback if unforeseen issues arise affecting the blockchain.
+
+3.12 Dynamic Fees
+Status: Future Release
+As blockchain technology and cryptocurrencies become widely adopted, there becomes
+a need for a more reliable fee structure to accommodate congestion on the network.
+Dynamic fees aim to detect changes in volume and will raise or lower transaction fees
+accordingly to accommodate network congestion. Scheduled for release in RISE core
+2.0.31
+
+31
+
+​Introducing Dynamic Fees. Blockchain Team.
+
+20
+
+4.0 RISE Developer Tools
+4.1 API (Application Programming Interface) Libraries
+Status: Live/Open Source
+RISE APIs are a set of functions allowing developers to access RISE blockchain data
+for the creation of applications.
+RISE APIs allow developers to, among other functions:
+● Request information about an account
+●
+●
+●
+●
+●
+●
+
+Request information about blocks
+Request information about delegates
+Request information about node loading status
+Create and request information about MultiSignature accounts
+Request information about peers
+Count, send and request information on transactions
+
+4.2 Software Development Kit
+Status: Q1 2019
+Adoption of blockchain technology has been relatively low and barrier to entry for
+developers has been high due to complex programming languages, and a lack of easy
+to use tools.32 RISE aims to reduced the barrier to entry for web developers by creating
+Software Development Kits in popular programming languages using familiar web
+concepts well known and used by developers globally.
+The first Software Development Kit to be released will be in TypeScript, which caters to
+the TypeScript and JavaScript developer market. The RISE SDK will enable web
+developers to create and customise their own blockchain ecosystem, based on the
+32
+
+​Full Stack Development Tools Lowering Blockchain Entry Barriers. CoinTelegraph​.
+
+21
+
+RISE DPOS blockchain. Developers will be able to programme applications and launch
+their own blockchains using and modifying RISE developer tools.
+
+4.3 RISE Technology Stack
+The entire technology stack RISE uses is widely known amongst developers. This will
+ease the entry barrier for any non-blockchain developer who would like to join the
+blockchain world.
+
+4.3.1 Typescript Codebase
+Status: Live in Mainnet
+The RISE codebase has been rewritten in TypeScript 2.8 to enhance scalability,
+maintainability and code quality for better future development. ​TypeScript is a strict
+syntactical superset of JavaScript used in large web development projects.33 It is an
+open source programming language developed and maintained by Microsoft, enforcing
+good coding standards. The RISE blockchain node and source code is openly available
+for installation.34 The RISE core codebase has had over 2000 unit tests and over 250
+builds to ensure the code behaves as intended with 99% code coverage.
+There are significant advantages to migrating from JavaScript to TypeScript such as,
+static typing checks to identify more bugs when compiling and TypeScript is easier to
+learn for JavaScript developers.35
+All third party dependencies were updated leveraging bug fixes and performance
+improvements. The RISE core is now shipped in a self-contained package file that
+contains all the needed dependencies that the core requires to run, a significant
+improvement since 0.x.x core, as the previous installation of third-party software was
+delegated to the node-operator. Reducing human intervention in the process of node
+installation will augment the network stability in both the short and long term.
+
+​TypeScript - JavaScript That Scale. Microsoft​.
+​RISE Github Source Code for Node Installation.
+35
+​The Benefits of Migrating From JavaScript to TypeScript. Raphael Feng​.
+33
+34
+
+22
+
+Furthermore, RISE technology previously had a mixed “code”+”sql” codebase, whereas
+in RISE core 1.1.1 every basic SQL statement has migrated to Sequelize reducing the
+amount of SQL statements by 80%. Sequelize is a promise-based ORM for Node.js v4
+and up, supporting PostgreSQL, MySQL, SQLite and MSSQL and features solid
+transaction support, relations and read replication.36 RISE aims to be developer friendly
+technology, therefore, Sequelize will ease basic SQL statements and allow future
+developers to express their queries using just code. However, RISE is designed with
+flexibility in mind therefore, if required a developer could still express his queries using
+SQL.
+
+4.3.2 Node.js
+Node.js is a very popular Javascript runtime environment built on top of the Google’s
+Chrome V8 Javascript engine.37 Node.js has become very popular among both
+independent developers and large institutions. Due to its popularity the number of
+developers who have experience with node.js is significant.
+
+4.3.3 PostgreSQL
+PostgreSQL is a widely used DBMS. It is heavily tested and uses standard SQL syntax
+which is broadly used by developers of any kind.38
+
+4.3.4 Peer to Peer Communication via HTTP
+Blockchain nodes communicate through simple HTTP requests. Unlike other blockchain
+solutions which either uses RPC or other transport mechanisms, HTTP is well known,
+battle tested and the main protocol of the World Wide Web.
+
+​Sequelize.
+​Node.js. Joyent, Inc.
+38
+​PostGreSQL. The PostgreSQL Global Development Group.
+36
+37
+
+23
+
+5.0 Sidechain Technology / Build Your Own
+Blockchain
+Status: Q1 2019
+The concept of RISE sidechain technology is to enable DAPP developers to create,
+customize and build their own DPOS blockchain ecosystem. RISE aims to develop
+sidechain technology to allow developers and businesses to build applications with
+token assets on RISE in the future. Each DAPP will have its own sidechain, and
+developers are in control of the architecture they desire for their application.
+Customisation will be possible with transaction fees, the number of block producers
+being decided by the creator of the DAPP, all of this implemented through RISE
+developer tools. Sidechains are best for commercial use of a blockchain, thus key to
+any future projects built on RISE with our developer tools.
+The RISE mainchain and sidechains will know and be aware of each other. The
+mainchain and sidechains will be able to communicate, and several mechanisms will
+exist to allow the exchange of tokens from mainchain to sidechain and vice-versa.
+At first, a sidechain will only be allowed to send and receive its own tokens to and from
+the RISE mainchain. The RISE solution is flexible by design and in the future a mesh
+network may enable sidechains to communicate with other sidechains.
+
+5.1 Building Blocks
+RISE technology targets web developers. Therefore, we will ensure by design that
+creating a sidechain is as easy as writing a configuration file that defines which
+elements/components the sidechain will use.
+Example 1​: Multisignature.
+The current RISE mainchain has a multisignature functionality, but a sidechain might
+decide to not have such a feature enabled in its core, effectively reducing the amount of
+code and potential bugs.
+24
+
+Example 2​: The p2p layer.
+A sidechain might want to use a different communication layer between nodes and
+implement its own.
+Example 3​: The consensus rules.
+RISE uses Delegated Proof of Stake. While DPOS is one of the best consensus
+currently available in the industry for RISE at present, the same cannot be said for a
+future sidechain which might want to implement their own consensus rules.
+RISE Core version 2.x will try to abstract as much as possible and allow for future
+sidechain developers to improve and/or ​change the internal behavior; sidechain
+developers will only be required to implement a “contract” or a so-called interface in
+order to ensure interoperability between RISE components. 39
+
+5.2 WordPress As An Inspiration
+WordPress is a very popular content management system (CMS). Wordpress is widely
+used and known to power 26.4% of the entire web and third party developers have to
+date created over 44,622 plugins for it. 40 Wordpress became very powerful through it’s
+plugin system; hooks are provided by WordPress to allow plugins to 'hook into' the rest
+of WordPress; that is, to call functions in your plugin at specific times, and set your
+plugin in to action.41
+In RISE core 2.x this concept will be adapted to incorporate the TypeScript/JavaScript
+language and blockchain technology. A TypeScript plugin will be used to mimic the fast
+and easy to use ​hook concept, commonly found in Wordpress, with customisable
+components that will not alter the working RISE codebase.42 RISE will leverage these
+concepts and be highly suitable for web developers that have used WordPress and
+understand its powerful concepts.
+
+​Interface Computing. Wikipedia.
+​21 Amazing Wordpress Stats. Digital.com.
+41
+​Plugin API. Wordpress.org.
+42
+​MangiaFuoco by Vekexasia. Github.
+39
+40
+
+25
+
+5.3 Tokens
+Tokens will be created directly in the RISE mainchain. The RISE mainchain can be
+used to host all the tokens. Similar to the concept used by Ethereum technology, a
+single passphrase could provide access for holdings of both RISE and the tokens
+associated to that account that live in the RISE mainchain. Tokens can be transferred in
+RISE’s mainchain the same way RISE is currently sent and received.
+
+5.3.1 Token Creation
+Creating a token in RISE will be easy and the process will be available to any RISE
+holder. Creating a new token will require spending RISE.
+Creating a Token will require filling a set of fields, including but not limited to:
+● Token name*
+● Token supply*
+● Token description*
+● Token tags*: comma separated list of strings
+● Token URL (e.g. Website)
+● Token Icon (base64 encoded png 128x128)
+*required fields
+The minimum fee or cost of such transaction will be dynamically calculated using the
+space taken by the transaction once included in the blockchain as multiplier factor.
+To ensure common or existing token names are not registered, there will be a
+predefined list of invalid token names (e.g. BTC, ETH, EOS).
+
+5.3.2 Token Life and Management
+Tokens could live both in the RISE mainchain and its own sidechain or other sidechains
+if they are designed to handle multi tokens.
+
+26
+
+Keeping the tokens in RISE mainchain will have the benefit of using a single wallet to
+manage a portfolio of different tokens.
+Note​: Having a token created in the mainchain, could also allow a faster integration with
+third party services such as exchanges since there will be a single API to manage both
+RISE and the tokens.
+Once created, tokens cannot be erased. But in some rare exceptions we could make
+sure to hide some “malicious” tokens from RISE official tools such as the wallet and the
+explorer. It is important to notice, that such ‘bad’ tokens will still be available in the
+blockchain and could still be sent/received by unofficial/community supported tools as
+RISE does not (nor will) have the power to change the blockchain because of its
+decentralization properties.
+
+5.3.3 Token Transfers
+To allow cross blockchains token transfer, RISE will adopt heavily used and tested
+concepts from Bitcoin. One concept is Hashed Time Locked Contracts (HTLC).43 By
+using Hashed Time Locked Contracts, RISE will be able to exchange tokens from
+sidechain to mainchain securely in a trustless way.
+To ensure even more security a new figure called ‘Bridgers’ will be created to allow
+such token transfers. ‘Bridgers’ will be the middleman operators that will allow
+transferring tokens from the sidechain to the mainchain via Hashed Time Locked
+Contracts. While ‘Bridgers’ could be also used to transfer tokens from the RISE
+mainchain to the sidechain, they will not be necessary as sidechain nodes will also run
+a local mainnet node.
+An example for reference:
+1. Alice has 1000 side tokens safely stored in the sidechain.
+2. Alice wants to send 500 side tokens to the RISE mainchain.
+
+43
+
+​Hashed Timelock Contracts.
+
+27
+
+3. Alice looks for available Bridgers through the explorer. Picks one that suits her
+needs (Charlie) and broadcasts a Hashed Time Locked Contract transaction with
+500 + FEE side tokens using Charlie as the destination.
+4. Charlie waits for such a transaction to be accepted in the network by waiting for a
+certain number of block confirmations.
+5. Charlie creates a new Hashed Time Locked Contract transaction in the RISE
+mainchain using Alice’s publicKey and the same prehash image Alice used.
+6. Alice validates the transaction and completes it by filling in the prehash making it
+valid in the RISE mainchain.
+7. Since the pre hash value is now known to Charlie, he can close the Hashed Time
+Locked Contract in the sidechain collecting the 500 + FEE from Alice.
+
+We could expect this to create a Bridger ecosystem allowing individuals to get rewards
+by also securing both the sidechain and the mainchain.
+Charlie could eventually run out of sidetokens in the RISE mainchain precluding his
+ability to offer his services to sidechain users. He could either decide to offer negative
+fees to rebalance his account or create a cross blockchain transaction that only Bridgers
+are allowed to broadcast.
+To enable Bridgers to concurrently rebalance from sidechain to mainchain, they will
+need to burn (within the sidechain) the tokens they wish to send on mainchain. This
+type of burning transaction will also include a payload that will be used to issue an
+inbound transaction on the mainchain which will need to reference the burning
+transaction along with its payload. The inbound transaction will immediately be included
+in the mainchain blockchain, but funds will be locked for a specified amount of blocks.
+This process is subject to change as new and emerging technologies arise and
+achievements made within the RISE mainchain.
+To ensure that the above mentioned process is not exploited, a yet to be finalized
+process will be set in place that allows RISE holders to open (or vote on an existing)
+some kind of dispute, via a special transaction, during the locking timeframe.
+
+28
+
+6.0 RISE Resources
+RISE Github
+RISE Blockchain Node
+RISE Website
+RISE Block Explorer
+RISE Delegate Monitor
+RISE Activity Monitor
+RISE Network Monitor
+RISE TypeScript/JavaScript API
+RISE Python API
+RISE JAVA API
+RISE Developer Slack
+RISE Telegram
+
+29
+
+

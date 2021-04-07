@@ -1,0 +1,684 @@
+Whitepaper Version 1.1
+
+All rights reserved by Hashshare Inc.
+
+Contents
+01 Introduction
+
+……………………………………………03
+
+02 ERC20 based HSS Token.……………..………06
+03 What is Proof of Stake……………………..………………07
+04 Hashshare Proof of Stake …..…..………………08
+05 Hashshare Business & Service ………..…………09
+06 Hashshare Mining Center …………………………13
+07 Hashshare Mining Pool ……………………………14
+08 Hashshare Platform
+09 Hashshare Ecosystem
+
+………………………………16
+……………………………17
+
+10 Hashshare Operating System ……………………18
+11 Token Economy
+
+………………………………………19
+
+12 Roadmap
+
+……………………………………………… 20
+
+1 3 Partners
+
+………………………………………………2 1
+
+14 Disclaimer
+
+…………………………………………… 22
+
+Introduction
+
+PAGE 03
+
+01 Introduction
+Hashshare(HSS) Project
+Hashshare(HSS) is the first project in the world that combined Bitcoin Mining System
+with a Staking node. The HSS project was developed with the establishment of an
+efficient and stable Bitcoin mining system for anyone to participate in. The HSS team
+needed a cryptocurrency to promote global participation in diverse businesses funded
+by mining profits. So HSS team has developed a Staking node service with an ERC20
+based token HSS.
+HSS network participants receive HSS rewards according to their contribution amount
+in Staking node, rather than simply participating in a mining project. In addition, the
+use of HSS will be expanded by investing the revenue generated from the foundation,
+in projects prepared separately by the HSS team, which will increase the value of HSS.
+
+Reward
+
+HashShare
+
+Project
+
+Cloud Mining
+
+BTC
+
+Staking Node
+
+HSS + BTC
+
+Introduction
+
+01 Introduction
+Hashshare(HSS) Project Flow Chart
+
+Crypto
+currency
+Exchange
+
+HSS buyback with 30% of revenue
+
+Company’s
+Profit
+
+HSS
+
+HSS
+
+Company
+
+User
+
+BTC
+Mining
+
+Staking
+Node
+
+HSS
+
+Cloud
+Mining
+Staking
+Node
+DeFi
+Business
+
+30% of mining
+to BTC Airdrop
+
+Mining
+Business
+Reinvesting 50 % of mining in the mining facility
+
+Cloud
+Mining
+
+HSS Company Business
+
+HSS Network
+
+*Details on p.17
+
+09 Hashshare Ecosystem
+
+PAGE 04
+
+Introduction
+
+PAGE 05
+
+01 Introduction
+Hashshare (HSS) key advantages
+1. Establishing an efficient and stable mining system
+The HSS team will strategically conduct mining in China and Kazakhstan to enhance
+profitability. Mining has already begun in China and another mining center will come
+online in Kazakhstan in Q3 2020. China and Kazakhstan have many advantages in
+establishing and operating mining centers because of the low electricity rates. People
+living in countries with low mining profitability due to high electricity rates can
+participate and get Bitcoin rewards from mining in China and Kazakhstan through HSS
+network, without purchasing ASIC or any other equipment.
+
+2. Procuring a variety of use cases
+In order to stabilize the value of the HSS and hold its value in the long term, the HSS
+Foundation will secure the use of the HSS. The HSS Foundation is preparing various
+projects based on revenue generated from mining in China and Kazakhstan, and
+planning to expand the business areas that can be derived from cloud mining and
+establish a platform for financial products such as OTC and loan services that can
+provide various uses cases for HSS.
+
+3. Fast transaction
+HSS Token guarantees fast transactions without waiting time by performing
+verification at near real-time speed.
+
+An efficient and stable
+mining system
+
+01
+
+Fast
+transaction
+
+02
+
+03
+
+Procuring a variety of use cases
+
+ERC20 Token
+
+PAGE 06
+
+02 ERC20 based HSS Token
+ERC20(Ethereum Request for Comment 20) token
+The security problem of the QT Wallet was discovered when HSS was initially
+developed as a Masternode coin. So it was decided to swap HSS Masternode coin to
+the ERC20 token.
+
+What is an ERC20 token?
+ERC-20 tokens are tokens designed and used solely on the Ethereum platform The
+smart contract details of ERC20 tokens are transparently disclosed in EtherScan, so it is
+easy to find information such as transaction details, token holders and etc. ERC20
+tokens follow a list of standards so that they can be shared, exchanged for other
+tokens within the Dapps (Decentralized Applications), or transferred to a crypto-wallet.
+ERC-20 standard compliant tokens scattered across various DApps can be later
+integrated and converted into Ether at a time and be cashed. Ethereum community
+has created these standards with three optional rules and six mandatory rules.
+
+Optional
+
+Mandatory
+
+Token Name
+
+Total Supply
+
+Symbol
+
+Balance Of
+
+Decimal (up to 18)
+
+Transfer
+Transfer From
+Approve
+Allowance
+
+Proof of Stake
+
+PAGE 07
+
+03 What is Proof of Stake
+Proof of Stake (PoS) consensus algorithm
+Definition of PoS
+The Proof-of-Stake (PoS) consensus algorithm is an alternative to Proof-of-Work
+(PoW) and is the first consensus mechanism introduced by Peercoin in the blockchain
+industry. The PoS method differs from the PoW method in that the authority for
+generating a block is determined based on staking behavior, not the computing
+power of the participant. As a result, the PoS settlement method has lower entry
+barriers to network participation than the PoW method, which increases the chances
+for individual participants with small amounts to contribute to the security and
+stability of the network and receive a reward in return.
+Strengthen the security of the network through a penalty system
+In a PoS-based network, stake participants begin with a security deposit for network
+stability. Stake participants are also referred to as network validators. If a validator
+does not perform the transaction history validation correctly, some or all of their
+staking coins may be lost as a penalty. If the amount that the validator may lose from
+falsifying records is greater than the stake reward, the validator will have no incentive
+for participation in staking. The staking system, in which assets of all participants must
+be held in a deposit, becomes a safeguard against which the network can be stably
+maintained.
+
+Hashshare PoS PAGE 08
+
+04 Hashshare PoS
+Hashshare's consensus algorithm
+The HSS network verifies transaction details and validity through the PoS consensus
+method, without wasting resources. Rewards are provided for all participants who
+contribute to the security and stability of the HSS network. In order for a participant
+to contribute to this network, the HSS token must be staked to become a staking
+node.
+
+HSS Staking node
+The HSS Staking Node is a node contributing to the efficient operation of the HSS
+network. Anyone can participate as a Staking node by transferring HSS to a
+dedicated HSS wallet in the Hashshare Platform. Rewards for participation are
+allocated according to the amount of staked HSS.
+However, the participation requirements for becoming an HSS Staking node are as
+follows:
+
+1. Provide at least 10,000 HSS as a deposit
+2. Maintain a reliable 24 hour Internet network
+3. Use dedicated wallet address in Hashshare platform
+
+Business & Service
+
+PAGE 09
+
+05 Hashshare Business & Service
+Hashshare's Business and Premium Services
+Based on know-how and experience accumulated over two years, the HSS team
+provides service in the following areas. Revenue generated from the following sources
+will be used to repurchase HSS, to stabilize HSS value.
+
+First, mining, commissioning, and mining equipment business for cryptocurrencies
+Currently, some of mining equipment is operating in China, which is the center of
+mining equipment production and boasts cheap electricity rates, and in Kazakhstan, a
+key country in Central Asia with a favorable environment for mining. In these two
+areas, ASIC equipment is operated to mine Bitcoin, which is a leader in market
+capitalization among cryptocurrencies. In addition, by building proprietary mining
+containers and developing mining pools, HSS team is able to increase mining
+efficiency. Based on these efforts, the team has built a facility that enables stable
+mining. Current level of power consumption and price prompted team to use mining
+equipment with excellent price-to-performance ratios. HSS will eventually expand to a
+size capable of operating 100,000 mining equipment units at the mining center in
+Kazakhstan, and will actively attract consigned equipment to enter. HSS team will also
+carry out mining equipment sales and repair projects to purchase mining equipment
+cheaply through efficient sales channels.
+
+Second, Staking node Platform
+Hashshare will provide a Staking node platform for the purpose of contributing to the
+expansion of the Staking node ecosystem applied to the HSS network. Platform will
+take care of everything so that even users who are new to Staking nodes can easily
+participate, and can build their own portfolio by selecting various projects based on
+Staking nodes.
+
+DeFi (financial product) service
+The HSS team will provide DeFi services to increase the value of HSS. The Hashshare
+Cloud Mining Platform provides DeFi products using mining resources. In the future,
+after the sale of the hashrate, it will support loan services with hashrate as a collateral,
+and OTC trading.
+
+Mining Center
+
+PAGE 10
+
+06 Hashshare Mining Center
+Mining Center
+First mining center, China (started mid-July, 2019)
+The biggest reason for mining in China is reduced time and cost of operation after
+purchasing mining equipment. Mining in China, the largest production base of ASIC
+equipment, not only saves time and transport costs to the mining center immediately
+after the miner is produced, but also reduces the overall cost because there is no
+separate customs. In addition, hydropower plants are well-developed and electricity
+can be supplied smoothly from eco-friendly energy sources in China. In particular, in
+the summer when rainfall is abundant, remaining power generated by hydroelectric
+dams reduces electricity charges.
+Advanced mining container : Advanced mining container with optimal cooling and
+low-cost maintenance. Fast installation and Ease of mobility. Also containers can be
+stacked like Lego blocks, making them highly scalable. Fast installation and optimized
+maintenance are possible even if more customers are involved.
+
+Advanced mining container photos from mining center in Sichuan, China
+
+Mining Center
+
+PAGE 11
+
+06 Hashshare Mining Center
+Second Mining Center, Kazakhstan (scheduled to start in the Q3 2020)
+Kazakhstan has significantly fewer regulatory requirements than China and an
+advantageous environment for cryptocurrency mining. The HSS Foundation secured a
+USD 0.03 level electricity rate per kW through a contract with an electric supplier at
+Kazakhstan Weskemen, and completed preparations for the inexpensive operation of
+mining equipment. Indeed, Kazakhstan is one of the nine countries with the lowest
+cost to run a mining center. From research the cost of mining of 1BTC in 115
+countries, it was found that the cheapest is $531 (Venezuela) and the most expensive
+is $26,170 (Korea). In China, where large-scale mining centers are in operation, it was
+found to cost $3,172. Only in nine countries have costs less than $3,000 for the
+electricity to mine 1 BTC, including Kazakhstan. In addition, Kazakhstan has a climate
+suitable for mining, with low humidity throughout the year, including the summer,
+with less precipitation and longer winters. Even if the temperature rises above 30
+degrees in the summer, it is cool in the shade due to the dry climate. As a result,
+Kazakhstan has less cooling cost than hot and humid areas. In other words,
+Kazakhstan, which has such climatic advantages, is an optimal mining place that can
+significantly reduce mining costs for operating a mining center.
+
+Hashshare Mining Center photos from Kazakhstan
+
+Mining Center
+
+PAGE 12
+
+06 Hashshare Mining Center
+Mining Container?
+
+“
+
+”
+
+The HSS team has optimized mining facilities to maximize the efficiency of mining
+equipment, and set up the latest mining containers at the mining center!
+
+Advantage 1.
+
+Self-cooling capability and complete power supply system
+
+The container box minimizes heat generation and allows for smooth airflow. It keeps
+the mining equipment stable by releasing the heat generated by ASIC equipment,
+which performs highly computational work. So it reduces the cost of electricity for
+coolers.
+
+Advantage 2.
+
+Scalability
+
+HSS containers can be stacked like Lego blocks, making them highly scalable. HSS
+containers can be stacked like Lego blocks, making them highly scalable. In order to
+construct a new warehouse facility, a site must be selected, then purchased or leased,
+but an HSS container can be installed on top of an existing container without
+expanding the site, so expansion will not cause any problems.
+
+Advantage 3.
+
+Ease of mobility
+
+The container-type mining facility, in contrast to a warehouse type, has the advantage
+of easy transportation of mining equipment. The HSS team is planning to operate a
+large mining center in Kazakhstan, which has a favorable mining environment, after
+first mining in China, which is close to mining equipment manufacturers. The mining
+equipment containers are moveable, so it minimizes transportation work. In addition,
+thousands of mining equipment units can be transported to the desired location
+without any installation work as they are pre-installed within containers.
+
+Mining Center
+
+06 Mining Center
+Mining Center Operation Strategy
+As mentioned earlier, the HSS team is conducting its first mining in Sichuan, China,
+and is currently mining Bitcoin with new and secondhand mining equipment with
+high price-to-performance ratios. The choice of China for the first mining center is
+to improve profitability by reducing the time and cost of mining equipment
+transportation, and because the equipment can be exchanged for free within six
+months if the equipment is defective. HSS plans to move mining equipment with
+expired free A/S from China to Kazakhstan, which has been established as the best
+environment for the operation of a mining center, and operate the second, main
+mining center in Pavlodar and Oskemen, Kazakhstan from the 3rd quarter of 2020.
+30% of mined Bitcoin at China and Kazakhstan mining centers will be allocated to
+users who have deployed Staking nodes on HSS platform, after deducting the
+operating costs, and 50% will be reinvested in the expansion of mining equipment.
+The primary goal is to operate a total of 10,000 units of latest ASIC miners by the
+end of 2020, and to operate more than 100,000 units in Kazakhstan through
+securing 300MW of electricity with continuous reinvestments and additional equity
+investments.
+
+PAGE 13
+
+Mining Pool
+
+PAGE 14
+
+07 Hashshare Mining Pool
+The Mining Pool
+If a block is created by individually-operated mining equipment, the block reward will
+all be received by one person, but considering the current difficulty of Bitcoin mining,
+this is very unlikely to occur. First of all, Bitcoin mining requires devices with high
+computing power to solve a single puzzle, and ASIC equipment is sold for this
+purpose. Although individuals can purchase and operate several units of ASIC
+equipment, it is very difficult for them to create a block in a Bitcoin network, because
+one must beat a large pool of mining equipment that operates thousands to ten
+thousand units of ASIC equipment. However, these individuals can also share block
+rewards by entrusting their equipment or participating in pools in a cloud mining
+manner. Participating in a mining pool compared to solo mining (individual mining)
+has the following advantages:
+
+First, low volatility of mining income!
+Solo mining may not produce a single block even after hundreds of days with an
+individual’s mining equipment. On the contrary, enterprise-class mining pools running
+hundreds to ten thousands of mining equipment units are much more likely to create
+blocks than individuals. In a mining pool, all mining equipment providing computing
+power are used to create blocks, and the entire block reward is allocated according to
+the hash power contributed by each miner. Thus, unlike solo miners who are endlessly
+solving puzzles without retrieving the cost of electricity and mining equipment, mining
+pool participants allocate rewards daily in accordance with the hash power that they
+contribute to the mining pool.
+
+Mining Pool
+
+PAGE 15
+
+07 Hashshare Mining Pool
+Second, convenience!
+Solo mining involves many tasks and expenses, such as purchasing and configuring
+mining equipment, installing software, securing cooling equipment, and paying for
+electricity, but mining pool participants only purchase their desired hash power and
+monitor the daily mining status because the pool manager takes care of everything.
+
+Third, low barriers!
+By participating in a mining pool, one can start mining at a lower cost than doing
+solo mining. If an individual is planning to mine alone, he or she must bear the initial
+investment in mining equipment and continuously pay for expensive electricity. If one
+participates in a mining pool, he or she will receive as much hash power as they wish
+to purchase, and the coins mined from the pool will be allocated according to the
+purchased hash power after deducting various expenses. Therefore, those who
+participate in the pool are relatively less burdened than investors who use their own
+equipment because they can adjust the initial investment cost for hash power
+purchases as well.
+
+Hashshare Platform
+
+PAGE 16
+
+08 Hashshare Platform
+Staking node Platform
+In order to extend the Staking node ecosystem, the HSS team developed the HSS
+Staking node platform that enables users to participate in Staking node project
+running on the HSS network. This makes it easy for many people to participate in
+various blockchain networks and receive rewards, without having to directly operate
+servers. In addition, teams with Stakingnode-based projects can receive marketing and
+technical support through the HSS Staking node platform.
+
+Portfolio
+The first single product presented by the HSS team is Hashshare (HSS) token, an
+ERC20 based token issued by the HSS foundation. Individuals willing to participate in
+the Hashshare network's Staking node project can apply on the HSS Staking node
+platform to set up their Staking node, after purchasing HSS tokens at an exchange
+where it is listed. The HSS specialist team will build a portfolio based on profitable
+projects by referring to various indicators, including community participation and price
+stability for each cryptocurrency project that adopts Staking node technology. Later,
+users can subscribe for packages provided by the HSS Staking node platform with
+HSS and BTC, and receive a small discount if they participate with HSS.
+
+Shared Staking node Service
+The HSS platform provides a Shared Staking node Service, which allows participation
+even without meeting 100% of the deposit requirements of Staking nodes for each
+network, and rewards will be distributed based on the provided collateral.
+HSS holders can select a cryptocurrency that supports Staking nodes and add it to
+their portfolio by voting. Accordingly, if a company has introduced or is planning to
+introduce a Staking node, it can request the HSS platform to find a way to rapidly
+expand the Staking node.
+
+Hashshare Ecosystem
+
+PAGE 17
+
+09 Hashshare Ecosystem
+HSS Token and Ecosystem
+The HSS network can be used for mining a Bitcoin with a small investment by
+individuals, without having to prepare mining facilities which are expensive and
+difficult to operate. . HSS holders can apply for a Staking node according to the
+conditions and receive rewards. The HSS Staking node receives Bitcoin rewards in
+addition to the HSS rewards according to the protocol on the network. As mentioned
+earlier, a 30% of Bitcoin mined in China and Kazakhstan will be paid (airdropped) to
+users who have built a Staking node on the HSS platform after deducting
+maintenance costs. And 50% will be reinvested in mining facilities to increase the
+mining rewards that Staking nodes receive. The HSS Foundation not only mines in
+China and Kazakhstan, but also conducts an entrusted mining and mining equipment
+business, and provides HSS holders with more benefits through the HSS Staking node
+platform and cryptocurrency trading service. When HSS will be listed and traded on
+the open market, it will carry out a quarterly HSS buyback with 30% of the revenues
+generated from the entrusted mining, equipment business, HSS Staking node
+platform, and strategic investment management operated by the HSS team.
+
+Reinvestment
+in mining
+facility 50%
+
+Staking node
+reward 30%
+
+Operating cost
+20%
+<Mining profit excluding maintenance cost>
+
+Ecosystem Components
+1. Users : Staking nodes and HSS traders.
+2. Staking node : Contributors to the efficient operation of HSS network.
+3. HSS Foundation : HSS issuer and decision maker for project expansion funded by
+mining profits.
+
+Hashshare Operating System
+
+PAGE 18
+
+10 Hashshare Operating System
+Operating System
+It was mentioned earlier, HSS increases the stability of the HSS network and supports
+fast transactions through the introduction of Staking nodes. In addition, Bitcoin
+mining is distributed for users who have built staking nodes, and some of the profits
+generated by the HSS team's business are used for HSS buyback. The advantages of
+HSS are not limited to this, but have the following characteristics.
+
+Convenient governance function
+HSS users can perform all governance-related functions (i.e. voting) within the HSS
+platform without accessing the website or installing and utilizing the debug console.
+
+Low fee
+The HSS team is planning to activate the HSS token-fee transactions and adjusting the
+fees involved in the transaction to the minimum. To clarify, users can make
+transactions by paying fees with HSS.
+
+Staking
+Node
+
+Reward
+
+Voting
+
+Low fee
+
+Token Economy
+
+PAGE 19
+
+11 Token Economy
+Token Summary
+• Token Name : Hashshare
+• Ticker : HSS
+• Staking node Collateral : over 10,000
+• Total Supply : 200,000,000
+• Algorithm : ERC20 - POS
+
+Token Allocation
+
+HSS User Distribution (48,000,000 HSS)
+24%
+
+45%
+
+Reserve (50% Lock) (62,000,000 HSS)
+
+31%
+
+Staking Reward (90,000,000 HSS)
+
+Company Use
+Development & Research 30%
+5%
+8%
+
+5%
+
+Marketing 22%
+30%
+
+Team 20%
+10%
+
+Reserve 10%
+Partners 8%
+20%
+
+22%
+
+Legal Advisor 5%
+Advisor 5%
+
+Roadmap
+
+PAGE 20
+
+12 Roadmap
+2018 Q3 HSS Development Team setup; Hashshare Platform plan, research, and
+design
+2018 Q4 White paper draft; Expand development team and conduct beta tests
+2019 Q1 Mainnet build and operation after completing the platform; Launch beta
+Wallet and Masternode demonstration
+2019 Q2 Publish White Paper 1.0; Promoting and marketing HSS
+2019 Q3 MOU and agreement with local and overseas business partners;
+Full-scale platform operation; User marketing and recruitment;
+1st
+
+Listing HSS in BW exchange; Establish overseas corporation in Kazakhstan,
+mining center launch in China
+
+2019 Q4 Start the Mainnet upgrade; Expand the Hashshare Platform Portfolio
+2020 Q1 Prepare and sign a 2nd mining center contract in Kazakhstan
+2020 Q2 Cloud mining business expansion, platform upgrade
+2020 Q3 ERC20 token swap, HSS token listing in exchange,
+2nd mining center launch
+2020 Q4 Enhance HSS coin value by realizing Buy-Back with the foundation's profits,
+Listing in one of Global top exchanges
+2021 Q1 Establishing the Hashshare’s 4th industry educational center in Kazakhstan
+
+2022 Coming soon
+
+Partners
+
+13 Partners
+
+PAGE 21
+
+Disclaimer
+
+PAGE 22
+
+14 Disclaimer
+Disclaimer
+Please read the following articles carefully before participating in an HSS Token Sale. The investment
+obtained through the HSS Token Sale will be used for the development described in this whitepaper.
+(Please note that the development content and roadmap are not firm and may be changed in the
+future.) HSS Token is not a securities or stock and bonds, and does not represent ownership of
+Hashshare. This white paper is not used to attract investment, and no one other than Hashshare can
+issue an HSS Token to implement the plan described in the whitepaper. Please read the following
+precautions and participate if you agree.
+1. You agree that an HSS Token does not constitute a stock.
+2. This whitepaper is not used for the purpose of attracting investment.
+3. You acknowledge that the content of this white paper does not express the merits of HSS Token..
+4. You recognize that if you are a citizen, resident, or permanent resident of a country with limited
+token sales, you will not be able to participate in the HSS Token Sale.
+5. You agree that the information contained in this whitepaper and any current or future
+communication with anyone will not be construed as guaranteeing any form of benefit or profit.
+6. You acknowledge that it may result in financial loss from unknown risks associated with
+cryptocurrencies, such as severe fluctuations in the value of cryptocurrencies and inherent risks in the
+cryptocurrency industry. You agree to understand these risks and take full risk of potential losses.
+7. You acknowledge that there is a risk associated with everything related to the business and
+operation of Hashshare and all of the HSS Token.
+8. You acknowledge that the development content and roadmap of this whitepaper are not final and
+may change in the future.
+9. You recognize that email notifications will never ask for your information or to respond to
+Hashshare's frequent emails to you. To reduce the likelihood of fraud, phishing attempts and other
+illegal acts by third parties, you agree not to respond directly to any emails related to HSS Token.
+10. You agree that HSS does not warrant the duration of the operation of the Hashshare Ecosystem,
+and you acknowledge that the HSS Ecosystem may be suspended for various reasons.
+11. After participating in the HSS Token Sale, you become an HSS Token Holder, but it does not
+mean that you become a holder in any share of Hashshare or other securities.
+12. To participate in the HSS Token Sale, contributors must confirm the following:
+
+1 - Does the contributor's country have legal authority to receive HSS Tokens?
+2 - Can contributor be fully responsible for receiving HSS Tokens and for all relevant
+restrictions and risks?
+3- Does the contributor understand the usage and relationship between Blockchain and
+cryptocurrency?
+
+

@@ -1,0 +1,580 @@
+Metis
+Last updated: 16 Sept 2020
+
+Legal Disclaimer
+PLEASE READ THIS DISCLAIMER CAREFULLY AS IT CONTAINS IMPORTANT INFORMATION. PLEASE CONSULT YOUR PERSONAL LEGAL,
+FINANCIAL, TAX OR OTHER APPROPRIATE PROFESSIONAL ADVISOR(S) BEFORE TAKING ANY ACTION. The Tokens (as described in this
+Whitepaper) are not intended to cons�tute securi�es in any jurisdic�on. This Whitepaper is not a prospectus or oﬀering document
+of any kind. It is not intended to cons�tute an oﬀer of securi�es or a solicita�on for investment in securi�es in any jurisdic�on. This
+Whitepaper also does not cons�tute or form part of any opinion or any advice to sell, or any solicita�on of any oﬀer by the distributor or issuer of the Tokens to purchase any Tokens nor shall it, or any part of it, nor the fact of its presenta�on, form the basis of or
+be relied upon in connec�on with any contract or investment decision.
+No person is bound to enter into any contract or binding legal commitment in rela�on to the sale and purchase of the Tokens, and
+no cryptocurrency or other form of payment is to be accepted based on this Whitepaper. Any agreement rela�ng to the poten�al
+sale and purchase of Tokens is to be governed by such other agreement or document as Me�s may require (collec�vely, the
+“Purchase Documents”) and no other document (including this Whitepaper). If there is any inconsistency between the Purchase
+Documents and this Whitepaper, the Purchase Documents shall govern. You are not eligible to purchase any Tokens in the Tokens if
+you are a ci�zen, resident (tax or otherwise) or green card holder of the U.S. No regulatory authority has examined or approved of
+any of the informa�on set out in this Whitepaper. No such ac�on has been or will be taken under the laws, regulatory requirements
+or rules of any jurisdic�on. The publica�on, distribu�on or dissemina�on of this Whitepaper does not imply that any such applicable
+laws, regulatory requirements or rules have been complied with. There are material risks and uncertain�es associated with Me�s,
+its business and opera�ons, the Tokens, including that any Token sale may not occur or the Tokens may not be issued. This Whitepaper, any part thereof and any copy thereof must not be taken or transmi�ed to any country where distribu�on or dissemina�on of
+this Whitepaper or the Tokens sale is prohibited or restricted. No part of this Whitepaper is to be reproduced, distributed or disseminated without including this sec�on and the following sec�ons en�tled “Disclaimer of Liability”, “No Representa�ons and Warran�es”, “Representa�ons and Warran�es By You”, “Cau�onary Note on Forward-Looking Statements”, “No Advice”, “Restric�ons on
+Distribu�on and Dissemina�on”, “No Oﬀer of Securi�es or Registra�on” and “Risks and Uncertain�es”.
+DISCLAIMER OF LIABILITY To the maximum extent permi�ed by applicable laws, regulatory requirements or rules, Me�s and its
+Board of Directors, Employees, Contractors, or Aﬃliates shall not be liable for any indirect, special, incidental, consequen�al or
+other losses of any kind, in tort, contract or otherwise (including but not limited to loss of revenue, income or proﬁts, and loss of
+use or data), arising out of or in connec�on with any acceptance of or reliance on this Whitepaper or any part thereof by you. NO
+REPRESENTATION AND WARRANTIES Me�s is a recently organized start-up company, subject to all the risks and uncertain�es of a
+new enterprise. Me�s’ blockchain-based technology is in an early stage of development, will be subject to modiﬁca�on as issues
+inevitably emerge, and ul�mately may not be accepted in the marketplace. The statements in this Whitepaper are made only as of
+the date set forth on the cover page. Accordingly, Me�s and its aﬃliates do not make or purport to make, and hereby disclaim, any
+representa�on, warranty or undertaking in any form whatsoever to any en�ty or person, including any representa�on, warranty or
+undertaking as to the con�nued accuracy and completeness of any of the informa�on set out in this Whitepaper.
+By accessing or accep�ng possession of any informa�on in this Whitepaper or any part thereof, you represent and warrant to Me�s
+and its aﬃliates as follows: 1. You agree and acknowledge that the Tokens do not cons�tute securi�es in any form in any jurisdic�on;
+2. You agree and acknowledge that this Whitepaper does not cons�tute a prospectus or oﬀer document of any sort and is not
+intended to cons�tute an oﬀer of securi�es in any jurisdic�on or solicita�on for investments in securi�es and you are not bound to
+enter into any contract or binding legal commitment (including the Purchase Documents) and no cryptocurrency (including the
+Tokens) or other form of payment is to be accepted based on this Whitepaper; 3. You agree and acknowledge that no regulatory
+authority has examined or approved of the informa�on set out in this Whitepaper, no ac�on has been or will be taken under the
+laws, regulatory requirements or rules of any jurisdic�on by Me�s or its aﬃliates in connec�on with the dissemina�on of this Whitepaper, and the publica�on, distribu�on or dissemina�on of this Whitepaper to you does not imply that any applicable laws, regulatory requirements or rules have been complied with; 4. You agree and acknowledge that this Whitepaper, the undertaking and/or
+comple�on of any future Token sale or future trading of the Tokens on any cryptocurrency exchange, shall not be construed,
+interpreted or deemed by you as an indica�on of the merits of Me�s or the Tokens; 5. The distribu�on or dissemina�on of this
+Whitepaper, any part thereof or any copy thereof, or the acceptance of the same by you, is not prohibited or restricted by any laws,
+regulatory requirements or rules applicable to you, and where any restric�ons in rela�on to possession are applicable, you have
+observed and complied with all such restric�ons at your own expense and without liability to Me�s or its aﬃliates; 6. You agree and
+acknowledge that if you elect to purchase any Tokens, the Tokens are NOT to be construed, interpreted, classiﬁed or treated as: a.
+any kind of currency other than cryptocurrency; b. debentures, stocks or shares issued by any person or en�ty (whether Me�s or its
+aﬃliates), including any rights, op�ons or deriva�ves thereof; c. units in a collec�ve investment scheme; d. units in a business trust;
+e. deriva�ves of
+
+2
+
+Metis Whitepaper
+
+units in a business trust; or f. any other security or class of securi�es. 7. You are fully aware of and understand that you are NOT
+eligible to purchase any Tokens if you are a ci�zen of one of the countries listed in the sec�on below �tled “No�ces for Par�cular
+Investors”; 8. You have a basic degree of understanding of cryptocurrencies, blockchain-based so�ware systems, cryptocurrency
+wallets or other related token storage mechanisms, blockchain technology and smart contract technology; 9. You are fully aware
+and understand that in the case where you wish to purchase any Tokens, there are material risks associated with Me�s and its
+business, plans and opera�ons, the Tokens and any poten�al future sale or distribu�ons of the Tokens; 10. You agree and acknowledge that none of Me�s nor its aﬃliates is liable for any indirect, special, incidental, consequen�al or other losses of any kind, in
+tort, contract or otherwise (including, but not limited to, loss of revenue, income or proﬁts, and loss of use or data), arising out of
+or in connec�on with any acceptance of or reliance on this Whitepaper or any part thereof by you; 11. You acknowledge and agree
+that Me�s can make material amendments to this Whitepaper at any �me a�er the date hereof and without any no�ce to you or
+your consent, and you further acknowledge and agree that Me�s makes no representa�on or warranty regarding the accuracy of
+any informa�on set forth in this Whitepaper; and 12. All of the above representa�ons and warran�es are true, complete, accurate
+and non-misleading from the �me of your access to and/or acceptance of possession of this Whitepaper or any part thereof.
+This Whitepaper may contain forward-looking statements including, but not limited to, statements as to future opera�ng results
+and plans that involve risks and uncertain�es. The use of words such as “expects”, “an�cipates”, “believes”, “es�mates”, the nega�ve
+of these terms and similar expressions iden�fy forward-looking statements. Such forward-looking statements involve known and
+unknown risks, uncertain�es and other factors which may cause the actual results, performance or achievements of Me�s to diﬀer
+materially from any future results, performance or achievements expressed or implied by those projected in the forward-looking
+statements for any reason. NO ADVICE No informa�on in this Whitepaper should be considered business, legal, ﬁnancial or tax
+advice regarding Me�s, the Tokens or any future Token sale or distribu�on. You should consult your own legal, ﬁnancial, tax or other
+professional adviser regarding Me�s, and its business and opera�ons and the Tokens. You may be required to bear the ﬁnancial risk
+of any purchase of the Tokens for an indeﬁnite period of �me or suﬀer the complete loss of any amounts paid for the Tokens.
+RESTRICTIONS ON DISTRIBUTION AND DISSEMINATION The distribu�on or dissemina�on of this Whitepaper or any part thereof
+may be prohibited or restricted by the laws, regulatory requirements and rules of any jurisdic�on. In the case where any restric�on
+applies, you are to inform yourself about, and to observe, any restric�ons which are applicable to your possession of this Whitepaper or such part thereof (as the case may be) at your own expense and without liability to Me�s or its aﬃliates. Persons to whom a
+copy of this Whitepaper has been distributed or disseminated or who have been provided access or otherwise have the Whitepaper
+in their possession shall not circulate it to any other persons, reproduce or otherwise distribute this Whitepaper or any informa�on
+contained herein for any purpose whatsoever nor permit or cause the same to occur.
+NO OFFER OF SECURITIES OR REGISTRATION This Whitepaper does not cons�tute a prospectus or oﬀer document of any sort and is
+not intended to cons�tute an oﬀer of securi�es or a solicita�on for investments in securi�es in any jurisdic�on. No person is bound
+to enter into any contract or binding legal commitment, and no cryptocurrency or other form of payment is to be accepted based
+on this Whitepaper. Any agreement rela�ng to the sale and purchase of the Tokens is to be governed solely by the Purchase
+Documents as Me�s may require and no other document (including this Whitepaper).
+RISKS AND UNCERTAINTIES Prospec�ve purchasers of Tokens should carefully consider and evaluate all risks and uncertain�es
+associated with Me�s and its plans, business and opera�ons, the Tokens and any sale or distribu�on thereof, including all informa�on set out in this Whitepaper and the Purchase Document prior to any purchase of the Tokens. If any of such risks and uncertain�es develops into actual events, the business, ﬁnancial condi�on, results of opera�ons and prospects of Me�s could be materially
+and adversely aﬀected. In such cases, you may lose all or part of the value of any investment in the Tokens.
+NOTICES FOR PARTICULAR INVESTORS For residents of the People’s Republic of China (which, for the purposes of this Whitepaper,
+does not include Hong Kong, Macau, and Taiwan) only: The Tokens may not be marketed, oﬀered or sold directly or indirectly to the
+public in the People’s Republic of China (the “PRC”) and neither this Whitepaper nor the Purchase Documents, which has not been
+submi�ed to the PRC securi�es and regulatory commission, nor any oﬀering material or informa�on contained herein rela�ng to
+the Tokens, may be supplied to the public in the PRC or used in connec�on with any oﬀer for the subscrip�on or sale of the Tokens
+to the public in the PRC. The informa�on contained in this Whitepaper and the Purchase Documents will not cons�tute an oﬀer to
+sell or an invita�on, adver�sement or solicita�on of an oﬀer to buy any Tokens within the PRC. Residents of the United States or any
+country subject to sanc�ons from the United States, including without limita�on Belarus, Burundi, Central African Republic, Cuba,
+Iran.
+
+3
+
+Metis Whitepaper
+
+Abstract
+4
+
+Economic, social, cultural and geographical barriers
+have been broken through globaliza�on in the past
+few decades but there are s�ll some barriers to truly
+create an interconnected world. Poor communica�on and language barriers are cos�ng companies a
+lot of money every year yet not enough is being
+done to mi�gate these costs.
+Massive Open Online Courses (“MOOC”) availed educa�on to anyone with access to the internet to pick
+up new languages and new skills. While barriers to
+learning has been lowered with technology, a crucial
+ﬂaw remained in the educa�on system where the
+posi�ve beneﬁts to society from increased educa�on
+may not be fully captured by each individual, who
+may not seek to a�ain new skills as his individual beneﬁts may not outweigh the cost for him.
+Tradi�onal educa�on curriculum is also rigidly
+designed with li�le customiza�on for each unique
+individual learning style or interests, which could
+raise the diﬃculty for the student to learn and pick up
+new skills. Me�s provides an innova�ve solu�on by
+leveraging on Ar�ﬁcial Intelligence to automa�cally
+customize educa�onal content for each student
+based on their personali�es and interests.
+Me�s seeks to create a be�er world by correc�ng this
+misalignment by providing every individual with the
+right incen�ve to acquire new skills which can then
+be used to contribute posi�vely to society.
+
+Metis Whitepaper
+
+Market Size of Education
+
+The Massive Open Online Course (“MOOC”) market size is expected to grow from USD 3.9 billion in
+2018 to USD 20.8 billion by 2023, at a Compound Annual Growth Rate (CAGR) of 40.1% during the
+forecast period by MarketsandMarkets Analysis.
+
+It is not surprising that the MOOC market is expected to grow rapidly given that it is a course with
+the op�on of free and open registra�on and is a publicly shared pla�orm with open-ended groups.
+MOOCs integrate social networking and accessible online resources facilitated by leading prac��oners in their respec�ve ﬁelds of study. MOOC builds on the engagement of learners who self-organize
+their par�cipa�on according to learning goals, prior knowledge and skills, and common interests.
+The need of the scalable and economical educa�onal pla�orm to cater to the need of learners
+across the globe is boos�ng the growth of the Massive Open Online Course Market at a high CAGR.
+During this �me, several large MOOC operators such as Coursera sprung up as pioneers of reshaping
+higher educa�on. It has a unique diﬀeren�ated value proposi�on to all stakeholders within the educa�on market including students, educa�on ins�tu�ons and prospec�ve employers of the students.
+
+5
+
+Metis Whitepaper
+
+Coursera enrolls more students than any physical ins�tu�ons around the world and is able to reach
+any student with an internet connec�on regardless of loca�on. Students are also aﬀorded full ﬂexibility on the pace of their curriculum through self-learning.
+
+Coursera enrolls more students than any physical ins�tu�ons around the world and is able to reach
+any student with an internet connec�on regardleCoursera uses proprietary technology to improve
+the quality of learning such as providing real �me feedback and natural language parsing to engage
+students which has proven to be a diﬃcult task in the past. A new development is also adap�ve
+learning courses which adjusts the diﬃculty of the course dynamically based on the student’s mastery of the course material, allowing the curriculum to ﬂow at the pace of each student’s learning
+ability. In the long-run, the data collected by Coursera on how students learn and �me spent on each
+tutorial/lecture helps to create a loop which further enhances the quality of learning for future
+course par�cipants.
+An interes�ng development that Coursera has pioneered is the provision of creden�als for students
+that have completed the course work in the form of a digital cer�ﬁcate. There are also services
+which provides remotely proctored exams to ensure that the students were indeed the ones that
+have completed the course work and have a�ained the level of mastery required.
+Me�s will be improving on many of these aspects that Coursera has pioneered to further enhance
+value for students taking MOOCs.
+
+6
+
+Metis Whitepaper
+
+Trend for Education Globally
+
+Source: World Bank
+
+The value of educa�on and upskilling is widely known by young students and working professionals
+worldwide. Government expenditure on ter�ary educa�on as a percentage of GDP has increased
+signiﬁcantly across both developed and developing countries as countries sought to increase their
+economic compe��veness and to provide be�er quality of life for their ci�zens.
+
+The trend of increased expenditure on educa�on by governments globally is not a surprise given
+that educa�on is shown to have a wide array of beneﬁts to both the individual and to society. On an
+individual level, these beneﬁts include higher income poten�al, career advancement, skill development, and employment opportuni�es. For socie�es with higher level of educa�on, there typically is
+a trend of higher rates of economic stability, lower crime, healthier popula�on and greater equality.
+Posi�ve externali�es and beneﬁts to society also exist in the form of greater cross-border economic
+ac�vi�es through exports and a more innova�ve workforce.
+Switzerland, for example, a�ributes 10% of its GDP to its mul�lingual heritage. The country has four
+na�onal languages: German, French, Italian and an ancient La�n-based language called Romansh.
+Britain, on the other hand, is es�mated to lose out on the equivalent of
+7
+
+Metis Whitepaper
+
+3.5% of its GDP every year, because of its popula�on’s rela�vely poor language skills.
+According to a report by Economist Intelligence Unit, nearly half of the 572 senior execu�ves interviewed admi�ed that misunderstandings and “messages lost in transla�on” have halted major
+interna�onal deals for their companies. 64 percent have also said that the poor communica�on
+between counterpar�es have also nega�vely impacted their plans to expand interna�onally.
+
+Source: World Bank
+
+The share of popula�on with completed ter�ary educa�on has also increased signiﬁcantly across
+both developing and developed na�ons between 1970 to 2010. Most no�ceably, na�ons which
+have experienced the fastest economic growth such as South Korea, has seen the greatest increase
+in propor�on of popula�on that has completed ter�ary educa�on.
+
+Besides direct economic beneﬁts to society, there also exists other posi�ve externali�es and beneﬁts such as lower healthcare cost to society through delaying of demen�a and having a sharper
+more produc�ve workforce and lower social cost due to unemployment arising from greater economic ac�vi�es an employability of mul�-lingual employees.
+8
+
+Metis Whitepaper
+
+Presence of beneﬁts to society which is not captured by the individual results in underconsump�on
+of educa�on if le� to the free market to decide the level of educa�on each individual should a�ain.
+While increased government expenditure in educa�on has corrected some of these underconsump�on on the macro level, it does not have the precision required to give each individual the necessary
+incen�ve to complete their educa�on on a micro level. To resolve this, Me�s has developed a
+sustainable ecosystem built around the MET token to ensure that each student will be able to a�ain
+their full knowledge poten�al.
+
+Hurdles for MOOC Education
+MOOCs have increased access to a�aining educa�on but comple�on rates for such MOOCs are typically abysmal with an average of 5 – 15% comple�on rates among students who enroll for MOOCs.
+A study conducted by Columbia University showed that students enrolling for MOOCs tend to have
+a high level of intrinsic mo�va�on when seeking new knowledge and increasing their educa�on
+level. Yet notably, these students were incurring signiﬁcant opportunity cost to themselves in the
+form of leisure �me, paid working hours and some even have to increase their personal expenses by
+hiring addi�onal help to cover some of their du�es such as taking care of family. These resulted in
+unfavorable dropout rates for MOOCs and resul�ng in the poten�al beneﬁts that society may
+receive.
+Dropout rates for online courses are es�mated to be 6-7 �mes higher than oﬄine courses based on
+several studies. These users had the right inten�on of learning a new language which could bring
+great economic beneﬁts to themselves and to society by enhancing quality of communica�on. However, the lack of immediate beneﬁts in the near term to compensate for their opportunity cost may
+result in them failing to complete their educa�on.
+Rice University’s Jones Graduate School of Business expects that if students who enroll for online
+courses have skin in the game, through a commitment made in payment of school fees, they would
+be more mo�vated to complete their courses. However, the cost of pursuing educa�on can become
+a deterrence for students to enroll into courses hence it is an imperfect solu�on to increasing comple�on rate.
+
+9
+
+Metis Whitepaper
+
+Me�s solves this issue by providing a direct economic incen�ve for users which is
+representa�ve of the economic value to society that is not captured by the users
+themselves. This is done without increasing the cost of pursing educa�on for the
+students. In fact, through our pla�orm, it may be possible for students to even have
+a ﬁnancial incen�ve to study and pick up skills that are in demand within society.
+These students learning and picking up skills that the industry is lacking can earn
+money while being educated.
+Me�s enables this through our innova�ve proof-of-work to mine new MTS tokens.
+To gain MTS tokens, users will need to complete milestones in their online courses.
+For each milestone completed, the users will receive a corresponding amount of
+MTS token as a reward for their work. The rewards received by the users will commensurate with their commitment to the learning and the expected gain by society
+from the comple�on of the course.
+As an added incen�ve for comple�ng the courses, students will also receive a gradua�on cer�ﬁcate along with any awards that they have received during their educa�on journey. These cer�ﬁcates and awards will be issued as non-fungible tokens
+exis�ng as ERC721 tokens on the Ethereum Blockchain.
+
+10
+
+Metis Whitepaper
+
+Our vision is to create a decentralized educa�on blockchain pla�orm where
+students can be incen�vized to learn new crucial skills that are in-demand in the
+economy and for eﬃcient alloca�on of resources to ensure that beneﬁts to society
+are maximized. We believe that educa�on should be accessible, available and that
+students should be properly mentored to achieve their fullest poten�al in life.
+
+11
+
+Metis Whitepaper
+
+Token utility
+The MTS token have several use cases:
+
+1. Governance Token
+a. MTS token owners can create governance proposals and vote on proposals that will directly aﬀect the
+Me�s protocol. Some of the decisions that are inﬂuenced through vo�ng are:
+i. Total rewards distributed upon comple�on of each course (courses in-demand by society can be voted
+on to increase rewards earned from course comple�on to incen�vize more users to pick up the
+course)
+ii. Type of courses and educa�on ins�tu�ons that will be allowed to par�cipate in the provision of courses on the Me�s pla�orm
+b. The minimum number of tokens required to create a governance proposal will be announced at a later
+date and can be subject to change depending on the total circula�ng supply of MTS.
+c. MTS token can also be delegated to trusted educa�on ins�tu�ons/organiza�ons who can cast votes on
+behalf of the MTS users.
+
+2. Staking by educa�on ins�tu�on
+a. To qualify for the provision of courses on Me�s, each qualifying educa�on ins�tu�on will need to stake
+a par�cular amount of MTS tokens to provide their courses on the Me�s pla�orm.
+b. This ensures that the educa�on ins�tu�on provides quality educa�on materials for students who are
+enrolled in the courses.
+
+3. Staking by students to boost incen�ve rewards
+a. Users can stake a certain amount of MTS token as a signal of their dedica�on to comple�ng the class.
+Upon comple�on, they can receive mul�ple �mes of their rewards. (e.g. a user who has staked tokens
+may receive up to 5 �mes more token rewards as incen�ve).
+i. This system gamiﬁes the lessons taken and increase the incen�ve for users to complete their classes.
+Users are also incen�vized to work harder to complete their classes earlier as it increases their rewards
+upon comple�on.
+ii. Staking can also reduce fees for certain selected classes in view of their support and belief in the Me�s
+system.
+
+12
+
+Metis Whitepaper
+
+4. MTS tokens can be used as a currency for payment of classes or for the redemp�on of rewards
+for their work in comple�ng the classes.
+a. Class fees may be discounted if payment is made using MTS tokens
+b. Given that MTS token price may ﬂuctuate, Me�s pla�orm will be connected to external oracles to obtain
+data on real �me prices of MTS token and peg the price of the classes and incen�ve according to the
+current market price. This ensures that the incen�ve of the students from comple�ng the courses and
+the payment received by the educa�on ins�tu�on remains stable.
+c. MTS tokens can also be earned by students through a mentorship program. Students who have completed the course, can introduce new students to study in the program and they will serve as mentors to
+guide the new students that they have referred to the course. Upon comple�on of the course by the
+new student, the mentor will also receive a por�on of incen�ve as a reward to helping the new student.
+Through our experience, we have discovered that mentorship has greatly enhanced the learning experiences of new students and increased eﬃciency of their mastery of new skills.
+
+13
+
+Metis Whitepaper
+
+Me�s compe��ve advantage lies within our ar�ﬁcial intelligence solu�on which enhances
+the student’s learning experience and helps the student to succeed in comple�ng the
+course by appealing to his interests.
+Courses that are taught in physical classrooms have the limita�on that the curriculum has to
+cater to the majority of the students in the class, hence the curriculum is less eﬀec�ve overall. This prevents students who are in the tail end of the class, such as the top 10%, from
+achieving their full poten�al by having course diﬃculty tailored to their needs. With A.I.
+implementa�on, we are able to oﬀer personalized recommenda�on and tutorials to based
+on the student’s ability.
+Students have the op�on of uploading their data such as YouTube, Ne�lix or Google search
+history and viewing history to the Me�s A.I. which would then customize the courses taught
+to the students to appeal to their interests. For instance, a student who is enrolled in an English language lesson who loves Kpop music and Korean culture, the language course would
+It is focus
+not surprising
+thatthe
+thestudent
+MOOCwith
+market
+is expected
+grow from
+rapidly
+it is aand
+course
+on teaching
+more
+referencestodrawn
+thegiven
+Kpopthat
+industry
+withwith
+the op�on
+free
+openculture.
+registra�on and is a publicly shared pla�orm with open-ended groups.
+nuancesofto
+theand
+Korean
+MOOCs integrate social networking and accessible online resources facilitated by leading prac��oners in
+theirA.I.
+respec�ve
+ﬁelds instant
+of study.feedback
+MOOC builds
+on the
+engagement
+of learners
+whosuccessful
+self-organize
+Me�s
+also provide
+and work
+directly
+with the
+student for
+theirtutoring.
+par�cipa�on
+according
+learning
+goals,
+prior to
+knowledge
+andand
+skills,
+and common
+interests.
+Our A.I
+poweredtoapp
+enables
+students
+get targeted
+customized
+responses
+The through
+need of their
+the scalable
+economical
+cater to thedigital
+need teacher
+of learners
+learning.and
+It will
+eventuallyeduca�onal
+be able to pla�orm
+become atofully-ﬂedged
+across
+the globe
+is boos�ng
+the growth
+of the Massive Open Online Course Market at a high CAGR.
+without
+any human
+teachers’
+interven�on.
+During this �me, several large MOOC operators such as Coursera sprung up as pioneers of reshaping
+higher educa�on. It has a unique diﬀeren�ated value proposi�on to all stakeholders within the educa�on market including students, educa�on ins�tu�ons and prospec�ve employers of the students.
+
+14
+
+Metis Whitepaper
+
+Metis
+Minerva Phase 1
+
+In the ini�al system launched, students will enroll for courses made available on the Me�s pla�orm
+through MYPOOL. Upon comple�on of their educa�on and a�aining milestones determined, the
+student and educa�on ins�tu�on will both receive MTS tokens as incen�ve for comple�ng the
+courses. Rewards will only be paid out upon achievements of the milestones determined.
+
+15
+
+Metis Whitepaper
+
+Metis
+Gaea Phase 2
+
+In the second phase of Me�s Gaea, our proprietary A.I. will be launched together with the governance layer of the Me�s pla�orm.
+The Gaea Phase will also allow other third-party educa�on ins�tu�ons to provide courses on the
+Me�s pla�orm. To ensure that the courses are of good quality, the new educa�on ins�tu�ons will
+submit their course work to the governance layer who will vote on whether these courses should be
+allowed onto the Me�s pla�orm. The educa�on ins�tu�on may also have to stake MTS tokens as
+collateral to their commitment to ensure that the students on the Me�s pla�orm will have a quality
+educa�on.
+16
+
+Metis Whitepaper
+
+Minimum Viable Product - MYPOOL
+MYPOOL – developed by eKYSS and will be the ﬁrst educa�on ins�tu�on that is directly integrated with the Me�s pla�orm.
+According to Sta�sta, interest in studying Korean language is rapidly picking up at U.S. universi�es between 2006 to 2016. Looking at the long-term trend, the number of Korean language
+students has nearly doubled since 2006. In terms of growth alone, it is the highest among the
+top 10 languages.
+The increase in interest for studying Korean was largely driven due to the inﬂuence of the
+Korean Wave propelled by K-Pop and K-Drama. In line with the marked increase in Korean
+language learning demand, it is expected that compe��ve online-based Korean language educa�on services will gain a great response in the market.
+For this reason, Me�s is pilo�ng our educa�on blockchain pla�orm through a language
+MOOC.
+
+17
+
+Metis Whitepaper
+
+Our researchers have created and designed the app to be the fastest and easiest
+way for users to learn a new language through deep experience in our ﬁeld. It is
+crucial for users to have regular prac�ce through video tutorials and quizzes so
+that the mind can commit the new knowledge to long-term memory and add
+gainful mastery of the language for the student.
+MYPOOL also leverages on ar�ﬁcial intelligence through a partnership with Saltlux, so that users are able to upload data on their view preferences based on their
+Ne�lix or Youtube viewing history so that educa�onal materials will be customized and tailored to their interests to ensure that the classes are more engaging
+for the users.
+Based on tests, it is expected that foreigners who are looking to gain a basic level
+of ﬂuency in Korean are able to do it in half a day as MYPOOL curriculum and content includes the latest trends and culture of Korea.
+MYPOOL, which is currently available through the iOS appstore, supports English,
+Chinese, Indonesian, and Vietnamese star�ng with a beta service in January, and
+plans to con�nue expanding to languages other than Korean as well as support
+languages
+
+18
+
+Metis Whitepaper
+
+Token Information
+Total supply: 1,200,000,000 MTS tokens
+Token type: Ethereum (ERC-20)
+
+Private Sale
+
+30% - 360,000,000 MTS
+
+Strategic Partners
+
+15% - 180,000,000 MTS
+
+Ecosystem
+
+15% - 180,000,000 MTS
+
+Marketing
+
+10% - 120,000,000 MTS
+
+Reserves
+
+20% - 240,000,000 MTS
+
+Team and Advisors
+
+10% - 120,000,000 MTS
+
+Partnerships
+
+19
+
+Metis Whitepaper
+
+Team Members
+
+CEO & Co-founder / Samuel Seo
+Chairman of Blockchain Industry Promotion Association
+CTO in GODOCTOR ASIA. Co., Ltd.
+IT Architecture in RCGLOBAL Co., Ltd.
+
+Co-founder / Hyunjun Lee
+eKYSS CEO
+Samsung C&T
+Hanyang University Business School IAB Advisory Professor
+eKYSS Global CEO
+
+CMO / Go Beomseok
+Graduated from Department of Molecular Biology, Konkuk University
+Head of B2B Sales Team, Edu Chosun, Chosun Ilbo
+Head of HRD Division, YBMnet Co., Ltd.
+
+COO / Jieun Han
+Graduated from Yonsei University Department of Journalism and Broadcasting
+Constructor, editor of Seoul Cultural History magazine-Editor-in-Chief of KBS Journal
+
+Current) Standing member of SNS Cultural Promotion Agency
+Current) CEO of Real Age
+
+Developer / Jinwon Kim
+Present) eKYSS IT TEAM
+Android Developer
+
+20
+
+Metis Whitepaper
+
+Advisors
+
+Kim Hyung-joo
+Chairman of Blockchain Industry Promotion Association
+Ph.D. in International Relations Research, Hankuk University of Foreign Studies
+
+Jinyoung Choi
+Chairman of Blockchain Today-Chairman of Dconference Organizing Committee
+Co-CEO of WBA
+
+Koo Tae-eon
+Korea University Department of Law
+Seoul Central District Prosecutors' Office, Advanced Crime Investigation Department
+
+Law Firm TEK&LOW CEO
+
+HJ Park
+JTBC Contents Business Director
+Film [Tour] Director
+Minister of Culture, Sports and Tourism Award
+
+Allen Kim
+Samsung SDI
+Senior Engineer, Microsoft
+
+21
+
+Metis Whitepaper
+
+

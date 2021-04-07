@@ -1,0 +1,245 @@
+Kema Coin White Paper
+Fast • Efficient • Secure
+William Corless
+8/16/2018
+Kema (rhymes with “Emma”) Coin is a lightweight coin that is based on
+Bitcoin/Dash/PIVX. It is designed to be fast, safe, and secure.
+
+Background
+Bitcoin ​was the first cryptocurrency that allowed users to send coins to
+each other without the need for a centralized authority. The network uses
+a program called a wallet that connects to other wallets through a peer to
+peer (P2P) system. Once loaded on your computer, users mine those
+wallets to obtain a Block reward through a process called Proof of Work.
+Proof of Work was the method to secure the network and a public record (blockchain) to
+prevent double spending of coins. As more and faster methods were created to mine
+those blocks which originally started with CPU’s then Graphics cards (GPUs), then
+ASICs1 it became necessary for users to band together to form pools in order to obtain
+the more difficult to receive block rewards. Each of the newer and faster methods to
+mine blocks use more and more electricity to get the same result. Bitcoin is vulnerable
+to a 51% attack, that is if you employ 51% of the hash power, you can manipulate or
+control the network. Although Bitcoin was the first, many other improvements were
+devised by alternative coins known as AltCoins.
+Peercoin ​is an altcoin based on Bitcoin, and made Proof of Stake (PoS)
+rather than Proof of Work (PoW) as its method of securing the network.
+The concept of proof of stake is that if you own coins you have a “Stake”
+in them, and if you are an attacker, you are less likely to want to destroy
+1
+
+Application Specific Integrated Circuit (ASIC) ​is an integrated circuit (IC) customized for a particular
+
+use, rather than intended for general-purpose use.
+1
+
+the network as it would go against your own interest. Proof of stake generates coins for
+those who have coins kept in their wallet for a period of time. This encourages people to
+HODL2 them. Once the coin reaches its “coin age” then it is ready to generate new
+coins. Proof of Stake uses much less electricity to generate coins and doesn’t need
+expensive mining equipment to accomplish this. As a result Proof of Stake coins are ​not
+subject to a 51% attack, and are more environmentally friendly.
+Dash is an altcoin based on bitcoin that introduced the concept of
+Masternodes. The concept of a masternode is that users would setup a
+Virtual Private Server (VPS) and install a headless3 wallet on it so it
+would be running all of the time, not just when the users’ computer is
+turned on for the day. This concept makes for a more stable network.
+Masternodes help secure the network, and receive a reward for the service. Other
+features including voting for projects to be funded, etc. In order to obtain a Masternode
+users “Lock” a certain amount of coins up in order to secure the masternode. This has
+the effect of taking those coins out of circulation and helps to raise the value of the coin.
+It also serves as a way HODLing coins. Dash has increased in value, and Masternodes
+are very valuable. As of this writing they are worth over a Quarter of a Million Dollars
+each, making masternodes a great investment.
+PIVX introduced Proof of Stake (PoS) to Dash. PIVX has many
+characteristics that are favorable (in our opinion) that make it a winning
+combination. It has all the great features of Dash, plus a Proof of Stake
+algorithm that makes generating coins easier and more energy efficient
+than Proof of Work algos. PIVX also incorporated zPIV an
+implementation of Zerocoins anonymous transactions. However it has gone through a
+number of changes requiring modifications to the code at certain blocks. We wanted all
+the benefits of PIVX starting fresh in a new coin. Hence the need for Kema Coin.
+
+Blockchain Balloon
+One thing that happens when a coin runs for a while is the blockchain, which
+contains all of the transaction history for the network, continues to grow. Some coins
+like Ethereum and others store contracts or other information on the blockchain. All of
+this extra information causes the blockchain to balloon in size, taking up more and more
+disk space, which can cause hard drives to crash.
+2
+
+HODL which is tongue in cheek for holding on to coins.
+Headless Wallets refer to wallets that do not have a Graphical User Interface (GUI) and are therefore
+more compact in size.
+3
+
+2
+
+You wouldn’t want to keep other people's paperwork on your computer would you?
+
+The trend for new Altcoins is to add more and more features which then cause the
+blockchain to continue to grow ever larger. This is counterproductive in our opinion, so
+we are proposing to remove the extra information making Kema Coin sleek and
+efficient.
+
+The Problems
+● Bitcoin is notorious for its slow confirmations and high fees.
+● Sending Bitcoin to an exchange can result in 30 minute to 3 hour waiting periods
+and 25 dollar transaction fees.
+● Peercoin takes too long to generate new coins. With a wait time of 30 days or
+more, it's just too long to wait.
+● Dash with its DAO and other features storing unnecessary information causes
+the blockchain to balloon in size.
+● PIVX which solves the 51% attack also suffers from a ballooning blockchain.
+
+3
+
+The Solution
+●
+●
+●
+●
+●
+
+Fast Transactions - Sending coins should be as fast as sending email.
+Lightweight - Storing less information on the blockchain saves hard disk space.
+Proof of Stake - Uses less electricity and is environmentally friendly.
+Masternodes - Secures the network and is a great investment opportunity.
+Supports eCommerce - eCommerce applications can be built on top of the
+network.
+
+Additional Features
+● InstantX - Kema Coin uses InstantX technology that allows users to send coins
+instantly. Great for e-commerce where vendors can be paid for their
+merchandise.
+● Darksend - Darksend is the original obfuscation method to make your
+transactions less public and more anonymous.
+● Masternodes pay 70% of block reward.
+● One minute blocktimes and 6 confirmations mean faster confirmation times.
+
+Masternodes
+
+Masternodes are the backbone of Kema Coin. Masternodes provide stability to
+the network by having nodes that run 24 hours a day, seven days a week. Masternodes
+4
+
+provide security with anonymizing transactions and additional functionality. In addition,
+masternodes are paid rewards for this service in the form of passive income. Kema
+Coin Masternodes receive 70% of the block reward of 100 Kemas (70 Kemas).
+Masternodes are paid similar to a network scheduler queuing algorithm based on evenly
+distributed basis based on the time since last payment.
+
+The queue refers to a single server with one demand rate delta, one dropout rate
+mu, and one rate of service sigma, for which the length of the queue ​L​ is defined as:
+
+The distribution method is similar to an Erlang model using a probability function
+method where k is the shape, lamba is the rate and mu is the scale.
+
+5
+
+In lay terms, masternodes are paid in turn. Kema Coin pays 100 coins per block
+reward with 70% or 70 coins going to Masternode owners and 30% to miners. No coins
+go to a “Treasury”, so we have opted for a Premine and coin sale to defray our startup
+costs.
+
+Information Table
+Premine
+
+100,000 Kemas
+
+Block Reward
+
+100 Kemas
+
+Required Coins for Masternode
+
+5000 Kemas
+
+P2P Port
+
+650705
+
+RPC Port
+
+650706
+
+Testnet Port
+
+650707
+
+Roadmap
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+
+Coin Sale - The coin sale will be offered soon
+Exchanges - Expect to see Kema Coin available on several exchanges
+Web Wallet - On our website we will offer a web wallet
+Paper Wallet - Paper wallets allow users to carry a paper wallet
+Mobile App - Android and Apple apps
+ATMs - ATM Integration
+Point of Sale - Users will be able to purchase items at stores.
+Bank Deposits - Users will be able to transfer fiat from their bank account to their
+Kema Coin account.
+
+6
+
+Securities Statement
+In 1946 United States Supreme Court case known as SEC vs. Howey Co., the
+Supreme Court created a simple test for determining if a transaction is considered an
+“investment contract” and is therefore subject to securities law and regulations.
+According to The Howey Test, a transaction is an “investment contract” if…
+1. Money is invested in a common enterprise or company
+2. The investor expects profits from the investment
+3. The profit comes from the efforts of someone other than the investor
+In this simple test we can say that Kema Coin is not a security for the following reasons:
+1.
+
+Purchasing Kema Coins is not investing in a common enterprise or company.
+
+2.
+
+Kema Coins have a utility purpose such as purchasing other items as a
+cryptocurrency.
+
+3.
+
+Users should not expect a profit in simply purchasing Kema Coins.
+
+4.
+
+Users of Kema Coin earn profits by their own efforts, not based on the efforts of
+others such as:
+
+5.
+
+4.1.
+
+Mining additional coins4
+
+4.2.
+
+Obtaining and managing masternodes
+
+4.3.
+
+Trading on exchanges (when applicable)
+
+Some users will earn more with Kema Coin than others based on those efforts.
+
+To find out more regarding this matter see our Securities Framework questionnaire
+available on our website at www.kema.io.
+
+Join our Team
+Join Kema coin, Fast, Efficient, Secure.
+
+4
+
+Proof of Stake requires users to have coins in order to mine additional coins.
+
+7
+
+

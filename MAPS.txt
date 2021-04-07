@@ -1,0 +1,435 @@
+Maps - White Paper
+January 2021
+
+For the most up to date information on Maps.me, visit our website
+
+1
+
+Contents
+1 Maps.me 1.0
+
+4
+
+2 Introducing Maps.me 2.0
+2.1 A revamped maps experience . . . . . . . . . . . . . . . . . . . .
+2.2 An embedded wallet for stress free, inexpensive and rewarding
+travel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.3 Your passport to a new financial future . . . . . . . . . . . . . .
+2.4 MAPS token . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4
+5
+
+3 A Brief Primer on Serum and Solana
+
+8
+
+4 Team and Advisors
+
+9
+
+5 Additional Information
+
+5
+6
+7
+
+10
+
+6 Appendix
+10
+6.1 Proposed Governance Model . . . . . . . . . . . . . . . . . . . . . 10
+6.2 Token Economics . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+2
+
+For years, the cryptocurrency industry has been growing. Bitcoin’s market
+capitalization, trading volume, transfer volume, and number of addresses have
+each doubled in the last few years. New technology has come out too: smart
+contracts, sophisticated loans and yield, faster chains, and intricate on-chain
+protocols.
+Most of the world has watched from the outside: financial firms largely are
+playing wait-and-see; Fortune 500 companies aren’t building on-chain. But each
+year, new people jump in. Just this year, Microstrategy, a publicly listed company in the US, has bought over four hundred million dollars of BTC1 , Paypal
+has begun to support a few cryptocurrencies for its 300M users2 and Square allowed users to make recurring purchases of BTC from the Cash app3 . Grayscale
+Bitcoin Trust’s, a public market bitcoin investing vehicle, net asset value has
+grown to over $10B4 with inflows of $1B in the last quarter5 . Facebook Diem
+and central bank digital currencies are rumoured to be on the horizon while
+Visa recently added USDC to it’s payment network6 . The institutions may not
+be flooding in, but the trickle has begun.
+Despite Decentralized Finance’s (DeFi) incredible recent growth ($10b of
+new capital has entered this year7 ), it hasn’t been a beneficiary of the outside
+world’s inflows. No project has captured a ton of users, and none are ready to
+meet the high-throughput needs of the most exciting real-world use cases.
+Until now.
+Maps.me has more users than any project in the crypto ecosystem, and 100
+times as many users as all of DeFi combined. It is a product with many use
+cases that naturally lend themselves to in-app payments, requiring no in-house
+support, and a userbase hungry for a streamlined experience. Maps.me represents a huge opportunity to bring financial freedom and inclusion to the world.
+This coming month, Maps.me will be launching its native financial suite to
+a hundred million users, and it has built the key DeFi components on Serum.
+The MAPS token is the centerpiece of the Maps.me 2.0 ecosystem. MAPS
+token holders are beneficiaries of 100% of all net revenue, giving access to what
+could become one of the largest fintech projects in the world. And the 100M+
+1 https://www.coindesk.com/microstrategy-used-coinbase-for-massive-bitcoin-purchase
+2 https://newsroom.paypal-corp.com/2020-10-21-PayPal-Launches-New-Service-EnablingUsers-to-Buy-Hold-and-Sell-Cryptocurrency
+3 https://www.pymnts.com/cryptocurrency/2020/new-cash-app-feature-allows-automaticbitcoin-purchases/
+4 https://grayscale.co/bitcoin-trust/
+5 https://grayscale.co/insights/grayscale-q3-2020-digital-asset-investment-report/
+6 https://www.fintechmagazine.com/digital-payments/visa-adds-usdc-stablecoin-networkcircle
+7 https://speedtest.investoogroup.com/news/total-value-locked-in-defi-surpasses-14bn/
+
+3
+
+users of Maps.me provide the potential for massive adoption of one of the world’s
+most rewarding loyalty programs..
+
+1
+
+Maps.me 1.0
+
+Maps.me is the world’s leading offline mapping application. Over the last nine
+years, Maps.me has been trusted by 140M users, with over 60M people using
+Maps.me last year to navigate across 195 countries. This trusted travel companion provides turn-by-turn routing, travel guides, and detailed mapping.
+It is particularly popular with millennial Europeans, with over 58% of users
+from the continent and over 70% between the ages of 18-40. The average millennial spent over $4,400 in 2019 on travel and related expenses8 .
+Until recently, Maps.me was an asset of the Mail.ru group, the Russian internet giant, backed by Alibaba, Tencent and Naspers. It was acquired with the
+aim to monetize it via integrated financial services, with DeFi infrastructure
+powered by Solana and Serum, with the net revenue of Maps.me being applied
+to the benefit of the Maps token holders.
+If successful in converting its userbase, Maps.me would be one of the largest
+fintech applications in the world. For comparison, Robinhood (13M users9 ),
+Coinbase (35M users10 ), Revolut (12M users11 ) and Transferwise (6M users12 )
+all have significantly smaller userbases. All of DeFi, plus every centralized exchange combined, is arguably orders of magnitude smaller. As an example, the
+total number of unique Ethereum addresses to ever use Uniswap was 250,000
+until September 202013 .
+At this time, these comparisons are mostly vacuous, given that Maps.me
+1.0 is purely an offline mapping app. However, with Maps.me 2.0, we have an
+opportunity to massively expand these financial opportunities to hundreds of
+millions of users.
+
+2
+
+Introducing Maps.me 2.0
+
+Maps.me 2.0 aims to be the ultimate travel companion and your passport to the
+new financial system. Powering Maps.me 2.0 is the MAPS token which governs
+100% of the platform’s net revenues. The MAPS token-holders using the app
+8 https://www.cnbc.com/2019/08/30/millennials-making-travel-a-priority-more-thanprevious-generations.html
+9 https://www.businessofapps.com/data/robinhood-statistics/
+10 https://www.coinbase.com/about
+11 https://www.businessofapps.com/data/revolut-statistics/
+12 https://transferwise.com/gb/blog/annualreport2019
+13 https://www.coindesk.com/uniswap-uni-distribution-growth-token-defi-strategy
+
+4
+
+will also benefit from personalized promotions and rewards, likely driving adoption, retention and virality of MAPS within the 100M+ strong community and
+beyond. Not only does Maps.me’s revenue draw from a huge natural userbase;
+the MAPS token’s adoption and retention do as well.
+
+2.1
+
+A revamped maps experience
+
+Maps is the natural entry-point for users as they explore the world. Our users
+use Maps.me before embarking on any journey, be that for navigating to their
+destination, booking a hotel to stay at, or finding a local coffee spot. Given this
+explicit expression of intent, the mapping app helps their decision making by
+providing them with recommendations, reviews, guidance and promotions from
+businesses.
+Mapping apps of the future, including Maps 2.0, will have much richer feature sets, seamlessly connecting with local businesses and experiences. It will
+support both online and offline maps.
+Our partners and advertisers are excited to participate using the tools we
+are building to unlock the value of our travellers and maps in a user privacypreserving way. With personalized promotions, loyalty programs, branded content directly on the map, and the ability to claim your business, Maps.me will
+deeply enrich our users’ travelling experiences.
+Maps are an intentful interface primed for monetization. This is true for
+Maps.me and also behemoths like Google Maps. Google Maps, today’s dominant mapping platform with over a billion users, is reportedly said to have
+revenues exceeding $4.8B in 2020 ($3B via paid promotions14 ), growing approximately 64% year over year. If Maps.me reached the same average revenue per
+user, it would make over $560 million next year from paid local promotions.
+However, our users’ needs extend beyond a feature-rich maps application.
+
+2.2
+
+An embedded wallet for stress free, inexpensive and
+rewarding travel
+
+For every dollar paid by an international traveller online, only 83 cents are paid
+to the final business15 , with a number of intermediaries taking the difference.
+The average cost for a simple cross-border payment (including charges from both
+the sender and recipient intermediaries and the exchange rate margin) typically
+eats up 7% of the amount sent and disproportionately impacts low and middle
+income users16 .
+14 https://skift.com/2019/08/30/google-maps-poised-to-be-an-11-billion-business-in-4-years
+15 https://blog.accessdevelopment.com/tourism-and-travel-statistics-the-ultimate-collection
+16 https://voxeu.org/article/stubbornly-high-cost-remittances
+
+5
+
+Currently, the experience on Maps.me is not very different. Our users explore and decide on accommodation, adventures, and travel on Maps.me, but
+are forced to make bookings on third-party platforms. The average commission
+charged by these platforms for accommodation and hotel booking is approximately 25%17 . On top of that, there are exorbitant foreign exchange fees that
+our users need to pay. This is the status quo, with multiple billion dollar companies built around each of these services.
+And a number of these are household names. Booking.com, one of our partners, is an $80B+ company which charges a global commission rate average of
+15%18 (among the lowest in the industry) for bookings. TransferWise, Western Union, Moneygram, and Xoom are all multi-billion dollar companies which
+derive a large fraction of their revenues from cross-border remittances and transactions.
+Our users deserve and demand better. Over 47% of the 26,000 users surveyed said that they would use financial services within the Maps.me app.
+Furthermore, our users present a huge base of demand for a loyalty token
+with nearly unparalleled rewards. Airline frequent flyer loyalty programs are
+often the most valuable asset an airline has; Crypto.com (CRO) has built up
+billions of dollars of ownership from the ability to upgrade your credit card.
+MAPS gives token holders the benefit of 100% of net revenues from Maps.me;
+discounts, personalized rewards, and premium features; and governance over
+the whole Maps.me platform, all exposed to over 100M users.
+Maps.me aims to be the ultimate travel companion for its users. Offline
+maps, navigation, and points of interest only capture a fraction of a traveler’s
+needs. Maps.me 2.0 has a natively integrated wallet which will allow our users
+to discover, review, and book directly, creating a seamless and cheaper experience. Our users will be able to transfer money cross-border with low fees and
+have multi-currency accounts. All of this is only possible because of the open,
+borderless, and permissionless nature of decentralized finance.
+
+2.3
+
+Your passport to a new financial future
+
+We’re all living in financial silos determined by nationality, net worth, and a
+myriad of other factors. The world is not flat in terms of financial options and
+opportunities. Through scalable DeFi, Maps.me has an opportunity to break
+down the artificial barriers imposed by legacy finance systems and provide its
+users with a significantly larger universe of financial opportunities.
+17 https://www.linkedin.com/pulse/what-do-otas-really-cost-hotel-steve-lowy/
+18 https://partner.booking.com/en-gb/help/commission-invoices-tax/how-muchcommission-do-i-pay
+
+6
+
+Within the Maps wallet, we plan to offer an array of investment opportunities to our users, which on traditional financial rails are expensive and exclusive.
+We intend to allow our users to generate yield on their savings by directly lending it out securely to borrowers. We also plan to give our users the ability
+to trade a wide plethora of assets unrestricted by geographical boundaries and
+transaction size.
+DeFi has an incredible property that the Maps.me ecosystem benefits greatly
+from: composability. Fresh projects start with immediate access to a full-service
+financial backend, and can piece together existing projects and programs like
+lego pieces to build tools more valuable than the sum of their parts. This allows for truly remarkable synergies within the ecosystem, whereas in traditional
+industries, coordinating a joint effort between two companies typically involves
+a lot more friction. In this case, any project interested in integrating or expanding Maps functionality can compose seamlessly without any permission or
+coordination.
+And that is the ultimate vision for Maps.me 2.0 — a platform for limitless
+financial opportunities for hundreds of millions of people, builders, and users
+alike. An important ingredient to power this vision and capture its value is the
+Maps token.
+
+2.4
+
+MAPS token
+
+While there are a number of financial benefits to token holders, the MAPS token
+forms the cornerstone of Maps 2.0, binding its 100M+ users. Holding the token
+will turbocharge your in-app experience driving adoption of MAPS within the
+user community and likely making the application more retentive. We expect
+the MAPS tokens to be available to the users in-app within the next few months.
+100% of the net-revenues
+Token holders will benefit from 100% of net-revenues that Maps.me generates.
+All of the revenues after costs goes to the benefit of the holders via mechanisms
+the token holders vote for.
+Maps 2.0 is expected to have a few revenue streams. A subset of these include fees from the financial transactions and bookings on the platform (Booking
+Holding Group had $15.07B in revenues in 201919 ), foreign exchange conversions
+spreads (varying between a few basis points to 4%), advertising and partner promotion fees (Google Maps is estimated at $4.8B, growing 64% annually), and
+credit card interchange fees (currently approximately 2% and 0.3% of transaction value in the US and Europe respectively20 ). It is worth pointing out that
+19 https://www.investopedia.com/articles/markets/080715/how-priceline-group-makesmoney.asp
+20 https://en.wikipedia.org/wiki/Interchange fee
+
+7
+
+each of these revenue streams may be less than applications built on traditional
+financial rails, returning the excess value to our users.
+Personalized rewards and loyalty programs
+As a holder of the token, you become eligible for personalized rewards and
+services based on your actions and token holdings. Akin to customer loyalty
+programs, the benefits of the MAPS tokens are likely to be tiered with additional
+services and discounts available to users with larger holdings. The existing
+userbase and service providers are already comfortable with this model: loyalty
+programs and incentives form a cornerstone of a number of travel and credit
+related products. Just the global airline loyalty programs alone are estimated
+at $200B21 . Moreover, Starbucks, which provides rewards to app and wallet
+users, attributes 40% of its total sales to the Rewards Program and has seen
+same store sales rise by 7%22 .
+Ownership and Governance of Maps.me
+The Maps.me application is driven by the MAPS token holders. Each token
+represents one vote and the token holders will vote on binding governance initiatives related to Maps.me.
+Preliminary details on the governance model and distribution may be found
+in the appendix.
+Technologically, it is challenging to support a real-time mapping, payments,
+and investing platform. The DeFi infrastructure and its tokens are built on
+the scalable DeFi layer powered by Serum, which in turn, is built on the highthroughput Solana blockchain.
+
+3
+
+A Brief Primer on Serum and Solana
+
+The underlying technology for a mapping software, real-time payment system,
+and an investing platform supporting hundreds of millions of users is non-trivial.
+And Maps.me 2.0 aims to support all of these use cases. Moreover, every dollar
+paid in transaction cost is a tax on the end user.
+And until the emergence of Solana, with its blazingly high-throughput blockchain,
+this was not possible. Solana can already support up to 50,000 transactions per
+second (Visa has peak capacity 65,000 transactions per second23 ) costing $10
+21 https://onemileatatime.com/investors-trade-frequent-flyer-miles/
+22 https://digital.hbs.edu/platform-digit/submission/starbucks-winning-on-rewardsloyalty-and-data/
+23 https://usa.visa.com/dam/VCOM/download/corporate/media/visanettechnology/aboutvisafactsheet.pdf
+
+8
+
+per 1 million transactions. Moreover, Serum and the associated ecosystem provides a rich ecosystem of financial primitives on which such an application can
+feasibly be built.
+You can read more about Serum and Solana here and here.
+
+4
+
+Team and Advisors
+
+Alex Grebnev, CFA, Co-Founder
+Alex has over 16 years of investment banking (Managing Director at Merrill
+Lynch, Goldman Sachs) and fintech experience. He has an MA in mathematics
+from the University of Cambridge.
+LinkedIn
+Viktor Mangazeev, Co-Founder
+Viktor is a serial technology entrepreneur. He was the CEO and co-founder of
+myDFS, a daily mobile fantasy sports platform called uTrener and a white-label
+app for KHL, Eastern Europe’s biggest hockey league. He also worked as CIO
+for a number of large companies. Viktor studied at Moscow’s National Research
+Nuclear University MEPhI.
+Linkedin
+Tina Chen, Head of Business Development
+Prior to MAPS.me, Tina was the primary fixed income trader for Goldman
+Sachs Asset Management in Hong Kong. She majored in hotel administration
+and minored in real estate at Cornell University.
+LinkedIn
+Sam Bankman-Fried, Advisor
+Before founding Alameda and then FTX, Sam was a trader on Jane Street Capital’s international ETF desk. He traded a variety of ETFs, futures, currencies,
+and equities, and designed their automated OTC trading system. He graduated
+from MIT with a degree in physics.
+Twitter, LinkedIn
+Ramnik Arora, Advisor
+Ramnik leads product at FTX. He was previously a product lead for ads products at Facebook. In the past he worked at Goldman Sachs. He is an alum of
+Stanford, NYU and IIT Kanpur.
+Twitter, Linkedin
+
+9
+
+5
+
+Additional Information
+
+You can find additional information at maps.me. The team can also be contacted directly at sales@maps.me.
+
+6
+
+Appendix
+
+6.1
+
+Proposed Governance Model
+
+Maps.me will include a simple governance model based on the MAPS token. 1
+MAPS = 1 vote. Anyone can propose a governance action for $1,000 of MAPS
+tokens. If a proposal is voted through, $1,000 of MAPS is returned to the proposer.
+Governance actions can potentially include the following types of proposal:
+• Economics and fees
+• Verifying user-submitted data
+• Deciding on assets available on the platform
+• Token holders having governance over the content
+– Which places are allowed to advertise
+All proposals are subject to a [3] day voting period, and any address with voting
+power can vote for or against the proposal. If a majority, and at least 1bn votes
+are cast for the proposal, it will be implemented after [2] days.
+Voting and governance may be implemented using aggregation through Nodes.
+This would be a decentralized structure through which stakers could provide additional utility to the protocol. This is only an outline and the exact procedure
+for implementing the governance process will be determined at a later date.
+Locked MAPS tokens will be eligible for most rewards, including yield, staking and governance.
+
+6.2
+
+Token Economics
+
+The initial distribution of MAPS is as follows:
+
+10
+
+Category
+Private Sale
+IEO and initial liquidity
+Serum Community Fund
+MAPS Community Fund
+Liquidity & Token Growth
+Ecosystem Partners
+Project Builders
+Technology & Product
+Ecosystem Growth & Marketing
+Total
+
+Tokens
+500,000,000
+500,000,000
+2,000,000,000
+2,000,000,000
+500,000,000
+1,000,000,000
+1,500,000,000
+1,000,000,000
+1,000,000,000
+10,000,000,000
+
+%age Tokens
+5%
+5%
+20%
+20%
+5%
+10%
+15%
+10%
+10%
+100%
+
+% Locked*
+100%
+0%
+92.5%
+90%
+100%
+100%
+100%
+100%
+85%
+90%
+
+* Locked tokens are fully locked for the first year. They will unlock linearly
+over the six years starting in December 2021.
+The amounts mentioned above are estimates and may change over time.
+Liquidity - MAPS is expected to be listed on Serum, FTX, BitMax and
+other exchanges in January 2021. Multiple top trading firms are prepared to
+provide liquidity for the token.
+Giving - 40% of all tokens are allocated to the MAPS and Serum communities. MAPS token holders will decide how to best develop the ecosystem using
+the funds in the MAPS Community Fund.
+Lockup Commitment - 90% of all tokens, including all private sale tokens, are locked up over seven years. This means that the team, partners, and
+investors are all committed to the long term success of the Maps ecosystem.
+In addition, there will be a soft cap on the circulating supply of 300M MAPS
+tokens for the first year.
+Cross-chain token - You can find the native SPL (Solana chain) MAPS
+token here and the ERC20 wrapper here.
+
+11
+
+Unlocked* Tokens
+0
+500,000,000
+150,000,000
+200,000,000
+0
+0
+0
+0
+150,000,000
+1,000,000,000
+
+

@@ -1,0 +1,149 @@
+Phore
+Proof-Of-Stake​ ​3.0​ ​privacy-based​ ​cryptocurrency​ ​with​ ​ZeroCoin​ ​Protocol
+November​ ​7,​ ​2017
+
+Page​ ​1​ ​of​ ​6
+
+Introduction
+What​ ​is​ ​Phore?
+Phore​ ​is​ ​a​ ​digital​ ​privacy​ ​cryptocurrency​ ​with​ ​a​ ​focus​ ​on​ ​sustainable​ ​development​ ​and​ ​growth.
+Phore​ ​uses​ ​Proof​ ​of​ ​Stake​ ​and​ ​Master​ ​nodes​ ​to​ ​secure​ ​the​ ​network​ ​and​ ​provide​ ​for​ ​a​ ​deep​ ​level
+of​ ​privacy​ ​and​ ​security.​ ​Phore​ ​has​ ​relatively​ ​fast​ ​block​ ​times​ ​compared​ ​with​ ​Bitcoin​ ​and​ ​low
+transaction​ ​fees.
+
+Coin​ ​Information
+Block​ ​Target: 60​ ​seconds
+Transaction​ ​Fee: 0.0001​ ​PHR​ ​per​ ​kB
+Block​ ​Maturity: 50
+PoS​ ​Reward: 2.8​ ​PHR
+Masternode​ ​Reward: 4.2​ ​PHR
+Masternode​ ​Collateral: 10,000​ ​PHR
+
+History
+Phore​ ​is​ ​a​ ​digital​ ​privacy​ ​cryptocurrency, an​ ​update​ ​and​ ​rebrand​ ​of​ ​KryptKoin​ ​(KTK) which​ ​was
+pre-announced​ ​in​ ​May​ ​2014, and​ ​whose​ ​distribution​ ​started​ ​on​ ​the​ ​21st​ ​May​ ​2014.
+Kryptkoin​ ​was​ ​a​ ​non-premined​ ​coin,​ ​distributed​ ​equally​ ​to​ ​people​ ​who​ ​qualified​ ​for​ ​a​ ​stake.​ ​In
+total,​ ​500​ ​stakes​ ​were​ ​distributed​ ​in​ ​2​ ​stages.​ ​Bonus​ ​KTK​ ​was​ ​given​ ​to​ ​those​ ​who​ ​held​ ​for​ ​30
+days.​ ​There​ ​was​ ​no​ ​ICO,​ ​and​ ​no​ ​dev​ ​premine.​ ​The​ ​developer​ ​received​ ​1​ ​stake,​ ​the​ ​same​ ​as
+every​ ​other​ ​stakeholder​ ​received.​ ​Following​ ​launch,​ ​Kryptkoin​ ​quickly​ ​developed​ ​a​ ​large
+following​ ​and​ ​introduced​ ​an​ ​online​ ​marketplace​ ​in​ ​2015,​ ​which​ ​included​ ​Paypal​ ​integration
+where​ ​digital​ ​items​ ​such​ ​as​ ​Wordpress​ ​themes​ ​and​ ​physical​ ​items​ ​such​ ​as​ ​clothes​ ​were​ ​both
+listed​ ​and​ ​bought.
+To​ ​facilitate​ ​new​ ​features,​ ​the​ ​existing​ ​code​ ​needed​ ​to​ ​be​ ​rewritten​ ​from​ ​scratch.​ ​This​ ​required
+a​ ​swap​ ​from​ ​Kryptkoin​ ​to​ ​the​ ​new​ ​Phore.
+A​ ​two-month​ ​window​ ​was​ ​given​ ​to​ ​existing​ ​KTK​ ​holders​ ​to​ ​swap​ ​their​ ​coins​ ​for​ ​new​ ​Phore​ ​on​ ​a
+1:1​ ​basis.
+
+Page​ ​2​ ​of​ ​6
+
+Kryptly,​ ​Kryptkoin's​ ​previous​ ​marketplace
+
+Team
+The​ ​coin​ ​has​ ​a​ ​strong​ ​and​ ​committed​ ​team:
+● Phroshi​ ​-​ ​Lead​ ​Developer
+● Julian​ ​-​ ​Core​ ​Developer
+● Fish313​ ​-​ ​Technical​ ​Support​ ​&​ ​Social​ ​Media​ ​Manager
+● Toby​ ​-​ ​Customer​ ​Relations​ ​&​ ​Social​ ​Media​ ​Manager
+● Shanto​ ​-​ ​Community​ ​Manager​ ​&​ ​Customer​ ​Relations
+● Liray​ ​-​ ​Technical​ ​Support​ ​&​ ​Japanese​ ​Community​ ​Manager
+● Ubermaster​ ​-​ ​Planning​ ​and​ ​Partnerships
+We​ ​will​ ​hire​ ​more​ ​staff​ ​and​ ​developers​ ​to​ ​strengthen​ ​our​ ​team​ ​as​ ​the​ ​Phore​ ​expands​ ​and
+evolves.
+
+Roadmap
+Phore​ ​is​ ​a​ ​restless​ ​currency.
+The​ ​key​ ​challenge​ ​going​ ​forward​ ​is​ ​to​ ​introduce​ ​real-world​ ​use​ ​which​ ​attract​ ​everyday
+people. In​ ​order​ ​to​ ​achieve​ ​this,​ ​Phore​ ​will​ ​implement​ ​advanced​ ​features​ ​to​ ​clearly​ ​differentiate
+Phore​ ​from​ ​other​ ​privacy​ ​based​ ​digital​ ​currencies.
+A​ ​number​ ​of​ ​these​ ​will​ ​add​ ​to​ ​the​ ​functionality​ ​and​ ​strategic​ ​integration​ ​of​ ​the​ ​online
+marketplace,​ ​which​ ​will​ ​be​ ​built​ ​on​ ​the​ ​current​ ​foundations​ ​of​ ​Phore.
+Governance​ ​will​ ​determine​ ​many​ ​of​ ​the​ ​goals​ ​going​ ​forward​ ​to​ ​keep​ ​the​ ​currency
+decentralized,​ ​but​ ​a​ ​decrease​ ​in​ ​Master​ ​node​ ​rewards​ ​per​ ​block​ ​is​ ​expected​ ​to​ ​decrease
+inflation.
+Page​ ​3​ ​of​ ​6
+
+Short​ ​Term​ ​(Q3​ ​-​ ​Q4,​ ​2017)
+● Zerocoin​ ​Protocol​​ ​-​ ​Fixes​ ​a​ ​major​ ​weakness​ ​within​ ​most​ ​digital​ ​currencies.​ ​With
+Zerocoin​ ​Protocol​ ​implemented​ ​within​ ​Phore,​ ​your purchases​ ​and​ ​transactions​ ​are
+secure​ ​and​ ​no​ ​one​ ​is privy​ ​to​ ​your​ ​financial​ ​activity.
+
+● Masternode​ ​Governance​​ ​- Those​ ​with​ ​Masternodes​ ​would​ ​be​ ​given ‘yes’​ ​or ‘no’ votes
+using​ ​commands​ ​built​ ​into Phone wallets.​ ​Decentralized​ ​governance​ ​will​ ​allow​ ​a
+crypto-currency​ ​network​ ​to​ ​grow,​ ​and​ ​incorporate​ ​democratic​ ​procedures​ ​that​ ​will
+ensure​ ​the​ ​longevity​ ​of​ ​the​ ​project,​ ​leading​ ​to​ ​a​ ​truly​ ​decentralized​ ​management
+system.
+● Online​ ​Marketplace​​ ​-​ ​UI​ ​compatibility​ ​for​ ​all​ ​devices.
+Medium​ ​Term​ ​(Q1,​ ​2018)
+● Segregated​ ​Witness​​ ​-​ ​Allows​ ​the​ ​number​ ​of​ ​transactions​ ​per​ ​block​ ​on​ ​the​ ​Phore
+blockchain​ ​to​ ​be​ ​increased.​ ​All​ ​signature​ ​data​ ​will​ ​be​ ​removed​ ​so​ ​that​ ​more​ ​transaction
+data​ ​can​ ​be​ ​packed​ ​in.
+● Decentralized​ ​Micro​ ​Crowdfunding​​ ​-​ ​Part​ ​of​ ​the​ ​Online​ ​Marketplace.​ ​A​ ​decentralized
+Kickstarter​ ​or​ ​Indiegogo​ ​platform,​ ​targeted​ ​at​ ​the​ ​'side-hustle’​ ​and​ ​micro-business
+generation.​ ​This​ ​means​ ​that​ ​the​ ​individual,​ ​partnership,​ ​or​ ​small​ ​startup​ ​with​ ​a​ ​brilliant
+invention​ ​or​ ​service​ ​can​ ​easily​ ​use​ ​the​ ​Phore​ ​platform​ ​to​ ​raise​ ​money,​ ​with​ ​much​ ​lower
+fees​ ​than​ ​other​ ​traditional​ ​platforms.​ ​We​ ​will​ ​also​ ​act​ ​as​ ​escrow​ ​until​ ​the​ ​product​ ​is
+received​ ​by​ ​the​ ​buyer.
+● Creation​ ​of​ ​the​ ​Phore​ ​Foundation​​ ​-​ ​Develop​ ​long-term​ ​e-commerce​ ​solutions,
+investments,​ ​partnerships,​ ​and​ ​to​ ​promote​ ​the​ ​sustainability​ ​and​ ​longevity​ ​of​ ​Phore.
+Medium​ ​to​ ​Long​ ​Term​ ​(Q2-Q4,​ ​2018)
+● Smart​ ​Contracts​​ ​-​ ​This​ ​will​ ​allow​ ​decentralized​ ​apps​ ​(dApps)​ ​to​ ​run​ ​on​ ​the​ ​Phore
+blockchain.​ ​Payment​ ​channels,​ ​trustless​ ​prediction​ ​markets,​ ​and​ ​decentralized
+exchanges​ ​are​ ​all​ ​things​ ​we​ ​expect​ ​to​ ​see.
+● iOS​ ​and​ ​Android​ ​apps​​ ​-​ ​Integrated​ ​wallets​ ​and​ ​online​ ​marketplace​ ​access.​ ​This​ ​will
+Page​ ​4​ ​of​ ​6
+
+unshackle​ ​Phore​ ​from​ ​use​ ​on​ ​laptops​ ​and​ ​desktops​ ​to​ ​make​ ​it​ ​a​ ​true​ ​mobile-friendly
+platform.
+● Ledger​ ​and​ ​Trezor​ ​Support​​ ​-​ ​For​ ​long-term​ ​cold​ ​storage.
+● Phore​ ​Labs​​ ​-​ ​Incubator​ ​for​ ​Phore​ ​related​ ​projects​ ​to​ ​encourage​ ​development​ ​and
+growth​ ​through​ ​the​ ​Phore​ ​blockchain
+The​ ​Phore​ ​Foundation​ ​will​ ​invest​ ​in​ ​projects​ ​to​ ​help​ ​them​ ​reach​ ​market​ ​and​ ​then​ ​reinvest
+profits​ ​in​ ​further​ ​projects.​ ​It​ ​is​ ​envisioned​ ​that​ ​ultimately​ ​5-10%​ ​of​ ​the​ ​projects​ ​on​ ​the
+marketplace​ ​will​ ​be​ ​taken​ ​up​ ​by​ ​Phore​ ​Lab​ ​projects.
+The​ ​Phore​ ​Foundation​ ​will​ ​actively​ ​seek​ ​out​ ​projects​ ​to​ ​support.​ ​These​ ​will​ ​be​ ​sourced​ ​from
+individuals,​ ​universities,​ ​start-ups,​ ​and​ ​cooperatives​ ​around​ ​the​ ​world​ ​who​ ​have​ ​the​ ​capacity
+improve​ ​the​ ​lives​ ​of​ ​others.​ ​Investments​ ​will​ ​be​ ​made​ ​in​ ​the​ ​form​ ​of​ ​Phore​ ​currency,​ ​and
+participants​ ​will​ ​sell​ ​exclusively​ ​through​ ​the​ ​Phore​ ​marketplace​ ​online​ ​for​ ​a​ ​fixed​ ​minimum
+period​ ​before​ ​being​ ​allowed​ ​to​ ​sell​ ​their​ ​product​ ​locally​ ​offline.
+Long​ ​Term​ ​(Q4,​ ​2018​ ​and​ ​beyond)
+● A.I.​ ​Bot​ ​creation​​ ​-​ ​For​ ​trading​ ​support​ ​of​ ​Phore​ ​on​ ​exchanges.
+● Phore​ ​Foundation​ ​Scholarships​​ ​-​ ​Talented​ ​Coders​ ​will​ ​receive​ ​paid​ ​internships​ ​on
+placements​ ​at​ ​Phore.
+● Phore​ ​Foundation​ ​Charitable​ ​Donations​​ ​-​ ​Phore​ ​will​ ​be​ ​donated​ ​to​ ​charitable​ ​causes​ ​as
+voted​ ​by​ ​the​ ​Masternode​ ​Governance​ ​system.
+● Further​ ​Partnerships​​ ​-​ ​With​ ​industry-leading​ ​companies.
+● Event​ ​Sponsorship​​ ​-​ ​Sponsor​ ​Phore​ ​related​ ​events​ ​to​ ​promote​ ​Phore​ ​as​ ​a​ ​platform
+
+Page​ ​5​ ​of​ ​6
+
+Other​ ​Information
+Official​ ​Website
+phore.io
+
+FAQ
+
+https://phore.io/faq/
+
+Bitcointalk
+https://bitcointalk.org/index.php?topic=2307909.0
+
+Discord
+https://discordapp.com/invite/Aucncz5
+
+Twitter
+https://twitter.com/phorecrypto?lang=en
+
+Facebook
+https://www.facebook.com/Phore-1996158580662988/
+
+Github
+https://github.com/phoreproject/Phore
+
+Masternode​ ​Statistics
+https://masternodes.pro
+http://mnrank.com
+https://masternodeapp.com
+Phore​ ​©​ ​2017
+Page​ ​6​ ​of​ ​6
+
+

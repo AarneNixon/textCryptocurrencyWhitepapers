@@ -1,0 +1,514 @@
+WOOTRADE LITEPAPER v5
+INTRODUCTION
+Wootrade is a darkpool trading platform that offers significantly above-average liquidity, tighter
+spreads than the major exchanges, and zero (or even negative!) fees. It is the beginning of a
+reinvention in cryptocurrency trading which will finally create an efficient and
+high-performance marketplace.
+While cryptocurrency trading has matured quickly over the last decade, liquidity is still
+segmented amongst disparate liquidity pools, transaction costs remain high, and manipulative
+trading practices are seemingly ubiquitous. This is in contrast to established stock and futures
+markets where trading costs are in a race to the bottom -- for fees, spreads, and all other
+hidden costs.
+Wootrade solves the liquidity, cost, and adverse selection issues of cryptocurrency trading for
+exchanges, institutions, and (eventually) retail traders through the use of redesigned incentive
+mechanics. We understand that efficient markets are built on an equilibrium of economic
+incentives and have designed a system in which both sides of the trade are mutually better off.
+By leveraging the platform’s native token ​woo​, we incentivize liquidity providers to compete on
+prices and spreads, improving the economics and experience for traders. Rather than placing an
+importance on volume, we aim to make “execution quality” our principal benchmark.
+We understand that a trading platform’s success is built on liquidity, but endures through trust.
+Wootrade is incubated by one of the largest cryptocurrency trading firms, Kronos Research, and
+will be seeded with liquidity from this parent firm in the short term. Projecting forward, we will
+be creating an ecosystem in which neither Wootrade’s employees nor Kronos Research will
+have any innate advantages. In the long term, we plan to decentralize the governance of
+Wootrade and create a platform that uses blockchain technology to be both transparent and
+fair in its treatment of all participants.
+
+Overview
+Wootrade
+● Founded in June 2019 and completed seed funding with Hashkey Capital, Fenbushi
+Capital, SNZ & DFund
+● January 2020 - Fully functional darkpool servicing exchanges and institutional trading
+clients via API
+● August 2020 - Finished private sale and equity funding with Wootrade clients, global
+trading communities and top VCs including Dragonfly Capital and Three Arrows Capital.
+● Now - for the BTC/USDT pair, WATS offers roughly 10 BTC of depth within $2 USD &
+100+ BTC within $10 USD
+● Now - 65,000+ end users from B2B partners, executing roughly $4-5M USD per day at
+ZERO Fees through WATS. 2021 target is $50-100M USD/day
+● October 2020 - Zero Trading Fee Trading Platform with the flexibility & features active
+traders crave
+Figure 1:
+
+Kronos Research (initial liquidity provider to Wootrade)
+●
+●
+●
+●
+
+Founded June 2018
+Trading volume roughly $45 BILLION USD/month
+Flagship fund +50% since inception March 2019 w 100% positive months
+Designated Market Maker (DMM) for Binance, Huobi, OKEX and others
+
+woo​ ​is a native platform token which unites liquidity providers and seekers into a mutually
+
+beneficial economy that allows for zero-fee trading at the best execution prices globally.
+Traders, exchanges and those with asset management needs will directly benefit in a virtuous
+and self-reinforcing manner:
+Figure 2:
+
+Background of ATS / Dark pools in Traditional Finance
+While Wootrade is intended for the distinct challenges of cryptocurrency trading & investing, it
+is carefully modeled after the evolution of the world’s financial markets to ensure it has a
+strong business foundation. It is imperative to understand how both traditional and
+cryptocurrency markets operate to understand how Wootrade works and why it occupies an
+essential niche in the industry.
+Wootrade is a “dark pool” or Alternative Trading System (ATS), an oft-confused term that
+masks a very straightforward concept: a dark pool is like an exchange but one where traders
+can interact privately, away from the eyes of the visible, or “lit”, exchanges.
+Dark pools are a necessary addition to trading infrastructure because being able to work with
+your counterparty in private immensely improves pricing and liquidity. In fact, dark pools
+represent a return to how humanity has transacted for most of human history – that is, until
+the computerization of exchanges—which is face to face, directly from one party to another.
+Markets participants quickly realized that the identity and reputation of your trading partner
+is actually an important trading signal in and of itself.
+For example, if a trader becomes renowned for their trading acumen—perhaps from often
+possessing advanced knowledge of news and other events—then they would quickly find a
+dearth of counterparties. Just like professional gamblers are shunned from amateur games,
+skilled traders would find that no one would want to trade with him at the same price as
+everyone else. Offers would quickly adjust away in response to his bids.
+Conversely, if a counterparty is known to trade at her schedule without a correlation to future
+prices, she would easily find a willing buyer for every posted sale. There may even be traders
+willing to offer discounts in her favor.
+The defining property in this arrangement is the notion of toxicity. A counterparty’s orders –
+commonly referred to as order flow – is non-toxic if they have no predictive accuracy over a
+certain time period, commonly a short term one (i.e. two to thirty minutes). Investors who
+are looking to hold an equity asset for months or years at a time are typically non-toxic
+because they are not looking to optimize what will happen in the minutes or hours after their
+investment. Since most high-volume traders, like market makers, focus on short term returns,
+this means that investors’ flow is benign to trade against.
+In traditional markets, dark pools were instituted as a way for non-toxic traders to execute large
+trades – called “block trades” for their size—in a way that would not impact the market price of
+the asset being traded. This works well for both the block trader and the market maker: the
+
+block trader would avoid impacting the cost of a large trader, and the market maker could
+obtain inventory for cheap. Since this is such a favorable trade for both parties, dark pool
+volumes have steadily increased over the last two decades and now account for almost 65% of
+all U.S. equity trading volume.
+Since the economics of executing with non-toxic order flow is very different from toxic flow,
+market makers are willing to heavily subsidize it. Retail order flow in particular is extremely
+non-toxic and desirable for market makers. Often market makers will pay brokers for the right
+to trade with their retail order flow in an arrangement called payment for order flow.
+
+Overview of Current Digital Asset Trading Venues
+While the gap between trading services in cryptocurrency markets and traditional financial
+asset markets are closing, cryptocurrency markets must still resolve serious operational issues.
+The issues are compounded by the global reach that exchanges have and the lack of a
+consistent global regulatory system. While certain countries have regulations in place that are
+designed to protect users from unscrupulous activity, exchanges are largely able to bypass this
+by domiciling in a country with the most accommodating regulatory environment while
+continuing to provide services to users based in the most stringent countries. Exploitative
+behavior that would be curtailed by proper regulations remains rampant.
+Unlike traditional exchanges, cryptocurrency exchanges manage the entire trading business
+vertical, which includes customer acquisition, fund custody, order matching and trade
+settlement. This is an incredibly difficult challenge that is further amplified by the large number
+of competitors. As such, the exchange business environment remains intensely cutthroat with
+the average exchange lifespan lasting only a few years. Total trading volumes continue to
+remain the most important metric for exchanges because higher trading volumes attract
+traders to trade on a platform. The push for higher trading volumes by exchanges has led to the
+continuous reporting of inflated trading volumes, which have been an issue among both large
+and small exchanges. Unfortunately, when traders arrive on the platform, one cursory look at
+the order books would make clear that the exchange’s volume and liquidity are faked. In their
+efforts to boost total trading volumes, exchanges will also resort to offering higher risk products
+that go well beyond their execution capabilities to gain additional market share.
+Traders are also faced with platform instability caused by weaknesses in an exchange’s backend
+infrastructure and connectivity. It is not uncommon for orders to fail to execute due to a
+technical issue in the system. What makes the technical issues even more serious in crypto is
+the severe volatility largely caused by the exchange’s very thin trading liquidity. A technical
+issue in the middle of a huge price swing that prevents an order from executing properly can
+mean losses of staggering sums of money for both exchanges and traders.
+While traditional exchanges have seen a wave of consolidation over the last few decades, M&A
+activity among crypto exchanges remains low. The high fragmentation combined with the
+
+minimal cooperation that occurs between exchanges results in constant asset mispricings. It is
+often up to arbitrageurs to align prices even though they must assume significant exchange
+risks associated with trading on all exchanges. The current situation also presents serious
+issues for market makers as they are tasked with carrying the risk of arbitraging. Inaccurate or
+fraudulent price information further exacerbates these issues. These problems, however, can
+be resolved immediately with proper regulation. In the US equity market for example,
+regulators have instituted the concept of a “national best bid & offer” (NBBO), ensuring that
+orders need to be executed at the price of the best exchange, regardless of where it originated.
+These issues all collectively result in higher overall trading costs because it remains difficult for
+investors/traders to identify the best source of liquidity for a given asset. All of these issues also
+significantly damage trader confidence, preventing larger-scale adoption amongst less
+sophisticated retail customers. Most importantly is that this ultimately results in the high
+overall risk profile of crypto, preventing wider institutional adoption and hindering crypto from
+obtaining legitimacy as an asset class.
+There will be numerous beneficiaries from a strong Wootrade ecosystem. We summarize below
+the specific pain points we hope to solve for each of our initial target audience:
+Exchanges & trading platforms:
+1) Inability to attract professional market-makers and retail: Exchange liquidity is a classic
+
+chicken and egg problem. Without strong liquidity, traders won’t come and without
+traders, it’s hard to incentivize MMs to provide liquidity in the first place. Smaller
+exchanges use a variety of incentives to attract MMs but generally fail to achieve
+traction. It is difficult to know which MMs are reliable and even harder to motivate the
+top MMs to fully support the exchange. Therefore, it is generally not economical for
+established MMs to spend time and human capital to connect to a new or small
+exchange
+2) Lack of differentiating products: In an ultra-competitive environment, a unique offering
+
+for clients is essential. However, these exchanges have enough trouble providing the
+basic necessities such as a good trading interface, stability and liquidity. They do not
+have the experience nor resources to launch, maintain and improve unique and
+attractive financial products
+
+Large traders/OTC desks
+1) High slippage/execution costs: Price-conscious retail and all institutions are actively
+
+looking for more efficient ways to gain and offload exposures quickly at the lowest
+possible slippage. Being able to execute large orders at superior prices via ATS’s away
+from the public exchanges is a crucial need
+
+2) Trading GUI/Interface: Professional traders and investors demand robust and
+
+customizable execution systems complete with algorithms to help decrease slippage
+and increase profits
+
+Wootrade’s suite of solutions will dramatically transform the rules of the game and seek to
+resoundingly put these issues to rest.
+
+Figure 3: Cost Benefit comparison of using Wootrade vs leading exchanges
+
+Assumptions:
+1) traders pay average of Binance and Huobi spot fees based on volume traded
+2) traders hold relevant platform tokens to reduce trading fees
+
+Wootrade ATS {The Liquidity Standard}
+WATS is an Alternative Trading System with backing from Kronos Research, a top crypto
+quantitative fund that currently trades roughly $45 billion per month and is a leading liquidity
+provider on the largest digital assets exchanges. Kronos Research can use its expertise in price
+prediction, risk handling, and inventory management to uniquely bootstrap Wootrade’s order
+book size and depth of WATS. Combining this with Wootrade’s unique system of incentivizing
+execution quality results in a pool of liquidity that is superior to the liquidity provided by the
+cumulative order books of established exchanges.
+
+While cryptocurrency trading has significantly improved its level of services and order execution
+quality in a few short years, it remains well behind the standard level in traditional financial
+markets. In equities markets, traders that trade through a dark pool are charged zero
+transaction fees, experience minimal slippage, and have access to an order book depth and a
+thin bid-ask spread that is often better than traditional exchanges.
+The WATS dark pool is designed to provide crypto traders with the same level of benefits. The
+smaller exchanges, which still collectively handle a significant portion of trading volume, are
+stuck trying to simultaneously build out their internal market-making systems while attracting a
+core user base. With Wootrade, the smaller exchanges now have the option of delegating the
+market making duties to the WATS platform and focus entirely on what they do best. Smaller
+exchanges can turn to Wootrade for full order book support or just to use as a hedging venue.
+WATS encourages high-quality liquidity through the use of pricing segmentation. Instead of
+one order book for all participants like in a public exchange, each type of LFP will actually have
+its own dark pool and order book. This ensures that MMs can price the risk coming from the
+order flows of a particular LFP correctly. Less toxic LFPs will be highly sought after, and will
+receive very competitive quotes; toxic LFPs will be offered quotes which are consistent with
+external exchanges and no better.
+Figure 4: ATS
+Market participants can access
+Wootrade directly via websocket/REST
+APIs, via one of our certified vendor
+partners or through our ultra-intuitive
+user interface.
+Through the value that Wootrade
+creates for its core users, we are
+confident that the platform will
+become an important part of crypto’s
+trading infrastructure and also play a
+central role in crypto’s advancement
+as an asset class.
+
+WATS Business Model
+WATS is structured to incentivize participation from two groups of traders:
+● Liquidity Flow providers (LFPs) who possess order flow that they wish to execute. LFPs
+are typically exchanges, wallets, or proprietary trading teams. LFPs care most about
+executing their trades at the best average price possible, the measure of which is
+called execution quality
+● Market makers (MMs) who look to be a ready buyer for every seller, and a ready seller
+for every buyer. Market makers aim to make small profits on a large volume of trades
+by providing liquidity.
+● Staking - those who wish to provide more liquidity to the system may do so via staking
+mechanisms. Participants simply choose which token they wish to stake and will be
+rewarded in that token depending on a number of factors.
+In traditional U.S. equity markets, established LFPs will direct their order flows to large MMs in
+return for execution quality. These market making firms will offer deep liquidity and much
+better prices than what LFPs can get on the open market – and often with no fees. However,
+there is a downside: due to a combination of strict regulations and significant customer
+acquisition costs, it can be difficult for new LFPs or MMs to get started.
+Figure 5: Revenue Sources
+
+WATS is designed to mimic and improve upon the tested paradigm of traditional markets, but
+in a way that prioritizes the concepts of critical mass and network effects. The success of the
+Wootrade ecosystem is dependent on gaining a critical mass of users, service providers and
+eventually developers to achieve a self-sustaining cycle of growth and innovation. As we have
+seen with many of the trading platforms created over the past few years, there exists a
+so-called ‘chicken-and-egg’ problem where traders refuse to commit to a platform without
+
+sufficient liquidity and yet liquidity providers refuse to commit their time to a platform
+without users. To resolve this issue, Wootrade has the backing of Kronos Research which has a
+vested interest and the ability to ensure that the liquidity and trading fees are the most
+competitive in the world.
+So to achieve critical mass, Wootrade must allocate resources in a more centralized manner
+and experiment flexibly with a variety of incentive dynamics that would not be possible in a
+decentralized manner. What ultimately separates platforms with critical mass from others is
+the network effects created by the platform. In the case of multi-sided platforms such as
+Wootrade, both direct and cross-side network effects are important to consider. Direct
+network effect for example is a networking platform like Instagram which becomes more
+valuable as more of the same type of users join. Cross-side network effects would be like
+LinkedIn in which more benefit is derived when those searching for employment and those
+searching for talent both increase.
+a) Direct network effect ​- more traders/end users results in more two-way flow which by
+itself would create more efficient markets for the end-users
+b) Cross-network effect ​- there are a couple of these embedded in our design, but the
+most obvious would involve liquidity flow providers (LFPs) and liquidity providers
+(MMs). the more flow that is driven to the platform, the more attractive participation
+becomes for MMs.
+Another dynamic to consider here is that WATS is free and open to all flow providers such as
+OTC desks, exchanges and traders to use. Third-party platforms/exchanges can achieve
+superior liquidity just by connecting to WATS and their ability to utilize this advantage to gain
+more customers will magnify the network effects of Wootrade. We have partnered with both
+centralized and decentralized exchanges in this regard. In summary, the platform creator must
+subsidize at least one side of the market to have a chance at achieving critical-mass adoption.
+
+Figure 6: Network effect flywheel
+
+For the main participants of the ecosystem to continuously iterate towards the desired actions
+and results, we introduce our native currency called ​woo​. The token in our view is actually a
+powerful network magnifier to attract and retain key participants and to guide desired
+behavior. The classic use case of WOO is similar to other platform tokens - from collateral to
+fee-reduction/rebate mechanisms.
+At its simplest, the token must help to maximize non-toxic flow while minimizing toxic flow
+and at the same time maximize liquidity.
+More novel use cases involve staking into market-making pools that utilize Kronos Research’s
+ability in trading, governance functions, targeted reward mechanisms for contributors to the
+platform - such as rewarding flow providers (nodes) with tokens. More details below on our
+token use cases.
+
+Plan for the future: a self-sustainable & more decentralized ecosystem
+The strength of blockchain is in decentralization, and Wootrade is not foreign to this vision.
+For example, Wootrade’s ability to attract and work with leading market makers can provide
+many unique opportunities that other competing decentralized networks cannot.
+One proposed idea is to improve the ability of market makers by allowing them to utilize
+decentralized price prediction oracles supplied by existing trading experts. These price
+predictions are usually the result of sophisticated models generated by sophisticated
+quantitative researchers for use in their own trading strategies. In fostering a decentralized
+woo-token powered economy around the publishing and subscription of price predictions,
+
+researchers can profit from allowing others to subscribe to their predictions, and market
+makers can adjust their quotes more quickly to changing markets.
+Further, we plan to eventually launch Wootrade into a platform that is free from any
+centralized point of failure. This includes technological deficiencies like hardware issues, power
+grid failures, or DDOS attacks. It also includes regulatory risk from specific jurisdictions making
+decisions on what can be traded and by whom. Ultimately, we believe that the power and
+freedom of trading should lie with traders.
+The details of this approach will be circulated in the future, but the highlights are as follows:
+a) There are three parties in this system: traders, routing agents, and matching engine
+nodes. Wootrade will be circulated as a piece of software which will allow these parties
+to interact with each other.
+b) Traders will be able to send messages to matching engine nodes by encrypting their
+messages and passing them to routing nodes. Each message will contain the address of
+one or more routing nodes, and the payload is encrypted multiple times by the public
+key of each routing node in a TOR-like algorithm. Each routing node will know where
+the message is being directed to, but not its final destination nor its original sender.
+c) Matching engines will take turns handling the matching for a variety of “symbols”, but
+will not know what symbol it is matching until after the matching is complete. Trading
+will transition to a type of trading that has better periodic auction-style mechanism
+d) The platform payment detailed at the bottom of section 2.a. will go to a new party, the
+“matching engine” node. The matching engine node is tasked with matching orders
+from traders.
+
+Governance & the ​woo ​token
+Below is a short discussion of Wootrade’s governance system. The system, it’s parameters and
+rules are subject to change.
+One of the most exciting things about working in the blockchain industry is the ability to
+experiment with novel business, economic and management models. There have been many
+attempts in the past at decentralizing exchanges and protocol governance, but significant
+improvements can be made. Up to now, governance models in crypto resemble naïve
+democratic systems that have proven to be ineffective at best and disastrous at worst. Combine
+this with the need for an autonomous and decentralized tech stack that is supposed to endure
+the test of time and you end up with unmet expectations.
+To achieve an ecosystem that is widely adopted, useful, and permanent, governance cannot
+remain centralized. However, if we decentralize too fast, there could be serious consequences.
+We’ve seen a few high profile defi projects get gamed and lose significant value due to even
+slight oversights in incentive mechanisms or issues with smart contract code.
+
+Therefore, a Governing Council carefully selected from core team members, shareholders,
+community participants and business partners will be managing the ecosystem using an
+off-chain governance model initially likely involving TCR. We will decentralize gradually with
+high probability adjustments one at a time and only after careful simulations and
+experimentation at a smaller scale.
+In this off-chain governance model, participants communicate outside of the Wootrade
+network. The main functions of governance participants will be to create proposals or
+challenges and vote on them. Proposals can be created by any member, but only the proposals
+with sufficient points are then discussed and voted upon.
+Only ​woo ​tokens can be staked to earn voting points – based on amount and duration staked that the staker can then use to vote on proposals. The points are not tokenized by Wootrade so
+at least initially, they cannot be transferred, bought or sold.
+The process to add new members to WATS could also involve voting. If an exchange would like
+to use WATS, they would apply by depositing tokens which would open a “registration
+window.” If there’s no challenge during this time period, then they are approved and the
+tokens would be distributed amongst the nodes. Others may challenge the new entrant by also
+depositing tokens. If the community votes for the challenger, then the applicant’s tokens are
+taken and given to the challenger. If the challenger loses, then their tokens would be
+distributed to the nodes. This is just one example of many governance use cases once we are
+ready to hand over operations to the community.
+
+woo ​tokens enable more decentralized and transparent governance which should increase
+
+inclusion from all participants large and small. Anyone can participate in creating proposals and
+play a key role in the evolution of the ecosystem. Some of the initial decision-making aspects
+open to proposals and voting include:
+* minimum staking amount for node application
+* minimum and maximum duration for staking
+* voting points accrual mechanism
+* product or token development listings & features
+* fee models/rebates/revenue waterfall (value capture voting)
+* token distribution rates and dynamics based on various forms of mining
+These basic but important governance functions will provide our partners, investors and
+community unprecedented ability to help shape and evolve Wootrade continuously.
+
+The ​woo ​token unifies participants of Wootrade into self-reinforcing network
+
+The Wootrade native token, ​woo​, has a cap set at 3,000,000,000 tokens. 20% of the tokens are
+sold in the private and public sales. 20% are team tokens and 5% are advisor tokens, both of
+which are locked for 4 years. 50% of tokens are ecosystem tokens earmarked for various mining
+/ staking rewards. The remaining 5% is for liquidity management.
+Certain factors will determine the initial reward rates which are inversely correlated with the
+percentage of tokens staked. Initially determined by the Governing Council, this rate may be
+changed by community vote in the future.
+The ​woo​ Token serves the following four critical functions on the platform:
+Collateral​: ​woo​ ​may be used as trading collateral
+Mining​: Earn ​woo​ ​for bringing quality order flow to the platform as a node
+Staking​: Stake w
+​ oo​ ​in market-making fund or to accrue voting points
+Payment​: Pay less in margin and wealth management fees with ​woo
+Use, stake, vote - these are done differently on Wootrade. With these slight but important
+adjustments, we should be able to find a good balance between those who want to stake and
+those who want to use w
+​ oo ​tokens inside the ecosystem. A few crucial tenets the token is
+built on are below:
+1) duration matters - should those who are more loyal to the platform be rewarded more
+than those who are more transient in their contributions? We believe so and will be
+accruing voting points and w
+​ oo ​rewards faster to those who hold for longer periods of
+time
+2) governance/voting record - we will actively design mechanisms that rewards those who
+consistently make optimal decisions or submit novel and valuable proposals with more
+influence and tokens
+3) dynamic equilibrium - mining reward rates for staking, flow and even trading fees shall
+be adjusted dynamically. If only a small percentage of tokens are staked, then the
+reward rates shall be higher and will decrease as more tokens are staked. Similarly,
+rebate rate for flow will increase if flow quality is high and demand for this flow is
+increasing
+We believe that by adopting decentralization gradually will give the greatest flexibility while
+giving the highest probability of achieving the eventual goal of a self-sufficient system which
+standardizes liquidity and provides for inclusive wealth management.
+In this paper, we have discussed the background of the parallel traditional financial markets and
+why Wootrade exists - specifically addressing the most pressing issues in digital asset trading
+and investing. On its own, Wootrade will set the standard for crypto liquidity and investing, but
+
+tied with the ​woo ​token, we introduce important use cases of governance, revenue sharing,
+mining and staking mechanisms which should increase platform adoption rates and inclusion.
+Figure 7: WOO Rewards & Buyback Pool Estimation
+Wootrade Daily Volume (USD)
+
+500,000,000
+
+100,000,000
+
+10,000,000
+
+5,625,000
+
+2,250,000
+
+450,000
+
+WOO Reward Pool in WOO Tokens
+
+281,250,000
+
+112,500,000
+
+22,500,000
+
+Flow Rewards (75% of Pool) in WOO Tokens
+
+210,937,500
+
+84,375,000
+
+16,875,000
+
+Staking Rewards (25% of Pool) in WOO Tokens
+
+70,312,500
+
+28,125,000
+
+5,625,000
+
+WOO Buyback Pool (50% of Total Rev) USD
+
+11,250,000
+
+4,500,000
+
+900,000
+
+Annual WOO Buyback # of WOO
+
+562,500,000
+
+225,000,000
+
+45,000,000
+
+125.00%
+
+50.00%
+
+10.00%
+
+Annualized WOO Token Reward Pool (USD)
+
+Annual WOO Buyback %age of Circulating
+
+Every single token holder can-- and we hope, will -- contribute to the evolution of Wootrade.
+This is the ambitious timeline we are executing against and we hope you will join us on this
+exciting journey.
+
+Timeline:
+July 2019
+Wootrade ATS (WATS) founded & seed round completed
+December 2019
+WATS 1.0 launches for initial clients
+June 2020
+CTO onboarded + 2 senior backend engineers
+July 2020
+WATS 2.0 replaces WATS 1.0 - higher scalability & reliability
+August 2020
+Private sale and equity round completed
+September 2020
+Leveraged spot trading, Woo.trade new website launch
+
+October/November 2020
+Token sale/Token Genesis
+Token use cases live for WATS
+Q1 2021
+Trading platform launch
+Q2 2021
+Futures trading launch
+Q3 2021
+Decentralized Wealth Management Platform Launch
+Series A Funding
+2022
+Decentralized operations / ownership phase
+
+

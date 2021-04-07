@@ -1,0 +1,305 @@
+FUTUREXCRYPTO
+THE FUTURE OF MONEY
+
+WHITEPAPER
+
+Read this notice very carefully. Consult your own legal
+advice before engaging in any activity.
+
+Neither we nor any third party service provider shall
+be liable for any kind of damage or loss, including
+direct and indirect, that may fall upon you as a
+result of reading this whitepaper, materials
+produced by FXC or using the Futuresxcrypto
+websites at: www.futurexcrypto.com
+NO OFFERS OF SECURITIES, ADVICE OR SOLICITATION
+This whitepaper is intended for informational purposes only. It
+is not intended to be investment advice, solicitation of any kind
+nor an endorsement. Any decisions or actions taken on the
+basis of information presented in this whitepaper, the
+Futuresxcrypto websites or other content is done at your own
+risk and discretion.
+
+ The projected performance of the project.
+ Completion of the campaign .
+ The expected development of the project
+ Execution of the Project‘s vision and
+
+strategy.
+ Future liquidity, Working capital, and capital
+requirements.
+
+VISION
+At FUTURESCRYPTO, Our vision is to disinter mediate access to sophisticated investment
+pla9orms previously reserved for the ultra wealthy and the well connected. By democratizing
+our pool fund, we can offer a previously unattainable level of service, diversification, and
+transparency in wealth management to the casual investor. At the heart of our mission is the
+aim to use decentralized block chain technology to distribute the tools and information
+necessary to allow the individual to compete with the resources and scale of major financial
+institutions, thus eliminating the market advantage provided to them by a system of
+gatekeepers and intermediaries. Ultimately, we envision a future of financial markets driven by
+liquidity of information and the agency and autonomy of the individual investor.
+
+ABSTRACT
+About eight years ago, a pseudonymous cryptographer known as Satoshi Nakamoto introduced Bitcoin as a
+digital analog to gold: Limited in supply, but secured by modern cryptography, and made for the internet
+age. Following Satoshi’s footsteps, many tried to improve on Satoshi’s original vision, and thousands of
+alternative Cryptocurrencies were born. Despite significant recent developments and
+innovation, the market for Cryptocurrencies remains very niche.
+Cryptocurrencies still have shortcomings that discourage
+mainstream use, in particular high volatility and barriers to
+entry. It’s also worth noting that existing Cryptocurrencies
+have not been designed with Islamic markets in mind.
+While the 1.6 billion Muslims make up over 23 percent of the world
+population, many Muslims simply can’t use Cryptocurrencies
+because of their restricted legal status and high barriers to entry
+in many countries in the Islamic world. Future X Crypto Coin
+aims to solve these issues by using blockchain technology to
+create a new kind of Cryptocurrency, where each coin is backed
+by one gram of gold at launch. In addition, each transaction
+of Future XCrypto Coin (FXC) generates a small transaction
+fee which is reinvested in more gold (net of admin costs),
+thus increasing the amount of gold that backs each Future
+X Crypto Coin. Therefore, each FXC increases in real value
+over time, making Future X Crypto Coin unique among
+Cryptocurrencies.
+
+FXC
+
+Limited Downside Unlimited Upside
+
+The history of fiat currency is a history of volatility. The average lifespan of fiat currency is only 27 years old5
+. Even if a currency survives, invariably it will experience inflation. With central banks having the power to
+print as much currency as they please, combined with the destructive effects of inflation, the purchasing
+power of fiat money experiences a steady decline. The world’s oldest fiat currency, the British pound, is an
+excellent example: it has lost 99.5 percent of its value since inception.
+Historically gold is more resilient, and holds its worth better than any fiat currency,
+particularly in times of economic instability.
+No currency can guarantee absolute stability, but Future X Crypto Coin limits your
+exposure to the downside risk. Since the base price of Future X Crypto Coin is
+always at least equal to the spot price of gold, Future X Crypto Coin has a floor
+price.
+What’s more is that usage and market demand also adds a premium to the value of
+Future X Crypto Coin. Therefore, Future X Crypto Coin has a three-part valuation
+system to determine its market price. The first part is the Gold Value (GV), with the
+value being determined by the spot price of gold.
+The second part is the present value of the transaction fees reinvested to buy more gold
+(TF), with the value being determined by the usage of FXC.
+The last part is the Demand Premium (DP), with the value being determined by market
+demand. This creates the following formula for the market price: Future X Crypto Coin
+Value = GV + TF + DP
+
+CRYPTOCURRENCIES
+Bitcoin and alternative crypto currencies are starting to see widespread adoption. The
+main innovation behind crypto currencies is that, instead of relying on a trusted third
+party, transactions are recorded and propagated in a distributed ledger known as
+“blockchain.” This allows transactions to be trust less, censorship-resistant, permission
+less and private. Once a transaction is confirmed by the blockchain network, it
+becomes irreversible: it can’t be charged back through a dispute process like other
+forms of money transfer.
+Cryptocurrencies promise to radically change how we do banking by removing artificial
+barriers caused by legacy financial institutions, allowing for:
+True peer-to-peer payments anywhere in the world.
+Minimal transaction fees and processing time compared to traditional banking.
+Payments between pseudonymous parties ensuring financial privacy.
+Non-reversible transactions preventing chargeback's and fraud. 
+
+TECHNICAL SPECIFICATIONS
+FutureXcrypto Coin uses a unique proof-of-stake blockchain with over 3
+months of development by expert crypto currency engineers. Our fullycustomized blockchain takes inspiration from Bitcoin, Dash and Black
+Coin. All transactions are near-instant and private.
+We strengthened the consensus mechanism by introducing trusted
+nodes operated by verified entities. The cumulative 2.5% transaction
+fees distributed in a block reward to the trusted nodes will maintain a
+secure blockchain. The Future X Crypto Coin blockchain block size limit is
+1MB with an average 1 minute block time.
+
+Decrease risk:
+Our goal is to create a safe and trustworthy
+environment for the community to trade and access
+their Cryptocurrencies.
+
+Lower cost:
+We aim to reduce the service fees that are offered by
+payment aggregators. In the current market, cross
+border payments processing takes up to 5%-8% of the
+total amount. Furthermore, the buyers have to wait
+for days, sometimes weeks for payments to be
+processed. As a businessperson, this is not sustainable
+because it slows business operations. We aim to not
+only offer low costs, but a seamless and transparent
+payment process as well.
+
+Merchants get a wider client base:
+By accepting Cryptocurrencies as means of payment,
+merchants will be able to attract whole new groups of
+customers since Cryptocurrencies know no borders or
+other limitations. This will enable them to expand their
+operations to new markets and offer additional goods
+and services.
+
+For initial token backers:
+Those taking part in the ICO have an opportunity to
+fund a project with real value beyond mere
+speculation. Apart from being tradable on the
+FXCrypto exchange, the FXC Coins will be used to lower
+the fees of virtually all FXCservices and to access
+exclusive hard- and software. To gain access to these
+benefits, the customer needs to transfer the FXC coins
+to FXC, resulting in a smaller supply on the market.
+Holders of the FXC coins will, therefore see a gradual
+appreciation in value with time.
+
+We have already installed Multi
+Crypto currency ATMs in 70
+locations spanning 4 European
+countries. Every week new
+locations are added to our
+network. We offer two distinct
+ATM models, enabling us to adapt
+to a variety of market situations.
+Our compact one-way ATMs allow
+the customers to purchase a wide
+range of Cryptocurrencies, while
+our two-way ATMs also offer the
+option to exchange
+Cryptocurrencies for cash.
+Additionally, NFC support for digital
+payments will soon be added to all
+machines. The ATMs meet the
+highest quality and safety
+standards while requiring very little
+maintenance: with a power- and
+internet connection you are ready
+to go. We also offer mobile
+hardware solutions. While
+continuing the expansion
+throughout Europe, FutureXrypto
+has already formed cooperation’s
+with partners in many South East
+Asian countries - such as Indonesia,
+Hong Kong and Japan to name a
+few - who will help with the
+distribution of our ATMs on a large
+scale
+
+GROWTH WITH EVERY TRANSACTION
+Each Future X Crypto Coin transaction generates a 1% transaction fee, up to a maximum of 1
+FXC. Unlike other Cryptocurrencies, in Future X Crypto Coin, 70% of this fee is reinvested to
+buy more gold and increase the amount of gold that backs each token. As transaction volume
+increases, more gold gets added to the vault and all Future X Crypto Coin owners share in the
+profit. So, over time, the value of each Future X Crypto Coin rises by design. This makes
+Future X Crypto Coin a unique asset whose value increases perpetually. 25% of this fee will be
+used for development & Operations. 2.5% will be donated to Charities and 2.5% will reward
+miners (POS staking).
+
+The transaction volume for a new crypto currency is typically low. To
+address this, we will be introducing a variety of tools for rapid realworld adoption of FutureXcrypto Coin as a currency. FutureXcrypto
+Coins are issued and redeemed for gold via the GoldGuard platform.
+Following the ICO, the OGCs can be bought, sold and traded via any
+major crypto currency trading platform.
+A new payment gateway, YalaPay, will be launched for FutureXcrypto
+Coin Coins. Besides fiat conversion, YalaPay will include marketing
+tools such as a white label loyalty program for merchants, featuring
+special offers, and discounts for customers. The model will be first
+introduced in Dubai and Abu Dhabi, with the payment institution
+license already in place. A Gold Guard MasterCard debit card (“Liquid
+Gold”) will also be created, which will work across the globe in ATMs,
+POS systems and online. It will be possible to recharge the Liquid Gold
+card with Fiat, OGC or Gold through our payment gateway, online or
+through Gold Guard ATM machines
+
+Smooth Entry and Exit With Gold Guard
+Buying and selling Cryptocurrencies like Bitcoin is not always an easy task. Depending on where you live, there may be no
+obvious entry and exit point. Mining Cryptocurrencies is even more difficult, requires costly equipment, and is definitely not
+for the average user. This is one of the reasons we are doing our ICO with Gold Guard, offering the investors an easy way to
+acquire Future X Crypto Coin Coins.
+Once a Future X Crypto Coin is issued, it can be redeemed for physical gold from Gold Guard at any time. Any Future X
+Crypto Coin redeemed for gold or equivalent in fiat currency is sent to a publicly verifiable burn address, permanently
+removing the coin from circulation.
+Gold Guard is licensed with Dubai Airport Free Zone (DAFZ) to trade jewellery, namely gold. Established in 1996, within the
+boundaries of Dubai International Airport, DAFZ is one of the fastest growing Free Zones in the region.
+While Gold Guard has a license to operate in Dubai, the gold we buy are safeguarded by logistics and transportation experts
+from our gold suppliers/storage providers. Our gold suppliers and storage providers are located in Dubai and Singapore.
+All accounts at Gold Guard are asset-backed, audited by PwC, and insured against theft and damage.
+
+Giving Back to the Community
+Giving back to the community and setting a good
+example for others is central to how we do business. We
+seek to contribute to social and economic progress both
+globally and locally.
+With that in mind, we created the Future X Crypto Coin
+Foundation (OGF). OGF will take 2.5% of the total
+transaction fees that Future X Crypto Coin products
+generate and donate it to local and international
+charities.
+By sharing our success, we aim to bring relief to the lives
+of the less fortunate. OGF supports the principles of
+Islamic sharing and caring. The Future X Crypto Coin
+community is contributing, through corporate social
+responsibility, to humanitarian causes.
+
+INITIAL COIN OFFERING (ICO)
+Coin Name
+
+Futurexcrypto (FXC)
+
+Algorithm
+
+ERC - 20
+
+Type
+
+TOKEN
+
+RPC port
+
+-
+
+P2P port
+
+-
+
+Total coin supply
+
+5000000000 Tokens
+
+Premine coins
+
+2500000000 T0kens
+
+Coin Price* Fixed to 0.50 USD
+Pre ICO start date November 22nd , 2017 CEST
+Pre ICO end date January 11th , 2017 CET
+
+Business Plan
+
+At Futurexcrypto we are guided by the principle that in the IT
+service industry you have to keep innovating and introducing new
+products in order to stay competitive. Additionally, as a young and
+dynamic sector, the crypto currency world is constantly in motion.
+This forces companies to proactively adapt to the development of
+the market situation, following the motto: The early bird gets the
+worm.
+
+More features to come
+FXC is permanently and actively working on improving
+the existing systems and services. Online wallet support
+for additional Cryptocurrencies will soon be added,
+together with an ever-growing list of tradable
+Cryptocurrencies. An attractive and transparent affiliate
+program, which anyone can join, is already well
+underway: Our affiliate partners will receive 20% of all
+fees their recruited customers pay. Development of iOS
+and Android Smartphone apps for the exchange will
+soon begin, allowing you to never again miss rapid
+price fluctuations on the crypto market. We expect to
+deliver a finished product by mid 2018.
+
+https://en-gb.facebook.com/login/
+
+https://twitter.com/login
+
+https://web.telegram.org/#/login
+
+

@@ -1,0 +1,1384 @@
+Disclaimer
+IMPORTANT: YOU MUST READ THE FOLLOWING DISCLAIMER AND THE SECTION
+ENTITLED “IMPORTANT INFORMATION” IN FULL BEFORE CONTINUING
+The distribution (the “Hedget Token Distribution”) of the “Hedget Tokens” or “HGET” (the
+“Tokens”), to be used by users (“Users”) on the Hedget platform (“Hedget Platform”) and
+other participants of the Hedget Platform to be developed by HLS Foundation, a company
+incorporated in Singapore and/or its affiliate(s) (collectively, the “Project Group”) as detailed
+in this whitepaper (“Whitepaper”) is only intended for, made to or directed at, persons who
+are not Excluded Persons (as defined herein), and may be acted upon only by such persons.
+Moreover, this Whitepaper is not, is not intended to be and should not be construed to be, a
+prospectus or offer document of any sort and is not intended to and should not be construed
+to constitute an offer of shares or securities of any form, units in a business trust, units in a
+collective investment scheme or any other form of investment or regulated product, or a
+solicitation for any form of investment or regulated product in any jurisdiction. No regulatory
+authority has examined or approved of any of the information set out in this Whitepaper. This
+Whitepaper has not been registered with any regulatory authority in any jurisdiction.
+The focus of this Whitepaper is on the Project and the Hedget Token Distribution. You may
+have received, been in possession of or perused this Whitepaper, which contains additional
+important (related) information about the Hedget project (or, the “Project”), including the
+Hedget Platform, the Hedget Tokens and their respective functions. This Whitepaper and such
+other documents as may be published by the Project team in relation to the Project, each as
+may be amended, modified, or supplemented from time to time (hereinafter collectively
+referred to as the “Project Documents”) are intended to be read in conjunction with one
+another for the purpose of any proposed purchase or use of Hedget Tokens.
+For the avoidance of doubt, all Project Documents are subject to all disclaimers, restrictions,
+notices, and legal provisions contained in this Whitepaper.
+By accessing and/or accepting possession of any information in this Whitepaper or such part
+thereof (as the case may be), you represent and warrant to the token vendor of the Hedget
+Token Distribution (the “Hedget Token Vendor”) that:
+1.
+2.
+3.
+4.
+
+you are not an Excluded Person;
+you have read the entirety of this Whitepaper and understand the risks entailed in your
+purchase of Hedget Tokens;
+you agree to be bound by the limitations and restrictions described herein; and
+you acknowledge that this Whitepaper has been prepared for delivery to you so as to assist
+you in making a decision as to whether to purchase Hedget Tokens.
+
+Hedget Protocol
+Building a Decentralized Options Trading Platform
+
+September 1st, 2020
+
+Abstract
+Hedget is a decentralised protocol for options trading. By putting up collateral, users can
+create and trade different option series on chain. Decentralised option products allow users
+to hedge price fluctuation and also the risk in their collateralised lending positions. The
+protocol also adds in support on Layer 2 to existing blockchains such as Ethereum to enable
+faster, cheaper, and more complex transactions. Hedget believes that risk mitigating DeFi
+protocols like decentralised options are necessary building blocks as the decentralized
+finance sector grows and matures. Hedget Foundation issues HGET token as the native token
+on the platform for governance and other utility purposes.
+
+1 Background
+Decentralized financial (DeFi) applications have been growing exponentially in terms of users and volume
+as the cryptocurrency market further grows in capitalization. As of July 2020, the total value of assets stored
+in DeFi has surpassed US 1.5 billion and has grown 140% since the beginning of the calendar year.1. With
+the proliferation of DeFi protocols, users of cryptocurrencies are being offered greater flexibility in how
+they deploy their crypto capital. Users can now earn interest on their crypto deposits, borrow assets with
+crypto collateral and also trade derivatives -- all accomplished in a decentralized way.
+However, the price of cryptocurrencies (apart from stablecoins) is always fluctuating on the secondary
+market. Ethereum (ETH), as the second largest cryptocurrency by market capitalization, almost halved in
+price within one day on March 12th2. Since most of the DeFi protocols are built on top of Ethereum and
+support ETH as a collateral, many positions held by DeFi users were liquidated because of the sudden price
+drop. Risks such as these are mitigated in traditional finance by using options and other derivative products.
+We believe there should be similar infrastructure in place for DeFi protocols to protect user positions against
+price fluctuations in the cryptocurrency market.
+
+2 Introducing Hedget
+Hedget is a decentralised platform for options trading. Users can buy and sell options products on the
+platform by providing collateral in the form of cryptocurrency (both stablecoins and traditional
+cryptocurrencies). It also allows users to hedge the risk for their crypto holdings as well as their debt
+positions on other lending protocols such as Compound3 and Aave.
+2.1 Options
+By design, options give users the right (but not obligation) to buy and sell an asset at a future date at a
+specific price4. An option product consists of a type (call or put), a strike price, and an expiry date. In the
+case of a call option, holders have the right to buy the asset at the strike price at a future date; and vice versa
+for put options. Options are also considered a special type of derivative product because the price of options
+are derived from both the price and fluctuation of the underlying assets.
+
+1
+
+Data is based on DeFi Pulse: https://defipulse.com/
+
+2
+
+https://coinmarketcap.com/currencies/ethereum/
+
+3
+
+https://compound.finance/
+
+4
+
+https://www.investopedia.com/options-basics-tutorial-4583012
+
+Initially, the protocol will support European style options, which means that the option can only be settled
+at time of expiry. Holders of European options cannot exercise the option even if the price of the underlying
+assets moves towards a favorable direction. For example, if a user believes that ETH price is going to
+increase to $400 in the next few months, he could purchase a call option expired in a quarter to buy ETH at
+a price (say $300) that is lower than the expected price. The user will pay a price for the option (say $50);
+as ETH price fluctuates, the option price also varies. At the time when the option expires, the user could
+register profit or loss based on the actual ETH price at the end of the quarter versus the strike price of the
+call option (if the actual ETH price is $450 at the end of the quarter, the user’s profit would be $450-$300$50 = $100).
+2.2 Overview of Options in Hedget
+Hedget allows users to create and trade options on the platform. Each time option products are created,
+the system will mint a token to represent the option. Key elements for creating options include：
+The underlying asset being tracked:
+The first version will focus on ETH as an underlying asset, and later will be expanded to support ERC-20
+tokens and tokens on other blockchains.
+Option type (call or put):
+When using a call option, the user is reserving the right to buy at the strike price when the option expires.
+When using a put option, the user is reserving the right to sell at the strike price when the option expires.
+There will be new option series added when the current trading price is above the highest or below the
+lowest strike prices available.
+Maturity Dates
+The time when options could be exercised. In the first version of Hedget, the maturity dates for the
+options are every Friday at 8:00 UTC+5.
+
+2.3 Further Details regarding Hedget Option Mechanics
+Collateral Requirement
+Users will be required to put up collateral as they create different option products in order to guarantee the
+possibility of exercising the option. In the first version, 100% collateral is required. For example, if a user
+
+writes a call option for 5 ETH, he needs to put 5 ETH as a collateral. If he writes a put option, he would
+need to put USDC as collateral.
+Settlement: Cash Settlement and Physical Settlement
+In case of a physical settlement, if the options holder chooses to exercise his options at the maturity date,
+counterparties exchange the underlying asset for a cash asset. For example, when ETH call options are
+exercised, the writer will swap his ETH for the holder's USDC. Cash settlement is available as a more
+efficient alternative: in this case, the writer will simply transfer the calculated profit amount to the holder.
+Since cash settlement can be performed internally, it might be more beneficial in terms of fees.
+For example, users could create an option product representing an ETH call option at price $250 that
+expires on 7th August, 2020. Options are categorized into distinct tokens as they differ in any of the
+above parameters. These tokens can be traded on a decentralized exchange at the price selected by traders.
+The platform would allow only specific combinations of maturity dates and strike prices to ensure optimal
+liquidity of options.
+The platform will provide a decentralized exchange component for trading tokens which represent options.
+Options will be priced in stablecoins such as USDC, DAI, BUSD.
+2.4 Fee Structure
+Taker fee 0.04% of underlying (matches Deribit5, less than on FTX exchange6)
+Maker fee -0.02% of underlying (unique offer on the market, rebate fee part of liquidity mining)
+0.02% difference between Taker and Maker fees will go to special Reserve locked for two years and
+governed by DAO
+Settlement fee 0.02% + ETH fees (if settled on Ethereum) paid by option buyer
+In the first 3-4 years 0.02% settlement fee will be paid by the system from liquidity mining pool, thus
+rewarding option writers, and reducing total fees for option buyers.
+
+3 Use Cases
+
+5
+
+https://www.deribit.com/pages/information/fees
+
+6
+
+https://help.ftx.com/hc/en-us/articles/360038094432-Options-Explainer
+
+Hedget could be used in both to-consumer and to-business settings to increase capital efficiency, hedge
+price risks and lending risks. Users can trade options directly on the platform; the option products could
+also be offered as a security feature for various decentralised lending and trading protocols to protect users’
+collateral.
+3.1 As a decentralised price hedge
+For users, the option products offer a decentralized price hedge against their current crypto holdings. As
+ETH price fluctuates, buying a protective put option allows users to be able to sell at a certain price.
+Compared to selling ETH for stablecoins, buying a put option gives holders the right to protect against
+downward price movement but also enjoy ETH appreciation because they could choose not to exercise the
+option.
+3.2 As protection against liquidation for lending protocols
+Hedget could also be offered to other lending protocols as a security feature against user position
+liquidation.
+As mentioned earlier, there is significant risk for users using ETH as collateral for their lending positions.
+DeFi lending protocols currently adopt over-collateralized lending mostly. For instance, on Maker DAO,
+users need to put up 150% ETH collateral in order to mint DAI stablecoin. There is a liquidation ratio,
+which means that if the ETH collateral is worth less than the DAI value, the ETH will be liquidated and
+auctioned to recover the DAI position. This design ensures that DAI price is stable, but this is achieved at
+relatively low capital efficiency and risk of collateral liquidation. It is disadvantageous in the face of drastic
+market fluctuation as seen on March 12th, 2020. In Maker alone, more than 5 million dollars worth of loans
+was liquidated to recover the DAI positions even though ETH price bounced back to pre-crisis level shortly
+thereafter7. Users rather than the protocols are the ones that bear the cost.
+This could be solved through using Hedget. Lending protocols could add a feature for users to select at the
+time that loans are generated to pay a premium to ensure that their positions would never be liquidated
+during the terms of the loan. This premium is priced by choosing the option product that matches the loan
+terms and price on Hedget. For example, if a user created a CDP position on Maker, to borrow DAI with
+ETH as collateral at the time when ETH price is $200, he could pay a premium which is used to purchase
+a put option for ETH at the price of $200 to guarantee that the price could always match the price when the
+CDP is generated. Hedget is interacting not directly with users but the lending protocols to sell options
+
+7
+
+https://www.coindesk.com/5-million-in-makerdao-loans-have-been-liquidated-but-help-is-on-the-way
+
+available in the protocol. Since the users are only protecting their debt positions rather than actually trading
+the option product, profit of the option (if any) will not be distributed to the users but registered in the
+protocol itself and used for token buy back and burn.
+3.3 Leveraged Trading
+Hedget protocol allows users to trade on leverage with greater capital efficiency. The price that users need
+to pay to acquire the options are much lower than to hold actual positions. If a user believes that ETH price
+is going to increase to $500 from the current price of $300, instead of using $300 to buy one ETH, he could
+pay the option price to buy a call option to buy ETH at $300 after a quarter. If the price increases to $500,
+it is essentially the same for the user for holding the call option and holding one physical ETH; but the cost
+of the call option is lower than ETH price. If the user is a more aggressive trader, he could even exchange
+the current ETH positions into options holding in anticipation of a price growth. Hypothetically, if the price
+of the previous call option is $30, the user could buy 10 call options using one ETH and also 10x the revenue
+at the expiry of the call option compared to holding 1 ETH.
+
+4 Technical Design
+First, we should note that Hedget protocol will evolve over time, continuously adding features that are
+aligned with the goal of providing risk mitigating protocols for decentralised finance. The description
+here is centered on the first version, which would offer trustless trade of physically-settled options settled
+on Ethereum blockchain. Possible expansions of the protocol are discussed in a separate section.
+
+4.1 Architecture Overview
+There are three main components:
+ESC: Ethereum smart contract which handles ETH and ERC-20 token deposits and withdraws
+and implements physical settlement.
+CTD: Chromia-based blockchain (dApp) which handles trades, track ownership of contracts and
+facilitates communication necessary to perform settlement through Ethereum smart contracts.
+CSW: Client-side wallet and trading user interface, which takes commands from user and carries
+them out using Ethereum smart contract and Chromia dApp.
+
+4.2 Protocol Features
+The goal of the protocol is to remove the need for trusted third parties. Thus, it has following design
+constraints:
+Token storage is non-custodial, which means that only a user can withdraw his or her funds.
+Money is moved between users’ accounts only when they trade or exercise the option contracts.
+The protocol is free from counterparty risk. Since it is impossible to algorithmically assess creditworthiness, we require full collateralization for option sellers.
+Since we want to give users the highest degree of assurance, constraints which control users’
+funds are implemented directly on Ethereum smart contracts.
+We aim to offer maximal flexibility and convenience within these constraints. Purchased options
+can be resold at any time.
+4.3 Option life-cycle
+To get a better understanding of protocol workflow, let us consider a life-cycle of an options contract
+from beginning to execution.
+1. Alice wants to sell a put option for 1 ETH. To do that, she needs to deposit 1 ETH into the
+smart contract (ESC), as Hedget requires an option writer to have enough collateral to let a buyer exercise
+the contract later. If she deposits only 0.1 ETH, then the protocol will not let her sell a put for 1 ETH as
+the protocol cannot know if Alice would supply 0.9 ETH more at time when a contract might be
+exercised.
+2. Once deposited, her funds are locked. She can withdraw them back to her normal wallet only
+after the system confirms that she has no pending obligations encumbering the funds.
+3. Alice can sell an option: her wallet (CSW) will take a proof of deposit from ESC and send to
+the dApp (CTD) together with specification of the contract (strike price, option price, maturity date). This
+will create a sell order in the orderbook within CTD. Signed specification of the contract is also recorded
+in CTD.
+4. Bob might see this order in the order book and buy the call option e.g. for 10 USDT.
+Information about the trade is recorded in CTD.
+5. Later, Bob sells the contract to Claire. Information about the trade is recorded in CTD.
+
+6. At the maturity date, Claire wants to exercise the option (suppose, the strike price was 200
+USDT and current price of 1 ETH is 300 USDT). She needs 200 USDT deposited into the ESC contract
+before she can do that. To exercise the contract, her wallet will first send an exercise request to CTD.
+Then once request transaction is confirmed, it is combined with Alice’s contract specification and sent to
+ESC. ESC can verify that the trade is valid (Alice’s signature on contract specification, Claire’s signature
+on exercise request, maturity date, confirmation) and transfer money between accounts: 1 ETH goes from
+Alice to Claire, 200 USDT go from Claire to Alice.
+7. Alice can now withdraw 210 USDT. To do that, CSW will first send a withdraw request to
+CTD, which confirms only when Alice has no pending obligations. After that, CSW will direct withdraw
+request to ESC, which will process it upon verification of CTD confirmation.
+
+5 Hedget Tokens (HGET)
+Hedget protocol introduces a native token for the governance and utility in the network. Users need to stake
+a small amount of HGET tokens in order to create and trade option products; they could also earn HGET
+tokens in the process proportional to the size of the trade. It is also used in the governance process if users
+would need to propose updates to the protocol.
+5.1 Token Utility
+The HGET token is a native utility and governance token of the Hedget platform. It will be issued on the
+Ethereum network as an ERC-20 contract and will have representation on a Chromia sidechain.
+Effective immediately upon launch, HGET will serve as the governance token of the HGET platform. In
+the preliminary stages, the token holders can vote on adding new assets, default options parameters and UI
+improvements.
+Before the platform is launched with real assets there will be a Testnet platform (hosted on both Chromia
+and Ethereum testnets) to participate on which users need to stake HGET to access. Users will trade funds
+that have little to no real value, but the best performing traders will be rewarded automatically by Hedget
+protocol with HGET tokens upon mainnet release.
+When the platform migrates to Mainnet, HGET will be used to prevent spamming of orders which can lead
+to API overloads and order book manipulation. HGET tokens will need to be staked to interact with the
+platform. Staking requirements will increase as the monetary value and frequency of a user's interactions
+increase.
+
+As the platform is further developed, a DAO will be established and HGET tokens will be used to determine
+transaction fees, reserve requirements, and general functions and features of the platform.
+Lastly, the HGET token will be used as a security measure and reputation engine in the future when
+margined options are implemented. Options writers who wish to offer options without providing 1:1
+collateral will need to stake HGET tokens which will be used to purchase fully collateralized options as a
+hedge in case of Capital insufficiency risk. This mechanism ensures end users cannot be adversely affected
+by the insolvency of an options writer.
+5.2 Token Distribution
+There will be 10M HGET tokens minted at the launch of the network. The protocol has a fixed token supply.
+10% of the tokens will be reserved for team and advisors, the tokens will be unlocked on a monthly basis
+during 2 years; 9.77% of the tokens will be distributed through private sale via SAFT; 4.23% of the tokens
+will be distributed to users and investors through public sale; 50% of the tokens will be locked for liquidity
+mining, tokens will be minted on a daily basis and distributed to users who participate in writing options
+(0.02% of underlying of each option settled and additional for native Hedget MM); 7% of the tokens will
+be used for DEXes liquidity and trading (such as Uniswap), trading competitions, drops and other activities
+to kickstart the usage of Hedget protocol; 19% of the tokens will be locked in reserve fund until 2 years
+after the platform is live and the usage of these tokens will be determined by Hedget DAO.
+
+PLEASE READ THIS DISCLAIMER SECTION CAREFULLY. IF YOU ARE IN ANY DOUBT AS
+TO THE ACTION YOU SHOULD TAKE, YOU SHOULD CONSULT YOUR LEGAL, FINANCIAL,
+TAX OR OTHER PROFESSIONAL ADVISOR(S).
+The Project Documents in their current form are circulated by the Hedget Token Vendor for
+general information and to invite feedback only on the Project, the Hedget Platform, the Hedget
+Tokens and their functions, and the Hedget Token Distribution as presently conceived, and is
+subject to review and revision by the directors of the Hedget Token Vendor and/or advisors of the
+Hedget Token Vendor. Please do not replicate or distribute any part of the Project Documents
+without this Section in accompaniment. The information in the Project Documents, including
+information set forth below, may not be exhaustive and no part of the Project Documents is
+intended to create legal relations with a recipient of the Project Documents or to be legally binding
+or enforceable by such recipient against the Hedget Token Vendor. An updated version of the
+Project Documents may be published at a later date and to be announced by the Hedget Token
+Vendor in due course.
+PLEASE READ THIS SECTION AND THE FOLLOWING SECTIONS ENTITLED “DISCLAIMER
+OF LIABILITY”, “NO REPRESENTATIONS AND WARRANTIES”, “REPRESENTATIONS
+AND WARRANTIES BY YOU”, “CAUTIONARY NOTE ON FORWARD-LOOKING
+STATEMENTS”, “THIRD PARTY INFORMATION AND NO CONSENT OF OTHER PERSONS”,
+“TERMS USED”, “NO ADVICE”, “NO FURTHER INFORMATION OR UPDATE”,
+“RESTRICTIONS ON DISTRIBUTION AND DISSEMINATION”, “NO OFFER OF INVESTMENT
+OR REGISTRATION” AND “RISKS AND UNCERTAINTIES” CAREFULLY.
+While we make every effort to ensure that any material in the Project Documents is accurate and
+up to date, such material in no way constitutes the provision of professional advice. The Hedget
+Token Vendor does not guarantee, and accepts no legal liability whatsoever arising from or in
+connection with, the accuracy, reliability, currency, or completeness of any material contained in
+the Project Documents. Potential purchasers of Hedget Tokens (“Purchasers”, and each a
+“Purchaser”) should seek appropriate independent professional advice prior to relying on, or
+entering into any commitment or transaction based on material published in the Project
+Documents, which material is published purely for reference purposes alone.
+The Hedget Tokens are proprietary cryptographic tokens issued by the Hedget Token Vendor to
+function as the native utility token used in the Hedget Platform as the means of allow holders of
+Tokens (“Tokenholders”) who are Users to participate in decision-making relating to features on
+the Hedget Platform and to be used as deposits or “stake” in relation to transactions on the Hedget
+Platform.
+The Project Documents do not constitute or form part of any opinion or any advice to purchase,
+sell or otherwise transact in Hedget Tokens and the fact of presentation of the Project Documents
+shall not form the basis of, or be relied upon in connection with, any contract or decision to
+purchase Hedget Tokens.
+
+No Token should be construed, interpreted, classified or treated as enabling, or according any
+opportunity to Purchasers to participate in or receive profits, income, or other payments or returns
+arising from or in connection with the Hedget Token Vendor, the Project Group, the Hedget
+Platform, the Hedget Tokens, or the proceeds of the Hedget Token Distribution, or to receive
+sums paid out of such profits, income, or other payments or returns.
+Any agreement as between the Hedget Token Vendor and you as a Purchaser, and in relation to
+any distribution and purchase, of Hedget Tokens is to be governed only by a separate document
+setting out the terms and conditions (the “Hedget Token Distribution Terms”) of such agreement.
+In the event of any inconsistencies between the Hedget Token Distribution Terms and the Project
+Documents, the former shall prevail.
+There are risks and uncertainties associated with the Hedget Token Vendor, the Project Group,
+the Project, the Hedget Tokens, the Hedget Platform, and the Hedget Token Distribution. Please
+refer to the Section entitled “Risks and Uncertainties” set out at the end of this Project Document.
+The Project Documents, any part thereof and any copy thereof must not be taken or transmitted
+to any jurisdiction where distribution or dissemination of the Project Documents is prohibited or
+restricted.
+No part of the Project Documents is to be reproduced, distributed or disseminated without
+including this Section and the following Sections entitled “Disclaimer of Liability”, “No
+Representations and Warranties”, “Representations and Warranties By You”, “Cautionary Note
+On Forward-Looking Statements”, “Third Party Information and No Consent of Other Persons”,
+“Terms Used”, “No Advice”, “No Further Information or Update”, “Restrictions on Distribution and
+Dissemination”, “No Offer of Investment or Registration”, and “Risks and Uncertainties”.
+Disclaimer of Liability
+To the maximum extent permitted by the applicable laws, regulations and rules, the Project Group
+and no member of the Project Group (including but not limited to the Hedget Token Vendor) shall
+not be liable for any direct, indirect, special, incidental, consequential or other losses of any kind,
+in tort, contract or otherwise (including but not limited to loss of revenue, income or profits, and
+loss of use or data), arising out of or in connection with any acceptance of or reliance on the
+Project Documents or any part thereof by you.
+No Representations and Warranties
+The Hedget Token Vendor and/or the Project Group does not / do not make or purport to make,
+and hereby disclaims, any representation, warranty or undertaking in any form whatsoever to any
+entity or person, including any representation, warranty or undertaking in relation to the truth,
+accuracy and completeness of any of the information set out in the Project Documents.
+Representations and Warranties by you
+
+By accessing and/or accepting possession of any information in the Project Documents or such
+part thereof (as the case may be), you represent and warrant to the Hedget Token Vendor and
+the Project Group as follows:
+(a)
+
+you agree and acknowledge that the Hedget Tokens do not constitute shares or securities of any
+form, units in a business trust, units in a collective investment activity scheme or any other form of
+regulated product or investment product in any jurisdiction;
+
+(b)
+
+you are not:
+(i)
+
+a U.S. Person (as defined in Regulation S under the U.S. Securities Act of 1993, as
+amended);
+
+(ii)
+
+if you are an individual, a person who is a citizen of, domiciled in, resident of, or physically
+present / located in a jurisdiction stipulated in Annex 1 hereto (“Hedget Token Distribution
+Excluded Jurisdiction”);
+
+(iii)
+
+if you are a body corporate, a body corporate:
+
+(iv)
+
+(aa)
+
+which is incorporated or organized in, or operates out of, a Hedget Token
+Distribution Excluded Jurisdiction; or
+
+(bb)
+
+which is under the control of one or more individuals who is/are citizen(s) of,
+domiciled in, residents of, or physically present / located in, a Hedget Token
+Distribution Excluded Jurisdiction; and/or
+
+an individual or body corporate which is otherwise prohibited or ineligible in any way,
+whether in full or in part, from participating in any part of the transactions contemplated in
+the Hedget Token Distribution Terms,
+
+(collectively, “Excluded Persons”);
+(c)
+
+you are fully aware of and understand that you are not eligible and you are not to purchase any
+Hedget Tokens if you are an Excluded Person;
+
+(d)
+
+you agree and acknowledge that the Project Documents do not constitute prospectuses or offer
+documents of any sort and are not intended to constitute an offer of shares or securities of any
+form, units in a business trust, units in a collective investment scheme or any other form of regulated
+investment or investment product in any jurisdiction, or a solicitation for any form of regulated
+product or investment product, and you are not bound to enter into any contract or binding legal
+commitment and no digital asset other than those provided for in the Project Documents or other
+form of payment is to be accepted on the basis of the Project Documents;
+
+(e)
+
+you agree and acknowledge that no Hedget Token should be construed, interpreted, classified or
+treated as enabling, or according any opportunity to, Hedget Token holders to participate in or
+receive profits, income, or other payments or returns arising from or in connection with Hedget
+Token Vendor, the Project Group, the Hedget Tokens or the proceeds of the Hedget Token
+Distribution, or to receive sums paid out of such profits, income, or other payments or returns;
+
+(f)
+
+you agree and acknowledge that no regulatory authority has examined or approved any of the
+information set out in the Project Documents, no action has been or will be taken by the Hedget
+
+Token Vendor to obtain such approval under the laws, regulatory requirements or rules of any
+jurisdiction and the publication, distribution or dissemination of the Project Documents to you does
+not imply that the applicable laws, regulatory requirements, or rules have been complied with;
+(g)
+
+you agree and acknowledge that the Project Documents, the undertaking and/or the completion of
+the Hedget Token Distribution, or future trading of Hedget Tokens on any cryptocurrency exchange,
+shall not be construed, interpreted or deemed by you as an indication of the merits of the Hedget
+Token Vendor, the Project, the Hedget Tokens, the Hedget Token Distribution, and the Hedget
+Platform;
+
+(h)
+
+the distribution or dissemination of the Project Documents, any part thereof or any copy thereof, or
+acceptance of the same by you, is not prohibited or restricted by the applicable laws, regulations
+or rules in your jurisdiction, and where any restrictions in relation to possession are applicable, you
+have observed and complied with all such restrictions at your own expense and without liability to
+the Hedget Token Vendor;
+
+(i)
+
+you agree and acknowledge that in the case where you wish to purchase any Hedget Tokens,
+Hedget Tokens are not to be construed, interpreted, classified or treated as:
+(i)
+
+any kind of currency other than cryptocurrency;
+
+(ii)
+
+debentures, stocks or shares issued by the Hedget Token Vendor, the Project Group, or
+any other person or entity;
+
+(iii)
+
+rights, options or derivatives in respect of such debentures, stocks or shares;
+
+(iv)
+
+rights under a contract for differences or under any other contract the purpose or pretended
+purpose of which is to secure a profit or avoid a loss;
+
+(v)
+
+securities;
+
+(vi)
+
+units or derivatives of units in a business trust;
+
+(vii)
+
+units in a collective investment scheme; or
+
+(viii)
+
+any form of regulated investment or investment product;
+
+(j)
+
+you are legally permitted to participate in the Hedget Token Distribution and all actions
+contemplated or associated with such purchase, including the holding and use of Hedget Tokens;
+
+(k)
+
+the amounts that you use to purchase Hedget Tokens were not and are not directly or indirectly
+derived from any activities that contravene the laws and regulations of any jurisdiction, including
+anti-money laundering laws and regulations;
+
+(l)
+
+if you are a natural person, you are of sufficient age and capacity under the applicable laws of the
+jurisdiction in which you reside and the jurisdiction of which you are a citizen to participate in the
+Hedget Token Distribution;
+
+(m)
+
+you are not obtaining or using Hedget Tokens for any illegal purpose;
+
+(n)
+
+none of:
+(i)
+
+you;
+
+(ii)
+
+any person controlling or controlled by you;
+
+(iii)
+
+if you are a privately-held entity, any person having a beneficial interest in you; or
+
+(v)
+
+any person for whom you are acting as agent or nominee in connection with this Hedget
+Token Distribution,
+
+is a senior foreign political figure, or any immediate family member or close associate of a senior
+foreign political figure.
+A “senior foreign political figure” is defined as a senior official in the executive, legislative,
+administrative, military or judicial branch of a government (whether elected or not), a senior official
+of a major political party, or a senior executive of a foreign government-owned corporation, and
+includes any corporation, business or other entity that has been formed by, or for the benefit of, a
+senior foreign political figure.
+An “immediate family” of a senior foreign political figure typically includes such figure’s parents,
+siblings, spouse, children and in-laws.
+A “close associate” of a senior foreign political figure is a person who is widely and publicly known
+to maintain an unusually close relationship with such senior foreign political figure, and includes a
+person who is in a position to conduct substantial domestic and international financial transactions
+on behalf of such senior foreign political figure;
+(o)
+
+(p)
+
+if you are affiliated with a non-U.S. banking institution (“Foreign Bank”), or if you receive deposits
+from, make payments on behalf of, or handle other financial transactions related to a Foreign Bank,
+you represent and warrant to the Hedget Token Vendor that:
+(i)
+
+the Foreign Bank has a fixed address, and not solely an electronic address, in a country in
+which the Foreign Bank is authorized to conduct banking activities;
+
+(ii)
+
+the Foreign Bank maintains operating records related to its banking activities;
+
+(iii)
+
+the Foreign Bank is subject to inspection by the banking authority that licensed the Foreign
+Bank to conduct its banking activities; and
+
+(iv)
+
+the Foreign Bank does not provide banking services to any other Foreign Bank that does
+not have a physical presence in any country and that is not a regulated affiliate;
+
+you have such knowledge and understanding of the operation, functionality, usage, storage,
+transmission mechanisms and other material characteristics of cryptocurrencies, blockchain-based
+software systems, cryptocurrency wallets or other related token storage mechanisms, blockchain
+technology and smart contract technology so as to be able to evaluate the risks and merits of the
+Project, the Hedget Tokens, and the Hedget Platform, and correspondingly any purchase of the
+Hedget Tokens;
+
+(q)
+
+you are fully aware and understand that in the case where you wish to purchase any Hedget
+Tokens, there are risks associated with the Hedget Token Vendor, the Project Group, the Project,
+the Hedget Tokens, the Hedget Platform and the Hedget Token Distribution;
+
+(r)
+
+you bear the sole responsibility to determine what tax implications purchasing Hedget Tokens may
+have for you and you agree not to hold the Hedget Token Vendor or any other person involved in
+the Hedget Token Distribution liable for any tax liability associated with or arising therefrom;
+
+(s)
+
+you agree and acknowledge that neither the Hedget Token Vendor nor the Project Group is liable
+for any direct, indirect, special, incidental, consequential or other losses of any kind, in tort, contract
+or otherwise (including but not limited to loss of revenue, income or profits, and loss of use or data),
+arising out of or in connection with any acceptance of or reliance on the Project Documents or any
+part thereof by you;
+
+(t)
+
+you waive the right to participate in a class action lawsuit or a class wide arbitration against the
+Hedget Token Vendor and/or any person involved in the Hedget Token Distribution and/or with the
+creation and distribution of Hedget Tokens or the Hedget Platform; and
+
+(u)
+
+all of the above representations and warranties are true, complete, accurate and non-misleading
+from the time of your access to and/or acceptance of possession the Project Documents or such
+part thereof (as the case may be).
+
+Cautionary Note on Forward-Looking Statements
+All statements contained in the Project Documents, statements made in press releases or in any
+place accessible by the public and oral statements that may be made by the Hedget Token Vendor,
+the Project Group, or their respective directors, executive officers or employees acting on behalf
+of the Hedget Token Vendor or the Project Group (as the case may be), that are not statements
+of historical fact, constitute “forward-looking statements”. Some of these statements can be
+identified by forward-looking terms such as “aim”, “target”, “anticipate”, “believe”, “could”,
+“estimate”, “expect”, “if”, “intend”, “may”, “plan”, “possible”, “probable”, “project”, “should”,
+“would”, “will” or other similar terms. However, these terms are not the exclusive means of
+identifying forward-looking statements. All statements regarding the Hedget Token Vendor, the
+Project Group, and/or the future outlook of the industry which the Hedget Token Vendor and the
+Project Group are in are forward- looking statements. These forward-looking statements,
+including but not limited to statements as to the Hedget Token Vendor, the Project Group and
+other matters discussed in the Project Documents regarding the Hedget Token Vendor and the
+Project Group are matters that are not historic facts, but only predictions.
+These forward-looking statements involve known and unknown risks, uncertainties and other
+factors that may have an impact or adversely affect the Hedget Token Vendor and/or the Project
+Group, the Project, the Hedget Platform, or the use of the Hedget Tokens. These factors include,
+amongst others:
+(a)
+
+changes in political, social, economic and stock or cryptocurrency market conditions, and the
+regulatory environment in the countries in which the Project Group conducts its business and
+operations;
+
+(b)
+
+the risk that the Project Group may be unable to execute or implement the Project;
+
+(c)
+
+changes in interest rates and exchange rates of fiat currencies and cryptocurrencies;
+
+(d)
+
+changes in the anticipated growth strategies and expected internal growth of the Project Group and
+the Project;
+
+(e)
+
+changes in fees payable to the Project Group in connection with its businesses and operations or
+on the Project;
+
+(f)
+
+changes in the availability and salaries of employees who are required by the Project Group to
+operate its business and operations;
+
+(g)
+
+changes in preferences of Users;
+
+(h)
+
+changes in competitive conditions under which the Project Group operates, and the ability of the
+Project Group to compete under such conditions;
+
+(i)
+
+changes in the future capital needs of the Project Group and the availability of financing and capital
+to fund such needs;
+
+(j)
+
+war or acts of international or domestic terrorism;
+
+(k)
+
+occurrences of catastrophic events, natural disasters and acts of God that affect the businesses
+and/or operations of the Project Group;
+
+(l)
+
+other factors beyond the control of the Hedget Token Vendor and/or the Project Group; and
+
+(m)
+
+any risks and uncertainties associated with the Hedget Token Vendor, the Project Group, the
+Project, the Hedget Tokens, the Hedget Platform and the Hedget Token Distribution.
+
+All forward-looking statements made by or attributable to the Hedget Token Vendor, the Project
+Group, or persons acting on behalf of the Hedget Token Vendor and/or the Project Group, or
+relating to the Hedget Platform are expressly qualified in their entirety by such factors. Given the
+risks and uncertainties that may cause the eventual outcome to be materially different from that
+expected, expressed or implied by the forward-looking statements in the Project Documents,
+undue reliance must not be placed on these statements. These forward-looking statements are
+applicable only as of the date of the Project Documents.
+The Hedget Token Vendor, the Project Group, and/or any other person do not represent, warrant,
+and/or undertake the contents in those forward-looking statements, and the eventual outcome
+may differ materially from those anticipated in these forward-looking statements.
+
+Nothing contained in the Project Documents is or may be relied upon as a promise, representation
+or undertaking relating to the Hedget Token Vendor and/or the Project Group, or the Hedget
+Platform.
+Further, the Hedget Token Vendor and the Project Group each disclaims any responsibility to
+update any of those forward-looking statements or publicly announce any revisions to those
+forward-looking statements to reflect future developments, events or circumstances, even if new
+information becomes available or other events occur in the future.
+Third Party Information and No Consent of Other Persons
+The Project Documents include information obtained from various third party sources (“Third
+Party Information”). The consent of the publishers of the Third Party Information has not been
+sought for the inclusion of the Third Party Information in the Project Documents and such
+publishers are therefore not liable for the Third Party Information. While the Hedget Token Vendor
+and the Project Group have taken reasonable action to ensure that the Third Party Information
+have been included in their proper form and context, the Hedget Token Vendor, the Project Group,
+and/or their respective directors, executive officers, and employees acting on its behalf, have not
+independently verified the accuracy, reliability, completeness of the contents, or ascertained any
+applicable underlying assumption, of the relevant Third Party Information. Consequently, the
+Hedget Token Vendor, the Project Group, and/or their respective directors, executive officers,
+and employees acting on their behalf do not make any representation or warranty as to the
+accuracy, reliability or completeness of such information and shall not be obliged to provide any
+updates on the same.
+Terms used
+To facilitate a better understanding of the Hedget Tokens being offered for purchase by the
+Hedget Token Vendor, and the businesses and operations of the Project Group, certain technical
+terms and abbreviations, as well as, in certain instances, their descriptions, have been used in
+the Project Documents. These descriptions and assigned meanings should not be treated as
+being definitive of their meanings and may not correspond to standard industry meanings or
+usage.
+Words importing the singular shall, where applicable, include the plural and vice versa and words
+importing the masculine gender shall, where applicable, include the feminine and neuter genders
+and vice versa. References to persons shall include corporations.
+No Advice
+No information in the Project Documents should be considered to be business, legal, financial or
+tax advice regarding the Hedget Token Vendor, the Project Group, the Project, the Hedget Tokens,
+the Hedget Platform, or the Hedget Token Distribution. You should consult your own legal,
+financial, tax or other professional advisor regarding the Hedget Token Vendor, the Project Group,
+
+the Project, the Hedget Tokens, the Hedget Platform, and the Hedget Token Distribution. You
+should be aware that you may be required to bear all risks of any purchase of Hedget Tokens for
+an indefinite period of time.
+None of the advisors engaged by the Hedget Token Vendor and/or the Project Group has made
+or purports to make any statement in the Project Documents or any statement upon which a
+statement in the Project Documents is based and each of them makes no representation
+regarding any statement in the Project Documents and to the maximum extent permitted by law,
+expressly disclaims and takes no responsibility for any liability to any person which is based on,
+or arises out of, any statement, information or opinions in, or omission from, the Project
+Documents.
+No Further Information or Update
+No person has been or is authorized to give any information or representation not contained in
+the Project Documents in connection with the Hedget Token Vendor, the Project Group, the
+Project, the Hedget Tokens, the Hedget Platform, or the Hedget Token Distribution and, if given,
+such information or representation must not be relied upon as having been authorized by or on
+behalf of the Hedget Token Vendor and/or the Project Group. The Hedget Token Distribution shall
+not, under any circumstances, constitute a continuing representation or create any suggestion or
+implication that there has been no change, or development reasonably likely to involve a material
+change in the affairs, conditions and prospects of the Hedget Token Vendor and/or the Project
+Group or in any statement of fact or information contained in the Project Documents since the
+date hereof.
+Restrictions on Distribution and Dissemination
+The distribution or dissemination of the Project Documents or any part thereof may be prohibited
+or restricted by the laws, regulatory requirements and rules of any jurisdiction. In the case where
+any restriction applies, you are to inform yourself about, and to observe, any restrictions which
+are applicable to your possession of the Project Documents or such part thereof (as the case may
+be) at your own expense and without liability to the Hedget Token Vendor and/or the Project
+Group.
+Persons to whom copies of the Project Documents have been distributed, disseminated, or
+provided access to or who otherwise have the Project Documents in their possession, shall not
+circulate it to any other persons, reproduce or otherwise distribute the Project Documents or any
+information contained herein for any purpose whatsoever nor permit or cause the same to occur.
+No Offer of Investment or Registration
+Hedget Tokens are not intended to be and should not be construed to constitute shares or
+securities of any form, units in a business trust, units in a collective investment scheme or any
+other form of regulated investment or investment product in any jurisdiction. The Project
+
+Documents do not constitute prospectuses or offer documents of any sort and are not intended
+to and should not be construed to constitute an offer of shares or securities of any form, units in
+a business trust, units in a collective investment scheme or any other form of investment, or a
+solicitation for any form of investment in any jurisdiction. No person is bound to enter into any
+contract or binding legal commitment in relation to the distribution and purchase of the Hedget
+Tokens and no cryptocurrency (other than those provided for in the Project Documents) or other
+form of payment is to be accepted on the basis of the Project Documents.
+THE HEDGET TOKEN DISTRIBUTION (AS REFERRED TO IN THE PROJECT DOCUMENTS)
+IS INTENDED FOR, MADE TO OR DIRECTED AT ONLY PERSONS WHO ARE NOT
+EXCLUDED PERSONS. ACCORDINGLY, YOU ARE NOT ELIGIBLE AND YOU ARE NOT TO
+PURCHASE ANY HEDGET TOKENS IN THE HEDGET TOKEN DISTRIBUTION IF YOU ARE
+AN EXCLUDED PERSON.
+No regulatory authority has examined or approved of any of the information set out in the Project
+Documents. No such action has been or will be taken under the laws, regulatory requirements or
+rules of any jurisdiction. The publication, distribution or dissemination of the Project Documents
+does not imply that the applicable laws, regulatory requirements or rules have been complied with.
+Risks and Uncertainties
+Prospective Purchasers should carefully consider and evaluate all risks and uncertainties
+associated with the Hedget Token Vendor, the Project Group, the Hedget Tokens, the Project,
+the Hedget Platform, and the Hedget Token Distribution, and all information set out in the Project
+Documents and the Hedget Token Distribution Terms prior to any purchase of the Hedget Tokens.
+If any of such risks and uncertainties develop into actual events, the business, financial condition,
+results of operations and prospects of the Project, the Hedget Platform, the Hedget Token Vendor
+and/or the Project Group could be materially and adversely affected. In such cases, the value or
+the trading price of the Hedget Tokens may be indirectly impacted.
+Please refer to the risks and warnings set out in Annex B below and such other risk factors as
+highlighted in the Hedget Token Distribution Terms before deciding to purchase Hedget Tokens.
+It should be noted the aforementioned list of risks and warnings is not exhaustive. Accordingly,
+prospective Purchasers should not place undue reliance on these statements.
+
+Annex 1
+HEDGET TOKEN DISTRIBUTION EXCLUDED JURISDICTIONS*
+1.
+
+Albania#
+
+2.
+
+Bahamas#
+
+3.
+
+Barbados#
+
+4.
+
+Botswana#
+
+5.
+
+Cambodia#
+
+6.
+
+Democratic People’s Republic of Korea#^
+
+7.
+
+Democratic Republic of Congo
+
+8.
+
+Ghana#
+
+9.
+
+Iceland#
+
+10.
+
+Iran#^
+
+11.
+
+Jamaica#
+
+12.
+
+Mauritius#
+
+13.
+
+Mongolia#
+
+14.
+
+Myanmar#
+
+15.
+
+Nicaragua#
+
+16.
+
+Pakistan#
+
+17.
+
+Panama#
+
+18.
+
+People’s Republic of China, which for the purposes of this Agreement shall exclude the Hong Kong
+Special Administrative Region of the PRC, the Macau Special Administrative Region of the PRC
+and Taiwan, Republic of China
+
+19.
+
+Somalia
+
+20.
+
+South Sudan
+
+21.
+
+Sudan
+
+22.
+
+Syria#^
+
+23.
+
+Uganda#
+
+24.
+
+United States of America
+
+25.
+
+Yemen#^
+
+26.
+
+Zimbabwe#
+
+27.
+
+Any jurisdiction in which the Hedget Token Distribution is (a) prohibited, restricted or unauthorized
+in any form or manner whether in full or in part under the laws, regulatory requirements or rules in
+such jurisdiction, or (b) subject of regulation so as to attract licensing or prospectus filing obligations
+on an issuer of digital assets under the laws, regulatory requirements or rules in such jurisdiction
+unless otherwise determined by the Hedget Token Vendor in its sole and absolute discretion to be
+a jurisdiction included in the Hedget Token Distribution.
+
+#
+
+Jurisdictions with strategic anti-money laundering / counter-financing of terrorism
+deficiencies most recently identified by the Financial Action Task Force for increased
+monitoring at <http://www.fatf-gafi.org/countries/#high-risk> (last accessed on 1
+September 2020)
+
+^
+
+Jurisdictions in which designated individuals and entities are identified by the MAS for the
+purposes of regulations promulgated under the Monetary Authority of Singapore Act
+(Chapter 186) of Singapore, the United Nations Act (Chapter 339) of Singapore or the
+Terrorism (Suppression of Financing) Act (Chapter 325) of Singapore
+
+*
+
+The Hedget Token Distribution Excluded Jurisdictions stipulated hereto are indicative for
+the purpose of this Whitepaper, and is subject always to and superseded by the full and
+final list of Hedget Token Distribution Excluded Jurisdictions as stipulated in the Hedget
+Token Distribution Terms. Please refer to the Hedget Token Distribution Terms to
+determine your eligibility to participate in the Hedget Token Distribution.
+
+Annex B
+
+RISK FACTORS
+
+(1)
+
+RISKS RELATING TO PARTICIPATION IN THE TOKEN DISTRIBUTION EVENT (AS DEFINED
+BELOW)
+
+Purchase of products, including but not limited to cryptocurrencies / cryptographic
+tokens, from start-ups such as the Hedget Token Vendor and the Project Group
+involve a high degree of risk
+
+Financial and operating risks confronting start-ups are significant and the Hedget Token
+Vendor and the Project Group are not immune to these. Start-ups often experience
+unexpected problems in the areas of product development, marketing, financing, and
+general management, among others, which frequently cannot be solved.
+
+The Hedget Token Vendor and/or the Project Group may be forced to cease
+operations
+
+It is possible that, due to any number of reasons, including, but not limited to, an
+unfavourable fluctuation in the value of cryptographic and fiat currencies, the inability of
+the Hedget Token Vendor and/or the Project Group to establish the Project or the Tokens’
+utility, the failure of commercial relationships, or intellectual property ownership challenges,
+the Hedget Token Vendor and/or the Project Group may no longer be viable to operate
+and the Hedget Token Vendor and/or the Project Group may dissolve or take actions that
+result in a dissolution of the Hedget Token Vendor and/or the Project Group.
+
+The tax treatment in relation to Tokens are uncertain and there may be adverse tax
+consequences for a Purchaser upon certain future events
+
+The tax characterisation of Tokens are uncertain, and a Purchaser should seek
+independent tax advice in connection with a purchase of Tokens. A purchase of Tokens
+may result in adverse tax consequences to the Purchaser, including withholding taxes,
+income taxes, and tax reporting requirements. The Purchaser should consult with and
+must rely upon the advice of its own professional tax advisors with respect to tax treatment
+of a purchase of Tokens.
+
+There is no prior market for the Tokens and the Token Distribution Event may not
+result in an active or liquid market for the Tokens
+
+Prior to a Token Distribution event (“Token Distribution Event”), there has been no public
+market for the Tokens and the Tokens are not traded, whether on any cryptocurrency
+exchange or otherwise. In the event that the Tokens are traded on a cryptocurrency
+exchange, there is no assurance that an active or liquid trading market for the Tokens will
+develop or if developed, be sustained after the Tokens have been made available for
+trading on such cryptocurrency exchange. There is also no assurance that the market
+price of the Tokens will not decline below the purchase consideration at which the
+Purchaser acquired the Tokens. Such purchase consideration may not be indicative of the
+market price of the Tokens after they have been made available for trading on a
+cryptocurrency exchange.
+
+A Token is not a currency issued by any central bank or national, supra-national or quasinational organisation, nor is it backed by any hard assets or other credit. The Hedget
+Token Vendor and/or the Project Group is/are not responsible for nor does it / do they
+pursue the circulation and trading of Tokens on the market. Trading of Tokens merely
+depends on the consensus on its value between the relevant market participants, and no
+one is obliged to purchase any Token from any holder of the Token, including the
+purchasers, nor does anyone guarantee the liquidity or market price of Tokens to any
+extent at any time. Accordingly, the Hedget Token Vendor and/or the Project Group cannot
+ensure that there will be any demand or market for Tokens, or that the purchase
+consideration at the relevant time is indicative of the market price of Tokens after they
+have been made available for trading on a cryptocurrency exchange.
+
+Future sales of the Tokens could materially and adversely affect the market price of
+Tokens
+
+Any future sale of the Tokens (which were not available for sale in the Token Distribution
+Event) would increase the supply of Tokens in the market and this may result in a
+downward price pressure on the Tokens. The sale or distribution of a significant number
+of Tokens outside of the Token Distribution Event, or the perception that such further
+sales or issuance may occur, could adversely affect the trading price of the Tokens.
+
+Negative publicity may materially and adversely affect the price of the Tokens
+
+Negative publicity involving the Hedget Token Vendor, the Project Group, the Project, the
+Tokens and/or any of the key personnel of the Hedget Token Vendor and/or the Project
+Group may materially and adversely affect the market perception or market price of the
+Tokens, whether or not such negative publicity is justified.
+
+There is no assurance of any success of the Project
+
+The value of, and demand for, the Tokens hinges heavily on the performance of the
+Project. There is no assurance that the Project will gain traction after its launch and
+achieve any commercial success.
+
+The Project has not been fully developed, finalised, and integrated and is subject to further
+changes, updates, and adjustments prior to its launch. Such changes may result in
+unexpected and unforeseen effects on its projected appeal to users, and hence impact
+its success.
+
+While the Hedget Token Vendor has made every effort to provide a realistic estimate,
+there is also no assurance that the proceeds raised in the Token Distribution Event will
+be sufficient for the development and integration of the Project. For the foregoing or any
+other reason, the development and integration of the Project may not be completed and
+there is no assurance that it will be launched at all. As such, distributed Tokens may hold
+little worth or value, and this would impact its trading price.
+
+If and when the Project is fully developed, there is no assurance that its systems, protocols,
+or products will be widely adopted or utilised by its target users.
+
+The trading price of the Tokens may fluctuate following the Token Distribution
+Event
+
+The prices of digital tokens in general tend to be relatively volatile, and can fluctuate
+significantly over short periods of time. The demand for, and correspondingly the market
+price of, the Tokens may fluctuate significantly and rapidly in response to, among others,
+the following factors, some of which are beyond the control of the Hedget Token Vendor
+and/or the Project Group:
+
+(a)
+
+new technical innovations;
+
+(b)
+
+analysts’ speculations, recommendations, perceptions or estimates of the Token’s market
+price or the financial and business performance of the Hedget Token Vendor and/or the
+Project Group;
+
+(c)
+
+changes in market valuations and token prices of entities with operations similar to that of
+the Hedget Token Vendor and/or the Project Group that may be made available for sale
+and purchase on the same cryptocurrency exchanges as the Tokens;
+
+(d)
+
+announcements by the Hedget Token Vendor and/or the Project Group of significant
+events, for example, partnerships, sponsorships, or new product developments;
+
+(e)
+
+fluctuations in market prices and trading volume of cryptocurrencies on cryptocurrency
+exchanges;
+
+(f)
+
+additions or departures of key personnel of the Hedget Token Vendor and/or the Project
+Group;
+
+(g)
+
+success or failure of the management of the Hedget Token Vendor and/or the Project
+Group in implementing business and growth strategies; and
+
+(h)
+
+changes in conditions affecting the blockchain or financial technology industry, the general
+economic conditions or market sentiments, or other events or factors.
+
+The funds raised in the Token Distribution Event are exposed to risks of theft
+
+The Hedget Token Vendor will make every effort to ensure that the funds received from
+the Token Distribution Event will be securely held at such addresses as directed by the
+Hedget Token Vendor (“Receiving Addresses”). Further, upon receipt of the funds, the
+Hedget Token Vendor will make every effort to ensure that the funds received will be
+securely held through the implementation of security measures. Notwithstanding such
+security measures, there is no assurance that there will be no theft of the cryptocurrencies
+as a result of hacks, mining attacks (including but not limited to double-spend attacks,
+majority mining power attacks, and “selfish-mining” attacks), sophisticated cyber-attacks,
+distributed denials of service or errors, vulnerabilities or defects on the Receiving
+Addresses, the applicable blockchain(s), or any other blockchain, or otherwise. Such
+events may include, for example, flaws in programming or source code leading to
+exploitation or abuse thereof. In such event, even if the Token Distribution Event is
+completed, the Hedget Token Vendor may not be able to receive the cryptocurrencies
+raised and the Hedget Token Vendor may not be able to utilise such funds for the
+development of the Project, and the launch of the Project might be temporarily or
+
+permanently curtailed. As such, the issued Tokens may hold little worth or value, and this
+would impact their trading price. The Tokens are uninsured, unless the Purchaser
+specifically obtains private insurance to insure them. In the event of any loss or loss of
+value of the Tokens, the Purchaser may have no recourse.
+
+(2)
+
+RISKS RELATING TO THE RECEIVING ADDRESSES AND WALLETS
+
+The Receiving Addresses may be compromised and the cryptocurrencies may not
+be able to be disbursed
+
+The Receiving Addresses are designed to be secure. However, in the event that the
+Receiving Addresses are, for any reason compromised (including but not limited to
+scenarios of the loss of keys to such Receiving Addresses), the funds held by the
+Receiving Addresses may not be able to be retrieved and disbursed, and may be
+permanently unrecoverable. In such event, even if the Token Distribution Event is
+successful, the Hedget Token Vendor and/or the Project Group will not be able to receive
+the funds raised and the Hedget Token Vendor and/or the Project Group will not be able
+to utilise such funds for the development of the Project, and the implementation of the
+Project might be temporarily or permanently curtailed. As such, distributed Tokens may
+hold little worth or value, and this would impact their trading price.
+
+The loss or compromise of information relating to the Purchaser’s wallet may affect
+the Purchaser’s access and possession of the Tokens
+
+The Purchaser’s access to the Tokens in a cryptocurrency wallet (“Wallet”) depends on,
+among other things, the safeguards to the information to such Wallet, including but not
+limited to the user account information, address, private key, and password. In the event
+that any of the foregoing is lost or compromised, the Purchaser’s access to the Wallet
+may be curtailed and thereby adversely affecting the Purchaser’s access and possession
+to the Tokens, including such Tokens being unrecoverable and permanently lost.
+
+The Wallet or Wallet service provider may not be technically compatible with the
+Tokens
+
+The Wallet or Wallet service provider may not be technically compatible with the Tokens
+which may result in the delivery of Tokens being unsuccessful or affect the Purchaser’s
+access to such Tokens.
+
+(3)
+
+RISKS RELATING TO THE HEDGET TOKEN VENDOR AND THE PROJECT GROUP
+
+The Project is initiated by the Hedget Token Vendor and the Project Group. Any events or
+circumstances which adversely affect the Hedget Token Vendor and/or the Project Group
+may have a corresponding adverse effect on the Project if such events or circumstances
+affect the Hedget Token Vendor’s and/or the Project Group’s ability to launch the Project.
+This would correspondingly have an impact on the trading price of the Tokens.
+
+There may be weaknesses, vulnerabilities or bugs in the protocols, systems, and
+smart contracts in connection with the Project
+
+As blockchain and smart contract technology is still relatively in its early stage of
+development and its application of experimental nature carries significant operation,
+technological, financial, regulatory and reputational risks, there are inherent risks that such
+protocols, systems and/or smart contracts could contain weaknesses, vulnerabilities or
+bugs.
+
+Purchasers of Tokens should understand and accept that there are no warranties that
+Tokens are fit for a particular purpose or do not contain any weaknesses, vulnerabilities
+or bugs which would cause loss in their worth or value. In the event that any of the
+aforementioned risks materialises, the business strategies, results of operations and
+outlook of the Hedget Token Vendor and/or the Project Group may also be adversely
+affected.
+
+The Hedget Token Vendor and/or the Project Group may experience system failures,
+unplanned interruptions in their network or services, hardware or software defects,
+security breaches or other causes that could adversely affect the infrastructure
+network of the Hedget Token Vendor and/or the Project Group, and/or the Project
+
+The Hedget Token Vendor and/or the Project Group is/are unable to anticipate when there
+would be occurrences of hacks, cyber-attacks, mining attacks (including but not limited to
+double-spend attacks, majority mining power attacks, and “selfish-mining” attacks),
+distributed denials of service or errors, vulnerabilities or defects in the Project, the Tokens,
+the Receiving Addresses, the Wallet or any technology (including but not limited to smart
+contract technology) on which the Project Group, the Project, the Tokens, the Receiving
+Addresses, and the Wallet rely or on the applicable blockchain(s). Such events may
+include, for example, flaws in programming or source code leading to exploitation or abuse
+
+thereof. The Hedget Token Vendor and/or the Project Group may not be able to detect
+such hacks, mining attacks (including but not limited to double-spend attacks, majority
+mining power attacks, and “selfish-mining” attacks), cyber-attacks, distributed denials of
+service errors vulnerabilities or defects in a timely manner, and may not have sufficient
+resources to efficiently cope with multiple service incidents happening simultaneously or
+in rapid succession.
+
+The network or services of the Hedget Token Vendor and/or the Project Group, which
+would include the Project, could be disrupted by numerous events, including natural
+disasters, equipment breakdown, network connectivity downtime, power losses, or even
+intentional disruptions of their services, such as disruptions caused by software viruses or
+attacks by unauthorised users, some of which are beyond the control of the Hedget Token
+Vendor and/or the Project Group. Although the Hedget Token Vendor and the Project
+Group will be taking steps against malicious attacks on their appliances or infrastructure,
+which are critical for the initiation and maintenance of the Project and its other services,
+there can be no assurance that cyber-attacks, such as distributed denials of service, will
+not be attempted in the future, and that any of the enhanced security measures of the
+Hedget Token Vendor and/or the Project Group will be effective. The Hedget Token
+Vendor and/or the Project Group may be prone to attacks on their infrastructure intended
+to steal information about its technology, financial data or user information or take other
+actions that would be damaging to the Hedget Token Vendor, the Project Group, and/or
+users of the Project. Any significant breach of the security measures of the Hedget Token
+Vendor and/or the Project Group or other disruptions resulting in a compromise of the
+usability, stability and security of the network or services of the Hedget Token Vendor
+and/or the Project Group (including the Project) may adversely affect the trading price of
+the Tokens.
+
+The Hedget Token Vendor and/or the Project Group are dependent in part on the
+location and data centre facilities of third parties
+
+The infrastructure network of the Hedget Token Vendor and/or the Project Group is in part
+established through servers which they own and house at the location facilities of third
+parties, and servers that they rent at data centre facilities of third parties. If the Hedget
+Token Vendor and/or the Project Group is/are unable to renew its data facility lease on
+commercially reasonable terms or at all, the Hedget Token Vendor and/or the Project
+Group may be required to transfer their servers to a new data centre facility, and may incur
+significant costs and possible service interruption in connection with the relocation. These
+facilities are also vulnerable to damage or interruption from, among others, natural
+disasters, arson, terrorist attacks, power losses, and telecommunication failures.
+Additionally, the third party providers of such facilities may suffer a breach of security as
+a result of third party action, employee error, malfeasance or otherwise, and a third party
+
+may obtain unauthorised access to the data in such servers. As techniques used to obtain
+unauthorised access to, or to sabotage systems change frequently and generally are not
+recognised until launched against a target, the Hedget Token Vendor, the Project Group,
+and/or the providers of such facilities may be unable to anticipate these techniques or to
+implement adequate preventive measures. Any such security breaches or damages which
+occur that impact upon the infrastructure network of the Hedget Token Vendor and/or the
+Project Group, and/or the Project may adversely impact the price of the Tokens.
+
+General global market and economic conditions may have an adverse impact on
+the operating performance, results of operations and cash flows of the Hedget
+Token Vendor and/or the Project Group
+
+The Hedget Token Vendor and/or the Project Group have/has been and could continue to
+be affected by general global economic and market conditions. Challenging economic
+conditions worldwide have from time to time, contributed, and may continue to contribute,
+to slowdowns in the information technology industry at large. Weakness in the economy
+could have a negative effect on the business, operations and financial condition of the
+Hedget Token Vendor and/or the Project Group, including decreases in revenue and
+operating cash flows. Additionally, in a down-cycle economic environment, the Hedget
+Token Vendor and/or the Project Group may experience the negative effects of increased
+competitive pricing pressure and a slowdown in commerce and usage of the Project.
+Suppliers on which the Hedget Token Vendor and/or the Project Group rely for servers,
+bandwidth, location and other services could also be negatively impacted by economic
+conditions that, in turn, could have a negative impact on the operations or expenses of the
+Hedget Token Vendor and/or the Project Group. There can be no assurance, therefore,
+that current economic conditions or worsening economic conditions or a prolonged or
+recurring recession will not have a significant adverse impact on the business, financial
+condition and results of operations of the Hedget Token Vendor and/or the Project Group,
+and hence the Project, which may indirectly impact the trading price of the Tokens.
+
+The Hedget Token Vendor, the Project Group, the Tokens and/or the Project may be
+affected by newly implemented regulations
+
+The Hedget Token Vendor, the Project Group, the Project, and/or the Tokens may be
+affected by newly implemented regulations relating to cryptocurrencies or digital tokens
+markets, including having to take measures to comply with such regulations, or having to
+deal with queries, notices, requests or enforcement actions by regulatory authorities,
+which may come at a substantial cost and may also require substantial modifications to
+the Project. This may impact the appeal of the Project for users and result in decreased
+usage of the Project. Further, should the costs (financial or otherwise) of complying with
+
+such newly implemented regulations exceed a certain threshold, launching the Project
+may no longer be commercially viable and the Hedget Token Vendor and/or the Project
+Group may opt to discontinue the Project and/or the Tokens. Further, it is difficult to predict
+how or whether governments or regulatory authorities may implement any changes to laws
+and regulations affecting distributed ledger technology and its applications, including the
+Project and the Tokens. The Hedget Token Vendor and/or the Project Group may also
+have to cease operations in a jurisdiction that makes it illegal to operate in such jurisdiction,
+or make it commercially unviable or undesirable to obtain the necessary regulatory
+approval(s) to operate in such jurisdiction. In scenarios such as the foregoing, the trading
+price of Tokens will be adversely affected or Tokens may cease to be traded.
+
+The regulatory regime governing blockchain technologies, cryptocurrencies,
+tokens, and token offerings such as the Token Distribution Event, the Project, and
+the Tokens is uncertain, and regulations or policies may materially adversely affect
+the development of the Project and the utility of the Tokens
+
+Regulation of tokens (including the Tokens) and token offerings (such as the Token
+Distribution Event), cryptocurrencies, blockchain technologies, and cryptocurrency
+exchanges is likely to rapidly evolve, varies significantly among international, federal, state
+and local jurisdictions, and is subject to significant uncertainty. Various legislative and
+executive bodies in the relevant jurisdictions may in the future adopt laws, regulations,
+guidance, or other actions, which may severely impact the development and growth of the
+Project, the adoption and utility of the Tokens or the issue, offer, and sale of the Tokens
+by the Hedget Token Vendor. Failure by the Hedget Token Vendor and/or the Project
+Group or users of the Project to comply with any laws, rules and regulations, some of
+which may not exist yet or are subject to interpretation and may be subject to change,
+could result in a variety of adverse consequences, including civil penalties and fines.
+
+Blockchain networks also face an uncertain regulatory landscape in many foreign
+jurisdictions and may, in the near future, adopt laws, regulations or directives that affect
+the Project. Such laws, regulations or directives may directly and negatively impact the
+business of the Hedget Token Vendor and/or the Project Group. The effect of any future
+regulatory change is impossible to predict, but such change could be substantial and
+materially adverse to the development and growth of the Project and the adoption and
+utility of the Tokens.
+
+New or changing laws and regulations or interpretations of existing laws and regulations
+may materially and adversely impact the value of the currency in which the Tokens may
+be sold, the liquidity of the Tokens, the ability to access marketplaces or exchanges on
+which to trade the Tokens, and the structure, rights and transferability of Tokens.
+
+Token holders will have no control over the Hedget Token Vendor and/or the
+Project Group
+
+The holders of Tokens are not and will not be entitled to vote or receive dividends or
+distributions and are not and will not be treated as the holder of shares in the Hedget
+Token Vendor and/or the Project Group for any purpose, nor will anything be construed to
+confer on the Purchaser any of the rights of a member of the Hedget Token Vendor and/or
+the Project Group or any right to vote for the election of directors or upon any matter
+submitted to members at any meeting thereof, or to give or withhold consent to any
+corporate action or to receive notice of meetings, or to receive subscription rights or
+otherwise.
+
+The Purchaser may lack information in respect of the Hedget Token Vendor, the
+Project Group, the Tokens, and/or the Project
+
+The Purchaser may not be able to obtain all the information it would want regarding the
+Hedget Token Vendor, the Project Group, the Tokens, and/or the Project, on a timely basis
+or at all. It is possible that the Purchaser may not be aware on a timely basis of material
+adverse changes that have occurred. Information in relation to the development of Tokens
+may also be highly technical by nature. As a result of these difficulties, as well as other
+uncertainties, the Purchaser may not have accurate or accessible information about the
+Hedget Token Vendor, the Project Group, the Tokens, and/or the Project.
+
+There may be risks relating to acts of God, natural disasters, wars, terrorist attacks,
+riots, civil commotions widespread communicable diseases and other force
+majeure events beyond the control of the Hedget Token Vendor and/or the Project
+Group
+
+The Token Distribution Event and the performance of the activities of the Hedget Token
+Vendor, the Project Group, and/or the Project may be interrupted, suspended or delayed
+due to acts of God, natural disasters, wars, terrorist attacks, riots, civil commotions,
+widespread communicable diseases and other force majeure events beyond the control
+of the Hedget Token Vendor and/or the Project Group. Such events could also lead to
+uncertainty in the economic outlook of global markets and there is no assurance that such
+markets will not be affected, or that recovery from the global financial crisis would continue.
+In such events, the business strategies, results of operations and outlook of the Hedget
+Token Vendor and/or the Project Group may be materially and adversely affected. Further,
+
+if an outbreak of such infectious or communicable diseases occurs in any of the countries
+in which the Hedget Token Vendor, the Project Group, the developers, data providers
+and/or data consumers have operations in the future, market sentiment could be adversely
+affected and this may have a negative impact on the Project and community.
+
+There may be unanticipated risks arising from the Tokens
+
+Cryptographic tokens such as the Tokens are a relatively new and dynamic technology.
+In addition to the risks included herein, there are other risks associated with the
+Purchaser’s purchase, holding and use of the Tokens, including those that the Hedget
+Token Vendor and/or the Project Group cannot anticipate. Such risks may further
+materialise as unanticipated variations or combinations of the risks discussed herein.
+
+

@@ -1,0 +1,1270 @@
+Contents
+Disclaimer
+Important Notice
+
+3
+3
+
+Abstract
+
+9
+
+Vision
+
+9
+
+Decentralized Finance
+
+10
+
+Traditional Markets and their flaws
+
+10
+
+Traditional vs. Fintech vs. Decentralized
+
+10
+
+Exponential Growth of DeFi
+
+12
+
+DeFi Landscape
+
+12
+
+PEAKDEFI Global Fund
+
+13
+
+Issues of the Investment Market
+
+13
+
+Current Problems that Investors face
+
+13
+
+Problems that asset managers face
+
+14
+
+Solution: PEAKDEFI Global Fund
+
+14
+
+How it works
+
+15
+
+For Investors
+
+15
+
+For Managers
+
+16
+
+For Affiliates
+
+19
+
+PEAK Token
+
+21
+
+Characteristics, Tokenomics and Distribution
+
+21
+
+PEAK Staking
+
+22
+
+Introduction
+
+22
+
+Staking Rewards
+
+23
+
+For Affiliates
+
+25
+
+Reward Structure
+
+25
+
+Direct Sales Volume - DSV
+
+26
+
+PEAK Minting for MarketPeak Community
+
+27
+
+PEAKDEFI APP
+
+28
+
+Challenges and Chances for PEAKDEFI
+
+29
+
+Market
+
+29
+
+Competition
+
+29
+
+Regulatory
+
+30
+
+Operational Risks
+
+30
+
+Team
+
+31
+
+Roadmap
+
+33
+
+Contracts
+
+34
+
+Sources
+
+35
+
+www.PEAKDEFI.com | 2
+
+Disclaimer
+Important Notice
+PLEASE READ THIS SECTION AND THE FOLLOWING SECTIONS ENTITLED “DISCLAIMER OF LIABILITY”, “NO
+REPRESENTATIONS AND WARRANTIES”, “REPRESENTATIONS AND WARRANTIES BY YOU”, “CAUTIONARY
+NOTE ON FORWARD-LOOKING STATEMENTS”, “MARKET AND INDUSTRY INFORMATION AND NO CONSENT
+OF OTHER PERSONS”, “NO ADVICE”, “NO FURTHER INFORMATION OR UPDATE”, “RESTRICTIONS ON
+DISTRIBUTION AND DISSEMINATION” AND “RISKS AND UNCERTAINTIES” CAREFULLY. IF YOU ARE IN ANY
+DOUBT AS TO THE ACTION YOU SHOULD TAKE, YOU SHOULD CONSULT YOUR LEGAL, FINANCIAL, TAX OR
+OTHER PROFESSIONAL
+ADVISOR(S).
+This Whitepaper does not constitute a prospectus or offer document of any sort and is not intended to constitute an
+offer of securities or a solicitation for investment in securities in any jurisdiction.
+This Whitepaper does not constitute or form part of any opinion on any advice to sell, or any solicitation of any offer
+by PEAKDEFI to use their services (as specified in the whitepaper) or to purchase any tokens nor shall it or any part
+of it, nor the fact of its presentation form the basis of, or be relied upon in connection with, any contract or investment
+decision.
+No person is bound to enter into any contract or binding legal commitment in relation to the services offered by
+PEAKDEFI (as specified in the whitepaper), or as the sale and purchase of the tokens and no cryptocurrency, or
+other form of payment is to be accepted on the basis of this Whitepaper. Any agreement as between PEAKDEFI and
+you, and in relation to any services offered by PEAKDEFI (as specified in the whitepaper) as well as the sell and
+purchase of tokens (as referred to in this Whitepaper) is to be governed by only a separate document setting out the
+terms and conditions (the “T&Cs”) of such agreement. In the event of any inconsistencies between the T&Cs and
+this Whitepaper, the former shall prevail. No regulatory authority has examined or approved of any of the information
+set out in this Whitepaper. No such action has been or will be taken under the laws, regulatory requirements or rules
+of any jurisdiction. The publication, distribution or dissemination of this Whitepaper does not imply that the applicable
+laws, regulatory requirements or rules have been complied with. There are risks and uncertainties associated with
+PEAKDEFI and the respective businesses and operations (each as referred to in this Whitepaper).
+This Whitepaper, any part thereof and any copy thereof must not be taken or transmitted to any country where
+distribution or dissemination of this Whitepaper is prohibited or restricted. No part of this Whitepaper is to be
+reproduced, distributed or disseminated without including this section and the following sections entitled “Disclaimer
+of Liability”, “No Representations and Warranties”, “Representations and Warranties By You”, “Cautionary Note On
+Forward-Looking Statements”, “Market and Industry Information and No Consent of Other Persons”, “Terms Used”,
+“No Advice”, “No Further Information or Update”, “Restrictions On Distribution and Dissemination” and “Risks and
+Uncertainties”.
+
+Disclaimer of Liability
+To the maximum extent permitted by the applicable laws, regulations, and rules, PEAKDEFI shall not be liable for any
+indirect, special, incidental, consequential or other losses of any kind, in tort, contract or
+
+www.PEAKDEFI.com | 3
+
+Disclaimer
+otherwise (including, but not limited to, loss of revenue, income or profits, and loss of use or data), arising out of or in
+connection with any acceptance of or reliance on this Whitepaper or any part thereof by you. Understand that all
+information pertaining to the services offered by PEAKDEFI (as specified in the Whitepaper) is contained in the
+Whitepaper and on this website. All information provided by a referral source is not authorized by PEAKDEFI and
+should not be relied upon.
+
+No Representations and Warranties
+PEAKDEFI does not make or purport to make, and hereby disclaims, any representation, warranty or undertaking in
+any form whatsoever to any entity or person, including any representation, warranty or undertaking in relation to the
+truth, accuracy and completeness of any of the information set out in this Whitepaper. PEAKDEFI does not guarantee
+or warrant the site will be uninterrupted, without delay, error-free, omission-free, or free of viruses. Therefore, the
+information is provided “as is” without warranties of any kind, express or implied, including accuracy, timeliness and
+completeness.
+
+Representation and Warranties by You
+By accessing and/or accepting possession of any information in this Whitepaper or such part thereof (as the case may
+be), you represent and warrant to PEAKDEFI as follows:
+(a) you agree and acknowledge that the tokens do not constitute securities in any form in any jurisdiction;
+(b) you agree and acknowledge that this Whitepaper does not constitute a prospectus or other document of any sort,
+is not intended to constitute another of securities in any jurisdiction or a solicitation for investment in securities, you
+are not bound to enter into any contract or binding legal commitment, and no cryptocurrency or other form of payment
+is to be accepted on the basis of this Whitepaper;
+(c) you agree and acknowledge that this Whitepaper, the undertaking and/or the completion of the
+Initial Token Sale, or future trading of tokens on any cryptocurrency exchange, shall not be construed, interpreted or
+deemed by you as an indication of the merits of PEAKDEFI;
+(e) the distribution or dissemination of this Whitepaper, any part thereof or any copy thereof, or acceptance of the
+same by you, is not prohibited or restricted by the applicable laws, regulations or rules in your jurisdiction, and where
+any restrictions in relation to possession are applicable, you have observed and complied with all such restrictions at
+your own expense and without liability to PEAKDEFI;
+(f) you agree and acknowledge that in the case where you wish to use the services offered by
+PEAKDEFI (as specified in the Whitepaper), or purchase any tokens, the services and/or tokens are not to be
+construed, interpreted, classified or treated as:
+(i) Any kind of currency other than cryptocurrency;
+(ii) Debentures, stocks or shares issued by any person or entity;
+
+www.PEAKDEFI.com | 4
+
+Disclaimer
+All forward-looking statements made by or attributable to PEAKDEFI or persons acting on behalf of PEAKDEFI are
+expressly qualified in their entirety by such factors. Given that risks and uncertainties that may cause the actual future
+results, performance or achievements of PEAKDEFI to be materially different from that expected, expressed or implied
+by the forward-looking statements in this Whitepaper, undue reliance must not be placed on these statements. These
+forward-looking statements are applicable only as of the date of this Whitepaper.
+Neither PEAKDEFI nor any other person represents, warrants and/or undertakes that the actual future results,
+performance or achievements of PEAKDEFI will be as discussed in those forward-looking statements. The actual
+results, performance or achievements of PEAKDEFI may differ materially from those anticipated in forward looking
+statements. Nothing contained in this Whitepaper is or may be relied upon as a promise, representation or
+undertaking as to the future performance or policies of PEAKDEFI.
+Further, PEAKDEFI disclaim any responsibility to update any forward-looking statements or publicly announce any
+revisions to those forward-looking statements to reflect future developments, events or circumstances, even if new
+information becomes available or other events occur in the future.
+
+Market and Industry Information and Consent of Other Persons
+This Whitepaper includes market and industry information, and forecasts that have been obtained from internal
+surveys, reports and studies, where appropriate, as well as market research, publicly available information and
+industry publications. Such surveys, reports, studies, market research, publicly available information and publications
+generally state that the information that they contain has been obtained from sources believed to be reliable, but there
+can be no assurance as to the accuracy or completeness of such included information. Save for PEAKDEFI,
+respective directors, executive officers and employees, no person has provided his or her consent to the inclusion of
+his or her name and/or other information attributed or perceived to be attributed to such person in connection
+therewith in this Whitepaper and no representation, warranty or undertaking is purported to be provided as to the
+accuracy or completeness of such information by such person, and such persons shall not be obliged to provide any
+updates on the same. While PEAKDEFI has taken reasonable actions to ensure that the information is extracted
+accurately and in its proper context, PEAKDEFI has not conducted any independent review of the information
+extracted from third party sources, verified the accuracy or completeness of such information or ascertained the
+underlying economic assumptions relied upon therein. Consequently, neither PEAKDEFI, nor respective directors,
+executive officers and employees acting on behalf makes any representation or warranty as to the accuracy or
+completeness of such information and shall not be obliged to provide any updates on the same.
+
+Terms Used
+To facilitate a better understanding of PEAKDEFI, and the businesses and operations of PEAKDEFI, certain technical
+terms and abbreviations, as well as, in certain instances, their descriptions, have been used in this Whitepaper. These
+descriptions and assigned meanings should not be treated as being definitive of their meanings and may not
+correspond to standard industry meanings or usage.
+
+www.PEAKDEFI.com | 5
+
+Disclaimer
+(iii) Rights, options or derivatives in respect of such debentures, stocks or shares;
+(iv) Rights under a contract for differences or under any other contract the purpose or pretended purpose of which
+is to secure a profit or avoid a loss;
+(v) Units in a collective investment scheme;
+(vi) Units in a business trust;
+(vii) Derivatives of units in a business trust; or
+(viii) Any other security or class of securities.
+(g) you have a basic degree of understanding of the operation, functionality, usage, storage, transmission
+mechanisms and other material characteristics of cryptocurrencies, blockchain-based software systems,
+cryptocurrency wallets or other related token storage mechanisms, blockchain technology and smart contract
+technology;
+(h) you are fully aware and understand that in the case where you wish to use the services offered by
+PEAKDEFI (as specified in the Whitepaper) or purchase any tokens, there are risks associated with PEAKDEFI
+and respective business and operations (each as referred to in the Whitepaper);
+(i) you are fully aware and understand that cryptocurrencies may have tax implications in your jurisdiction, including
+value added tax and capital gains tax; and you agree and acknowledge that PEAKDEFI is not liable for any
+consequences arising from tax implications regarding the services and/or tokens;
+(j) you are fully aware and understand that transactions regarding the services and/or tokens may be subject to
+regulations in your jurisdiction regarding barter exchanges;
+(k) you agree and acknowledge that PEAKDEFI is not liable for any indirect, special, incidental, consequential or
+other losses of any kind, in tort, contract or otherwise (including but not limited to loss of revenue, income or profits,
+and loss of use or data), arising out of or in connection with any acceptance of or reliance on this Whitepaper or
+any part thereof by you; and
+(l) all of the above representations and warranties are true, complete, accurate and not misleading from the time of
+your access to and/or acceptance of possession this Whitepaper or such part thereof (as the case may be).
+
+Cautionary Note on Forward-Looking Statements
+All statements contained in this Whitepaper, statements made in press releases or in any place accessible by the
+public and oral statements that may be made by PEAKDEFI or their respective directors, executive officers or
+employees acting on behalf of PEAKDEFI (as the case may be), that are not statements of historical fact, constitute
+“forward looking statements”. Some of these statements can be identified by forward-looking terms such as “aim”,
+“target”, “anticipate”, “believe”, “could”, “estimate”, “expect”, “if”, “intend”, “may”, “plan”, “possible”, “probable”,
+“project”, “should”, “would”, “will” or other
+
+www.PEAKDEFI.com | 6
+
+Disclaimer
+similar terms.
+However, these terms are not the exclusive means of identifying forward-looking statements. All statements regarding
+PEAKDEFI financial position, business strategies, plans and prospects and the future prospects of the industry, in
+which PEAKDEFI is mentioned are forward-looking statements. These forward-looking statements, including but not
+limited to statements as to PEAKDEFI revenue and profitability, prospects, future plans, other expected industry trends
+and other matters discussed in this Whitepaper regarding PEAKDEFI are matters that are not historical facts, but only
+predictions. These forward-looking statements involve known and unknown risks, uncertainties and other factors that
+may cause the actual future results, performance or achievements of PEAKDEFI to be materially different from any
+future results, performance or achievements expected, expressed or implied by such forward-looking statements; i.e.:
+(a) Changes in political, social, economic and stock or cryptocurrency market conditions, and the regulatory
+environment in the countries in which PEAKDEFI conducts its respective businesses and operations;
+(b) The risk that PEAKDEFI may be unable or execute or implement their respective business strategies and future
+plans;
+(c) Changes in interest rates and exchange rates of fiat currencies and cryptocurrencies;
+(d) Changes in the anticipated growth strategies and expected internal growth of PEAKDEFI;
+(e) Changes in the availability and fees payable to PEAKDEFI in connection with their respective businesses and
+operations;
+(f) Changes in the availability and salaries of employees who are required by PEAKDEFI to operate their respective
+businesses and operations;
+(g) Changes in preferences of customers of PEAKDEFI;
+(h) Changes in competitive conditions under which PEAKDEFI operates, and the ability of PEAKDEFI to compete
+under such conditions;
+(i) Changes in the future capital needs of PEAKDEFI and the availability of financing and capital to fund such needs;
+(j) War or acts of international or domestic terrorism;
+(k) Occurrences of catastrophic events, natural disasters and acts of God that affect the businesses and/or operations
+of PEAKDEFI;
+(l) Other factors beyond the control of PEAKDEFI; and
+(m) Any risk and uncertainties associated with PEAKDEFI and their businesses and operations (each as referred to in
+the Whitepaper).
+
+www.PEAKDEFI.com | 7
+
+Disclaimer
+Words importing the singular shall, where applicable, include the plural and vice versa and words importing the
+masculine gender shall, where applicable, include the feminine and neutral genders and vice versa. References to
+persons shall include corporations.
+
+No Advice
+No information in this Whitepaper should be considered to be business, legal, financial or tax advice regarding
+PEAKDEFI. You should consult your own legal, financial, tax or other professional advisor(s) regarding PEAKDEFI.
+
+No Further Information of Update
+No person has been or is authorized to give any information or representation not contained in this
+Whitepaper in connection with PEAKDEFI and their respective businesses and operations (each as referred to in the
+Whitepaper) and, if given, such information or representation must not be relied upon as having been authorized by
+or on behalf of PEAKDEFI. The services (as specified in the whitepaper) and the Initial Token Sale (as referred to in
+the Whitepaper) shall not, under any circumstances, constitute a continuing representation or create any suggestion
+or implication that there has been no change, or development reasonably likely to involve a material change in the
+affairs, conditions and prospects of PEAKDEFI or in any statement of fact or information contained in this
+Whitepaper since the date hereof.
+
+Restrictions on Distribution and Dissemination
+The distribution or dissemination of this Whitepaper or any part thereof may be prohibited or restricted by the laws,
+regulatory requirements and rules of any jurisdiction. In the case where any restriction applies, you are to inform
+yourself about and to observe, any restrictions which apply to your possession of this Whitepaper or such part
+thereof (as the case may be) at your own expense and without liability to PEAKDEFI. Persons to whom a copy of
+this Whitepaper has been distributed or disseminated, provided access to or who otherwise have the Whitepaper in
+their possession shall not circulate it to any other persons, reproduce or otherwise distribute this Whitepaper or any
+information contained herein for any purpose whatsoever nor permit or cause the same to occur.
+
+Risk and Uncertainties
+Prospective users of PEAKDEFI (as referred to in this Whitepaper) should carefully consider and evaluate all risks
+and uncertainties associated with PEAKDEFI and their respective businesses and operations (each as referred to in
+the Whitepaper), all information set out in this Whitepaper and the T&Cs. If any of such risks and uncertainties
+develops into actual events, the business, financial condition, results of operations and prospects of PEAKDEFI
+could be materially and adversely affected. In such cases, you may lose all or part of the value of the tokens.
+United States citizens and/or residents are prohibited from using any services offered by PEAKDEFI and from
+participating in the token sale.
+
+www.PEAKDEFI.com | 8
+
+Abstract
+Since the invention of Bitcoin over a decade ago the blockchain and crypto
+space has evolved significantly. It was inevitable because the old, traditional
+financial market needed a disruption. Financial manipulations, global
+inequality and the inefficient and expensive transfer of value causes a lack of
+trust in the banks. 1.7 Billion people are still unbanked and therefore cut off
+from lending and investing.
+While the internet made it possible to exchange digital information, the blockchain made it possible to exchange value
+digitally and in a transparent, effective, decentralized way. The invention of Ethereum and the development of smart
+contracts opened a whole new world of opportunities and made the recent DeFi (decentralized finance) Boom possible.
+Many different projects in every financial sector start to disrupt the financial system for good. Within a year the total
+value locked in DeFi exploded by 1000% from just 1 bln. USD to over 10 bln. But that is just the beginning.
+One major area in the financial system caught our attention, the area of investment. The flaws of the traditional way of
+investing led to global inequality. Only the financially educated, highly connected and rich people have access to the
+best investment opportunities. Our vision that everybody on the planet should be able to grow their wealth, no matter
+what position they are in at the moment, laid the foundation for PEAKDEFI, a global fund, decentralized, easy to
+understand and easily accessible, for all and ruled by all, to reach the peak of the markets.
+
+Vision
+
+“
+
+“The vision of PEAKDEFI is to enable everybody on the
+
+planet to grow their wealth, no matter what position they
+are in at the moment.”
+
+“We want to provide a decentralized investment gateway
+that is easy to use and accessible for millions of people to
+shape their future“
+
+www.PEAKDEFI.com | 9
+
+Decentralizing Finance
+Traditional Markets and their flaws
+In today's world, almost every financial service is run by a centralized construct of banks. A life without any form of
+money is not possible. And money is issued by central banks. Without borrowing and lending, no companies could be
+established, no homes could be acquired. Although there are some attempts of private organizations to offer loans the
+majority is still in control of banks. For Investing, the idea of growing wealth by putting money into dividend-making
+instruments, banks are usually involved, too. So, for any financial matter, banks are usually somehow involved. But
+while the current financial system contributed a lot to human evolution it is still a regime with many flaws, like all
+systems that are built on trust.
+
+The Unbanked
+About 1.7 billion people still do not use banks in any form and therefore are cut off from the mainstream financial
+system. Many of them stated lack of money & trust, high fees & accessibility as the biggest reasons for not having a
+bank account. Being excluded from the financial system is one of the main reasons for poverty and has to be
+conquered.
+
+High costs & slow transactions
+Although the world is as highly connected as ever before, financial transactions still remain slow and expensive,
+especially if transferred cross border. Furthermore, high costs of maintaining bank accounts with even higher
+remittance fees structure are anything but convenient.
+
+Lack of Trust
+Financial Institutions, besides Governments, are the least trusted by the people (especially in the western world), due
+to many careless or willingly corrupt acts which led to major fatal crises like the financial meltdown in 2008. Even
+today, over a decade later one bank scandal follows the next like the famous leak of the Panama Papers or the
+FinCen Files.
+
+Global Inequality
+The global wealth is controlled by a small population who has major advantages compared to the rest of the world,
+like access to different asset classes and financial opportunities. The top 1% control still 47% of the global wealth.
+
+www.PEAKDEFI.com | 10
+
+Decentralizing Finance
+
+Manipulation
+In a centralized financial system, governments can manipulate it to financially censor their citizens by freezing
+accounts, removing funds, denying access to payment systems etc. like happened in Greece or devaluing their own
+currency which leads to a hyperinflation as seen in Venezuela.
+
+Systematic Risk of Centralization
+A web of a few centralized entities which control the global financial market is a big risk, as seen in the financial
+meltdown 2008. The dependencies can cause a domino effect and one bank after another has to be bailed out by the
+Governments with billions of dollars to limit the damage. The ones that lose the most are always the poorest.
+All these risks & drawbacks have been well-known but without a real alternative there was no choice but to continue
+with the current system. That is about to change.
+
+The Solution
+The good news is that with the proliferation of smartphones & internet access combined with the development of
+decentralized technologies like Blockchain is enabling us to completely overhaul the current global financial system &
+replace it with a new financial ecosystem which is fair, equitable & accessible to all.
+
+DeFi - Disrupting the financial market
+Traditional vs. Fintech vs. Decentralized
+While the flaws of the traditional financial systems are based on the centralized bureaucratic behemoth of trust,
+administration and regulation, Decentralized Finance (DeFi) is about to break this construct all together and is going
+to provide a more democratic, fair, open and permissionless way with minimal bureaucracy and no middlemen to
+benefit everybody. FinTech companies made the first step by trying to eliminate some flaws of the traditional market,
+but the improvements are still limited, due to the fact that the underlying banking system is still in control. Only DeFi
+and its trust minimized solutions can disrupt this market and eliminate the core of the flaws.
+
+www.PEAKDEFI.com | 11
+
+Decentralizing Finance
+
+Exponential Growth of DeFi
+While the invention of CryptoCurrencies started the disruption they first limited their use case for making money
+and payments universally accessible to anyone, decentralized financial services go even further by disrupting not
+only payment, but also savings, loans, trading and insurance. No wonder that experts say that blockchain
+technology is even more disruptive than the internet. So far over 11 Billion Dollars is already locked in DeFi
+Services like lending or in Derivatives (Sep. 2020), growing exponentially. And this is just the Beginning,
+disrupting a multi-trillion Dollar market.
+
+DeFi Landscape
+As the total value locked in DeFi is growing exponentially so does the variety of solutions in the different financial
+market areas. On the Ethereum blockchain, the major underlying protocol, new projects pop up every week to
+provide solutions for credit & lending, derivatives, exchange and investing.
+
+www.PEAKDEFI.com | 12
+
+Decentralizing Finance
+
+While current DeFi projects in the investment area are trying to get traditional investing solutions and asset
+management on the blockchain, PEAKDEFI went even a step further and created one global fund for all,
+transparent to all, governed by all, to reach the PEAK of the Markets.
+
+PEAKDEFI Global Fund
+Issues of the Investment Market
+Current Problems that Investors face
+The desire of every investor is pretty simple: Maximum
+return! While some might be interested in the How, the
+majority of investors just want to enjoy the monthly growth
+of their money. The main key factors for investors are:
+•
+
+Delivering the capital
+
+•
+
+Getting the highest return
+
+•
+
+Avoiding too much risk
+
+It is not their job to choose the right assets nor to search for the right people who do it for them. But in traditional
+markets it’s exactly that way. They are usually overwhelmed by the huge amount of possibilities. Liquid assets like
+Bonds, Shares, CFD, ETFs, Futures, Raw Materials and many more are tradable on the markets. So investors can
+either educate themselves and get somehow through the asset forest or they have to search for someone who is
+able to do it. But there are many hurdles to get to the right person. Mostly, the best Asset Managers are out of
+reach for the average Joe.
+A couple of years ago Cryptocurrencies were a pretty small area which just a few projects to invest in. Currently
+(Sep. 2020) there are already over 7000 Projects listed on Coinmarketcap.com and the market is growing rapidly,
+making it nearly impossible for investors to make the right choices.
+PEAKDEFI Fund will solve these issues once and for all. Investors don’t have to choose between the vast amount
+of assets anymore. They don’t have to search for asset managers any longer, too. The only thing they have to do is
+to link their capital to the PEAKDEFI Platform. And due to the decentralized nature of the fund, investors will always
+stay in control of their funds.
+
+www.PEAKDEFI.com | 13
+
+PEAKDEFI Global Fund
+
+Problems that asset managers face
+Good Traders and Asset Managers usually have built their
+expertise over years and went through a lot of struggle
+until they got profitable. To share their skills with others
+they want, and deserve, a commission. In fact, like
+investors want to maximize their ROI, Asset Managers
+want to maximize their commission. But managing funds
+for others is not easy, especially in the traditional markets.
+There are a lot of bureaucratic hurdles to overcome. And
+then they have to search for new clients who have to trust
+them and have to deal with them, which costs a lot of
+time.
+At PEAKDEFI Managers have to focus only on their assets and their trades, the thing they are good at. No
+bureaucracy, no acquisition, no dealing with clients. Good traders will get more Assets under Management and
+therefore more commission, automatically.
+
+Solution: PEAKDEFI Global Fund
+The general idea of a mutual fund is basically pooling your money with the money of other investors and investing it
+in a portfolio of different assets. The PEAKDEFI Fund is a Global Fund, managed by many Managers in a
+decentralized and smart way to get the best outcome.
+When Investors buy a Share of the PEAKDEFI Fund, their deposit is converted into PEAKDEFI Fund Shares which
+represent their ownership in PEAKDEFI Fund and is fully backed by a collateral in the smart contract. As it is only
+one global fund, Investors don’t have the agony of choosing the right assets. There is just one fund to invest in. The
+decentralized implementation of the project ensures that the investors stay in control of their fund. They just have to
+connect their ERC-20 Wallet with the platform and can invest with a few clicks.
+The fund distribution between the asset managers gets optimized automatically without any influence from outside.
+Everything is coded in Smart Contracts. The best traders and asset managers get the biggest share of AUM (Assets
+under Management) while bad traders lose shares or even their complete stake, if they made too many wrong
+choices. To automate this process a so-called Reputation Token for Managers was created (read more about it
+here).
+For Traders PEAKDEFI is a great opportunity to start managing funds. As the platform and the fund is fully
+decentralized, everybody can start with just a few steps to participate as an asset manager. This will enable many
+good traders, who traded so far only in private or for small groups, to provide their expertise to a broader audience.
+Of course, this open approach could also attract some unskilled traders, but there are mechanisms built in to
+separate the wheat from the chaff quickly.
+
+www.PEAKDEFI.com | 14
+
+PEAKDEFI Global Fund
+
+Good Traders can build their reputation and can earn great commissions of up to 15% of revenues, based on their
+managed AUM. As the reputation grows so does their AUM.
+
+Good performance of the fund will attract more investors which again grows the AUM for each Trader. The growth of
+the fund on the other hand will attract more good traders which stabilizes the performance of the fund. It’s a win win
+for everybody.
+
+How it works
+For Investors
+PEAKDEFI is built on the Ethereum Blockchain. If you have already an ERC-20 Wallet you can access the Platform
+through MetaMask or the Service of walletconnect.org if you have an App like the PEAKDEFI App.
+If you don’t have a ERC-20 Wallet yet, there will be step-by-step instructions on the platform to create a wallet +
+purchase ETH or any other provided ERC-20 Token.
+
+Investing
+When your Wallet is connected with the PEAKDEFI platform and you have some Ethereum or any of the 70+
+supported ERC-20 Token in your wallet you can easily invest in the PEAKDEFI Fund by clicking on the Buy Button in
+your Dashboard. Then choose the amount of shares you want to buy and the Token you want to use for purchase.
+Make sure to have enough Token in your wallet. After clicking on "Buy Fund Shares" you need to confirm your
+transaction in the app or in Metamask. As the transaction will take place on the Ethereum blockchain it can take a
+while until the transaction went through.
+
+www.PEAKDEFI.com | 15
+
+PEAKDEFI Global Fund
+
+You can check your Fund Balance in your Dashboard. You can also see your PEAKDEFI Fund Shares in your
+MetaMask Wallet. But first you have to add a new custom token by filling the form field Token Contract Address with
+0x9424b287c8c0def28e96d595b1f76aef11ef581b. You are able to invest anytime in the PEAKDEFI Fund.
+
+A Trading Cycle
+To ensure that Fund Managers have enough time to perform proper trading there are fixed Trading Cycles of 60 days
+where the funds are locked. While you can invest in the fund anytime you can sell your fund shares only within the
+so called intermission phase. This is a period of 3 days between every trading cycle where Managers are not
+allowed to trade and investors can sell their funds. A full cycle is 60 days and is divided up by a 57-day trading period
+and a 3 day intermission phase. A cycle starts and ends for everybody on the same date, hence when you invest for
+instance on day 40 of the cycle your investments starts immediately and will "work" for the next 17 days until the
+intermission phase of 3 days starts where you can sell again. After these 3 days a new cycle begins.
+
+Selling
+While you can invest every time into the fund you can only sell your shares again when a cycle ends, i.e. when the
+intermission phase begins. A full cycle is a fixed 60 days period where the funds are locked for 57 days for trading
+purposes followed by an intermission phase of 3 days where Investors can sell (parts of) their fund shares.
+
+Fees for Investors
+If the fund was profitable in a Cycle the Profits will be shared automatically between investors, fund managers and
+affiliates in the following way:
+65% of the Profits will be distributed to the investors
+15% of the Profits will be distributed to the fund managers
+20% of the Profits will be distributed to the affiliates
+
+Additionally, after the management phase of a Cycle is over (every 60 days), a small fee of 0.1% of the total
+PEAKDEFI Fund is paid to the asset Managers to handle their transaction costs. There are no additional deposit or
+withdrawal fees. Only the typical blockchain transaction costs have to be paid to the blockchain network.
+
+For Managers
+First Steps
+Becoming a Manager is very simple. First you have to stake at least 1000 PEAK through the Investors Dashboard.
+After that you can become a Manager by clicking on the „Become a Manager“ Tab on the main homepage and
+walking through the process to buy Reputation Token. After the purchase you are ready to go. But be aware, that you
+can only start trading when the next managing cycle begins.
+
+www.PEAKDEFI.com | 16
+
+PEAKDEFI Global Fund
+
+AUM Distribution and the Reputation Token
+To distribute the AUM between the managers automatically a so called Reputation Token has been implemented at
+the platform. This Token cannot be bought on external exchanges, nor can it be sold. Every Manager has to buy the
+same amount of Reputation Token at the platform which entitles a manager to manage a part of the whole fund. The
+amount of Reputation Token grows and decreases over time, depending on the success of the Manager.
+The AUM for each manager fluctuates and depends on different aspects:
+•
+
+The AUM grows if more investors invest in the fund and therefore the fund grows
+
+•
+
+The AUM grows if the Amount of Reputation Token rises
+
+•
+
+The AUM of each individual Manager shrinks if the Amount of Reputation Token decreases
+
+•
+
+The AUM of each individual Manager shrinks if more Managers enter the Fund
+
+If more Managers enter the fund it has to be shared between more Managers and therefore every Manager get's a
+smaller piece to manage. But more traders usually mean less volatility and therefore more stability for the fund.
+
+Asset Management
+
+You can choose between 70+ Assets to trade and how you want to trade (buy / sell / leverage), the amount of
+Reputation Token you want to stake (which determine the size of the position), the max accept. buy price and the
+Liquidity Provider. The order size depends on the amount of Reputation Token you are going to stake. E.g. if you
+have 100 Reputation Token which for instance represent a Managed Capital of 10.000 USDC and you want to invest
+1000 USDC in this trade = 10% you have to stake 10% of your Reputation Token = 10.
+
+The max acceptable buy price is the slippage (price tolerance) you accept. E.g. a max acceptable buy price of 3%
+means that you are willing to accept a buy price deviation of 3%.
+
+Liquidity Provider is the exchange which you choose for executing the trade.
+
+When you open a "Sell" order it means that you are betting on a price decrease and want to take advantage of it.
+This is also called a Short Order. A short order is created by taking out a loan denominated in the asset that you wish
+to short, with collateral denominated in USDC (or an other stable coin). The loaned asset is immediately converted to
+the stable currency. If the asset's price falls, the value of your debt also falls, meaning you need to pay back less
+money, giving you a profit. If the price rises, your debt increases, and you lose money.
+
+PEAKDEFI uses the service of Compound Finance for executing leveraged long & short trades.
+
+www.PEAKDEFI.com | 17
+
+PEAKDEFI Global Fund
+
+Margin Trades or leveraged orders enhance a trade position by a factor x. For instance, if you made a leveraged
+long order with 1.5x leverage, and the price of the underlying asset increased by 10%, your return would be 15%. Of
+course the same ratio applies if the price goes in the wrong direction, e.g. if the price of the asset decreased by 10%
+you would lose 15%.
+Leveraged long orders are made by taking out loans denominated in a stable currency (like DAI), with the collateral
+denominated in the asset you want to long. The loaned stable currency is immediately converted to the asset you
+want to long. This means that you would be exposed to the asset's price changes not only through the collateral, but
+also through the loaned assets, effectively amplifying your returns (and losses).
+When making margin orders, PEAKDEFI takes out loans backed by collateral. If the ratio of collateral to debt (the
+collateral ratio) is too low, the loan platform (Compound) will liquidate the loan, which entails the loss of the collateral.
+To prevent liquidation, you can top up an order's collateral on the platform. This action does not require additional
+staking of Reputation Token.
+You can monitor your collateral status for each order in your Managers Dashboard.
+
+Risk Threshold
+To handle Managers who don't make any trades but still redeem their commissions every Cycle, there is a Risk
+Threshold implemented which disincentivizes managers from just sitting on the fence, blocking capital and
+redeeming their commissions.
+This Risk Threshold mechanism measures the amount of risk each manager has taken in a cycle, and only gives
+them the full commission amount if the risk they've taken exceeds a certain threshold. If an Asset Manager doesn't
+make any trade at all he won't get any rewards as his / her Risk = 0.
+We measure the risk a manager has taken using the formula:
+
+And the threshold we have chosen for each manager is:
+
+The proportion of the full commission that each manager will receive is:
+
+www.PEAKDEFI.com | 18
+
+PEAKDEFI Global Fund
+
+Rewards and Punishments
+Positive Trades create Profits for the Fund and contribute to a positive cycle, which results in a commission of up to
+15% for you (Depending on your Risk Threshold in this Cycle). In addition good Trades increase the Total Amount of
+Reputation Token and therefore the total share of the PEAKDEFI Fund you manage which affects the Total
+Commission you get.
+
+If your trade encounters a loss below 10% you will lose the normal amount of Reputation Token, whereas trades with
+more than 10% losses will lose a lot more Reputation Token as the losses increase. Trades with losses above 25%
+will lose all of the staked Reputation Token (for this Trade). This mechanism protects the PEAKDEFI Fund from
+heavy losses.
+Inactive Traders
+With the possession of Reputation Token Traders are eligible to manage a share of the PEAKDEFI Fund which also
+means that there is Investment Capital reserved for every Trader to manage. If a Trader does not trade at all the
+capital he / she manages is blocked and does not grow. To avoid this situation, managers who have been inactive for
+2 cycles or above will lose their entire Reputation Token balance. Inactivity is defined as not making any trade.
+
+For Affiliates
+Risk Threshold
+If you refer someone who invests in the PEAKDEFI Fund you will get a reward on his / her profits every time, if the
+fund is profitable. For instance if your referred Investor invests 1.000 USDC and the fund makes 10% profits these
+100 USDC Profits will be distributed between the Investor, the Fund manager and Affiliates. You will get 10%
+commission on this 100 USDC Profit = 10 USD.
+USDC is a Stablecoin which is pegged to the US-Dollar -> 1 USDC = 1 USD
+You can get Profits up to 8 Levels deep in your Referral Structure. The first Level is always activated. To unlock the
+other 7 Levels you have to stake a specific amount of PEAK.
+If you invite someone he/she will also get a reward of 3% on his/her PEAK Staking
+
+www.PEAKDEFI.com | 19
+
+PEAKDEFI Global Fund
+
+If you refer a new Member you'll get 10% rewards on his / her Profits. If this Member refers a new User you will get
+4% rewards on his / her Profits etc.
+
+How to boome an Affiliate / Referral
+After your registration / connection with your wallet you are already able to refer new Members and get a
+commission of 10%. If you want to unlock further Levels you have to Stake PEAK.
+You find your Referral Link in your dashboard at the "Invite friends" Tab. You can also check your current Rank Level,
+your Referrals Data and you can redeem your commissions by clicking the "Redeem Commission" Button.
+
+www.PEAKDEFI.com | 20
+
+PEAK Token
+Characteristics, Tokenomics and Distribution
+PEAK is the Token behind PEAKDEFI and fuels the platform. It’s an ERC-20 Token built on the Ethereum Blockchain
+as the platform PEAKDEFI itself. The Total Supply will be 2.000.000.000 PEAK. The Distribution of the Token is as
+follows.
+
+50%
+
+Staking on ETH Chain
+
+15%
+
+Staking on Binance Smart
+Chain
+
+10%
+
+MarketPeak Community
+on ETH Chain
+
+7.95% MarketPeak Community
+
+on Binance Smart Chain
+
+4.4%
+
+Yield Farming for Liquidity
+on ETH Chain
+
+2.5%
+
+Yield Farming for Liquidity
+on Binance Smart Chain
+
+10%
+
+0.1%
+
+Founders & Team
+
+Initial PEAK Liquidity
+on ETH Chain
+
+0.05% Initial PEAK Liquidity
+
+This token is required for
+
+on Binance Smart Chain
+
+To manage assets as a
+Trader
+
+Incentivizing the
+Community Growth
+through Rewards System
+
+Stimulating the Fund
+through Protection
+Staking
+
+Rewarding Liquidity
+Providers
+
+Compensating
+Development of the
+platform
+
+www.PEAKDEFI.com | 21
+
+PEAK Token
+
+As the PEAK Token has been integrated to the Binance Smartchain for performance reasons the PEAK Token
+Distribution has to be updated. While the hard cap of PEAK remains at 2 bln. PEAK the Tokenomics have to be
+splitted between the Ethereum Blockchain and the Binance Smart Chain in the following manner:
+50% = 1 bln. PEAK remain reserved for Staking on the Ethereum Blockchain.
+10% = 200 mln. PEAK remain reserved and locked for the Team / Founders on the Ethereum Blockchain.
+0.1% = 2 mln. PEAK remain reserved for initial Liquidity on the Ethereum Blockchain.
+Previously 15% = 300 mln. PEAK were reserved for (institutional) investors. But as PEAKDEFI has grown on it’s own
+immensely institutional investors are not necessary any longer. Therefore these reserved 15% will be provided for
+the PEAK Staking on the Binance Smart Chain.
+Previously 18% = 360 mln. PEAK were reserved for the MarketPeak community on the Ethereum Chain. This will
+split up into 10% = 200 mln. PEAK for the Ethereum Chain (over 100 mln. were already minted) and 8% = 160 mln.
+for the Binance Smart Chain, whereas 1 mln. will be used for initial liquidity providing. The liquidity will be provided
+on PancakeSwap,
+Previously 6.9% = 138 mln. PEAK were reserved for Yield farming on the Ethereum Chain. This will be splitted into
+4.4% = 88 mln. PEAK for Yield farming on the Ethereum Chain and 2.5% = 50 mln. PEAK for Yield farming on the
+Binance chain.
+All in all 300 mln. + 160 mln. + 50 mln. = 510 mln. PEAK will be reserved for the Binance Chain while 1.49 bln. PEAK
+will remain on the Ethereum Blockchain.
+Different mechanisms are implemented to decrease the circulating supply of the Token and therefore encourage a
+price increase. For investors and the founding team PEAK will be locked for 2 years. For the MarketPeak Community
+PEAK will be minted only according to the product sales on the MarketPeak Platform. Furthermore the release of the
+minted token will take place over a period of 3 years. PEAK Staking Rewards will encourage Users to lockup their
+PEAK and therefore decrease the circulating supply, too.
+
+PEAK Staking
+Introduction
+Besides investing in the PEAKDEFI Global Fund you can grow your Capital by Staking PEAK. At a very basic level,
+“staking” means locking your crypto assets for a certain period of time for a specific purpose. With regard to PEAK
+you'll get Rewards for decreasing the current circulating supply in the Market and stabilizing the PEAK price by
+locking your PEAK on the PEAKDEFI Platform. 1 Bln. are reserved for Staking Purpose. 700 Mio. PEAK are
+reserved for "natural" Staking Rewards, 250. Mio. PEAK the for so called Protection Staking and 50 Mio. are
+reserved for Referral Ranking Bonus. You can earn up to 83% in natural PEAK Staking per Year!
+While Asset Managers have to stake a specific amount of PEAK it is an optional opportunity for Investors. Affiliates
+on the other hand need to stake PEAK in order to receive more Referral Commission.
+
+www.PEAKDEFI.com | 22
+
+PEAK Token
+
+Staking Rewards
+Besides investing in the PEAKDEFI Global Fund you can grow your Capital by Staking PEAK. At a very basic level,
+Staking Rewards
+The PEAK-Staking Formula for “natural” Staking depends on 3 Parameters: The Amount of PEAK to stake (Bigger
+Bonus), the Period of Time you are willing to lockup you PEAK (Longer Bonus) and the stage, when you start staking
+(Early Factor). The amount of PEAK Staked, s, can be 10 - 1,000,000 PEAK. The time the PEAK are staked for, d,
+can be 10 to 1,000 Days.
+
+Rewards (in %):
+
+•
+
+α = daily fixed factor
+
+•
+
+β = daily growing factor
+
+•
+
+d = Staking duration in Days
+
+•
+
+s = amount of Staked PEAK
+
+•
+
+w = already spent / reserved Amount of provided PEAK for Staking (max 5 bln.)
+
+www.PEAKDEFI.com | 23
+
+PEAK Token
+
+Bigger Bonus
+The Bigger Bonus p.a. B(S) is determined by the amount of PEAK that you are willing to stake (s). You can earn up
+to 10% on top of the regular Staking Rewards.
+
+Longer Bonus
+The Longer Bonus L(d) is determined by the length of time (d) that you are willing to stake. The minimum period is
+10 days, the maximum 1000 days. The longer you stake the higher your APY ( Annual Percentage Yield). Due to the
+daily growth factor β on top of the daily fixed factor α it is always more lucrative to stake longer in one piece (e.g. 100
+days in a row) than for multiple short periods (e.g. 10 x 10 days).
+
+www.PEAKDEFI.com | 24
+
+PEAK Token
+
+Early Factor
+The earlier you start staking the greater your rewards. This is due to the Early Factor e(w). There is only a specific
+amount of available PEAK for Staking (700 Mio.) The staking rewards are reduced by the factor e(w) that depends
+on the amount of PEAK which has already been spent or is reserved. The less PEAK are remaining for Staking the
+less the APY (Annual Percentage Yield).
+
+For Affiliates
+If you refer someone who stakes PEAK you will get an upfront commission on his / her Staking Rewards. For
+instance if your directly referred Member stakes 10.000 PEAK for 1 year and get's a reward of e.g. 60% = 6000
+PEAK you will get a 10% commission on this reward = 600 PEAK, instantly after your referred Member starts
+staking. So while he / she gets the rewards distributed over the whole staking period you will get rewarded
+immediately.
+
+Reward Structure
+As in the Direct Sales Bonus Commission Structure you will also get here rewards up to 8 Levels deep. The same
+table with the same data and requirements applies here. So to unlock the other Levels you have to stake PEAK
+yourself.
+
+www.PEAKDEFI.com | 25
+
+PEAK Token
+
+As shown in the table above, 20% in total are distributed among 8 Levels. If there are less affiliates (especially in
+the beginning) the remaining PEAK will get burned.
+
+Direct Sales Volume - DSV
+Besides earning great rewards on your
+referral's investments and staking you also
+collect Direct Sales Volume Points (DSV).
+These DSV entitle you to attain "Career
+Ranks" for special accomplishments. Every
+time you achieve a new rank you will get a
+One Time Bonus Distribution in PEAK. See
+the List on the left side with the specific
+requirements for each Rank.
+You will get DSV Points for every Referral up
+to 8 Levels deep (if unlocked). The same %calculation applies for DSV points as in the
+Reward-List stated (10% first Line, 4%
+second line etc.). One DSV Point equals 1
+USD Commission. For Instance if you get a
+total commission of 1000 USDC (PEAK
+Staking Commissions are converted in USDC
+at current PEAK Price) you will get 1000
+DSV.
+
+www.PEAKDEFI.com | 26
+
+PEAK Token
+
+PEAK Minting for MarketPeak Community
+Blockchain technology and tokenized assets are a complicated area. For that reason MarketPeak.com was created
+2019 to educate it’s community in this disruptive technology and to prepare it for the decentralized platform
+PEAKDEFI.
+
+The platform offers a lot of education material about Blockchain Technology, Crypto Currencies and the future of a
+decentralized financial system to prepare its community for great investment opportunities.
+As the whole topic is evolving and changing everyday it is of great importance to keep the Community up to date.
+Therefore the products and services at marketpeak.com are updated constantly.
+To take advantage of the Education products Members have to pay a one time membership fee. There are different
+types of memberships with different features and different topics, starting from 125 USD.
+In exchange for the purchase of the Membership the Member gets rewarded with a specific Amount in PEAK. But
+they don’t get the full amount instantly. These Token will be distributed weekly over a period of 32 months after
+purchase to foster a healthy increase of the circulating supply.
+400.000.000 PEAK are reserved for the MarketPeak Community.
+
+www.PEAKDEFI.com | 27
+
+PEAKDEFI APP
+The Vision of PEAKDEFI is to enable everybody on the planet to grow their wealth, no matter what position they are in
+at the moment. To give everyone the same chance the solution has to be
+1. decentralized, it has to be
+2. understood and it has to be
+3. easily accessible.
+The PEAKDEFI Platform will be fully decentralized (1.) ,
+MarketPeak provides the education to understand the financial revolution we are in (2.).
+To guarantee everybody a safe and easy access (3.)
+
+PEAKDEFI launched it’s own App, the PEAKDEFI Wallet, a decentralized wallet, where everybody can access the
+crypto currency world with a push of a button on their mobile devices in the most simple and convenient way. You can
+create wallets, import existing wallets, buy and sell crypto currencies on integrated decentralized exchanges and you
+can easily connect the app to the PEAKDEFI Platform to invest and grow your capital.
+
+Of course, both iOS and Android are available.
+To download the APP just go to https://app.PEAKDEFI.com/download.
+
+www.PEAKDEFI.com | 28
+
+Challenges and Chances for PEAKDEFI
+Market
+In the first chapters of the whitepaper it was clearly shown that the demand for decentralized finance and investing is
+rapidly growing as locked funds in DeFi projects are reaching all time highs every few weeks. According to NewsPlatform Cointelegraph Total the assets under management of crypto funds worldwide doubled from 2018 to 2019
+from 1 billion USD to 2 billion USD and it is expected to triple in 2020. Although small sums compared to conventional
+asset classes the growth is outstanding and underline the great demand for crypto funds. Decentralized asset
+management solutions are growing fast too. The Set Protocol vault of tokensets.com for example has grown from
+$500,000 locked to $24 million in just over a year.
+
+There is no question why this market is booming. According to Alpha-Week Crypto Hedge Funds outperformed the
+traditional markets by far, making triple digit returns.
+
+Competition
+As shown above there are several “traditional” hedge funds in the cryptoworld. But PEAKDEFI as a decentralized
+solution has big advantages against these centralized funds. For instance, as it’s decentralized there are no
+middlemen taking away a large portion of profits, like upfront fees or heavy management fees. This is a big benefit for
+investors and managers. PEAKDEFI is fully transparent due to the fact that it’s built on a blockchain.
+
+Traditional Hedge Funds instead are not transparent at all. While traditional hedge funds usually have only few
+strategies to execute PEAKDEFI will have a vast amount of managers with their own strategies where the best
+strategies will get the greatest shares.
+
+www.PEAKDEFI.com | 29
+
+Challenges and Chances for PEAKDEFI
+
+But not only traditional Hedge Funds are competitors. There are several competitors for PEAKDEFI in the crypto
+space, too: Melon and Tokensets are platforms that allow managers to create their own funds and portfolios.
+It may be appealing at the first glance for asset managers to build their own funds with their own customer base but it
+also comes with all the downside of attracting new customers and building one's reputation. On PEAKDEFI on the
+other hand, new asset managers would be able to start immediately with a share of the global fund and could
+increase their share by improving the reputation.
+Also for investors there is again the issue with the agony of choosing the best Managers while on PEAKDEFI they
+don’t have to choose, it is being optimized automatically. The Global Fund Solution btw. is not set in stone.
+PEAKDEFI is very flexible and multiple Funds can be created, if the demand asks for it.
+
+Regulatory
+There are some potential regulation challenges for PEAKDEFI. Traditional Hedge Funds have to overcome a lot of
+bureaucratic hurdles to finally start. This does not apply for decentralized solutions, yet. It is questionable how
+decentralized solutions with no entity behind could be ever regulated, but this could somehow change in the future.
+Decentralized solutions are disruptive in all manners. Therefore there are no regulatory frameworks for decentralized
+solutions yet. It could be that in the future PEAKDEFI will need an approval or kind of licensing from national
+regulators.
+Another issue could be the KYC/AML problem, which decentralized solutions face. Centralized margin exchanges
+start having issues with regulators as the bitmex case in October 2020 shows. According to Cointelegraph the crypto
+industry still has a lot of work ahead to meet KYC/AML standards.
+
+Operational risks
+Errors in the smart contracts or reference data could affect a lot of participants and could put big amounts of capital
+in danger. To minimize the risk of flaws in the code base PEAKDEFI is audited by one of the best auditors in the
+crypto space, Quantstamp.
+www.PEAKDEFI.com | 30
+
+Team
+Each member of the PEAKDEFI team has ample experience in the blockchain technology sectors. Our vision and
+objectives are based on the foundation of having already collaborated with numerous investors seeking to participate
+in lucrative projects in the crypto space, and the desire to facilitate access to the digital asset ecosystem.
+
+As blockchain technology continues to change the way we do business across many industries, we believe that basic
+business principles should be applied when developing applications in the blockchain space.
+
+Although PEAKDEFI is a decentralized project without any entity behind it the Team which realized the idea will
+continuously develop the project to create the best decentralized investment solution.
+
+Sergej Heck - Initiator
+Sergej is a successful author, global marketing expert and blockchain entrepreneur.
+He is the owner of blockchain-hero.com and coinkurier.de, two platforms and crypto
+magazines which educate people about the unlimited possibilities of blockchain
+technology.
+
+Benjamin Bendig - Lead Tech
+Benjamin is a highly skilled Developer who worked as lead developer at Bitwala in
+the past. Since then he’s been the cofounder and CTO of another startup and now
+is looking forward to apply his learnings to help kickstart PEAKDEFI.
+
+Jonas Mehmood - Lead Social Media
+Jonas is an expert in Social Media Marketing and has an advanced knowledge in
+the Blockchain Space. He knows exactly how to interact with his target group and
+gain more reach.
+
+www.PEAKDEFI.com | 31
+
+Team
+Each member of the PEAKDEFI team has ample experience in the blockchain technology sectors. Our vision and
+objectives are based on the foundation of having already collaborated with numerous investors seeking to participate
+in lucrative projects in the crypto space, and the desire to facilitate access to the digital asset ecosystem.
+
+As blockchain technology continues to change the way we do business across many industries, we believe that basic
+business principles should be applied when developing applications in the blockchain space.
+
+Although PEAKDEFI is a decentralized project without any entity behind it the Team which realized the idea will
+continuously develop the project to create the best decentralized investment solution.
+
+Ararat Tonoyan - Solidity Engineer
+Ararat is a web and blockchain specialist who worked on many projects in the DeFi
+space. He has a great understanding for architectural solutions and microservices
+for blockchain
+
+Oksana Pylypenko - iOS Developer
+Oksana has worked in the IT industry since 2013 and developed in this time many
+mobile business applications mainly on iOS platforms. She has experience in OOP,
+design patterns, RESTful web services, pixel perfect UI design and other practices
+for high quality and production ready software.
+
+Denys Roman R. - Android Developer
+Denys is a DeFi enthusiast with a great experience in mobile development for
+Android by working on many dApps in the past.
+
+www.PEAKDEFI.com | 32
+
+PEAKDEFI Roadmap
+
+12/01/17
+
+Idea and Concept
+Creation
+
+02/01/18
+
+Strategic Plan & Team
+
+Community Building
+Through MarketPeak
+
+assemble
+
+Launch Education Website
+
+Research
+
+10/01/20
+
+Testnet Launch and Start
+of PEAKDEFI Platform
+Audit
+Meanwhile MarkPEAK
+Community reaches 30.000
+active Members
+
+05/01/19
+
+08/16/20
+
+02/03/20
+
+05/01/20
+
+PEAK Token on
+Ethereum Blockchain
+
+Building PEAKDEFI
+Platform
+
+Start PEAK Minting Incentive
+for educating oneself about
+blockchain and crypto
+currencies
+
+Smart Contract, Investors UI,
+Managers Dashboard,
+Front End
+
+06/01/20
+
+Launch PEAKDEFI App
+
+05/15/20
+
+PEAK listed on 4
+centralized and 2
+decentralized exchanges
+
+Launch of decentralized App on
+IOS and Android for a
+convenient start in the crypto
+space as a first milestone for
+PEAKDEFI
+
+Community of 15.000
+Members at MarketPeak
+High Education Demand in
+Crypto Currencies. The
+groundwork to a phenomenal
+PEAKDEFI start is set.
+
+bibox, probit, p2pb2b, coinsbit,
+balancer, uniswap
+
+02/21
+
+06/21
+
+11/20
+
+01/21
+
+Launch PEAKDEFI
+Global Fund
+
+Yield Farming for PEAK
+Liquidity Providers
+
+Launch v2 including
+Protection Staking
+
+Launch v3 Governance,
+Trading Interface & NFT Bonus
+
+Launch Full-fledged Platform
+
+To foster Liquidity on
+decentralized exchanges
+
+To protect stakers against
+trading losses
+
+Full integration of decentralized
+governance mechanism, trading tools
+for optimal asset management & NFT
+Affiliate Bonus
+
+www.PEAKDEFI.com | 33
+
+PEAKDEFI Contracts
+List of PEAKDEFI deployed Blockchain-Addresses
+
+Deployed UniswapOracle: 0x8FB8b62AD979D833F450e3eDe2CebaBDeb9DDD85
+
+Deployed PeakStaking at 0x9733f49D577dA2b6705cA173382C0e3CdFff2A48
+
+Deployed PeakReward at 0xF8bc0856472486C20DCeEAb81d5e5980d9Fc302e
+
+Deployed PeakDeFiFactory at 0xF8d8385b904F926c68e7e02Ec2842E7bEaf14359
+
+Deployed CompoundOrderFactory at 0x08De9c015FA5eC42D0e9df61DFB841c588E16748
+
+Deployed PeakDeFiFund at 0x6de5673d00d42323fb2e7f34adca156280370876
+
+Deployed PeakDeFiProxy at 0x9424b287c8c0deF28E96D595B1f76AeF11ef581B
+
+www.PEAKDEFI.com | 34
+
+Sources
+
+https://www.financemagnates.com/cryptocurrency/what-is-defi-and-how-will-it-impact-traditional-finance/
+#:~:text=DeFi%20(decentralized%20finance%2C%20as%20opposed,in%20capital%20to%20the%20system.&text=T
+his%20also%20removes%20all%20the,transferred%20to%20the%20end%2Duser.
+
+https://www.datadriveninvestor.com/2019/02/20/the-risks-drawbacks-of-the-current-global-financial-system/
+
+https://defipulse.com/
+https://defiprime.com/#defi_projects
+https://www.alpha-week.com/blog/crypto-hedge-funds-dominate-best-performers-list-through-september
+https://medium.com/set-protocol/introducing-set-v2-afc577050bc0
+https://cointelegraph.com/news/the-emergence-of-cryptocurrency-hedge-funds
+
+www.PEAKDEFI.com | 35
+
+Thank You
+
+Start Investing Now
+
+

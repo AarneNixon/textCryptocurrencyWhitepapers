@@ -1,0 +1,2805 @@
+The Oracle of Blockchain
+
+OASISBloc is the first blockchainized data platform for
+Trading useful data and value between real businesses.
+
+WHITEPAPER
+Ver 0.7.5
+March 11, 2021
+
+Copyright 2019 FOUNDATION OASIS LTD. All rights reserved.
+Company Registration No. 201835937N)
+
+1
+
+INDEX
+
+1. Introduction
+2. Background
+- 2.1 Characteristics of blockchain platforms
+- 2.2 Trends in blockchain platform technology (EOS, Qtum etc.)
+- 2.3 Trends in blockchain based data trading platforms
+
+- 2.4 Various efforts to overcome limitations of current blockchain technology
+
+3. Introduction of OASISBloc
+- 3.1 Project background
+- 3.2 Mission and goal
+- 3.3 Concept
+- 3.4 Key value (data x partners = ecosystem)
+- 3.5 Governance
+- 3.6 Applied technology
+
+4. OASISBloc platform
+- 4.1 Platform features
+- 4.2 Blockchain configuration
+- 4.3 Platform configuration
+- 4.4 Consensus algorithm: ePoA
+- 4.5 Security
+- 4.6 Process of data transaction
+- 4.7 Role of data keeper and its reward
+
+5. Service model
+- 5.1 Overview
+- 5.2 Service cases of Domain Chain
+- 5.3 Case of utilizing service by converging data between Domain Chains
+- 5.4 Case of solving current problems by converging data between Domain Chains
+
+2
+
+INDEX
+
+6. OASISBloc token
+- 6.1 Features
+- 6.2 Token issuance
+- 6.3 Token sales
+- 6.4 Token allocation
+- 6.5 Fund allocation
+
+7. Ecosystem & roadmap
+- 7.1 Establishing token ecosystem
+- 7.2 OASISBloc roadmap
+
+8. Plans for ecosystem development
+- 8.1 Marketing plan
+- 8.2 Partnership plan
+
+9. Team
+- 9.1 Our team
+- 9.2 Our advisors
+
+10. Legal disclaimer
+11. References
+
+3
+
+The Oracle of Blockchain
+
+Introduction
+
+4
+
+The Oracle of Blockchain
+
+1. Introduction
+The global big data market is growing as government investments in the fourth
+industrial technology is expanding and as industries such as AI (Artificial Intelligence),
+Machine Learning, IoT (Internet of Things) etc. are growing. The big data market is
+expected to grow from $ 33.5 billion in 2017 to $ 92.2 billion in 2026.1
+As the big data trading market is growing, the support from governments around
+the world is also expanding to utilize big data of both public and private
+organizations.
+South Korea has opened K-ICT big data center to support big data infrastructure and
+practical training environment so that individuals and companies can utilize big data.
+The United States has allowed access of public data and data trading for companies
+through the guideline NISTIR 8053: De-identification of Personal Information.
+In the case of EU, a consortium of 17 institutions is running a joint project with
+public and private sectors to utilize the data generated in the transportation and
+logistics industries.
+Japan is planning to push forward with “approved data bank” system which can be
+used by companies and research institutes for product development by collecting
+big data in the industrial fields.
+China, which is expected to account for a third (appx. 8.47 billion dollars) of the
+total bigdata volume across the world by 2025, is working to support the
+convergence of different industries and establish various business models by
+accelerating the bigdata convergence, adopting the New Distribution, and
+establishing data protection standards. 2
+With institutional support and growth of data trading market, approximately 53% of
+global companies are actively seeking to innovate products and services by utilizing
+big data. In the future, how companies utilize big data in the global market will be
+the key determinant of corporate competitiveness. 3
+However, companies still have the following limitations of data trading and
+utilization.
+
+First, the available data is limited. In order to enhance company competitiveness, it
+is important to discover new products and services by analyzing the market data of
+the same industry, other industries, and the target global market. However, many
+SMEs (small and medium enterprises) are facing difficulty in securing data due to
+lack of data experts and budget for system construction and management.
+Second, the standardization of data sources is insufficient. Even within the same
+industry, the quality of the available data is deteriorated due to lack of data
+standard policies. Data deterioration is caused by managing data of the same
+meaning under a different name or by not making changes to new requirements.
+Deteriorated data may lead to inaccurate data trading and errors on decision
+making which may cause loss to companies. Data standardization must be preceded
+in order to share and utilize reliable data. 4
+Third, the distribution system for data trading is not properly established.
+Guidelines for prices to buy or sell data is unclear. Also, the system information for
+data production, process, and usage history of data are unverified.
+
+1. German STARTISTA 2017 Research Report
+2. Trend and Significance of China’s Bigdata Market – Institute for International
+Trade (2020 Nov.)
+3. Dresner Advisory Services survey of 4,000 companies worldwide where results
+shows: 66% for North America, 24% for Europe/Middle East/Africa, and 7% for
+Asia. (Bigdata Monthly, vol. 37, 2018.1)
+4. [IT daily article] “AI and big data, how is it evolving?”
+http://www.itdaily.kr/news/articleView.html?idxno=92037
+
+5
+
+The Oracle of Blockchain
+
+1. Introduction
+In the future, a new paradigm is required for a more transparent and safe data
+trading within various industries. Transparent data trading history is necessary for
+both data sellers and buyers.
+OASISBloc is a blockchain project that links scattered value and data across
+industries and allows trading. OASISBloc will solve the problems on accessing
+worldwide data and the limitations of current blockchains which are specific to each
+particular industry domain. We are aiming to create collaborative value among
+companies through virtuous circulation of data ecosystem between data producers
+and consumers.
+
+6
+
+The Oracle of Blockchain
+
+Background
+2.1 Characteristics of blockchain platforms
+2.2 Trends in blockchain platform technology (EOS, Qtum etc.)
+2.3 Trends in blockchain based data trading platforms
+2.4 Various efforts to overcome limitations of current blockchain technology
+
+7
+
+The Oracle of Blockchain
+
+2. Background
+2.1 Characteristics of blockchain
+platforms
+
+1) First generation blockchain - Bitcoin
+With the advent of Bitcoin, people can trade and own something that are not
+banknotes, coins, or gold but have the value of money, without any
+involvement of the central system such as banks or the government. Bitcoin
+can secure reliability of transaction without the third party even if the
+transaction is done with an unknown counterparty. Through the DLT
+(Distributed Ledger Technology) of blockchain, anyone can freely participate
+and browse the transaction history of Bitcoin. Also, participants can access,
+store, and confirm transactions.
+The introduction of Bitcoin was an event that caused a paradigm shift from a
+centralized financial system to a decentralized financial system. Bitcoin was
+the beginning of cryptocurrency with new value beyond “currency” such as
+cash or coins, banknotes, and bonds.
+However, since Bitcoin is used only as a means of remittance and payment, it
+is limited to be applied to various types of financial businesses. Bitcoin is
+difficult to be used for real-time transactions due to slow transaction speed,
+which is caused by time-consuming confirmations as the network expands.
+2) Second generation blockchain - Ethereum
+Ethereum has a special feature which is the blockchain based smart contract.
+Smart contract is designed to automatically contract when predefined
+conditions are met. In addition to the “money” function of Bitcoin, smart
+contract is designed to execute contract through negotiation among
+participants without any third party intervention in various conditions.
+Contracts established through smart contract are stored in distributed
+ledgers which cannot be canceled or modified. This makes it possible to
+conduct mutual trust based transactions without verifications from third
+parties. The Ethereum platform also provides a DApp (decentralized
+application) environment that can be used for various business areas.
+However, Ethereum still has problems such as high usage fees, the network
+scalability, limited data size, slow network processing speed, and lack of selfdecision function when smart contract is executed.
+Ethereum is working on ways to extend the database scalability - sharding
+which requires only few nodes for confirmations and processes many
+transactions in parallel at the same time. Also, they are developing a Layer 2
+protocol that handles transactions on off-chain and interacts with blockchain
+only when entering and leaving the Layer 2 system.
+
+2-2. Trends in blockchain platform
+technology (EOS, Qtum etc.)
+
+So called, next generation blockchains aim to solve the problems of the
+existing blockchains and to industrialize the blockchain technology to a wider
+society just like the World Wide Web (www). These blockchains attempt to
+improve the fundamental limitations of blockchain by: making changes in the
+consensus algorithm for better scalability and interoperability; developing
+distributed ledger management technology; and adding self-decision making
+function. Those blockchain projects are developing technologies with clear
+objectives such as faster transaction speed, prevention of hard fork, come up
+with new consensus algorithm, and free transaction fees.
+
+8
+
+The Oracle of Blockchain
+
+2. Background
+2-2. Trends in blockchain platform
+technology (EOS, Qtum etc.)
+
+As blockchain is being recognized as the main infrastructure of future
+industries, those blockchains are expected to be a platform type that focuses
+not only on the advantages of the existing blockchains but also on the
+technology standardization and wide scalability to converge with other
+technologies such as AI, big data, and IoT.
+Currently, there are active researches on blockchain platforms for
+distribution and energy industries to maximize the benefit of decentralization.
+Also, many blockchain based products and services are being introduced in
+various industries. Blockchains in the medical fields and administrative
+management services are drawing attention as it requires high security and
+transparency to manage sensitive personal information. The development of
+blockchain is expected to establish a transparent society where data integrity
+is guaranteed and managed safely.
+
+2-3. Trends in blockchain based
+data trading platforms
+
+The number of projects for blockchain based data trading platform is
+increasing to utilize meaningful public data while protecting personal data
+accumulated through the Internet and IT devices. The global market size of
+big data trading which uses blockchain for data confidentiality and security, is
+growing steadily.
+Below are few examples:
+1) DECODE (Decentralized Citizen Owned Data Ecosystem)
+DECODE has been selected for Horizon2020, which is an EU funded project,
+and running from December 2016 to December 2019. Citizens can decide
+whether to keep their personal information closed in online or to share it for
+public interest through smart contracts based on blockchain. This project is
+to establish an ecosystem for the distributed data owned by citizens.
+2) MHMD (MyHealthMyData)
+MHMD is another project of Horizon2020 which is running from November
+2016 to October 2019. MHMD seeks new ways of sharing personal data for
+individuals (patients) who are the primary data owners, to enhance
+confidentiality and security of personal health/medical data. The
+Horizon2020 project builds an open network of medical data that allows
+hospitals to provide anonymized medical data to the network and patients to
+exercise ownership and control over their own health/medical data. MHMD
+adopted the blockchain based DLT system for the first time in the healthcare
+field to provide high transparency and reliability with utilizing the data from
+patients, hospitals, research institutes, and companies in the medical sector.
+Similar to MHMD, Nebula Genomics and Longenisis are proceeding with a
+joint project. The project is building a platform to store, manage, exchange,
+and sell genome and various clinical data using AI and blockchain.5
+In summary, various projects in the medical, transportation, and
+advertisement fields are expected to spread throughout the global data
+industry.
+
+5. Source: BC FOCUS, 2018.05
+
+9
+
+The Oracle of Blockchain
+
+2. Background
+2-4. Various efforts to overcome
+limitations of current
+blockchain technology
+
+Various projects are in progress to overcome the limitations of the current
+blockchain technology.
+1) Transaction speed (efficiency)
+There are many attempts to increase transaction speed by increasing block
+size, shortening block generation time, and improving consensus algorithm.
+Lightning network and sharding have been developed and are undergoing
+tests for real-time transactions.
+① Sharding: divides the network and sets transaction orders for each
+partition, and then merges the orders.
+② Side chain: creates a small network to set transaction orders, then
+sends the results to the main chain.
+③ State channel: sets transaction orders of the nodes which are
+connected to the hotline and links the results to the main chain.
+
+2) Security
+Various cryptographic researches are underway for data confidentiality.
+Homomorphic encryption stores encrypted data and performs data
+operation without additional decoding process. Therefore, eliminate the
+possibility of the deodorization of decryption key and data will not be leaked
+even if the data storage is hacked.
+3) Governance
+There are various attempts to improve the blockchain consensus algorithm
+to prevent certain parties (person) obtaining an independent block
+generation authority. This happens when a specific party has a majority of
+calculation capability (Proof of Work) or the issued amount (Proof of Stake)
+of a certain cryptocurrency.
+Also, in order to maintain the self-sustainability of the blockchain project
+itself, a fair distribution of profits among the participants and continuous
+improvement is required. Therefore, many projects are attempting to meet
+the demands from their ecosystems by enacting own constitutions.
+4) Scalability and interoperability
+As it is difficult to directly exchange data and tokens between different
+blockchains, many platforms with interoperability are being developed
+(connection with other blockchains, linking external data etc.). They are
+aiming to solve the security issues when applying external data to the
+blockchain. Also, they are putting efforts to connect with other blockchains
+and to expand to more various fields.
+However, blockchain technology is still in early stage and conducting
+researches to overcome the current technical limitation. In order to adopt
+the technology into business and everyday life, technology research, learning,
+and demonstration cases are needed.
+While the industry is limited, too many blockchains are competing with each
+other. Advanced interoperability between networks is required for the
+continuous development of blockchain. Collaboration with players from
+various industries is required to create a practical platform that can be
+applied to real businesses.
+
+10
+
+The Oracle of Blockchain
+
+Introduction of OASISBloc
+3.1 Project background
+3.2 Mission and goal
+3.3 Concept
+3.4 Key value (data x partners = ecosystem)
+
+3.5 Governance
+3.6 Applied technology
+
+11
+
+The Oracle of Blockchain
+
+3. Introduction of OASISBloc
+3-1. Project background
+
+Concern 1) How to apply blockchain platform into real business more easily
+and quickly?
+Concern 2) How to standardize and distribute various data generated from
+different industries?
+Concern 3) Why data owners (providers) do not receive benefits?
+Concern 4) How to provide a more transparent and definite data usage
+history to data providers?
+Concern 5) How to trade data between different industries and to create
+added value?
+OASISBloc began with the above concerns and below is the core value of
+OASISBloc.
+OASISBloc is the first blockchainized data platform for trading useful data
+and value between real businesses.
+Oasis is derived from the word “ouahe” which means residence in Egyptian.
+The word “oasis” is commonly referred to as “a pleasant or peaceful area or
+period in the midst of a difficult or hectic place or situation” which also has a
+meaning of a point connecting the route between destinations in desert.
+OASISBloc is the starting point for connecting the above five concerns and it
+also means to be the “core” of the virtuous cycle structure.
+OASISBloc will create a new ecosystem by bringing companies together from
+various business area in OASISBloc to create synergy through the
+convergence of business and technology.
+Companies doing their own businesses with different purposes can
+participate as Domain Chain or DApp service providers.
+
+3-2. Mission and goal
+
+1) Platform for distributed value / data sharing and trading across various
+domains
+Certain data can be meaningless to some companies or individuals. But it
+can be meaningful and useful to others. This can be clearly perceived
+when data is systematically shared and traded within a platform. In the
+OASISBloc platform, not only data but also value of each Domain Chain
+can be traded through Oasis Chain.
+
+2) Platform to create collaborative value through participation of various
+industrial domains and data connection between the domains
+OASISBloc requires collaboration with various Domain Chains. OASISBloc
+will maintain close relationships with other Domain Chain companies
+and provide opportunity to Domain Chains, so they can smoothly enter a
+business that can create new added value through collaboration.
+
+12
+
+The Oracle of Blockchain
+
+3. Introduction of OASISBloc
+3-2. Mission and goal
+
+3) Providing incentives to maximize data transactions
+Data can be divided into data provided free of charge and at a cost. Data
+provided free of charge is data from public agencies provided to achieve
+public interest, and data provided at a cost is data necessary for
+conducting business in the enterprise. OASISBloc encourages voluntary
+participation in ecosystems by providing incentives directly to data
+providers (owners).
+4) Ensuring self-sustainability through the realization of token economy that
+gives fair rewards to all actors 6 such as partners and participants of the
+OASISBloc platform ecosystem
+Currently, the majority of parties in the crypto industry have selfdestructive properties as they act to maximize its own interests. To build
+a self-sustainable ecosystem and a fair economy, OASISBloc designs an
+economic platform that is motivated from the “Ubuntu” spirit. The spirit
+of Ubuntu is known as the founding principle of the South African
+Republic, which means “I am, because we are.”
+OASISBloc consists of two types of tokens: OASISBloc tokens, and various
+tokens may be issued based on the business operation. OASISBloc
+tokens will be used as a means of trading value and data between
+Domain Chains, and tokens issued by Domain Chains are utility tokens
+used for exchanging data only in the corresponding blockchain.
+5) Realizing self-corrective governance by stipulating constitution to
+maintain the ecosystem
+OASISBloc has designed its own governance so that data generation,
+storage, transaction, and transmission can be performed safely and
+reliably in accordance with each participant’s self-interest when they
+faithfully fulfill their roles. In addition, through the OIC (OASISBloc
+Innovation Committee) , OASISBloc has established a way to improve the
+constitution and created a governance system that is capable of
+optimized operation and sustainable development. With this purpose,
+OASISBloc will become the “blockchainized data trading platform” and
+will lead the data business through secure and standardized data
+transactions. 7
+
+6. See chapter 3.5 “Governance” for a detailed definition of all actors in OASISBloc
+7. See chapter 3.5 | 1) ② “OIC” for detailed definition
+
+13
+
+The Oracle of Blockchain
+
+3. Introduction of OASISBloc
+3-3. Concept
+
+“It’s the Internet of Things that is just the latest market transition that is
+allowing us then to connect the 99% of the unconnected,” 8 “the world is on
+the threshold of a new era of innovation and change with the rise of the
+Industrial Internet.” (GE. Peter C. Evans, Ph.D.).
+OASISBloc was inspired by the above two phrases. In other words, the most
+advanced form of Internet technology will come where things-things and
+things-humans are all connected to one large network. All advanced
+information and communication technologies such as big data and cloud etc.
+will be integrated, where variety of data is at its core.
+OASISBloc seeks to share, standardize, and trade “data” which is the key
+connection according to the time flow.
+Three concept keywords of OASISBloc are as below:
+1) IoE (Internet of Everything)
+
+IoE service which connects everything to the Internet can be
+represented as a connection system to standardize and trade data
+between different industries.
+2) MoE (Management of Everything)
+MoE enables real-time infrastructure operation and management,
+analysis, and forecasting can create synergy effect through connection
+between each field.
+
+3) BoT (Blockchain of Things)
+Blockchain platform for IoT network can be connected with various
+alliances to provide blockchain based practical services.
+
+8. Source: Cisco Live 2013, Chambers CEO
+
+14
+
+The Oracle of Blockchain
+
+3. Introduction of OASISBloc
+3-3. Concept
+
+The above concepts can be illustrated as below
+
+* IoE (Internet of Everything): Service where everything is connected to the Internet
+* MoE (Management of Everything): Managing all services through real-time infrastructure management, analysis,
+and prediction
+* BoT (Blockchain of Things): Blockchain platform for IoT network
+
+Figure 1. Concept keyword of OASISBloc
+
+3-4. Key value
+(data x partners = ecosystem)
+
+[Role and value of data]
+Data has been recognized as a resource of short amount, but now the
+perception of data has turned into a vast, valuable, and renewable
+resource. Data has already become a major source of economic and
+social benefits. Historically, the distinction between economically
+successful and unsuccessful people has been the availability of resources
+such as land, labor, and capital. However, 90 percent of leaders of top
+leading companies say that data is the most important and fundamental
+resource as land, manpower, and capital.
+As data becomes more abundant and the cost of data storage plummets,
+new technologies are equipping data scientists with cutting-edge tools
+that unlock valuable insights from vast amounts of data.
+We are heading toward a world of almost boundless information and
+nearly limitless possibilities. Consider how data is being used to make
+predictions that enhance our daily lives.
+Predictive data helps us know in advance whether to bring an umbrella
+to work or take the bus.
+
+15
+
+The Oracle of Blockchain
+
+3. Introduction of OASISBloc
+3-4. Key value
+(data x partners = ecosystem)
+
+Traffic data is used to synchronize traffic lights, predict train arrival times,
+and help us find the fastest route to get to a child’s rehearsal on time.
+Wearable devices help us track our personal fitness so we can make
+smarter choices to live longer, healthier lives, and scientists are analyzing
+terabytes of genetic information to find new cures and develop more
+effective, personalized treatments.
+Through data innovation, each industry can create additional value by
+various improvements.
+Enterprise - makes businesses more agile, responsive, and competitive
+Healthcare - helps people to live longer and healthier through better
+insights
+Transportation - saves time, money, fuel and even lives through
+enhanced safety system such as anti-collision
+Energy/environment - reduces energy consumption and improves our
+environment
+Manufacturing - improves the way products are designed, built, and
+distributed
+Finance - boosts efficiency, improves compliance, and cuts fraud
+Farm culture - produces more and better food using fewer resources 9
+
+9. What’s the Big Deal With Data? The Software Alliance BSA, 2015.
+https://data.bsa.org/wp-content/uploads/2015/12/BSADataStudy_en.pdf
+
+16
+
+The Oracle of Blockchain
+
+3. Introduction of OASISBloc
+3-5. Governance
+
+OASISBloc platform provides the environment for both public data sharing
+and Domain Chain. Oasis Chain supports the development and maintenance
+of DLT, big data, AI, and data management. Moreover, Oasis Chain will act as
+an “interchain” between Domain Chains so that partners can concentrate on
+their own business operations.
+The OASISBloc governance prevents the misuse of data (or critical data
+breaches) for incentives. It is designed to enable secure and reliable data
+generation, storage, trade, and transaction while meeting the interests of
+participants when they fulfill their duties.
+1) definitions and the roles of OASISBloc members
+① Witness Group and Block Generator
+The Witness Group consists of 39 candidates of BG and of 3 levels. A BG will
+be selected randomly at each level. BGs are responsible for generating and
+verifying blocks so that transactions between Domain Chains can be quickly
+and accurately recorded on the blockchain.
+Oasis Chain uses ePoA (Proof of Authority) to ensure that block generations
+and verifications are conducted by a trusted authority. Any member who fails
+to comply with the regulation or acts against sustainability of the ecosystem
+may be excluded from Witness Group or subject to penalties. Selection of a
+new Witness Group member is decided by agreement between the current
+Witness Group and the alliance.
+② OIC
+OIC supports platform development, transparency in management, and
+project development of partners for the security of ecosystem and the
+OASISBloc platform.
+·Provides proposals for improvement of each Domain Chain and OASISBloc
+·Improves creativity through communication and education
+·Discovers for new Domain Chain projects, and decides on the scope of
+support through evaluation
+·Provides technical support for partners
+·Provides support for data standardization of each Domain Chain and
+standardization of connections between Domain Chains
+·Reviews and consults for Domain Chain project progress
+·Organizes the Witness Group and makes decisions on new members for
+Witness Group by evaluating with the existing Witness Group
+·Enacts the OASISBloc constitution and self-corrective governance
+according to needs
+
+17
+
+The Oracle of Blockchain
+
+3. Introduction of OASISBloc
+3-5. Governance
+
+③ Data owner
+Data owner means the owner of the registered data in Domain Chains.
+Primary data owners are entities that provide the data which they have
+created or possess. Secondary data owners can be DApps of the Domain
+Chain who process the primary data and create a secondary data. Data
+owners can receive rewards and share among them at a specific rate which
+are the revenue generated through trading data. The sharing rate of revenue
+is decided through the policy of each Domain Chain depending on the type of
+data.
+④ Data provider
+Data providers can either sell or provide data for free. They get rewards for
+selling data. Data providers are obliged to generate and provide accurate
+data when transactions occur. If the data provider fails to fulfill the
+obligations, penalty of cutting certain shares may be given. This is to ensure
+the responsibility of the data provider for managing and delivering data.
+⑤ Data user
+Data users are entities who search and purchase (use) data from a single or
+multiple Domain Chains. Data users can search for the type, format and the
+price of data they are willing to purchase.
+⑥ Data keeper
+Data keepers receive rewards for storing the data according to the storage
+space and time. They are obliged to keep the data securely, ensure
+availability, and accurate transfer of data according to the transaction. If data
+keepers fail to fulfill the above three obligations, they may receive a penalty
+for incineration of shares. This is to ensure the availability of data for
+accurate delivery and management of data.
+⑦ Data Standardization Officer (DSO)
+DSO defines each type of data, properties of the data type, and the
+transaction method in each Domain Chain. Data registrants (or owners)
+should follow the standards defined by a DSO when registering data.
+DSO can be independently selected by the Domain Chain founder. The
+Domain Chain founder may perform the role of the DSO personally, or assign
+the role to one of the Domain Chain participants.
+⑧ DApp service provider
+DApp service providers are entities that provide services using SDK or API of
+OASISBloc, or use the data gathered by each Domain Chain. For example,
+traffic information can be used to provide available parking spots at a specific
+time and pay fees with cryptocurrency, or provide customized advertisement
+service by analyzing user patterns. A DApp service provider receives fees
+from service users in OSB tokens or Domain Chain tokens. A portion of the
+revenue generated from providing services, can be paid to the data owner of
+the corresponding data used for the service.
+
+18
+
+The Oracle of Blockchain
+
+3. Introduction of OASISBloc
+3-5. Governance
+
+⑨ DApp service user
+DApp service users can use the DApp services provided through OASISBloc.
+Depending on the various types of services, the user can pay for the services
+or send their data.
+⑩ Constitution
+All OASISBloc ecosystem participants must comply with the OASISBloc
+constitution.
+The OIC enacts the constitution and establishes the amendment procedure.
+If necessary, the amendment procedure may be proposed by various parties
+in OASISBloc, and OIC can amend the constitution according to a fair
+amendment procedure.
+
+2) Importance and platform application of standard data model
+Through blockchain, CIA (Confidentiality, Integrity, Availability) can be
+added to data, thereby enabling to protect personal information
+according to data sharing guidelines. In order to adopt CIA to data, a
+data standardization model including data utilization method is required
+while ensuring the quality of data. However, data standardization in a
+decentralized environment such as the blockchain is not easy. Therefore,
+OASISBloc will build its own data governance and manage the data
+standards. Moreover, a Data Standardization Officer (DSO) will be
+selected from each Domain Chain where the DSO will apply data
+standards to build a database. DSO will be selected through voting or by
+a trustful authority or domain managers. In the future, important
+decisions about data governance will be decided by the OASISBloc
+Innovation Committee (OIC).
+A standard model for the data gathered is required to maintain the
+quality of data. Non-standardized data models make it difficult to
+exchange and reuse the data between Domain Chains. A standard data
+model will allow everyone to use the same data model for creating
+opportunities for global business. Data standardization is also required
+for data exchange and application service interworking between various
+IoT models.
+
+19
+
+The Oracle of Blockchain
+
+3. Introduction of OASISBloc
+3-5. Governance
+
+New services can be created and introduced by enabling data exchange
+between Domain Chains.
+
+- Data exchange between parking chain and healthcare chain enables
+paramedics to use the available parking spot for emergency
+dispatches.
+- Data exchange between building management chain and mobility
+chain allows selling solar photovoltaic electricity produced from
+buildings to electric vehicle charging, instead of selling generated
+electricity to power exchanges when the price is low.
+- Data exchange between air environment information chain and mobility
+chain allows vehicles (car, truck, bicycle etc.) to drive a route with
+pleasant air environment.
+- Data exchange between e-health chain and home appliances chain
+enables monitoring household appliances and analyzing the usage
+pattern. If the usual use of household appliances is not detected, any
+health problems or emergency (especially elderly people) can be
+expected and families or hospitals can notify immediately by receiving an
+automatic emergency call from the system.
+In addition to data standardization the task of creating context data is
+needed to provide more seamless services to users, such as the services
+exemplified above. Data context is a way of characterizing the context of
+one or more objects. Through context data, all related data and
+elements between users and services (eg. software applications) will be
+organized. In a world where IoT is commonly applied, context data will
+provide important clues to understand the interaction between IoT and
+users. 10
+When creating a new service by integrating data from different Domain
+Chains, sometimes, each Domain Chain uses the different field name
+(metadata) which have the same meaning or uses the same field name
+(metadata), with a different presentation style.
+
+10. ETSI ISG CIM introduction. 2017.9, ETSI
+
+20
+
+The Oracle of Blockchain
+
+3. Introduction of OASISBloc
+
+Figure 2 : Applying standardized data model
+
+3) Structure of OASISBloc alliance
+OASISBloc forms a global alliance. The OASISBloc alliance strives for
+platform innovation and providing services. The activities of the alliance
+will be the key success of the platform and will provide high reliability
+and continuous services to users.
+Currently, the alliance consists of 18 different industries and will
+continue to expand.
+Every partner provides their unique data and services, and they have
+united in OASISBloc platform to provide convenient and seamless
+services throughout the entire network.
+The OASISBloc alliance is composed of Foundation Oasis Ltd.
+(Foundation Oasis), OIC, and partners.
+① Foundation Oasis
+Foundation Oasis leads development and provision of the
+OASISBloc platform. It also supports OIC activities for platform
+enhancement and also supports initial consulting and marketing of
+each Domain Chain. The scope of support shall be determined
+through evaluation and vote by the OIC.
+
+21
+
+The Oracle of Blockchain
+
+3. Introduction of OASISBloc
+3-5. Governance
+
+② OIC
+OIC is a committee which is composed of experts from each sector to
+create and operate a healthy ecosystem. Below is the structure and
+role of the OIC.
+- Structure of OIC
+·OIC members: Foundation Oasis, representatives of Domain Chain
+partners, experts from each industry
+·Divisions of OIC: development division, operation division, data
+division, DApp division, and finance division
+- Role of OIC
+·Operates the OASISBloc Domain Chain Partners Program
+·Consults and evaluates the business model (business capability,
+technology etc.) of Domain Chains
+·Connects with other Domain Chains in OASISBloc and connects with
+demands (customers) within the platform
+·Monitors each project status and provides suggestions for project
+development to both OASISBloc and each Domain Chain
+·Consults on data standardization for both data exchange between
+Domain Chains and each industry
+·Discovers new competitive partners by objective and credible
+evaluation through collaborations with VCs.
+·Manages and operates OASISBloc Savings (OASISBloc ecosystem
+development fund)
+③ Partner
+Partners are participants who operate Domain Chains in the
+OASISBloc platform
+- Role
+·Operates and establishes the project structure of each Domain Chain
+·Cooperates with the duties of own project development and overall
+operation of the OASIS platform
+·Consults and implements the proposals for improvement and checks
+the project status of Domain Chains proposed by the OIC
+- Benefits
+·Business mentoring and guidance provided by the OIC
+·Consulting for business model and guidelines for token economy
+·Blockchain development training and consulting
+·Able to use various SDK and emulation tool provided by OASISBloc
+·Supports training for core, networking, and interface development for
+Domain Chain configuration
+·Able to access development community for activating the ecosystem
+·Able to access the network of OIC for fund raise
+·Able to use business incubation program and consulting program for
+the funding process for each project according to the characteristics
+of Domain Chains
+
+22
+
+The Oracle of Blockchain
+
+3. Introduction of OASISBloc
+3-6. Applied technology
+
+OASISBloc is a blockchain project that links distributed value and data in
+various industries. OASISBloc will solve the problems of data accessibility
+from worldwide and overcome the limitations of current blockchains that are
+limited to certain industries. Thus, creating collaborative values. 11
+
+1) Data trading blockchain
+The data transaction protocol of OASISBloc allows transparent data
+transactions between data buyers and sellers. All data registration and
+transaction details are recorded on the blockchain ledger. 12
+2) Data storage with layer 2 structure
+The data registered by data providers will be dispersedly stored in FEDSS.
+FEDSS is an off-chain and file system with the 2-layer structure. When
+transactions occur in the on-chain, the data stored in the FEDSS will be
+securely transmitted to the buyer. This structure complements blockchain
+scalability limits for data storage. 13
+3) Interconnecting data transaction through interchain technology
+OASISBloc consists of multiple data sharing blockchains for each field.
+OASISBloc provides a single data trading protocol that enables data trading
+for various data trading blockchains by interconnecting them. Here, it does
+not only include Domain Chains but also other blockchains. 14
+4) Blockchain oracle
+Blockchain oracle is required in order to interconnect with other data sharing
+blockchains. Through the blockchain oracle, data registered on other
+blockchains can be obtained. The blockchain oracle allows users to purchase
+data registered in other external blockchains. 15
+5) Data security
+OASISBloc provides technology for the three elements in data security (CIA,
+confidentiality, integrity, and availability). This ensures safe data transactions.16
+6) Easy configuration
+OASISBloc allows easy establishment of Domain Chain through parameter
+configuration for conveniently securing data trading infrastructure.17
+OASISBloc provides a variety of libraries and APIs for convenient data use and
+transactions.
+
+11. See chapter 4.1 | 2) “Technical support of blockchain for data sharing
+applications”
+12. See chapter 4.1 | 1) “Data trading platform based on blockchain”
+13. See chapter 4.2. | 1) “Domain Chain”
+14. See chapters 4.2.| 2) “Oasis Chain” and 4.2.3 “Blockchain interconnection and
+value exchange for data transactions”
+15. See chapter 4.2 | 3) “Blockchain interconnection and value exchange for data
+transactions”
+16. See chapter 4.5 | 1) “Data security”
+17. See chapters 3.5 “Governance” and 8.2 “Plans for partnership”
+
+23
+
+The Oracle of Blockchain
+
+OASISBloc platform
+4.1 Platform features
+4.2 Blockchain configuration
+4.3 Platform configuration
+4.4 Consensus algorithm: ePoA
+
+4.5 Security
+4.6 Process of data transaction
+4.7 Role of data keeper and reward
+
+24
+
+The Oracle of Blockchain
+
+4. OASISBloc platform
+4-1. Platform features
+
+Figure 3. Five steps for data trading
+
+1) Data trading platform based on blockchain
+Data sellers and data buyers can trade data through the OASISBloc platform.
+Details of data registration and transaction history are recorded on the
+blockchain. Therefore, it is easy to find out to which data is supplied to where,
+which enables easy management of data distribution. Also, rewards for the
+data provider can be fairly given.
+Data transactions in OASISBloc consists of five major steps as follows:
+
+① Register data
+Data seller can register data on the marketplace to sell. During this process,
+the data seller searches for the type of pre-defined data and inputs the
+basic information required according to each data type.
+② Store data
+When the data seller registers data, the data is stored in the storage of the
+designated data keeper. Data registration and storage history are recorded
+in each Domain Chain.
+③ Search data
+The data buyer searches data on the marketplace. Marketplace represents
+data information matching the buyer’s search condition among the data
+registered in the Domain Chain.
+④ Buy data
+The data buyer searches and purchases data at the marketplace. The data
+buyer pays the seller in cryptocurrency as a fee equal to the data price.
+The details of the purchase history of data are recorded on the blockchain.
+⑤ Send data
+When the data is purchased, the purchased data is encrypted and
+transmitted to the buyer. The transmitted data can only be decrypted with
+the buyer’s private key. Data transaction is completed once data is sent.
+2) Technical support of blockchain for data sharing applications
+Data can be shared in various industrial fields. Data transactions should be
+able to take place in various industries such as digital content for audio and
+video, medical data for patient records, smart transportation for automobile
+data. Each field has different characteristics. For example, the formats, types,
+method of providing, and method of transaction etc. may vary according to
+the industry. Therefore, different governances are required for different
+blockchains depending on the characteristics.
+
+25
+
+The Oracle of Blockchain
+
+4. OASISBloc platform
+4-1. Platform features
+
+OASISBloc provides a flexible environment by configuring the blockchain
+according to the characteristics of each industry.
+3) Providing protocol for data trading
+OASISBloc provides a protocol for trading data that can be commonly used in
+various data sharing blockchains. Through the OASISBloc data transaction
+protocol, data sellers can register data in the appropriate domain, and data
+buyers can purchase the necessary data from multiple Domain Chains. This
+protocol can support transactions not only from Domain Chains in the
+OASISBloc platform, but also from other data sharing blockchains linked
+through the blockchain oracle.
+
+4-2. Blockchain configuration
+
+OASISBloc provides data sharing blockchain to support various industry fields.
+Data trading blockchain consists of the following two types of chains to
+support global data transactions.
+
+Figure 4. Configuration of OASISBloc
+blockchain
+
+1) Domain Chain
+Domain Chain is a blockchain to share data for a single industry. The data
+registration details of who registered which data, and the data purchase
+details of who purchased the data are recorded. Appropriate governance can
+be configured according to the type of data, data provider, method of
+providing data, and method of transaction in the domain.
+Domain Chain consists of an on-chain node that records data transactions
+and registration, and an off-chain node that stores and transmits the actual
+data. The following figure shows the architecture of a Domain Chain that
+interacts with the user app.
+
+26
+
+The Oracle of Blockchain
+
+4. OASISBloc platform
+
+Figure 5. Architecture of Domain Chain
+that interacts with user app
+
+Users can trade data through the application UI. Data transaction such as for
+data registration/search/purchase is handled through the on-chain data trade
+interface module. The data transaction history is recorded on the domain
+blockchain. When a data seller registers data, the data is transferred through
+a data delivery module once the data buyer receives the purchased data. To
+increase the security level and operation efficiency, the registered data by
+data sellers is dispersed and stored in OASISBloc-wide storages. If necessary,
+the data may be stored in storages built inside the domain chain
+2) Oasis Chain
+Oasis Chain is a hub chain that connects all Domain Chains. By providing
+value and data exchange between Domain Chains, users can trade data with
+Domain Chains through the OASISBloc platform. Oasis Chain records details
+such as user account interconnection history, data transaction history, and
+Domain Chain history linked to OASISBloc etc. in each Domain Chain.
+
+Figure 6. Key module configuration of Oasis Chain node
+
+27
+
+The Oracle of Blockchain
+
+4. OASISBloc platform
+4-2. Blockchain configuration
+
+Oasis Chain includes data trade interface module that supports data
+transactions, Domain Chain management module linked to Oasis Chain, value
+exchange transaction module, and blockchain module. When a data buyer
+searches data through the app, the data trade interface module of Oasis
+Chain confirms the data registration information of the related Domain Chain
+with the data corresponding to the user’s query. The purchased data is
+transferred from the off-chain node of the Domain Chain.
+3) Blockchain interconnection and value exchange for data transactions
+OASISBloc not only interconnects with Domain Chains in the Oasis Chain but
+also with other data sharing blockchains in order to enable data transactions
+that occur between multiple data sharing blockchains. OASISBloc provides
+oracle SDK by importing data from the corresponding blockchain for
+interconnecting with other data sharing blockchains. The oracle enables
+users to search, purchase, and register data in other blockchains through the
+data transaction protocol of OASISBloc.
+Oasis Chain supports data transactions through token exchange between
+registered Domain Chains and Oasis Chain. For example, if Domain Chains A
+and B are registered in the OASISBloc platform as shown in the figure below,
+the data buyer can use OASISBloc tokens to purchase data from Domain
+Chain A, or may use the tokens commonly used in Domain Chain B instead of
+OASISBloc tokens.
+
+Figure 7. Example of value exchange
+trading module of OASISBloc platform
+
+When a data buyer purchases data from Domain Chain A and pays with
+OASISBloc tokens, the value exchange trading module checks the value of the
+corresponding Domain Chain token and the value of OASISBloc token.
+OASISBloc token is then deducted from the data buyer’s account as much as
+the data price according to the above value exchange ratio. The data seller
+will be paid for its data with the tokens of Domain Chain A. Transaction
+details are recorded in the corresponding Domain Chain and also in the Oasis
+Chain.
+
+28
+
+The Oracle of Blockchain
+
+4. OASISBloc platform
+4-2. Blockchain configuration
+
+The value ratio of each Domain Chain token and OASISBloc token is
+determined by the market price. Domain Chain tokens must be listed on an
+external exchange and traded in order to be used. When Domain Chains are
+connecting to Oasis Chain, every Domain Chain must go through the
+OASISBloc alliance.
+4) IDC (Inter Domain Chain Communication)
+People interact in various ways - from simple conversations in everyday life to
+intellectual activities such as writing and work of art. Beyond simple
+expressions between people, people express their thoughts and respond to it.
+And It is what we call the communication.
+OASISBloc platform enables parties to interact and exchange value. The
+underlying technology of data transactions in a blockchain is IDC.
+In other words, IDC is a technology for communications between blockchains.
+IDC is the underlying technology of OASISBloc’s ecosystem expansion. It
+enables the transfer of funds for data transactions and communication
+between Domain Chains.
+In addition, IDC will make possible to transfer value to other blockchains that
+have their own tokens. This is the goal of OASISBloc and the IDC technology
+will be used in order to expand this goal.
+OASISBloc focused on four key elements of IDC:
+① Merkle proof 18 for improving validation speed between blockchains
+Since blockchain has a monoculture structure, one error damages the
+entire ledger. With this weakness, validation is essential for
+communication between different chains. When attempting
+communication between chains and if the opponent chain is in the
+reorganization state, the block becomes unreliable. Therefore, the status
+of the opponent chain should be checked. LCV (Light Client Validation) is
+used to validate the opponent chain to solve the current constraints of
+resource and time for full node validation. LCV is not a method of verifying
+all the blocks but a Proof of Completeness method which proves that
+there is no gap in the transaction history of the chain to be verified.
+
+18. EOS.IO Technical White Paper v2 - Merkle Proofs for Light Client Validation (LCV)
+
+29
+
+The Oracle of Blockchain
+
+4. OASISBloc platform
+4-2. Blockchain configuration
+
+② Exchange module 19 for exchange rate of value transactions
+The value of tokens issued in each Domain Chain are all different. As there
+are exchange rates and exchange bureaus in international currency
+transactions, there are also exchange rates and exchange centers in
+cryptocurrency. However, when using currency exchange, there are
+problems such as high commissions, time consuming, government
+regulation and control, complexity, and exposure to risk of hacking etc. In
+order to solve the above problems, the exchange module is designed with
+the principle to make direct transactions between nodes, and to be
+created when connecting end-to-end nodes for generating transactions.
+In this structure, Hashed Time Lock Contract (HTLC, which is a basic
+technology of Atomic swap) is used for payments. HTLC is a combination
+of timelock (time limitation technology for transactions) and hashlock
+(where a hash value must be presented before the contract is fulfilled)
+technologies.
+The exchange module is designed based on the existing HTLC technology
+and is the basic technology for the swap contract as proposed in ③ below.
+③ Transactions by swap contract between chains
+The smart contract in Domain Chain guarantees integrity if the function
+details (contract conditions) and function inputs (contract execution
+states) are shared. In this case, the function result does not need to be
+shared separately through blockchain. This applies equally to transactions
+between chains. Swap contract which is similar to smart contract is
+created on both chains in the transaction. The function details are
+communicated with a protocol similar to TCP (Transmission Control
+Protocol). Multisig method is applied for the security of both chains and
+the timelock of swap contract. Protocol is used to check irreversible
+verification and reorganization status of the block of the opponent chain.
+
+19. https://en.bitcoin.it/wiki/Hashed_Timelock_Contracts
+
+30
+
+The Oracle of Blockchain
+
+4. OASISBloc platform
+4-3. Platform configuration
+
+OASISBloc platform includes Oasis Chain and each Domain Chain registered in
+Oasis Chain. The platform supports integrated data trading function between
+Domain Chains. Depending on the Domain Chain, the platform may work
+with existing legacy systems to provide characteristics for data transactions
+based on blockchain. OASISBloc platform consists of five layers: application,
+service, platform, blockchain, and data layers.
+
+Figure 8. Structure of OASISBloc platform
+layers
+
+1) Application layer
+The Application layer is for DApps that provide data trading functions or
+provide services that leverage data.
+
+2) Service layer
+The Service layer is for services running on OASISBloc platform.
+Configurations may vary depending on the Domain Chain. Service layer
+includes big data analysis using Domain Chain data, AI service for data
+learning, blockchain oracle, and data marketplace etc.
+
+31
+
+The Oracle of Blockchain
+
+4. OASISBloc platform
+4-3. Platform configuration
+
+3) Platform layer
+The platform layer provides various functions for data transactions and
+handles user’s data transactions. The data trade interface provides
+interfaces for registration, search, and purchase of data. Transactions
+through this interface are reflected on the blockchain layer. Data delivery
+performs data upload and download to FEDSS for user’s data registration
+and purchase. The data delivery module verifies that the person who
+wants to download the data has the right to access the data. If verification
+is successful, the data is encrypted and transmitted, and the encrypted
+data can only be decrypted with the authentication key of the data
+purchaser. Exchange between OASISBloc tokens and Domain Chain tokens
+are handled in “Exchange” to enable data transactions in multiple Domain
+Chains registered to the Oasis Chain. The Domain Chain oracle is provided
+to link with other blockchains for data trading. The platform layer provides
+API and SDK to handle these functions.
+4) Blockchain layer
+OASISBloc platform provides 2 types of blockchains: Oasis Chain and
+Domain Chain. Details of all actions related to data transactions such as
+data registration history, purchase history, and data type are recorded in
+the Domain Chain in which data is registered. On the other hand,
+settlement details for value exchange through OASISBloc tokens and
+Domain Chain registration history are recorded in the Oasis Chain. Each
+data transaction is processed based on smart contracts. Also, by managing
+data access with blockchain accounts, only authorized person can view or
+modify the data.
+5) Data layer
+The data layer is for data transactions, OASISBloc platform establishes a
+P2P network-based distributed file system which is called FEDSS. FEDSS
+has the following technical advantages: First of all, unlike the HTTP web,
+ecosystem can remains stable even if some nodes are disconnected. It can
+transfer high-capacity files quickly and efficiently.
+Actors can be classified into registrants, buyers, keepers depending on the
+data layer and the type of data transaction. Rewards are given differently
+according to the above types.
+
+32
+
+The Oracle of Blockchain
+
+4. OASISBloc platform
+4-3. Platform configuration
+
+Depending on the Domain Chain, the data type or the method of providing
+may be different. Therefore, some of the data layer can be replaced by the
+legacy system. For example, if the legacy system directly stores and transmits
+data, the authentication process that verifies that the person using the data
+is the person who purchased the data, or the transaction between the data
+provider and the buyer, can be interconnected to handle through the
+OASISBloc platform.
+
+4-4. Consensus algorithm: ePoA
+
+The consensus algorithm in the Oasis Chain and Domain Chains of the
+OASISBloc platform is ePoA (equitable Proof of Authority). The feature of
+ePoA is that it is very fast and efficient to select a BG or reach a consensus on
+generating a block. On the other hand, ePoA has a relatively centralized
+feature as the authority can be concentrated to one side. To mitigate this,
+OASISBloc ensures open opportunities for anyone contributing to the
+ecosystem to volunteer as a BG. The OIC can allow among the volunteers,
+who have contributed to the ecosystem and deemed to be responsible for
+the community management role, to be a member of the Witness Group.
+The Witness Group consists of 39 nodes and performs the block generation
+and verification. They also disclose block generating process and blockchain
+history transparently so that anyone can see the transactions, block
+verification, and irreversibility of the blockchain.
+The Witness Group has the BG level, which has equitable selection
+opportunities and security by applying randomness to each level of selection
+method.
+
+Figure 9. Witness Group: BG level and random selection
+
+33
+
+The Oracle of Blockchain
+
+4. OASISBloc platform
+4-4. Consensus algorithm: ePoA
+
+In OASISBloc platform, most transactions are expected to occur by Domain
+Chains. OASISBloc will begin with at least 13 witness group and 7 BGs but will
+gradually expand up to 39 witness group and 23 BGs. Through the procedure
+of OASISBloc governance, OIC will decide the expansion of witness group and
+BG according to the transaction volume and the number of Domain Chains.
+Witness Group is divided into 3 levels according to the contribution. Within
+each level, cyclical random selection method is structured to provide fair
+opportunity to participate in block generation.
+In the case of Witness Group consisting of 39 and BG consisting of 23 : 16
+BGs for level 1, 13 BGs for level 2, and 10 BGs for level 3. For every round, a
+total of 23 BGs are selected: 8 BGs, 8 BGs, and 7 BGs respectively for each
+level.
+The block time of Oasis Chain is 1s, and in the case of 23 BGs, each BG
+generates 12 blocks. A total of 276 blocks are generated per round. At the
+beginning of each round, 23 BGs are selected randomly according to their
+basic requirements and contribution. The selected BGs create blocks in the
+order agreed by more than 16 BGs.
+The participation requirements of the Witness Group will be determined by
+OIC based on technology, transparency, and infrastructure. And moreover,
+openness to participation of a new Witness.
+The basic requirements of BG selection method are as follows:
+① Deposit
+② Compliance to regulations
+③ Contribution
+Deposit is the “minimum equity deposit,” which is required to be at least
+500,000 OSB. A robust method to measure the healthy sustainability of a
+blockchain network is by measuring the amount of tokens held by a BG. If the
+BG has the more to loses, the more responsibility the BG will have, and
+therefore, the BG will be cautious in making decisions accordingly.
+Contribution is based on trust and reputation for contributing to ecosystem
+activation and platform sustainability. The Oasis alliance can coordinate the
+above criteria in consultation according to the situation and evaluate
+whether the regulation is fairly complied. BG is required to generate a block
+at the right time with the designated order. Based on the role BGs are playing,
+their performance is evaluated while the grade is reflected in the BG
+Compliance to regulations. In addition, weights for the above requirements
+can be adjusted according to the level and be reflected in the BG selection
+criteria.
+By using ePoA for consensus algorithm, It is possible to improve the
+transaction speed with small number of nodes like EOS, while maintaining
+security that of large networks like Bitcoin or Ethereum by randomly selecting
+candidates that meet the basic requirements.
+
+34
+
+The Oracle of Blockchain
+
+4. OASISBloc platform
+4-5. Security
+
+OASISBloc is a distributed ledger system that provides high security and trust.
+Basic transaction can be made through asymmetric key encryption with
+securing CIA. The technical element of key generation (which is the basis of
+the 3 elements of CIA) is based on proxy re-encryption so that no one can
+own the original data other than the trading parties.
+In addition, a two-step system is built to defend against DDoS attacks. First,
+the ePoA consensus algorithm is established to minimize the exposure of BG,
+which could be a target. Second, the full node that is open to users, is
+separated from the BG node that produces the block. In this way, the VPN
+service (that has integrity, mutual authentication, and access control etc.)
+maintains the block generation through the trusted BG network, and protects
+the OASISBloc network even during an attack on the full node.
+1) Data security
+Blockchain is a system designed based on the philosophy that all nodes
+equally share the ledger. However, the disadvantage of this structure is
+that the size of the ledger becomes larger, and if the ledger contains data
+that includes files, the size will be enormous. Therefore, OASISBloc aims to
+minimize the size of the ledger by creating a separate chain (off-chain) for
+data storage.
+① Data confidentiality
+Since fragments of data are encrypted and dispersedly stored to be
+transmitted to data buyers, data keepers do not have the ownership of
+data while only data sellers and buyers have access to data. Due to
+the concept of “data access rights,” unpermitted (or unauthorized)
+keys cannot use the data or services.
+② Data integrity
+Based on the policy that “information and data may be seen, but
+cannot be changed,” hash values of all data in the off-chain are
+extracted in each data processing process and recorded in the on-chain.
+By doing so, data keepers and buyers are able to check the hash values
+once they receive the data and validate their integrity.
+
+35
+
+The Oracle of Blockchain
+
+4. OASISBloc platform
+4-5. Security
+
+③ Data availability
+If data buyers have the data access right, they should be able to earn
+data at any time upon request. The storage server where fragments of
+data are duplicated and stored is called a keeper node, and the group
+of the keeper nodes is called a data storage. In case a problem occurs
+in a keeper node where the encrypted data fragments are dispersedly
+stored, missing out data fragments, each data fragment is stored in
+multiple keeper nodes of the data storage.
+④ Data life cycle and deletion
+OASISBloc, which deals with data transactions, requires smoothness in
+deleting data that has reached the end of its life cycle due to security
+issues. For this, the FEDSS was configured to secure the storage
+capacity, data that are not pinned are sent to garbage after a certain
+period of time. Data that are traded through tokens are basically pinned.
+Deleting a transaction on a blockchain is not possible. Therefore, we
+designed the data lifecycle by creating a new transaction which contains
+deleted data on FEDSS, and update in the blockchain.
+In other words, we designed the data lifecycle through data deletion
+on FEDSS.
+2) Attacks
+① Evolution and commercialization of DDoS attacks
+There are various types of DDoS attacks, but the purpose is always the
+same - to slow down the speed of online resources or to prevent them
+from responding, thereby giving financial damages or damaging the
+reputations of the victims. The patterns and methods of attacks are
+constantly evolving.
+DDoS attacks have established themselves in the market as a profit
+model, which is the reason they are constantly evolving in size and type.
+Given these trends of DDoS attacks, even dPoS blockchains such as EOS
+can never be safe from attacks. However, OASISBloc is designed to
+prepare against DDoS attacks.
+
+36
+
+The Oracle of Blockchain
+
+4. OASISBloc platform
+4-5. Security
+
+② Establishment of trust network for ePoA and BG
+The structure of the network is designed so that the full node (that is
+open to DApp or general users) and the BG node (that generate blocks)
+are separated into different networks. The data of the BG node is shared
+exclusively among the BGs without disclosing it externally, thereby
+avoiding a direct DDoS attack. Even if a public full node is undergoing a
+DDoS attack, the BG node is unaffected. Therefore, it is designed to
+have little effect on the OASISBloc network itself.
+As a method of network configuration, trusted network is configured
+through the VPN connection between BGs. It is possible to fight against
+system paralyzation attacks such as DDoS by establishing trust network
+based on security functions such as integrity, mutual authentication,
+and access control of the VPN service.
+
+4-6. Process of data transaction
+
+1) Data registration
+① Requesting for data registration
+The data provider checks the size and hash value of the data to be
+provided, and the data provider fragments the data into multiple pieces
+before encrypting them. With this information, the data provider
+requests a data registration to the corresponding domain. (The request
+for data registration is processed through smart contract of the Domain
+Chain.)
+② Checking whether data registration is possible
+The data provider verifies that the storage purchased for data
+registration is valid. Storage is available for immediate purchase.
+③ Concluding contract for data registration
+The capacity of the data provider’s storage decreases by the size of the
+registered data.
+④ Transferring data
+The data fragments from the data provider are uploaded to the data
+keeper once the contract is concluded, and the transaction is recorded
+on the blockchain
+2) Data purchase
+① Searching data
+Data buyers can search for data they want to buy.
+② Making payments
+Data buyers can purchase data with OSB tokens or Domain Chain
+tokens. If a buyer makes the payment with OSB tokens, the exchange
+module will automatically exchange OSB tokens to the relevant domain
+tokens. The exchanged domain tokens will be paid to the data provider.
+
+37
+
+The Oracle of Blockchain
+
+4. OASISBloc platform
+4-6. Process of data transaction
+
+③ Transferring data
+Once the payment details are recorded on the blockchain, the data is
+encrypted and sent from the data keeper to the buyer.
+④ Decrypting data
+The data buyer can decrypt the purchased data with own private key.
+⑤ Verifying data integrity
+After decrypting the data, the buyer can extract the hash value of the
+original data and verify data integrity by checking whether the hash
+value matches with the hash value of the data registration details that is
+recorded on the blockchain.
+⑥ Concluding transaction
+Once the hash value of the original data is identical, the purchase data
+is recorded on the blockchain and the payment is made to the data
+provider.
+
+4-7. Role of data keeper and its reward OASISBloc is a blockchain system for P2P based data transactions. As the
+peer participating in the network is unable to access the network 24 hours a
+day, a data keeper’s node is established for network bandwidth expansion,
+network hierarchy stability, and scalability etc.
+Data keeper can be rewarded according to the provision of space and the
+consumption of time for keeping the data.
+1) Concept of data keeper’s node
+
+FEDSS selects the nearest node first and sends and receives files. Therefore,
+the users can act as a data keeper to improve communication speed and file
+accessibility. The physical characteristics of this keeper are a combination of
+KaZaA’s “Super Node” concept and BitTorrent’s “Seed” concept. It can be
+defined as “it increases the possibility to receive stable blocks 24 hours a day
+as there is a nearest super-peer that has large number of seeds.” However,
+the difference between a super-peer and KaZaA is that the keeper is not
+automatically selected by the system, but is made by the user’s choice and
+rewarded accordingly. When the data keeper receives a request for
+transmitting the stored data fragments, the keeper verifies the smart
+contract as to whether the data buyer has access to the data, encrypts the
+data fragmentation decryption key with a public key for access right
+authentication, and transmits the key with the encrypted data fragments.
+2) Configuration of data storage
+Each data keeper is allowed to sign up for the existing storage or build a new
+storage when registering as a keeper on OASISbloc. Each storage can
+accommodate four or more keepers. Keepers should set the total storage
+capacity in their keeper nodes. The total available capacity of the data
+storage is determined based on the total storage capacity of a keeper who
+sets the least available capacity among the keepers.
+
+38
+
+The Oracle of Blockchain
+
+4. OASISBloc platform
+4-7. Role of data keeper and its reward 2) Rewards for keeping data (time and space)
+As a data keeper of OASISBloc, data keepers provide a certain amount of
+space on its hard disk and receives appropriate rewards accordingly. Reward
+is also made according to the time for keeping the block. Time and space are
+the basis of the reward concept for data keepers of OASISBloc, both of which
+are calculated by appropriate reward formulas.
+
+39
+
+The Oracle of Blockchain
+
+Service model
+5.1 Overview
+5.2 Service cases of Domain Chain
+5.3 Case of utilizing service by converging data between Domain Chains
+5.4 Case of solving current problems by converging data between Domain Chains
+
+40
+
+The Oracle of Blockchain
+
+5. Service model
+5-1. Overview
+
+Enterprises that are already running a business face many challenges when
+dealing with other companies. Many enterprises expect stable and efficient
+business operations by applying blockchain to various business areas because
+of the characteristics of blockchain such as saving cost, time and securing
+reliability. Most enterprises use private blockchain to avoid sensitive data
+leakage and to solve the problems according to the characteristics of each
+business process.
+OASISBloc aims to support blockchain business for enterprises by providing
+the following two service models.
+1) BaaS model (Blockchain-as-a-Service)
+There are various barriers such as technology, cost, and time for
+companies to newly adopt blockchain into their business. OASISBloc
+provides solutions to eliminate such barriers.
+2) DaaS model (Data-as-a-Service)
+As data trading and processing become more active, the data trading
+platform must be transparent and the data provider should gain fair
+profits. OASISBloc plans to provide data services based on blockchain that
+will enable the greatest efficiency and business value to enterprises.
+By applying blockchain to existing business areas, companies can implement
+an optimal management system and increase revenue. This allows them to
+create a variety of services.
+First, sell data to other companies which need the data.
+Second, create new businesses through data collection and analysis.
+Third, purchase data to solve the existing business problems.
+Below are seven service cases of Domain Chain.
+
+41
+
+The Oracle of Blockchain
+
+5. Service model
+5-2. Service cases of Domain Chain
+
+[Healthcare Chain]
+·Current problems
+1) Patient’s medical data are used only for a short period of time and in
+most of the time, they are scattered and stored in several hospitals.
+2) Patients repeated go through unnecessary treatments due to limited
+sharing of medical records between hospitals.
+3) Patient’s medical data are being sold within the medical field. However,
+the patients do not know how the data is being used and do not gain any
+benefit from it.
+·Solutions through blockchain
+1) The distributed ledger technology of the blockchain allows to search and
+track the data that are scattered all over different hospitals by the
+patient’s private key.
+2) Hospitals can accelerate the exchange of medical data with other
+hospitals by providing tokens as means of incentives.
+3) The shared distributed ledger between hospitals, patients, and medical
+industry facilitates data flow surveillance by wallet-based consent system
+to utilize patient’s data enables precise control of medical data.
+
+42
+
+The Oracle of Blockchain
+
+5. Service model
+5-2. Service cases of Domain Chain
+
+·Benefits
+1) Patients can receive precision medicine service based on clinical data,
+genetic data, and life log data that are gathered from various medical
+institutions through the distributed ledger technology.
+2) Token incentives in data transactions facilitates the exchange of medical
+information between hospitals and individuals-hospitals, thus eliminating
+unnecessary testing and reducing national medical expenses.
+
+3) Blockchain and consent mechanism technology enables precise control of
+data flow, preventing misuse of patient data and black market leakage
+problems.
+
+Figure 10. Transaction of medical data using Healthcare Chain platform
+
+43
+
+The Oracle of Blockchain
+
+5. Service model
+5-2. Service cases of Domain Chain
+
+[Gold Chain]
+(Application of Gold Chain must be consulted with a jurisdiction legal expert)
+·Current problems
+1) Investors want to invest in physical gold but there are concerns for theft.
+There is also a big spread between the purchase price and the selling
+price where the burden of VAT and commission is high.
+2) Even if investors want to trade abroad, they lose money with their trading
+volume due to tariffs.
+3) There is an ETF-type gold investment method. However, the tax burden
+on profits is high.
+·Solutions through blockchain
+1) Issuing tokens with gold as collateral can be stored easily where it
+reduces the burden of commission for the transaction.
+2) It is possible to trade without border restrictions through the gold-backed
+token exchange which is connectable from all over the world.
+3) Taxes and fees are incurred when the token is exchanged to physical gold.
+However, the transaction between tokens do not incur tax for the gain.
+
+44
+
+The Oracle of Blockchain
+
+5. Service model
+5-2. Service cases of Domain Chain
+
+·Benefits
+1) By reducing the spread between purchases and sales through a goldbacked token, it can meet the demand of both long and short-term
+holders, enabling the gold market to grow.
+2) Blockchain enables borderless transactions which are recorded in the
+transparent distributed ledger and suppresses the outflow to the black
+market.
+
+3) The token issuer can deposit physical gold in a certified institution and
+store it safely.
+
+Figure 11. Gold Coin issuing process through the Gold Chain platform
+
+45
+
+The Oracle of Blockchain
+
+5. Service model
+5-2. Service cases of Domain Chain
+
+[Retail chain]
+·Current problems
+1) Due to fierce competition, the revenue of small business owners is
+decreasing as well as the burden on commissions paid to the current
+payment systems is increasing.
+2) Franchise owners are demanding higher franchise fee in return for
+providing logistics, inventory, manpower, and marketing services which
+reduce the profitability of franchisees.
+3) Many companies have an in-house cafeteria for employees but it is
+difficult to consider the ethnic and religious tastes of all employees.
+Companies are using paper vouchers which can be lost and difficult to
+prevent exchange activities that are not in line with the voucher usage
+rules.
+·Solutions through blockchain
+1) With QR codes and blockchain based payment system, users can buy
+products and services without banks, credit card companies, or other
+financial intermediaries.
+2) Logistics, inventory, HR, and marketing service providers can be
+connected to the blockchain and enable to provide one-stop services
+with smart contracts.
+3) Smart contract based blockchain voucher can be issued to allow
+employees to use vouchers within the rules set by the company.
+
+46
+
+The Oracle of Blockchain
+
+5. Service model
+5-2. Service cases of Domain Chain
+
+·Benefits
+1) By simplifying the payment process with blockchain, it is possible to
+prevent transaction errors in advance and reduce labor costs. Thereby,
+improving the profitability of small size business owners.
+2) Smart contract based cooperative system can operate more efficiently
+than the existing franchises, therefore the purchase price can be lowered
+by strengthening bargaining power of small size business owners.
+
+3) Companies can make efficient employees’ welfare scheme by using a
+blockchain voucher.
+
+Figure 12. Utilization of blockchain voucher through Retail Chain platform
+
+47
+
+The Oracle of Blockchain
+
+5. Service model
+5-2. Service cases of Domain Chain
+
+[Media chain]
+·Current problems
+1) Building a standardized set of data for retail transactions is difficult,
+making it impossible to fully identify consumer data. (Eg., Credit card
+company: knowing the identity of the consumer and the price of the
+purchase item but not knowing what the consumer has purchased. Shops
+and POS: knowing what the consumer has purchased but not knowing
+the identity of the consumer.)
+
+2) Although store owners pay high price for online advertising, they are
+unable to find out the exact effects. Also, it is difficult to find out
+customer inflow through handing out leaflets.
+3) Small and medium advertising platform companies are trying to utilize a
+point system to attract customers, but as a result, there is a limit to
+expand to large-scale campaign because it is a zero-sum game.
+·Solutions through blockchain
+1) Blockchain’s distributed ledger technology enables to acquire and analyze
+the integrated information of consumers with their consent of the
+scattered data accumulated by each company.
+2) Consumer-centric, integrated data can show how many customers have
+been exposed to ads. This makes it possible to identify the effectiveness
+of advertising.
+3) Through tokenization of points, small and medium marketing platforms
+can choose a new alternative that facilitates marketing investment.
+
+48
+
+The Oracle of Blockchain
+
+5. Service model
+5-2. Service cases of Domain Chain
+
+·Benefits
+1) The advertisement management system for advertisers, media
+companies, and advertising agencies, it is possible to increase the
+reliability of data provided to each other with blockchain
+2) As owners can measure and identify the advertising effects instantly, it
+can improve the profit of the business by saving unnecessary advertising
+costs.
+
+3) With the acquisition of large-scale marketing investment through tokens,
+small and medium sized platform companies can expect a fair
+competition with major companies.
+
+Figure 13. AD activity process through Media Chain platform
+
+49
+
+The Oracle of Blockchain
+
+5. Service model
+5-2. Service cases of Domain Chain
+
+[Game Chain]
+·Current problems
+1) Constant fraud incidents occur due to the anonymity of the opponent
+when trading items within a game through the item trading website.
+2) Every player’s effort can be useless if the game service ends.
+3) Newly launched games spend a huge amount for marketing to attract
+new customers as assets within a game such as cyber money, items, and
+characters collected by the player over time cannot be utilized in other
+games.
+·Solutions through blockchain
+1) Item trading with an unknown can be safely done through the application
+of P2P electronic cash system provided by the blockchain.
+2) For most online games, services may end according to the company’s
+management decision, but the game through DApp is decentralized
+where the service can be maintained forever as long as the network
+supports it.
+3) The player’s game assets are recorded on the irreversible ledger of the
+blockchain, making it possible to utilize the existing game assets even in
+newly launched games.
+
+50
+
+The Oracle of Blockchain
+
+5. Service model
+5-2. Service cases of Domain Chain
+
+·Benefits
+1) The use of blockchain escrow eliminates the risk of fraud because the
+exchange of game item and payment are done simultaneously. The game
+company and the exchange can split the profit generated from
+transaction fee.
+2) The environment that allows ever-lasting game can play a role in
+supporting the value of the characters and items possessed by the game
+player.
+3) Democratic forking on game rules can create voluntary new games
+among participants, and can be used as a marketing tool when acquiring
+new customers through game assets swap and airdrop.
+
+Figure 14. Item trading in game using Game Chain platform
+
+51
+
+The Oracle of Blockchain
+
+5. Service model
+5-2. Service cases of Domain Chain
+
+[Mobility chain]
+·Current problems
+1) Large volume of data is being generated from various sensors attached to
+the vehicle. However, there is no platform to store, analyze, and trade
+data. Therefore, the generated data is temporarily stored in each device
+and discarded.
+2) Data from automobile manufacturers, insurance companies, and repair
+companies are stored separately which makes it difficult to check each
+other’s data. This makes data vulnerable to forgery and the selling of
+second-hand vehicles with accidents or malfunctions are done
+unknowingly.
+3) In-car payments for parking, gasoline, highway tolls, drive-thru stores are
+increasing. But wireless payment has weak security and there are
+inconveniences to find cash, credit card etc. in haste as payment
+methods are not integrated.
+·Solutions through blockchain
+1) Data generated from various sensors are stored on the basis of crypto key
+which is unique to each vehicle and can be shared and traded among
+different parties (research institutes, automobile manufacturers,
+consumers, repair companies, insurers, and public agencies).
+
+2) With blockchain, an unmodifiable digital ledger can be made by
+combining data from vehicle manufacturers, insurance companies, and
+repair companies.
+3) Blockchain based ‘vehicle wallet’ can be used as a safe and integrated
+payment method.
+
+52
+
+The Oracle of Blockchain
+
+5. Service model
+5-2. Service cases of Domain Chain
+
+·Benefits
+1) Vehicle repair companies can purchase and analyze the data generated
+from the vehicle through the Mobility chain and with the processed data,
+they can conduct marketing activities such as vehicle inspection proposal
+to the vehicle owner. Vehicle owners who receive coins as a reward for
+providing data can pay the insurance with coins.
+2) It can solve the information asymmetry between second-hand vehicle
+buyers and dealers, which can improve trust in the second-hand vehicle
+market. It is anticipated that the second-hand vehicle market will expand
+in size by increasing the possibility of potential buyers in the new vehicle
+market to shift into the second-hand vehicle market.
+3) By using ‘vehicle wallet’ technology, it is possible to record the
+transactions of automobile related fields such as automobile data and
+customer support service. It also enables to change and store data.
+
+Figure 15. Vehicle data trading through Mobility Chain platform
+
+53
+
+The Oracle of Blockchain
+
+5. Service model
+5-2. Service cases of Domain Chain
+
+20
+
+[IoT Chain]
+·Current problems
+1) Due to the different security levels of IoT nodes, hacking can threaten the
+entire system and it is difficult to verify and recover data when the data
+of the central system is altered or forged. Also, if there is a problem with
+the central processing system, it is unable to use the connected IoT
+devices.
+2) Since IoT collects and processes data from various devices, it requires a
+central server for processing big data which increases the cost of
+construction and maintenance of the central system.
+3) There is scalability problem when adding new IoT nodes as the nodes
+have to be connected to the central server that has limited gathering and
+processing capability.
+·Solutions through blockchain
+1) IoT data is distributed and stored in nodes so that DDoS attacks against
+the central server can be mitigated. Since each node holds the data and
+conducts verification, it is difficult for data to be altered or forged. Also,
+malfunction of some devices will barely impact on the overall system.
+2) System construction cost is saved by connecting each IoT device (peer-topeer) instead of building a separate central processing system.
+3) New nodes can easily be added in the IoT system through internal system
+node connection without any additional change or separate equipment.
+
+20. Refer to ‘Trends in domestic and global blockchain based Internet of Things.’
+2017.6 Financial Security Institute (Korea).
+
+54
+
+The Oracle of Blockchain
+
+5. Service model
+5-2. Service cases of Domain Chain
+
+·Benefits
+1) The policy of data access can be stored on the blockchain so that only the
+data owners can access and control the collected data. Blockchain can
+provide a secure data trading environment for the collected data from
+IoT sensors. It also allows to trade data without any third party
+interruption.
+2) Public keys of IoT devices are stored on the blockchain which enables to
+manage keys such as registration, renewal, and deletion.
+3) Through blockchain, it is expected to overcome the current IoT limitation
+and contribute to the vitalization of the IoT industry.
+
+Figure 16. Example of using IoT devices in farming through IoT Chain platform
+
+55
+
+The Oracle of Blockchain
+
+5. Service model
+5-3. Case of utilizing service by
+converging data between
+Domain Chains
+
+[Mobility Chain + Media Chain + Token]
+·Data from Mobility chain: driving history, driving habits, maintenance,
+history, GPS etc.
+·Data from Media Chain: billboard location, advertisement media details etc.
+·New additional services:
+1) Provides a service that sends out advertisements to outdoor billboards
+that is located on a point where many vehicles pass (the driving history
+and GPS is gathered).
+2) Provides a service that sends out related advertisements such as vehicle
+products by utilizing data of vehicle driving history and vehicle status.
+·Token: provides convenient and easy payment for advertisement expenses
+and vehicle products
+
+5-4. Case of solving current
+problems by converging data
+between Domain Chains
+
+[Agri chain + Retail chain + Logistics chain]
+· Problem: A service for franchise companies for effective store management,
+reducing logistic costs, and stable supply of resources.
+· Data form Agri Chain: status of crops and livestock, environment data
+(temperature, humidity, growth status, soil nutrients, weather, feed status
+etc.) collected through IoT sensors.
+· Data from Retail Chain: data for franchise management (sales, order
+history, stock status, delivery etc.)
+·Data from Logistics Chain: vehicle stock status, driving route, driver details,
+driving history etc.
+With the convergence of data through OASISBloc, it is possible to provide
+optimal services that allows securing reliability of safe management system
+for products, cutting costs by selecting the optimal transportation route and
+delivery reservations, and stability of product supply and demand.
+
+56
+
+The Oracle of Blockchain
+
+OASISBloc token
+6.1 Features
+6.2 Token issuance
+6.3 Token sales
+6.4 Token allocation
+
+6.5 Fund allocation
+
+57
+
+The Oracle of Blockchain
+
+6. OASISBloc token
+The total issuance amount of OSB, a token issued by OASISBloc Foundation, is 500 million. 400 million of the total
+amounts are initially issued with the genesis block while the remaining 100 million are issued in four phases through
+three times of half-life for 25 years. Please see Table 1 for the issuance details.
+In Phase 1, 50 million of OSB are supplied to promote the OASISbloc ecosystem for five years, and the rewards are
+allocated to BGs and Savings (OASISBloc Ecosystem Development Fund) in a ratio of 1 : 9, respectively. This
+allocation is designed to promote the ecosystem by allocating the reward into the block reward account, which
+supports a stable generation of the block, and the Savings account is for sustainability of the ecosystem.
+In Phase 2, a stabilization stage, 25 million of OSB are supplied for five years. In Phase 3, 12.5 million of OSB are
+supplied for five years while in Phase 4, another 12.5 million of OSB are supplied for 10 years.
+The OASISBloc Savings, allocated in each phase with different amounts, is managed by OASISBloc Foundation and,
+upon negotiation, may be spent on promoting the ecosystem.
+
+Table1. Token Supply
+
+Figure 17. Token supply Curve
+
+6-1. Features
+
+OASISBloc has the main features of Bitcoin and Ethereum and can be used in
+both public and private blockchains. It uses ePoA (equitable Proof-ofAuthority) as a consensus algorithm.
+
+58
+
+The Oracle of Blockchain
+
+6. OASISBloc token
+The table below shows the main features of the OASISBloc blockchain.
+
+6-1. Features
+
+OASISBloc blockchain
+
+Bitcoin blockchain
+
+Ethereum blockchain
+
+Main features
+
+Financial transactions
+Smart contract
+Public/private blockchain
+
+Financial transactions
+
+Smart contract
+
+Consensus algorithm
+
+ePoA (equitable Proof of
+Authority)
+
+Proof of Work
+
+Current: Proof of Work
+Future: CASPER PoS
+
+Block generator
+
+39 nodes
+
+Transaction speed
+
+4,000 tx/sec
+
+7 tx/sec
+
+25 tx/sec
+
+Block time
+
+1 second
+
+10 minutes
+
+12 seconds
+
+Block size
+
+Dynamic
+
+1 MB
+
+Dynamic
+
+Topology
+
+Dynamic
+
+Public blockchain
+
+Public blockchain
+
+×
+
+×
+
+Table 2. Main features of the OASISBloc blockchain
+
+6-2. Token issuance
+
+The total issuance amount of OSB tokens is 500,000,000 OSB tokens. 80% of
+the total issuance amount (that is 400,000,000 OSB tokens) will be issued
+along with the Genesis Block, and the remaining 20% (100,000,000 OSB
+tokens) will be issued as block reward according to the reward rule.
+
+6-3. Token sales
+
+Foundation Oasis will issue OSB tokens and conduct token sales through a
+presale and an IEO (Initial Exchange Offering) to organize and improve the
+OASISBloc ecosystem.
+Participants may purchase OSB tokens during the presale by making payment
+in Bitcoin (BTC) or Ethereum (ETH). The relevant exchange rate can be
+checked on the OASISBloc official website (www.oasisbloc.io).
+Participants may purchase OSB tokens during the IEO through participating
+exchanges. The details of the participating exchanges will be announced on
+the official website. The policy may change based on the business operation
+of OASISBloc.
+
+59
+
+The Oracle of Blockchain
+
+6. OASISBloc token
+6-4. Token allocation
+
+OSB tokens that are issued as first block reward, will be used to organize,
+develop, and improve the OASISBloc platform. Subject to adjustments by
+Foundation Oasis in its sole and absolute discretion, such OSB tokens will be
+allocated as follows: 46.6% to the participants of the token sales, 10% to
+Domain Chain partners and for establishing the ecosystem, 2.1% for OIC
+operation and management, 2% for marketing, 2% to advisors, 8% to the
+founder and the project team of OASISBloc, 3.5% for platform testing and
+development, 0.1% for infra operation, 0.1% for business development, and
+the remaining 25.6% as company reserve for maintaining and enhancing the
+value of the ecosystem. However, the percentage for ‘Reserve’ may change
+depending on the result of the OASISBloc token sales.
+
+* The percentage for ‘Reserve’ may change depending on the result of the token sales
+Figure 18. Token allocation
+
+60
+
+The Oracle of Blockchain
+
+6. OASISBloc token
+6-5. Fund allocation
+
+Funds that are raised through the token sales will be used to structure and
+develop the OASISBloc platform. Subject to adjustment by Foundation Oasis
+in its sole and absolute discretion, such funds will be allocated as follows:
+4.5% to support partners, 2.5% to establish the ecosystem and develop
+business, 6.5% to manage and operate OIC, 44.5% for platform development,
+35% for marketing and promoting OASISBloc, 3.5% to operate system and
+infrastructure, 0.9% to legal advisors, and the remaining 2.6% as company
+reserve for security, legal, financial activities and activities for increasing
+value.
+
+Figure 19. Fund allocation
+
+61
+
+The Oracle of Blockchain
+
+Ecosystem & roadmap
+7.1 Establishing token ecosystem
+7.2 OASISBloc roadmap
+
+62
+
+The Oracle of Blockchain
+
+7. Ecosystem & roadmap
+7-1. Establishing token ecosystem
+
+OASISBloc platform is a data sharing and trading platform for Domain Chains
+from various industries. It is difficult to activate the whole ecosystem simply
+by emphasizing the role of market or platform. OASISBloc will focus on
+creating the most fundamental data trading service model to be actively
+driven. We will expand Domain Chains by discovering new projects from
+start-ups and existing companies that would like to use blockchain. Through
+this, OASISBloc will expand the ecosystem and provide the basis for
+converging data.
+
+New projects will be examined for their validity as a Domain Chain. Rather
+than simply expanding Domain Chains by numbers, OASISBloc selects
+businesses based on their competitiveness and future growth. This enables
+healthiness in Domain Chains which will be the basis of the OASISBloc
+ecosystem to develop and become healthy.
+Validated projects and start-up companies will receive full consultation in
+adopting blockchain to their businesses. By providing strategies for funding
+and business expansion, Domain Chains will be able to acquire and manage
+new users and contribute as a member of the OASISBloc ecosystem.
+
+7-2. OASISBloc roadmap
+
+The OASISBloc roadmap consists of 6 phases as below.
+1) Phase 1. Basics of Domain Chain
+• Build demo for data trading of file formats
+• Register/search/purchase data (simple data trading function)
+• Record data registration and purchase history on the on-chain
+• Download/upload data on the off-chain
+• Send data - send data that are in file format
+• Research - encryption technology, data trading platform, ongoing related
+projects
+2) Phase 2. Improvement of Domain Chain
+• Basic data standardization for trading
+• Send data - send data type that are not in file format
+• Data confidentiality - Data encryption and decryption when sending
+• Consensus algorithm (ePoA)
+• Data management
+• Basic FEDSS
+• Method of configuring parameter
+3) Phase 3. Completion of Domain Chain
+• Data security/protection (basic)
+• Domain Chain oracle
+• Various libraries and tools
+• SDK provided
+4) Phase 4. Basics of Oasis Chain
+• Establish inter-domain protocol
+• Data standardization for trading (inter-domain)
+• Register and manage Domain Chain
+• Register/search/purchase data from multiple Domain Chains (data
+marketplace function)
+• Support data purchase through value exchange
+
+63
+
+The Oracle of Blockchain
+
+7. Ecosystem & roadmap
+7-2. OASISBloc roadmap
+
+5) Phase 5. Improvement of Oasis Chain
+• Data security/protection (improvement)
+• Various libraries and tools
+• Provide SDK
+• Build a de-fi service platform
+6) Phase 6. Advanced developments
+• Support data analysis
+• Testing and stabilization
+• Data exchange connection
+
+2022
+Data Exchange Platform
+
+2021
+Data Exchange
+
+2020
+Oasis Chain
+
+2019
+Launch Main-net
+
+2Q
+Test-net stabilization
+PoC application release
+Advanced Main-net(IBC,FEDSS)
+
+1 – 4Q
+
+1–4Q
+Release domain chain hub
+Launch data exchange Platform
+Apply AI & machine learning
+technology
+
+Launch de-fi Platform
+Implement NFT protocol
+Launch Glance service
+Launch Data Exchange
+Release advanced application
+(homomorphic encryption
+
+1–4Q
+Release communication
+protocol & CDM
+Release OASISBloc MVP and
+Data marketplace
+Establish data standardization for
+Data trading
+Implement inter-chain protocol
+Launch test-net
+Launch Main-net
+
+Figure 20. Roadmap
+
+64
+
+The Oracle of Blockchain
+
+Plans for ecosystem development
+8.1 Marketing plan
+8.2 Partnership plan
+
+65
+
+The Oracle of Blockchain
+
+8. Plans for ecosystem development
+8-1. Marketing plan
+
+1) Objective & goal
+Raise platform value through recruiting excellent Domain Chains
+Improve brand awareness of OASISBloc
+Improve accessibility to blockchain for SME that requires blockchain
+2) Strategy
+Enhance USP as a blockchain platform for data trading and management
+Statement: OASISBloc is the 1st blockchainized data platform for trading
+useful data and value between real businesses.
+3) Marketing schedule
+The token sales are divided into two stages (presale and IEO)
+Optimized marketing plans according to stages (detailed schedule TBD)
+On-going marketing for listing and valuation
+4) Key activities
+Promotional activities through participating in major blockchain events and
+hosting regional meet-ups
+Improve quality and global reputation by selecting blockchain, AI, and big
+data related advisors
+Implement IMC through roadshow/meet-up/media/SNS channels
+Continuous PR of OASISBloc through global PR agencies to enhance value
+5) Marketing Materials
+Development of marketing materials for target group and IMC
+
+8-2. Partnership plan
+
+OASISBloc has a feature that creates synergy for data by effectively matching
+the ecosystem and partners in the platform based on healthy alliances.
+OASISBloc is planning to establish partnerships that will expand the
+ecosystem by providing various incentives for all partners on the platform.
+The OASISBloc ecosystem consists of three main components.
+① Partner companies joining as Domain Chains
+② Companies that provide infrastructure technology (AI, big data etc.)
+required for the platform
+③ Other blockchain core technology companies/teams for interchain
+expansion
+1) Domain Chain partner
+The Domain Chain partnership is categorized into three types.
+① Type A: Propose business expansion model for companies that have
+good technology but are still in their growth stage.
+② Type B: Provide solutions by understanding the needs of companies
+that have already accumulated a large amount of data in order to
+increase the number of Domain Chains and to activate high-quality
+data trading.
+③ Type C: Expand partnership with multinational companies to maximize
+synergy through data transactions.
+
+66
+
+The Oracle of Blockchain
+
+8. Plans for ecosystem development
+8-2. Partnership plan
+
+The procedure for Domain Chain registration and evaluation is as below.
+
+Figure 21. Process for Domain Chain
+registration and evaluation
+
+When applying for Domain Chain registration, companies are required to
+submit the basic information of the representative, company introduction,
+project description etc. The procedure for evaluation is as follows.
+① Evaluation committee (including OIC members) will be formed
+② Analyze key competency of the applicant partner
+- Technology evaluation
+- Analysis of current technology, project, and competitiveness
+- Analysis of probable contribution to platform improvement based on
+project contents
+- Analysis of economic effects and expansion of related market size
+③ Project evaluation
+- Evaluation of project validity
+- Evaluation of budget
+- Analysis of data applicability and connections with other Domain Chains
+- Possibility of connecting with customers in demand for platform
+④ Disclosure of evaluation result and voting
+- Disclosure of key competence and project evaluation result
+- Create smart contract and conduct a vote with BGs
+The scope of service for Domain Chains will be decided according the
+evaluation results. The benefits through the platform are as below.
+① Education services for platform
+② Support registration and distribution of DApp based on platform store
+③ Promotional activities through project registration
+④ Support on marketing tools for a certain period (platform, social network,
+email, newsletter)
+⑤ Provide target customer DB and support utilization
+⑥ Introduce collaborative companies and partners
+⑦ Provide communication channels with customers through OASISBloc
+platform community
+⑧ Provide contact points with customers through subscription system
+⑨ Diversification of support range by grade
+- Grade: Register > Standard > Advanced > Premier
+- Grade criteria
+·The initial grade will be determined by OIC evaluation
+·Periodic evaluation according to the status of sales and services after
+the project is launched
+
+67
+
+The Oracle of Blockchain
+
+8. Plans for ecosystem development
+8-2. Partnership plan
+
+- Detailed supports for each grade
+·Able to use education and marketing program, PR, and data storage
+·Able to use management service program
+·Supports on hosting seminars for platform customers and able to use
+recommended services
+·Able to access specialized services such as case studies, consulting etc.
+based on data
+Every Domain Chain partners have the following responsibilities for the
+maturity and development of the OASISBloc platform ecosystem.
+① Support, guidance, and education for healthy operation of the platform
+② Discuss and implement the proposal for improvement and examine the
+status of the project proposed by OIC
+③ Support for discovery of new Domain Chain through partial return of
+profit based on platform
+2) Platform partner
+Platform partners are part of the OASISBloc platform which is an internal
+partner that works directly within the platform. They do not go through the
+Domain Chain registration process. Platform partners effectively collects and
+analyzes the data generated from each Domain Chain to create added value
+and match the optimized data to each Domain Chain.
+
+Platform partners are categorized as follows.
+① Big data partner: creates added value by analyzing the data from each
+Domain Chain
+② AI partner: maps optimized data to each Domain Chain based on the value
+added data through big data analysis
+③ Auto contract partner: technically supports automatic exchange value of
+data in Domain Chain through auto contract when data is traded in the
+OASISBloc platform
+④ IoT partner: technically supports for transmitting and processing IoT data
+generated and accumulated from IoT devices in Domain Chains
+⑤ Cloud partner: infrastructure for Oasis Chain and Domain Chain node
+operation
+3) Blockchain tech partner
+Blockchain tech partner is a technology partner for the second development
+stage to implement the interchain when the OASISBloc platform and its
+partners have reached a stable growth stage. Blockchain tech partner is other
+blockchain core technology companies/teams and they will collaborate with
+OASISBloc’s blockchain core team to increase platform versatility.
+
+68
+
+The Oracle of Blockchain
+
+Team
+9.1 Our team
+9.2 Our advisors
+
+69
+
+The Oracle of Blockchain
+
+9. Team
+9-1. Meet our team
+
+William Chun
+
+Jason Cho
+
+Founder & CEO
+
+CMO
+
+Korea Fintech Platform
+Forum / President
+
+Marketing Team
+
+Dylan Wonseok Choi
+CTO
+
+Hyung Man Yoon
+
+Blockchain Lab
+
+Felix Choi
+Full Stack
+Development Director
+Platform Team
+
+Marketing Director
+Marketing Team
+
+Young Seol Kim
+Core Developer
+Blockchain Lab
+
+Eun Ji Joo
+Full Stack
+Development
+Developer
+
+Dae Hee Jang
+Full Stack
+Development
+Developer
+
+Platform Team
+
+Platform Team
+
+70
+
+The Oracle of Blockchain
+
+9. Team
+9-1. Meet our team
+
+Jeremie Seo
+Blockchain Strategy
+Director
+Strategy Planning Team
+
+Dave Shin
+Communication
+Manager
+Strategy Planning Team
+
+Ye Seul Kim
+UI/UX Designer
+Design Team
+
+Ji Hyun Choi
+Strategy Manager
+Strategy Planning Team
+
+Sung Yong Kim
+Strategy Planner
+Strategy Planning Team
+
+Joseph Park
+Overseas Business
+Development Director
+Business Development
+Team
+
+71
+
+The Oracle of Blockchain
+
+9. Team
+9-2. Our advisors
+
+Eddy Travia
+
+Dr. Thomas C.
+
+Chief Advisor
+
+Bachtold
+
+CEO at Coinsilium
+
+Legal Advisor
+Attorney-at-Law
+
+Hyoung Joong Kim
+Technical Advisor
+Professor at Korea
+University
+
+72
+
+The Oracle of Blockchain
+
+9. Team
+9-3. Partners
+
+Strategic Partners
+
+DoubleChain
+
+COINSILIUM
+
+CORNET
+
+BMI
+
+Domain Chain Partners
+
+accubits
+
+HUPAYX
+
+NuCypher
+
+Momentum
+PROTOCOL
+
+KOREA UNIVERSITY
+MEDICAL CENTER
+
+BlockchainCars
+
+SoftNet
+
+Mirai Securities
+
+HANKOOK Tire
+
+MobileBridge
+
+KOREA UNIVERSITY
+
+BIT LINK
+
+DigiEntertainment
+
+thinkforbl
+
+addit
+
+MEGAZONE CLOUD
+
+FORBIZ KOREA
+
+We Biztech
+
+MADAMM
+
+UZEN
+
+SCHOOL OF CYBERSECURITY
+
+73
+
+The Oracle of Blockchain
+
+9. Team
+9-3. Partners
+
+Domain Chain Partners
+
+HARVEST Q
+
+ERA KOREA
+
+COINSWALLET
+
+LION SECURITY
+
+NOVATECH
+
+HASHNET
+
+KANAXIS
+
+RUSSELL
+
+WWI JAPAN
+
+ASIA
+BLOCKCHAIN
+REVIEW
+
+Enjoy-works
+
+WISENUT
+
+KOREA GOLD
+STANDARD
+
+KAY
+
+Tuple Technologies
+
+LVL 88
+
+ABTL
+
+MEDIBIG
+
+CENTURY21
+
+KeyoPass
+
+SNC Lab
+
+HUNIVERSE
+
+MODU IT
+
+IoTcube
+
+74
+
+The Oracle of Blockchain
+
+Legal disclaimer
+
+75
+
+The Oracle of Blockchain
+
+10. Legal disclaimer
+10. Legal disclaimer
+
+Please go through this “Legal disclaimer” carefully and in its entirety.
+This document is intended for informational purposes only. This document
+does not constitute a prospectus or offer document of any sort. This
+document also does not constitute and is not intended to be, an offer to buy
+or sell, or otherwise transfer, or an invitation, advertisement,
+recommendation, advice, or inducement to invest in or make a commitment
+to invest in, any capital markets products, securities, options, or any other
+investment or financial instruments, in any jurisdiction. In particular, please
+note that this document has not been filed with, reviewed or approved by
+any regulatory authority.
+Please note the following:
+1. This document has been prepared and issued by Foundation Oasis Ltd.
+(Company Registration No. 201835937N) (“Foundation Oasis“), a company
+incorporated in Singapore, based on the views and plans of Foundation Oasis
+as of the date set out on the cover page of this document.
+2. The purpose of this document is to provide a general introduction to the
+OASISBloc project (the “Project”) and the OASISBloc token (“OSB token”) to
+potential token holders to assist them in determining whether further due
+diligence may be required. The information in this document is only intended
+to provide general and preliminary information to potential token holders
+and should not be construed as the basis of any investment decision or
+strategy.
+3. The information in this document has been compiled from sources
+believed to be reliable. There is no assurance as to the accuracy or
+completeness of such information and no representation, warranty or
+undertaking is or purported to be provided as to the accuracy or
+completeness of such information. Where this document includes
+information that has been obtained from third party sources, Foundation
+Oasis has not independently verified the accuracy or completeness of such
+information.
+4. Before participating in the token sales or taking any action in connection
+with the token sales, you should consider the information in this document
+carefully, and consider whether you understand what is described in this
+document. This document does not constitute any form of advice and should
+not be relied upon in connection with any decision to participate in the token
+sales or to otherwise purchase or acquire any right to obtain the OSB tokens.
+If you are in doubt as to the action you should take, please consult your
+financial, legal, tax, technical or other professional advisors.
+
+76
+
+The Oracle of Blockchain
+
+10. Legal disclaimer
+10. Legal disclaimer
+
+5. Unless otherwise notified or agreed by Foundation Oasis in writing, the
+sale and purchase of all OSB tokens during the token sales shall be governed
+by a separate agreement known as the "OSB Token Sale Terms and
+Conditions", which shall be separately provided to you or made available on
+the OASISBloc official website at www.oasisbloc.io. No person is bound to
+purchase any OSB tokens, and no purchase or payment would be accepted,
+on the basis of this document. In the event of any conflict or inconsistency
+between the "OSB Token Sale Terms and Conditions", this document and any
+other document, the "OSB Token Sale Terms and Conditions" shall prevail to
+the extent of the conflict or inconsistency unless otherwise specified in
+writing by Foundation Oasis.
+6. Financial authorities in the United States, Singapore, China, Switzerland,
+Germany and other jurisdictions have tightened their policies regarding Initial
+Coin Offerings (ICO).
+OSB tokens are not intended for sale or use in any jurisdiction where the sale
+or the use of digital tokens is prohibited. For more information on
+jurisdictions that are excluded for the token sale, please refer to the "OSB
+Token Sale Terms and Conditions". Please read the "OSB Token Sale Terms
+and Conditions" carefully before considering purchasing of OSB tokens.
+7. As set out in the "OSB Token Sale Terms and Conditions", OSB tokens carry
+no rights other than a limited right to use and interact with the services
+enabled by the OASISBloc platform, if and to the extent that the platform is
+successfully developed and launched, and subject always to such terms and
+conditions imposed by Foundation Oasis. OSB tokens do not confer and
+should not be construed to provide any financial, legal or other rights in any
+form apart from the rights expressly described in the "OSB Token Sale Terms
+and Conditions".
+8. Purchase of digital tokens is a high risk activity considering the unstable
+regulatory frameworks and market volatility. Potential token holders should
+carefully consider and evaluate all risks and uncertainties associated with a
+purchase of OSB tokens. If any such risks or uncertainties materializes, it
+could have a severe negative impact on the token sales, OSB tokens,
+Foundation Oasis and OASISBloc. Please carefully review and assess the
+terms applicable to OSB tokens and the token sale as well as the risks
+involved before deciding whether or not to participate in the token sale. Only
+prospective token holders with a sound understanding of digital assets and
+those that have read and understood the "OSB Token Sale Terms and
+Conditions" should purchase OSB tokens.
+
+77
+
+The Oracle of Blockchain
+
+10. Legal disclaimer
+10. Legal disclaimer
+
+9. The information contained in this document is of a descriptive nature for
+general information only, and is not legally binding. This document does not
+constitute any offer by Foundation Oasis to sell any OSB tokens nor shall it or
+any part of it nor the fact of its presentation form the basis of, or be relied
+upon in connection with, any decision to participate in the token sales.
+Nothing contained in this document is or may be relied upon as a promise,
+representation or undertaking as to the future performance of OSB tokens,
+the token sales or OASISBloc. Further, nothing contained in this document is
+a representation, warranty or undertaking of the accuracy or fulfillment of
+any particular matter at any given point in the future, and Foundation Oasis
+disclaims any representation or warranty that it will execute any specific
+action or guarantee specific results regarding any matters described in this
+document.
+10. All statements other than statements of historical facts included in this
+document, including, without limitation, statements regarding business
+strategy and plans, estimates of returns or performance, and objectives for
+future operations, are forward-looking statements. In addition, forwardlooking statements can generally be identified by the use of forward-looking
+terminology such as "may", "will", "should", "could", "expect", "anticipate",
+"estimate", "predict", "intend", "plan", "intend" or "believe", their respective
+negatives and other comparable terminology. However, you should note that
+these words or phrases are not the exclusive means of identifying forwardlooking statements.
+11. Forward-looking statements address matters that involve risks and
+uncertainties. Accordingly, there are or will be important factors that could
+cause Foundation Oasis’ actual results to differ materially from those
+indicated in these statements. These factors include but are not limited to
+the risk factors set out in the "OSB Token Sale Terms and Conditions". Any
+forward-looking statements in this document reflect Foundation Oasis’
+current views with respect to future events and are subject to these and
+other risks, uncertainties and assumptions relating to Foundation Oasis'
+operations, results of operations and growth strategy.
+12. Forward-looking statements in this document speak only as of the date
+appearing on the cover page of this document. Foundation Oasis undertakes
+no obligation to publicly update or review any forward-looking statement,
+whether as a result of new information, future developments or otherwise.
+All subsequent written and oral forward-looking statements attributable to
+Foundation Oasis or to individuals acting on behalf of Foundation Oasis are
+expressly qualified in their entirety by this paragraph. Prospective token
+holders should specifically consider the risk factors identified in the "OSB
+Token Sale Terms and Conditions" which could cause actual results to differ
+from expected results before making a decision to purchase OSB tokens.
+
+78
+
+The Oracle of Blockchain
+
+10. Legal disclaimer
+10. Legal disclaimer
+
+13. This document may be amended, supplemented or modified by
+Foundation Oasis (in its absolute discretion) at any time to provide more
+detailed information or to reflect changes in circumstances. In such cases,
+the latest version of the document shall prevail over all prior versions.
+Foundation Oasis is under no obligation to provide any notifications or
+notices of updates or changes to this document. The latest version of this
+document can be accessed by visiting the OASISBloc official website. You
+should therefore regularly check this website to determine whether there is
+an updated version of this document.
+14. Although Foundation Oasis makes an effort to ensure that the latest
+version of this document is relevant and accurate, potential token holders
+must not rely on the information provided in this document as an alternative
+to professional advice from qualified third party advisors.
+15. If you have any specific doubts or questions about legal, financial, tax or
+other issues related to this document or the "OSB Token Sale Terms and
+Conditions", you should consult an appropriately qualified professional
+advisor.
+16. The English version of this document is the official version of this
+document and is the primary source of information about the Project.
+17. Information contained in this document may, from time to time, be
+translated into other languages, used in writing, or used verbally to
+communicate with existing or potential token holders, partners, or any other
+parties. In case there is a conflict or inconsistency between the translated
+versions and the official English version, the English version shall prevail.
+18. Neither Foundation Oasis nor its related corporations will be liable for any
+damages or losses (whether actual, punitive, special, incidental,
+consequential, exemplary or otherwise), including but without limitation to
+loss of profits, income, revenue, use, production, anticipated savings,
+business, contracts, commercial opportunities or goodwill, that may arise
+directly or indirectly from the information contained in this document.
+
+79
+
+The Oracle of Blockchain
+
+References
+
+80
+
+The Oracle of Blockchain
+
+11. References
+11. References
+
+1. https://www.computing.co.uk/ctg/news/3018115/data-breaches-in-2017totally-eclipse-2016-already
+2. https://newsroom.ibm.com/2018-07-11-IBM-Study-Hidden-Costs-of-DataBreaches-Increase-Expenses-for- Businesses#assets_all
+3. What’s the Big Deal With Data? The Software Alliance BSA, 2015.
+https://data.bsa.org/wp-content/uploads/2015/12/BSADataStudy_en.pdf
+
+4. Getting Health data sharing off the ground. 2018.8.
+https://www.ethz.ch/en/news-and-events/eth-news/news/2018/05/gettinghealth-data-sharing-off-the-ground.html
+5. ETSI ISG CIM introduction. 2017.9, ETSI
+6. Linked Open Data. 2015.4, Korean National Information Society Agency
+7. Issue report_2017-004_Prospects and implications of industrial and social
+use of blockchain. 2017.9, Software Policy and Research Institute
+8. EOSIO Whitepaper 2.0
+https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePape
+r.md
+
+9. StorJ, https://storj.io/storjv3.pdf
+10. Analysis of research trend and blockchain. 2018.07, KERC, mentor Sung
+Gyo Jung
+11. [4th Industrial Revolution] Korea-China comparison of big data
+transactions, April 2018, Korea International Trade Association, Institute for
+International Trade
+
+81
+
+82
+
+

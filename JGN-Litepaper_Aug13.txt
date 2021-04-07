@@ -1,0 +1,235 @@
+JGN
+The World’s First DeFi
+Commerce Infrastructure
+
+LITEPAPER
+
+Draft for community review.
+
+Contents
+
+Understanding DeFi & Project Overview
+
+Page 3
+
+First Case Study: jSKM DeFi Synthetic Partnership
+
+Page 5
+
+Partnership Technology Infrastructure
+
+Page 8
+
+Juggernaut Name Inspiration
+
+Page 9
+
+JGN Token Economics
+
+Page 10
+
+Conclusion
+
+Page 11
+
+2
+
+Understanding DeFi & Project Overview
+DeFi Infrastructure is the tools and services you need to participate in the most exciting financial shift of our time. The
+next evolution of DeFi will go beyond pure finance and into real-life financial use-cases and assets and has the power to
+fundamentally alter the bedrock of how we define value. We as a society need to re-evaluate beyond just the finance
+and banking systems. If we are to have a true decentralized revolution, we must examine and see the burgeoning power of
+DeFi applied to untapped, yet massive industries that are ripe for disruption.
+
+DeFi Has Changed Everything
+DeFi, short for decentralized finance—is the notion that crypto companies can recreate traditional financial instruments in
+a decentralized architecture, outside of companies’ and governments’ control. Decentralized Finance—often called DeFi
+or open finance—refers to the economic paradigm shift enabled by decentralized technologies, particularly blockchain
+networks. From peer-to-peer payment systems to automated loans to USD-pegged stablecoins, DeFi has emerged as one
+of the most active sectors in the blockchain space, with a range of use cases for developers, individuals, and institutions.
+(Source: https://consensys.net/blockchain-use-cases/decentralized-finance/)
+While DeFi stands for decentralized finance, the fact it's permission-less is equally as important, perhaps more so in its
+current state. It means, essentially, that anyone can use these services, with the only barrier to entry being a little bit of
+technical knowledge.
+Say you're living in a country whose sovereign fiat currency has a fast-increasing rate of inflation. Instead of saving in that
+currency and effectively seeing your capital dwindle, you could turn your money into a U.S. dollar-backed stablecoin and
+get a decent return rate on top of that. Of course, if U.S. dollars aren't your currency of choice, you can use DeFi to invest
+into other fiat currencies, and stablecoins that track the value of gold and other assets, etc. (Source:
+https://mashable.com/article/defi-growing-fast/)
+With fresh allegations of security and privacy of large Telco’s, the argument for decentralized applications has become
+even more relevant. Now is the time to be a part of a piece of technology with the goal of becoming the next ‘AT&T’ that
+cannot be stopped.
+Introducing Juggernaut (JGN)
+Imagine if you could think of a business idea and add customized DeFi into its components. This is the JGN mission. The
+JGN ‘j’ token series will offer unique synthetic derivatives for specific business use cases. jSKM will be the first in the series.
+More business use cases are being explored and will be announced very soon.
+According to Coin Telegraph, the term “synthetic asset” refers to a mix of assets that have the same value as another
+asset. Traditionally, synthetics combine various derivative products — options, futures or swaps — that simulate an
+underlying asset — stocks, bonds, commodities, indexes, currencies or interest rates.
+
+3
+
+Understanding DeFi & Project Overview
+For example, rather than purchasing a stock, an investment firm may purchase a call option and sell a put option on the
+same stock. The use of synthetic assets here allows the firm to make use of multiple financial vehicles rather than a single
+investment asset.
+The high-end estimate for the value of all derivative contracts is upwards of $1.2 quadrillion — a number exponentially
+bigger than global real estate ($217 trillion), the global debt ($215 trillion), global stock markets ($73 trillion) and the
+world’s supply of gold ($7.7 trillion).
+On one hand, derivatives can be used to help take price risk out of a variety of assets like commodities to debt. On the
+other hand, derivatives can promote and exacerbate market inefficiencies, encouraging a zero-sum game among traders
+rather than creating true market value. The use of derivative products allows investors to earn returns without a physical
+settlement, arbitrage trade, transfer risk and hedge against price fluctuations.
+So, why do we need customized synthetic derivatives (non-commodities)?
+As previously described, most blockchain and cryptocurrency projects have failed because their business models are not
+sustainable and only lead to pump and dumps. Only platform (exchange) tokens (and only for a select few) and DeFi have
+worked as more sustainable business models due to staking and lock-in incentives.
+The DeFi market is expanding every day. As of today, August 25th, 2020, there is 6.75 Billion (USD) locked in.
+That means something.
+JGN hopes to change the structure that we have come to know and expect from other projects and incentivize its users
+with DeFi rewards for powering its unstoppable network.
+Create your own synthetic DeFi assets with JGN’s unique custom framework. Customize usage profit directly among users
+and holders, encourage greater liquidity, usage and adoption, and empower users with complete decentralized
+governance.
+Within 2 years of launch, nobody controls the project, only the users.
+JGN is the first of its kind.
+JGN is building the next generation of DeFi where traditional wall-street trading standards such as synthetic derivative
+rewards that can happen on-chain linked to multiple global standards. We will be building the entire project on
+blockchain.
+The blockchain technology is fundamental to our project because of its immutability and transparency, which instills trust
+in this new financial model. For instance, the governance token allows users to participate in market pool rewards and
+making decisions (ex. increasing the spread between buy and sell price to attract more liquidity to the pool).
+
+4
+
+First Case Study: jSKM DeFi Synthetic Partnership
+Phase I - First Case Study: Skrumble Network (SKM)
+Together, we will help them to build The World’s First Unstoppable DeFi Commerce Infrastructure.
+JGN is partnering with Skrumble Network to build the first DeFi powered unstopped communication network. However,
+after this first stage, which might be 12 to 18 months, we prove out the methodology and will aim to partner with another
+5 strategic partners to move to our business model expansion.
+Similar to the internet and mobile ages before it, a sustainable business model took time to become clear. Almost all the
+companies had to rely on rapid fundraising and cash burning cycles. A typical question now for most blockchain projects
+is “how long is the runway” to see how long a project can survive. However, as we all know, building something innovative
+is not enough. To make it sustainable, the token projects must develop their own sustainable business model.
+Blockchain technology has been building for years. However, for the crypto token space, starting from Bitcoin, which was
+popularized in 2009, it is has only been around for 11 years. We have already seen different waves and trends. However,
+the primary proven sustainable business models so far might be exchanges (and platform tokens) and DeFi.
+As the blockchain space evolves, decentralization will continue to be the essence of blockchain projects and their
+communities. Therefore, JGN is solving the problems for most tokens projects, to help them build and run a sustainable
+business model. More specifically, over the past few months of development for our first case study, which is also one of
+our most important initial partnerships, we are going to work with SKM to embrace their vision – build a unstoppable
+communication network plus our DeFi model. We are going to leverage 1% of our total JGN ecosystem tokens for this
+partnership.
+Phase II: Modular Expansion to Other Projects
+For the second stage, we will invite another 5 projects, and allocate 2% for each project for our second year.
+Subsequently, we will enable 10 projects, to allocate 1% per project for our year 3.
+Year 1: 10% of the ecosystem tokens
+Year 2: 10% of the ecosystem tokens
+Year 3: 10% of the ecosystem tokens
+Others – mining system
+
+5
+
+First Case Study: jSKM DeFi Synthetic Partnership
+Phase I – SKM Partnership
+The world’s first anonymous, unstoppable communication network that offers its own synthetic DeFi asset; JGN
+contributes usage profit directly among its users and holders, encouraging greater liquidity, usage and adoption, enabling
+users with unlimited benefits and complete decentralized governance.
+Built on multiple tech providers, including the industry leading Skrumble Network (SKM) protocol, JGN leverages an
+ecosystem run on physical VPN modulators to break through firewalls and deliver freedom of speech.
+Global Demand for VPN is Rising.
+VPN is More in-Demand than Ever. VPN is a secure solution that allows its users to send and receive data via the internet
+while maintaining the privacy and confidentiality of their data, based on its encryption level.
+Main advantages of VPN include:
+Enhances security
+Remote control
+Share files
+Online anonymity
+Unblock websites and bypass filters
+Change IP address
+Better performance
+Reduce costs
+Example of the benefit of using VPN:
+Person A lives in Canada and wants to watch American Netflix for better shows and movies.
+Person A uses VPN, changes their IP address to somewhere in the USA.
+Person A can now sign up for American Netflix and utilize a larger variety of streaming options.
+The problem with current VPN solutions is that they are subject to being shut down or banned in certain countries. JGN
+hopes to change that and incentivize its users with DeFi rewards for powering its unstoppable network.
+
+JGN Mining Machines Power the Juggernaut VPN
+
+6
+
+First Case Study: jSKM DeFi Synthetic Partnership
+Operation support system supports fine management of users
+Analyze VPN bandwidth requirements based on user VPN usage and provide bandwidth configuration strategies
+Manage VPN resources
+Formulate an address conversion strategy and initiate VPN configuration address conversion to the terminal
+according to situation
+
+Physical, Unstoppable Mining Machine Infrastructure
+Users must stake JGN for mining machines, while staking JGN for a designated time period is required to receive the DeFi
+bonus. This is subject to change based on market dynamics.
+How It Works
+Miners are light nodes, and background services provide standard mining pool services, and the mining pool completes
+the actual SKM deduction and reward distribution.
+When the reward is distributed, the reward enters the corresponding address of the terminal
+Users can access via mobile phone Wi-Fi to extract rewards
+Users generate the decentralized VPN function and consume SKM tokens
+The consumption rule of SKM tokens depends on the bandwidth and duration
+VPN usage records are not stored, users can learn about VPN usage through SKM currency transaction records
+The VPN switch is realized by hardware, and the user's mobile phone does not need to be configured
+The terminal supports remote VPN address conversion
+
+7
+
+Partnership Technology Infrastructure
+
+8
+
+Juggernaut Name Inspiration
+Where did the name Juggernaut come from?
+Juggernaut is a fictional character appearing in American comic books published by Marvel.
+Juggernaut is known for being a strong, impenetrable force.
+So, this an homage to the incredible Marvel character Juggernaut… because he’s unstoppable!
+
+*All rights of Juggernaut images belong to Disney/Marvel, we just love the character.
+
+9
+
+JGN Token Economics
+150,000,000 Total JGN Supply
+Uniswap, Balancer & DeXs before listing: 1%, no lockup
+Private Sale: 4%, 3 month lockup (linear vesting)
+Team & Advisors: 5%, 24 months lockup (linear vesting)
+Strategic Ecosystem Building & Partnerships: 10%, 18 months lockup
+(linear vesting)
+Foundation: 20%, 24 months (linear vesting)
+Yield Farming & Collateral System: 60%, 36 months lockup
+
+10
+
+Conclusion
+As the blockchain space evolves, decentralization will continue to be the essence of blockchain projects and their
+communities. Therefore, JGN is solving the problems for most tokens projects, to help them build and run a sustainable
+business model.
+With ‘j’tokens, users would be able to accept, allocate and distribute profits, pay commissions, dividends and much more
+using custom synthetics. These synthetics will also be able to be leveraged and used within the Ethereum ecosystem, for
+such purposes as trading or any one of the many others available on the blockchain. Users can add liquidity and offer their
+custom synths to the world to buy.
+JGN is the first trust-less, unstoppable commerce network that offers custom synthetic DeFi assets to fit any business use
+case. With JGN’s custom ‘j’ series synthetics, the potential is limitless. If you can dream it, you can do it.
+
+11
+
+JGN
+The World’s First DeFi
+Commerce Infrastructure
+contact@jgndefi.com
+
+LITEPAPER
+
+Draft for community review.
+
+

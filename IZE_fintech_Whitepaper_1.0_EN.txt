@@ -1,0 +1,1426 @@
+IZE BLOCKCHAIN
+TECHNOLOGY
+IZE Token Project
+
+IZE Fintech Blockchain
+White Paper ver 1.0
+
+Table of Contents
+
+01 Background
+02 IZE Project
+03 IZE Blockchain Technology
+04 Token Issuance
+05 Team Members
+06 Partners
+07 Roadmap
+08 Disclaimer
+09 References
+
+IZE fintech | White paper ver 1.0
+
+1. Background
+1) Background of the Project
+The birth of Bitcoin in 2008 has brought forth the emergence of blockchain technology. The
+techonology is considered to be a value-creating platform technology that will lead the 4th
+Industrial Revolution along with A.I., Big Data, IoT, AR, VR, and other cutting edge technologies.
+Among these, the Big Data technology has high potential to advance with the use of blockchain.
+In the age of blockchain, all data is considered as valuable digital asset that can be used in various
+ways. Behaviors of individuals, corporates, operations of different countries and other
+information are stored as big data, which is used to analyze the consumers of different markets
+and predict the future.
+IZE Fintech Project is based on a vision which a brings all the dispersed information in the world
+on a platform to provide it to the data consumers in timely manner. With this vision, we are met
+with the issue of extracting the valuable data without infringing the privacy of the information
+provider. To overcome this matter, IZE undertakes the following missions:
+Mission 1: A blockchain technology that protects the information and its provider and provides
+compensation for sharing information.
+Mission 2: An Artificial Intelligence (AI) technology and functions to collect fragmented data
+Mission 3: A blockchain technology that recreates the collection of fragmented data into valuable
+data to the data provider and provides appropriate compensation.
+The existing blockchain projects related to data mostly deal with the usage of personal
+information. This phenomenon is due to the foundations’ focus on token ecosystem
+development to create economy for the progress of the business created by the foundations.
+However, IZE focuses on data provision ecosystem which is a prerequisite to creating data usage
+ecosystem by different industries.
+IZE Blockchain team believes that mission projects such as IZE must be successfully implemented
+to bring lasting innovation to the data industry market.
+
+3
+
+IZE fintech | White paper ver 1.0
+
+1. Background
+
+2) Status of Data Market
+In the 4th Industrial Revolution, data connects different industries. As information is shared
+among different industries, a new type of business collaboration is made possible. The vast scope
+of shared information can be used to create various business models to generate more values to
+the participants.
+As the forerunner of the 4th Industrial Revolution, AI and Big Data markets are enjoying
+exponential growth, while the importance of Big Data industry is increasing to aid the
+advancement of A I industry. This means business is driven by data, and the future of business
+will depend on the how well the data is utilized. Such data are being shared according to the
+needs of the different industries. During the process, the data is reformed and reproduced to
+create even greater scale of Big Data to generate new types of business.
+According to “Data Industry Market Report” the data distribution market size is expected to
+increase from 69.6 billion USD in 2015 to 132.3 billion USD in 2020.
+
+Data Industry Market
+69.6B USD in 2015
+
+Data Utilization Information Service Market
+1.5 T USD in 2016
+
+132.3B USD in 2020
+
+[Size of Global Data Market]
+451 Research ‘Data Industry Market Report’, Outsell ‘Information Industry Outlook 2017’
+
+4
+
+IZE fintech | White paper ver 1.0
+
+1. Background
+
+3) Issues in the Data Market
+
+-
+
+Security of the Collected Private Information
+
+Private information of the information provider is at risk of hacking, and damages occurred from
+such accidents are growing. One of the major banks in the U.S., Capital One was hacked, leaking
+personal information of 106 million customers. The customers’ information was found to be
+stored on Amazon Cloud, causing even more concern that even the data storage service of large
+cloud service firm could not guarantee complete security on the stored data.
+Service providers and other corporates are storing personal information on internal storage
+system, increasing the risk of being hacked and other leakages. Companies are investing a great
+amount of time and expense to protect their information, but security of the data protection is
+not such an easy task as the hackings are taking place all over world.
+Major Personal Information Hacking Incidents
+
+Major Personal Information Hacking Incidents
+
+(Unit: 100M people)
+
+30
+
+Yahoo
+
+MS
+
+3.39 in 2018
+
+Marriott
+Equifax
+
+(Unit: %)
+
+Amazon
+
+1.48 in 2017
+
+Heartland Payment
+
+1.30 in 2009
+
+LinkedIn
+
+1.17 in 2016
+
+* Leaked Personal Information
+
+Source: Wall Street Journal
+
+33
+*2Q. 2019
+
+16
+Google
+
+8
+Source: Synergy Research Group
+
+5
+
+IZE fintech | White paper ver 1.0
+
+1. Background
+
+3) Issues in the Data Market
+
+-
+
+No Appropriate Valuation on Private Information
+
+Information providers are not properly compensated for their shared information.
+Information providers believe that their agreement to share information in limited within
+their signed membership services, but this is not true. From the perspective of information
+collector, the private information creates a new value regardless of the information
+provider’s usage of service. Major internet service providers have access to exclusive
+personal information that can generate massive profit, thus causing unreasonable
+transaction structure.
+
+-
+
+Increased Diversity and Efficiency in the Big Data Information Market
+
+Big Data technology generates, collects, analyses, and expresses massive scale of information
+collected all over the world. Big data is useful in forecasting the various areas of our society for
+efficient operation, while providing customized information for each person and realize
+innovative technologies that were thought to be impossible in the past.
+According to Gartner Inc., the size of Big Data will increase from 40 Zettabytes(ZB) in 2020 to
+170ZB in 2025.
+Global Data Generation
+Source: Gartner
+
+Global SNS Users
+
+(Unit: Zettabyte)
+
+2B
+
+Facebook
+
+40
+
+30
+
+(Unit: person)
+
+*As of Sep. 2017. Source: Statistica
+
+*Zettabyte
+Multiple of the unit byte for digital
+information. The prefix zetta indicates
+multiplication by the seventh power of
+10000 or 1021
+
+1.5B
+
+Youtube
+Whatsapp
+
+1.3B
+
+20
+
+Facebook
+Messenger
+
+1.3B
+
+10
+
+WeChat
+QQ
+
+963M
+850M
+
+0
+2011
+
+2012
+
+2013
+
+2016
+
+2020
+
+Instagram
+
+700M
+
+6
+
+IZE fintech | White paper ver 1.0
+
+The expanding size of big data is mostly due to the use of SNS. Experts foresee that most of the
+information will be regenerated through SNS. As of 2017, the total number of Facebook users are
+2 billion, Instagram 700 million, and 300 million for Twitter. According to recent statistics, the
+number of SNS users increase 800 per minute. Newsfeed, shares, and other activities add to the
+big data.
+However, the value and accuracy of the data depends on analysis. Data should be approached
+from the perspective of demand and usage, thus it is important to improve the understanding
+and usage of the data. Most corporates are currently working on improving their ways of utilizing
+collected data. According to IDC, the total profit generated from big data and business analysis
+will increase from 130 billion USD in 2016 to 203 billion USD in 2020, which is at annual average
+growth rate of 11.7%.
+Weapons of Math Destruction, a book written by Harvard mathematician and hedge fund analyst
+Cathy O’Neil, warns the danger of big data exploitation to criticize the current trend on
+unregulated reliance on data usage. O’Neil explains how big data based on logic and practicality
+can reinforce preexisting inequality. The book emphasizes the importance of human analysis on
+the big data.
+Recently, corporates have begun to hire chief data officers (CDO) to properly analyze the collected
+data to make the best possible decisions. Such movement illustrates how blockchain technology
+can be applied to manage the diversity and efficiency of big data.
+
+7
+
+IZE fintech | White paper ver 1.0
+
+-
+
+Bilateral Trust on Data
+
+As demands for data increase, the providers and users of information question the reliability of
+information and its protection. While the providers cannot see if their information has been
+accurately presented to the users, while the users are burdened with evaluating the reliability of
+the information they have acquired. To improve such shortcomings, information providers must
+have access to a transparent information sharing system, while the information evaluation tool is
+made available to the users. Such evaluation system must be undertaken by a third party, making
+blockchain an ideal technology to take on the role.
+The implementation of a decentralized consensus mechanism within the blockchain ecosystem
+enables all participants to update the reliability of data. This structure will allow users to access
+the most updated data at all times, creating efficient use of the data for improved performance.
+
+-
+
+Data Marketplace
+
+The value of the provided information is determined by the provider and user’s agreement. The
+bilateral consent mechanism must be designed to enable the two parties to decide the value of
+the information without the interference of a third party, while allowing experts to take part in the
+evaluation to improve the reliability of the price.
+
+8
+
+IZE fintech | White paper ver 1.0
+
+2. IZE Project
+The following illustrates the model of our blockchain project, which aims to seek efficiency of information
+acquisition, diversity of information, and to protect the privacy of information provider.
+
+1) IZE Blockchain Development Summary
+
+-
+
+Strategy 1: Data Acquisition Strategy
+
+Maximize the amount of data acquired through dualistic method of active and passive data
+collection.
+-Active Data Acquisition: data collected through surveys and direct questions to the information
+holder
+-Passive Data Acquisition: Processing information that the information holder has provided on
+webpages and other medium.
+In active data acquisition, IZE Application will be used to send out online questionnaires and
+surveys to the users to acquire data. The information provider will receive IZE token as reward.
+In passive data acquisition, IZE Add on, a web and mobile Chrome expansion application will be
+used to process the users’ information with an AI solution. The information provider will be
+rewarded IZE tokens for installing the IZE Add on and the time spent on web crawling. Also, IZE
+Mainnet maintenance expense will be compensated by IZE Staking on IZE Add-on.
+
+-
+
+Strategy 2: Information Storage and Protection Strategy
+
+To secure protection on the acquired information and prevent hacking, Stroj storage and
+InterPlanetary File System (IPFS) uses encrypted blockchain-based database and distributed
+blockchain systems. Confidential information is protected by zero-knowledge proof mechanism.
+
+-
+
+Strategy 3: Information Process Strategy
+
+General purpose Spark technology is suitable for AI technology solution to implemented to
+process big data. Spark is ideal in implementing large-scale big data analysis and machine
+learning application programs.
+IZE project aims to strategize blockchain information technology for data to complete IZE
+missions and its business objectives.
+
+9
+
+IZE fintech | White paper ver 1.0
+
+2. IZE Project
+The following illustrates the model of our blockchain project, which aims to seek efficiency of information
+acquisition, diversity of information, and to protect the privacy of information provider.
+
+2) DApp Feature
+
+-
+
+IZE Application
+
+IZE Application collects information provided online or on mobile to share the collected data to
+users who need it.
+Information collection is undertaken within the range of information that can be directly
+rewarded, such as areas listed below.
+IZE project enables the development of information sharing DApp by using data targeting
+algorithm that connects information providers and users. DApp providers are given the right to
+create nodes on IZE blockchain. DApp users can collect data using various devices.
+
+Information sharing DApp provider
+(Corporate)
+Information
+Provider
+(Individuals)
+
+AI Data Targeting Algorithm
+
+Information
+User
+(Individuals,
+corporates)
+
+Targets information holders
+Online, mobile research
+Commission research on specific topics
+Spot preference surveys
+Product, service preference surveys
+Media, politics, culture preference surveys
+
+10
+
+IZE fintech | White paper ver 1.0
+
+Information users can access more meaningful information based on targeted researches on
+panels (information providers) analyzed by AI data targeting algorithm. This algorithm enables a
+more objective and rational model due to AI model participation of DApp provider.
+Incentives include: rewards for providing information and taking surveys, and referrals to
+increase the demands for information providers.
+Compensation for data from the panels (information providers) is made in IZE tokens through
+airdrops that meet the DApp providers’ node qualifications. Information users can purchase the
+information they need with IZE tokens.
+
+-
+
+IZE Add-On Web Browser Add-On Application
+
+This is used for collect data provided on web browsers by data owners. IZE Add On is developed
+in the form of a web browser add-on.
+
+11
+
+IZE fintech | White paper ver 1.0
+
+IZE Add On is an add-on application for Google Chrome. The application stores information
+collected from the information providers’ crawling. Web browser Add-on data is processed into
+meaningful information through analysis algorithm. Prior to the AI analysis, the information
+acquired through crawling must be evaluated on its contribution to data information ecosystem
+in order to process it into meaningful information. The value provided to the information
+ecosystem is in proportion to crawled time quantitative analysis, and blockchain algorithm of
+Proof of Value (PoV) in term of qualitative analysis.
+The method of Proof of Value (PoV) is based on the provision of information and its consumption.
+PoV is derived from the data usage excluding malicious purpose. In our PoV algorithm will include
+the measurement of consumption as well as a rating system created by the developer of IZE
+application.
+
+[Data PoV and Rating System]
+Proof of Value
+
+DApp provider
+
+Provider
+Evaluation
+
+Utility
+
+Data Registration
+
+Vote Registration
+on blockchain
+
+Data Evaluation
+
+Panel Evaluation
+
+Data Analysis
+
+Scalability
+
+Flexibility
+Nonfalsification
+
+AI Data
+Analysis
+and
+Recomm
+-endation
+
+Data
+Categorization
+Data
+Recommendation
+
+Compensation
+
+Compensation
+Ranking Change
+
+Rating Change
+
+12
+
+IZE fintech | White paper ver 1.0
+
+3) IZE Blockchain Structure and Ecosystem
+
+IZE proposes a service in which providers of information in various areas and the data users can take advantage of
+trustworthy transaction system based on blockchain so that the participants can reap rewards for sharing
+information and use the information to make profits.
+
+IZE project is designed to protect private information while seeking the efficiency of data
+information to meet the users demand. IZE application collects information the user needs to
+operate his business, while IZE Add On service rewards the big data participants with benefits
+and compensations through Add-On data analysis algorithm.
+IZE Project provides two solutions:
+1. IZE Application: this application is designed to motivate various participation of
+information providers. This is application enables research firms, DApp providers to
+affiliate for direct compensation and data sales.
+2. IZE Add On: IZE Add On browser scaling program analyses the users’ information through
+AI targeted analysis algorithm to provide meaningful information to advertisers and data
+sales market.
+Confidential information is protected through zero-knowledge proof mechanism, while Big
+data storage is distributed through IPFS to provide encrypted blockchain-based database.
+Spark technology is utilized to process big data to implement fast large-scale big data analysis
+and machine learning application program.
+IPFS Database
+
+[IZE Blockchain Structure and
+Ecosystem]
+
+3. De-identified user
+information stored
+4. Request information provision
+
+1. Provide user data
+
+Information provider
+
+7. Compensation (IZE)
+
+8.
+
+Ma
+
+eA
+
+IA
+
+na
+
+ge
+u
+
+Information User
+2. Store personal information
+
+Pr
+op
+
+os
+
+9.
+
+5. Purchase data (IZE)
+
+Dapp
+(Service Provider)
+
+se
+
+rd
+
+ata
+
+lgo
+
+rit
+
+hm
+
+Da
+ta
+
+e
+
+vid
+ro
+P
+.
+
+at
+a
+
+d
+ted
+e
+g
+r
+
+a
+rt
+
+e
+us
+
+6
+
+Ethereum Blockchain
+
+13
+
+IZE fintech | White paper ver 1.0
+
+4) Big Data Business Expanding in Fintech Platform Field
+
+IZE project aims to apply data processed from personal information to various business fields
+in fintech transaction platform. Individual information providers and the corporate,
+organizations, and agencies that utilize such information can create a data trading ecosystem in
+which all the participants benefit from a sustainable business environment.
+DApp providers of IZE ecosystem can also develop specialized DApps based on the information
+acquired from individuals.
+
+Organizations that utilize individuals’ information
+
+Finance
+
+Credit Card
+Companies
+
+Insurance
+
+Telecommunication
+
+Game
+
+Examples of Big Data Utilization
+● Finance: Analyze the user’s financial transactions to propose well-suited products
+● Credit Card Company: Analyze the user’s spending patterns to provide promotions
+
+and discounts.
+● Insurance: Analyze the user’s insurance and their interest to create new insurance
+products and services
+● Telecommunication: Analyze the user’s service usage to create new plans and
+promotions.
+● Games: Analyze the user’s game activities to design the appropriate balance.
+
+Provide service
+
+Organizations that
+use the collected
+data
+
+Collect Big data on the users
+
+Provide rewards and
+benefits
+
+Information
+providers
+
+14
+
+IZE fintech | White paper ver 1.0
+
+5) An example of Big Data Service in Fintech Platform Field
+IZE platform implements a shared-economy based ecosystem among individual information providers
+and groups that use the information such as corporates, organizations, and agencies. All the
+participants of the ecosystem create a win-win model in a sustainable business environment.
+The information IZE Fintech platform providers acquire is utilized by the finance service providers to
+customize their products and service to individual customers, while the information providers are
+rewarded in IZE and payment services for the finance service providers.
+IZE platform increases the value of individuals’ information while the individuals are given the
+opportunities to enjoy the rewards and benefits for letting the organizations to utilize their information.
+This model creates a new information-sharing business ecosystem.
+Information providers share their information on IZE platform, which analyze the information as a big
+data to form an information asset. Such asset is then sold to the finance service providers who use the
+data to customize their products and create affiliation with potential customers and marketing
+agencies. Information providers are compensated for their sharing by receiving IZE coins, and the
+information using organization can pay for the usage with IZE coins. Bonus IZE coins can rewarded if
+recommended products are purchased by the individuals to strengthen the ecosystem.
+
+[Example of Financial Product
+Recommendation System]
+
+User
+
+Product
+Recommendation,
+Sales Affiliation
+
+Service / Product
+Purchase
+Marketing
+
+Information Asset
+
+Data
+
+Purchase
+
+Accumulation
+
+IZE
+Financial
+Institutions / Service
+Providers
+
+Big Data Analysis
+
+Informatio
+n sharing
+
+Provide
+analysis
+
+Affiliation
+
+Analysis
+
+Profit
+Product
+Recommendation,
+Sales Affiliation
+Financial
+Institutions /
+Service
+Providers
+
+IZE Rewards/
+Benefits
+
+Information users
+
+15
+
+IZE fintech | White paper ver 1.0
+
+6) An example of Big Data Service in Game Platform Field
+IZE platform is applicable in game industry in creating a data sharing ecosystem. Initial game
+economy planning stage undertaken by a few planners can cause big errors, which can cause
+costly repairs. In IZE platform, game users’ information is collected in a big data to analyze the
+problems of existing games and provide insights for new games. This information can reduce
+risks during game development and management. The information provider is rewarded with
+IZE for their sharing of information, and game developers can make payment for the users’
+information in IZE.
+Certain data of the game users such as personal information, items, payment, etc. are collected
+to be processed a part of big data. Behavioral data analysis based on the big data is processed
+with AI to create periodical preference model, such as item preference, playing style to
+customize products for each user. Such statistical data is sent to the game developers in real
+time to recommend new games, plan new games and implement economy system, and
+maximize profit on item sale.
+Game developers, stores, and marketing agency can make payment for data with IZE, while
+game users can receive IZE rewards by playing games.
+[Example of Game Data Service System]
+Personal Data of Users
+Stocked Item Details
+Payment Information
+
+Share Data
+Personal Game Data
+Big data
+
+Tracking on
+recommendation and
+user behavior
+
+Behavioral Data
+Analysis
+
+AI (Machine
+Learning)
+Generate
+recommendation model
+based on periodic
+behavioral analysis
+
+Recommend machine
+learning model
+Recommend
+New Games
+
+Corporate
+User
+
+Plan Games and Create
+Economy ecosystem
+
+Share Ecosystem
+Value
+
+Maximize Item Profit
+
+User
+
+16
+
+IZE fintech | White paper ver 1.0
+
+3. IZE Blockchain Technology
+1) IZE Smart Contract
+Ethereum is an open source blockchain platform consisting of decentralized virtual machines that run
+Ethernet nodes to implement point-to-point agreements by connecting to a distributed computing
+network, and all devices that operate Ethereum, the dedicated cryptocurrency. “Distributed” means
+that anyone can create and run an Ethereum node just as like that of a Bitcoin. Although Ethereum is
+often compared to Bitcoin, there are differences. While Bitcoin is only a blockchain and payment
+network, Ethereum is a decentralized computing network where a variety of applications can be built
+by executing customized smart contracts through the blockchain.
+Smart contracts are computer programs that run automatically on Ethereum virtual machines, and
+always perform according to defined rules. They can respond to and store received messages, or send
+out information and value. In short, smart contracts are the digital version of traditional contracts.
+Smart contracts are computer programs that run on the blockchain and can be automatically executed
+when conditions written in the source code are met. Since the contract terms cannot be manipulated,
+users can rely on smart contracts.
+IZE's smart contract represents the data type definition and data manipulation guidelines. This means
+it includes data structure and its related algorithms. The definition of data manipulation acting as the
+core of the smart contract because it implements the actual logic flow of smart contract, and the data
+type definition helps with implementation. IZE smart contract tasks are implemented in a messagebased communication structure, and clients invoke tasks by sending messages to Ethereum nodes.
+Upon receiving a message, the Ethereum node requests the relevant source and executes the smart
+contract WebAssembly (WASM) code. If the code runs smoothly, the Ethereum node proceeds with
+other tasks. Several tasks can be combined to form a transaction executed with combined nodes, while
+tasks can be sent and executed individually or in combination.
+Each node in the blockchain network receives a copy of the smart contract from the Ethereum
+blockchain in the macro phase to executes each task in the contract. After the contract is sent to the
+blockchain, the smart contract owner receives the verification certificate generated by the node.
+However, this verification does not mean that the transaction has been confirmed, but that the node
+has processed it without error. Not all nodes execute each smart contract in the actual process. While
+some blockchain nodes perform the actual work of smart contracts, other nodes process the validation
+of the transaction block.
+
+17
+
+IZE fintech | White paper ver 1.0
+
+-Smart Contract Development
+To provide improved smart contract development environment, Ethereum has developed more
+complete intelligence contract platform, implemented Solidity, a Turing-complete intelligent
+contract programming language, and supports a virtual machine that enables the Ethereum
+blockchain to develop, test, and deploy smart contracts. Other types of services are rare, and
+are likely to cause congestion on the Ethereum network when processing a large number of
+users.
+In order to provide a more intelligent contract platform and support the development and
+operation of large scale business DApp, IZE smart contract system suggests improvement of the
+standard library based on the following structure.
+
+[IZE Smart Contract Components]
+
+18
+
+IZE fintech | White paper ver 1.0
+
+IZE implements a high-level application interfaces beyond virtual environments and advanced
+languages to enable developers to work more efficiently. The general programming languages
+support the standard library, but it is worth noting that smart contract programming languages
+rarely provide this type of support. For example, the C programming language specification not
+only defines retained keywords, data types, vocabulary, and grammar, but also provides a
+standard library to simplify software development.
+Another example is that the C standard library includes a math function (math.h), an input /
+output process (stdio.h) and a general library (stdlib.h). IZE provides a standard library to
+ensure its developer-friendliness and minimization of security risks. The standard libraries will
+encourage developers to build more applications based on IZE smart contracts and help
+promote IZE's ecosystem.
+- Implementation of Smart Contract
+
+Compiled Web3
+
+Request RPC
+
+Distribution
+on Ethereum
+and
+interaction
+with Smart
+Conctract
+
+Use local
+complle
+
+Solidity
+Code
+Compile
+
+Return compiled code
+19
+
+[IZE Smart Contract Execution]
+The concrete implementation of the IZE smart contract is a decentralized app, or DApp. The key
+to DApp is the implementation of secure, efficient and transparent applications. DApps run on a
+computer network and adjust actions by passing messages or sharing memory between
+application instances. Blockchains are more available than decentralized databases, and in the
+event of failure, such as network partitioning, outperforms centralized applications Currently, it
+is a common practice to separate most storage tasks from the DApp.
+
+IZE fintech | White paper ver 1.0
+
+The tasks are performed on other distributed computing nodes and the results are returned in
+the blockchain to ensure the data integrity and transparency. In relation to the IZE platform, the
+token usage and transfer process is stored on the Ethereum blockchain to prevent tampering of
+the transaction records and tokens, and to facilitate the tracking and retrieval of tokens
+afterwards. Since all IZE records are stored on the blockchain, the transparency of the
+blockchain technology improves the user's confidence in transactions on the IZE platform (e.g.,
+transaction records can be tracked and audited). The execution process of DApp is as shown in
+the [IZE Smart Contract Execution] diagram. RPC protocol interaction with the local Ethereum
+nodes is done through Solidity code compiled locally or from Web3. At the end, smart contracts
+are placed in the main Ethereum chain according to pre-designed and irreversible logic.
+- RPC Operation Structure
+Remote Procedure Call (RPC) is a computer communication protocol that allows programs
+running on one computer to call subroutines on another computer without the programmer
+having to program the interaction. RPC is a distributed computing model, in which a client
+sends a request to a server to execute multiple processes. The server accepts and processes the
+request using the parameters provided by the client. When the calculation is complete, the
+result is returned to the client. In the field of distributed computing, there are many RPC
+protocols such as early CORBA, Java RMI, RPC styles of web services, Hessian, Thrift, REST API,
+and etc.
+
+20
+
+[RPC Operation]
+The IZE platform communicates with Ethereum using RPC. Since smart contracts run on the
+main chain of Ethereum, all IZE user operations enter the Ethereum network through RPC. This
+can ensure normal interaction of the IZE smart contract.
+
+IZE fintech | White paper ver 1.0
+
+2) IZE Data Storage
+
+IZE allows user data and files to be stored and shared in a distributed storage system called
+InterPlanetary File System (IPFS). IPFS is an encrypted blockchain-based database, or distributed
+blockchain file system. Data files such as videos may be stored through encryption and shared
+with selected users. Specifically, a user can encrypt data using his key pair (asymmetric
+encryption) and store the encrypted data in IPFS. Asymmetric encryption allows IZE users to
+encrypt data using the public key of another user to share the data. The selected users can then
+decrypt the file using their private key to view the files, such as shared media. Unauthorized users
+cannot decrypt the file because their private key and the public key used to encrypt the data do
+not match, which ensures the privacy of the users.
+
+Encr ypted Data
+
+Data Provided
+
+User A
+
+IPFS File Hash
+QmT4AeW E9Q9EaoyLJiqaZuYQ8
+mJeq4ZBncjjFH9dQ9uDVA
+
+Storage System
+
+IPFS File Hash
+QmT4AeW E9Q9EaoyLJiqaZuYQ8
+mJeq4ZBncjjFH9dQ9uDVA
+
+Encr yption
+
+User B
+
+Public Key
+
+Decr yption
+
+User B
+
+Public Key
+
+The above diagram illustrates the how data is selectively shared with the user's consent.
+Details: User A wishes to share the information he submitted only with User B.
+IZE uses User B's public key to encrypt User A's media data. IZE uploads an encrypted data file
+to IPFS to get a hash of the encrypted file.
+User B has the private key associated with the public key used to encrypt the file, so he can
+access the file and decrypt it. However, other users cannot decrypt the file because they do not
+have the private key of User B.
+
+21
+
+IZE fintech | White paper ver 1.0
+
+IPFS can be seen as a data storage protocol similar to BitTorrent, with a variety of operations on
+files via hash references for more diverse program interactions using fully distributed
+interactions. Usually, blockchain has a dedicated BPM module that can store simple text records
+very efficiently, making cryptocurrency a suitable module to run on the blockchain. In the
+cryptocurrency application scenario, the BPM module only records the sender, recipient, and
+cryptocurrency of the transaction, making it easy for the BPM module to run efficiently. However,
+in the case of storing a large amount of data, such as text or personal information, the efficiency
+of blockchain storage becomes very low because all the data hashes must be calculated and
+verified each time a block is created. Maintaining chain integrity causes very inefficient block
+creation.
+To solve this problem, recent approaches utilize a combination of IPFS and blockchain. IZE stores
+only the hash value of the IPFS-generated storage file, or the user data, on the Ethereum
+blockchain instead of the BPM. This ensures the simplicity of the data required for the blockchain,
+while achieving the benefits of fully decentralized IPFS simultaneously.
+
+Figure. Block Unit of IPFS File Hash
+
+22
+
+IZE fintech | White paper ver 1.0
+
+3) IZE Data Traceability
+At the same time, encrypted data hash can be stored on the blockchain to track all records.
+Below is a detailed explanation of how IZE tracks the stored information:
+A project configuration file (DIP file extension) is provided that specifies all unique numbers
+stored in IZE, and is stored in the encrypted blockchain-based database, IPFS. The hash value of
+DIP is mapped onto Ethereum network and blockchain (sidechain).
+A DIP file consists of digital containers that store reference information for digital documents
+and records. All events can be collected and tracked and the records in the DIP are stored in
+chronological order. The time stamps and hash values of the previous records form smaller
+blockchain groups that constitute the transactions within each DIP. The record also requires
+that the signature of the creator's private key to increase the verifiability of each record.
+
+IZE IPFS
+SMART CONTRACT
+
+User Data
+
+Financial
+Data
+
+Reserch
+Data
+
+[Blockchain Data Traceability]
+
+23
+
+IZE fintech | White paper ver 1.0
+
+4) IZE Data Processing
+IZE uses Spark to build a Big Data processing platform. Spark is ideal for building large-scale,
+low-latency Big Data analytics and machine learning applications, and is the required technology
+of the IZE platform.
+The platform can be used to perform machine learning tasks on data related to the user actions in
+different events. For example, the IZE Big Data Processing Platform can be used to examine the
+behaviors of users accessing specific files to better understand their interests for more accurate
+marketing.
+Specifically, Spark is an open source cluster computing environment similar to Hadoop, but there
+are some differences between the two, making Spark better suited for some workloads such as
+Spark Big Data Processing Platform. In particular, Spark can activate data sets distributed in
+memory, provide interactive queries, and optimize repetitive workloads.
+
+IZE PLATFORM
+
+[Spark Big Data Process Platform]
+24
+
+IZE fintech | White paper ver 1.0
+
+5) AI Technology Application Cases
+Artificial intelligence solution is used for the IZE Application Data Targeting Algorithm and the IZE add
+on web browser, Add-On Data Analysis Algorithm.
+
+- Targeted SNS Analysis
+
+The development of the internet and mobile services has made connection among people more
+dynamic and complex. The connection among people not only serves a distribution channel for
+various data and contents, but also influences decisions, including purchasing activities. With the
+professional AI solutions, IZE will extract semantic nets from social media, email and massive number
+of corporate documents to analyze their structures to ascertain the knowledge and mutual influence
+interchanged throughout the network.
+Such in-depth analysis based on machine learning enables diverse evaluation on core analysis, cluster
+analysis, shortest path analysis, key player analysis, core node analysis by subject, related node
+analysis by subject, and core node analysis by related subject. and many more. It aims to implement
+the real-time analysis function for the data circulated on the network.
+
+Documents
+Network
+Analysis
+
+Network
+Composition
+
+Data
+extraction,
+Summary
+
+[AI Analysis Algorithm on SNS]
+-Object Recognition Analysis
+Machine learning-based object cognitive analysis automatically extracts (boundary distinction) objects
+(such as company name, person name, area name, date, time, amount, etc.) from data and classifies
+the extracted objects. It aims to implement a function that enables automatic real-time analysis of
+correlations.
+
+25
+
+IZE fintech | White paper ver 1.0
+
+6) Mainnet Development
+At the beginning of its development, IZE token will be an ERC-20 token, and the mainnet will be
+developed to accommodate rapid data transaction, compensation, and AI analysis management.
+For the future of the platform, it would be necessary for the platform to integrate various blockchain
+projects. Also a technical configuration to swap or exchange with other coins would be required to
+enable interaction in the data platform.
+Currently, there is no unified protocol between Ethereum-type coins and other coins with each
+ecosystem being developed simultaneously. It is also ironic that the exchange of coins and tokens can
+only be done through a centralized exchange.
+We aim to develop our blockchain technology to appeal to the current situation. This development
+would need to improve the scalability and interoperability of the business in the data exchange and
+reward ecosystems.
+Considering various factors, the IZE blockchain platform will be based on the technology of
+Tendermint-Cosmos Platform, which has been making progress in the blockchain field for a long time.
+Tendermint-Cosmos has a Tendermint consensus protocol with a partially synchronous BFT (Byzantine
+Fault Tolerant) consensus protocol. In other words, Tendermint is a consensus algorithm that blends
+the Delegated Proof-of-Stake (DPoS) concept with the PBFT concept. The characteristic of TendermintCosmos is interoperability, and to maximize the potential of the blockchain, it is necessary to create an
+"internet where all the blockchains are connected on a unified protocol." For this purpose, the Cosmos
+team proposes IBC (Inter-Blockchain Communication) protocol.
+
+Tendermint Reference
+https://tendermint.com/docs/ cosmos
+https://github.com/cosmos/cosmos
+
+26
+
+IZE fintech | White paper ver 1.0
+
+7) IZE Blockchain Platform Solution
+Tendermint-Cosmo blockchain based IZE Blockchain features the followings characteristics.
+
+Fast Consensus
+About 2,000 transactions are processed per second for fast transactions on the platform.
+Ultimately it aims to achieve the speed of 10,000 TPS.
+Smart Contract
+IZE blockchain supports smart contracts with data exchanging organizations, full compatibility
+with Ethereum, and full conversion of IZE blockchain with other smart contracts without any
+changes in the distributed application code.
+Safety
+Safe transaction of intangible assets such as cryptocurrencies and monetary assets between the
+data service providers and consumers is equally important as the fast transaction. IZE
+implements abnormality detection technology to prevent faulty transactions or hackings.
+Low Fee
+Low transaction fee enables businesses to activate IZE Blockchain ecosystem and protect their
+profit.
+
+DApp Wallet
+
+AI, Big Data, Certificates, etc.
+
+Apache Cassandra
+
+Blockchain
+
+27
+
+IZE fintech | White paper ver 1.0
+
+4. Token Issuance
+
+1) Issuance Details
+The total issuance of IZE token will be 10 billion.
+
+Presale
+Distribution
+Platform Development and Operation
+Marketing
+Team
+Partners
+Advisors
+
+IZE
+Token
+
+Type
+Total issuance
+
+No. of Tokens
+
+Ratio
+
+10,000,000,000
+
+100%
+
+4,000,000,000
+
+40%
+
+1,500,000,000
+
+15%
+
+1,000,000,000
+
+10%
+
+Marketing
+
+1,000,000,000
+
+10%
+
+Team
+
+1,000,000,000
+
+10%
+
+Partners
+
+1,000,000,000
+
+10%
+
+Advisors
+
+500,000,000
+
+5%
+
+Presales
+Distribution in the
+ecosystem
+Platform Operation and
+Development
+
+Total
+
+10,000,000,000
+
+Remark
+
+100%
+
+28
+
+IZE fintech | White paper ver 1.0
+
+5. Team Members
+Yu Onodera
+•
+•
+•
+•
+
+Founder
+
+Managed and operated FX management system and IT consultant company
+Over 10 years of experience in various business consulting
+Began research on blockchain technology and drafted the IZE project in 2013
+Contacted several companies and organizations in 2017 to strengthen the
+foundation of this project.
+
+Ricky Yujin Lohmeyer
+
+Chief Strategy Officer
+
+• Served at American Airlines as operating agent at Narita International Airport from
+1991 to 1996.
+• Operated a chemical pumps and oil skimming equipment manufacturing firm from
+Jun. 1996 to Oct. 2005
+• Has experience in sales and processing of chemical pumps used in chemical
+plants, automobile factories, oil refineries and other areas.
+• Managed a general trading company specializing in industrial facilities in Japan
+from 2006 to 2013
+• Has been managing a company that plans and sells prepaid travel cards and a
+travel agency specializing in inbound and outbound travels since 2014
+• Established a joint management company in Sri Lanka to carry out urban
+development and environmental improvement projects to expand its business into
+Asia.
+
+Kanchana Eric Sinharage
+
+Chief Marketing Officer
+
+• Experience in public relations and welfare
+• Experience in organizing and networking of various cultural and multinational
+groups
+• Has been involved in various government, private sector, NGO projects
+• Project chairman of the road development department of Sri Lanka
+• President of Colombo Prison Welfare Association
+• Coordinator in Social Service Sector
+• Coordinating Officer of Special Project Department of Sri Lanka
+
+Murilo Osamu Nobo
+
+Chief Technical Officer
+
+• Self-taught cryptocurrency researcher since 2016
+• Held private cryptocurrency seminars to spread the knowledge on cryptographic
+assets
+• Participated in Keikoku activities in Cambodia
+• Participated in ICE platform smart contract business for ICO related projects
+• Appointed as the Director Bear Valley Holdings (blockchain technology developer
+for Comoros Association)
+• Developed blockchain related services for payment service providers, wallet
+service providers, affiliation providers, etc.
+
+29
+
+IZE fintech | Whitepaper ver 1.0
+
+6. Partner
+
+Company : Regina entertainment
+
+Business : Planning and developing digital
+content and creating
+entertainment for providing
+Internet games
+
+Company : Nice group
+Business : Personal and corporate credit ratings ,
+Asset Management,
+ATM, Cash Logistics
+
+Company : Pay up
+Business : Online and offline integrated payment services
+(Card, SMS, Device, Virtual Account Payment)
+
+30
+
+IZE fintech | White paper ver 1.0
+
+6. Partners
+
+Company: AlphaPrime Lanka (Pvt) Ltd.
+Areas of business: private banking, fiat exchange,
+cryptocurrency exchange, cryptocurrency custody, E-wallet,
+gold trading, microfinance
+
+Company: Bitwide Co., Ltd
+Area of business: blockchain game, blockchain investment,
+cryptocurrency exchange platform development
+
+Company: Ntoz Soft
+Areas of business: educational software development,
+system engineering, mining pool development
+
+30
+
+IZE fintech | Whitepaper ver 1.0
+
+7. Road Map
+
+2019
+
+2020
+
+03 •
+
+Finalized project concept
+and its components
+Finalized team members
+Created CI/BI
+Planning and Design
+
+02
+
+• List IZE on exchanges
+
+05
+
+• Sought partner affiliations
+
+05 •
+
+Planned white paper
+Finalized basic coin
+
+12
+
+08 •
+
+Planned service
+Planned mainnet
+
+•
+•
+•
+•
+•
+
+11
+
+•
+•
+•
+•
+•
+
+Formed legal and finance
+team
+Began Pre-Sale
+Reviewed exchanges
+Completed white paper
+Completed DApp
+planning
+
+2022
+
+2021
+
+01 •
+08
+11
+
+• Design IZE Application
+
+Design IZE Add
+
+03 •
+
+Complete the mainnet planning
+
+•
+
+Create
+IZE Application MVP
+
+05 •
+
+Launch IZE Application Beta
+
+•
+
+Create
+IZE Add On MVP
+
+08 •
+
+Launch
+I
+IZE Add On Beta
+
+12 •
+
+Complete mainnet
+
+31
+
+IZE fintech | White paper ver 1.0
+
+8. Disclaimer
+This document is intended to provide information to the unspecified people who are interested in IZE
+Blockchain Project and its blockchain token ecosystem and technical details.
+IZE Blockchain Team has carefully reviewed the contents and described the technical details to create
+this document. Every reasonable effort has been made to deliver the latest information through updates
+on the document. However, this does not guarantee or assert that the IZE Blockchain Team is wholly
+accurate or complete in any matter regarding the content of this document. The information in this
+document is current as of the date of publication, and all or part of the information is not binding or
+obligatory. Therefore, IZE Blockchain Team assumes no liability whatsoever for damages resulting from
+the use or non-use of the information described in this document, or damages resulting from inaccurate
+or incomplete content.
+In addition, IZE Blockchain Team assumes no responsibility for any acts done by using this document for
+any purpose other than the provision of information. Should a conflict arise from the interpretation of
+any other versions of this document written in languages other than Korean, the latest Korean version
+shall prevail. However, this should not be understood as a guarantee of responsibility for the contents of
+the Korean version. Nothing related to the IZE Blockchain contained in this document may be copied,
+modified, disseminated, or distributed to any third party without the prior consent of the IZE Blockchain
+Team.
+The “forecast” included in this document has not been subject to verification. This information is related
+to events expected in the future and described as “expected,” “forecast,” “plan,” and “expectation.” Such
+“forecast” is affected by future events and changes, and inherently contains uncertainties. Due to such
+variables, actual results may be substantially different from the stated “forecast” or its implication.
+Moreover, the future outlook of this project is prepared by taking into account the current market
+situation and development environment as of the date this document was prepared. IZE Blockchain
+Team assumes no legal or moral liability for any loss resulting from the use of this document.
+Should any terms or expressions in this disclaimer for a waiver of legal liability under this document
+contradicts the current legislation, the term or expression will be ineffective until amended, while the
+remainder of the disclaimer will remain in effect.
+
+32
+
+IZE fintech | White paper ver 1.0
+
+9. References
+https://www.blockchain.com/ja/learning-portal/bitcoin-faq
+https://www.ibm.com/blockchain/use-cases/
+https://www.coindeskjapan.com/26006/
+https://ethereum.org/ja/developers/
+https://github.com/ipfs/ipfs
+
+33
+
+

@@ -1,0 +1,85 @@
+Idena
+Idena is the first human-centric blockchain driven by
+proof-of-person consensus. Every node is linked to one
+single person with equal voting power.
+
+Unique human identity is the most needed and most dangerous concept in
+governance
+The ‘3.5% rule’: a coordinated small minority of as low as 3.5% of people can bring a systemic change in
+the interconnected world.
+1 person = 1 vote: State-of-the-art governance in permissionless systems (DAOs) can only be based on
+capital (stake). The missing part is a global democratic governance mechanism based on online
+formalization of unique human identity with strong protection against fakes and collusions.
+Big Brother reality: The main challenge for global identity is that external verifiers (social media,
+biometrics, passports) are based on personal data, which leads to the loss of privacy of people in favor
+of states and corporations.
+
+Desired properties for unique human identity
+•
+•
+•
+•
+•
+
+1 person = 1 identity
+Anonymous/pseudonymous
+No trusted third-party validators
+Accessible for everyone
+Censorship-resistant
+
+•
+•
+•
+•
+•
+
+Verifiable online (global)
+Non-permanent and untraceable
+Collusion-resistant and untradable
+Properly incentivized
+Gamified
+
+Cryptoidentity
+Cryptoidentity is a unique globally verifiable censorship-resistant identity that does not directly refer to
+its owner. In a way it is similar to Bitcoin that does not refer to any real world assets or value, but is the
+value in itself.
+The Idena protocol implements cryptoidentity based on a global ceremony where users verify their
+existence by doing a common sense test at the same time across the globe.
+
+Traction*
+4860
+identities
+validated
+
+Vision
+#5
+blockchain
+by full nodes
+
+240k
+flip-puzzles
+solved
+
+– One person one node network
+– Scalable BFT consensus with sharding
+– Self-governed and self-funded
+
+– Passionate community (>20000 people globally)
+
+– 100 million users by 2025
+
+– Idena’s iDNA coin listed by 4 exchanges in 2020
+
+– Validation ceremonies every month
+
+– $100/month basic income per person at current price
+
+– 1% of global ads market
+
+– 95% average human accuracy of flip-puzzles solving
+
+– Zero wallet DAO for global impact projects
+
+* as of 3 Jan 2021
+
+

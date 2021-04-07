@@ -1,0 +1,608 @@
+Photon:
+In-Game Cryptocurrency
+- It Pays to Play​ -
+
+​ ​Authors: Moreme, Matt London
+Contributors: BlueDragon747, xxACxx
+​www.Photoncc.com
+
+1
+
+Abstract
+
+Photon(PHO) is an open source, multi-platform cryptocurrency, created and
+released in 2014 by Cinnamon Carter and BlueDragon747.
+It is a well-established coin operating on a stable network.
+It can be “Merge Mined” with the multi-crypto BlakeStream “6-coin family”
+consisting of: Photon, Blakecoin, BlakeBitcoin, Electron, Universal Molecule and
+Lithium.
+This group of coins utilizes blockchain technology to enhance user experience in
+the video gaming industry, including but not limited to: storage, security and
+transfer of funds between game titles and platforms for developers, publishers and
+gamers.
+Photon integrates with, enhances, and bridges the important gap between gaming
+and the new, untapped, underutilized world of cryptocurrency. The facilitation of
+micro-payments using cryptocurrency within the game and across the entire
+platform is Photon’s primary use case​.
+
+Decentralized, Open Source, Crypto
+Currency since 2014
+
+2
+
+Table of Contents
+
+Abstract
+
+2
+
+Introduction
+
+4
+
+Photon’s Niche
+
+6
+
+Digital Renderings
+
+7
+
+Industry and Market Overview
+General Overview
+Games: Market by sector
+MMO Gaming
+Battle Royale
+Mobile Gaming
+eSports
+The development of "eSports" As Olympic sport
+TOP 5 TOURNAMENT PAYOUTS:
+Overall largest prize pools
+
+8
+8
+9
+10
+11
+12
+12
+13
+14
+14
+
+Mining
+Pooled and Merged Mining
+Specifications
+
+15
+15
+16
+
+Technical Information
+Advantages and Design
+Performance
+Security
+Why Photon beats others coins in the long run
+
+16
+16
+16
+16
+16
+
+Summary
+
+17
+
+Project Team
+
+18
+
+3
+
+Introduction
+The video gaming industry is a booming multi-billion dollar market that is projected to grow by
++8.2% to reach revenues of $143.5 billion in ​2020​.
+This industry is also just beginning to recognize digital currency as a major opportunity.
+Coinciding with this ongoing growth in gaming, is the explosive emergence and visibility of digital
+currency in 2018. Although the adoption is still in its infancy, there is sufficient early adopter
+awareness to move forward with the integration of cryptocurrency with in-game purchases.
+Photon is positioned to serve as a pivotal in-game payment option to maximize the convergence
+of these influential technologies.
+Photon, created and released in 2014 by Cinnamon Carter and BlueDragon747, is a
+well-established coin operating on a stable network and is, by no means, a new invention.
+The intended use cases of the coin Photon are many, and can be expanded upon, but the future
+vision for the coin is best summarized as an in-game currency and can specifically be broken into
+the points below :
+1) Its use as a micro-payments currency within the BlakeStream, along with the other 5
+BlakeStream coins.
+2) ​Its use as a native in-game currency in the upcoming Battlegrip, Ledgend of Blake RPG, and
+Blakezone​ . A massive-multiplayer gaming platform-created by the PHO developers
+3) ​Its use as an added mod in multiple online video games as an in-game currency where
+permissible and legal.
+4)​ Its use as an in-game currency in industry wide mobile gaming.
+5)​ Its use as a digital content purchasing method for the Free to Play(F2P) type of games.
+With the crypto market ​soaring and attracting millions of new investors, and users, the concept
+of using cryptocurrency in games is now gaining momentum. The team behind Photon has spent
+four years developing this technology to harness this momentum and place it at the forefront of
+the gaming industry.
+The advantage that Photon has above all of the coins, (and the many, no-value tokens currently
+trying to enter the video game space), is that its developers are also avid game developers. They
+produce games which are specifically created to incorporate Photon and the rest of the
+BlakeStream coins.
+
+4
+
+Photon is an excellent coin used for both​: ​digital content purchasing, and as a general in-game
+currency, making it the perfect coin for F2P type of games that are right now capturing a growing
+segment of the market.
+It's only going to keep growing as quality smartphones become more accessible, and more
+consumers look to their smartphones for gaming. In the US alone, 180.4 million consumers
+played games on their mobile phones in 2016, representing 56% of the population and a
+whopping 70% of all mobile phone users, according to estimates from eMarketer
+(​http://www.businessinsider.com​). The use in mobile gaming for Photon, will start to happen
+with the integration and development of our native games through platforms like ​itch.io​. and
+The Blakezone main portal.
+Itch.io is an open marketplace for digital creators with a focus on independent video games. It’s
+a platform that enables anyone to sell the content they've created and to be in charge of how it’s
+done. Developers set the price, run sales, design their pages and interact with fans
+directly-building communities centered around their creations.
+Overall, itch.io Is great space for indie game developers to grow their fan/user base. Blakezone
+is on the cutting edge of all available technology and marketing models. Photon’s integration
+within the Blakezone games will have the best avenues, and technology available, to reach this
+massive global marketplace.
+Photon will be used for Blakezone games and as mods for several top AAA online video games.
+Throughout the years, the developers have made steady progress towards the goals outlined
+above, developing a merge-mined Blake Stream family of coins and integrating all of these
+together in the same video game environment. That development and integration was well
+ahead of its time as a concept established in 2014, but it’s being delivered right now to the
+market that is ready for this revolutionary concept.
+The merge mining with the other Blakecoins is still to this day a rare occurrence within the crypto
+scene. The use of the cryptocurrency in video games combined with mining while playing has
+been possible since it was released in 2014. These concepts are cutting edge and yet, until now,
+not fully utilized within the gaming Industry. This potential is a goldmine for current and future
+investors and game designers.
+
+Optimized for In-Game transactions
+
+5
+
+Photon’s Niche
+From a practical application use and case standpoint, the developers have included Photon as
+an in-game currency and reward for a series of video games. This includes the much-anticipated
+BlakeZone games and have also been integrated with many top AAA online video games.
+The integration of Photon both in and out of gaming is more than promising for the future,
+especially given the ever-expanding multi-billion dollar video game market. With this in mind,
+whilst taking into consideration the independent nature of the development of this suite of
+games, there is potential to reach a wide audience of gamers in the future. The development
+and beta testing of games will continue throughout 2018.
+Based on the Blake-256 algorithm and a child to its parent coin Blakecoin, Photon is a critical
+member of the BlakeStream of coins. Its specifications allow for the transaction of volume
+approximately 3.3x that of Bitcoin while maintaining the similar type of security as shared by
+Bitcoin. Together with an ease of mining, Photon(PHO) has been regarded as and has the
+reputation of a miner’s coin, because it can be merge mined with five other coins. This means
+all six coins can be mined simultaneously. Considering Photon had no ICO or pre-mine, this
+makes Photon very inviting from a mining standpoint and makes it stand out from the crowd
+within the cryptocurrency field.
+Although it is a child of Blakecoin, Photon is not fixed and can still be mined individually, giving
+it the flexibility of POW and AuxPOW mining. Photon’s independence is a significant
+differentiator from sidechain-derived coins. Sidechains have inherent dependence on their
+respective parent chains to function properly. Photon is independent combined with being fast
+and flexible in its security. This gives Photon an edge as a perfect candidate for inter and
+intra-chain atomic swaps that can be developed for it in the near future.
+The use of cryptocurrency as in-game currency is a concept that is gaining noteworthy
+momentum currently as outlined above. There have been high-profile ICO’s in this space, which
+is a definitive confirmation of the validity of this use case. What makes the potential greater for
+Photon as an in-game currency is how it works in collaboration with other member coins from
+the BlakeStream, specifically;
+Photon - Blakecoin - BlakeBitcoin - Electron - Universal Molecule - Lithium
+For detailed information on these merge-mined coins and how they interact with each other
+and Photon, please visit ​Blake coin mining
+
+6
+
+Digital Renderings
+Gold, Silver, Bronze, Copper, Keys or Gems
+For those familiar with video games, it is not uncommon for there to be several different stores
+of value active within a gaming environment. For example, there might be digital renderings of
+gold, silver, bronze, copper, keys or gems, all of which have different purposes and values.
+The BlakeStream family of coin serves a similar purpose​. More specifically, Photon has been
+designed to be the go-to in-game currency to purchase of the ammunition, which is critical to
+any FPS.
+
+7
+
+Industry and Market Overview
+
+General Overview
+A​ccording to Ubisoft report
+from 2017, the largest
+growing entertainment
+segment is the video game
+industry. It is expected to
+grow at a rate of 50%
+between 2017 and 2021,
+that is from 114 billion USD
+to 170 billion USD
+respectively.
+
+Source: Ubisoft 2017 report
+
+A​s reported by Newzoo, video
+game revenue is expected to have a
+compound annual growth rate of
+6.2% through the year 2020.
+Although revenue share is
+projected to continue its shift
+towards smartphone based games
+during this timeframe, global
+growth remains robust with key
+growth in the APAC region in
+particular.
+
+Source: ​Business insider
+
+8
+
+T​he capture of market share by
+smartphone based games can, in part, be
+attributed to the widely adopted and
+highly successful free-to-play (F2P)
+model with in-game purchase option.
+This has fueled speculation that
+platforms losing market share to
+smartphones, such as consoles, may well
+integrate in-game purchases to capitalize
+on this trend. Regardless of the
+dominant platform, it is evident the
+in-game purchase model is attracting
+consumers in ever increasing numbers.
+
+Source: Newzoo
+
+Games: Market by sector
+PC and Massively Multiplayer
+Games ​(MMO)
+T​he real story in the PC segment of
+traditional gaming continues to be
+the consistent growth of the massive
+online/microtransaction market,
+which is expected to grow at 6.8%
+CAGR and reach US$27.4bn by 2021.
+This business model benefits from
+having true global appeal compared
+to digital game stores, and it
+embraces all PC owners rather than
+just the small segment with powerful
+gaming PCs and higher spending
+power.
+
+9
+
+PC games, also known as computer games or personal computer games, are ​video games
+played on a ​personal computer rather than a dedicated ​video game console​. Their defining
+characteristics include more diverse and user determined gaming hardware and software, and a
+generally greater capacity in input, processing, and video output. PC games are sold
+predominantly through the Internet, with buyers downloading their new purchase directly to
+their ​computer​.
+This approach allows smaller independent developers to compete with large publisher-backed
+games and avoids the speed and capacity limits of the ​optical discs which most other gaming
+platforms rely on.
+
+MMO Gaming
+A massively multiplayer online game
+(​MMOG​, or more commonly, ​MMO​) is
+an ​online game with large numbers of
+players,( typically from hundreds to
+thousands), on the same server. MMOs
+usually feature a huge, ​persistent ​open
+world​, although some games differ.
+These games can be found for most
+network-capable platforms, including
+the ​personal computer​, ​video game
+console​, or ​smartphones and other
+mobile devices.
+
+​Source:​Superdata
+
+MMOs can enable players to cooperate and compete with each other on a large scale, and
+sometimes to interact meaningfully with people around the world. They include a variety of
+gameplay types, representing many ​video game genres​.
+The next few years will see even more impressive growth for the game industry, according to
+new research from industry analysts. The industry as a whole is expected to reach a value of
+over $230 billion by 2022, and PC gaming is expected to be one of the biggest drivers of that
+growth - though mostly via hardware and online game services rather than traditional sales.
+
+10
+
+Photon’s original use case was to be used in BlakeZone MMO games that are being developed
+right now. The development will continue through 2018 with BlakeZone game release expected
+mid summer with Photon being natively integrated from the start.
+
+Battle Royale
+One of the largest and fastest growing gaming sectors is Battle Royale gaming.
+A battle royale game is a ​video game genre that blends the survival, exploration and scavenging
+elements of a ​survival game​ with ​last man standing​ gameplay.
+Battle royale games challenge a large number of players, starting with minimal equipment, to
+search for weapons and armor and eliminate other opponents all while avoiding being trapped
+outside of a shrinking "safe area", with the winner being the last competitor in the game.
+
+The name for the genre is taken from
+the 2000 Japanese film ​Battle Royale
+Large scale battle royale games have
+seen record breaking numbers in the
+past few years. In fact, ​Valve’s MOBA
+DotA 2 had the highest number of
+concurrent players with​ over 3 million
+in December 2017. This sector has
+unlimited potential for growth and
+integration-and that’s exactly where
+Photon comes into play when used as
+in-game and intra game currency: as
+per kill payment, purchase of skins (
+customized in-game items), and
+purchase of weapons and ammunition.
+Source: ​Esports Observer
+
+11
+
+Mobile Gaming
+Mobile gaming will generate $46.1 billion this year, or 42% of all global game revenues. More
+than three-quarters of this, or $35.3 billion, will come from smartphone gaming, with tablet
+games accounting for the remaining $10.8 billion. Tablet unit sales have plummeted over the
+years, but with 280 million tablets used actively, the segment contributes significantly to the
+success of mobile games.
+As mentioned above, Photon will be integrated into mobile games through the use of itch.io and Blakezone
+gaming/development platforms.
+The console gaming segment performed better than expected in 2016 thanks to console
+manufacturers, publishers, and consumers embracing of a variety of digital business models.
+Microsoft and Sony generated more than $14 billion in combined revenues from first-party
+games, third-party game fees, and subscription revenues. In 2017, we expect console gaming to
+generate a total of $33.5 billion in revenues worldwide, of which 65.8% digital.
+
+eSports
+eSports are the “sport” of the
+new millennials. eSports
+represent a multi billion dollar
+industry-From multiplayer online
+games to high payout professional
+tournaments--eSports are big
+business, and the scope of
+eSports is not limited to active
+participation. Live viewing is one
+of the most rapidly growing
+sectors.
+
+​Source ​Newzoo
+
+12
+
+First person shooter game Counter Strike: Global Offensive is one of the most popular eSports.
+Its Major Championships are a chance for fans to see which team can claim to be the best in the
+world. It stands on a par with the League of Legends World Championships and the DOTA 2
+International as one of the most prestigious annual eSports events .​"It's like a World Cup for
+Counter Strike fans, they come round once or twice a year and you can never expect what's
+going to happen”. CS:GO is one of the first games that Photon got integrated with and it did
+extremely well.
+
+The development of "eSports" As Olympic sport
+The Olympic Summit discussed the rapid development of what are called "eSports", and the
+current involvement of various Olympic Movement stakeholders. The Summit agreed that:
+●
+
+"eSports" are showing strong growth, especially within the youth demographic across
+different countries, and can provide a platform for engagement with the Olympic
+Movement.
+
+●
+
+Competitive "eSports" could be considered as a sporting activity, and the players
+involved prepare and train with an intensity which may be comparable to athletes in
+traditional sports.
+
+●
+
+In order to be recognised by the IOC as a sport, the content of "eSports" must not
+infringe on the Olympic values. The Summit asked the IOC together with GAISF in a
+dialogue with the gaming industry and players to explore this area further and to come
+back to the Olympic Movement stakeholders in due course.
+
+13
+
+Esports players have seen some
+outrageous payouts in the last five
+years alone. While the overall size
+of a prize pool doesn't determine
+the prestige of an event, it is—for
+obvious reasons—one of the major
+things players use to determine
+whether they'll show up.
+
+TOP 5 TOURNAMENT PAYOUTS:
+1)​ The International 7 - $24.6 million
+2)​ The 2016 ​League of Legends ​World Championship - $5
+million
+3)​ The ​Dota 2 ​Asia Championship - $3 million
+
+4)​ The ​Dota 2 ​Valve Majors - $3 million
+
+5)​ The 2015 ​Smite ​World Championship - $2.6 million
+Overall largest prize pools
+1)​ The International 7 - $24.6 million
+2)​ The International 6 - $20.4 million
+3) ​The International 5 - $18.4 million
+4) ​The International 4 - $10.9 million
+
+5) ​2016 ​League of Legends ​World Championship - $5 million
+
+6) ​2017 ​League of Legends ​World Championship - $4.9
+million
+7) ​2015 ​Dota 2 ​Asia Championship - $3 million
+8)​ The ​Dota 2 ​Majors - $3 million
+
+9)​ The International 3 - $2.8 million
+10) ​2016 ​Smite ​World Championship - $2.6 million
+
+14
+
+Mining
+Pooled and Merged Mining
+Mining Photon in AuxPow:
+MergeMining Photon along with the other Blakestream coins in AuxPow has many advantages
+over traditional PoW mining. As the hash rate is not divided between the coins but applied fully
+across all chains with virtually no impact on the hash rate of the other Pow/AuxPoW coins. The
+blake256r8 algorithm is small, fast & power efficient. Making it suitable for running alongside
+other applications (i.e: gaming) with little to no noticeable performance issues.
+The BlakeStream PoW/AuxPow is not limited to just six coins; there is room in the mergemine to
+support many more blockchains thus creating secure blockchains & an energy efficient mining
+community, All Blakestream coins can be mergemined using CPU, GPU, FPGA or ASIC.
+Mining the Blakestream PoW/AuXPoW requires nothing extra from the miner but yields great
+rewards.
+Current block reward for the BlakeStream
+
+Since all solved blocks may or may not be accepted by the individual blockchains also as hash
+rate and difficulty fluctuate there is no easy way to calculate mining rewards other than just
+mining on the pools for set period of time.
+Pooled mining is where many miners contribute to the generation of a block, and then split the
+block reward according to the percentage of shares submitted. Pooled mining reduces the
+variance of mining reward for the miner.
+Merged mining allows a miner to mine more than one blockchain at the same time. The benefit
+is that every share the miner submits goes towards the total hash rate of all blockchains in the
+merge and as a result they are all more secure.
+Auxiliary Proof-of-Work a.k.a "AuxPOW", is the way that merged mining can exist; it is the
+relationship between two blockchains for one to trust the other's work as their own and accept
+AuxPOW blocks. As such, Photon and the other Blake coins will never be Proof of Stake (POS).
+15
+
+Specifications ​
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+Coin Type: PoW/AuXPoW
+Algorithm: Blake256r8
+Block Reward: 32768 + inflation
+(Square root of (difficulty * block height))
+No reduction of block reward
+Cap in pace to reduce difficulty jumps upward
+Block Target Time: 3 minutes
+Retarget: 20 blocks
+Total Coins: 90,000,000,000
+Block Maturity: 120
+
+Technical Information
+Photon was created with the fast and light Blake-256 algorithm. Blake-256 (optimized) is faster
+than Scrypt, SHA-256D and Keccak. The algorithm was written as a candidate for SHA-3 and has
+a reduced round function to 8 rounds, aka Blake256r8.
+
+Advantages and Design
+●
+Simplicity of the algorithm
+●
+Interface for hashing with a salt
+●
+Can be merge mined with Blake ecosystem coins
+Performance
+●
+Fast both software and hardware
+●
+Parallelism and throughput are trade-off for hardware implementation
+●
+Simple speed/confidence trade-off with the tunable number of rounds
+Security
+●
+Based on an intensively analyzed component (ChaCha)
+●
+Resistant to generic second-preimage attacks
+●
+Resistant to side-channel attacks
+●
+Resistant to length-extension
+
+16
+
+Why Photon beats others coins in the long run:
+●
+The Blake256r8 algorithm is fast and energy efficient vs other algorithms
+●
+The reward for mining Photon does not decrease over time
+●
+The transaction throughput vs Bitcoin is roughly 3.3x
+●
+There are no restrictions on any platform as Photon does not include artificial “security”
+or “resistance” that reduce mining hash rate and power efficiency
+
+For complete details, specifications and links for:
+
+●
+●
+●
+
+Wallets- https://blakecoin.org/software/
+Mining pools- https://blakecoin.org/merged-mining/
+Exchanges and Blakecoin/Photon project- https://blakecoin.org/about-blakecoin/
+
+Summary
+Photon is the ultimate "micropayment" currency game coin. It is designed to work seamlessly
+across the BlakeZone web portal. Photon works in tandem with the remaining family of Blake
+coins. Note, there is zero competition amidst any coins kin to the Blake group. Photon coin
+must also be acknowledged for its distinct use cases. The coin is being traded, exchanged, and
+distributed in prevailing games such as Fortnite, CSGO, and TF2. The multi-use, multi-coin
+advantage puts Photon, and thus the entire BlakeStream, at the head of this roaring
+contemporary race, that is, the race to win the hearts and minds of gamers who are
+enthusiastic about cryptocurrency and express major passion towards the entertainment
+/gaming industry.
+
+Decentralizing gaming payments
+since 2014
+
+17
+
+Project Team
+Much like Satoshi Nakamoto has maintained his anonymity, developers Cinnamon_Carter and
+BlueDragon747, although deeply dedicated to supporting Photon and the other BlakeCoins,
+have chosen to maintain their anonymity and privacy, as well. So much so, in the wake of the
+wave of suspicious actors now permeating crypto, they have defended their right to avoid the
+spotlight and focus on what they enjoy most: developing wonderful technologies and releasing
+them to the world​.
+
+18
+
+This white paper is not an invitation nor recommendation to enter into an investment. This white paper does
+not represent or constitute a contract, offer or guarantee of employment. Any information provided in this
+white paper is for general informational purposes only. Furthermore, there is no warranty as to the accuracy or
+completeness of this information, which may be modified at any time without notice.
+The acquisition, utilization and storage of Photon coins involves various risks, such as but not limited to the
+non-implementation of Photon as an in-game crypto currency, exchange availability and hacker attack related
+losses. It is incumbent upon any user of Photon to examine the risks, costs and benefits of Photon prior to
+usage. Potential users should consult with an independent legal and/or financial advisor to ensure a clear
+understanding of these risks.
+Due to potential regulatory scrutiny and compliance requirements, the future of Photon and other crypto
+currencies is currently unknown. Photon users acknowledge new regulations may negatively impact Photon and
+cause direct or indirect losses and damages. Photon users also acknowledge that Photon’s developers and
+affiliates shall not be held liable should such circumstances occur.
+
+References
+* ​https://en.bitcoin.it/wiki/Pooled_mining
+* ​https://bitcoin.stackexchange.com/questions/273/how-does-merged-mining-work
+* ​https://en.bitcoin.it/wiki/Merged_mining_specification
+* ​https://newzoo.com
+* ​https://www.superdataresearch.com
+* ​https://131002.net/blake/blake.pdf
+* ​https://eslgaming.com
+* ​https://en.wikipedia.org/wiki/Massively_multiplayer_online_game
+* ​https://en.wikipedia.org/wiki/PC_game
+
+​Twitter​
+
+​Telegram
+
+19
+
+

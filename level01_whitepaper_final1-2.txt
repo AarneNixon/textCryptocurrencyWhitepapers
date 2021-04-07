@@ -1,0 +1,1471 @@
+Placeholder for cover
+
+WHITE PAPER
+
+Index
+Abstract
+1.0 Introduction
+1.1
+1.2
+1.3
+1.4
+1.5
+
+An Excerpt on Financial Trading
+Market Size & Opportunity
+Brokers & Online Trading
+Blockchain – The Trust Protocol
+Cryptocurrency
+
+2.0 Level01 Platform
+2.1
+2.2
+2.3
+2.4
+2.5
+
+Overview
+Options Trading Methodology
+LIST Smart Contract Protocol
+User & System Flow
+Hybrid Technology
+
+3.0 Platform Features
+4.0 Platform Architecture
+4.1
+4.2
+4.3
+4.4
+4.5
+4.6
+4.7
+
+Trading Engine
+Transaction Settlement System
+Market Data Feed
+Oracle
+Client Application
+Technology & API’s
+Security
+4.7.1
+4.7.2
+4.7.3
+4.7.4
+4.7.5
+4.7.6
+4.7.7
+4.7.8
+
+Blockchain Congestion
+Front Running
+Stale Oracle Arbitrage
+Cancel Contract Floods
+Contract Heists
+Trading Intent/Settlement Redirection
+Replay Attack
+Suppressed Execution
+
+5.0 FairSense™ Technology
+5.1
+5.2
+5.3
+5.4
+
+Purpose of FairSense™
+Mechanism for Fair Price Discovery & P2P Liquidity
+Case Analysis
+Calculation of Fair Value
+
+6.0 Platform Economics
+6.1
+6.2
+6.3
+6.4
+6.5
+
+The Level01 Token (LVX)
+Token Purpose
+Token Information
+Token Utility
+Value Creation
+6.5.1
+6.5.2
+
+Value to Users
+Value to Organizations
+
+7.0 Schedule & Roadmap
+8.0 Legalities
+
+Abstract
+The cryptocurrency market cap has grown more than 30,000% from Jan ’17 – Dec ’17.
+This demonstrates an exponentially increasing utility base and trust towards
+cryptocurrency as a store of value and medium of exchange. Its growth is further
+propelled by real world use cases for the transparency and immutability of distributed
+ledger technology (blockchain), and its benefits such as faster, peer-to-peer
+transactions and reduced cost of ownership.
+Level01 leverages blockchain and cryptocurrency technology, to create a derivatives
+(options) exchange & trading platform where financial trading in forex, stocks,
+commodities and cryptocurrencies can be conducted on a peer-to-peer basis, without a
+need for an intermediary broker.
+The platform facilitates efficient functioning of a market and price discovery through
+proprietary developed intelligent algorithms that dynamically improve over time through
+machine learning. This helps retail users with trade matching, efficient price discovery
+and fair value analytics when conducting their trades.
+The project strives to make derivatives trading accessible to a greater portion of the
+retail user market, eliminating the segregation between retail and inter-dealer trading
+and offering them an easier entry into understanding cryptocurrency as a medium of
+exchange and utility.
+Utilizing cryptocurrency and smart contracts on the blockchain, Level01 will make
+transactions automated and transparent. Upon conclusion of a trade, profit is instantly
+transferred to the profiting investor’s wallet. At no given time does Level01 hold any
+investor funds to conduct trading.
+As a platform that seeks to foster transparency and equality, the rise of cryptocurrency
+and blockchain technology is a welcomed occurrence towards the core vision of the
+Level01 exchange & trading platform; to provide the most fair, efficient, and even-level
+playing field for retail & commercial investors to execute their trades.
+
+Level01 is the World’s 1st P2P Derivatives Exchange with AI Trade
+Matching Technology and Trade Settlement on the Blockchain
+
+Level01 White Paper ver. 1.2
+
+1.0 | Introduc�on
+
+Introduction
+
+An Excerpt on Financial Trading
+At its core, financial trading is similar to any other form of trading, where market
+participants buy and sell assets with a goal of making profit or hedging an existing position.
+Financial trading is the buying and selling of instruments, such as shares, currencies, or
+bonds. These instruments can also be derivatives such as contracts for differences (CFD),
+futures, and options.
+In financial markets, millions of individuals, companies, institutions and even governments
+trade assets or enter derivative contracts in order to gain profits or hedge their risks. At
+the same time price movements in financial markets can be very volatile, bringing both
+profit opportunity and risk.
+Financial instruments are traded on organized marketplaces with proper rules and
+regulations called exchanges, or over the counter (OTC); where two parties agree to trade
+these instruments with one another. Participants in the OTC market include banks,
+investment firms, insurance companies, large corporations, and other parties.
+
+Market Size & Opportunity
+The total derivatives market capitalization to date is an approximate amount of $20.7
+Trillion, as a low end estimate, and up to a staggering $1.2 Quadrillion as a high end
+estimate.1
+Options are a type of derivatives agreement/contract between two parties pertaining to
+the gain exposure on the direction and market movement in an underlying asset or
+instrument. Options are typically traded on exchanges. Just in the US alone, total options
+contracts volume reached 3.1 Billion from January – September 2017 YTD.2
+The Chicago Mercantile Exchange (CME Group), one of the largest derivative exchanges in
+the world; achieved a volume of 78.8 Million options contracts just solely in the month
+of October 2017,3 a mere fraction when compared to the potential estimated total
+derivatives market, especially when combined with estimated volumes in the OTC markets.
+For the most part, options contracts traded in large exchanges and OTC markets that have
+market liquidity are not directly accessible to retail individuals. Instead, these retail
+individuals have to make trades through a broker or brokerage firm that has access to the
+exchanges or OTC markets.
+
+Brokers & Online Trading
+Brokers are entities with access to exchange and OTC markets, that can place buy and
+sell orders on behalf of their clients. Some renowned brokerage firms are Fidelity
+Investments or Charles Schwab Corp. in the US.
+1
+
+Comparing the World’s Money & Markets h�p://money.visualcapitalist.com/worlds-money-markets-one-visualiza�on-2017/
+
+2
+
+September 2017 YTD listed op�ons volume reached 3.1 billion contracts h�p://tabbforum.com/liquidity-matrix/op�ons
+
+3
+
+CME Group Monthly Volume Report h�p://www.cmegroup.com/daily_bulle�n/monthly_volume/Web_Volume_Report_CMEG.pdf
+
+Level01 White Paper ver. 1.2
+
+1
+
+1.0 | Introduc�on
+
+Today, with the advent of the internet in the digital era, thousands of brokerages are
+harnessing the reach of the internet and setting up online trading platforms to get more
+customers and enabling their clientele to trade from anywhere.
+The corresponding rise of complementary financial technology has led to many grey areas
+in terms of brokerage operations and financial regulatory reporting.
+While some brokerages especially larger more renowned financial institutions strive to
+abide by regulations carefully defined by their country’s corresponding securities
+commission or financial authority, many brokerages are only interested in their bottomline.
+Thus there are countless reported cases of mismanagement of client funds, untimely
+execution of trades, and general misconduct and disregard of a client’s rights such as late
+processing of withdrawals or exorbitant/hidden trading fees.
+With easy access to white label trading software, there are even cases where unscrupulous
+individuals create brokerages to scam and abscond with user deposits.
+We can summarize most issues as derived from improper handlings of client entrusted
+funds by the broker. This is the number one cause of mistrust and escalating regulatory
+and legal implications worldwide towards broker trading platforms.
+
+‘Trust has become a guessing game with brokerages, where even large
+and renowned brokers are being scrutinized for questionable ethics’
+“FXCM Brokers banned by the CFTC for taking positions against clients, to exit US market.” 4
+
+Blockchain – the Trust Protocol
+The blockchain is a digital, immutable, public ledger popularized as the technology behind
+the now renowned cryptocurrency, Bitcoin. The technology is also known as Distributed
+Ledger Technology (DLT). The blockchain’s decentralized nature, and it’s cryptographic;
+unalterable method of storing data makes it ideal for performing, verifying and storing
+transactions.
+Ethereum is a blockchain platform built with the capability for developers to program
+‘smart contracts’. Smart contracts are autonomous, self-executing and self-enforcing mini
+programs that can be used to: 5
+Function as a ‘multi-signature’ wallets, so that transactions can only be performed
+when authorized and signed by multiple parties.
+Manage and automate agreements between different parties.
+Provide utility and data to other smart contracts (similar to a software library).
+Store information about an application, such as user data and transactions.
+Several smart contracts can be triggered and work together in tandem to create more
+complex and sophisticated platform functionalities.
+At its core, blockchain serves the function of ‘trusted intermediary’ without the overhead,
+friction, or time associated with an actual company or organization.
+
+4
+
+FXCM banned by the CFTC h�ps://www.marketwatch.com/story/fxcm-banned-by-c�c-a�er-taking-posi�ons-against-clients-2017-02-06
+
+5
+
+How do Ethereum smart contracts work h�ps://www.coindesk.com/informa�on/ethereum-smart-contracts-work/
+
+Level01 White Paper ver. 1.2
+
+2
+
+1.0 | Introduction
+
+‘Blockchain and smart contracts can be a trusted default technology
+intermediary because it is open to anyone for verification’
+Anyone can see what code is written, how it is to be executed, and transactions that took place.
+
+Cryptocurrency
+Cryptocurrencies are made possible by blockchain technology. They are digital assets that
+function as a medium of exchange and store of value. Popular layman terms for
+cryptocurrency are just ‘coin’ or ‘token’. Cryptocurrency adoption and recognition is
+growing exponentially due to factors such as its resilience to be counterfeited or falsified,
+its decentralization and independence from any authority or government, and operability
+at a global digital level, making transactions fast, 24/7, and with known costs.
+2017 has been the year cryptocurrencies became mainstream, growing from a market
+capitalization of US$ 2.2 Billion from Jan ’17 to surpass US$ 600 Billion – Dec ’17. 6
+TOTAL MARKET CAPITALIZATION
+
+$400B
+
+MARKET CAP
+
+$600B
+
+$200B
+
+VOLUME
+
+JAN
+’17
+
+MAR
+’17
+
+MAY
+’17
+
+JUL
+’17
+
+SEP
+’17
+
+NOV
+’17
+
+The massive exponential growth, interest and trust in cryptocurrencies serves as a
+foundation for a ‘New Economy’ where thousands are using the blockchain and
+cryptocurrencies as a building block for a myriad of new products and services that were
+not possible before.
+By virtue of the blockchain, Level01 has designed an exchange and trading
+platform from the ground up with a system of smart contracts that resolves trust,
+human fallibility, emotion and irresponsibility in an efficient, transparent,
+automated manner.
+Design Technicalities are discussed in the Platform Architecture of this white paper.
+6
+
+Cryptocurrency Total Market Capitalization https://coinmarketcap.com/charts/
+
+Level01 White Paper ver. 1.2
+
+3
+
+2.0 | Level01 Pla�orm
+
+Level01 Platform
+
+Overview
+Level01 is the World’s 1st Peer to Peer (P2P) Derivatives Exchange with Artificial
+Intelligence (AI) Trade Matching Technology and Settlement on the Blockchain.
+Generally, options are the easiest financial instruments to trade, while effectively
+encompassing all the asset classes. Options are agreements/contracts between two parties
+with an opposing exposure to the price of an underlying asset. The results (payoff) of the
+derivative contract are derived from the asset’s underlying price without actually physically
+buying or selling it, which may be prohibitive if the asset is highly priced. Options contracts
+have an expiry time, and when it is reached, the party that benefits from the right choice
+of exposure receives the predetermined proceeds (profit) from the other party.7
+Level01 allows users to trade options contracts directly with one another peer-to-peer
+(P2P) without the need for an intermediary broker; with a proprietary system that was
+designed to leverage blockchain, cryptocurrency and smart contracts technology for
+automation and transparency in market data, trade contract intent & matching,
+transactional history, and trade profit settlement.
+For improved efficiency, peer-to-peer trade matching on the platform is assisted by a
+specially formulated algorithm ‘FairSense™’, which analyzes trade intent patterns of
+users on the platform and matchmakes or suggests them to counterparty users.
+Level01 also introduces the concept of the ‘Ecosystem Exchange’ by integrating features
+that allow users to be rewarded when participating in the ecosystem. This encourages
+more users to join from the increased liquidity base, thus creating an ecosystem network
+effect which benefits everyone.
+The primary objectives of the Level01 platform are:
+Simplicity and User Friendliness – By streamlining the capabilities of the platform to
+prevent information overload, Level01 intends to lower the barrier of entry and remove
+the complex/intimidating factor of online investing & trading for the layman/novice user.
+More sophisticated tools for advanced users are carefully designed into the user experience
+to be unostentatious and unnecessary for completing trading tasks.
+Automated Transparency – The Level01 system is designed and strives for trustlessness
+and transparency; where the information data (such as time stamps and wallet addresses)
+of every interaction, transaction process and settlement of trade is publicly available for
+review and inspection on the blockchain. This ensures Level01 can perform its role as the
+ultimate trust intermediary satisfactorily.
+Ecosystem Orientated – With a focus towards decentralization, Level01 intends to
+cultivate growth of the largest peer-to-peer options trading network, where every user is
+recognized individually with proven statistics and ratings. Its ecosystem growth centric
+features allow users to add value to the network, and derive value from it for themselves.
+API’s will also be built to allow users on other networks to access the core high value
+functionalities of the Level01 ecosystem.
+
+7
+
+The NASDAQ Op�ons Trading Guide h�p://www.nasdaq.com/inves�ng/op�ons-guide/
+
+Level01 White Paper ver. 1.2
+
+4
+
+2.0 | Level01 Platform
+
+Options Trading Methodology
+Options have been hailed as being one of the most successful financial products to be
+introduced in modern times, and are financial instruments that can be used effectively
+under almost every market condition and for almost every investment goal.
+Options trading involves deciding on the direction of the price movement in a market asset
+and if it will be higher or lower than the ‘exercise price’ (also known as ‘strike price’) at
+the expiry time of a given options contract. For a contract to go into force, it must be
+matched by a counterparty that will accept the opposing side of the trade. At the contract
+maturity/expiry time, asset price is compared against strike price and one of the parties
+will profit on the contract’s predetermined investment amount.
+Since options are contracts on the change in the market price of an asset, and are not
+trades in the underlying asset itself; they enable investors to gain exposure and
+encompass all popular asset categories classes such as Currencies, Stocks, Commodities,
+Index, and Cryptocurrencies without having to go through different brokers, exchanges,
+markets, clearing houses or other financial market infrastructures and intermediaries.
+Investors trade on the platform using options contracts. An initial investor seeking to trade
+on an option contract of an underlying asset places a proposed contract onto the platform,
+to be matched by counterparty.
+
+W
+
+W
+
+A
+
+A
+TM
+
+TI
+
+TI
+MP
+
+MP
+
+TI
+
+TI
+
+TI
+
+TI
+
+Figure 01 – Options Trading User Flow
+
+1) Users establish a Trading Allowance (A) with the platform’s LIST smart contract. A user sets a
+token allowance amount and the operation is cryptographically signed with the user’s wallet
+private key. This functions as a pre-authorization for the LIST to transfer out and temporarily
+hold tokens upon a trade matching, until trade settlement and profit distribution occurs.
+
+Level01 White Paper ver. 1.2
+
+5
+
+2.0 | Level01 Platform
+
+2) Users can then trade on the platform by creating options contracts in any asset class up to the
+value of A. An option contract contains parameters that allow other users to decide if they want
+to be the counterparty to the offered contract. Trade parameters are: expiry time of the contract
+(E), strike price and position (>SP, <SP), and notional value (NV), where (NV ≤ A).
+3) Options contracts that are created and placed into the platform are known as trading intent (TI).
+When a user creates an options contract, it will be sent to a pool of TIs on the off-chain servers’
+trading engine, where it will be curated, sorted, and displayed to other users based on their
+underlying asset interest and search criteria at that moment.
+4) Users viewing their curated list of options contracts to match with will see a matching price (MP)
+amount for every options contract in the list, which can be dynamically adjusted to reflect
+changes in the current market price of the underlying asset. MP is shown based on FairSense™
+algorithm, and is partially calculated based on the notional value (NV, contract size) of the
+contract. If the contract is in an unfavourable position, it may require a bigger portion from NV
+to match with; and vice versa if the contract is in a favourable position, it will cost lesser portion
+of NV to be a counterparty matcher.
+5) If a user is interested in becoming a counterparty to an options contract; they can accept the
+current MP, and the platform system will seal and finalize all parameters into a trade match
+(TM). TM will be sent by the server to the LIST smart contract for automated contract expiry
+event handling and trade settlement.
+
+LIST Smart Contract Protocol
+The Level01 Intent Sealed Transaction (LIST) smart contract protocol on the blockchain
+securely stores trade match parameters of users, initiates trade investment token
+transfers and serves as the transparent trustee of fund tokens vested into a trade match;
+and performs automated trade settlement upon trade contract expiry and determination
+of contract payoffs to the profiting party.
+
+PW
+
+Market Data
+Profit
+Distribution
+
+W
+
+T
+
+TM
+
+Wallet Balance
+Verification
+
+Issue Trading Intent
+Signs Trading Intent
+
+T
+
+W
+
+Wallet Balance
+Verification
+
+TI
+
+Agree with Match Price
+Signs to Accept Matching
+
+Figure 02 – LIST Smart Contract Protocol Operation Flow
+
+Level01 White Paper ver. 1.2
+
+6
+
+2.0 | Level01 Platform
+
+1) Users can be counterparties to an options contract by accepting a matching price of the contract.
+The ‘matcher’ would cryptographically sign to match with a trading intent with his wallet’s private
+key, and the platform will match the counterparty acceptance with the trading intent.
+2) The platform will verify sufficient token balances are available for both parties, before attempting
+to invoke the LIST smart contract. Upon successful verification, the platform will send all
+parameters to the LIST smart contract for handling.
+
+3) LIST smart contract verifies signatures, checks if both users have sufficient balance in wallet,
+
+and if yes; transfers and locks appropriate amount of tokens from both corresponding parties
+while sealing all contract parameters to be stored on-chain. LIST monitors and waits for contract
+settlement event to occur. A trusted 3rd party oracle service serves as an additional judiciary
+with cryptographic proofs on result data used for determining trade winner.
+Once the winner has been determined, the smart contract will distribute the profit to the
+winner, and the allocated platform fees to the platform wallet (PW).
+
+Hybrid Technology
+The Level01 platform is designed as a hybrid system, with a centralized off-chain trade
+matching/price discovery service engine; and an on-chain transaction settlement system
+with verifiable transparent market result data through 3rd party oracle services.
+The system was designed in such a manner, to alleviate currently notable shortcomings
+of fully implementing the whole trading system architecture on-chain with all components
+residing on the blockchain. These shortcomings are,
+Slower turnaround time for submitting or cancelling trade intent.
+Costlier approach when pairing trade intents, as they have to be submitted to the
+blockchain and cost will be incurred.
+Limitations with implementing latency sensitive features to assist trade matching.
+Less flexibility in providing the best user experience.
+While a noble and revolutionary technology, blockchain smart contract technology is still
+in its infancy; there is a misconception that smart contracts are already incredible
+autonomous intelligent software that can process instruction code and manipulate data on
+a superscalar level. The reality is currently smart contracts are bits of code that are
+triggered by transactions, to permanently read and write data onto the blockchain
+decentralized ledger database. 8
+By implementing a hybrid architecture, latency sensitive critical processes of the trading
+engine such as: dynamic charting, trade contract sorting and serving, dynamic pricing,
+trade matching and monitoring can be performed off-chain and centralized; while
+leveraging blockchain technology to do what it does best, to intermediate trust and confer
+immutability and transparency to transaction settlements.
+Ultimately, this combination will provide the best user experience and confidence in the
+trading platform to the users.
+As technology matures over time, Level01 is constantly keeping a close eye on developing
+technology that will provide better and more integrated solutions to the platform in terms
+of speed, efficiency, functional versatility and transparency.
+
+8
+
+Smart Contract Misconceptions https://www.coindesk.com/three-smart-contract-misconceptions/
+
+Level01 White Paper ver. 1.2
+
+7
+
+3.0 | Pla�orm Features
+
+Platform Features
+
+Multi-Platform Accessibility
+
+App Wallet with Blockchain Explorer
+
+The Level01 platform will be accessible through
+Android mobile app, iOS app, and standard
+internet web browsers. All platforms will have
+standardized user interface, user experience
+and features upon launch.
+
+The platform will have integrated wallet
+features that allow users to send and receive
+platform tokens, and browse transaction
+records directly from the blockchain. Inplatform wallet token conversion services
+through 3rd party APIs will be launched as a
+roadmap feature.
+
+Transparent Trade Settlement on
+Blockchain
+The platform will have fully automated and
+transparent trade settlement conducted on the
+blockchain, with transaction records such as
+timestamp and asset pricing fully available for
+verification and audit. Trades are immediately
+settled upon expiry and funds made available
+in respective wallets. No deposits or funds are
+held by the platform at any given time.
+
+Trading History with Trade Pattern
+Analytics
+Trading history is stored for every user, and
+processed with integrated analytics to show
+trading styles and patterns based on all trades
+made. This allows users to be constantly aware
+of their trading behaviours and patterns, and
+make appropriate adjustments.
+
+Trade Room Hosting
+
+AI Assisted Dynamic Fair Pricing
+
+Platform users can host trade rooms for other
+users by staking tokens. Trade rooms allow fast
+paced speculations to be carried out by users in
+group sessions, and win from the entire
+investment pool in a pari-mutuel style. The
+trade room host will earn hosting commissions
+from the investment pool.
+
+Users are assisted by platform AI ‘FairSense’
+that has consolidated built in fair value and
+price discovery algorithms using information
+and data from global interbank markets not
+usually accessible to retail investors. This
+improves trade matching and platform liquidity,
+and assists novice or even advanced investors
+for better trade matching circumstances.
+
+Tournament Hosting
+Platform users can host tournaments for other
+users by staking tokens. Users use tokens to
+participate in tournaments to accumulate
+points. At the end of the tournament, the
+respective leading users on the leader board
+will win from the accumulated pool of tokens.
+The tournament host will earn hosting
+commissions from the accumulated pool.
+Incentivized User Profile
+Platform
+users
+accumulate
+ranks
+and
+reputation through successful trades that can
+be monetized through followers. User profile is
+authentic and cannot be counterfeited because
+it is stored on the blockchain.
+External Ecosystem Trade Matching
+The platform will support options contract
+sharing to external ecosystems or social media
+platforms, such as forums, Facebook, Twitter,
+etc. that allow external participants to match
+with options contracts while outside the
+platform.
+
+Level01 White Paper ver. 1.2
+
+AI Assisted Trade Matching
+Platform AI ‘FairSense’ utilizes machine
+learning to analyze and monitor trading intent
+patterns and assists direct peer-to-peer trade
+matching through suggested trades.
+Trial Trading
+Users can conduct trade with a demo account
+that can be refilled with demo trading points,
+enabling investors to conduct research on their
+strategies without risking actual token value.
+Liquidity API
+API’s will be available for other platforms and
+brokerages to access the Level01 exchange,
+providing more liquidity and order book
+balancing.
+User Chat Messaging
+Users can chat directly with each other through
+private messaging, and suggest trades or
+propose contracts in message.
+
+8
+
+4.0 | Platform Architecture
+
+Platform Architecture
+
+The Level01 Trading Platform is modularly designed into several distinct modules that
+enable ease of scalability, development updates, debugging and zero downtime
+maintenance. These are the off-chain server processes of the trading & exchange engine,
+and the on-chain transaction settlement LIST smart contract on the blockchain interacting
+with real-time and historical data feeds to form an efficient, transparent, hybrid platform.
+All processes are load-balanced and are scalable without the need to interrupt the system
+in run-time. The Architecture is defined to support inter-server distribution to achieve
+minimum response time by allocating local servers in different regions in the future.
+
+Historical Data
+
+Live Data
+
+Ethereum Blockchain
+
+AMS
+centralized
+
+MME
+DDN
+
+Oracle
+
+BA
+
+LCE
+
+Port
+
+Port
+
+Firewall
+Port
+
+Port
+
+Level01 Platform Users
+
+Trading Engine
+The Trading Engine is composed of the following components:
+LCE – Live Contract Engine, is a websocket service which handles all subscription to live
+option contracts on the platform. The subscribed clients will receive immediate information
+update on the contract.
+BA – Business API, a REST service which serves the clients the entities of the system.
+AMS – Account Monitoring Service, monitors and keeps track of transaction statuses and
+querying blockchain wallet balances. It will also inform the system of wallets which are
+underfunded to delist the relevant contracts.
+
+Level01 White Paper ver. 1.2
+
+9
+
+4.0 | Pla�orm Architecture
+
+DDN – Data Distribution Node, retrieves historical and live data from the market data
+provider, and distributes it to client applications.
+MME – Master Matching Engine, is the centralized process that handles off-chain matching
+of trading contracts. Once off-chain matching is performed, it is passed to the LIST Smart
+Contract for on-chain handling.
+
+The Trading Engine performs all matching and fulfilment services for the users. It receives
+all trading input parameters from the client application, and dynamically organizes,
+processes and outputs the data in real-time to be viewed and interacted on.
+The Trading Engine dynamically displays options contracts according to user parameters,
+and pricing derived from the FairSense™ algorithm (described in the next chapter). The
+algorithm incentivizes a counterparty to match with an open contract by dynamically
+balancing the cost of matching according to the existing situation and current risk.
+Upon a trade matching, the Trading Engine performs data checks with the AMS, such as
+time stamp verification and funds availability before delivering the trade data to the
+Transaction Settlement System.
+To facilitate transparency and full settlement on the blockchain, Level01 uses an internally
+designed process for off-chain contract signing that allows users to pre-authorize the
+spending of tokens from their wallets. This is to ensure that funds are available when a
+counterparty is found and agrees to match with an existing options contract.
+This is important because during a trade matching stage, the option contract has dynamic
+pricing that reflects change in the market movement of the underlying asset. If a
+counterparty has to wait for the contract initiator to perform matching by spending tokens
+to the LIST smart contract that is handling the process, the pricing could have changed
+and be unfavourable to either of the parties.
+Transaction Settlement System
+The Transaction Settlement System is the LIST Smart Contract on the Ethereum
+Blockchain that accepts matched contracts data from the Trading Engine’s MME and
+performs settlement. The system awaits the expiration of the contract, verifies the result,
+determines the beneficiaries of profits through an oracle service, and performs settlement
+and profit distribution to the winning user(s) wallet and platform wallet for derived
+platform fee.
+Market Data Feed
+The Level01 platform’s real-time and historical market data feed is provided by Thomson
+Reuters, a global multinational mass media and information company. The Level01
+platform connects and accesses the data feeds through Thomson Reuters API’s, then
+processes and redistributes the data for:
+Charting of both historical and real-time market data in the client application
+Back end server algorithms to calculate FairSense™ analytics.
+During the settlement process, the platform also accesses Thomson Reuter’s data feed
+through a 3rd party oracle service to verify the authenticity of the data during payoff
+calculations and contract settlement.
+
+Level01 White Paper ver. 1.2
+
+10
+
+4.0 | Pla�orm Architecture
+
+Oracle
+An oracle, in the context of blockchain and smart contracts, is an agent that finds and
+verifies real-world occurrences and submits this information to a blockchain to be used by
+smart contracts. The primary task of oracles are to provide these data to smart contracts
+in a secure and trusted manner.
+The Level01 platform’s smart contract on the blockchain requires a safe and reliable way
+to acquire market data required for trade settlement, thus an oracle service using
+oraclize.it is implemented to provide data to the smart contract. Since blockchain is visible
+to the public, it is not feasible to keep access credentials to the APIs there. To tackle this
+issue, along with each options contract which is submitted to the blockchain, a specific
+purpose 256-bit encrypted token is also passed to the smart contract. This token is single
+-purpose and is only usable when the options trading contract maturity time arrives. From
+maturity time, this token can be submitted to the oracle service, or any party to verify the
+market data which was provided to the smart contract.
+Client Application
+The client application (mobile or web) interface allows the user to interact with the platform
+and conduct trades or participate in the ecosystem (such as hosting trading tournaments)
+for profit and commissions. The client application also streams and displays real-time
+market data charts of financial assets for the user for analysis, with multiple inbuilt
+analytics/charting indicators & tools.
+Technology & API’s
+The real-time processes in the system are implemented using javascript on Node.js.
+Node.js in conjunction with javascript is, in its core, an event-based language which makes
+it a superior choice for real-time applications in highly volatile environments. The active
+and vast community supporting and extending the packages on top of Node.js has brought
+Node.js to be among the most advanced backend technologies despite the fact that
+javascript had essentially been developed as a front-end programming language. Using
+Node.js, Level01 manages to achieve seamless scalability, rapid development and simpler
+maintenance for its platform. This is one of the reasons why major companies such as
+LinkedIn, Netflix and Uber have been migrating core application code to Node.js.9
+API’s on the Level01 platform are REST and stateless. This enables simple and efficient
+integration with other platforms and clients. The platform also exposes standard
+websocket access to clients for subscription to real time updates on the live contracts in
+the system.
+Security
+The Level01 platform servers are secured with multiple layers of firewall and server
+security solutions to safeguard the system from different types of attacks. The firewalls
+are continuously monitored and configured to identify malicious activity and eliminate
+current and potential attacks while ensuring a stable service.
+
+9
+
+10 Companies Node.js h�ps://unitedcyberdevelopment.com/10-companies-who-switched-to-node-js-is-node-js-the-future-of-web/
+
+Level01 White Paper ver. 1.2
+
+11
+
+4.0 | Pla�orm Architecture
+
+Authentication is necessary for all access points to the servers. The authentication method
+is through OAuth2 framework. The tokens are 256 bit encrypted and are invalidated after
+3600s.
+While maintaining vigil over serverside security, the blockchain element introduces
+another dimension of performance and security that Level01 has to monitor to prevent or
+mitigate issues. Certain issues that are common to other trading platforms are mitigated
+by the Level01 hybrid platform design. These are identified as per below:
+Blockchain Congestion
+This occurrence can cause user tokens lock/allowance on-chain to not be confirmed in a timely
+manner and hence any options contract creation will be deferred. While it can cause some waiting
+time and annoyance, there is no direct implications to the users’ funds or wallet. Another instance
+is that congestion will affect the oraclize.it smart contract. This would just mean settlement and
+transfer of tokens to winning user is deferred to a later point in time.
+Roadmap upgrades on the Ethereum network such as the Raiden network solution, pre-sharding
+and the Plasma network will all help to alleviate and solve blockchain congestion issues. 10
+Front Running
+This form of attack is non-existent in the Level01 system as the platform itself submits matches to
+the smart contract, and there is no traditional orderbook bid and ask price queuing. The system
+functions more like a pre-agreed price and parameters contract submission between two parties,
+and awaiting the conclusion time for settlement of the trade contract.
+Stale Oracle Arbitrage
+While the platform is relying on an oracle to fetch data from datafeeds, the platform is dealing with
+options contracts that have fixed settlement parameters, and payoffs based on the future value of
+an asset. There is no scenario where arbitrage is possible as all values/parameters are known
+beforehand during trade matching and sign/sealed in the LIST smart contract on the blockchain.
+Cancel Contract Flooding
+An attacker could potentially flood the system by creating and cancelling trading intents en masse.
+Level01 mitigates this type of attack by limiting the amount of trading intents that can be cancelled
+by any user per hour. As trade matching is performed off-chain, cancelled contracts can be delisted
+from the platform with minimal repercussions, unlike if trade matching was conducted on the
+blockchain, delisting a trading contract will be subject to latency and cost issues however would still
+affect the platform adversely for an attacker that can afford the time and cost. Cancellation of a
+contract once it is trade matched and sealed on the blockchain is not supported.
+Contract Heists
+Heists are not possible in the Level01 platform as tokens are not held or controlled by the system.
+All tokens in trade are held by the LIST smart contract with the source code publicly visible and
+auditable for the public. The smart contract will not relinquish the tokens held for trade contracts
+under any circumstances, until trade settlement occurs and the benefiting counterparty is
+determined. It will then perform its automated duty and transfer the profit tokens to the benefiting
+party.
+
+10
+
+Raiden Network work in progress h�ps://raiden.network/
+Ethereum Scalability Research & Development
+h�ps://blog.ethereum.org/2018/01/02/ethereum-scalability-research-development-subsidy-programs/
+
+Level01 White Paper ver. 1.2
+
+12
+
+4.0 | Pla�orm Architecture
+
+Trading Intent/Settlement Redirection
+Any tokens/fund transfers needs to have signatures from both counterparties of the contract (initial
+issuer and matcher) so no party including the platform can redirect transfers anywhere else as it is
+impossible to falsify users’ signatures.
+Replay Attack
+A replay attack would be a resubmission of data with original protocol verification, thus an attempt
+to load the system with redundant information. For instance, attempting to resubmit parameters of
+a trade intent contract and potentially confuse the system, before it goes on-chain for sealing. The
+smart contract prevents this type of attack by remembering unique hashes of all transactions, hence
+making it impossible to conduct a replay attack on the system.
+Suppressed Execution
+Users receive hash verification for all trade intents created and matched trades executed, thus there
+will be no occurrence where a transaction execution does not occur, yet the user is notified otherwise.
+There is a limited possibility that during last mile operation on the blockchain, the block transaction
+is not mined due to unforeseen circumstances. In this case, the platform will alert the user that his
+transaction did not occur.
+
+Level01 White Paper ver. 1.2
+
+13
+
+5.0 | FairSense™ Technology
+
+FairSense™ Technology
+
+Purpose of FairSense™
+The cornerstone and central function of financial markets is the free price discovery
+mechanism and ability to find its own equilibrium by balancing supply and demand.
+However there still exists fragmentation between institutional and retail streams in terms
+of trading costs and price discovery.
+Level01 strives to bridge the gap between institutional and retail users and ‘level the
+playing field’ for our platform users using algorithmic intelligent price discovery mechanism
+‘FairSense’, built using cross-stream analytics that are usually available only to
+institutional organizations.
+FairSense is designed to assist market participants in estimating true market value of the
+contracts they seek to trade, enabling efficient price discovery and liquidity in the Level01
+market (platform). Currently, FairSense is being implemented for options contracts that
+will be traded on the platform and will utilize inter-dealer quotes from spot and derivatives
+markets to estimate market value of the options.
+
+Mechanism for Price Discovery & P2P Liquidity
+With the exception of equity markets, the ability for retail investors to trade directly in
+financial markets has been somewhat limited. Retail brokers are the primary market
+access point for small investors who often use the same broker for their transactions
+limiting their ability to find ‘best execution’ and are forced to accept prices given by the
+broker. Also, they are often forced to trade at a ‘spread vs. mid’ and have no power to
+negotiate the level of spreads which they pay.
+Level01 as a peer-to-peer trading platform would enable retail investors to trade against
+multiple peers or brokers enabling them to find best execution available. Also, the ability
+to specify a fixed spread to fair value of an instrument would potentially reduce trading
+spreads significantly.
+However, for most small investors, leaving fixed bid/offer prices without continuous
+adjustment would be inefficient. For example, if they leave a fixed price in the market and
+the market moves, it could be filled because of sudden market movement and not
+necessarily in favour to the investor.
+FairSense™ helps users to assess fair values of contracts they seek to trade and enables
+them to continuously update their bid/offer price relative to the FairSense™ implied fair
+value. This ensures that if a trade is not matched immediately, the bid/offer price is
+updated continuously as markets move ensuring it is always priced competitively relative
+to most recent fair value.
+
+Level01 White Paper ver. 1.2
+
+14
+
+5.0 | FairSense™ Technology
+
+Case Analysis: Binary Option Example on EUR/USD Forex Pair
+FX Pair
+
+Strike
+
+Notional
+
+Current Date/Time
+
+EUR/USD
+
+1.181000
+
+$100
+
+11/17/2017
+08:30:00
+
+Option
+Maturity
+11/17/2017
+08:40:00
+
+EUR/USD Mid Price
+
+Fair Value – CALL
+
+Fair Value – Put
+
+Investor Offer Price
+
+1.179005
+
+$40.77
+
+$59.23
+
+$59.73
+
+Observation
+Time
+11/17/2017
+08:30:00
+
+A 10-minute binary put option is being offered at a $59.73 (fair value +$0.50). If order is
+not filled/matched almost immediately; after 4 seconds, EUR/USD spot price has moved
+by 1.5 pips and fair value moves above investors offer price. In this instance a contract is
+being offered below fair value.
+Chart 01 shows fair value of an option relationship with spot EUR/USD price. As can be
+seen, fair value is highly dependent on the spot rate. Therefore, if a retail investor submits
+an offer to an exchange this might be filled at a time when it is already below the fair value
+– an undesirable feature for investors. Such scenarios will disincentivizes them from
+submitting further offers to the exchange.
+
+EUR/USD Fair Value of a Binary Put
+EURUSD - Mid Price
+
+Fair Value - Put
+
+Investors Oﬀer Price
+$61.00
+
+1.17910
+1.17905
+
+EUR/USD Mid Price
+
+1.17895
+
+$60.00
+
+1.17890
+$59.50
+
+1.17885
+1.17880
+
+Put Fair Value / Offer Price
+
+$60.50
+
+1.17900
+
+$59.00
+
+1.17875
+1.17870
+08:29:54 08:30:03 08:30:12 08:30:20 08:30:29 08:30:37 08:30:46 08:30:55
+
+$58.50
+
+Time
+
+Chart 01 – EUR/USD and Fair Value of a Binary Put
+
+Level01 White Paper ver. 1.2
+
+15
+
+5.0 | FairSense™ Technology
+
+To overcome this problem, FairSense™ algorithm allows all investors to quote ‘relative
+offers’ to FairSense’s fair value. This allows investors to simultaneously compete for the
+best offers without overburdening them with a requirement to have their own algorithms
+for price estimation and implementing continuous quote updating manually.
+
+Binary Put Fair Value and Offer Price with FairSense
+Investors Oﬀer Price w. FairSense™
+
+Fair Value - Put
+
+Oﬀer Price without FairSense™
+
+62.00
+
+Fair Value and Offer Price
+
+61.50
+61.00
+60.50
+60.00
+59.50
+59.00
+58.50
+08:29:54
+
+08:30:03
+
+08:30:12
+
+08:30:20
+
+08:30:29
+
+08:30:37
+
+08:30:46
+
+08:30:55
+
+Time
+
+Chart 02 – Binary Put Fair Value and Offer Price with FairSense™
+
+Calculation of Fair Value
+In financial markets, calculation of a ‘fair value’ is often a subjective matter. However, in
+derivatives markets no-arbitrage principles often dictate where the ‘fair value’ or, in other
+words, pricing should be. As mentioned before, fragmentation of markets (between
+retail/small investors and institutional investors) often puts small investors at odds against
+their brokers as their ability to trade at (or close to) no-arbitrage prices is limited.
+FairSense™ seeks to overcome this problem by providing valuation analytics using
+standard market conventions, superior data feeds and market quotes with quantitative
+modelling. For derivatives traded on the platform, Level01 will provide estimation of fair
+market prices based on:
+Standard and widely accepted approaches to modelling a derivative instrument.
+Prices of other similar traded instruments in financial markets.
+Data feeds from reliable inter-bank dealers, electronic exchanges and retail brokers.
+For example, Black-Scholes model is a standard market convention for pricing and quoting
+of vanilla options. Key inputs to the pricing model are:
+Level01 White Paper ver. 1.2
+
+16
+
+5.0 | FairSense™ Technology
+
+Current price of the underlying asset (e.g. spot EUR/USD price)
+Volatility of the underlying
+Relative funding rates (or underlying forward prices)
+Figure below describes the FairSense™ pricing modelling process.
+
+InterBank
+Dealer Quotes
+
+Asset Spot Rates
+
+Retail
+Brokers
+
+Asset Forwards
+Funding Costs
+
+Electronic
+Exchanges
+
+Option Implied
+Volatility
+
+FairSense
+Analytics
+
+Real-Time
+Volatility Modelling
+Black Scholes
+Options Pricing
+
+Level01
+Quantitative
+Modelling
+
+Analytics & Price
+Gudance to Traders
+
+Level01 Platform Users
+
+Figure 03 FairSense™ Algorithm Analytics Process Flow
+
+The algorithm will observe and sequence real-time, cross-market variables, in the most
+liquid financial markets. These will be used to provide market consistent pricing analytics
+to users on the Level01 exchange. This, in turn, will allow users to continuously submit
+offer prices for the instruments they would like to trade consistently with other instruments
+traded globally, providing improved liquidity and price discovery on a peer-to-peer
+exchange.
+
+Level01 White Paper ver. 1.2
+
+17
+
+6.0 | Pla orm Economics
+
+Platform Economics
+
+The Level01 Exchange Token (LVX)
+Level01 is more than just a peer-to-peer trading exchange, it is designed to be a selfsustaining financial ecosystem where users whom contribute and participate in the
+ecosystem are rewarded.
+The Level01 platform utilizes its own ERC20 tokens on the Ethereum blockchain as a
+medium of value exchange within its financial ecosystem. These tokens provide the means
+to transparent and fair settlement on the blockchain, because it can be handled/automated
+by smart contracts to be programmatically disbursed to trade winners as profits.
+The tokens will be issued to participants of a token crowd-sale, and the total sales value
+of the crowd-sale shall determine the initial value per token.
+Level01 recognizes the true value of the token crowd-sale manifests in its early
+contributors and diverse community, and thus makes every effort to ensure the token
+sales are distributed to many investors, rather than allowing the concentration of the
+platform tokens in the hands of single large investors or groups, also known as ‘whales’.
+Potential token buyers are required to register with an email address and fill out an
+information form with accompanying identification documents before being able to
+purchase the tokens. Each individual will have a maximum cap on token purchase amount.
+Level01 tokens will be issued with finite amount, with the total supply capped at
+1,200,000,000 (1.2 Billion) tokens. The token will be assigned the symbol (LVX).
+
+Token Purpose
+A medium of exchange within a trading platform requires stable pricing with
+minimal/gradual fluctuation, which is the basis of an individual platform token instead of
+utilizing cryptocurrency assets such as Bitcoin or Ethereum, that are subject to extreme
+price volatility due to intense external factors and speculative trading.
+Users on the Level01 platform derive profit from their endeavours, and contract pricing is
+an integral part of any trading strategy. A sudden drop or rise in the value of the trading
+token will severely affect the profit/loss of the users in the platform and destabilize the
+platform economics.
+As technology is constantly evolving, Level01 also requires a token that can be future
+aligned with its platform development goals. For example: the Level01 platform has a
+token staking mechanism which incentivizes investors to stake tokens, thus reinforcing
+the price value of the LVX token. This sort of ecosystem feature would not be able to be
+integrated if the platform were to use another token, for example: Ethereum, which does
+not have a capped token limit. 11
+Thus an internal value token specific to the Level01 platform is necessary to provide a
+stable environment for platform users to trade in.
+
+11
+
+Ethereum not having a supply cap h p://www.ﬁntechist.com/ethereum-not-supply-cap-not-big-deal/
+
+Level01 White Paper ver. 1.2
+
+18
+
+6.0 | Pla�orm Economics
+
+Token Utility
+The LVX token is a combined value plus utility token, as it is used both as a medium of
+value exchange within the Level01 trading platform; and also utilized for in-platform
+functionality/value creation:
+Users can stake tokens to create trading rooms, which users can join for group
+matches. The host organizer will derive fees from the room’s trading profits.
+Users can also use tokens to organize tournaments in daily, weekly, fortnightly and
+monthly intervals. Tournament host organizers derive a % of tournament fees
+raised during the event.
+To ensure liquidity and value, the LVX token will also be registered on prominent
+cryptocurrency exchanges worldwide, and be made available for actual trading and
+exchange with other cryptocurrencies.
+
+Value Creation
+Value creation is an automatic occurrence of trade; two different parties choose to
+exchange assets of differently perceived value to each own satisfaction. In this case, the
+speculated position of a market asset towards the entitlement of a trading profit reward.
+Differentiation and competitive advantage of a digital platform is derived from its features
+and quality of service. As evident by its key features and token utility, Level01’s primary
+advantage is evident in its trust protocol through blockchain technology settlement and
+trade matching technology. However, Level01 intends to go above and beyond just a
+coordinating platform role for value creation.
+The additional focus of Level01 to grow the user base would be financial inclusion; realizing
+and converting more retail investors by lowering the barrier of entry in terms of initial
+trading investment cost, reducing complexity through proper user experience design, and
+engaging them through gamification.
+In the Level01 platform ecosystem, initial stakeholder/users would be the initial token
+subscribers, and early adopters obtained through marketing acquisition. Participants in the
+platform would primarily be individuals, with the potential for businesses and/or groups
+joining the platform eventually.
+Platform participants can be categorized into individual users and organizations. Both
+interact with the platform and derive benefit whilst also creating a virtuous value creation
+loop at the same time.
+
+Value to Users
+Individual users are the investors and speculators that use the platform for trading option
+contracts for profit. Users create value as they join the platform by improving liquidity.
+Users create value for each other becoming counterparties for each other and becoming
+both issuer of options contracts and also as counterparty matchers. As more users join
+the platform, the effect is enhanced exponentially creating a virtuous self-enforcing loop.
+Because there will be platform users that earn perpetual residual income through
+generating commissions from hosting trading rooms and tournaments, they will keep
+
+Level01 White Paper ver. 1.2
+
+19
+
+6.0 | Pla�orm Economics
+
+tokens active in the network, reinforce the price, and reduce sell pressure of LVX tokens
+in exchanges against other currencies/tokens.
+Users derive value from LVX tokens in the following manner:
+By utilizing the token as a value denominator. (direct successful trade profit,
+platform usage based reward)
+By direct market value appreciation and selling the token to a willing buyer. (direct
+off-platform return potential)
+LVX token value improved by network ecosystem dynamics (indirect, value
+generated over time reward)
+By utilizing the token to host trading groups/tournaments and get rewarded with
+host fees. (indirect, commission, platform usage based reward)
+
+Value to Organizations
+Level01 also realizes a superior business model can be derived by allowing institutional
+investors and brokers to trade on the Level01 platform. Level01 users trade with better
+odds on the platform. This will lead to more liquidity and allow all of Level01 users to
+obtain better trade execution and more profitable trades. To facilitate commercial and
+institutional trading, access to the Level01 platform will be provided via API’s. Level01
+anticipates other retail brokers will have significant improvements in liquidity which would
+enable them to hedge their exposures at a lower costs outside of their own platforms.
+Institutions and organizations that access the Level01 platform boosts the liquidity for
+each other on the platform, while benefiting from it as above.
+An interesting example how peer-to-peer exchanges complement markets can be found
+in the United Kingdom. BetFair, a peer-to-peer bookmaker acts as a marketplace in its
+own right to other tradition bookmakers (such as William Hill or Ladbrokes) enabling them
+to hedge positions.12
+
+12
+
+Turn Compe�tors into Complements h�ps://hbr.org/2011/01/how-to-design-a-winning-business-model
+
+Level01 White Paper ver. 1.2
+
+20
+
+7.0 | Schedule & Roadmap
+
+SCHEDULE & ROADMAP
+
+15M
+Additional Assets
+Additional Crypto
+Additional Commodities
+New Equities
+
+Trader Statistics
+& Analytics
+Trading Strategies
+Analysis Feedback
+Integrated In-Wallet
+LVX to BTC/ETH
+Token Conversion
+Aggregated Rates
+Web Application
+Launch
+
+API for External
+Liquidity Pool
+Extend to External
+Platforms Liquidity Pool
+
+Tournament
+Module Launch
+Tournament Hosting
+via Token Staking
+
+API for External
+Ecosystem
+Contract Sharing
+to External Networks
+
+P2P Options Exchange
+Public Launch
+Android Mobile App
+iOS App
+Assets Integrated
+Forex
+Cryptocurrency
+
+P2P Options Exchange
+Public Beta
+Android Mobile App
+
+P2P Options Exchange
+Private Alpha
+Android Mobile App
+
+75M
+
+SEP
+
+Blockchain Migration Proof of
+Activity with Deflationary Mechanism
+Proprietary Public Blockchain Technology
+
+AUG
+
+LVX Token Exchange to Card
+Exchange to Fiat with Card Withdrawal
+
+JUL
+
+60M
+
+JUN
+
+Framework for AI Instructions
+Automated Trading
+
+MAY
+
+Dapp Store for Platform
+Trading Algorithms
+with success ratings
+
+APR
+MAR
+FEB
+
+Multi Trader Room
+Module Launch
+Trade Room Hosting
+via Token Staking
+Additional Assets
+Additional Forex Pairs
+Additional Crypto
+New Commodities
+
+OCT
+
+JAN
+
+50M
+Neural Net II
+Automated Trade Matching
+with auto accept trade based on
+FairsenseTM price balancing
+Expanded Analytics
+Advanced Analytics Tools
+& Simulation Capability
+
+2019
+
+DEC
+
+40M
+
+NOV
+
+Multi Trader Options Exchange
+Trade Matching
+Partial Fill Contract Accepted
+during Trade Matching
+
+OCT
+
+30M
+
+SEP
+
+P2P CFD Trading Contracts
+No Time Expiry Contracts
+Tradeable on Platform
+
+AUG
+
+20M
+
+JUL
+
+Automated Trade Follow
+Follow Trade System
+Auto Commission Distribution
+
+JUN
+
+Trader Chat System
+Internal Chat System
+with History & Trade Interaction
+
+MAY
+2018
+
+Level01 White Paper ver. 1.2
+
+21
+
+8.0 | Legali�es
+
+Legalities
+
+Disclaimer
+This white paper document is for information purposes and does not constitute an offer or
+sale or any form of general solicitation or general advertising of interests in any fund or
+investment other than the Level01 token sale as detailed above.
+The information set forth below may not be exhaustive and subject to change. Should
+there be any ambiguity, the prevailing information shall be that which is indicated on the
+‘Terms & Conditions’ of the Level01 website. (https://www.level01.io)
+The Level01 platform tokens ‘LVX’ indicated in this document are the platform’s utility
+tokens whose entire purpose is to be utilized on the platform for services and/or medium
+of exchange as detailed in this document above.
+They are not intended for speculation and hold no claims to intellectual property, assets,
+cash flow or decision making/participation in the company’s business strategy. There is no
+promise of profit, value and claim of revenue on the LVX token.
+Pursuant to the token sale, know your customer (KYC) will be carried out and all token
+subscribers or purchasers will be required to present identification documentation
+electronically or physically through courier post, certified by a legal entity in the
+document’s country of origin, or country of residence.
+The token sale is not eligible for participation by citizens of the United States of America
+(USA), and the People’s Republic of China.
+The information contained in this white paper regarding the token sale are primarily of the
+English language. This document may be translated to accommodate a worldwide audience,
+and as such information contained herein may be lost, corrupted, mistranslated or
+misinterpreted. In the event of any such conflicts or inconsistencies, the information as
+outlined in this original English white paper shall prevail.
+
+Jurisdiction
+The Level01 platform is developed by companies: Level 01 Technologies Limited (Hong
+Kong), and Level 01 Technologies SB (Malaysia).
+Level01 is a technology provider that recognizes proper accountability is required to build
+trust for potential users and investors. Thus proper necessary regulatory compliance shall
+be obtained to ensure proper conduct of business activities.
+Due to the decentralized technology and nature of the blockchain, certain aspects of the
+platform are outside the capable responsibility of company (such as the token wallet).
+Users of the platform should read carefully the ‘Terms & Conditions’ of use as detailed on
+the website, and be aware of the risk involved with negligence of their account and wallet.
+
+Level01 White Paper ver. 1.2
+
+22
+
+

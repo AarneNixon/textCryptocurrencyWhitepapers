@@ -1,0 +1,1345 @@
+Pantos Vision Paper
+
+brought to you by the team at Bitpanda.com
+with ♥ from Vienna
+
+Executive Summary
+
+The Bitpanda team developed a new project called Pantos:
+The first multi-blockchain token system.
+
+Problem
+Ever since the introduction of Bitcoin in 2009, many new blockchain-based projects have been launched. The recent surge of these
+alternatives indicates a movement away from a single cryptocurrency
+focus to a variety of cryptocurrency-based applications built on top
+of blockchain-based technology. However, severe drawbacks arise if
+research and development efforts are not shared and communicated
+effectively between them. Projects risk ending up as separate islands,
+which ultimately slows down mass adoption of blockchain technology.
+
+Aim
+We believe that we can both strengthen the crypto ecosystem through deeper collaboration among different blockchain projects, and
+protect and empower community members by facilitating movement
+between blockchains via intuitive conversion of tokens.
+
+Approach
+
+2
+
+Pantos is a blockchain project conceived by the team behind
+Bitpanda and the First Multi-Blockchain Token System. Moreover,
+Pantos is conceived as an open-source, open-innovation driven scientific research project. By collaboration with researchers at the prestigious Technical University of Vienna, together we will bring Token
+Atomic Swap Technology (TAST) project to life and release the work as
+an open-source technology capable of performing a vital role within
+our digital future.
+
+Advantages
+As a multi-blockchain token system that allows for seamless crosschain token transfer, Pantos will:
+•
+
+Fostering Cooperation and promote Synergies
+between blockchain platforms
+
+•
+
+enable real-time arbitrage between exchanges
+
+•
+
+offer a future-proof solution regardless of technological change
+
+•
+
+introduce a new metric to measure the real-time PAN usage and
+distribution among blockchain platforms with the
+blockchain domination index.
+
+Roadmap
+The Pantos Project will be rolled out in three phases, moving incrementally toward decentralisation and community ownership and control.
+Phase one allows PAN to be shifted between multiple blockchains via
+the Bitpanda platform. The second phase involves the release of a
+public API facilitating automatic shifting of PAN between blockchains.
+The third and final phase involves the utilisation of atomic swaps,
+Lightning Networks and smart contract technologies to accomplish
+the complete decentralisation of PAN trading.
+
+Vision
+We want to bring influential blockchain projects together, improve
+communication between developers, researchers and users, and set
+standards for on-chain tokens. Through open collaboration with these diverse stakeholders,we can determine best practice regarding issuance and exchange of PAN tokens on every blockchain.
+
+3
+
+00
+
+Executive Summary
+
+01
+
+Motivation
+
+02
+
+Background
+2.1
+2.2
+2.3
+2.4
+2.5
+
+03
+
+Blockchain Technology
+Cryptocurrency
+
+Segregated Witness
+Atomic Swaps
+
+Lightning Network
+
+Introducing Pantos
+3.1
+3.1.1
+
+Seamless: Cross-Chain Token Transfers
+Real-Time Cross-Chain Arbitrage
+Blockchain Domination Index
+
+3.1.2
+3.2
+
+04
+
+Roadmap
+4.1
+4.1.1
+4.2
+4.3
+4.4
+
+05
+
+5.2
+5.3
+5.4
+5.5
+5.6
+5.7
+
+General Guidelines for becoming a part of Pantos
+
+Phase One: Proof-of-Concept & Interim Solution
+Phase Two: Automation
+
+Phase Three: Decentralisation
+
+Distribution Formula
+Referral Program
+
+Company Reserve
+Team
+
+Bounties
+
+Bitpanda Airdrop
+Timeline
+
+Team
+6.1
+6.2
+6.3
+6.4
+6.5
+
+07
+
+Current Phase: Growing the Pantos Community
+
+Initial Coin Offering
+5.1
+
+06
+
+Advancing Market Readiness of Decentralized Blockchain Solutions
+
+Bitpanda
+
+Technical Advisors & Partners
+Industry Partners
+
+Strategic and Legal Partners
+
+Universities and Scientific Partners
+
+Contact
+
+Chapter 1
+
+Motivation
+
+Ever since the introduction of Bitcoin in 2009, many new blockchain-based projects have been launched, each with their own set of
+features and specifications. While Bitcoin aims primarily to facilitate
+trustless accounting and transactions, newer projects such as Ethereum incorporate the ability write and execute decentralised code.
+Meanwhile, Litecoin, a currency created by former Google engineer
+Charlie Lee as a side-project in 2011, has been able to establish itself
+as a worthy Bitcoin alternative, lowering transaction processing time
+and fees through adjustments to the size and frequency of blocks.
+Other coins differentiate themselves by enhancing key concepts in
+cryptocurrency such as privacy (Dash, Monero, Zcash) or stability in
+value (e.g. Tether). The number of cryptocurrencies and tokens available on the internet today exceeds 1,400, with new blockchain-based
+tokens launched every day. The surge in the value, of not only Bitcoin
+but especially its more recent derivatives, indicates a movement away
+from a single cryptocurrency focus (Bitcoin) toward a broad ecology
+of cryptocurrency-based applications built on top of a network of separate, but related blockchains.
+
+With the rapid increase in blockchain-based projects comes the risk of
+ineffective communication between both developer teams and endusers. This scenario leads to non-productive competition between developers, deters talented new minds from entering the crypto space
+and alienates end users, who use online discourse to choose between
+the vast multitude of available cryptocurrencies. This increases the
+probability of failure of blockchain projects, negatively affects valuation of all cryptocurrencies, and ultimately hinders mass adoption of
+the blockchain technology.
+
+6
+6
+
+According to a study by Deloitte, 92 per cent of the blockchain projects launched in the last three years have ultimately stagnated or
+failed. In fact, this is a reality not just for blockchain technology, but
+for open source development in general, with most projects ending
+up abandoned, superseded, or failing to achieve a meaningful scale. Despite sharp rises in the valuation of many well-known cryptocurrencies in recent years, the blockchain space is far from immune
+to the dangers associated with open-source development. Our conclusion, therefore, is that deep and sustained collaboration between
+blockchain projects, currencies and communities is vital to the value
+of the crypto ecosystem as a whole. The keystone to such a fruitful
+collaboration, we feel, is the development of technology that allows
+freer movement of tokens and value between existing blockchains;
+increasing the fungibility of crypto tokens will necessarily improve the
+health of the ecosystem as a whole, for users, developers and researchers alike.
+
+7
+7
+
+Chapter 2
+
+Background
+
+2.1
+
+Blockchain Technology
+Blockchain technology offers a way to securely and permanently record data using cryptography. Publicly owned nodes store a complete
+recording of past and present “blocks” of data, and are constantly
+synchronised in order to ensure the validity of new entries into the database. The individual blocks are linked by mathematical algorithms,
+forming a long chain. After being written into the blockchain, data in a
+block cannot be subsequently changed without the consent and consensus of the network. Blocks are created through a process known as
+mining, which involves cryptographically grouping recent transactions
+into a new block, and adding this block to the existing chain. Miners
+are rewarded for this task with newly-minted units (block rewards), as
+well as with transaction fees included specified by users when making
+a transaction (transaction fees).
+While the best known implementations of blockchain technology is as
+a cryptocurrency, generally speaking, the possible use-cases of blockchains extend far beyond the domain of finance. As the technology
+has matured, nascent systems have emerged that use the blockchain
+to record events, prove the existence and ownership of documents,
+manage citizen identity, store medical records, and to track the origins
+and movements of physical commodities such as food and produce.
+Further novel uses of blockchain technology are constantly in development worldwide.
+
+2.2
+
+9
+9
+
+Cryptocurrency
+Cryptocurrencies are digital assets designed that store and exchange
+value. Cryptography ensures the validity of transactions and ownership, while hard-coded rules can be used limit the total supply of currency, both in the present and future. The Bitcoin protocol and currency,
+conceived in 2008 by an anonymous person or group called Satoshi
+
+Nakamoto, and implemented in 2009, today represents not only the
+first and most popular cryptocurrency, but also the first working implementation of blockchain technology in general.
+Unlike centralised electronic banking systems, the Bitcoin protocol (as
+well as most other cryptocurrencies) operate under distributed and
+decentralised ownership and control. Since all Bitcoin transactions are
+visible on the blockchain, and since cryptographic techniques ensure
+that each user can not spend units more than once, in cryptocurrencies render obsolete key functions of traditional banking systems as
+trusted third parties that can validate ownership and transfer of value.
+Instead, these encryption techniques take over the roles of clearing
+houses and other intermediaries.
+
+Smart Contracts
+Smart contracts were first described by Nick Szabo in 1996, and refer
+to computer protocols that facilitate, verify, and enforce the negotiation and execution of contracts. Many types of contractual clauses can be made partially or even completely self-executed, self-enforced, or both. Smart contracts have the goal of providing greater
+security than traditional contract law and thus, have the potential to
+reduce costs associated with contracting. Currently, smart contracts
+are implemented based on blockchains and associated with cryptocurrencies, but are likely to figure into novel blockchain developments
+in the near future.
+
+2.3
+
+10
+10
+
+Segregated Witness
+Segregated Witness, or SegWit, was initially proposed as a partial solution to the Bitcoin scaling debate. It is an amendment to the Bitcoin
+protocol, also known as a “soft fork”, activated in 2017. SegWit changes the format of transactions within blocks, reducing transaction
+size and therefore increasing the number of transactions that can be
+included in a block. More specifically, SegWit splits a transaction into
+two segments: the sender and recipient data is stored separately to
+sensitive data like scripts and signatures, which are moved to the new
+„witness“ structure. This witness structure is counted as only a quarter
+of its actual size when determining its contribution to a block, thus
+making it possible to fit more transactions into a block. This change
+serves two purposes: An attack class called malleability attacks is mitigated, and furthermore, due to the reduced block size, the number
+of transactions recorded in a block is increased. At the same time,
+SegWit results in faster payment channels, as it lowers the cryptogra-
+
+phic workload, simply appending signatures from the transaction as
+a separate structure after the main part of the transaction has been
+processed.
+Since its successful implementation for Bitcoin, it has also been incorporated into other cryptocurrencies, such as Litecoin, Decred and
+Vertcoin.
+
+2.4
+
+Atomic Swaps
+Atomic swaps allow for the instant exchange of cryptocurrencies between two parties on two different blockchains, peer-to-peer, at previously agreed terms and without the need for third parties to oversee
+or facilitate the transaction. This technology enables instant transfers
+between multiple cryptocurrencies in a completely trustless manner
+and with zero counterparty risk, as transactions either complete successfully in full, or are canceled and all coins returned to the original
+owners. The main objective of the atomic swap technology is to create interoperability between blockchains, allowing seamless, near-instant direct trades between cryptocurrencies and other digital assets.
+The concept of atomic swaps is not new: it was introduced as atomic cross-chain transactions by Tier Nolan in 2013. Development of a
+working implementation of atomic swap technology has taken some
+time, but technological breakthroughs such as SegWit have made the
+realisation possible: very recently, developers from the major crypto
+projects have begun testing and even completing atomic swaps. Komodo’s lead developer, JL777, who recognised value in Tier Nolan’s
+concept, built the necessary framework and his first atomic swap just
+a year later in 2014. Since then, numerous atomic swaps have been
+proven viable. In 2017, developers from Decred created the first functioning cryptocurrency atomic swap between Decred (DCR) and Litecoin (LTC). Meanwhile, altcoin.io carried out the world’s first atomic
+swap between the Ethereum and Bitcoin blockchains, and Litecoin
+Founder Charlie Lee, announced on Twitter the successful on-chain
+atomic swap of 1 LTC for 55 VTC with James Lovejoy, Lead Developer
+of Vertcoin.
+
+11
+11
+
+How it Works
+An atomic swap is, from the user’s perspective, very similar to a regular cryptocurrency transaction, but allows cross-trading of multiple currencies. Using the built-in scripting languages of a given cryptocurrency (e.g Script for Bitcoin, Solidity for Ethereum), one current
+technical implementation of an atomic swap system creates hashed
+time-locked contracts, which, in turn, utilize the multisignature and
+time lock features available in the basic scripting language used
+for most cryptocurrencies currently in existence to synchronize two
+transactions on two independent blockchains without having to trust
+each other. The digital signatures act as a functioning escrow that
+prevent one party from sending coins to another party, and not receiving the bargained for swapped coins in return.
+
+The Atomic Swap Process
+Both parties, in our example Alice and Bob, submit their individual
+transaction to the appropriate blockchain:
+Alice sends Y coins on Blockchain Y.
+Bob sends Z coins on Blockchain Z.
+Alice claim Bob’s Z coins and reveals her secret number (X) publicly
+on Blockchain Z.
+Bob can find X on Blockchain Z and use it to claim Y coins
+on Blockchain Y.
+
+12
+12
+
+The recipient can only claim his/her desired coins by revealing a secret
+number, X, which is the missing piece needed for the other party to
+claim coins. This results in a coupling of the two transactions, despite
+the fact that each took place on a different blockchains.
+Key to a successful atomic swap system is the prevention of loss in the
+event of non-cooperation by one or more parties during the process
+of exchange. Through the above described procedure, both parties’
+coins are returnable if the other party fails to cooperate. Either the
+timer expires, and they get their coins back, or X is revealed and both
+Alice and Bob are able to receive their desired currency, without any
+commission taken by the token-swapping protocol.
+The cross-chain swap described above is based on CheckLockTimeVerify (CLTV), a soft-fork update proposed by Bitcoin Core Developer
+Peter Todd. Essentially, it allows users to create a Bitcoin transaction
+of which the outputs are time-locked until a specified date, or until
+a certain number of blocks has been mined. CLTV is necessary for
+properly functional payment channels, because the use of a timelock acts as a failsafe in the case of non-cooperation of one or more
+parties. Channels implementing CLTV effectively facilitate a series of
+“off-chain” transactions, while retaining all the security of typical onchain transactions and adding possible additional benefits such as
+escrow.
+
+Status Quo
+Current implementations of atomic swaps are neither easy-to-use or
+private. Merkleized Abstract Syntax Trees (MASTs) have been proposed as a privacy improvement. Assuming their eventual integration
+into Bitcoin and other digital currencies, MASTs have the potential to
+significantly improve privacy by obfuscating sender and recipient information. Other difficulties for current atomic swap systems include
+the fact that transaction partners must first find each other, that both
+have to agree to fixed terms before the transaction, and that several
+transactions are still ultimately required on multiple blockchains.
+
+Future Outlook and Potential
+
+13
+13
+
+While atomic swaps have been successfully conducted using prototype systems, the current lack of user-friendliness hinders widespread
+mainstream adoption of the technology. Demand and need for
+easy-to-use atomic swap technology will only increase; for this rea-
+
+son, we find it timely to begin active development of a high-quality,
+open-source atomic swapping protocol, believing that facilitation of
+currency swapping will have the additional benefit of bringing currently separate blockchain-based projects closer together, enhancing
+cooperation, reducing duplicated efforts, and resulting in a healthier
+crypto ecosystem.
+
+2.5
+
+Lightning Networks
+The Lightning Network is an infrastructure built on top of the Bitcoin
+protocol that facilitates instant and high-volume micropayments,
+while retaining Bitcoin’s core values of decentralisation and trustlessness. It is one of the first implementations of a multi-party Smart Contract that uses Script, the built-in scripting language of Bitcoin.
+
+Instant Micropayments and Scalability
+Currently, Bitcoin transactions are neither instant nor free. With Bitcoin, payments are widely regarded as confirmed after six or more
+block confirmations (i.e. inclusion of the transaction within a block,
+and the inclusion of this block within five blocks to follow). Because
+Bitcoin blocks are generated at intervals of approximately ten minutes, full agreement regarding a transaction’s existence can easily
+take over an hour. This problem is exacerbated when the transaction
+pays a very low mining fee, which disincentivises miners from including the transaction in an upcoming block. Furthermore, the increase
+in popularity of Bitcoin has made space within blocks more precious;
+at multiple points in 2017, for example, Bitcoin fees rose to all-timehighs, as users clamoured for space within crowded blocks.
+
+14
+14
+
+On the Lightning Network, however, payments don‘t require block
+confirmations, nor do they compete for space within blocks. Instead,
+they are instant and atomic, and thus more convenient for use at
+retail point-of-sale terminals, or anywhere else where transaction
+speed is a high priority. Furthermore, Lightning opens the possibility
+for micropayments, and therefore potentially an entirely new market. By moving small transactions off-chain, and settling only when
+one or more parties wish to, fees are kept minimal, and actual use
+of the blockchain is reserved for more critical transactions. Lightning
+networks are therefore particularly well-suited for the ever-increasing
+use of internet connected devices, which handle an increasing proportion of all transactions, and figure more and more prominently
+into points of sale.
+
+How it Works
+The specification for using the Lightning Network relies on SegWit,
+which is already active for Bitcoin, Litecoin, Vertcoin and other blockchains. Lightning Network payment channels can be opened committing funds to a two-party, multisignature „channel“ address on the
+relevant blockchain. This funding transaction acts as a public ledger
+entry, under which users can carry out any number of off-chain Lightning transactions. The various created channels form a network, through which new transactions can find paths, allowing transactions
+between channels that are not directly linked. A decrementing timelock script enforces either a complete, successful payment within a
+given period of time, or, upon failure, the nullification of the payment.
+
+15
+
+Only when a channel owner decides to close his/her channel does
+the final balance of both parties get updated on the blockchain. This
+allows for unlimited transactions off-blockchain, with a comparable
+level of security and trust of an on-blockchain transaction.
+
+The real-world equivalent of this technology is the conclusion of legal
+contracts between many parties without the need to be in court every
+time a contract is signed. You gain legal certainty of the contract and
+only in case of non-cooperation must disputes be challenged in court.
+However, in the case of Lightning Network payment channels, the ruling from the court is replaced by the deterministic result of the blockchain.
+
+Altcoin Lightning Networks.
+Although the Lightning Network was originally designed for Bitcoin,
+other currencies forked from Bitcoin’s codebase (e.g. Litecoin, Dogecoin, Zcash) are also capable of hosting lightning networks. Similar
+solutions can be accomplished for non-Bitcoin-derived protocols as
+well (e.g. the Raiden Network for Ethereum). Importantly, Lightning
+Networks use hash time-locked contracts to link payment channels in
+the same way that atomic swaps link blockchains.
+
+Cross-Chain Lightning Networks.
+Because most cryptocurrency implementations share core components, and given the viability of atomic swaps described above, the
+development of interoperable, cross-chain Lightning Networks becomes a realistic possibility. Importantly, cross-chain Lightning Networks
+would have mutual benefits for the blockchains involved, and their
+users: for example, with such a system, Bitcoin-to-Bitcoin payments
+could be performed by Litecoin peers if they happen to be cheaper.
+
+16
+
+Chapter 3
+
+Introducing Pantos
+
+Pantos01 is an initiative conceived by the team behind Bitpanda, aiming to serve as a lighthouse project in an increasingly fragmented
+blockchain space. Within this landscape of innumerable blockchains
+serving increasingly diverse purposes, Pantos seeks to provide channels for both communication and cross-chain exchanges of data and
+value. Ameliorating current barriers to partnership and collaboration
+between developers, institutions and users will speed up innovation
+in blockchain research and technology, linking currently separate
+blockchains so that they can scale and mature together. To further
+encourage collaboration and a free flow of ideas, Pantos will be
+developed as an open-source scientific research project, collaborating on atomic swap based technology with researchers at the Technical University of Vienna, and on open-innovation driven knowledge
+generation through collaboration with exploration space @ ÖAW, a
+working group within the Austrian Academy of Sciences.
+
+01 The prefix pan- is derived from the Greek πãv, used in English for
+‘all’, or more liberally, ‘everything’. The second syllable, -tos, is
+simply a shortening for Token System.
+
+18
+18
+
+3.1
+
+Seamless Cross-Chain Token Transfers
+Pantos will enable seamless cross-chain token transfers by creating a
+standardised interface for interacting with multiple blockchains and
+by establishing the first multi-blockchain token system. Through partnering with major blockchain platforms, the PAN token will be introduced on their blockchains, allowing seamless transfers of value between them. Pantos users can transfer their PAN from one blockchain
+to another for any reason, without any additional charges beyond
+any transaction fees paid to miners. Should a user desire to move
+PAN, a target blockchain to migrate to must simply be chosen.
+The development of a cross-chain token benefit applications and
+ecosystems on participating blockchain projects in a number of ways:
+
+•
+
+Fostering Cooperation - Promoting Synergies
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+Under the framework of the Austrian national initiative for Open
+Innovation, we aim to encourage cooperation between various
+projects in the crypto economy. Best practices and standards 		
+on key issues such as atomic swaps, transaction fees and
+Lightning Networks can only be established through an open
+dialogue with diverse participants in the crypto community. 		
+Through our collaboration with exploration space @ ÖAW, we will
+organise meetups, panels and hackathons that lead to
+open-source solutions to key issues in the blockchain ecosystem,
+building stronger links between blockchains,
+their developers and users.
+
+•
+
+Future-Security regardless of Technological Changes
+
+•
+
+Real-Time Cross-Blockchain Arbitrage and a new metric
+
+		Pantos and the PAN token have major benefits for blockchains
+		
+and their users. For blockchains, PAN provides a new point 		
+		
+of access and new stream of value; for users, Pantos provides a
+		
+means of easily migrating to a preferred chain; it therefore
+		
+eliminates the risk of having value stuck on projects that are
+		
+compromised, abandoned or which devalue over time.
+
+19
+19
+
+		Pantos will make visible for the first time exactly how value flows
+between blockchain projects. Using the PAN token traders will
+		
+		
+therefore be able to exploit emerging price differences between
+		
+cryptocurrency pairs. For this reason, associated with the
+		
+development of Pantos will be the development of a system
+		
+for tracking value migration between blockchains.
+		
+This new index, the Blockchain Domination Index, will be a useful
+tool for end-users aiming to exploit differences in the valuation
+		
+		
+of a given currency pair.
+
+3.1.1
+
+Real-Time Cross-Chain Arbitrage
+Arbitrage is the execution of financial transactions in order to benefit
+from price differences that the same asset can have in different markets. More specifically, arbitrage represents the ability to profit from
+these differences until they diminish to zero, which often occurs due
+to the execution of the arbitrage transactions themselves. Generally,
+fully functioning open markets have almost perfectly aligned values
+between exchanges. If differences in price emerge, they can be exploited for profit via arbitrage, which will in turn lead them to close
+very quickly again.
+
+Arbitrage opportunities with PAN
+Because PAN will be exchangeable on different blockchains on a onefor-one basis, the market introduction of PAN on various exchanges
+will cause price differences in the same token against different currencies. Initially, traders will be in a position to exploit emerging price
+differences between cryptocurrency pairs and use PAN as a universal
+denominator token to profit. With increasing acceptance and growth,
+opportunities of arbitrage trading using PAN will be efficiently exploited; the introduction of Pantos could therefore add needed stability
+to the currently volatile cryptocurrency trading market.
+Arbitrage
+Arbitrage
+Profit
+Profit
+Arbitrage Profit
+
+End:
+End:
+
+Start:
+Start:
+End:
+
+PAN/BTC
+PAN/BTC
+= 0,00001
+= 0,00001
+PAN/BTC = 0,00001
+
+1,1 1,1
+BTC
+BTC
+
+20
+20
+
+1,1 BTC
+
+Start:
+
+PAN/ETH
+PAN/ETH
+= 0,0001
+= 0,0001
+PAN/ETH = 0,0001
+
+1010
+ETH
+ETH
+
+Rate
+Rate
+changes
+changes
+from
+from
+Assumptation:
+Assumptation:
+Rate changes from
+Assumptation:
+ETH/BTC
+ETH/BTC
+= 0,1
+= 0,1
+BTC
+BTC
+devalues
+devalues
+10%
+10%
+compared
+compared
+toto
+ETH,
+ETH,
+ETH/BTC = 0,1
+BTC devalues
+10%
+compared
+to ETH,
+the
+the
+corresponding
+corresponding
+PAN
+PAN
+rate
+rate
+doesn‘t
+doesn‘t
+change
+change
+the—corresponding
+PAN raterises
+doesn‘t
+quickly
+quickly
+enough
+enough
+—
+arbitrage
+arbitrage
+opportunity
+opportunity
+rises change ETH/BTC
+ETH/BTC
+= 0,11
+= 0,11
+quickly enough — arbitrage opportunity rises
+ETH/BTC = 0,11
+
+10 ETH
+
+3.1.2
+
+Blockchain Domination Index
+Real-time metric for token usage and distribution across networks.
+
+0–100% Percent of Pantos
+Distribution among Blockhchains
+
+100%
+Blockchain 1
+
+Blockchain 2
+
+Blockchain 3
+
+0%
+Month 1
+
+Month 2
+
+Month 3
+
+Month 4
+
+Month 5
+
+Month 6
+
+Pantos’ portability feature allows PAN to become the first universal
+denominator token. This will allow for the introduction of a new crypto economic metric: a Blockchain Dominance Index, which will show
+real-time token usage and distribution among blockchains and, thus,
+can measure each blockchain‘s significance for PAN. Moreover, when
+users successfully adopt PAN, its flow between blockchain projects
+could provide a reliable metric that captures public confidence in a
+given project’s vitality, opening up a pathway toward predictive analytics in cryptocurrency valuation, and in valuation of the crypto ecosystem as a whole.
+
+21
+21
+
+3.2
+
+Advancing Market-Readiness of Decentralised Blockchain Solutions
+Pantos is not only the first multi-blockchain token system, but also an
+open-source scientific research project aiming to further decentralise
+blockchain solutions and increase their suitability for the mass market.
+It is a foregone conclusion that the future of the internet is decentralised, with blockchain technologies forming a major component within
+a broad, distributed network. Therefore, we are partnering up with
+universities, research institutions and knowledge hubs to accelerate
+the research efforts on decentralised blockchain technologies (e.g.
+atomic swaps, payment channels, etc.) to build decentralised solutions suitable for the mass market that are reliable, open and provably fair.
+Living up to their reputation as highly esteemed partners of innovation-oriented enterprises, TU Wien provides us with dedicated research
+staff for a joint project entitled ‘Token Atomic Swap Technologies’
+(TAST). The project is supervised by Dr. Stefan Schulte, Assistant Professor for Industrial Cyber-Physical Systems at TU Wien. The core aim
+of TAST is the the introduction of atomic swap technologies into the
+Pantos Project by the Distributed Systems Group (DSG) of the TU Wien.
+Based on insights gained from this project, prototypes of on-chain
+atomic swaps will be built to demonstrate the mass market suitability.
+On-chain atomic swaps are a critical current issue in the blockchain
+community. While initial working prototypes and APIs are now available, these are not yet mature enough for widespread adoption by
+end-users. Currently, another interface is needed to exchange information outside the participating blockchains. So far, this interface
+had to be set up manually by the parties involved in the swap. TAST
+aims to improve these kinds of utility transfers through automated
+means of exchange.
+The research results gained from the TAST project could extend to
+Pantos, functioning as a traffic monitoring and management system,
+locating and establishing atomic swaps and Lightning Networks. The
+creation of such a system could greatly facilitate the mainstream
+market access to decentralisation technology.
+
+22
+22
+
+Chapter 4
+
+Decentralised solutions for a decentralised currency
+
+Based on the current state of knowledge, much further research on
+decentralisation technologies (smart contracts, atomic swaps, and
+the Lightning Network) is still necessary to reach this goal. Therefore,
+we place a public call for collaboration within our “decentralisation
+research project”, welcoming research institutions, blockchain businesses, and crypto enthusiasts in general.
+Our firm conviction is that the coming era of a decentralised web
+necessitates the development of spaces in which people with different kinds of expertise can collaborate and develop innovative tools
+and products. For us, Pantos is first and foremost intended as a way
+to foster a healthier, fairer and more open crypto ecosystem, while at
+the same time honouring and preserving the key qualities of privacy,
+trustlessness and decentralisation that have recently brought cryptocurrency into the imagination of the general public for the first time.
+Our aim of creating an open community for blockchain and cryptocurrency will therefore be undertaken in collaboration with exploration space @ ÖAW, a research group within the Austrian Academy of
+Sciences that focuses on the development and analysis of new strategies for innovation. In this partnership, we will organise hackathons
+and meetups to create open-access solutions for key issues affecting
+the crypto ecosystem, such as optimal transaction fee calculation.
+These workshops will foster engagement between students, academic institutions, industry and the public, aligning with Austria‘s official
+Open Innovation Strategy. The Pantos community will therefore be an
+example of Open Innovation in action, with the exploration space @
+ÖAW providing analysis and expertise, and publishing research papers on the theme of novel open knowledge generation strategies.
+
+24
+
+Roadmap
+
+Transparency and openness have always been inalienable values in
+the crypto space. Therefore, instead of submerging after the completed ICO for a few years to do “research in stealth mode”, we aim
+to rapidly assemble working solutions using currently available technology. We do this because we firmly believe that open, transparent
+communication between diverse stakeholders yields better results
+than secretly working for months or years to meet (over-)promised results in highly orchestrated unveilings.
+We will follow a lean and agile approach, developing a multi-blockchain token system iteratively and with thorough testing at all milestones. To accomplish our ultimate vision, we have established four
+smaller milestone phases, each with its own set of deliverables. These
+are outlined below.
+
+4.1
+
+Current Phase - Growing the Pantos Community
+Pantos is centred on the notion of improving communication and collaboration within the crypto space. Therefore, we have already signed
+up the Lisk, Waves, Komodo and Stratis projects as industry partners.
+Our collaboration with exploration space @ ÖAW, mentioned earlier,
+will ensure best practices in the design of communication platforms
+capable of generating innovation in the blockchain space.
+
+25
+
+We are also in the process of reaching out to other stakeholders within and outside of blockchain and cryptocurrency communities, with
+the intention on forming further collaborations and partnerships. Institutional Involvement in Pantos during this first stage has tangible benefits, such as direct influence on key design parameters and
+decision-making processes. At the same time, collaborators are incentivised through additional positive public exposure in connection
+with a community-driven, open-source project that benefits the entire
+crypto ecosystem. Finally, partnership within the Pantos project will be
+rewarded with listing of their cryptocoin on Bitpanda.com, Europe’s
+leading digital asset broker platform.
+
+4.1.1
+
+General Guidelines for becoming a part of Pantos
+Connection of the PAN token to major chains is critical to the success
+of the project, as it would mark the beginning of an interoperability
+standard between most public blockchains. For this reason, we aim to
+reach out to blockchain-based development networks and individuals who:
+
+•
+
+Share our interest in a multi-token and cross-blockchain future
+
+•
+
+Are ready and able to incorporate emerging standards (such as
+Ethereum’s ERC20 token standard) in their blockchain project
+
+•
+
+Maintain an active interest in emerging developments in the
+blockchain environment, such as atomic swaps and the Lightning
+Network
+
+Feel free to contact us for any advice on how to support Pantos with
+your cryptocurrency project.
+
+26
+26
+
+4.2
+
+Phase One - Proof of Concept and Interim Solution
+Truly decentralised protocols such as Bitcoin are still ultimately in their
+infancy. Our vision—the decentralisation of cross-blockchain trade—
+is, like Bitcoin itself, an ambitious one, requiring technologies that are
+at this stage theoretically possible, but lacking implementation . That
+said, it is possible for us to provide an initial, centralised proof of concept, providing a platform on which the later goal of decentralisation can be accomplished. Therefore, the first version of Pantos will be
+an interim solution, with the existing Bitpanda.com platform serving
+as the key connecting piece of technology between blockchains. In
+this way, we can demonstrate to our users almost immediately after
+launch, how fast PAN can be transferred between blockchains.
+
+Cold Storage
+
+Platform
+
+User
+
+Wallet
+
+Bitpanda.com
+
+ETH
+T
+
+BTC
+T
+
+NXT
+T
+
+Deposit
+
+User
+
+Chooses
+Blockchain
+
+Wallet
+T
+
+Withdraw
+
+OTHER
+T
+
+Example: Moving PAN from Ethereum to Bitcoin Blockchain
+If the user wants to transfer his PAN to another Blockchain, all he
+needs to do is to deposit PAN to his Bitpanda Wallet and select his
+desired target Blockchain when withdrawing them again.
+
+User
+
+27
+27
+
+Deposit
+
+Bitpanda Wallet
+
+Select Blockchain
+
+BTC Pantos
+
+Withdraw
+10
+
+10
+
+10
+
+4.3
+
+Phase Two - Automation
+Following the rollout of a proof-of-concept implementation in Phase
+1, we will shift focus to automation. Through the development of a dedicated, open-source Pantos API, users will no longer be bound to any
+specific interface, and will therefore be able to perform systematic
+(algorithmic) trading. This way, while still able to utilise, the Bitpanda platform adopters will also have the flexibility to design and implement their own trading UXs/UI’s for automatic transfers between
+blockchains, while the settlement continues to run via the Bitpanda
+platform. This phase, therefore, allows users to program trading bots
+to perform automated arbitrage.
+
+Cold Storage
+
+Platform
+
+API
+
+Wallet
+
+BTC
+T
+
+NXT
+T
+
+OTHER
+T
+
+28
+28
+
+Bitpanda.com
+
+ETH
+T
+
+Deposit
+
+API
+Withdraw
+
+Chooses
+Blockchain
+
+Wallet
+T
+
+4.4
+
+Phase Three - Decentralisation
+In the third and final phase, Pantos will represent a critical advancement in blockchain technology, functioning as a fully decentralised
+multi-blockchain token system, and as a de facto open-source standard for cross-chain token transfers. The complete technical specifications for the system will be published in peer-reviewed, open-source
+research papers, and as a publicly accessible technical whitepaper. In
+short, similar to a decentralised autonomous counterparty organisation, PAN tokens will interact via various distributed smart contracts
+to facilitate trades. Users will be able to meet and exchange PAN tokens directly between blockchains with no centralised party involved.
+
+29
+29
+
+Chapter 4
+
+Initial Coin Offering
+5.1
+
+Total Supply						
+40%
+
+ICO							
+
+10%
+
+Team		
+
+40%
+9%
+1%
+
+Retained Reserve by Pantos GmbH
+Bounties		
+
+Bitpanda Airdrop				
+
+1,000,000,000 PAN
+400,000,000 PAN
+400,000,000 PAN
+100,000,000 PAN
+90,000,000 PAN
+10,000,000 PAN
+
+During the initial coin offering (ICO), Pantos as a company will issue
+digital currency tokens called Pantos (PAN). Forty per cent of the total
+PAN supply will be available to the public. Participants of the ICO can
+obtain a maximum of 400,000,000 PAN, which are offered at a
+hard cap of 1,500 BTC.
+All supported digital currencies on Bitpanda.com are accepted. Currently, this includes Bitcoin, Ethereum, Litecoin, Dash, Bitcoin Cash
+and Ripple. At the end of the ICO, all raised digital currencies will be
+converted into Bitcoin. The conversion rates will be derived from the
+corresponding Euro values of the respective currencies.
+
+5.2
+
+Distribution Formula
+PAN tokens will be distributed according to the following formula:
+
+Investor A participates with 0,01 BTC in total amount of 1,000 BTC is raised
+
+31
+31
+
+The retained amount of PAN will be used as follows:
+Company Reserve
+400,000,000 PAN are reserved for optimal future fundraising but
+will never be offered for sale below ICO price in BTC terms.
+
+Team
+100,000,000 PAN or ten per cent of all the total supply will be
+allocated as a motivational tool to align the interest of the Pantos
+management and development team with the ICO investors.
+
+Bounties
+To aid in the technical development of Pantos, we will introduce a
+bounty program for individuals and companies that want to participate. A total of 90,000,000 PAN are reserved for this. Possible
+receivers can be Blockchain development teams, exchanges, influencers, service providers, or interested end-users.
+Further, by participating in the Pantos referral program, users will
+receive five per cent of the value of Pantos tokens (PAN) purchased
+by your referees.
+
+32
+32
+
+5.6
+
+Bitpanda Airdrop
+Ensuring that Pantos kick starts with a large user base, 10,000,000
+PAN will be airdropped to eligible Bitpanda account holders. Eligible Bitpanda users are those who accept the Pantos terms of service.
+They can claim their airdrops in their Bitpanda accounts throughout
+the entire runtime of the ICO and will receive an equal share of the
+airdropped PAN, irrespective of their past or current account balance. Bitpanda users who open accounts when the ICO is running already will also have the opportunity to participate in the airdrop.
+
+5.7
+
+33
+33
+
+Timeline
+
+Chapter 5
+
+Team
+
+6.1
+
+Bitpanda
+Bitpanda has grown to become one of the the largest group of individuals in European teams working on blockchain, digital currency technology and the future of the overall digital currency ecosystem, with
+more than 60 people working in our Viennese headquarters. The team
+has a proven track record of success, having built and grown a leading cryptocurrency brokerage platform, offering Bitcoin, Ethereum,
+Litecoin, Dash, Bitcoin Cash and Ripple, as well as fully integrated EUR
+trading via in-house-developed wallet solutions for all digital assets.
+
+Paul Klanschek
+Co-Founder & Co-CEO of Bitpanda,
+MSc. in Banking & Finance (WU Vienna),
+Bitcoin and Blockchain insider since
+2010, Komodo Platform Ambassador
+
+Eric Demuth
+Co-Founder & Co-CEO of Bitpanda,
+Serial entrepreneur in Pament
+& Gaming for 7+ years
+
+Ing. Christian Trummer
+
+35
+35
+
+Co-Founder & CTO of Bitpanda,
+Serial entrepreneur for more than
+10 years, (SaaS projects, Optimizing OEE in
+food industry, etc..) Author of “Efficient
+Web Programming”
+
+Dipl.-Ing. Michael Borkowski
+TU Wien Research Representative
+Michael finished his bachelor‘s degree in
+Software & Information Engineering in 2012,
+and finished his master‘s degree in Software
+Engineering & Internet Computing in 2015.
+He is currently a project assistant and pursuing his PhD at the Distributed Systems
+Group (Institute of Information Systems,
+TU
+Wien)
+and
+involved
+in
+the
+CREMA - Cloud-based Rapid Elastic
+Manufacturing project.
+
+Ing. Johannes Grill
+…is a founding member and president of
+Bitcoin Austria. He has been active in the
+bitcoin space since 2011, organizes events
+or acts as a lecturer and is available to the
+media as an interview partner. Professionally, Johannes has been working as a software
+developer for international payments for several years and has been active as an entrepreneur focusing on banking and financial
+information technology.
+
+Andreas Petersson
+…has been a software developer for 15 years.
+Since 2011 he has worked intensively with
+Bitcoin and co-founded Bitcoin Austria. In
+2012, he started working for Mycelium, where he was one of the main developers of the
+Mycelium Bitcoin Wallet, which makes it possible to safely manage Bitcoins on mobiles..
+
+36
+36
+
+Ralph Pichler
+Ethereum veteran and smart contracts expert from Austria, Co-Founder of the RIAT
+Blockchain Research institute (https://riat.at)
+
+James JL777 (Komodo)
+Jl777 is the anonymous mind behind the Komodo and Supernet projects, an extremely
+gifted C developer with financial experience
+and a clear vision for the future of crypto. He
+acts as an advisor for numerous crypto projects and, following closely key developments
+in the whole crypto space. He helps the promising projects by providing feedback and
+looks for ways to use the technology in his
+own projects.
+
+Patrick Pöschl - Fintech Austria
+Having worked at Goldman Sachs until 2014,
+Patrick is Fintech entrepreneur, founder of
+Scalable Capital as well as chairman of community association Fintech Austria.
+
+Max Kordek
+Co-Founder & President of Lisk
+… Max first read about blockchain technology at the end of 2012, he immediately realized its great potential. That was the moment
+he decided to place all of his focus on the
+technology. He immersed himself in various
+crypto communities and soaked up as much
+knowledge as he could. Today, he is working
+relentlessly to help the industry gain traction
+with an accessible and easy-to-use Sidechain
+Developer Kit.
+
+37
+37
+
+Sasha Ivanov
+Founder & CEO of Waves
+A physicist by education, Sasha Ivanov has
+been involved in Internet payment systems
+software development and neural network
+prediction software for financial markets. After the emergence of blockchain technology
+he launched the first instant cryptocurrency
+exchange coinomat.com, the first fiat blockchain token coinoUSD, and the first tradable
+cryptocurrency index coinoindex.com
+
+​ ieger​
+Paul​ R
+Head of Business Development NEM Europe
+​ ​ ​promoter​ o
+​ f​ b
+​ lockchain​ t​ echnology
+Paul ​is​ a
+​ nd​ a
+​ n​ a
+​ dvocate​ ​of​ ​the​ ​
+and crypto-literacy,​ a
+NEM​ b
+​ lockchain​ w
+​ hich​ l​ ed to​ t​ he​ f​ oundati​ f​ N
+​​ EM​ ​Vienna​​ i​ n​ ​June​ 2
+​ 017.​ W
+​ hen​ ​not
+on​ o
+​ ieger​ ​is​ c
+​ ombining​ h
+​ is​ s​ oftware​ ​
+educating,​ R
+engineering background​ ​with​ h
+​ is​ e
+​ ntrepre​ xperience​ t​ o​ d
+​ esign​ a
+​ nd develop​ ​
+neurial​ e
+blockchain-based​ s​ olutions​ ​and​ ​prototypes​ ​
+for​ t​ he private​ a
+​ nd​ p
+​ ublic​ ​sector.
+
+Dr.-Ing. Stefan Schulte
+Distributed Systems Group & TU Wien
+Dr.-Ing. Stefan Schulte is Assistant Professor (Tenure Track) for Industrial
+Cyber-Physical Systems at TU Wien.
+Findings from his research have been published in more than 80 refereed scholarly
+publications, including publications in hightier journals like Information Systems, IEEE
+Transactions on Services Computing, and
+Future Generation Computer Systems.
+
+38
+38
+
+39
+
+Chapter 6
+
+Industry Partners
+Lisk
+Nowadays, we have Apple’s App Store and
+Google’s Play Store - both centralised solutions owned by corporations for centralised
+applications. The Lisk Foundation believes in
+a decentralised future. In order to achieve
+this, Lisk strives to make blockchain technology accessible for everybody by building
+a blockchain application platform for users
+and developers.
+
+Waves
+The Waves Platform is a global public blockchain platform, founded in 2016. Waves
+Platform’s mission is to reinvent the DNA of
+entrepreneurship around the world by providing a shared infrastructure, offering easy-to-use, highly functional tools to make
+blockchain available to every person or organisation that can benefit from it.
+
+Komodo
+
+40
+40
+
+The Komodo Platform focuses on providing
+complete end-to-end blockchain solutions
+for developers of any level and any industry.
+It is simple yet powerful, offering customized
+blockchain solutions that are easy to deploy,
+and configurable to meet your needs. Their
+vision is to build a robust ecosystem of partners and developers, creating an environment that accelerates anyone’s journey into
+blockchain technology.
+
+Strategic and
+Legal Partners
+Wolf Theiss
+Wolf Theiss is a firm that helps clients to
+grow in a rapidly changing world. Collaborating across industry groups and practice
+areas, they approach the challenges of new
+technologies from all sides by following a
+stringent innovation focus. They help clients
+to change their environment, their products, and their organization and support
+them in coping with the changes they face.
+
+Bitcoin Austria
+…promotes and supports the distribution of
+Bitcoin in Austria. Their network of experts is
+the contact point for technical, legal and organisational questions concerning Bitcoin.
+
+Fintech Austria
+Their mission is to foster the development
+of the Fintech sector in Austria and CEE, be
+an active contributor to the eco-system and
+facilitate communication and cooperation
+within the community as well as external
+participants.
+
+41
+41
+
+Dr. Pius Sprenger
+…is a former Managing Director at Deutsche
+Bank, New York and a great mathematician.
+
+Lennard Zwart
+Structured products specialist for Morgan
+Stanley and Deutsche Bank in London for
+7 years. This was followed by a 9 year non
+financial intermezzo founding, growing and
+subsequently selling a cloud computing firm
+in the Netherlands (CloudVPS). Currently
+co-managing an Amsterdam based hedge
+fund (Res Privata NV), Lennard is also involved in several venture capital projects.
+
+42
+42
+
+Universities and
+Scientific Partners
+TU Wien
+TU Wien is Austria’s largest scientific-technical research and educational institution,
+and among the most successful technical
+universities throughout Europe. It enjoys
+high international and domestic recognition
+in teaching as well as research. It covers a
+broad spectrum of scientific concepts, from
+pure abstract research and the fundamental principles of science to applied technological research and partnership with industry.
+
+exploration space @ ÖAW
+…is a working group within the Austrian Academy of Sciences, is an open space for innovation and experimentation for the networked humanities, aiming to discover ways to
+stimulate, design, enable and scientifically
+analyse new forms of knowledge production
+at the interface of science, technology and
+society.
+
+RIAT Institute for Future Cryptoeconomics
+
+43
+43
+
+RIAT is an institute for research, development, communication and education in the
+fields of crypto-economics and the blockchain. RIAT is the first address for all Ethereum related topics.
+
+www.pantos.io
+contact@pantos.io
+Pantos Facebook: www.facebook.com/pantosio/
+Pantos Twitter https: www.twitter.com/pantosio
+Pantos Reddit: https: www.reddit.com/r/Pantos/
+Pantos LinkedIn: https: www.linkedin.com/company/pantos_io/
+Pantos Medium: www.medium.com/@pantosio
+Pantos Telegram: https://t.me/PantosIO
+
+www.bitpanda.com
+support@bitpanda.com
+Bitpanda Facebook: www.facebook.com/BITPANDA
+Bitpanda Twitter: www.twitter.com/bitpanda
+Bitpanda Reddit: www.reddit.com/r/Coinimal/
+Bitpanda LinkedIn: www.linkedin.com/company/bitpanda/
+Bitpanda Medium: www.blog.bitpanda.com/
+Bitpanda Bitcointalk: www.bitcointalk.org/index.php?topic=878727
+
+brought to you by the team at Bitpanda.com
+with ♥ from Vienna
+
+Version 1.5
+
+

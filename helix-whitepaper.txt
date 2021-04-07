@@ -1,0 +1,444 @@
+WHITEPAPER
+
+P lease rememb er to alwa ys vis it our off ic ia l w e bs it e for t h e m os t r e c e ntly
+up d ated version of our w h it e pa pe r (w w w .h e lix-c r ypt o.c om) .
+
+Table of Contents
+
+Introduction
+
+3
+
+Usage
+
+4
+
+Proof of Stake
+
+5
+
+Masternodes
+
+6
+
+Privacy
+
+7
+
+Coin Information
+
+8
+
+Community
+
+9
+
+10
+
+Disclaimer
+
+2
+
+Introduction
+Thanks to a lot of technological innovations in the past
+
+Although a lot of institutions have the intention to
+
+years, enormous wealth and opportunities became
+
+track and spy on their users, privacy is a great good
+
+reality for the big crowd. Cryptocurrencies and the
+
+for us all. This is something Helix takes very seriously
+
+adoption of blockchain technology play a great part in
+
+and promises to deliver in high quality. The most
+
+this revolution
+
+acknowledged cryptocurrencies like Bitcoin do not
+
+.
+
+offer adequate protection of a person’s identity.
+
+On January 3rd 2009, the very first transaction of
+
+Transactions made on the blockchain are easily traced
+
+Bitcoin took place. Satoshi Nakamoto, the founder of the
+
+by an investigator. These ‘pseudonymous’ transactions
+
+first Ledger of decentralized global transactions, also
+
+are all recorded and traceable. Helix implemented an
+
+referred to as the blockchain, accomplished something
+
+improved privacy feature as a solution to this problem.
+
+what everyone thought was impossible. Bitcoin is now
+considered as the ‘original’ cryptocurrency. Even though
+
+Helix is a premium privacycentric cryptocurrency based
+
+Bitcoin is having a hard time to become adopted by
+
+on the product of Satoshi Nakamoto, improved with
+
+the world as a currency, tremendous milestones have
+
+strong features resulting in a decentralized, effectively
+
+been reached.
+
+anonymous cryptocurrency, with immediate (private)
+transactions and an incentivized network to provide
+
+One of Bitcoins main issues is the fact that it takes
+
+additional services and security to the blockchain
+
+a lot of time to confirm a transaction. This is a major
+
+network of Helix.
+
+problem for merchants. Helix seeks to solve this issue
+by implementing the blockchain technology from
+Bitcoins code, but with a faster and more responsive
+network. Therefore, Helix is a better option to use as
+a currency since it has a greater potential in terms of
+transaction volume and speed.
+
+3
+
+Usage
+Helix has numerous features. Remember that this list
+
+We believe in empowering individuals by creating
+
+is not limited, and that we will always work hard to add
+
+a strong community. We give freedom back to the
+
+new features:
+
+people by using our strong Helix blockchain network
+and decentralized technology. This allows people to do
+business without the compromise of being subject to
+
+•
+
+Fast and secure transactions.
+
+•
+
+Strong privacy with options for both private and
+
+•
+
+•
+
+surveillance by centralized or legal institutions.
+
+transparent transactions.
+
+We have set our maximum block sizes to 2 MB. By doing
+
+Rewards for participating in the Helix network.
+
+so, Helix will be able to handle a higher transaction
+
+This includes Proof of Stake (PoS) as well as the
+
+volume than Bitcoin with faster confirmations. This will
+
+possibility for masternode rewards.
+
+open up the path for a world adopted currency.
+
+Participating in governance and voting in
+important matters that concern the whole
+
+Helix is accessible for everyone. It’s very easy to
+
+community.
+
+install and use right away. This is crucial as other
+
+Multi-OS wallets: Windows, MacOS, Linux, and
+
+cryptocurrencies don’t provide this ease of use. By
+
+many more to come.
+
+helping every individual with a highly personal approach,
+
+•
+
+Very easy access to all our features and wallets.
+
+we aim to create a joyful community in which everyone
+
+•
+
+We will continue to work hard on making Helix
+
+can participate.
+
+•
+
+grow, check out our roadmap for details.
+
+4
+
+Proof of Stake
+Bitcoin uses a cryptographic hashing algorithm to
+
+By taking mining out of the hands of only a few big
+
+encode the transactions in the blockchain. Miners
+
+miners, the work is evenly distributed across the
+
+create these hashes by using a ‘Proof of Work’ (PoW)
+
+community.
+
+algorithm. The network hashrate is actually inflating as
+it requires a lot of power to create a new block in its
+
+Eventually, the community will provide Helix with a
+
+blockchain.
+
+robust and secure network. Holder of the Helix network
+will be stimulated to intensify the value of Helix and
+
+Unlike Bitcoins PoW mechanism, Helix blockchain uses
+
+all its aspects. By downloading our Helix wallet and
+
+a hybrid system. The first 90.200 blocks are PoW,
+
+letting it run 24/7, the user will receive its share of the
+
+and after this period we switch to a PoS mechanism.
+
+block rewards in return for securing the Helix network.
+
+The rewards a user receives depends on the amount
+of stake the participant has in the Helix network. The
+
+We have created a detailed guide for setting up
+
+more you participate in validating and processing Helix
+
+everything you need. Also, feel free to contact us
+
+transactions and its blocks, the more rewards you
+
+whenever you need or join us on social media for
+
+receive. Therefore, it’s incentivized to invest in Helix
+
+additional support.
+
+as a valuable core product.
+The way Helix blockchain consensus works offers a lot
+of advantages:
+
+•
+
+Less power and electricity are used to secure the
+Helix blockchain. Our PoS system is environmentfriendly and much more sustainable.
+
+•
+
+With a linear scale regarding the percentage of
+blocks confirmed by the miner, PoS is a fairer
+system than PoW since anyone can become a
+‘miner’.
+
+•
+
+PoS aids decentralization. A Helix node can
+operate on a very inexpensive running system.
+
+5
+
+Masternodes
+The value of Helix lies in its main vision: building a secure
+
+supported and multiple masternodes can be run if one
+
+and scalable currency. Therefore, Helix implemented
+
+wishes. Also, for additional security and privacy, you
+
+masternodes, which can be used to earn more Helix by
+
+can run your masternode using a router which operates
+
+passive income to increase your holdings with a great
+
+on Tor/Onion.
+
+risk/reward ratio. A masternode costs 10.000 HLIX and
+gives a ROI of 60%.
+
+Once important decisions have to be made, the
+masternode owners will have their democratic influence
+
+Masternodes are enhanced nodes that are always up
+
+on the outcome. Since we care about every individual,
+
+and running, which provide additional functions and
+
+we want you to be involved. By doing so, Helix created
+
+security to the Helix network. Masternodes provide
+
+a decentralized system which determines how our
+
+an enhanced form of staking, increase the privacy
+
+funds are allocated for Helix’s development.
+
+and speed of transactions and enables participation
+in governance and voting within the Helix community.
+
+A great feature of the Helix masternode is the fact
+
+A
+
+(zHLIX)
+
+that you don’t have to worry about your wallet going
+
+transactions which ensures topnotch privacy (more
+
+offline. The masternode will continue to operate. If for
+
+about this subject under ‘Privacy’).
+
+some reason you would like to stop the masternode
+
+Helix
+
+masternode
+
+processes
+
+Zerocoin
+
+from running, you can unlock your Helix coins whenever
+With our detailed guide to set up your own masternode
+
+you’d like.
+
+and personal support in our social media community,
+running a Helix masternode is available for anyone.
+You can set up and operate your masternode on your
+computer at home, a Raspberry Pi, or on a Virtual
+Private Server (VPS). The Helix masternodes are IPv6
+
+6
+
+Privacy
+Helix believes in true and strong privacy. Bitcoins transactions are traceable
+for anyone who’s interested to find out. A high degree of privacy doesn’t allow
+this potential loss of privacy. That’s why Helix implemented the Zerocoin
+protocol. For detailed information about Zerocoin, read their whitepaper 1.
+For this service, Helix coins have to convert into a zHLIX coin. This process,
+called ‘minting’, is provided by masternodes running on the Helix Blockchain.
+No traces are left behind during this process. RSA-2048 encryption makes
+sure no information about the users is shared whatsoever. To reverse this
+process, you can send your zHLIX
+
+coins to your own address back into
+
+regular HLIX coins.
+Another interesting feature about the zHLIX protocol is the fact that when
+HLIX coins are converted into zHLIX, they no longer show up on your public
+balance anymore. This will take away any concerns a person can have of
+being targeted by hackers. The following Zerocoin scheme explains how it
+works 2:
+
+1
+
+http://zerocoin.org/media/pdf/ZerocoinOakland.pdf
+
+2
+
+For more information about the Zerocoin protocol, please visit http://zerocoin.org
+
+7
+
+Coin information
+Helix is founded on September 1st 2018. A total coin supply of 500.000.000
+HLIX was created, with a functional pre-mine of 1% (5.000.000 HLIX). This
+will be used for marketing, development and exchange listing fees. The first
+period will exist of a PoW phase (10.000.000 HLIX), followed by a PoS phase
+(485.000.000 HLIX).
+The following table show the coin specifications:
+
+The following table shows the block rewards. They adjust after a certain
+amount is reached, to control inflation of the supply of Helix:
+
+8
+
+Community
+The community started with a couple of early adopters who were unhappy
+about the way some projects were run by its developers. No innovation or
+vision whatsoever made us motivated to create something better. Since
+Helix did not have an ICO and only started with a functional pre-mine of 1%,
+it’s really thanks to the true core believers who put in their time and effort
+that made Helix a reality.
+We aim to provide 24/7 support, and we believe in a community who help
+each other out. Positivity and fun should be your top priority as a Helix
+community member. In accordance to this, we created the Helix masternode
+governance system to bring back the power to the people. By letting you
+decide on important matters, you’re in control of your investment.
+
+Join us!
+More people are joining every day and we hope this growth won’t stop.
+Don’t feel afraid to join us and introduce yourself. We’re looking forward to
+meet you!
+With the upcoming years ahead of us, we believe that exciting things will
+happen. Helix is a premium privacy centric cryptocurrency, with strong
+features resulting in a decentralized, effectively anonymous cryptocurrency,
+with immediate (private) transactions and an incentivized network to provide
+additional services and security to the blockchain network of Helix. We will
+continue to work hard on the project, and hope to see you join us.
+
+9
+
+Disclaimer
+This Helix whitepaper is for information purposes only. Helix does not
+guarantee the accuracy of or the conclusions reached in this white paper,
+and this white paper is provided “as is”. Helix does not make and expressly
+disclaims all representations and warranties, express, implied, statutory
+or otherwise, whatsoever, including, but not limited to: (i) warranties of
+merchantability, fitness for a particular purpose, suitability, usage, title or
+noninfringement; (ii) that the contents of this white paper are free from
+error; and (iii) that such contents will not infringe third-party rights. Helix
+and its affiliates shall have no liability for damages of any kind arising out of
+the use, reference to, or reliance on this white paper or any of the content
+contained above, even if advised of the possibility of such damages. In no
+event will Helix or its affiliates be liable to any person or entity for any
+damages, losses, liabilities, costs or expenses of any kind, whether direct or
+indirect, consequential, compensatory, incidental, actual, exemplary, punitive
+or special for the use of, reference to, or reliance on this white paper or any
+of the content contained above, including, without limitation, any loss of
+business, revenues, profits, data, use, goodwill or other intangible losses.
+
+10
+
+Copyright © HELIX
+
+

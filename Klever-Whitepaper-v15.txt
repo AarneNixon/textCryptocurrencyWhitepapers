@@ -1,0 +1,965 @@
+Whitepaper
+Version 1.0, July 2020
+
+www.klever.io
+
+SUMMARY
+
+2
+
+Table of Contents
+INTRODUCTION
+1. Klever OS������������������������������������������������������������������������������������������������������������������������������������� 6
+2. Klever App�������������������������������������������������������������������������������������������������������������������������������� 8
+3. Klever Swap and Exchange�������������������������������������������������������������������������������������� 10
+4. Klever Labs���������������������������������������������������������������������������������������������������������������������������� 12
+5. Klever Coin (KLV)��������������������������������������������������������������������������������������������������������������� 14
+5.1.  KLV Allocation������������������������������������������������������������������������������������������������������������������������ 15
+5.2.  KLV Funds Usage������������������������������������������������������������������������������������������������������������������ 15
+5.3.  KLV Fees and Discounts���������������������������������������������������������������������������������������������������� 16
+5.4.  KLV Burn��������������������������������������������������������������������������������������������������������������������������������� 17
+5.5. KLV Staking���������������������������������������������������������������������������������������������������������������������������� 17
+
+6. Team�������������������������������������������������������������������������������������������������������������������������������������������� 18
+7. Risks�������������������������������������������������������������������������������������������������������������������������������������������� 20
+8. Competition������������������������������������������������������������������������������������������������������������������������� 20
+9. Future����������������������������������������������������������������������������������������������������������������������������������������� 21
+10. Roadmap���������������������������������������������������������������������������������������������������������������������������������22
+IMPORTANT NOTES��������������������������������������������������������������������������������������������������������������� 23
+
+3
+
+INTRODUCTION
+
+Introduction
+
+Crypto is
+difficult,
+but it
+shouldn’t
+be.
+
+4
+
+INTRODUCTION
+FSFSFS
+
+Today's cryptocurrency and digital asset activities are already a growing reality and
+will increasingly become an integral part of our daily lives. The world as we know it is in
+a state of constant and accelerated change. The ability to have borderless commerce
+and communication through the internet has already caused an immeasurable change
+in the way individuals handle their lives, finance and security. As this digital trend
+deepens, everyone independent of origin or social status will be given the empowering
+opportunity to participate in decentralized digital economies powered by blockchain
+technology and cryptocurrencies.
+
+Decentralized economies powered by cryptocurrencies enable people and businesses
+to conduct trustless, anonymous and secure transactions across national borders.
+New opportunities for retail, entertainment, finance and essentially anything else
+that a person might want to spend fiat currency on, are already available in this digital
+economy today.
+
+Today we would like to introduce you to Klever. Klever is that trusted gateway for
+blockchain and the emerging decentralized economy, by providing a safer, faster
+and smarter cryptocurrency experience for all users to enter and thrive in this new
+decentralized economy. Guided by an integrated and dynamic thinking, our blockchain
+platform allows users to have access to countless products and services that are
+indispensable on a daily basis, including crypto wallet, currency swap, web browser,
+exchange, staking, and payment channels and more.
+
+INTRODUCTION
+FSFSFSRAT
+
+5
+
+Klever was designed to solve two big issues in
+crypto today. The crypto security problem and
+the user experience problem.
+
+Klever is composed of 4 elements:
+
+Klever OS
+
+Klever Exchange
+
+Klever App
+
+Klever Labs
+
+FSFSFS
+KLEVER
+OS
+
+6
+
+01
+
+Klever OS
+
+Today's major mobile crypto wallets on the market are great, but as we learn more
+about crypto and its associated risks, we feel less secure about it. Wouldn't it be great
+if there were a wallet you can always trust? Well, we're doing just that and it’s called
+Klever OS.
+
+Klever OS is a groundbreaking wallet
+operating system that enables developers of
+all platforms to run a smart and secure wallet
+inside their apps, cloud, servers, hardware,
+smartphones, pen drives, mobile devices and
+wearables.
+
+Klever OS rethinks and rebuilds the core wallet system to replace crypto wallet
+solutions and bring to the user advanced security on a completely new level. A simple
+sdk library that automatically extends your app to organize and protect all your secret
+information on your device of choice.
+
+FSFSFSRAT
+KLEVER
+OS
+
+7
+
+Features
+Klever OS Features:
+•
+
+Web SDK
+
+•
+
+iOS and Android Mobile SDK
+
+•
+
+Secure, encrypt and protect your secret information
+
+•
+
+Safely store mnemonics, private keys, keypairs, api keys and secrets
+
+•
+
+Derive crypto accounts using BIP32, BIP39, BIP44
+
+•
+
+Create and restore crypto accounts
+
+•
+
+Provides faster transaction list and parse functionality out of the box
+
+•
+
+Option to transparently encrypt and decrypt user data
+
+•
+
+Sign Transactions
+
+•
+
+Trigger Smart Contracts
+
+•
+
+Payments
+
+•
+
+Send and Receive funds instantly
+
+•
+
+Multi Token Staking
+
+•
+
+Encrypt and Decrypt Data
+
+•
+
+Support of multiple blockchains, dozens of coins and 1000+ tokens
+
+FSFSFS
+KLEVER
+APP
+
+8
+
+02
+
+Klever App
+
+FSFSFSRAT
+KLEVER
+APP
+
+9
+
+Klever is the first app built on top of Klever OS. On the Klever app we are building an
+ecosystem where our users have access to countless useful products and services,
+which are today limited or unavailable in other wallets. Wouldn't it be great if users
+could be able to sell and buy crypto, play games and utilize decentralized finance
+solutions, make travel bookings and do shopping online, all in a seamless and secure
+manner with full anonymity and protected privacy?
+
+That is Klever.
+On the Klever app we constantly explore what new kinds of services and products
+we should bring to the wallet in order to meet the desires and increasing demands of
+our growing global user base. This way, the demanded products and services will be
+offered in several categories, bringing friendly crypto solutions to our users.
+
+Users worldwide
+
+250,000
+
+Our experience is taken from the building of TronWallet, our
+previous app that caters over 250,000 users globally. With
+over 30k daily active users (DAU), TronWallet has grown
+to become one of the most used blockchain applications
+
+Daily Active Users (DAU)
+
+30,000
+
+in the entire crypto space. Klever will become TronWallet’s
+new, expanded and more advanced home.
+
+FSFSFS
+KLEVER EXCHANGE
+
+10
+
+03
+
+Klever Swap
+and Exchange
+
+The cryptocurrency Swap is a major feature and use case
+for Klever and its ecosystem of apps. Our Swap enables
+Klever users to directly swap one coin or token to another,
+from one blockchain to another (e.g. BTC to TRX or ETH)
+with high security, full privacy and unrivaled speed.
+
+11
+
+FSFSFSRAT
+KLEVER EXCHANGE
+
+The aim behind the Swap is to make it simpler, faster and more convenient for our
+users to exchange crypto currencies. By monitoring live price action on top-tier
+exchanges, our engine creates a price index that is used by the Swap. When a user
+goes to the Swap screen on the Klever app, they will see the default Swap pair from
+BTC (BTC) to USDT (USDT). The user then can make a quote to check the price
+prediction offer, select a new token pair to quote as well as type the amount he/she
+wants to swap.
+
+The swap itself is conducted by fully autonomous bots, built in-house, which
+continuously seek the best exchange rate and prices among the top exchanges, and
+then execute the Swap with high precision, security and speed. Klever Swap project is
+part of Klever Exchange.
+
+Klever Spot Exchange was designed for both beginners and advanced
+traders. Using the latest gRPC technology, we have built one of the most
+advanced crypto currency exchanges in the world, which is capable of
+providing superior security and intuitive user experience, and able to
+support 1M+ transactions per second.
+
+FSFSFS
+KLEVER
+LABS
+
+12
+
+04
+
+Klever Labs
+
+This is one of the most interesting platforms
+we are working on, which is set to launch in
+Q3 of 2020.
+In order to develop superior solutions and
+apps we draw expertise from our own
+experience of many years of blockchain
+and software architecture development.
+We will field and introduce major
+groundbreaking projects that bring simple
+and accessible solutions to the wallet and
+other Klever apps; products that are the
+result of creativity, extensive research and
+an excellent team that has honed its skills
+over the past decade. The result will be
+innovation with usability and purpose.
+
+Klever is the new home for blockchain
+innovation.
+
+FSFSFSRAT
+KLEVER
+LABS
+
+13
+
+Each project developed by Klever Labs will
+be crowdfunded with KLV token using the
+following structure:
+1. Projects will accept the KLV token inside the application.
+2. Users can participate in projects by purchasing the token during each
+crowdfunding session.
+3. Users can participate in crowdfunding using BTC, ETH, TRX, USDT and KLV tokens.
+4. The tokens (BTC, ETH, TRX, USDT) received from crowdfunding will be converted at
+market price to KLV and distributed to projects at the end crowdfund event.
+5. Projects may offer rewards to VIP members.
+
+Klever Labs Upcoming Projects:
+Klever Browser
+•
+
+Support for iOS, Android, Windows, Mac and Linux
+
+•
+
+Full privacy
+
+•
+
+Support for major coins with Klever OS
+
+Klever Blockchain
+•
+
+A cryptocurrency for the next century. A new blockchain home for all sets of
+digital assets and decentralized applications.
+
+•
+
+A blockchain for stable fiat digital currencies backed by Bitcoin and USDT.
+
+•
+
+Klever Blockchain builds on top of Tendermint Byzantine Fault Tolerant (BFT)
+consensus and the Cosmos SDK.
+
+FSFSFS
+KLEVER
+COIN
+
+14
+
+05
+
+Klever Coin (KLV)
+
+We believe that having a utility token that powers all of our products and services
+brings credibility, agility, accountability and independence to our users. It strengthens
+our relationship with our community and enables dynamic partnership deals. All
+transactions carried out in the portfolio of apps go through the KLV coin, directly
+or indirectly. KLV is the link between our users and the products and services in the
+portfolio. We will do a permanent and continuous job to strengthen this link, since this
+is what connects us with our users and grows the ecosystem.
+
+You can use KLV coin
+on our platform to:
+•
+
+Stake
+
+•
+
+Pay transaction fees
+
+•
+
+Pay exchange fees
+
+•
+
+Pay Swap fees
+
+•
+
+Reduce exchange fees
+
+•
+
+Reduce Swap fees
+
+•
+
+Make p2p payments
+
+•
+
+Buy VIP token
+
+•
+
+Participate in new projects through crowdfunding
+
+A strict limit of 10B KLV will be created.
+
+FSFSFSRAT
+KLEVER
+COIN
+
+15
+
+Klever Coin is the evolution of TWX token and it will convert TWX to KLV 1:1 without
+any increase of the max supply of 10B tokens. The token swap will be conducted
+seamlessly in our wallet’s built-in Swap. Since the beginning of the journey of TWX, we
+have reduced the max supply from 30B tokens to 10B tokens by burning more than
+67% of all tokens. To reiterate, KLV will maintain the same max supply of 10B.
+
+• KLV Allocation
+Percentage %
+
+Amount (KLV)
+
+Participant
+
+20%
+
+≈ 2B
+
+Foundation
+
+20%
+
+≈ 2B
+
+Team Vesting (3 years)
+
+30%
+
+≈ 3B
+
+Initial Supply
+
+30%
+
+≈ 3B
+
+Product Development & Marketing
+
+• KLV Funds Usage (Foundation Fund + Product Development Fund)
+
+Will be used to build the Klever platform and perform upgrades to the
+
+40%
+
+40%
+
+10%
+
+10%
+
+system, which includes team recruiting, training, and development budget.
+
+Will be used for Klever branding and marketing, including continuous
+promotion and education of Klever features, technology and usage.
+
+Will be used for Admin, Legal and Business Development.
+
+Will be kept in reserve to cope with any emergency or unexpected
+situation that might come up.
+
+FSFSFS
+KLEVER
+COIN
+
+16
+
+• KLV Fees and Discounts
+By using KLV to pay for fees, you will receive a significant discount.
+
+SWAP FEE TABLE
+Tier
+
+KLV Hodl
+
+Fee
+
+Pay with KLV discount
+
+VIP 0
+
+< 100,000 KLV
+
+0.5500%
+
+0.4125%
+
+VIP 1
+
+≥ 100,000 KLV
+
+0.5000%
+
+0.3750%
+
+VIP 2
+
+≥ 250,000 KLV
+
+0.4500%
+
+0.3375%
+
+VIP 3
+
+≥ 500,000 KLV
+
+0.4000%
+
+0.3000%
+
+VIP 4
+
+≥ 1M KLV
+
+0.3600%
+
+0.2700%
+
+VIP 5
+
+≥ 2M KLV
+
+0.3200%
+
+0.2400%
+
+VIP 6
+
+≥ 4M KLV
+
+0.3000%
+
+0.2250%
+
+VIP 7
+
+≥ 6M KLV
+
+0.2800%
+
+0.2100%
+
+VIP 8
+
+≥ 8M KLV
+
+0.2600%
+
+0.1950%
+
+VIP 9
+
+≥ 9M KLV
+
+0.2400%
+
+0.1800%
+
+TWLT
+
+~
+
+0.2200%
+
+0.1650%
+
+≥ 10M KLV
+
+0.2000%
+
+0.1500%
+
+TWLT+
+
+Swap fee table will be updated every quarter.
+
+FSFSFSRAT
+KLEVER
+COIN
+
+17
+
+• KLV Burn
+Every week we will burn KLV based on the KLV swap fees collected on our crypto-tocrypto swap platform. All transactions will be recorded on the blockchain. A total of
+5B KLV tokens will be destroyed using this mechanism and thereby removed from the
+KLV supply.
+
+• KLV Staking
+The KLV Staking feature will increase the current circulating supply by using an
+inflationary smart contract. The inflation goal is to reward users that are staking KLV
+to support the project. The inflation will vary using the table below.
+
+Year
+
+Min / Max Inflation*
+
+2020
+
+~ 12 %
+
+2021
+
+~ 10 %
+
+2022
+
+~8%
+
+2023
+
+~6%
+
+2024
+
+~4%
+
+2025
+
+~2%
+
+* Inflation can vary up or down for limited time during marketing events or due to unexpected economic events.
+
+FSFSFS
+KLEVER
+TEAM
+
+18
+
+06
+
+Team
+
+The team behind Klever has proven experience
+of building, deploying and updating industry
+leading products in the crypto space, with
+several hundreds of thousands of downloads
+and tens of thousands of daily active users
+(DAU). Working along the ideas behind Klever,
+our team is fully decentralized, functions
+remote and operates worldwide, with core
+team members in Brazil, Canada, Israel,
+Ukraine and the US.
+
+Our products and services always center
+around strong user feedback for development
+and new features added. In line with this
+mindset, our team is constantly seeking
+groundbreaking innovation through new
+technologies, while ambitious marketing
+strategies and open-minded internal
+team feedback ensures the team’s joint
+performance remains excellent as we grow
+in user base, products, services, reach and
+industry impact.
+
+FSFSFSRAT
+KLEVER
+TEAM
+
+19
+
+Members
+Klever Team Members
+Diogenes Ianakiara,
+CEO
+
+Bruno Campos,
+CTO (Chief Technology Officer)
+
+David Ianakiara,
+Director of Quantitative Trading
+
+Fernando Sobreira,
+Director of Blockchain Research and Development
+
+Misha Lederman,
+Director of Communications and Marketing
+
+Marcio Sodré de Lima,
+Chief Financial Officer
+
+https://www.linkedin.com/in/dbuarque/
+https://www.linkedin.com/in/brunocamposssa/
+https://www.linkedin.com/in/ianakiara/
+https://www.linkedin.com/in/fbsobreira/
+https://www.linkedin.com/in/misha-lederman/
+https://www.linkedin.com/in/marciosodrelima/
+
+Anderson Ciszewski,
+COO (Chief Operating Officer)
+
+João Pedro Cruz Lima,
+Director of Strategy and Business Development
+
+Marlon Gomes,
+Head of Software Architecture
+
+Fabio Freire,
+Head of UI/UX Design
+
+Dmitry Ugnivenko,
+Head of Video and Graphics Design
+
+Vitor Pereira,
+Head of Frontend Development
+
+Pedro Henrique Bertão,
+Head of Backend Engineering
+
+Vinícius Niche Correa,
+Head of DevSecOps/SRE
+
+Jordan Cassiano,
+Head of Klever OS Engineering
+
+Yuri Lozorio,
+Head of Klever Exchange Engineering
+
+https://www.linkedin.com/in/joaocruzlima/
+https://www.linkedin.com/in/marlon-gomes-b49a8766/
+https://www.linkedin.com/in/fabiohfreire/
+https://www.linkedin.com/in/dmitry-ugnivenko/
+
+https://www.linkedin.com/in/vitor-martins-pereira/
+
+https://www.linkedin.com/in/pedro-bert%C3%A3o-7a574a87/
+
+https://www.linkedin.com/in/vinicius-niche/
+
+https://www.linkedin.com/in/jordancassiano/
+
+https://www.linkedin.com/in/yurilozorio/
+
+Hugo Corteletti,
+
+https://www.linkedin.com/in/hugo-corteletti-torezani-
+
+Klever App Team Leader
+
+ab448018b/
+
+Gustavo Collistet Britto,
+Klever App Team Leader
+
+https://www.linkedin.com/in/gustavo-britto-3790b0a1/
+
+In addition to the abovementioned team, Klever also employs globally 30+ of the most qualified
+blockchain engineers, QA, financial, support and admin analysts in the crypto space. We are proud to
+have working with us the most innovative and hard working people in the blockchain industry.
+
+FSFSFS
+RISKS/COMPETITION
+
+20
+
+07
+
+Risks
+
+There is no innovation without risks. There is no innovation without mistakes. There
+is no innovation without learning from these mistakes. There are many risks involved
+in building applications in the cryptocurrency and blockchain industries. We at Klever
+have the skills, experience, vision, teamwork and leadership to face these challenges
+and overcome these risks.
+
+08
+
+Competition
+
+The real competition is met within ourselves. The true competition is to understand
+what went wrong and transform into something better, learn from our own mistakes.
+What makes us unique in the space is that we have already launched, developed,
+grown and updated a crypto wallet that is used by over 80k users each month and is
+installed on more than 250k devices worldwide.
+
+The competition in this space is fierce, but our emphasis will not lie with other crypto
+projects - instead we are confident that our ethics, experience, roadmap, partnership
+network, technical prowess, superior marketing, innovative products and most
+importantly our team make us uniquely positioned to grab a good chunk of the crypto
+market share.
+
+21
+
+09
+
+FUTURE
+
+Future
+
+Klever will in the future be implementing artificial intelligence (AI) and machine
+learning tools to assist users to become smarter and more informed investors.
+
+The future is a world of endless opportunities and technology allows us to build
+fantastic paths, unimaginable in the past. The innovative pace allows us to “break
+barriers” and build on the new standard of normal. This construction will be relevant
+if it is connected to the needs and desires of our community of users. Strengthening
+each link for the common good. We believe that some technologies that are under
+development will enable major evolutions in our relationships and we will dedicate
+ourselves to honing these products in the coming years.
+
+FSFSFS
+ROADMAP
+
+22
+
+10
+
+Roadmap
+
+2017Q4
+
+2018Q1
+
+2018Q2
+
+2018Q3
+
+
+
+
+
+
+
+
+
+• Project Inception
+
+• TronWallet App Design
+
+• TronWallet for iOS
+
+• TronWallet for Android
+
+• TronWallet UI/UX Design
+• TronWallet Software
+Architecture
+
+2019Q4
+
+2019Q2
+
+2019Q1
+
+2018Q4
+
+
+
+
+
+
+
+
+
+• TronWallet App 3.0
+• Add Bitcoin (BTC) Support
+
+• TronWallet Play for
+
+• TronWallet App 2.0
+
+Desktop
+
+• TronWallet Dex
+• Add TRC10 and TRC20
+
+• Add Ethereum (ETH) Support
+
+Tokens Support
+
+2020Q1
+
+2020Q2
+
+2020Q3
+
+2020Q4
+
+
+
+
+
+
+
+
+
+• TronWallet Multi Token Swap
+
+• Klever OS
+
+• Bitcoin Stablecoin (BTCD)
+
+• Klever Spot Exchange
+
+• Reduce and Pay Swap Fees
+
+• Klever App 4.0
+
+• Brazilian Real Stablecoin
+
+• Klever Multi Token
+
+with TWX
+• Add Ethereum ERC20 Tokens
+Support
+
+• Klever Referral Program
+
+(BRLX)
+
+• KLV Staking Program
+
+• Klever Labs
+
+• New Website
+
+• Klever VIP Sale
+
+Staking
+
+• VIP Airdrop (TWLT)
+
+2021Q4
+
+2021Q2
+
+
+
+
+
+• Klever Blockchain
+
+• Klever Browser
+
+23
+
+FSFSFSRAT
+IMPORTANT
+NOTES
+
+IMPORTANT NOTES
+Klever Coin (henceforth referred to as "KLV") are not intended to constitute
+securities, units in a business trust, or units in a collective investment scheme or
+its equivalent or any other regulated products in any jurisdiction. This Whitepaper
+is meant to provide more information on the KLV Token Economy, its utility and its
+functions, and does not constitute a prospectus or offer document of any sort. This
+Whitepaper does not constitute or form part of any opinion or any advice to sell, or
+any recommendation or solicitation of any offer to purchase KLV nor shall it or any
+part of it or the fact of its presentation form the basis of, any contract or investment
+decision. No regulatory authority has examined or approved any of the information
+set out in this Whitepaper. No such action has been or will be taken under the laws,
+regulatory requirements or rules of any jurisdiction. The publication, distribution or
+dissemination of this Whitepaper does not imply that the applicable laws, regulatory
+requirements or rules have been complied with. This Whitepaper, any part thereof and
+any copy thereof must not be taken or transmitted to any country where distribution
+or dissemination of this Whitepaper is prohibited or restricted.
+
+www.klever.io
+
+
