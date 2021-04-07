@@ -1,0 +1,524 @@
+The MAHA Protocol: ARTH Whitepaper
+Version 1.1.2 – Draft
+Prepared by: Steven Enamakel with inputs from Zoran Grubisic & other Team Members.
+
+This whitepaper is meant to be treated as a draft and further revisions will be made to this document.
+________________________________________________________________________________________________
+
+Abstract
+In this paper we describe ARTH value coin, the world’s first non-depreciating currency: a
+decentralized algorithmic cryptocurrency designed to maintain its purchasing power over time,
+irrespective of which direction the market moves.
+
+A brief about Inflation and Stablecoins
+You don’t need to dive too deep into the evolution of society to pick up on the fact that greater
+centralization of power has been the trade-off for advancing forms of organisation. While
+centralization has its merits, it has always, in one form or another, come with one integral
+requirement; trust. To participate, you must place trust in the the authority at the centre. A gradual
+erosion of trust in such centralized structures has given rise to the phenomenon of
+decentralization.
+
+The Loss of Purchasing Power
+Whilst there have been efforts to decentralize aspects of decision making in the past, nothing has
+been as profound as the decentralizing of money. During an important period in our history, gold
+was the de-facto global reserve and the underlying asset that gave us trust in sovereign currency
+or paper money. The 1971 US government under President Richard Nixon “unpegged” the US
+Dollar from gold, effectively bringing the gold standard to an end. Various political and economic
+events before and after that pivotal decision left the US Dollar the new global reserve currency,
+albeit backed by nothing but trust.
+The Federal Reserve, freed from the constraints of pegging their “paper” to gold, has been
+constantly expanding the money supply since under various pretexts. However, it is an
+indisputable fact that virtually all fiat currencies, including the dollar, have lost anywhere between
+50-100% of their value over the last few decades. Little is spoken of enduring inflation and
+permanent loss of “purchasing power” becoming a mainstay in our modern economic system.
+
+Page 1 of 14
+
+Reduction of the purchasing power of the Dollar. Know More
+
+Decentralizing Money and Beyond
+We cannot mention decentralized money without pointing to the pioneering success of Bitcoin,
+which made it possible to transfer value without a centralized authority through intricately designed,
+immutable infrastructure. Ethereum, by way of a programmable and smart contract based system,
+has catalysed blockchain adoption to open up the possibility of absolute decentralization, seen in
+various forms of apps, platforms, and most notably; entire organizations.
+It’s in this element of decentralization of organizations that MakerDAO homes in on, implementing
+the concept of a two-token infrastructure, namely the Maker Token and DAI. This project showed
+that it was possible to create decentralized stablecoins that are algorithmic and backed by crypto
+collaterals.
+
+The Solution
+In the context of chronic declines in purchasing power and the decentralisation of money, the
+ARTH ecosystem builds upon MakerDAO’s concept of DAI to pioneer new mechanisms, resulting
+in a coin that’s both value-stable and a raw measure of an asset’s buying power.
+We hereby introduce ARTH, a decentralized algorithmic value-stable coin that aims to maintain,
+and in some cases even appreciate, the buying power or value of the coin irrespective of which
+direction the market moves.
+ARTH is able to do this as it’s backed to stable collaterals, which are complete hedges of one
+other, so that if one asset depreciates in buying power, the other in turn asset appreciates, keeping
+the net buying power of the coin stable.
+ARTH uses a special method of measuring an asset’s buying power that’s not tied to any fiat
+currencies, which in turn makes ARTH inflation-proof.
+
+________________________________________________________________________________________________
+
+Page 2 of 14
+
+Calculating the buying power of an asset
+Most assets in the cryptocurrency space are denominated in US Dollars. However, as outlined in
+the previous sections, USD itself has lost most of its purchasing power over the past few decades,
+which causes issues for anybody who holds USD or has assets that are backed by USD, as they
+will also have to account for inflation.
+To create an asset that is designed to protect the buying power of its holder, we need to come up
+with an absolute unit of measure to translate the buying power of an asset, which is not measured
+in US dollars. A natural suggestion could be to calculate buying power in terms of how many units
+of gold an asset can be traded for, as gold was once the standard measure of wealth.
+Understanding how to measure the buying power of an asset is important, in order to make
+accurate decisions based on whether or not the asset’s absolute buying power has appreciated or
+depreciated.
+
+Global measurement unit
+One of the features that will differentiate ARTH coin from the other stable coins and MahaDAO
+from the other DAOs is our Global measurement unit (GMU). Designed uniquely and precisely to
+fulfil MahaDAO vision, creating timeless value currency – ARTH coin.
+The global measurement unit is responsible for keeping ARTH coin resistant to depreciation.
+In other words, GMU represents a basket of assets carefully selected with adequate weights to
+present strong hedge strategy against all economic turbulences and many risks regarding, especially
+inflation and currency risk.
+The basket consists of the key currencies and main global commodities like gold as it’s a typical
+example of a safe haven. What stands behind the decision to peg GMU with several prominent
+currencies is the fact that these sovereign currencies have a sound and stable macroeconomic
+position, superb AAA credit rating and significant share in world GDP. Given this fact, we can observe
+their Treasury bond rates and compare them to inflation which will help us deciding which currency
+holds real value.
+Compared to the International Monetary Fund’s SDR, which only consists of main currencies and is
+not protected against political influence, the GMU will also include small portion of riskier assets in
+form of Bitcoin and will be undoubtedly immune to political influence. Bitcoin is the right choice for a
+riskier asset because its price basically represents spillovers from world stock exchanges. Another
+advantage of GMU is that the initial basket of currencies can be changed, both the shares of the
+assets and the assets themselves can be replaced in order to adapt to the given economic
+circumstances, providing stability that ARTH coin stands for from a dynamic viewpoint.
+
+The ARTH Vault
+The vault was a concept first introduced in MakerDAO as a way of managing the underlying
+collaterals that have been locked to generate a token.
+The ARTH vault builds further on this, borrowing concepts like the DSR (DAI Savings Rate),
+emergency shutdown, stability fees, amongst others, to create a system that behaves similar to
+what would be the equivalent of a decentralized reserve bank.
+
+Page 3 of 14
+
+The ARTH vault generates ARTH tokens by locking in collaterals and minting new ARTH tokens
+against them in the form of debt; and releases collaterals when this debt is paid back, thereby
+burning the ARTH tokens.
+The vault will facilitate the buying and selling of underlying collaterals in various market scenarios
+to maintain the net buying power of the ARTH coin.
+Essentially the main purpose of the ARTH vault is two-fold:
+1. Ensure that the buying power of the minted ARTH tokens never go below a certain point.
+2. Employ strategies to enable the vault to increase the net buying power by locking in greater
+collaterals as the market fluctuates.
+
+Creating ARTH tokens using the ARTH Vault
+To create ARTH, a vault needs to be created and collateral needs to be deposited and locked
+inside of it. Against that value of the locked collaterals, ARTH tokens are minted and given to the
+vault owner as debt.
+To release the collaterals locked in the vault, the vault owner pays back his debt along with a
+stability fee, which can be paid in ARTH or in MAHA tokens. When the debt is paid off, the ARTH
+tokens are burnt and removed from the supply.
+
+Debt-to-Collateral ratio
+The debt-to-collateral ratio will ensure that ARTH tokens are always issued at a value less than the
+net value of the vault. This gives some contingency to price volatility for any of the collaterals
+before a vault stands a chance of being liquidated.
+For example, a collateral with a 150% debt-to-collateralization ratio will allow for 50% of the
+collateral’s value to be issued in the form of ARTH tokens.
+
+Vault Liquidation & Liquidation Ratio
+A vault risks liquidation when the collaterals that have been locked in depreciate in value and the
+position held by the vault nears the liquidation ratio.
+When a vault is marked as to be liquidated, the ARTH minting stops and the locked collaterals are
+sold to any buyer willing to pay back the debt in ARTH, at a discount to the vault owner.
+These liquidation ratios mean that despite potential price swings, the ARTH market itself as a
+whole is never undercollateralized. This also ensures value stability for the ARTH coin.
+
+Page 4 of 14
+
+Collateral Buying Power Ratio
+The buying power ratio of each of the collaterals deposited in the vault is a predefined value, used
+to define exactly how much of each collateral should be in the vault.
+For example, a vault designed with two assets A and B, and with a collateral buying power ratio of
+1:1, should result in the buying power of both assets remaining the same, at all times.
+Any deviation from this ratio will force the vault to perform a rebalancing, where it will sell one
+collateral for the other, bringing the balance back to the ratio.
+
+Rebalancing the underlying collaterals
+Since the ARTH vault is backed by collaterals, it will eventually be subject to market fluctuations.
+Hence, the net buying power of the vault can either appreciate or depreciate due to market effects
+on the underlying collaterals.
+In cases where the net buying power of the vault depreciates, the vault does not do any
+rebalancing to counter this depreciation. The depreciation of the vault is a weighted average of the
+depreciation across all the collaterals.
+In cases where the net buying power appreciates, the vault will perform a rebalance to try and
+maintain the buying power ratios.
+Which means just like a reserve bank, the ARTH vault will systematically buy or sell the underlying
+collaterals for one another, so that all of the collateral’s buying power ratios are met.
+
+Rules for Rebalancing
+The strategy employed for rebalancing by the vault will follow the following rules:
+1. That the buying power of all collaterals maintain the ratio defined at all times.
+2. The collateral being sold is the asset which has appreciated in buying power and the
+amount to be sold is calculated based on the increase in buying power.
+3. The collateral being bought is the asset which has depreciated in buying power and the
+amount to be bought is calculated based on the amount of other collaterals we can sell.
+4. The collaterals are sold in such a way that we are not left with less than 50% of the quantity
+we started off with. This is known as a stop-sell.
+
+Understanding the Stop-sell
+Because we are selling an appreciating asset for a depreciating one, we end up in a scenario
+where if one side continues to appreciate, the vault strategy will continue selling off the
+appreciating collateral to maintain the buying power ratio.
+This causes a situation where the vault will end up having sold one side of the collateral fully and
+end up having a full exposure to the other collateral.
+
+Page 5 of 14
+
+The stop-sell ensures that the vault will never sell collateral more than a percentage of what it had
+initially started with.
+For example, if the vault had a stop sell of 10% and one of the collaterals, say, asset A appreciates
+by 50%. Then this will trigger the vault to trigger a rebalance and make a trade selling 16% of asset
+A. But since selling 16% is more than our stop sell of 10%, this trade does not execute.
+
+Rebalancing Strategy Example
+To elaborate how the rebalancing strategy works in a real-world scenario where one asset
+appreciates, we have drawn up a visualisation. In this example, we have two assets, namely A and
+B, and a vault which maintains a 50-50 ratio with respect to the buying power of each asset. The
+following diagram demonstrates how the vault will behave in this scenario.
+
+A vault with two assets holding a 50-50 ratio between them in buying power. Asset A is worth 1 unit of buying power and
+Asset B is worth 0.5 units of buying power. Creating a vault with a net buying power of 1000 units.
+
+Page 6 of 14
+
+Now assuming that the buying power for Asset A appreciates by 50% and that it remains the same
+for Asset B, we end up with the following composition in our vault.
+
+Status of the vault when asset A appreciates by 50%. Net buying power of the vault is 1250 units
+
+When asset A appreciates by 50% in buying power, the quantities held by the vault of both assets
+remain the same. However, the net buying power of the vault has now become 1250 units which is
+an increase of over 25%.
+When this happens, the vault triggers a rebalance by selling the excess appreciated amount of
+asset A for asset B. Since asset A appreciated by 250 buying power units (500 - 750), the vault
+decides to sell off half of that, 125 buying power units of A, for asset B; to come back to the 50-50
+buying power ratio.
+Which means a trade is published selling 125 buying-power units of A for 125 buying-power units
+of B.
+After taking into account the price of A and B, we come up with the final trade which is selling X
+units of A for Y units of B.
+
+Page 7 of 14
+
+The vault after it has rebalanced and sold asset A for asset B
+
+After the rebalance the vault is back to a 50-50 ratio in buying power, but the quantities of both A
+and B have changed.
+Moreover, if asset A keeps on further appreciating, then the vault will continue to sell more of asset
+A to buy more of asset B; but the vault will stop selling asset A if it has already sold more than 50%
+of what it had initially started off with.
+This is done to avoid selling off too much of asset A and to also allow the vault owner to realise the
+continuous upside of having an appreciating asset.
+All parameters for the strategy can be changed upon vote by the governance token holders.
+
+Page 8 of 14
+
+Holding auctions to buy/sell the underlying
+collateral
+When the vault decides to buy/sell locked collaterals, it’ll automatically open a trade/swap, placing
+the collateral to be sold on one side and requesting the collateral to be bought on the other side.
+The rate for which the collaterals are sold are determined by two variables.
+1. A price feed, which is given by price oracles.
+2. A market maker discount.
+The market maker discount is a reduction applied to the trade price to make the it more attractive
+to market makers, who’ll fulfil the order to realise a profit through arbitrage in other markets.
+Since the amount being sold is from the profits of vault, the vault can risk giving away a discount as
+the change in net buying power still remains positive.
+Initially, a market maker discount can be set to promote more engagements with market makers.
+The auction parameters are community governed and can be changed upon vote by MAHA token
+holders.
+
+Choosing the right kind of collaterals for ARTH
+An ARTH vault’s true value is derived from the value of the underlying assets inside of it. As a
+result, it’s crucial to choose the right kind collaterals and their ratios when deciding the value of
+ARTH.
+The ARTH vaults are designed to appreciate in value when one of the underlying assets
+appreciates in value and contributes to the net vault’s value as a whole. In certain scenarios when
+all of the collaterals locked inside the ARTH vault depreciate, the ARTH vault would also
+depreciate.
+Hence, it’s important to choose collaterals that are perfect hedges of each other to come up with a
+strategy that appreciates the value of ARTH regardless of the direction of the market.
+Therefore, when choosing a collateral, the following points need to be considered:
+•
+
+High Market Capitalization: Collaterals with large enough market capitalization should be
+preferred over smaller ones. Small market cap collaterals would not only limit the amount of
+value that can be captured by the vault but would also be more liable to manipulation.
+Choosing high market cap assets will ensure steady price-movements and avoid vaults
+getting liquidated during major price swings.
+
+•
+
+Uncorrelated to other assets or negative beta: Ideally collaterals should be chosen such
+that they have a negative beta with other collaterals. In other words, they are perfect
+hedges of each other and when one collateral goes down, the other collateral should go up
+to keep the value stable. Fiat collaterals are often heavily correlated with the US dollar.
+Crypto collaterals are often heavily correlated with Bitcoin. The collateral ratios decide how
+much of each collateral is stored within the vault and can be governed by MAHA token
+
+Page 9 of 14
+
+holders. This will allow MAHA token holders to easily introduce or phase out collaterals as
+and when needed.
+For example, a vault with three different collaterals with a buying power ratio of 1:1:1, will try to
+maintain a reserve with equal buying power for each collateral as per the strategy mentioned
+above.
+In cases where one of the underlying collaterals becomes unstable or is deemed as “high” risk, it
+can slowly and gradually be removed from the ARTH vault by reducing its buying power ratio to 0.
+This can be a community governed decision made by MAHA token holders.
+
+Simulating across various market scenarios
+We use the following parameters:
+1.
+2.
+3.
+4.
+5.
+6.
+
+Stop sell of 30%
+Stop loss of 30%
+5% slippage for every rebalance
+Rebalance to happen once every 7 days
+50% of the appreciated value from the appreciating asset, is sold off during every rebalance
+Starting with a buying power of 100 (so that it is easy to measure % increase)
+
+Using a basket of Forex, Gold and US Equities
+Here we try with data from 1990-2020 and keep 50% of the vault’s buying power in GOLD and the
+remaining in Australian Dollar, Euro and SPY500 ETF. AUS and EUR will represent the fiat
+markets and SPY500 ETF will represent the stock market. Since usually gold is often used as a
+hedge against the stock & forex markets, we keep a 50% ratio in gold.
+Buying power for this simulation is calculated in USD. Assets chosen are distributed with the
+following ratios:
+1.
+2.
+3.
+4.
+
+Australian Dollar (20% starting buying power)
+Gold (50% starting buying power)
+S&P 500 ETF (10% starting buying power)
+Euro (20% starting buying power)
+
+Page 10 of 14
+
+At the end of the simulation, the vault has rebalanced itself around 90 times over the course of 20 years and has
+appreciated itself by over 309%. (Full analysis and code can be found here)
+
+Using a basket of Stablecoins, Gold and Cryptocurrencies
+The purpose of this simulation is to understand how ARTH would perform in a real-world scenario,
+as if it had launched around the year 2019. Here we choose a basket of stablecoins, gold and
+cryptocurrencies keeping stablecoins on one side of the hedge and fiat currencies on the other
+side.
+Buying power for this simulation is calculated in USD. Assets chosen are distributed with the
+following ratios:
+1.
+2.
+3.
+4.
+
+WBTC (20% starting buying power)
+Gold (10% starting buying power)
+ETH (20% starting buying power)
+Euro (50% starting buying power)
+
+At the end of the simulation, the vault has rebalanced itself around 6 times over the course of 1 year and has appreciated
+itself by over 80%. (Full analysis and code can be found here)
+
+Page 11 of 14
+
+How to calculate the price of one ARTH token
+Whilst we talk about ARTH in terms of it’s buying power, to the end user, ARTH will most likely be
+represented in their native fiat currency (like USD, RNB, EUR etc..).
+The value of ARTH in a particular currency can simply be thought of as the net value of all the
+underlying collaterals backing 1 ARTH token denominated in that currency.
+This would mean that if we were to calculate the USD value of one ARTH token, then it’d look
+something like the following. (note that BTCUSD price at the time of writing is 10,500$)
+(assuming two collaterals used: ie BTC and USD)
+
+BTC
+USD
+
+value
+
+value
+
+= (supply of locked BTC) * (BTC/USD price ~ 10,500$)
+= (supply of locked USD) * (USD/USD price ~ 1$)
+
+ARTH
+
+circulation
+
+ARTH
+
+USD
+
+= total circulation of ARTH
+
+= (BTC
+
+value
+
++ USD
+
+value
+
+) / (ARTH
+
+circulation
+
+)
+
+But this does not account for slippage or the various transaction fees that a user will have to
+account for when moving collaterals back and forth the various sidechains for example.
+Moreover, not every ARTH token is directly redeemable for the proportion of the underlying
+collateral. The collaterals are only redeemable in two scenarios, either when the vault is nearing its
+liquidation point or when the owner of the vault decides to sell the ARTH tokens and release the
+collaterals.
+For example; if every vault is created with a minimum of 100 ARTH tokens, it’ll be impossible to
+redeem 1 ARTH token for its underlying value. A minimum of 99 ARTH tokens would be needed to
+liquidate the vault and redeem its collaterals.
+Finally, this equation also does not account for any overcollateralization because of the 50% stopsell which we have defined in the vault’s strategy.
+Taking all of the above into consideration, we introduce three new variables to come to the true
+market rate of an ARTH token: 1. Slippage
+2. Overcollateralization
+3. Fees
+Any deviation from this market rate can easily be corrected by arbitrageurs and market makers.
+ARTH
+
+True USD value
+
+= ARTH * Slippage - Fees + OverCollateralization
+usd
+
+As we can see it’s not very straightforward to calculate the value of one ARTH coin when you
+compare it with a fiat.
+
+Page 12 of 14
+
+Huge fluctuations in ARTH’s price will only happen when the market cap of ARTH is small and the
+markets are not liquid enough. Because ARTH is backed by its underlying assets, major price
+fluctuations will be less frequent as markets and ARTH become more and more liquid.
+
+Stability Fees
+To control the supply of ARTH tokens in the market, the ARTH vault will charge a fee in MAHA
+tokens to the vault liquidator whenever he/she wishes to release the locked collaterals in the vault.
+A high fee will discourage creation and liquidation of ARTH vaults and a low fee will encourage
+creation and liquidation of ARTH vaults.
+Fees collected will be burnt off, reducing the supply of MAHA tokens and hence appreciating its
+value.
+
+Emergency shutdown
+To protect the ARTH holders against attacks on the infrastructure, an emergency shutdown
+module can be invoked as a last resort.
+Upon activation, the emergency shutdown module will deploy a two-pronged safety mechanism in
+which new vaults will stop getting created and all existing vaults will be instructed to stop creating
+new ARTH tokens. This will enable vault owners to reclaim their collaterals against the circulating
+ARTH and the overall rebalancing activities will come to a halt as well.
+MAHA Minority can use this Emergency Shutdown Module to specifically thwart three types of
+attacks:
+1. Malicious governance
+2. Critical bug in smart contract code
+3. Long-term market irrationality
+The MAHA voters will determine a quorum (initially 1,000,000 MAHA) that is required to be
+deposited to trigger the Emergency Shutdown. Irrespective of a quorum being reached, all MAHA
+Tokens deposited into this module will be immediately burnt off.
+
+ARTH Savings Rate - ASR
+An ARTH Savings Rate system has been put into place to allow token holders to earn passive
+income whilst holding ARTH. The model incentivizes the balance of supply and demand of ARTH
+and allows for capital to be deployed more efficiently while still holding true to its core role of
+providing strong, decentralized stability.
+The ASR is a basic interest system. Token holders can lock and unlock ARTH into a savings
+contract which would continuously accrue interest based on ASR, a global system variable. If the
+prevailing ASR is 3%, a holder who locks 100 ARTH tokens for a full year, will earn three additional
+ARTH when they unlock the same. The funds needed for the ASR come from the stability fees paid
+by CDP’s. For example, average stability fees of 4% collected on CDP’s could easily fund an ASR
+of 3%.
+
+Page 13 of 14
+
+Beyond keeping the balance of demand and supply of ARTH, this system will prove to be a major
+monetary policy lever that the decentralized governance can control. This will be a global
+parameter that will be adjusted often to deal with short-term changes in the market conditions of
+the ARTH economy.
+These two mechanisms in conjunction, provide a powerful array of tools to guard both short-term
+and long-term stability of the ARTH token.
+
+Known Risks
+The following risks have been identified as risks to the stability of ARTH.
+•
+
+New economic model - Any uncertainties with any new economic model
+
+•
+
+Smart contract bugs - Possibility of any bug in the smart contract can bring the entire
+system down, no matter how much code-review has been done on the smart contracts.
+
+•
+
+Low liquidity - If there isn't enough liquidity to support the various rebalances or generate
+enough ARTH, then ARTH can see itself depreciate in value.
+
+•
+
+Collapse of one of the underlying collaterals - An unstable collateral which collapses
+can cause ARTH to lose its value proportionate to how much value exposure was there to
+the collateral.
+
+•
+
+Collapse of the price feeds - The price feeds are a crucial piece for the ARTH vaults to
+determine the situation of the market. Any collapse in these price feeds would cause the
+ARTH vaults to make decisions based on incorrect data.
+
+•
+
+Centralization of MAHA tokens - Majority of the decisions made for ARTH are decided
+upon MAHA token holders. Therefore a centralisation of MAHA tokens will cause the
+decisions to be one-sided which might not possibly result in the best outcome.
+
+References
+•
+
+MakerDAO Whitepaper - https://makerdao.com/en/whitepaper/
+
+•
+
+Introducing MahaDAO - https://medium.com/p/5bd52476883e
+
+•
+
+ARTH Collateral Modeling - https://github.com/MahaDao/arth-collateral-modeling
+
+•
+
+Purchasing Power Parity - https://en.wikipedia.org/wiki/Purchasing_power_parity
+
+•
+
+The Decrease in Purchasing Power of the U.S. Dollar Since 1900 https://observationsandnotes.blogspot.com/2011/04/100-year-declining-value-of-usdollar.html
+
+Page 14 of 14
+
+

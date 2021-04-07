@@ -1,0 +1,631 @@
+MAKE CRYPTO
+MAINSTREAM
+WHITEPAPER
+
+CHAT, TRADE AND
+JOIN THE COMMUNITY!
+
+Table of Contents
+Introduction ....................................................................................................................................................................
+
+4
+
+Problem .........................................................................................................................................................................
+
+5
+
+Solution ...........................................................................................................................................................................
+
+8
+
+The ALLY Ecosystem .....................................................................................................................................................
+
+10
+
+ALLY Ecosystem Roadmap .............................................................................................................................................
+
+19
+
+ALLY Token (ALY) ...........................................................................................................................................................
+
+20
+
+Team ...............................................................................................................................................................................
+
+22
+
+Conclusion ......................................................................................................................................................................
+
+23
+
+References .....................................................................................................................................................................
+
+24
+
+Introduction
+While the world has seen some incredible innovations built on the back of centralized community systems,
+including the likes of Facebook, Telegram, Uber, and Amazon, the world has become acutely aware of the
+drawbacks of centralized computing. Hacks, data breaches, and state-sponsored attacks have put the public’s
+faith in the traditional ways of connecting online in jeopardy. It has become all too apparent that the systems
+of the past need changing perhaps not only for matters of cyber security, but also for users’ privacy and data
+protection. Many of these centralized systems exploit user data and invade individual privacy because their
+business models are dependent on just that. It’s clear the world is in dire need of a new system, one that is
+designed with different incentives to ensure users and community managers are protected at its core.
+With the Big Tech companies, many middlemen and intermediaries collect numerous pockets of user data while
+failing to deliver any value to the end customer. Due to the rise of blockchain and new decentralized global
+paradigm, it is essential for ALLY to innovate using this technology and demonstrate how decentralized
+networks have the power to be a catalyst for more secure communication to build communities on a more global
+scale. Many view blockchain and cryptocurrencies as an alternative to our current broken system, one that can
+ensure security, privacy, and freedom of communication for all.
+
+4
+
+MAKE CRYPTO MAINSTREAM
+
+Problems With Current Adoption
+Of Blockchain & Crypto
+LACK OF ACCESSIBILITY AND WIDESPREAD MISUNDERSTANDING
+Blockchain technology, like the earliest versions of the Internet, has so far failed to be adopted by a mainstream
+audience due to its perceived complexity and high barriers to entry. Many of the blockchain applications
+in existence today remain unappealing to most people because they’re difficult to use and do not offer an
+experience that is able to rival their centralized counterparts. Like blockchain, the benefit and value proposition
+of the Internet wasn’t clear in its infancy. Many questioned the long-term sustainability of it and failed to see the
+many ways in which it would evolve and revolutionize our world.
+The Internet in its early days was widely misunderstood, complex to use, and failed to scale adequately.
+Generally speaking, new technologies seem daunting and unappealing and many opt to stick with the status
+quo. Before the benefits of email became clear, most would have been content, if not pleased, with postal mail.
+The misunderstanding and confusion that accompanies the onset of new technologies mostly stems from a lack
+of education about the added value of these technologies. Moreover, early iterations of the Internet were not
+user-friendly and were limited to many basic functions such as webpages and email. It took time for the web
+technology to develop and for the infrastructure to be built to facilitate the creation of higher-order functions and
+processes.
+As cryptocurrencies emerge from their infancy, they are often compared to how the Internet was in its dawn.
+It is commonly misunderstood, cumbersome to use, and has struggled thus far to scale. Most discount it as
+unnecessary and fail to see its value proposition and the potential it has to reshape and grow many industries.
+Many are content with the status quo and view the switching costs of moving to decentralized systems as
+insurmountable. Lastly, people frequently mistake the current state of the technology with the end state.
+The current state of the crypto world is also extremely fragmented, siloed, and considerably unconnected. There
+is no interconnected and unified platform in which crypto enthusiasts, traders, and spectators can trade various
+cryptocurrencies, share insights, discuss trading strategies, and digest the latest industry news in secure
+community settings. Instead, those interested in chatting about crypto and other matters with other like-minded
+people must resort to using a variety of different trading and centralized communication platforms that do not
+and cannot guarantee their privacy.
+
+MAKE CRYPTO MAINSTREAM
+
+5
+
+Telegram has become one of the top go-to messaging platforms for blockchain projects to cultivate and grow
+their community, while in China, WeChat dominates the communication industry. Similarly, CoinMarketCap is
+used to check coin and token prices on various cryptocurrencies and understand the latest market trends.
+Lastly, an excess of exchanges ranging from Binance to Coinbase are used to buy, sell, and trade. Therefore,
+those utilizing each platform for different purposes experience a fragmented and disconnected crypto
+community experience.
+Crypto and blockchain have yet to be adopted by a mainstream audience and achieve real, practical use-cases.
+This is mainly due to the unfriendly user interfaces and experiences that currently exist with most decentralized
+applications, and due to the high number of scams and frauds in the space, most members of the general public
+are reluctant to get involved. Coupled with the perceived complexity of a new and commonly misunderstood
+technology and the lack of education on the benefits of the technology, mass adoption has stalled.
+
+THE PITFALLS OF CENTRALIZED COMMUNICATION PLATFORMS
+In living up to its promises of transparency, inclusion, and access, many blockchain projects have chosen to
+host official forums and discussions on platforms where they can communicate directly with their community
+base. The majority of blockchain and crypto projects’ communication occurs on Telegram, Discord,
+WhatsApp, WeChat, and other centralized messaging applications. However, the ethos of blockchain lies in its
+decentralized mission, one complete with security, privacy, and freedom while online. Not only is it
+antithetical for blockchain projects to run their communities on centralized platforms, but they also run the risk
+of exploitation and improper surveillance that has become all too common as shown in the recent Facebook,
+Telegram and WeChat data controversies.
+Facebook’s Cambridge Analytica data breach exposed the personal information of 87 million Americans and
+WhatsApp’s security vulnerability allowed users to be spied on (Falconer, 2019). These data privacy scandals
+are opening up people’s eyes to the pitfalls of centralized platforms. When any online service is monetarily
+free, users become the de facto product and their data is sold to advertisers via targeted ads. This “surveillance
+capitalism” has an insatiable need for data as their business models rest on this very idea. Furthermore, due
+to its centralized structure, Telegram was effectively banned in nations like Russia in April 2018 and Iran in
+May 2018 after refusing to comply with the requests for data and information from those countries’ respective
+authorities (Collier, 2018). Telegram has been admired by many online privacy advocates for steadfastly
+refusing to comply with improper government requests for user information. However, Telegram itself is still a
+centralized platform and therefore still subject to malicious hacking attacks and security vulnerabilities due to a
+single point of failure that is intrinsic in centralized systems.
+
+6
+
+MAKE CRYPTO MAINSTREAM
+
+Those using WeChat in China are similarly unable to freely communicate about blockchain and crypto due to
+harsh government restrictions on the discussion of crypto news. Thus, despite being one of the most cryptocrazed countries, the Chinese people are unable to discuss topics such as ICO’s and various cryptocurrencies
+due to government bans (Young, 2018). Furthermore, the Chinese authorities went so far as to prohibit
+merchants using WeChat from being involved in any way with cryptocurrency activity or trading. Those found in
+violation could have their WeChat accounts closed and possibly even subject to further discipline. This obvious
+friction towards people’s ability to freely discuss cryptocurrency and blockchain technology highlights yet
+another flaw with centralized systems—the ability for oppressive governments to censor content and stifle free
+speech.
+The world has much to gain from the use of a single, global communication platform. Not only would it go a long
+way in eliminating the data ownership issues with the larger conglomerates but would also ensure that users’
+information wasn’t being used to manipulate them, or worse. The world deserves a decentralized community
+center where they can go to learn more about crypto, chat with like-minded individuals and protect their data.
+
+MAKE CRYPTO MAINSTREAM
+
+7
+
+Solution For Widespread Adoption
+THE TRANSFORMATIONAL POTENTIAL OF BLOCKCHAIN
+TECHNOLOGY
+Similar to how the Internet in 1995 wasn’t capable of what it is today, blockchain technology will naturally
+continue to be innovated and will eventually have far superior functionalities than it currently does. In 1998, Nick
+Szabo, cryptographer and smart contract pioneer stated that, “doing business on the Internet requires a leap of
+faith.”
+Trust has always been the fundamental currency of both communication and commerce.
+Every second new online transactions occur between strangers around the world, usually through a third-party
+enabling the communication transaction, and trust needs to be manufactured between the user and host to
+complete the operation. Whether a message is sent, or a payment is made, the sender has no choice but to
+trust that the intermediary will deliver the transaction to the intended recipient safely.
+With the distributed blockchain ledger, users can securely and directly connect and perform transactions with
+each other, without having to rely on an intermediary or worry about protecting their privacy. Blockchain and
+decentralized networks offer a way to confidently operate in a trust-less environment using its distributed ledger
+to create transparency and consensus-driven, tamper-proof logs of transactions. Every transactional ‘block’
+is verified by the entire network and then immutably linked to the ‘chain’ to provide unparalleled security and
+accountability.
+The clear solution to this problem is leveraging blockchain’s distributed ledger, which connects users directly,
+eliminating the need to place trust in an intermediary or an unknown party, as well as lowering the barriers
+to entry for crypto newcomers. Through ongoing education to further demystify the negative hype around the
+new tokenized asset era will prove to be a challenge. In order to do so, blockchain and crypto projects alike will
+need to engage users and community members with intuitive user interfaces and user experiences
+within applications, built so the front-end has a similar flow so that user is able to understand the functionality.
+The use of blockchain and crypto relevant language can also be an issue, which by simplifying, can lead to a
+wider audience learning and engaging within crypto communities. A decentralized communication and
+larger ecosystem solution will mean users can securely and directly connect and transact with one another,
+without having to worry about their privacy, and will give the entire crypto world an attractive solution to pursue
+widespread adoption.
+
+8
+
+MAKE CRYPTO MAINSTREAM
+
+RESTORING USER PRIVACY AND DATA FREEDOM THROUGH
+DECENTRALIZATION
+Traditionally, communication platforms rely on a centralized server for information and storage of all data
+transactions between users. However, on a decentralized network like the blockchain, no information is stored
+in one central location, which makes it almost virtually impossible for cybercriminals to hack. Hackers and other
+cybercriminals regularly infiltrate entire computer security systems and networks from anywhere in the world,
+in a matter of hours. Yet, as soon as information is recorded in a blockchain’s distributed ledger it cannot be
+erased, changed, relocated or tampered with in any way. Attacking one central server is no longer enough to
+gain control over the entire system. This consensus-based immutability of a decentralized network creates a
+transparent and secure framework with vast implications.
+Originating from the idea that people should own their own data and not a centralized ledger keeper, like
+Facebook, Telegram, WeChat, etc., just waiting for the next hack, a slow uprising has begun to take place with
+such campaigns as #DeleteFacebook pushing for users to fully delete their Facebook accounts to protect their
+privacy. Following the 2018 Facebook-Cambridge Analytica scandal and the trial that went along with it, users
+of centralized communication platforms around the world have become less oblivious to how applications are
+using their data and are ready for an alternative that protects their data, yet opens the door to a new, more
+secure global community.
+The decentralized, immutable, and secure aspects of blockchain make it most exciting as a viable alternative
+to the centralized computing systems of today. Hack after hack has left the world increasingly vulnerable to
+cyber theft and exploitation. However, blockchain has the potential to ensure users’ data and privacy can be
+safeguarded. While this shift will not occur over night, it is clear the world not only wants, but needs to embrace
+decentralization.
+
+MAKE CRYPTO MAINSTREAM
+
+9
+
+The ALLY Ecosystem
+The ALLY Ecosystem delivers a unique incentivization layer that can scale to any blockchain, privacy for
+communication as well as fast and secure financial transactions, designed on a Proof of Authority (PoA)
+consensus model and offers unique decentralized storage.
+The five main components of the ALLY Ecosystem are as follows:
+1. ALLY Wallet: a built-in crypto wallet that can perform P2P in-chat crypto transfers as well as transactions
+between wallet addresses.
+2. ALLY Chat: The new, decentralized, and private place to foster communities and connect with people
+globally, without fear of third party entities and government censorship.
+3. ALLY Bot Marketplace: Built directly into the ALLY Chat dApp, crypto and blockchain projects alike will
+have priority access to a growing userbase to advertise their community management bots as well as buy
+exclusive ALLY bots in a globally accessible marketplace.
+4. ALLY App Profile: Verified community groups on ALLY Chat that also have a dApp of their own will have the
+option to enable an App profile on their ALLY group or channel for ALLY users to easily find the latest version of
+other dApps whose communities they are a part of.
+5. ALLY Incentivization Layer: Ally’s novel and proprietary incentivization layer can help any blockchain
+infrastructure scale faster and will enable our community stakeholders to participate in economic opportunities
+and earn token rewards as a result of their support for the network.
+
+10
+
+MAKE CRYPTO MAINSTREAM
+
+ALLY WALLET
+ALLY (Chat) already has a built-in crypto wallet that can perform P2P in-chat crypto transfers as well as
+transactions between wallet addresses. The wallet also supports an exclusive VIP Program for ALLY users.
+To expand the ALLY Wallet capabilities, an external wallet accessible on any standard web browser was been
+developed (in Beta) to ensure more users have access to their funds from anywhere in the world. With this web
+browser version, the ALLY Wallet will soon be expanding to a multi-cryptocurrency wallet.
+
+MAKE CRYPTO MAINSTREAM
+
+11
+
+ALLY CHAT
+With all of the centralized platforms housing an increasing number of crypto communities, ALLY Chat is the new,
+decentralized and private place to foster communities and connect with people globally, without fear of third part
+entities and government censorship. ALLY Chat is a safe haven where people around the world can practice
+free speech without retribution and can share data unreservedly without that information being hacked and
+manipulated. ALLY Chat is built to secure users’ information and is the communication and crypto hub for the
+entire world. With private and group messaging, secure audio and video calling, decentralized file storage, an
+in-app multi-currency wallet, in-chat P2P crypto transfers, content publishing, paid media, and more, ALLY Chat
+is the first dApp poised to bring crypto mainstream around the world.
+
+12
+
+MAKE CRYPTO MAINSTREAM
+
+ALLY BOT MARKETPLACE
+Built directly into the ALLY Chat dApp, crypto and blockchain projects alike will have priority access to a growing
+userbase to advertise their community management bots as well as buy exclusive ALLY bots in a globally
+accessible marketplace. ALLY Chat will partner with crypto projects from around the world of many different
+categories, gaming, media, logistics, etc. in order to bring its users the best verified communities and unique
+management bots. Utilizing the ALLY native tokens, users will have the opportunity to buy and download
+multiple bots and services.
+
+MAKE CRYPTO MAINSTREAM
+
+13
+
+ALLY APP PROFILE
+Verified community groups on ALLY Chat that also have a DApp of their own will have the option to enable an
+App Profile on their ALLY group or channel for ALLY users to easily find the latest version of other DApps whose
+communities they are a part of. With a simple UI showcasing where to download the app, ALLY can bring more
+communities together to support other blockchain and crypto applications from around the world.
+
+14
+
+MAKE CRYPTO MAINSTREAM
+
+ALLY’s INCENTIVE LAYER
+ALLY’s novel and proprietary incentivization layer will put users first by enabling our community’s stakeholders
+to participate in economic opportunities and earn token rewards as a result of their support for the network.
+ALLY will eventually exist as a standalone chain in order to better accommodate other projects that choose
+to leverage ALLY’s technology to build on top of. The ALY token makes all of this happen by implementing a
+mechanism into the network to encourage user activity and the scaling of future dApps on the network. Possible
+use cases for ALY token include a marketplace for decentralized storage on the network and many more
+practical applications.
+
+ALLY Incentive Layer Architecture
+
+STORAGE CONTRACT
+USING ALLY TOKEN
+
+FILE HASH
+ALGORITHM
+
+FILES
+
+MINERS/COMMUNITY EARN
+ALLY BY OFFERING CAPACITY
+
+DECENTRALIZED
+SERVER
+INFRASTRUCTURE
+
+FILE HASH
+ALGORITHM
+
+CLIENTS
+
+DECENTRALIZED
+SERVER
+INFRASTRUCTURE
+
+REPLICATED
+AND SPLIT UP
+
+UPTIME
+CHECK
+
+ENCRYPTED FILES
+DECENTRALIZED
+SERVER
+INFRASTRUCTURE
+
+CHECK FILE STATUS
+
+MAKE CRYPTO MAINSTREAM
+
+15
+
+ALLY Chat History
+The first version of the Ally dApp was released to the public in beta on August 1, 2018, available on the Google
+Play Store, Apple App Store and a downloadable APK (Android Application Package) through the getally.
+io website. The Ally team followed the launch with a global roadshow starting August 7, 2018 visiting over 14
+countries on 4 continents in 3 weeks to promote the release of Ally and form partnerships with blockchain
+hubs around the world. Token utility features were released such as P2P In-Chat Crypto Transfers, Premium
+Broadcast Channels, Premium Sticker Collections.
+By the end of October 2018, Ally reached over 100,000 users and by February 2019 the app had reached
+over 150,000. Also in February, the Ally team released the fully decentralized beta 2.0 version - which included
+P2P Crypto Transfers, Decentralized Messaging, Decentralized File Storage with automatic backup and the
+first token utility in the app, Premium Broadcast Channels with automatic payments, keyword search tags and
+improved the Global Search function so it’s easier for users to find and add one another as contacts. In March
+2019, the Ally team further optimized the Android app version with a bottom bar navigation and made it easier
+for users to invite their friends and contacts to join Ally. The Ally team has been working in the background over
+the last few months enhancing the overall app performance, fixing technical bugs, building out new features like
+blog and article publishing, and improving the overall encryption functionality to ensure that users feel the most
+secure using the Ally app. The team is also actively working on the Incentive Layer TestNet.
+The Ally dApp currently has three available languages, English, Chinese and Russian, and will be adding
+language support in Korean soon.
+The current features built into the communication app are as follows:
+•
+
+Private P2P chats
+
+•
+
+Group Chats
+
+•
+
+Broadcast Channels
+
+•
+
+Group and Channel Links
+
+•
+
+Secret, Disappearing Messages (In P2P Chats)
+
+•
+
+Decentralized Messaging
+
+•
+
+Message Encryption
+
+•
+
+File, Photo and Video Transfers
+
+•
+
+Voice Messages
+
+•
+
+Decentralized File Storage
+
+•
+
+P2P Audio Calling
+
+16
+
+MAKE CRYPTO MAINSTREAM
+
+•
+
+Voting Polls in Groups
+
+•
+
+Keyword Tags for Groups and Channels
+
+•
+
+P2P In-Chat Crypto Transfers
+
+•
+
+Built-in Crypto Wallet
+
+•
+
+Screenshot Notifications
+
+•
+
+Blocking and Banning Users
+
+•
+
+Automatic Backups
+
+•
+
+Light and Dark Theme
+
+•
+
+Custom Chat Backgrounds
+
+•
+
+Global Discover Search with Keyword Tags
+
+•
+
+App Passcode Setting
+
+•
+
+QR Codes and Scanners
+
+Features on the roadmap coming soon:
+•
+
+Blog and Article Publishing
+
+•
+
+Candy Center
+
+•
+
+Multi-Currency Wallet Support
+
+•
+
+Paid Storage
+
+•
+
+P2P & Group Video Calling
+
+•
+
+Live Media Streaming
+
+•
+
+Smart Contracts
+
+MAKE CRYPTO MAINSTREAM
+
+17
+
+ALLY Decentralized Translation
+ServiceALLY Decentralized
+
+Translation Service
+
+IMPORTANT NOTE: No data is ever
+stored on the ALLY Translation Server.
+
+ALLY Decentralized Translation Server
+
+P2P Messaging
+User A
+
+User B
+
+Conversations and Messaging are P2P. When a translation is
+required, that data is sent to the ALLY Translation Server. The
+translated message is returned to the ALLY user.
+
+18
+
+MAKE CRYPTO MAINSTREAM
+
+ALLY Ecosystem Roadmap
+
+MAKE CRYPTO MAINSTREAM
+
+19
+
+ALLY Token (ALY) Utility Token
+Membership & Functionalities
+ALLY is a utility token that will offer benefits across the entire ALLY Pay Ecosystem. These ecosystem privileges
+will enable access to various features and actions across the various ALLY components and applications. Initial
+usage of these platforms will be free, and the token will serve as means of access to unlock premium features,
+membership levels or utilize various extra functionalities.
+Token Utility Function Currently Active in the ALLY Chat dApp:
+Premium Channels: Users on ALLY Chat create their own Premium Broadcast Channels. The creators of
+the chats or influencers will be able to own and promote their own contents across the channel. They have
+the privilege of setting a subscription fee for other users to follow their channels, including a one-time fee or a
+monthly rate.
+In-Chat and Wallet-to-Wallet Crypto Transfers: Users on ALLY Chat are currently available to receive and
+transfer tokens from within the built in ALLY Wallet and from directly within Private Chats with other users with
+low transactional costs.
+Premium Storage: ALLY Chat users can use tokens to own Premium Storage in the network
+Grandmasternodes, the ultimate supporters of the blockchain infrastructure, to ensure their files are securely
+stored. Starting from $5 USD a month per 1TB.
+Premium Stickers: Creative designers will benefit greatly from this. Artists can upload their stickers into the
+ALLY Chat online sticker market. The Artist and ALLY team will predetermine a USD amount set for the sticker
+set, and the artists will receive a percentage of the reward every time an ALLY Chat user downloads that sticker
+set. The following features and functionalities are not currently on the ALLY Chat roadmap, but have been
+discussed at length and many will be coming soon:
+Advertising & Media Center: ALLY Chat Group Chat and Broadcast Channel admins will be able to charge a
+certain fee to companies and projects wanting to post advertisements in said chats. The rates charged to the
+advertiser will be based on group or channels popularity and a set amount will automatically go to the admin for
+allowing the advertisement.
+
+20
+
+MAKE CRYPTO MAINSTREAM
+
+Live & Recorded Podcasts: ALLY Chat Group Chat and Broadcast Channels admins will be able to host live
+audio streams where ALLY Chat users will be able to join the group or channel to listen. Once podcasts are
+finished, they will be saved in a media library attached to the group or channel as well as in the chat for users to
+access after the recording has commenced. Admins may be able to charge a fee to live recording attendance
+and listening after the fact.
+Gamifying ALLY Chat: ALLY Chat will offer rewards for accomplishing certain tasks and milestones throughout
+the application, rankings will be available to other users on a leader board further encouraging users to compete
+one another, increasing the daily active user numbers. Ex. User creates 20 Group Chats, they receive 100 ALLY
+tokens.
+Customized Dating App: Meet other ALLY Chat users of a certain class, income level, education level, etc.
+Initial use of the feature will be free, however, to enhance and elaborate more on the criteria or to fill out more
+bio options, ALLY Chat users will need to pay in tokens
+Personalized Workout Plan: ALLY Chat users will have undeniable access to top dietitians and fitness
+instructors around the world. Users will be able to pay instructors in ALLY tokens.
+
+MAKE CRYPTO MAINSTREAM
+
+21
+
+The Team
+
+Johnathan Greenspoon
+CMO
+
+Gabriel Hernandez
+
+Eric Eddy
+
+Head of Mobile Dev.
+
+Mobile Developer
+
+Mohamed Timbo
+
+Priyanka Srinivasan
+
+Community Manager
+
+22
+
+Tim Yano
+
+Head of Blockchain
+
+MAKE CRYPTO MAINSTREAM
+
+Technical Analyst
+
+Conclusion
+To date, much has been promised with blockchain without many tangible results. While this may be
+disheartening to some, it should be noted that most groundbreaking technologies take time to fully develop and
+mature. Moreover, it may take the general public an extended period of time to fully recognize the value and
+benefit of making the switch to a distributed ledger system. While scalability has been an ongoing challenge for
+the industry as a whole, crypto is still in its early days and undoubtedly enhancements will be made that make
+the technology accessible to the general public, and the ALLY Ecosystem will do just that.
+While it took most time to fully understand how many Big Tech companies actually generated revenue while
+providing free services, most now recognize that users in such systems are the actual product. While many
+hacks and data breaches have unfortunately made people learn this lesson the hard way, it is never too late
+to introduce a new era of online business models; one where the incentives of all stakeholders are properly
+aligned.
+Our current financial system is much like the tech industry: misaligned incentives and entrenched giants
+consistently putting themselves ahead of their customers. Central banks and powerful governments are able to
+manipulate these systems to fulfill political interests. Therefore, the outcome that is usually in the best interest
+of the people is the one that is the rarest. The time has come for a paradigm shift; a move to decentralized,
+distributed, and efficient systems that prioritize users and end customers over those at the top.
+
+MAKE CRYPTO MAINSTREAM
+
+23
+
+References
+Collier, Kevin. “Iran Joins Russia In Banning Telegram.” BuzzFeed News, BuzzFeed News, 2 May 2018,
+buzzfeednews.com/article/kevincollier/iran-telegram-app-ban-russia.
+Falconer, Rebecca. “Oppressive Countries Used a Newly-Discovered WhatsApp Flaw to Spy on Activists.”
+Axios, 14 May 2019, axios.com/whatsapp-uncovers-security-flaw-exposing-spyware-vulnerability-e7709499b87b-42df-bff3-5d2a437f2114.html.
+Sabin, Dyani (January 3, 2018). Futurism. Everything you need to know about cryptocurrency and why it’s the
+future of money. Retrieved on January 17, 2018 from https://futurism.com/cryptocurrency-future-money-bitcoin/
+Valery, Jorge Luis Pérez, and Abdel Alvarado. “Venezuela Gives a Rare Look at Its Economy. It’s an Ugly, Ugly
+Picture.” CNN, Cable News Network, 29 May 2019, cnn.com/2019/05/29/economy/venezuela-inflation-intl/
+index.html.
+Young, Joseph. “Chinese Crypto Bans on WeChat Accounts, Events, and Exchanges: What Happened and
+Why.” Cointelegraph, Cointelegraph, 14 Feb. 2019, cointelegraph.com/news/chinese-crypto-bans-on-wechataccounts-events-and-exchanges-what-happened-and-why.
+
+24
+
+MAKE CRYPTO MAINSTREAM
+
+

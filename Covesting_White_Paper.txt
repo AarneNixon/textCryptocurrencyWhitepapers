@@ -1,0 +1,232 @@
+Covesting White Paper (v2)
+www.covesting.io
+
+1
+
+LEGAL CONSIDERATIONS,
+RISKS AND DISCLAIMER
+IMPORTANT NOTICE: PLEASE READ THE ENTIRETY OF THIS SECTION
+CAREFULLY. WE RECOMMEND YOU CONSULT A LEGAL, FINANCIAL, TAX OR
+OTHER PROFESSIONAL ADVISOR(S) OR EXPERTS FOR FURTHER GUIDANCE
+PRIOR TO USING COVESTING SERVICES OR PURCHASING COV TOKEN.
+The contents of the “Legal Considerations, Risks and Disclaimer” section outlines the
+terms and conditions applicable to you in connection with (i) your use of this White
+Paper and of any and all information available on the Website; and/or (ii) your
+participation in the Token Sale and/or purchase of COV tokens, in each case in addition
+to any other terms and conditions that we may publish from time to time relating to this
+White Paper, the Website and the COV Token (such terms hereinafter referred to as the
+“Terms”). The information set forth in the “Legal Considerations, Risks and Disclaimer”
+section may not be exhaustive and does not imply any elements of a contractual
+relationship. While we make every reasonable effort to ensure that all information: (i) in
+this White Paper; and (ii) available on the Website (all the information in the White Paper
+and all information available on the Website hereinafter referred to as the “Available
+Information”) is accurate and up to date, such material in no way constitutes
+professional advice. The Company does not recommend purchasing COV Tokens for
+speculative investment purposes. Tokens do not entitle you to any equity, governance,
+voting or similar right or entitlement in the Company or in any of its affiliated
+companies. The Company does not recommend that you purchase Tokens unless you
+have prior experience with cryptographic tokens, blockchain-based software and
+distributed ledger technology and unless you have taken independent professional
+advice.
+Services described in this Whitepaper are not available to citizens, nationals,
+residents (tax or otherwise) and/or green card holders of the United States of
+America or any other jurisdiction which prohibits the possession, dissemination or
+communication of the Available Information and/or prohibits the purchase of COV
+Tokens or any such similar activity. In no event shall the Company or any current or
+former Company Representatives be liable for the Excluded Liability Matters. The
+Company does not make or purport to make, and hereby disclaims, any representation,
+warranty or undertaking in any form whatsoever to any entity or person, including any
+representation, warranty or undertaking in relation to the truth, accuracy and
+completeness of any of the information set out in the Available Information.
+
+2
+
+1. Introduction
+Covesting is a fully licensed distributed ledger technology (DLT) services provider
+incorporated under the laws of Gibraltar. We develop innovative trading tools to service
+both retail and institutional customers in the cryptocurrency space.
+We aim to provide transparency and insight into our product development lifecycle and
+give a detailed overview of the business as part of this document. All aspects of the
+company’s financial status are fully disclosed to the GFSC and are in compliance with all
+regulatory capital standards and guidelines.
+This paper is for general information purposes only. It does not constitute investment
+advice or a recommendation or solicitation to buy or sell any investment and should not
+be used in the evaluation of the merits of making any investment decision. It should not
+be relied upon for accounting, legal or tax advice or investment recommendations. The
+opinions reflected herein are subject to change without being updated.
+
+2. Covesting, a peer-2-peer platform
+Covesting copy trading platform – the essence and core of the Covesting infrastructure.
+It implements a successful peer-2-peer business model and disrupts the traditional
+investment management industry.
+A Peer-to-Peer, or P2P, service itself is a platform whereby two individuals interact
+directly with each other.
+Some popular examples of P2P services are:
+• BitTorrent – a popular anonymous file-sharing platform where uploaders and
+downloaders meet to swap media and software files.
+• AirBnB – allows property owners to lease all or part of their property to short-term
+renters.
+• Uber – a platform for car owners to offer transportation services to others
+• eBay – a marketplace for private sellers of goods to find interested buyers.
+• Etsy – enables producers of crafts and other homemade goods to sell their items
+directly to the public
+By pairing the peer-2-peer business model and the cryptocurrency investment industry,
+Covesting offers a fantastic opportunity to utilize the wisdom of experienced traders in
+order to achieve positive trading results.
+Covesting allows platform users to browse through hundreds of trading strategies
+provided by other traders, and automatically copy their trading activity. With Covesting,
+you can achieve the same returns as the leading traders on the platform.
+At the same time, Covesting platform allows traders to share their trading results with
+the public and compete with other traders in a transparent environment. Every trader
+3
+
+can monetize their skills and earn a second income by receiving success fees from their
+followers. The more followers they will acquire - the more money they’ll make from
+profitable trading.
+With the features described above, the Covesting platform creates a synergized
+marketplace that brings users, and traders together. All parties benefit from the
+Covesting platform: cryptocurrency traders get visibility to new audiences and sources
+of additional income, while other users get a broad range of trading strategies they may
+follow with the ability to analyze historical performance in order to make informed
+decisions.
+Our goal is to offer a safe and efficient peer-2-peer environment with a win-win solution
+for both traders and their followers.
+
+3. Covesting COV token
+The Covesting Token is an ERC20 utility token built on Ethereum blockchain, designed
+to be used within the Covesting products. Thus, demand for COV token correlates with
+the activity on the platform. We aim to allocate up to 50% of all platform earnings to a
+systematic token burn program. This form of reward sets best practices for the COV
+token economy, and simultaneously serves in the best interests of Covesting token
+holders. Technically speaking, part of the earnings in COV tokens will be taken off the
+market, thus decreasing the total supply of COV tokens.
+Covesting aims to establish partnerships with a number of third-party trading platforms
+and exchanges to provide a seamless copy-trading experience. Every integration will
+include COV token utility.
+Contract
+Decimals
+Symbol
+Max supply
+Explorer
+
+0xada86b1b313d1d5267e3fc0bb303f0a2b66d0ea7
+18
+COV
+20,000,000
+https://etherscan.io/token/0xada86b1b313d1d5267e3fc0bb303f0a2b66d0ea7
+
+For more information about COV token utilities and existing partners please go to
+https://covesting.io/cov-token
+COV token is not available in the United States or other jurisdictions where transactions in
+such ERC-20 tokens/cryptocurrencies as COV is prohibited by law (‘prohibited
+jurisdictions’). If you are located in, incorporated or otherwise established in, or a resident
+of the United States of America or any other prohibited jurisdiction, you are not permitted
+to transact in COV.
+
+4
+
+4. Moving from B2C to B2B
+Covesting has experienced rapid changes and conceptual upgrades since 2017. As has
+been proven, the Covesting team excels in developing cutting-edge trading technology,
+and we strongly believe that providing our trading technology to established exchanges
+and trading platforms will put Covesting in a more advantageous position rather than
+competing with these platforms directly. Therefore, the Covesting team decided to shift
+its focus towards B2B partnerships that would facilitate the release of the copy trading
+module on third-party platforms. Partners have an already established user base that
+can be introduced to Covesting’s proprietary technology and the COV utility token. With
+each new established partner, both Covesting and the COV utility token will reach an
+increasingly larger user base, accomplishing the original function of a utility token and
+bolstering the brand’s reputation. COV token will provide multiple utilities such as
+trading fee discounts as well as additional unique features and benefits.
+
+5. Other Covesting products
+Apart from the core product - copy-trading platform, the Covesting team has also been
+working on other products throughout 2018 and 2019, including:
+• Covesting Digital Asset Exchange
+• Liquidity Aggregation
+• Crypto Intelligence Portal
+Here is the end result of each product development cycle, and the version of the
+product we have ultimately delivered:
+Covesting Digital Asset Exchange
+Version: 1.0
+Status: Released
+The Covesting digital asset exchange was released as a beta starting on April 1, 2018,
+and is currently in operation. The platform and infrastructure are custom-built from the
+ground up, rather than relying on limited, out-of-the-box solutions.
+Covesting maintains the highest level of security, and the platform has never been
+compromised or suffered an intrusion of any kind. We also provide safe and secure
+custody of assets, and meet all regulatory guidelines to ensure the safest platform
+conditions possible, free from market manipulation.
+In 2017, launching a cryptocurrency exchange was a brilliant idea, but in 2018 alone
+over 500 new exchanges emerged, all competing for the same set of market participants
+who remained following the early 2018 crypto market collapse.
+5
+
+There’s no new demand for cryptocurrency exchanges or news and analysis websites,
+regardless of if the vendor is fully licensed or not.
+Only a few large players were able to establish their positions as leaders in the space, in
+terms of both trading platforms and information outlets. These large players are more
+than enough to serve the demand in the crypto market, making it difficult for others to
+capture a piece of the share. We plan to continue to maintain the Covesting exchange
+and everything that entails, including the infrastructure, nodes, wallets, treasury,
+trading engine, and more.
+As of 2020, Covesting still remains one of very few regulated cryptocurrency
+exchanges in the world.
+Covesting Digital Asset Exchange can be accessed through
+https://covesting.io/id/sign-in
+Liquidity Aggregation
+Version: 1.2
+Status: Released
+Liquidity aggregation was among the first engines that the Covesting team deployed,
+helping the Covesting exchange to have a full, liquid order book from the moment it
+launched.
+While other platforms struggled to build trading volumes, Covesting’s order books were
+deep and ready for instant order execution dating all the way back to the platform’s beta
+release in early 2018. Liquidity aggregation still powers the Covesting digital asset
+exchange today.
+Crypto Intelligence Portal
+Version: Beta
+Status: Released, Discontinued
+The Covesting team had a vision of launching an all-inclusive information resource
+designed for the cryptocurrency industry. The idea was to educate the crypto
+community in order to help them make informed decisions about the investments and
+trades they make.
+As was outlined in the original Covesting white paper, the Crypto Intelligence Portal
+would include:
+• An integrated news feed from top industry resources.
+• Original blog posts and articles from traders, analysts, and journalists from
+throughout the crypto space.
+• Trade ideas with technical analysis and trading strategies from the best professional
+traders across the market.
+• A robust Crypto Academy with A-to-Z education, video tutorials, and much more
+6
+
+• A complete glossary for cryptocurrency-related terminology.
+• A collection of cryptocurrency resource links for additional education.
+• Active community where investors and traders can interact and discuss the latest
+market trends, developments, and trading ideas.
+While we still firmly believe that the Crypto Intelligence Portal hosts a wealth of useful
+information, we have decided to cease its operations due to the low demand for this
+type of information and high competition in the media space.
+However, the Crypto Intelligence Portal remains active via https://ci.covesting.io and
+still includes the Crypto Academy, complete with lessons and video tutorials that
+educate traders with helpful how-tos.
+References:
+• Covesting Has Officially Received Their DLT License
+https://www.prnewswire.com/news-releases/crypto-gets-regulated-covesting-hasofficially-received-their-dlt-license-300734513.html
+• Covesting Has Officially Announced the Soft Launch of Their Platform
+https://www.bloomberg.com/press-releases/2018-11-13/covesting-has-officially-a
+nnounced-the-soft-launch-of-their-platform
+• Covesting and PrimeXBT to Launch Copy Trading in Groundbreaking New
+Partnership
+https://www.prnewswire.com/news-releases/covesting-and-primexbt-to-launch-c
+opy-trading-in-groundbreaking-new-partnership-300825368.html
+• Covesting module on PrimeXBT https://primexbt.com/covesting
+• Covesting Full Launch Is Here: Key Beta Takeaways And COV Token Utility
+https://medium.com/covesting/covesting-full-launch-is-here-key-beta-takeawaysand-cov-token-utility-cc9707617b00
+
+7
+
+41
+
+

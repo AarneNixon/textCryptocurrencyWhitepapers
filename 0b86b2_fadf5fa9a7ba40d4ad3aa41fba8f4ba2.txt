@@ -1,0 +1,428 @@
+Whitepaper v2, September 2020
+
+CONTENTS
+GLOSSARY
+APPENDIX
+ABSTRACT
+
+1. INTRODUCTION
+1.1 Misinformation and Manipulation in the Crypto Space
+1.2 New Market Cycle, Same Scheme
+1.3 A More Measured Approach from FERA
+1.4 DISCLAIMER
+
+2. INTRODUCING THE PARAGON REPORT
+1.1 Finding Diamonds in the Rough
+1.2 A Steadying Force in a Turbulent Market
+
+3. INSIDE THE PARAGON REPORT
+3.1 The Gem Value Guide
+3.2 Assessing a Variety of Metrics
+3.3 The Paragon Plans on Offer
+
+4. THE PANOPTICON PLATFORM: A VIEW OF THE HIDDEN GEM SPACE
+4.1 A Decentralised Database
+4.2 A Democratic Voting System
+
+5. POWERING THE ECOSYSTEM WITH THE FERA TOKEN
+5.1 Earning A Passive Income
+5.2 The FERA Buy Back Scheme
+5.3 The FERA Burning Scheme
+5.4 Locked Liquidity for Investors
+
+6. THE TEAM BEHIND FERA
+
+GLOSSARY
+Throughout this Whitepaper we use a number of colloquial terms that may be unfamiliar
+to those new to the crypto space. Please refer to this section for explanations of
+terminology.
+
+All Time High – The highest price point that a coin has reached.
+Decentralised Finance (DeFi) – Platforms that offer investors loans, insurance, and
+derivatives without a centralised third-party as seen in traditional finance.
+Exit Scam – A ploy in which a company ceases to issue new products whilst still taking
+orders. The scammers then suddenly exit with the investors’ money without giving
+them anything in return. This has happened multiple times with cryptocurrency
+exchanges.
+Low-CapCoins – Coins with a market cap less than $10 million, regarded as being higher
+risk.
+Hidden Gem – A relatively unknown low-cap coin with potential to dramatically increase
+in price.
+Market Capitalisation – The total value of the coin, calculated by multiplying the number
+of coins in circulation by the price of each coin.
+Microcap Coins– Coins with the lowest cap under $3 million and therefore the highest
+risk.
+Pump and Dump – A rapid artificial increase in cryptocurrency price, often through
+manipulation, followed by a sharp decline in value. These schemes often result in huge
+losses for investors.
+Rug – Pull – A fraudulent scheme whereby the token creators who provide liquidity pull
+it from the pool preventing exchanges and causing the price to collapse.
+Smart Contract – Tamper proof and therefore trustless applications which are executed
+between parties on a decentralised network such as a blockchain.
+YouTube Influencers – Prominent YouTube content creators whose promotional videos
+can have a significant but short-lived impact on the price of the token.
+
+APPENDIX
+APR - Annual Percentage Return
+BTC – Bitcoin
+CPM - Cost per thousand views
+ETH – Etherum
+HG – Hidden gems
+P&D – Pump and dump
+ROI – Return of Investment
+TA – Technical Analysis
+
+ABSTRACT
+The cryptocurrency space offers huge opportunities for investors but also carries a
+significant risk. Still in its infancy, the market is rife with scams and price fluctuations
+are heavily impacted by prominent figures who lure people into projects which they
+have a vested interest in. FERA offers an antidote to misinformation and false
+promises with reports on new coins backed by data science and composed by an
+experienced team of financial analysts. Additionally, FERA will release a decentralised
+application to compliment the investment reports and optimise users' investment
+decisions.
+
+1. INTRODUCTION
+1.1 MISINFORMATION AND MANIPULATION IN THE CRYPTO SPACE
+Cryptocurrencies have rapidly grown in popularity in recent due in part to their
+revolutionary technology1 but primarily because of their investment opportunities2. The
+latter half of 2017 saw a surge in interest from the public and an enormous influx of new
+retail investors due to the parabolic increase in the price of Bitcoin and Altcoins. This
+period also saw the rise of multiple P&D schemes in the cryptocurrency world. P&D
+schemes involve manipulation of a token’s price by investors who take out longpositions and artificially drive the price up before offloading their holdings onto
+subsequent buyers3. The University of Technology in Sydney analysed just two
+exchanges over a seven-month timeframe and found 355 cases of such schemes with
+an average price increase of 65%3. In 2018, due to numerous complaints received, the
+US Commodities and Futures Trading Commission issued a warning about P&D
+schemes, stating that they had already lost US investors tens of millions of dollars44.
+P&D groups across social media networks and YouTube influencers seek to exploit the
+euphoria of the crypto market by recommending new and upcoming coins known as
+“hidden gems” to followers. Such groups recklessly promise huge returns at the
+expense of their followers. This strategy is highly lucrative for influencers, who often
+require fees for promotional content, which can range from $500 to $1500 CPM for
+prominent content creators5. Moreover, influencers have a vested interest in the coin’s
+immediate price as they will hold themselves in anticipation of its pump, thereby
+profiting from the substantial increase in the coin’s value. This would often be to the
+detriment of many of their followers, who typically buy at the top of the pump, only to
+see the coin abruptly dump as early investors sell off their holdings causing the price to
+go into free-fall. Consequently, many individuals would be left holding coins, which had
+plunged in value, in extreme cases rendering them virtually worthless.
+These schemes provided extremely successful for influencers throughout the huge
+uptrend in fall of 2017. Each coin “call” would swiftly result in a rapid artificial pump in
+its value, making quick profits for the P&D groups and influencers to the detriment of
+many of their followers. Groups and influencers with the largest followings had the
+1
+
+Nakomato, S. (2009) Bitcoin: A Peer-to-Peer Electronic Cash System. www.bitcoin.org.
+
+2
+
+Lielacher. A. (2017) Bitcoin as an Investment: Opportunities and Risks. www.nasdaq.com
+
+3
+
+Dhawan, A. Putnins, T.J. (2020) A New Wolf In Town? Pump-And-Dump Manipulation in Cryptocurrency Markets.
+The University of Technology. Sydney.
+4
+
+Williams-Grut, O. (2018) US finance watchdog warns investors: “beware virtual currency pump-and-dump schemes”.
+www.businessinsider.com
+5 Clay, H. (2018) Working With Crypto Influencers and What Fees to Expect. Block Influence. Medium.
+
+power to pump the price of a relatively established coin (over $10 million market cap) by
+often in excess of 50-100% in a matter of hours. Ultimately, many people who put their
+trust in these groups and influencers lost substantial amounts of their investments as
+the parabolic move in the market was immediately followed by a catastrophic crash in
+January 20186. Many of the coins have since never recovered and most likely never will,
+others have simply vanished from the market altogether.
+
+1.2 NEW MARKET CYCLE, SAME SCHEME
+It is clear that at the time of writing, the market has seen resurgence in interest and new
+investors, higher volume, more wallets and fresh crazes, bringing about a reversal in the
+downward trend7. Unsurprisingly, the P&D groups and influencers have returned with
+renewed promises of easy profits from new coins. Guaranteeing huge returns, assuring
+their promotions will be the next “ETH Killer”, influencers continue to take advantage of
+their followers. Much like in the last market cycle, the new and uninitiated are likely to
+lose out to P&D schemes. Worse still, the space remains rife with scams, which are
+rampant on newly created decentralised exchange Uniswap8. These are promoted by
+P&D groups nonetheless.
+Whilst we see the potential for certain new projects to grow, we remain highly sceptical
+about the future of the majority of low-cap and microcap tokens. In the short time that
+cryptocurrencies have existed, countless projects have exploded onto the scene before
+faded into obscurity. Many of them, at best, lack a proper use case, or at worst are
+simply scams designed to fleece investors of their savings. This summer has already
+seen a variety of exit scams and “rug pulls”, many of which have been promoted by the
+groups and influencers outlined here. Investing in such projects is highly speculative and
+could arguably be seen as simply gambling. Nevertheless, such risky endeavours are
+still encouraged by influencers.
+
+1.3 A MORE MEASURED APPROACH FROM FERA
+FERA seeks to counter this trend of reckless P&D promotions and assist new and old
+investors alike with mitigating the risk of losing capital whilst optimising sustainable
+6 (2018)Crypto’s 80% Plunge is Now Worse than the Dot-Com Crash.www.bloomberg.com
+7 Bamborough, B. (2020) Bitcoin in “Early Stages” of a Bull Market Crypto Wallet Data Reveals. www.forbes.com
+8 Garg, P. (2020) Defi Exchange Uniswap is Being Swamped With Scam Tokens. www.cryptobriefing.com
+
+returns. Unlike P&D groups and influencers, the FERA team will not resort to
+irresponsible conjecture and outlandish price predictions. Instead, we will use data
+science, follow market conditions and analyse low – cap projects to identify those with
+the potential for real sustainable growth. Using a variety of metrics such as use-case
+analysis, tokenomics and development plan we will recommend only the most
+promising projects with distinctive utility. Our ultimate aim is to replace gambling with
+smarter investing and assist investors with making the most out of the considerable
+opportunities that this space offers.
+
+1.4 IMPORTANT DISCLAIMER
+We wish to make it that whilst we do provide suggestions on which coins investors
+should consider, we emphasise that this is for consideration only. We will never advise
+you that you should invest any amount of money in the tokens selected in our reports.
+Our purpose is to provide risk analysis, highlight potential scams and indicate which
+coins are worthy of further research and consideration for investment. Whether or not
+you decide to make such an investment is entirely your choice and FERA will not be held
+liable for any losses occurred. Please be weary of the risks in crypto, always do your
+own research and only invest what you can afford to lose. We will not issue price
+predictions, instruct you to spend any amount of money on any coin, so please don't
+ask us for such information.
+
+Invest responsibly,
+The FERA Team
+
+2. INTRODUCING THE PARAGON REPORT
+2.1 FINDING DIAMONDS IN THE ROUGH
+The crypto space is littered with fledgling projects and dozens of new coins are listed
+every week. These tokens offer huge potential for rates of return, but naturally, with
+higher reward comes higher risk. Many of these will fail to gain traction and prevail in
+this highly competitive market9, others are simply scams which will make individuals
+lose their entire investment. This can be highly daunting for new investors, time
+consuming for experienced traders, and risky even for those who consider themselves
+veterans.
+FERA is a consultancy service, which specialises in identifying small low-cap and microcap projects that have yet to go mainstream. We search the market for hidden search
+with strong fundamentals and a real vision, backed by a competent team who are
+working to deliver a truly innovative product. There are many unknown projects and
+ideas that have yet to be discovered, allow us to help you with their excavation.
+
+2.2 A STEADYING FORCE IN A TURBULENT MARKET
+In addition to highlighting projects with promising potential we will provide price analysis
+for those projects so that investors can know what to expect in the short to mediumterm. This will enable traders to make more informed decisions regarding entry and exit
+points for new coins. We will not make price predictions but instead guide investors
+through the likely direction a token’s price will take. By referring to technical analysis,
+historical events, side-by-side comparisons and more we will condense a range of
+metrics to make predictions for patterns and trends. This will be vital for newly listed
+tokens as the technical analysis tends to be relatively because and they are rarely
+covered by influencers and mainstream media outlets. Many ICOs and IEOs follow
+similar price movements and FERA has now been collecting extensive data on them for
+several years, we look forward to sharing our findings with our investors.
+
+9 The vast majority of coins will disappear entirely to due hacks, loss of interest or because they are scams. See www.deadcoins.com for a full list.
+
+3. INSIDE THE PARAGON REPORT
+3.1 THE GEM VALUE GUIDE
+To give a brief overview of our verdict which can be conveniently gleaned for essential
+information, there will be a short summary of the entire analysis through a 1-5 stars
+rating of 5 categories. Each rating will correspond to a real-world gem, we will of course
+dedicate most research to those of the highest quality.
+
+1 – Pyrite Rating
+The lowest value rating. This will apply to projects which contain a series of red
+flags such as lack of website, total absence of product and opaque development
+processes. We do not recommend investing in these coins.
+2 – Spinel Rating
+This rating will be given to coins which, whilst not as likely to be outright scams,
+we deem to be unlikely to deliver good ROIs in the long-term. This may be
+because of a highly generic product, a dubious team or troubling tokenomics.
+We suggest people exercise caution when investing in such coins.
+3 – Ruby Rating
+This category of gem will be applied to projects, which, though not revolutionary,
+can demonstrate sound fundamentals, an interesting concept and a promising
+roadmap.
+4 – Sapphire Rating
+This rating will classify projects which we deem to have numerous favourable
+aspects, such as a fully working product, a decent user base, a competent,
+engaging team and a relatively low market capitalisation with potential to grow.
+5 – Diamond Rating
+The highest rating possible. We will award this rating to a select few which
+demonstrate outstanding innovation, a working product is currently available or
+soon to be released. We highly recommend that you DYOR on these tokens and
+consider whether they are the right investment for you.
+
+3.2 ASSESSING A VARIETY OF METRICS
+Our service will provide details of our analysis: ranging from a typical technical analysis
+(TA) of price movements to more complex in-depth research of the company, the team
+behind it and the smart contracts and coding. Below are some key points, which will
+be included in The Paragon Report.
+
+Technical Analysis- Arguably the hardest and most unpredictable metric is that of
+technical analysis (TA). Whilst such information is easily accessible for larger coins such
+as BTC and ETH it is much available for microcap projects given that they contain less
+data and receive less coverage. Our TA will complement our selection of HG to allow
+you to easily obtain an understanding of which direct research is technical analysis and
+price action. Please note that whilst our research can certainly provide a good indication
+of how price action will unfold, we will refrain from making specific predictions and
+encourage each investor to DYOR and invest at their own discretion.
+Fund Management– Effective fund management is a crucial aspect of any new start-up.
+This feature will reveal whether new projects have raised the sufficient amount of funds,
+where these funds are stored and how they will be utilized by the company, particularly
+with regard to investing in their product. A completely transparent fund management
+process will be integral to a token’s Gem Value Rating.
+Price Action and Market Conditions– Profit making can be easy in a bull-market as traders
+tend to invest their gains in many different projects and the rising tide lifts all boats.
+FERA will direct all our efforts towards the most interesting low-cap projects whilst
+always keeping an eye at the overall market. It is worth noting that it is always important
+to also know when it is not a good time to invest. Therefore, if strongly unfavourable
+conditions arise, we will notify our investors and implement a much more cautious
+approach in The Paragon Report. In extreme cases of bearish indicators, we will pause
+the payment service for our plans until more promising conditions appear.
+Etherscan Wallets Check– Complete transparency is essential for a long-term success
+and how tokens are distributed says a lot about the founders: we will directly contact
+them and maintain communications in order to verify the integrity of the team.
+Crypto Exchanges Reviews– One of the greatest predictors of price increases can be an
+announcement that a coin will be listed on a new (especially major) exchange. It is
+important however to consider the actual value that a listing is likely to produce, in terms
+of the exchange’s brand recognition, user base and trading volume. Our coverage will
+therefore also include exchanges with a series of reviews of their usability and
+trustworthiness. Choosing the right exchange is of paramount importance when it
+
+comes to investing and the choice of which exchange to be listed on will also reflect
+upon the micro-cap token.
+Working Product - Projects that have already delivered or are soon to deliver a real
+working product is arguably one of the most important matters to consider when
+investing. Our research has indicated that it is also considered to be an area which
+investors are keen to be consulted on. We will therefore provide comprehensive
+coverage of the working product, it’s originality, utility, evaluate the effectiveness and
+promise of the product and consider that in our analysis
+Development Time -Activity on Github, the company’s roadmap, privacy level and other
+fundamentals will also be taken into account whilst reviewing tokens.
+
+3.3 THE PARAGON PLANS ON OFFER
+We initially expected our service to be live from September 1st 2020, but unfortunately
+it’s launch has been briefly due to unforeseen circumstances. To compensate investors
+for this, and to reward their trust in our project, we will be offering free access to a trial
+of The Paragon Essential Plan for everybody to sample our service.
+There will be two plans for retail investors, either the Essential Plan or Premier plan with
+additional features. Additionally, there will be an Executive Plan designed for businesses
+in development. The different plans will be obtained exclusively by purchasing FERA
+tokens, of which a fixed dollar value will be needed, so that costs are not affected by
+price volatility.
+
+-
+
+The Paragon Essential Plan - 15,000 FERA
+Our indispensable report on the most valuable gems will give you all you need
+to make smarter investments in crypto. The Paragon Essential plan grants you
+access to the entire service without specialised support from our team
+assistance. Compiled from three years of research and analysis of the market,
+this will include comprehensive coverage of all the relevant information needed
+to make informed decisions.
+
+-
+
+The Paragon Premier Plan - 35,000 FERA
+With this enhanced plan you will have access to a more detailed analysis and a
+personal consulting service along with access to additional features. This will
+include:
+i.
+A personal consultation service with a member of our team via our
+chat to discuss your portfolio, entry and exit points for investments
+and other strategies.
+ii.
+A private chatroom with other Premier Plan subscribers in which you
+can work together to share information, collaborate on research and
+exchange ideas.
+
+-
+
+The Paragon Executive Business Plan (Price TBA)
+The Paragon Executive Business Plan will be tailored to start-ups and small
+companies ready to enter the crypto space. FERA will be able to provide a
+complete review, highlighting strengths and weaknesses of the business,
+presenting a fund management strategy in terms of what funds should be raised
+and how they should be allocated, and giving advice about how to proceed in the
+initial weeks and months of price activity.
+
+4. THE PANOPTICON PLATFORM: A 360° VIEW OF THE
+HIDDEN GEM SPACE
+4.1 A DECENTRALISED DATABASE
+The Paragon Plans will be integrated into our Panopticon Platform, a comprehensive
+dApp to display all the essential information needed for smarter investment decisions.
+The platform will be accessed by connecting via Metamask wallet, so that you can
+conveniently login without the need for a login or password.
+Traders will be able to access the platform according to their chosen plan, of which the
+premier plan will include more detailed analysis. The platform will display an extensive
+list of metrics for each token we have selected, with a total score calculated by
+combining these tokens. These will include a rating for the product or service, the
+competency of the team and their community engagement and it’s tokenomics.
+Furthermore, it will include a risk rating (relative to the risk within the cryptocurrency
+market) that will be calculated using a variety of variables. More information about the
+platform will be announced in the coming months, as we continue to develop and build
+it.
+We will initially release a V1 Beta for investors to trial and check the main functionalities
+of the service. The FERA complete V2 platform is scheduled to be delivered in Q4 2020
+(or Q1 2021 at the latest).
+
+4.2 A DEMOCRATIC VOTING SYSTEM
+FERA wants our community to be fully involved in our ecosystem and therefore we will
+give Panopticon users the opportunity to cast their votes to select their own gems to
+others. Voters will need to hold a certain amount of FERA for a certain amount of days
+(to be discussed in the future by the community) in order to vote and tokens with the
+highest number of votes will be ranked accordingly. Further details about this will be
+revealed as we develop the platform.
+
+5. POWERING THE ECOSYSTEM WITH THE FERA TOKEN
+We have decided to issue a token that will follow simple but efficient tokenomics,
+making it a true microcap investment, backed by the brand awareness of the project
+itself.
+
+5.1 EARNING A PASSIVE INCOME
+FERA will give investors to earn our tokens around the clock by staking them with us.
+Staking will not be locked so that investors can drop in and out of the process as they
+choose. Initially the staking will be carried out in a specialised wallet but later in will be
+enabled on the platform. Exact figures have yet to finalised but we will update investors
+with the relevant staking revenue percentage and APR once these numbers have been
+confirmed.
+
+5.2 THE FERA BUY BACK SCHEME
+Revenue in ETH from the Executive Business Plan will be used to improve FERA
+tokenomics and value: FERA will rebuy (directly on Uniswap) 50% of the total revenue.
+The buyback scheme will be held twice a month, on the 5thand the 25th of each month
+in order to prevent spending too much on gas fees or rebuying low quantities of FERA
+Token.
+
+5.3 THE FERA BURNING SCHEME
+Burning tokens is an important way to maintain price stability and manage tokenomics.
+Therefore, revenue in FERA from the Paragon Plan will be partially burned in order to
+enhance the deflationary aspect of the token.
+
+5.4 LOCKED LIQUIDITY FOR INVESTORS
+In accordance with ensuring there is trust we have decided to lock in Unicrypt. a first
+batch of liquidity (12.5% of the pool) for 6 months until 11/02/2021. Please find the
+contract using the Etherscan link here.
+
+6. THE TEAM BEHIND FERA
+LEONARDO NOCI - Founder and CEO
+Leonardo has been studying the market since mid-2016, enabling him to accumulate a
+wealth of knowledge surrounding all thing crypto. His vision for FERA is to create a
+sustainable and long-lasting business dedicated to crypto enthusiasts who wish to get
+the most out of the next market cycle.
+
+MATTEO COMERO - Financial Analyst
+After completing his MSc in Economics, his career in Financial Analysis initially began in
+fiat businesses but he subsequently developed a passion for research and analysis in
+the crypto space.
+
+SABA KARANADZE - Legal Advisor
+Traveller and aspiring politician. He drives important changes for the improvement of
+operating and organizational efficiency of the legal aspect of the business to ensure
+FERA is compliant with the law and properly registered with the necessary regulators.
+
+TOM JARMAN - Marketing Management
+Tom graduated from The University of Manchester with a BSc in Biochemistry and
+quickly transitioned from academia into the Third Sector where he worked on marketing,
+project management and fundraising for several charities in Africa. He first became
+interested in crypto in early 2017 and has been researching the market ever since.
+
+COMMUNITY MODERATORS
+Eric Nwbughogu
+Ivan Pezzini
+More team members to be announced in due course.
+
+

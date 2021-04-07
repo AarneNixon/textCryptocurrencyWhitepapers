@@ -1,0 +1,1098 @@
+WHITE PAPER
+The World’s Most Uniquely Usable
+Consumer Orientated Cryptocurrency
+Version 2.1
+Last updated on 05th April 2018
+
+Page : 1
+
+ABSTRACT
+
+C
+
+ryptocurrencies have truly exploded in the past 12 months or so, and they are undoubtedly the
+latest great innovation to capture the hearts and minds of millions of people all over the world, from every
+conceivable background, culture, faith, political and economic persuasion, and socio-demographic
+grouping.
+We are now entering an era where more and more people are starting to accept that they truly have the
+potential to change the world as we know it, and as perceptions towards cryptocurrency change and
+positive sentiment continues to grow, the potential impact that cryptocurrency can have on the world and
+the whole of society is only set to grow stronger.
+At the same time, the cost of many consumer goods and commodities continues to grow, and the budgets of numerous families and households all over the world, not just within the lower classes of society
+but increasingly within the middle and upper classes, continue to be stretched to bursting point with the
+ability of households and families all over the world to save money and obtain financial security for their
+future continuing to diminish year-on-year.
+Consumers are increasingly worried about this, as a Mintel survey during the middle part of last year
+highlighted. As part of the survey, four out of every five people who took part expressed that they had
+some fears over the rising cost of household expenses such as food, drink and shopping, but the survey
+also reported that consumer spending has continued to grow by some 3.7%, despite this. This combination of factors means that consumers are still very much willing to spend their hard-earned cash on
+consumer goods, but they are increasingly seeking ways and means to get more for their money and
+make cost-savings whenever possible in order to help make their household budgets stretch further.
+In this period of economic uncertainty, another trend that has caught our eye is the increasing popularity
+of cashback sites such as Quidco and Topcashback. Both these platforms have experienced massive
+growth and revenue increases in recent years, and both now boast some 6 million registered members
+each, with most, if not all of the top retailers and merchants within the UK and many other countries,
+signing up to these sites in order to remain competitive and offer their customers, both existing and
+
+potential, access to the kinds of savings and discounts that they now demand in this modern digital era
+of consumer purchasing.
+This clearly provides all the evidence that is required to conclude that there is a massive thirst among
+consumers worldwide for these kinds of services and platforms that can save them money, and where
+they can benefit from bonuses and discounts whilst carrying out their normal, everyday shopping in
+much the same way that they would normally.
+So, we have simply taken this established and hugely successful business model and applied it to the
+ever-booming world of cryptocurrency and blockchain. We have taken two hugely successful industries
+and marketplaces, namely cashback services and cryptocurrency, and seamlessly brought them together
+into one platform and ecosystem.
+At www.ccrb.io (CCRB Platform), we had the vision and insight to bring these two burgeoning services
+and industries together some years ago now, well before cryptocurrency became mainstream, and at a
+time when the popularity of cashback sites was starting to peak and consumers might be looking for a
+new, more innovative and novel way to add to their arsenal when it comes to making day-to-day cost
+savings.
+The team here at CCRB Platform count themselves amongst some of the most passionate and
+enthusiastic advocates of the cryptocurrency and blockchain revolution, and all the numerous benefits
+that it will undoubtedly continue to bring for consumers all over the world.
+But for all this passion and enthusiasm, for us, cryptocurrency still continues to have one major drawback
+that desperately still needs to be adequately addressed: namely a shocking lack of usability and practical
+application.
+Whilst many seem content to accept this quirk of cryptocurrency as nothing more than the status quo, the
+team behind CCRB Platform refuse to accept that this is way that things have to be and have made a
+very conscious decisions to take something of a more forward-thinking and dynamic approach to this
+particular problem which we see as the major scourge of the modern cryptocurrency industry models.
+The vision of CCRB Platform is that cryptocurrency should be highly usable right from the very moment
+that anybody in the world acquires it - we quite simply don’t see any reason why this shouldn’t be the
+case. It’s this focus and mindset that has driven the CCRB Token (CCRB) project forward for the past 2
+years or so, and it’s this vision and belief that will continue to shape and drive the ongoing development
+and organic growth of CCRB moving forward.
+We have now entered an era of multiple hundreds of new cryptocurrencies and tokens coming onto the
+evermore saturated crypto market each and every month, with most of them, if not all, being tainted with
+the same common drawback that is rife throughout the entire cryptocurrency ecosystem - a complete and
+utter lack of usability.
+
+We are powered by blockchain technology, but also by the insatiable desire, passion and never-ending
+drive and enthusiasm of the entire CCRB team to address what we see as the fundamental problem behind cryptocurrency that still very much exists within the marketplace today.
+
+We have built an entire ecosystem around CCRB so anyone in the world, no matter what their personal
+understanding and technical knowledge in relation to crypto and blockchain might be, can trade, spend
+and mine CCRB all on the same platform, and have partnered with many of the leading retailers both in
+the UK and globally to offer users of CCRB a truly unique and breathtakingly refreshing amount of choice
+and flexibility as to how they can use their cryptocurrency once they have it.
+have the freedom and flexibility to put them to use in any reasonable way in which they see fit. Instantly.
+This is our mission and our vision for how the future of cryptocurrency should look, and we think it represents a better crypto future for anyone and everyone who has any inclination to get involved with
+cryptocurrency on any level.
+We hope you agree.
+
+Page : 4
+
+SUMMARY
+
+C
+
+a
+
+Through the linked platforms and ecosystem, users of CCRB can shop for good and services from a
+huge range of both consumer and commercial retailers and merchants, across more than 190 countries
+and territories worldwide.
+When a user obtains CCRB, they have the freedom and choice to spend them instantly towards
+purchases at any of the retailers and merchants on the CCRB linked platforms from time to time, either
+by using their tokens towards purchases of gift cards and vouchers for their preferred retailer, or by using
+the tokens as part payment to directly fund a purchase or avail a discount for products and services
+offered by retailers and merchants through the CCRB linked shopping platforms.
+This in itself represents a significant progression towards a brighter future for cryptocurrency in which it
+becomes significantly more usable and therefore, significantly more useful for consumers all over the
+world who want to get involved with cryptocurrency in a more practical way that enables them to tap into
+the benefits that it offers in a quick, simple and convenient way that offers them immediate cost-savings
+and gratification.
+There are also further ways in which consumers can use the linked platform to make cost savings and
+increase their exposure and involvement within the cryptocurrency industry.
+
+Cryptoback
+One such way is through the innovative ‘Cryptoback’ section of the platform, which enables users to
+‘earn’ cryptocurrencies including CCRB, BTC, ETH etc. simply by shopping for and buying products that
+they want and would purchase anyway from a huge range of retailers, including many of the largest
+brands both within the UK and worldwide.
+Every verified user signing up to the CCRB Platform gets rewarded with a free $5 welcome reward which
+can be used toward redeeming against retailer gift cards, promotional products and service available in
+the platform from time to time. Cryptoback reward account enable the users to further accumulate rewards
+by participating in many different reward earning activities in the CCRB platform, including but not limited
+to, online shopping, instore shopping, exchange trading, gift a friend, viewing retailer ads, redeeming
+online discount codes from online retailers, etc. Once the user has collected $40 (current threshold) worth
+Cryptoback rewards it can be converted to a crypto currency of the user’s choice including CCRB, BTC,
+ETH and, once approved, withdrawn to any crypto wallet of the user’s choice.
+Page : 5
+
+Our Cryptoback concept and platform has come to market at this time as there is clearly a huge demand
+for cashback style services as demonstrated by the resounding success of the two most popular cashback
+websites and platforms (which both now have some 6 million users each), which we feel is mainly down
+to the economic conditions over the past few years or so which has meant that many households have
+been forced to try and find new ways of saving money on their everyday purchases and also luxury item
+purchases and ‘non-essentials’, in order to make their budgets stretch ever further.
+In addition to this, the rise of the cryptocurrency within the past couple of years, but particularly within the
+past 12 months, has been nothing short of phenomenal - so with this in mind, it makes perfect sense to
+combine the two and create a cashback style platform for cryptocurrency, which is termed ‘Cryptoback’.
+It is the huge popularity of cryptocurrency that now exists that makes the CCRB Team very confident that
+there will be huge demand moving forward for this kind of service - cryptocurrency has truly moved into
+the mainstream in recent times and millions of people the world over is now looking for ways in which
+they can incorporate cryptocurrency into their lives and into their personal and commercial budgeting, in
+order to save money and make investment gains.
+Moving forward, the cost of many consumer household goods shows no sign of significantly reducing
+within the near future, indeed there is evidence to suggest that many households have concerns over
+how they will manage their household budgets in the coming years so this creates favourable market
+conditions for a service such as the one we are offering to gain large numbers of users within a short
+space of time and start generating significant revenues.
+
+High Internal Value
+But there is a further ace up the CCRB sleeve that adds significantly increased value to this proposition
+and massively extends the benefits and cost savings for all CCRB
+users and that ace is the CCRB
+High Internal Value.
+Put simply, the High Internal Value further rewards users when they spend through the linked shopping
+platform by significantly increasing the value of the token whenever they shop and spend on the
+independent platforms and merchants accepting it as a discount at any given point of time.
+
+The CCRB High Internal Value initiative. Users of the platform can spend the tokens on linked shopping
+platforms at a significantly higher value (discount) than the token value on the open market
+Page : 6
+
+This works much like a conventional cashback website model (with reference to Quidco and Topcashback
+as mentioned earlier), with the retailer effectively passing some of their profit margin on each purchase
+made back to the affiliate referrer for the purchase, with the referrer (in this case www.ccrb.io), then
+passing on some of the benefit and cost saving of this model to the consumer making the purchase.
+The key difference is that through the CCRB linked platforms, the consumer gets rewarded in
+cryptocurrency rather than fiat currency payments, which benefits the consumer in multiple ways, which
+will be discussed and covered in full later in this whitepaper (within the ‘Business Case’ section).
+
+Shop & Mine
+Shop & Mine connects the users and the online retailers through a tracked referral links and is one of the
+popular online activities through which users can earn ‘cryptoback’ in CCRB Platform. This is quite unique
+and widespread in many countries unlike the gift card purchase option which is currently limited to few
+countries like UK, INDIA etc. It should be noted that as of November 2017, the linked online shopping
+platform is functional in CCRB Platform (www.ccrb.io) and users who register on the website are able to
+use the Shop & Mine functionality successfully to earn/mine cryptocurrency of their choice. In order to
+add increased functionality and continue to improve the overall experience of the online shopping platform
+for users continuous and ongoing developments and improvements are carried on the platforms. It is a
+huge positive that current registrants on the platform can get a decent experience of both the CCRB
+cryptocurrency and how it works, and the Shop & Mine features and functionality contained within the
+platform.
+From there, the platform and complete product offering associated with the CCRB cryptocurrency will
+continue to grow organically, with new products, services, features and functionality being added on an
+ongoing basis as and when new products are developed, and further partnerships are developed and
+confirmed and then finally incorporated into the platform and CCRB decentralised Ecosystem. The CCRB
+Team has a fixed plan of constantly seeking out new ways in which to add to the ecosystem and
+consistently add new products and services to the linked platform which will continue to further enhance
+the usability and value of the platform for all its users.
+In addition to the main CCRB platform, we also have our crypto exchange, CCRBX, which is scheduled
+to go fully live in June 2018. Over the months that follow, access to the exchange will be progressively
+rolled out to further users. From June 3 cryptocurrencies will be available on the exchange, which will be
+BTC, CCRB and ETH. Further details regarding the specifics of the exchange can be found in the
+‘Ecosystem’ section of this whitepaper.
+There is no reason why the CCRB platform cannot gain a strong following in countries all over the world.
+Through the partnerships and networks that we have established links with, we have access to retailers
+and merchants in more than 190 countries & territories worldwide, making the linked shopping platform
+for CCRB a truly global affair. Although the presence of retailers in certain countries is somewhat limited
+as this stage, with a fairly strong bias towards UK and India based retailers and merchants at present,
+the focus and vision of the CCRB Team moving forward is to continue to add numerous retailers and
+partners from all over the world to the platform, so that users in many countries worldwide will have a
+great experience of the platform fueled by their ability to access numerous locally-based retailers within
+their own geo-graphical region. We will continually work hard to increase the product offering in as many
+countries as possible so users in all countries can get the very most out of the platform.
+This expansion will continue to be spearheaded by the CEO of the company Subash Manuel, who had
+the initial vision and foresight to create the CCRB Platform and start initial development of the entire
+platform and ecosystem worldwide back in 2017. He continues to drive things forwarded assisted in this
+expansion on a corporate level by David Tainsh, and experienced marketer and entrepreneur who has
+set up and developed many businesses in the past, Robert Ferguson, who has an established
+background of many years in business development and public speaking and events, and David McLean,
+Page : 7
+
+an experienced marketer who has been involved with many businesses and projects including numerous
+ventures within the world of innovation and technology.
+These core members are backed up by a strong development team of full-stack and blockchain specialist
+developers, based both within the UK, India and few other countries, with a development team of some
+20 persons writing the code for the platform on a continuous basis.
+In terms of experience, Subash has operated and run a number of companies over the last 10 years or
+so, some of them more recently within the blockchain space, and he has built the existing platform for
+CCRB from the ground up over the past year or so, so has a wealth of experience both commercially and
+more specifically within the blockchain and cryptocurrency industries.
+The core team is backed up by a number of reputable advisers from different fields including legal,
+business development, finance, R&D etc. who are involved with the project, who themselves have a
+wealth of relevant commercial experience that will enhance the success of the project and provide
+invaluable experience and guidance for the project during the course of the Flash Token Sale and beyond.
+
+Page : 8
+
+INTRODUCTION
+We’re very passionate about the potential of
+cryptocurrency here at CCRB Platform and believe
+that it has a very important future and a huge role
+to play in the development of new financial
+processes moving forward; but it has always
+frustrated us that almost all projects in the market
+are focusing on the speculative market rather than
+the usability of crypto. The usability is quite simply
+not where it should be or needs to be. That’s why
+we’ve passionately set out on a mission to change
+this. It’s currently the great thorn in the side of crypto
+and the greatest thing that currently holds back it’s
+potential to truly change the world and become
+mainstream - but it’s nothing that can’t be solved
+quickly and efficiently with the right vision, drive,
+mindset and focus. This is what we are trying to do
+and everything at CCRB Platform revolves around
+that central vision and focus.
+
+Subash George Manuel, CEO CCRB Platform
+The CCRB cryptocurrency and the linked shopping and mining platform was established to solve the
+great problem that all cryptocurrencies have always faced - how do you spend it?
+This has always been a great stumbling block in the mainstream uptake of cryptocurrency and something
+that we strongly believe is currently holding it back. This is the core reason that the CCRB Platform was
+developed - to take the usability, dependability and mainstream uptake of cryptocurrency to new levels
+and get many more people involved in cryptocurrency and benefitting from all its unique positives in the
+most efficient timeframe possible.
+Changing this vital component of the current crypto industry has been no easy task. We have had to
+implement the development of a unique and innovative platform from scratch that enables users to instantly spend the cryptocurrency that they acquire, in the most user-friendly and accessible way possible.
+For us, there are now far too many cryptocurrencies, alt coins and tokens that have been created without
+the central concept of usability and spendability in mind. Numerous ICO’s and Token Sales now exist that
+offer participants the opportunity to acquire the tokens, but then do little or nothing of any real value to
+the holder of the tokens in the preceding months following the ICO to offer any tangible benefit or
+gratification to the participants of the sale.
+CCRB decentralised token do things very differently and address this central problem head on. CCRB
+Token holders have very real choice from the instant that they first acquire our tokens. They have
+numerous options as to what they can do with them; spend them, hold them, mine more tokens through
+the linked shopping platform that forms a central part of the CCRB Ecosystem, or withdraw them instantly
+if they wish to do so and trade them on the open market.
+Why shouldn’t participants in ICO’s and Token Sales have this level of flexibility and choice? The tokens
+are a digital asset (software) legally owned by them with multiple usages both within and outside different
+ecosystems and they should be able to do with them whatever they please. We believe that this is a
+better model for all the and one which offers great benefit to them over both the short and longer-term.
+Page : 9
+
+There have been a number of high-profile scams and
+discrepancies surrounding ICO’s and Token Sales in recent months, which only serve to highlight the problem
+of investors putting money into projects that are highly
+speculative and offer very little in the way of alternative
+options if the project fails to get underway and develop
+as planned and laid out in the roadmap set out by the
+project. We feel the time has now come in the current
+ICO landscape to change the rules of the game and offer
+token holders a better deal all round that offers them
+more security and reassurance that the tokens holders
+get back real usability in the shortest possible timeframe.
+We have part-developed and tested the platform that is
+linked to CCRB and have worked hard to offer a huge
+
+WHY SHOULDN’T
+PARTICIPANTS IN
+ICO’S AND
+TOKEN SALES
+HAVE THIS LEVEL
+OF FLEXIBILITY
+AND CHOICE?
+
+range of spending options for CCRB and also incorporated our unique High Internal Value into the
+ecosystem, which offers investors additional discounts and rewards if they choose to spend some, or
+all, of the CCRB that they have acquired in the linked shopping platforms including www.ccrb.io.
+Specifically, regarding the current cashback market that is the inspiration for our Cryptoback proposition,
+we clearly see massive room for improvement in the way in which this business model is implemented
+and the manner the rewards are paid.
+Often, users have to wait many months to receive the cashback that they have , and there have been
+countless instances of users not receiving the cashback that they were owed at all.
+Consumer forms are littered with complaints and grievances from disheartened cashback users who have
+been left disappointed and angry that they have not received what they feel was rightly owed to them, with
+their whole experience of these platforms being irreparably tainted by both the platforms and the retailers
+who partner with them not delivering what was expected.
+In addition, with for example, only 2 main cashback players within the UK market dominating the
+industry, we also feel strongly that there is room in the market for one more competitor who can offer a
+viable alternative, and there is certainly room for a dynamic, forward-thinking and innovative company
+that can take the cashback model and turn it on it’s head, offering something that encompasses all the
+benefits of cashback for the consumer but also offers additional opportunities for users to grow their
+revenue from the platform in a quick and easy way that is highly accessible to anyone who gets involved
+with the platform.
+In short, by replacing the standard fiat cashback rewards model with cryptocurrency rewards, the user
+gets additional opportunities to experience growth of the value of their rewards in line with any market
+value increases of CCRB, without any significant additional drawbacks with regards to them receiving
+crypto of their choice rather than fiat payments for using the platform.
+The users of the platform can partake in a constant cycle of receiving cryptocurrency as a reward for shopping through the affiliate retailers on the linked platform, then spending the crypto they have earned at the
+High Internal Value to shop for more goods and services on the linked platform, whilst all the time acquiring
+more cryptocurrency where there is a chance that the value of the rewards that they have in their wallet
+can increase over time in line with increases in the external market value of the crypto.
+
+Page : 10
+
+All this of course is done through one single, easy-to-use platform which incorporates all the necessary
+features and functionality to allow the user to experience a seamless switching between each of the
+necessary activities required to complete the cycle.
+So, what is the long-term vision of the company? To have millions of users worldwide experiencing all the
+numerous benefits of cryptocurrency and everything it has to offer through the use of a highly user-friendly
+all-in-one platform that makes buying, spending, exchanging and mining cryptocurrency as easy and
+accessible to all as it could possibly be.
+With millions of users already having actively used cashback services, and millions more all over the world
+already warmed up to the idea of the Cryptoback rewards model and how they can seamlessly integrate
+it into their purchasing and consumption habits, the stage is set for CCRB Platform to reinvent the industry
+and take the best from both cashback rewards programs and the booming crypto industry to create
+something new, fresh and of enormous benefit to both consumers and retailers alike.
+This is our vision we hope you will join us and come on board to support us.
+
+Page : 11
+
+BUSINESS CASE
+
+The CCRB Platform and ecosystem will grow in the first instance by organic growth through a strong
+affiliate program, that helped to acquire over 1 million registered users by the end of March 2018, which
+is the way in which similar traditional cashback platforms have experienced massive growth in relatively
+short timeframes.
+We believe this is feasible as it is simply a matter of tapping into the already huge, and ever-growing,
+current database of existing ‘Cryptoback’ rewards programs users, that will inevitably be interested in new
+and innovative ways in which they can increase their rewards and savings going forward by signing up to
+new platforms on the market.
+Much of the marketing and promotion of the CCRB platform will focus on gaining the interest and attention
+of this significant existing user base for traditional cashback programs and turning them on to the unique
+benefits of turning their attention more towards cryptocurrencies, rather than traditional fiat rewards.
+Much of this work has already been done for us of course, as we have now seen cryptocurrency explode
+and start to go truly mainstream, meaning that millions of people all over the world already have an existing
+awareness and knowledge of crypto, and are keen to get involved in some way in the coming months.
+This should make it highly feasible to attract a huge number of users to our platform in a very short space
+of time, in a highly cost-effective manner, with many of the users being acquired without any direct
+marketing spend on our part.
+
+Page : 12
+
+Once this huge database of registered users have been acquired, the focus will shift towards engaging
+them on the various benefits of cryptocurrency and keeping them highly informed and encouraging them
+to use the platform which is fully functional and they can start to actively use the platform to mine more
+cryptocurrency, exchange any cryptocurrency that they currently have, and use the linked shopping
+platform on the website to make significant cost savings when they are purchasing goods and services. A
+full marketing and promotional program are planned to all these acquired users in order to educate and
+inform them to the necessary level so that they feel confident about using the platform and are fully aware
+of everything that the platform offers to them.
+New users for the platform will continue to be acquired on an ongoing basis by focusing marketing and
+promotion on educating and informing existing Cryptoback users and cryptocurrency enthusiasts on the
+unique benefits and advantages of trying out our rewards program that offers them cryptocurrency rather
+than fiat-based rewards.
+In terms of the size of the industry, in the UK alone, cashback platforms and services such as Quidco and
+Topcashback have some 6 million registered users each, and the size of the cashback and rewards
+industry alone is thought to be somewhere in excess of $2.5 trillion currently, meaning that there is an
+enormous market for this kind of service. It is predicted that the cashback industry will continue to see
+steady growth over the next few years, as part of the current rapid expansion of e-commerce globally.
+A cashback provider called Ebates was purchased by Rakuten in November 2014 for just over $1 billion,
+with the revenue of Ebates at the time standing at around £2.2 billion.
+Quidco in the UK generated more than $1.22 billion in revenue, which represented by itself 1% of all UK
+online e-commerce!
+All of this provides clear evidence that there is an insatiable appetite for these kinds of rewards programs
+all across the world, which is set to grow massively within the next few years.
+This is why we feel strongly that there will be huge demand for the kind of platform we are building where
+consumers and users will be able to acquire rewards in cryptocurrency on the goods and services that
+they purchase.
+We already have more than 1 million registered Cryptoback users on the platform, that have been acquired
+very quickly within the space of just a couple of months. With this rate of growth in mind, we have set ourselves a goal of acquiring 6 million registered users for the platform by the end of December 2021. We
+feel this is realistic based on the current popularity and rate of growth of websites and services that offer
+similar businesses models and rewards platforms, and the entire focus of the CCRB team is on maximising the exposure and promotion of the platform to acquire as many registered users as possible within
+this timeframe.
+Marketing and promotions will focus squarely on this objective of creating more Cryptoback and crypto
+exchange users in order to increase the uptake and engagement on the platform as much as possible
+within the next 3 years, on a global scale.
+
+Page : 13
+
+TOKEN MODEL
+
+CCRB is a decentralised cryptocurrency based on the Ethereum blockchain which belongs to a class of
+Bitcoin 2.0 Protocol.
+This whitepaper intends to give a brief and general outline about the usability of this new decentralised
+digital asset called CCRB and how any member of the public can participate and earn CCRB. This
+whitepaper will explore how CCRB will function as a cryptocurrency, the products and services and
+rewards available through the ecosystems associated with CCRB, the technical information of the
+product/digital asset (software specifications) named CCRB, and how CCRB is designed to provide a
+better experience for cryptocurrency users.
+CCRB token is issued by a consortium of international businesses based on multi signature wallet and
+was first promoted in UAE and India in 2016 with many of these companies providing usability for the
+token in their own independent platforms and paying bonuses and rewards to their respective users in
+CCRB as a Proof of Work and Proof of Reward model. It is a decentralised open-source cryptocurrency
+and hence any business can join in by providing usability to the token and thereby participate in the
+creation of a decentalised marketplace which is open to all businesses. This includes businesses who
+cannot afford to create and run their own loyalty programmes and also larger businesses who wish to be
+part of and benefit from a larger network of decentralised customer loyalty ecosystem, where the loyalty
+points are owned and supplied by the customers rather than by the participating retailers or the platform
+provider.
+CCRB is the first ERC20 Token to be launched in the UK and many other markets which got linked and
+established through existing loyalty platforms, back in 2016. The CCRB platform is dedicated to
+establishing a market for the utility of CCRB primarily in UK and also globally mainly through its online
+retailer affiliate networks. CCRB was initially made available in the CCRB Platform through a decentralized
+non-custodial wallet service offered through www.cryptocarbon.co.uk. So, in this sense we are ahead of
+the game, and CCRB token existed long before the current scenario where many companies are creating
+tokens that seemingly have only futuristic usability and is issued primarily focusing on the crypto trading
+market which is a highly speculative and risky for consumers.
+Page : 14
+
+Being a decentralised digital asset, CCRB also come with many other out of the ecosystem utilities to its
+holders who are the legal owners of these tokens CCRB is the first decentralised ERC20 cryptocurrencies
+which is backed up by a cashback platform. CCRB is also currently accepted in many independent
+platforms as a medium of exchange for availing product or services. BBX Exchange is a great example
+for this where CCRB can be traded for BBX£s and used towards 100% payment for products and services
+in over 90000 businesses spread out in over 14 countries
+The CCRB value creation does not depend on the activities of any particular company or individual
+but is dependent on the large-scale adoption by participating businesses who are willing exchange
+products and services in exchange for CCRB and/or rewarding the customers with CCRB when
+they purchase from them. This suggests creating value without any financial investments when a
+successful reward earning activity or trade happens.
+The question as to why CCRB Platform needs a token to promote is a very simple one to answer - the
+‘Cryptoback’ rewards is built into the very foundation of the entire project, platform and ecosystem that
+we are building and developing, and everything that we are doing for the project is based around the
+decentralised cryptocurrency CCRB that is already in the market we are here trying to making it as usable
+as possible for anyone who joins the platform and establish a market for CCRB in UK and other countries.
+In contrast, the CCRB token that we promote is baked into the very fabric of the platform that we are
+creating, and all development of the platform is based around adding unique and innovative new ways in
+which to make the token that we have more usable and accessible to everyone all over the world, no
+matter what their level of experience or technical knowledge in relation to both cryptocurrency and
+blockchain technology.
+In much the same way, Decentralised blockchain technology is central to the whole concept of the project
+that we are developing - our “Proof of Shopping – POSh” protocol (which is part of the “Proof of Spending
+Protocol – POSp” (Patent APPlication No: GB1719487.9), is a proof of shopping initiative for the platform
+which is a decentralised global concept and so taps into the full power and unique benefits that Blockchain
+technology enables.
+The “Proof of Shopping – POSh” concept makes mining cryptocurrency considerably easier and more
+accessible than that of traditional cryptocurrency mining, by opening mining up to anyone anywhere in the
+world who shops. In addition, the “POSp” and “POSh” concepts are designed to go some way towards
+resolving the current energy consumption issues that are currently an integral part of the cryptocurrency
+industry, specifically related to the mining of crypto.
+In terms of scalability, because the platform incorporates both our POSh and POSp Protocols that use
+Blockchain technology, this makes the platform highly scalable by giving users the ability to transfer the
+cryptocurrency that they acquire through the platform to anyone, anywhere in the world, meaning they can
+shop and trade with cryptocurrency on a truly global scale with all the flexibility and ease that blockchain
+technology affords. This is a very different scenario from your typical user of more traditional and
+established rewards platforms such as Quidco and Topcashback in the UK, where once users have
+received their rewards in fiat currency, they are highly restricted to how they can use them through the
+platform, as they have no international scope due to the inherent restrictions that fiat currency has when
+compared to cryptocurrency.
+We are using blockchain technology to provide a service to both consumers and businesses that gives
+them greater flexibility and choice with regards to the rewards that they are able to glean from such a
+platform, and also to significantly reduce the cost and expense that such users may be liable to pay when
+carrying out transactions either as a purchasing consumer, or for their business.
+
+Page : 15
+
+DETAILS OF THE FLASH TOKEN SALE
+
+To participate in the FLASH Token Sale, prospective purchasers will have to visit https://ccrb.io where they
+will be required to register on the website. Once successfully registered, buyers will be able to swap a
+range of cryptocurrencies, including Bitcoin, Ethereum, Litecoin etc. which they already hold for CCRB.
+Flash Token Sale is a method where the users and businesses who initially earned CCRB is now
+exchanging it with someone who would like own CCRB by exchanging it with another cryptocurrency.
+
+The minimum swap amount for CCRB Tokens during the sale is set at $100.
+
+The FLASH Token Sale will also incorporate a model of a token giveaway where free Cryptoback credit
+are given to any validated users that register on the CCRB website as welcome bonus. These credits are
+not CCRB or a cryptocurrency, but a free credit that can be redeemed against available products and
+services from the website as per the ‘Cryptoback’ account terms and conditions. From there, each
+registered user will be kept fully updated on the progress and development of the platform as each crucial
+milestone in the Roadmap is reached, and they will be educated on the benefits and advantages of getting
+involved with cryptocurrency and generally informed about what is going on in the cryptocurrency and
+blockchain space, and how this might affect them as a consumer or business in the future.
+
+Page : 16
+
+This method of promoting the token sale aligns perfectly with the unique range of skills that the CCRB
+Team has, and this also helps to counteract any issues and problems that we feel all ICO’s and Token
+Sales will experience in the not-so-distant future with regards to digital and social media platforms such
+as Google, Facebook and Twitter starting to ban and restrict the promotion of ICO’s and Token Sales on
+their platforms.
+We feel that it is possible for CCRB to acquire millions of users on the platform using just the online
+retailers affiliate marketing tools and tactics alone, which means that we can massively grow and expand
+the uptake and reach of the platform with minimal marketing and promotion expense being required. This
+will leave significantly more budget left for the overall development and testing of the platform, as we will
+not have the huge expense for promotion that has become typical for the average
+
+Users of the CCRB platform have considerably more options once they obtain the tokens than with most,
+if not all other cryptocurrencies. In addition to being free to withdraw and exchange the tokens on the open
+market (because CCRB is already listed on several exchanges there is no restrictive waiting period for the
+user before they receive the tokens they have swapped), they can also choose to spend or use them
+instantly on the linked shopping platform across thousands of retailers and merchants in more than 190
+countries and territories worldwide. This gives the user of the token a wealth of additional options once
+they invest in the tokens that they simply don’t have the luxury of when choosing an alternative
+cryptocurrency.
+For our Flash Token Sale, there is no soft cap in place, as the tokens have been in circulation and available
+to purchase and trade on the open market for some time already, so we do not have any restrictions as to
+the amount of tokens we need to trade during the Flash Token Sale in order to make the sale feasible.
+The hard cap for the Flash Token Sale is based on the existing user willing to sell at the fixed price offered
+during the Flash Token Sale.
+CCRB is only available as a premised proof-of-work model, unlike many other cryptocurrencies that currently exist, meaning that in contrast to the typically adopted mining for profit model, CCRB is a greener,
+more environmentally friendly token with significantly less carbon footprint.
+The Token Sale takes the form on an initial Token Pre-Sale that will run between 15th December 2017 to
+27th January 2018 (23:59), with the Main Token Sale then commencing immediately at midnight on 28th
+January 2018, to 28th April 2018 (midnight).
+CCRB is using a combination of Coinpayments, Changelly and our own exchange, in order to process
+crypto swaps during the duration of the Flash Token Sale - No fiat payment is accepted.
+
+Page : 17
+
+ECOSYSTEM
+
+The CCRB Platform and ecosystem is designed for mainstream adoption, and as such will be developed
+to feature a user-friendly and accessible interface that is accessible to all, no matter what their level of
+experience and expertise with the more technical side of cryptocurrency and blockchain.
+The platform plans to serve as a one-stop shop for anyone who wishes to obtain, mine, exchange and
+trade, and shop, instantly for goods and services using cryptocurrency, and will provide a gateway between consumers seeking shopping and loyalty rewards, and retailers and merchants looking to get
+actively involved in the booming cryptocurrency market and blockchain technology, whilst also simultaneously tapping into the ever growing database of consumers that wish to have the option of shopping
+with cryptocurrency.
+
+CCRB plans to offer a full range of cryptocurrency related services that seamlessly work together, that
+have never before been offered on one single, easy-to-use platform.
+This will provide users with complete flexibility and choice as to how they are able to use their
+cryptocurrency once they obtain it, simply by clicking through to various areas of the platform in order to
+carry out the various activities and functions that are required to perform all of the above listed practices.
+
+Page : 18
+
+This screengrab from the https://ccrb.io website shows the corporate part of the overall
+ecosystem, highlighting the various corporate brands and services that will be integrated into
+the platform. The full ecosystem can be viewed on the website
+
+Throughout the ecosystem, we have already established numerous partnerships and collaborations with
+a host of retailers, merchants, providers and suppliers, in order to provide the depth and flexibility that is
+required from the type of ecosystem that we are striving to create. There are also further ways in which
+consumers can use the linked platform to make cost savings and increase their exposure and involvement
+within the cryptocurrency industry.
+
+Cryptoback
+One such way is through the innovative ‘Cryptoback’ account available in the platform, which enables
+users to ‘earn’ cryptocurrencies including CCRB, BTC, ETH etc. simply by shopping for and buying
+products that they want and would purchase anyway from a huge range of retailers, including many of
+the largest brands both within the UK and worldwide.
+
+Page : 19
+
+Every verified user signing up to the CCRB Platform gets rewarded with a free $5 welcome reward which
+can be used toward redeeming against retailer gift cards, promotional products and service available in
+the platform from time to time. Cryptoback reward account enable the users to further accumulate rewards
+by participating in many different reward earning activities in the CCRB platform, including but not limited
+to, online shopping, instore shopping, exchange trading, gift a friend, viewing retailer ads, redeeming
+online discount codes from online retailers, etc. Once the user has collected $40 (current threshold) worth
+Cryptoback rewards it can be converted to a crypto currency of the user’s choice including CCRB, BTC,
+ETH and, once approved, withdrawn to any crypto wallet of the user’s choice.
+Our Cryptoback concept and platform has come to market at this time as there is clearly a huge demand
+for cashback style services as demonstrated by the resounding success of the two most popular cashback
+websites and platforms (which both now have some 6 million users each), which we feel is mainly down
+to the economic conditions over the past few years or so which has meant that many households have
+been forced to try and find new ways of saving money on their everyday purchases and also luxury item
+purchases and ‘non-essentials’, in order to make their budgets stretch ever further.
+In addition to this, the rise of the cryptocurrency within the past couple of years, but particularly within the
+past 12 months, has been nothing short of phenomenal - so with this in mind, it makes perfect sense to
+combine the two and create a cashback style platform for cryptocurrency, which is termed ‘Cryptoback’.
+
+The Shop & Mine Platform
+During May 2017, a number of affiliate network partners and online merchants were approached directly
+by the team with regards to their inclusion on the linked shopping platform. The reaction from such affiliates
+and the associated retailers was generally positive, with a large number of these expressing interest in
+being involved and advertising in the platform, and as a result of this we have a large number of highquality retailers and merchants included within the platform that users have access to by clicking affiliate
+links to these range of online retailers on the Shop & Mine section of the website, users of the platform
+can earn Cryptoback as an affiliate commission related to the purchases that they make on the retailer’s
+website.
+Our development team have coded an API that allows these purchases to be tracked and linked back
+to the original click from the CCRB website, as well as a system that identifies when payments have been
+made by the retailer once the transaction is approved by them, in order to ensure that payments to users
+of the Shop & Mine platform are made in a timely, accurate fashion.
+
+The CCRBX Exchange
+As an integral part of the CCRB Ecosystem, we are developing our very own exchange which will enable
+users to trade and exchange the cryptocurrency that they have, including CCRB tokens.
+The exchange will also feature a peer-to-peer platform, where users can trade cryptocurrency with other
+users on the platform. Initially, this peer-to-peer section of the exchange will be rolled out to existing
+holders of CCRB tokens on an exclusive basis, with access to the peer-to-peer functionality on the
+exchange being rolled out more generally over time to all other users.
+One unique feature of the exchange is that users will have the ability to be reimbursed for the exchange
+fees that they pay in the form of ‘cryptoback’ credit - each time a user uses the exchange to perform a
+transaction, the amount of fees payable will be credited to their ‘cryptoback’ account on the CCRB platform
+so that effectively the fees are negated through use of the CCRBX Exchange.
+
+Page : 20
+
+Cryptocurrency Wallet
+The CCRB ecosystem includes a cryptocurrency wallet that incorporates and supports a number of
+cryptocurrencies above and beyond just CCRB, including Bitcoin (BTC), Ethereum (ETH), and Litecoin
+(LTC). This enables users to hold, deposit and withdraw in a range of the largest cryptocurrencies in the
+world. We have partnered with Coinpayments, as well as utilised our own wallet on our exchange
+(CCRBX), in order to provide this wallet functionality to users of the CCRB platform. Unlike the Cryptoback
+account this is custodial crypto wallet (exchange wallet) in which the user is the owner of the digital asset
+they hold and does have request for approval from the administrator before withdrawing or spending it.
+
+Mining CPU
+The platform includes an innovative Mining CPU GUI that enables users to very quickly and easily mine
+cryptocurrency simply by navigating to the Mining CPU area of the site and clicking a simple button to
+start the process of crypto mining. For this process, Monero cryptocurrency is mined through the Mining
+CPU, which is then withheld by CCRB Patform and the equivalent amount of cryptocurrency is then credited
+to the users Cryptoback account on the platform in CCRB. This provides an incredibly easy and simple
+way for users of the platform to mine crypto, without any technical knowledge or experience within
+cryptocurrency required on the part of the user.
+
+Additional Business Services
+The ecosystem also features a range of other business-related services and functionality that will enable
+users of the platform to seek additional benefits and cost-savings. For example, the platform will include
+energy comparison and other price comparison services, so that users can search for and secure cheaper
+deals and packages on a range of commonly required utilities and services and on top earn and redeem
+Cryptoback rewards. This will add overall value to the proposition of the platform for users, and further
+enhance the ability of the platform to serve as a one-stop solution for anyone who wants to use the platform
+to tap into the power of cryptocurrency and blockchain in order to make cost-savings and realise the full
+financial benefits of getting involved with the cryptocurrency market at this time.
+
+Real-Estate
+We have partnered with a range of innovative and forward-thinking real-estate companies, including
+Century 21, to offer users of the platform unique and innovative opportunities to use cryptocurrency to
+purchase real-estate. Through this feature of the platform, users can see significant cost-savings in their
+purchasing of property by using the High Internal Value feature of the ecosystem, whereby the tokens that
+they purchase or mine through the ecosystem can be used at a significantly higher value when used
+towards part payment towards the purchase of property through one of our real-estate partners on
+available offers from time to time and not worry about the speculative crypto market prices.
+
+Page : 21
+
+We plan to develop a real-estate platform that brings more property companies on board over time, so
+that the options available to users in terms of geographic location of properties, and property type, will
+continue to grow and develop as the platform matures and gains credibility and trust.
+
+Ecosystem Growth
+The success of the CCRB Token and project depends on factors like different independent platforms
+connecting the consumers and businesses using CCRB as a reward for participation, rather than on the
+activities or success of any particular company or individual.
+The aim is to use this concept to revolutionise and replace the traditional cashback and loyalty programs
+that are currently in existence, by allowing businesses to tap into a new customer base by targeting
+consumers who have an interest in using cryptocurrency to pay for products, goods and services.
+The basic premise is that retailers get rewarded in increased sales by offering innovative payment
+methods to their customers and consumers that save them money, by allowing them to purchase products
+cheaper using High Internal Value (Discount), and also retailers and businesses benefit by gaining greater
+loyalty from their customers by offering this discount.
+The first integration in of CCRB with a loyalty programme was with a UK-based cashback provider,
+offering access to cashbacks, savings, spending and discounts from around 35,000 outlets both in the
+UK and worldwide.
+The ecosystem also provides access to travel, utility, insurance and other price-comparison platforms and
+allows customers to earn cryptocurrencies for free, based on shopping and other online activities.
+Any user may get CCRB for referrals and marketing, as well as other social activities through the available
+social media platforms.
+The amount of Cryptoback credit a user will receive will strictly correspond to the amount of shopping or
+promotional activity the user performs. This innovative and ground-breaking new concept of earning
+cryptocurrency through shopping is a giant leap towards introducing cryptocurrency to a significantly larger
+global market, by changing their shopping habits and online activities so that they can realise additional
+cost-savings and partake in the mining of cryptocurrency which was once an alien and seemingly
+inaccessible activity for them to get involved with.
+The Cryptoback credit can be transferred between users, exchanged for CCRB, BTC or other
+cryptocurrencies, or spent towards premium features and services which will be available in the ecosystem
+as it grows and develops over time.
+We have the ambitious goal of achieving 6 million users in the CCRB ecosystem by 31st December 2021,
+with the main focus for achieving this goal being the provision of unique products and services which offer
+something genuinely innovative and groundbreaking for anyone in the world that has a vested interest in
+either cryptocurrency and/or cashback and loyalty rewards programs. The CCRB team is highly committed to achieving this goal and will be working hard to convince consumers, retailers and other businesses
+to accept and use CCRB to carry out and process consumer-based transactions on an ever-expanding
+scale, according to the proof-of-work model as explained above.
+
+Page : 22
+
+The overall growth of the CCRB platform and ecosystem relies on the additional opportunities that it
+presents to users in terms of how they can spend, obtain and save using the power of cryptocurrency,
+and the unique benefits that it represents. We envisage a period of substantial organic growth of the
+ecosystem in the coming months when most, if not all, of the current users of the platform have managed
+to successfully use the platform to make significant cost-savings and/or beneficial investments. Because
+of the tremendous hype and media attention that is currently focused on cryptocurrency and blockchain
+technology, we feel strongly that the platform will grow very quickly due to a combination of word-of-mouth
+and the unique affiliate marketing skill set that we have within the internal staff of the CCRB company.
+Whilst obviously marketing, advertising and promotions will continue to be done on a continuous basis
+throughout the duration of the FLASH Token Sale and beyond, we have already experienced a high level
+of growth simply through users of the platform recommending others and making friends, family, colleagues and acquaintances familiar with the concepts of the platform and the work that we are doing here
+at CCRB Platform. The entire ecosystem and platform are based on finding, developing and implementing
+innovative and forward-thinking concepts and technology within the ecosystem that strives to redefine the
+cryptocurrency industry and the way in which cryptocurrency can be obtained and used, in a highly
+practical and accessible way. This forms the basis of why we are expecting huge growth of the CCRB
+ecosystem once momentum starts to grow and we have more and more live functionality available for
+both consumers and businesses alike to experience upon visiting the CCRB website.
+We are incentivising client participation and retention by rewarding users with Cryptoback credits simply
+for registering on the CCRB platform and then using key features of the platform such as the Exchange
+and the Shop & Mine section, and also for referring others to the platform through free gifting. We are
+confident that this alone will provide more than adequate value in the platform for users to view the CCRB
+project as a valuable contribution to the cryptocurrency and blockchain revolution that is taking place, that
+is worthy of their time, interest and commitment both now, and in the future.
+
+Page : 23
+
+THE PLATFORM
+
+The CCRB platform will be developed to utilise an intuitive, easy-to-use interface that provides a quick
+and simple way for users to carry out a large range of cryptocurrency related activities and functions all
+within one single website and APP.
+For ease of use and clarity, the various sections of the website will be split with different colour conventions
+for each of the sections, so that it is instantly clear to the user which area of the site they are operating
+within, and what can and should be done within each section in order to make cost-savings and realise
+the full benefits that can be obtained from becoming involved with cryptocurrency.
+In order to aid the uptake and overall use of the platform on an ongoing basis, a support team and formal
+customer support process has been put in place by the CCRB team, so that users have a quick, efficient
+and highly accountable method of raising concerns or issues with regards to any aspect of the platform.
+The protocol that we have put in place for the customer support for the platform, is that support tickets will
+be raised by users, with a maximum lead time of 48 hours being allowed for all customer queries to be
+acknowledged, processed and resolved. This should ensure that the overall experience of the platform
+that users have is by and large a positive one and we get high average review ratings, which will greatly
+assist in the organic growth and spread of the use of the platform as existing users recommend others
+and spread the word about the platform and the potential benefits that can be gleaned from it.
+In addition to assigning dedicated customer support staff to the addressing of any problems or issues that
+users may face when using the platform, we are also using the latest technology and innovation to
+enhance the overall experience of the platform. Services and technology such as automated chatbots and
+video-based tutorials will be integrated into the platform, to address problems and issues at just the right
+time so that the use of the platform becomes seamless over time as any common issues are resolved one
+by one as the user base grows and we receive updated feedback on exactly what users are doing on the
+platform and any problems they have along the way.
+
+Page : 24
+
+We also plan to implement a structured system of issue reporting, so that common issues and problems
+on the platform are logged and categorised in a formalized way that can be easily analyzed and assessed
+this will also help to ensure that any major problems get rectified in the shortest possible time, leading
+to minimal interruption in the functioning of the platform as it grows, and more and more fully functioning
+features and initiatives are added to the platform over time.
+Security and risk within the platform have already been investigated and identified through a formal,
+structured process, and the necessary contingencies have been made to ensure that any possible risks
+and threats to security have been dealt with, to ensure that users of the platform do not have to
+unnecessarily worry about the privacy of their data and the security of transactions that they partake on
+the platform. The entire IT infrastructure of the CCRB platform has been reviewed and scrutinised by a
+highly experienced IT professional of some 20+ years, and as a result, many updates, modifications and
+server changes have already been implemented into the platform, even at this very early stage, to ensure
+the highest possible levels of security and risk-protection that we are able to achieve.
+We have partnered with Coinpayments, an established and trusted crypto payment gateway, for much of
+the cryptocurrency transactions that take place on the CCRB website, providing adequate levels of trust
+and credibility for the transaction of crypto purchases on https://ccrb.io.
+The CCRB wallet uses state-of-the-art wallet technology power by Ethereum smart contracts. Security
+features are implemented on the very fundamental level possible - inside Ethereum smart contracts.
+Independent security oracle services are used to authorise transactions inside the network. The CCRB
+wallet service never has access to customer account keys and can’t move money or adjust balances without the consent of the user - all encryption is done on the client-side, following best industry practices.
+
+Technical Specifications of the Platform
+Wallets
+Web: https://cryptocarbon.co.uk/ (currently redirected to https://cccrb.io/)
+Android: in development
+iOS: in development
+Full node: Ethereum Mist with EIP20 address from the above PROTOCOL CCRB is issued using ERC20
+Token protocol, which is a set of Ethereum smart contracts. CCRVB protocol is Protected with Multisignature wallet which mean a single party cannot issues CCRB unless all parties agree.
+Documentation: https://github.com/cryptocarbon/cryptocarbon/wiki We use ETH network (open source)
+Specifications
+Primary project website: https://cryptocarbon.co.uk/ (currently redirected to https://cccrb.io/)
+Supply: (Multi-signature wallet which mean a single party cannot issues CCRB unless all parties agree)
+Symbol: CCRB
+
+Page : 25
+
+Decimal places: 6
+Transaction fees in CCRB: Transaction fees in ETH: refunding to sender
+ERC20 compatible contract address: 0xe4c94d45f7aef7018a5d66f44af780ec6023378e
+CryptoCarbon (CCRB) is a cryptocurrency based on the Ethereum blockchain which belongs to a class of
+Bitcoin 2.0 Protocol.
+Our choice of Ethereum as the base protocol was dictated by the following:
+1 Out of all blockchains, it has the biggest and the most active developer community. Therefore, if
+something goes wrong with the consensus protocol, it has the highest chance of fast recovery.
+It’s being endorsed by some of the world’s largest financial software vendors, including IBM,
+Microsoft, and Deloitte.
+2 It is the only production-ready blockchain that supports smart contracts. Turing complete
+programming languages bring us to the next level of freedom with regards to features and
+security models that we can implement.
+3 Ethereum Virtual Machine (EVM), the virtual machine that executes smart contracts, is
+independent of the Ethereum public blockchain. All smart contract software that we develop is
+built us- ing Solidity and EVM, which can be decoupled from the Ethereum public network and
+plugged into any other consensus mechanism. It’s a merge of Tindermint, EVM and public
+blockchain. If successful, it will be able to execute 10,000 smart contract transactions per second
+in a public blockchain. Transaction confirmation time is addressed in the Ethereum network by a
+switch that was made to PoS during 2017.
+CCRB is one of the first cryptocurrencies to be backed up by a cashback platform, and the cryptocurrency
+is already currently accepted in many independent platforms as a medium of exchange.
+CCRB is 100% pre-mined and the cryptocurrency is closely linked to cash-back and loyalty platforms.
+With our cryptocurrency, we aim to virtually eliminate mining for profit – the aspect of cryptocurrencies
+responsible for harming the environment, through significant wastage of electricity.
+The CCRB tokens are stored on computers and transferred over the internet between digital “wallets”.
+CCRB is a digital asset that any member of the public can earn and/or mine as cash-back, loyalty rewards,
+referral commissions, and many more activity-based rewards. This can be done by linking their shopping
+and other eligible activities to the platforms that reward users with the CCRB tokens.
+Users accumulate CCRB tokens within their registered account by carrying out various activities inside the
+interconnected platforms that form part of the CCRB ecosystem. These platforms will include cash-back
+shopping, affiliate marketing, social networks and different offers from the participating businesses and
+retailers that are integrated within the ecosystem.
+One of the major differences between most cryptocurrencies and CCRB, is that cryptocurrencies like
+Bitcoin are based on technology called mining for distribution of Token; whereas CCRB is a new type of
+cryptocurrency (tokens), built on the basis of Ethereum technology.
+
+Page : 26
+
+This enables CCRB to offer maximum convenience and security, whilst at the same time eliminating much
+of the bureaucracy associated with other coins, tokens and methods of carrying out financial transactions.
+The CCRB value creation does not depend on the activities of any particular company or individual but is
+dependent on the large- scale participation and adoption of CCRB by the global users who expect loyalty
+rewards in CCRB in response to the acceptance of offers made by the participating businesses.
+Because CCRB has been in existence since 2016, we already have an extensive community and user base
+built around the token and the associated platform and ecosystem. This includes in excess of 1 million
+registered users on the platforms that are linked with CCRB, and we have email addresses for each of
+these users and they are already active on channels such as Facebook, Twitter, Telegram, Reddit, YouTube
+and Linked In.
+
+Furthermore, because of the specific expertise and skillset within the CCRB Team around online retailer
+affiliate marketing campaigns and programs that is closely related to the kind of bounty campaigns that
+have become a stable part of any online marketing campaign, this community and user base continues to
+grow exponentially, as our existing community of users helps to spread the word about CCRB and all the
+associated benefits.
+The article, “Shopping Is Mining – How CCRB is redefining the cryptocurrency mining model with
+‘CryptoBack’”, which we published in Jan 2018 got reshared all over the internet by the community
+members and the Cryptoback programme received a sudden and steady growth from thereon. This
+demonstrates how powerful our community of affiliates and users are when it comes to promoting
+something they really connect to and love in the platform.
+We predict that by the end of July 2018, it will have become significantly harder to market both ICO’s and
+Token Sales, and cryptocurrencies in general, as tighter regulation and controls are implemented by
+governments and regulatory bodies all over the world, meaning that all cryptocurrencies will be required
+to find new and more innovative, not to mention creative, ways of marketing their tokens. We also predict
+that the main social channels such as Facebook, Twitter and Google will implement a complete ban on all
+cryptocurrency related advertising on their platforms, which will force anyone running a cryptocurrency
+marketing to have to seek alternative means of marketing their token and building and engaging with a
+community online.
+Page : 27
+
+We are already massively ahead of the game in this department, which we feel gives us a strong
+competitive edge over the competition in this area. Right from the initial launch of the CCRB token, we
+have used sophisticated affiliate marketing and network-building methods to market CCRB, and
+maximise the reach of the token to targeted users and potential investors.
+This means that we do not have to worry about the impending ban and restriction of the marketing of
+cryptocurrencies when it comes to extending the community of CCRB and continuing to increase the user
+base and reach of our tokens and the associated platform.
+Furthermore, because CCRB has been around for a while and there has been some part of the overall
+platform and ecosystem functioning for some time, we already have a significant number of advocates
+and champions of the CCRB token and platform that love what we are trying to do and are continuing to
+add their support to the project. For us, the FLASH Token Sale is just a way of massively increasing this
+existing reach and penetration into the market further, so that the CCRB project can develop faster and on
+a greater scale than was possible prior to the FLASH Token Sale.
+
+Page : 28
+
+THE TEAM
+
+CCRB platform (www.ccrb.io) was started back in October 2017 by the initiative of CEO Subash Manuel,
+who has been dedicated to developing and implementing the CCRB platform ever since. During that time,
+significant progress has been made by the team and many of the components of the CCRB ecosystem
+that were envisaged by back in 2017 have now reached the stage where they are either partially or fully
+functional on the website.
+Subash’s initiative continues to drive things forward in the present day, with further recent additions to the
+team who are dedicated and committed to continuing the development of the platform and adding the
+increased functionality and features that will realise his original vision of creating a platform that supports
+the most usable cryptocurrency in the world which redefines the whole concept of how people can spend,
+mine, and trade cryptocurrency.
+CCRB has assembled an expert management and support team with a diverse range of skills. Between
+them, the team has industry-specific knowledge in cryptocurrency, legal, blockchain and peer-to-peer
+technologies, payment processing, internet and digital marketing, customer service, and public relations.
+The management team have already achieved several important milestones since the formulation of
+CCRB back in October 2017, including development of several functioning elements of the ecosystem
+which have been successfully rolled out and tested in a live environment to ensure that they meet the
+standards required.
+To enhance the project, several key advisors and partners have been brought on-board to provide
+invaluable and independent advice and guidance within specific areas that are crucial to the success of the
+CCRB project. These include orderbook.io, CashbackApp, Selachii, Pinder Reaux and SwapHippo,
+who we continue to work with in order to achieve the overall team goal of creating the most uniquely
+usable cryptocurrency in the world.
+Page : 29
+
+Aside from the core team members, advisers and partners who are supporting the company and project,
+we also have an extensive list of large, internationally-recognised retailers, merchants and businesses that
+have come on-board on the platform and have also provided their support and blessing for what we are
+trying to achieve within the world of cryptocurrency and blockchain. Looking through the shopping platform that is linked to our cryptocurrency, you will see some of the biggest brands in the UK and beyond,
+such as Tesco, Costa, John Lewis, Debenhams and Century 21 - a testament to the fact that we have
+actively approached numerous partners and suppliers about the linked platform and ecosystem already,
+and they have seen the potential in what we are trying to do, and been suitably impressed enough by the
+vision and foresight of the company to put their name to the CCRB platform and project.
+Most of the team continue to work out of the company’s headquarters based in Canary Wharf, London,
+one of the true financial hubs of the world. There can surely be no more inspirational and aspirational
+place in which to develop the team’s mission of building a financial-based platform that has the potential
+to change the course of the cryptocurrency industry for good, and much for the better. include orderbook.io, cashbackApp and SwapHippo, who we continue to work with in order to achieve the overall team
+goal of creating the most uniquely usable cryptocurrency in the world.
+
+Subash George Manuel
+As a recognised expert and thought-leader within the cryptocurrency
+and blockchain technology space, and a successful serial
+entrepreneur, he has the potential to be a true game-changer for the
+entire cryptocurrency industry. Subash is involved with a multitude of
+companies, many of which rely on cutting-edge tech and innovation to
+carve out a niche within their respective marketplaces.
+One of Subash’s proudest moments was sharing the stage with renowned Ethereum founder and investor Vitalik Buterin back in December 2016 at the Blockchain India Summit, something which
+demonstrates the fact that he has been passionately involved in the
+cryptocurrency and blockchain movement long before the recent influx of new ICO’s and Token Sales swept the market, and seemingly almost every company in the world
+wanted to jump on the bandwagon and start their own ICO!
+As well as his numerous business interests primarily in the cryptocurrency and blockchain space, he is
+also an International Attorney and is dually qualified in both India and UK, and holds a Masters in Law and
+a QLTT from the Oxford Institute of Legal Practice.
+You can frequently connect with him at numerous industry events, where he is often invited to speak, and
+he has been involved in helping to organise and run a number of seminars on the legal aspects and future
+of the blockchain and cryptocurrency industries and technology, including being instrumental in the first
+ever Blockchain Summit in India during 2016.
+It is Subash’s innovative and dynamic thought-leadership that enables him to develop concepts and
+initiatives that have the power to change industries, and which have already earned him recognition for
+the work he has done within the crypto and blockchain space within recent years, and more specifically
+with the progress that he has already made in driving the entire CCRB project forward to it’s current point
+of development.
+
+Page : 30
+
+Core Team
+
+Robert Ferguson
+
+David McLean
+
+Akhil Anthony
+
+David Tainsh
+
+Sales Director
+
+Digtal Marketing
+
+Blockchain DBA
+
+Partnerships & Collaborations Manager
+
+Suresh Kamal
+
+Ajoy Baby
+
+Subin S Nair
+
+Amal Eappen
+
+Technical Lead
+
+IT Consultant
+
+Digital Marketing
+
+Project Manager
+
+Soumya S Nair
+
+Rachel Drennan
+
+Samantha Christacopoulos
+
+Mohit Kumar
+
+App Developer
+
+Community Manager
+
+Business Development
+
+Business Analyst
+
+Hari Govind
+
+Chandra Chaudhary
+
+Jose Matthew
+
+Daison Dixon
+
+Quality Analyst
+
+Finance Manager
+
+Operations Director
+
+Business Analyst
+
+Page : 31
+
+ROAD MAP
+
+Page : 35
+
+“CCRB already has an existing platform and ecosystem that is used by hundreds of thousands of
+people across almost every country in the world. Now we want millions of people from all over the world
+to experience and enjoy the benefits of our platform, maybe even billions (eventually)! This is not
+overly optimistic considering everyone in the world needs to shop, and the CCRB platform and
+ecosystem is designed to reward people for shopping whilst simultaneously using the unique and
+innovative power of cryptocurrency”.
+The following represents projected timings for the offering of the CCRB tokens and the overall
+development of the entire CCRB project, platform and ecosystem. Please note that the dates, whilst as
+accurate as we are able to provide at this time, are projected only and therefore may be affected by a large
+number of various factors both internally and externally, some of which may be completely beyond our
+control.
+
+Page : 36
+
+CONCLUSION
+
+We are convinced that both the cashback / loyalty rewards and cryptocurrency industries have a very
+bright future indeed and will go on to contribute directly to a major change in the spending habits of
+consumers all over the world.
+Our entire team is working hard to ensure that CCRB play a crucial role in this development moving forward, as we focus on providing a platform and ecosystem that will embrace and support this change and
+will also support and nurture some of the key innovation and thought-leadership that is required if this
+vision of consumer spending for the future is to be realised.
+We are committed and driven towards our mission and goal of bringing much greater levels of usability
+and practical application to cryptocurrency to users all over the world, and it fills us with great excitement
+to think about how cryptocurrency might positively impact the lives of billions of people all over the world
+in the next few years and beyond. This is a truly amazing time for innovation and technology, and in particular cryptocurrency and blockchain in recent years, which has already had such a dramatic impact on so
+many people’s lives and hopes and ambitions for the future. We are thrilled and honoured to be playing
+our part in something that we are so passionate about, and the desire to constantly improve and enhance
+the many ways in which cryptocurrency can benefit and help people is what drives us on every day as we
+continue to work hard to develop our CCRB platform. We hope it is a platform that will grow in every way
+that we want it to over the next few years, so that many more people can use what we have developed
+and built to enrich their lives and to make a significant contribution to enhancing their personal assets and
+increasing their wealth so that they can ultimately lead better lives!
+We would like to thank everyone who has supported us along the way so far, by both actively using the
+platform that has been developed to date, and by believing in what we are trying to achieve and having
+the vision and foresight to become involved in the very earliest stages of the project’s development. We
+couldn’t have come this far without them, although in reality - we are only really just getting started!
+Page : 37
+
+LEGAL DISCLAIMER
+
+This whitepaper does not constitute advice nor a recommendation by CCRB Platform (www.ccrb.io), it’s
+management, directors, employees, agents, advisers or consultants, or any other person to any recipient
+of this document on the merits of the participation in the FLASH Token Sale. Participation in the FLASH
+Token Sale carries risk and may involve special risks that could lead to a loss of all or a substantial portion
+of such an investment. Do not participate in the FLASH Token Sale unless you are prepared to lose the
+entire amount you allocated to purchasing CCRB Tokens.
+THIS WHITEPAPER, WEBSITE AND ALL INFORMATION, PRODUCTS AND SERVICES PROVIDED
+THROUGH THIS WEBSITE ARE PROVIDED “AS IS” AND ON AN “AS AVAILABLE” BASIS WITHOUT
+ANY REPRESENTATIONS, WARRANTIES, PROMISES OR GUARANTEES WHATSOEVER OF ANY
+KIND INCLUDING, WITHOUT LIMITATION, ANY REPRESENTATIONS, WARRANTIES, PROMISES
+OR GUARANTEES REGARDING THE ACCURACY, CURRENCY, COMPLETENESS, ADEQUACY,
+AVAILABILITY, SUITABILITY OR OPERATION OF THIS WEBSITE, ANY PRODUCTS OR SERVICES
+WE MAY PROVIDE THROUGH IT OR THE INFORMATION OR MATERIAL IT CONTAINS AND IS
+SUBJECT TO THE TERMS AND CONDITION AVAILABLE ON THE WEBSITE WWW.CCRB.IO.
+No promises of future performance or value are or will be made with respect to CCRB Tokens, including
+no promise of inherent value, no promise of continuing payments, and no guarantee that CCRB Tokens
+will hold any particular value. Unless prospective participants fully understand and accept the nature of
+CCRB and the potential risks inherent in CCRB Tokens, they should not participate in the FLASH Token
+Sale. CCRB Tokens are not being structured or sold as securities and no promises are attached. These
+are a (digital asset) with multiple utility both within and outside participating platforms from time to time.
+This whitepaper is not a prospectus or disclosure document and is not an offer to sell, nor the solicitation
+of any offer to buy any investment or financial instrument in any jurisdiction and should not be treated or
+relied upon as one. This whitepaper is for information only. All information here that is forward looking is
+Page : 38
+
+speculative in nature and may change in response to numerous outside forces, including technological
+innovations, regulatory factors, and/or currency fluctuations, including but not limited to the market value
+of cryptocurrencies.
+This whitepaper is for information purposes only and is subject to change. CCRB Platform cannot
+guarantee the accuracy of the statements made or conclusions reached in this document.
+This whitepaper contains forward-looking statements or information that relate to CCRB Platform’s
+current expectations and views of future events. CCRB Platform has based these forward-looking
+statements on its current expectations and projections about future events and financial trends that it
+believes may affect its financial condition, results of operations, business strategy, financial needs, or the
+results of the FLASHToken Sale or the value or price stability of the CCRB Tokens.
+In addition to statements relating to the matters set out here, this whitepaper contains forward looking
+statements related to CCRB Platform’s proposed operating model. The model speaks to its objectives only,
+and is not a forecast, projection or prediction of future results of operations.
+Forward-looking statements are based on certain assumptions and analysis made by CCRB Team in light
+of its experience and perception of historical trends, current conditions and expected future developments
+and other factors it believes are appropriate and are subject to risks and uncertainties. Although the
+forward-looking statements contained in this whitepaper are based upon what CCRB Team believes are
+reasonable assumptions, these risks, uncertainties, assumptions, and other factors could cause CCRB
+Token’s and CCRB Platform’s actual results, performance, achievements, and experience to differ materially
+from its expectations expressed, implied, or perceived in forward-looking statements.
+Given such risks, prospective participants in a FLASH Token Sale should not place undue reliance on
+these forward-looking statements.
+CCRB Platform and Team undertakes no obligation to update any forward-looking statement to
+reflect events or circumstances after the date of this whitepaper.
+*Visit full terms and condition which is available on www.ccrb.io
+
+Page : 39
+
+Page : 40
+
+

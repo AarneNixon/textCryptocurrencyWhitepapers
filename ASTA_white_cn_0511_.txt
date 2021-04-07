@@ -1,0 +1,1060 @@
+The Global Practical Payment Platform
+White Paper (ENG)
+Dec. 2020
+
+The ASTA Platform is designed as a virtual asset-based payment platform, can be used in the real life, to simplify the
+payment process and reduce costs by using blockchain technology overcome the limitations of the existing payment
+solution system for virtual assets. Furthermore, by implementing various ecosystems such as online shopping,
+accommodation, medical care, tourism and by business expansion, the business model of ASTA Platform will be designed
+based on participants’ convenience and applicability. In the future, ASTA Platform strives to leap forward as a global
+platform company by actively enhancing the utility for more participants and easy access.
+
+Version 2.2.0
+
+The Global Practical Payment Platform
+
+CONTENTS
+
+1. Abstract
+
+3
+
+2. ASTA Platform Model
+
+4
+
+3. ASTA Platform Technical Architecture
+
+12
+
+4. ASTA Platform Expansion
+
+20
+
+5. ASTA Distribution
+
+22
+
+6. Team & Advisor
+
+24
+
+7. Road Map
+
+25
+
+8. Conclusion
+
+26
+
+9. Legal Disclaimer
+
+27
+
+The Global Practical Payment Platform
+
+1. Abstract
+The economic definition of money is generally accepted as the medium of exchange, the unit of account, and the store
+of value. The legal tender we use nowadays meets all these three requirements and therefore, we can use it as money
+in real life. With legal tenders issued by central banks around the world, we use them to buy goods, to value goods and
+to make savings. However, the blockchain, the core technology of the 4th industrial revolution, ensures the security of
+the personal transaction (P2P) without the present of the authorized third party by sharing the transaction information
+in real time by all nodes participating in the network. The financial sector would be the industry to effectively utilize the
+blockchain technology. Even in the 5G era, overseas remittance usually takes 2-3 days through SWIFT nowadays.
+Moreover, there would be compulsory transaction fee to pay through credit card or PG companies when purchasing
+any product.
+With the blockchain technology, overseas remittances can be averagely completed within 10 minutes and the
+transaction fee can also be significantly reduced. This would cause a great impact on the financial industry. In addition,
+the transaction time can be greatly reduced as well. Applying the blockchain technology to the payment solution can
+greatly reduce the fee caused and the time needed, however, there are still limitations. Given that the price of the token
+is fluctuated at the real-time market, if the technology is applied to the daily payment in real life, the blockchain-based
+payment solution platform should overcome the limitations at the same time.
+The world’s largest digital giants such as Google, Amazon have dominated the market in different industries such
+as retail and wholesale, advertising and content industry, and the platform business model is gaining more attention.
+Being one of the leading companies, Amazon starting from ecommerce platform expands its business to various fields.
+While Google with its core business as Internet search engine, has further dominated various platforms ranging from
+streaming platform, YouTube to mobile operating system, Android. Like these successful companies, ASTA Platform
+strives to expand the business and to become an interactive platform facilitating the users.
+Therefore, the ASTA Platform is designed as a virtual asset-based payment platform to be used in the real life, simplify
+the payment process and reduce costs by using blockchain technology overcome the limitations of the existing payment
+solution system for virtual assets. Furthermore, by expanding our business network in various sectors such as online
+shopping, accommodation, medical care, tourism, various ecosystems are implemented. We aim to design a business
+model to incorporate the convenience and applicability of the participants.
+Our team are developing and researching the scalability that can increase the value of the platform exponentially by
+creating a diverse ecosystem where many participants can easily use the ASTA Platform in daily life. In the future, ASTA
+Platform strives to leap forward as a global platform company by actively enhancing the utility for more participants and
+easy access.
+
+Platform
+
+3
+
+The Global Practical Payment Platform
+
+2. ASTA Platform Model
+2.1 Limitations of traditional payment systems
+There are different ways to perform a transaction like paying through cash, credit card or recently, through mobile
+payment. However, all the transactions have to be performed under a trusted authority and the fee charged per
+transaction actually is the fee to cover the operation cost of the intermediate authority like the VAN and card company.
+The transaction has been transformed into a way to enhance the consumer benefits such as lowering the transaction
+fee. The recent development of the mobile and internet and the expansion of E-commerce have also accelerated the
+direction the evolution of the transaction methods.
+However, the current fee rate collected through the mobile payment is at an average of 3.5%, which is higher than the 2%
+of the general credit card companies. The payment method has become more convenient for the consumer however,
+the existence of the intermediate authority has inevitably increased the extra fee. The economic burden has switched to
+consumers which goes against the initial objective of developing a payment method to enhance consumer welfare.
+The ASTA Platform eliminates the present of the intermediate authority by applying blockchain technology by publicly
+sharing and verifying data to reduce the overall cost and transaction fee. As a result, it is still convenient for the users to
+process the payment and credit transaction through ASTA Platform but with a relatively low transaction fee.
+In addition, the ASTA Platform is to provide a convenient and fast payment service for the transaction of all digital assets
+including ASTA anytime, anywhere and it will become a payment system compatible with all the economic systems in
+all industries.
+
+[Figure 1] Credit card approval and payment procedure
+
+Platform
+
+4
+
+The Global Practical Payment Platform
+
+2.1 ASTA Platform model
+The ASTA Platform is a platform built for market expansion and everyday transactions and it will develop to a platform
+that can be used globally and anywhere using ASTA.
+The ASTA Platform is designed not only to enhance the convenience of the consumers but also to make sure ASTA to
+become a global currency. By using the Multi-Swap technology, ASTA is designed to be exchanged mutually not only
+between the stablecoins relative to the world’s major currency but also with the major cryptocurrency such as BTC and ETH.
+Users can purchase ASTA, obtain investment profit through investment and to purchase goods and service by using
+ASTA. In other words, ASTA can be regarded as a currency which can be used for saving and payment.
+
+[Figure 2] ASTA Platform Model
+
+Platform
+
+5
+
+The Global Practical Payment Platform
+
+2.3 Features of the ASTA Platform
+| Utility & Usability
+Many other cryptocurrencies have attempted to totally substitute the fiat currency by implementing the blockchain
+technology. However, to stand out from the crowd and being different from them, the ASTA Platform is going to focus
+on the actual usability of the ASTA token.
+
+| Asset
+The ASTA Platform builds an ecosystem based on practicality and usability which guarantees the value of ASTA as an
+asset and maintains its value just like gold. It serves as a function of asset within the ASTA Platform.
+
+| Expansion Availability
+The characteristics of ASTA Platform allows it to be applied to all the platforms from different industries so that ASTA
+can be used not only on the existing platform but also on the other platforms of different industries. Therefore, the
+continuous extension of business network widens the scope of application of ASTA infinitely.
+ The money widely used nowadays is recognized as a safe asset for its future value and as a reserve currency. By
+creating continuous demand and value increment, ASTA aims to function as a safe asset for the users who want to
+use a new currency.
+
+[Figure 3] ASTA Platform Features
+
+Platform
+
+6
+
+The Global Practical Payment Platform
+
+2.4 Multi-platform Expansion of ASTA Platform
+A platform generally refers to a technology and framework allowing various activities carried out by different economic
+agents. According to Eisenmann et al., a platform business model is defined to be a combination of infrastructures and
+rules to facilitate exchange and interaction of the individuals within the network.[1] While Parker and Van Alstyne stated
+that platform is a published standard, together with the operation method and rules.[2]
+Building on this definition, a business model can be built by allowing the participation of the third party. Big enterprises
+such as Amazon and Google have dominated the market in different industries such as retail and wholesale, advertising
+and content industry, etc. and they have become the major companies leading the global economy benefited from the
+ripple effect of social networking. The survey conducted by Statista in 2014 reported that 9 out of the top 10 startups
+with high evaluation are the new platform businesses including Uber and Airbnb. While Naver and Kakao also are very
+popular in the Korean society. This reflects the great potential of platform business in the growing digital society.
+According to the World Economic Forum, the market capitalization of the top 242 digital platforms reached $7.176
+trillion by the end of 2018 while it is predicted that by 2025 the value generated by the digital platforms would reach $60
+trillion (6,620 trillion KRW), accounting for 30% of the total global corporate sales. In addition, 60%-70% of the value
+of digital economy generated in the next 10 years would be come from the data-based digital networks and platforms.
+The development of Fourth Industrial Revolution technologies such as artificial intelligence (AI), Internet of Things (IoT),
+cloud computing, and 5G expectedly further increases the influence and dominance of the digital platform. Under this
+premise, ASTA Platform strives to become the center of the platform economy.
+We aim to increase the value of ASTA by increasing the number of users while to expand our business model and build
+an ecosystem by increasing the value of the ASTA Platform.
+Platform business model generates revenue by operating as a medium connecting the interested participants.
+Expanding the network of participants enables more collaboration opportunities and value increase, and hence
+facilitates the sustainable business growth. Profit will be generated through the interaction between the participants.
+Therefore, with the increase in the number of participants, the transaction and operation costs per person are reduced,
+the interaction between the consumer and providers would be maximized and hence the utility increase.
+
+[1] McAfee, R.P., H.M. Mialon, and M.A. Williams, "What is a barrier to entry?," SSRN Working Paper No. 594601, 2003.
+[2] Reddy, B., D. Evans, A. Nichols, and R. Schmalensee, "A Monopolist would still charge more for Windows : A Comment on Werden,"
+Review of Industrial Organization, Vol.18, No.3(2001), pp.263-268.
+
+Platform
+
+7
+
+The Global Practical Payment Platform
+
+[Figure 4] Supply-Demand Equilibrium in ASTA Platform
+The marginal cost at the equilibrium is generally higher than the average cost at the equilibrium as shown in Figure 4.
+As the number of users at the equilibrium increases, an additional cost is required to increase the demand of the users
+of ASTA Platform,
+Most of the companies adopt the conventional business system called ‘pipeline’. Different from platform, pipeline
+firms create value by optimizing an entire chain of product activities through an established business process or
+flowchart. Producers would be at one end of the chain, designing products or services, manufacturing and selling to
+the consumers on the other end. Due to the linear process, pipeline business model is also called linear value chain.
+Nowadays, while more and more companies are transitioning from pipeline to platform business model, the relationship
+among the participants become more complicated and more different forms of value are generated.
+
+Platform
+
+8
+
+The Global Practical Payment Platform
+
+To compose the ASTA Platform, our professional team is going all-out to develop a strategy to increase the society
+equilibrium while minimize the user equilibrium.
+As a result, ASTA Platform aims to create social equilibrium so that it can be applied to various platforms but not only
+limited to travel, music, resort affiliate partnership, healthcare, payment and global advertising platforms.
+Our team plans to realize social equilibrium by using a positive policy by offering discount within the platform so that
+participants who use ASTA can be given practical benefits.
+However, it is also true the regulation of cryptocurrency and digital asset is still in doubt.
+To address the problem of the ASTA Platform such as project improperly processed or many negative factors occurred
+during the application of the cryptocurrency payment system, the ecosystem of ASTA Platform is configured to increase
+the value of ASTA by offering benefits to the participants who contribute to the network through ASTA payment.
+ASTA Platform expands with the increase value of ASTA. While the participants paying with ASTA in daily life greatly
+contributes to the increase of ASTA value.
+
+Platform
+
+9
+
+The Global Practical Payment Platform
+
+2.5 Eco-Economy of ASTA Platform
+
+[Figure 5] Eco-Economy
+
+| Step 1: Expanding the platform affiliate network
+Transaction with low transaction fee (almost 0%) can be done on ASTA Platform so that out affiliate partners
+(merchants) can reduce the cost and increase their profit. Therefore, the more online and offline merchants participate
+in our network, the more revenue they bring to ASTA Platform.
+
+| Step 2: Growing the user base
+U
+ sers have to purchase ASTA before using it on our affiliated partners’ platforms. It the network continuous to extend,
+under favorable conditions, it is expected that users will increase accordingly.
+While fore investors, they can purchase ASTA for income investing which might also lead to an increase in ASTA
+value. Where there are more people using the platform, the ASTA Alliance can collect and accumulate the date.
+Different marketing strategies or reward events can be planned by using the big data analytics to increase the user
+base.
+
+Platform
+
+10
+
+The Global Practical Payment Platform
+
+| Step 3: Expanding the platform
+The revenue generated will be invested and used for the platform expansion. We are now constructing a business
+model including companies from various industries, for example, online travel agencies, global music streaming
+platforms, leading medical technology companies from healthcare sector, the big data, crowdfunding and P2P
+platforms recommended by the 2020 industry analysis.
+
+| Step 4: Platform cycle
+By reinvesting the income generated, limitless payment system and a new business platform can be built, and the
+ecosystem can be expanded. With this ecosystem, a system model generating its own profit can be built up to attract
+more new users to join. With the increasing demand, the value of the ASTA Platform will keep increasing as well.
+Based on the cycle of user participation-inflowexpansion, ASTA Platform will be under gradual development.
+
+[Figure 6] ASTA Platform Value Chain
+
+Platform
+
+11
+
+The Global Practical Payment Platform
+
+3. ASTA Platform Technical Architecture
+3.1 Implementation of ASTA Platform using blockchain technology
+Blockchain technology replicates and shares the transaction record to all users without any central institution or
+management using computer programs. Therefore, blockchain, also called Distributed Ledgers Technology, can monitor
+and prevent double spending of currency.
+Blockchain relies on algorithm, which is also called consensus or consensus algorithm, to achieve agreement from
+multiple participants. The consensus refers to the method of how to verify and confirm the new block produced in the
+blockchain network.
+When a new block generated in the blockchain, it will connect to the previous block. The incoming block header will be
+examined, and the node will look for the previous block hash.
+If the hash is generated successfully, a new block will be created and will be added to the existing blockchain. However,
+generating a hash value equivalent to the hash of the new block is a difficult process. It requires numerous attempts
+since the hash value of the new block should meet the criteria which must be less than the target hash specified by the
+program.
+For example, if the target hash value is 00ff32 and the hash value of the new block is 12fa3b, the block creation will be
+failed because the value of the block (the block header) is larger than the target value. However, if the newly generated
+hash value is 00c3b1, the new block will be added to the chain successfully since the hash value found is smaller than
+the target one.
+Although the hash value of the previous block has already fixed, given that the nonce (number only used once) can be
+varied, the hash value generated will be changed according to the algorithm calculation.
+The hash value will be totally different when the nonce changes. The nonce has to be changed, tested for countless
+times and input into the block. Only when the hash value of the new block is smaller than the target hash, a new block
+will be added. This process is called Proof of Work(PoW) and is also adopted by the ASTA Platform. In addition, ASTA is
+a P2P platform with no central organization or institution required for the transaction process, record and management.
+The data can be maintained by the collaboration of the participants in the network.
+
+Platform
+
+12
+
+The Global Practical Payment Platform
+
+By applying blockchain technology, it is not necessary to have central authority for managing the information in ASTA
+Platform. All the transaction data will be distributed and shared by all the participants on the blockchain network while it
+is also difficult to forge the data recorded on the blockchain by hackers.
+The contents of the recorded blockchain data are converted by a hash function and stored in an encrypted form.
+If there is an internal or external hack to the system and the hacker forges or alters the data, the hash value of
+the corresponding block will be changed as well.
+In blockchain system, even if one Korean character is changed, a completely different hash value is generated.
+Therefore, it is almost impossible to change/delete/add data without the knowledge of others. Moreover, since the data
+is managed in a hash tree structure, it is possible to identify which data has been forged or altered in any locations.
+In addition, to use ASTA service, user has to complete the verification through the protocol wallet app (both iOS and
+Android). User also has to provide additional information according to the international KYC (identity verification) and
+AML(Anti-Money Laundering) compliance. Through this process, any malicious users can be tracked and detected
+immediately.
+The ASTA Platform aims to build a platform with reliable technology based on the abovementioned technical security
+measures.
+
+[Figure 7] ASTA Platform Service Architecture
+
+Platform
+
+13
+
+The Global Practical Payment Platform
+
+3.2 ASTA Platform technology
+Service
+Application
+Application
+Layer
+API
+Layer
+Service
+Layer
+Data
+Layer
+
+ASTA Wallet
+
+Payment Gateway Service
+
+Web Application
+Auth
+Merchant
+Management
+
+Payment Method
+Management
+
+Mobile Application
+
+OPEN API Service
+
+CRM
+
+Token Management
+
+Approval & Limit
+Management
+
+Settlement
+Management
+
+RDB
+
+Stats
+
+Channel
+Management
+
+Blockchain
+
+Instance
+Management
+
+Smart Contract
+
+[Figure 8] ASTA Platform System Architecture
+
+| HCI (Hyper Converged Infrastructure)
+The ASTA Platform is configured to have greater ability to scale. Therefore, the ASTA Platform deploys the unified
+and integrated infrastructure, Hyper Converged Infrastructure (HCI) to increase scalability without compromising the
+stability of the system.
+
+| FGBMF (Front Grid Backend Multi Flexing)
+Using a single node in the blockchain network would be have limitations on the processing operation and transaction
+speed. Transaction delay and higher network fees could be resulted.
+Therefore, it is crucial to overcome those limitations. FGBMF applied to the ASTA Platform is a technology that allows
+an intuitive approach to be accessed from the outside and connected flexibly to a multiplexing system inside to ensure
+a stable and accurate processing of blockchain technology and security enhancement.
+
+Platform
+
+14
+
+The Global Practical Payment Platform
+
+[Figure 9] ASTA Platform Network
+
+| Multi-Swap
+One of the most important things in a multi-blockchain environment is the data exchange technology between
+blockchains. Most of the blockchain technology is developed without considering the interworking between multiple
+blockchains and it becomes a problem when the blockchain expands to other areas. Therefore, considering the
+transaction type and convenience of the ASTA Platform users, we plan to realize the mutual exchange and utilization
+of the major coins (BTC, ETH, stablecoins, etc.) with the virtual assets owned in the ASTA Platform without going
+through the exchanges.
+
+| Half-Private Block-Chain
+The ASTA Platform will not disclose user's personal information without the request by the government nor the internal
+decision of the company to ensure the security of the personal asset and the asset used in the real life. This is also a
+feature of the ASTA Platform to prevent any misappropriation of personal information.
+
+[Figure 10] ASTA Platform Multi-Swap
+
+Platform
+
+15
+
+The Global Practical Payment Platform
+
+3.3 Increase ASTA value with the expansion of ASTA Platform
+The ecosystem of ASTA Platform is constructed to provide various benefit based on the token economy to the
+participants who pay with ASTA on different affiliate platforms such as travel, music, resort affiliate partnership,
+healthcare, payment and global advertising platform and to earn and build customer loyalty to ASTA Platform.
+In other word, ASTA Platform is a revenue and business sharing ecosystem converging not only various services
+applying different business models, but also the consumers of ASTA Platform and the ASTA token holders as well.
+The more services provided by the ASTA Platform, the more participants joining the ecosystem and the revenue and
+value of ecosystem shared increases coordinately. This is similar to the theory of platform business models which
+create value by facilitating exchanges between more participants.
+
+fn refers to the individual platform where participants can use ASTA for travelling, music streaming, resort reservation,
+healthcare service, etc. while x n refers to the participants of the ecosystem.
+
+Assuming f 1 x 1 is travel platform and f 2 x 2 is music streaming platform, then f n x n represents various platforms.
+Therefore, with higher usage of the ecosystem of ASTA Platform, the network value increases in proportion to the
+number of users.
+The value of the company increases in proportion to the number of participants. Therefore, the value created by the
+platform-based company is expected to be increase exponentially as more users join the ecosystem.
+
+Platform
+
+16
+
+The Global Practical Payment Platform
+
+3.4 Strategies to increase the ASTA Platform value
+Sarnoff’s Law
+
+Metcalfe’s Law
+
+Reed’s Law
+
+V=n
+
+V = n2
+
+V = 2n
+
+The value of the network increase
+to the square of the number of users
+in the network.
+
+The value of the network (V)
+increases in direct proportion
+to the size of the network(n).
+
+Z
+
+Networks may grow proportionally
+to the network size but there are
+forming groups that scale faster in
+value than others (because of
+influence or interconnectedness).
+
+V=n Sarnoff’s Law
+
+Participation
+3rd Party의
+of 3rd aparty
+확장
+
+V=n2 Metcalfe’s Law
+V=2n Reed’s Law
+
+X
+
+Y
+
+Emergence
+플랫폼의
+창발성
+(Emergence)
+
+플랫폼의
+크기
+Size
+of platform
+
+(참여자
+수)
+(number
+of participants)
+
+[Figure 11] Platform Business Model
+Network effect plays an important role in ASTA Platform where the larger the network size, the higher network value
+created. If ASTA is highly utilized and can be used in payments in everyday life such as travelling, music streaming,
+healthcare service, etc., more people are incentivized to adopt our payment system since the network becomes more
+valuable. If ASTA Platform can take the lead in the cryptocurrency payment service by converging the blockchain
+technology to the platform, according to the theory of the Positive Feedback Effect, then we will have an edge over
+other companies in the industry.
+
+Platform
+
+17
+
+The Global Practical Payment Platform
+
+While there have been many approaches trying to explain the phenomenon of the increase in network value by using
+the Sarnoff’s Law, Metcalfe’s Law and Reed's Law. While in 2008, the Office of Strategic R&D Planning of Korea also
+pointed out that the proportional relationship between the number of participants and the scalability of the platform also
+exist on the big databased platforms in the bio-health industry.
+Sarnoff ’s Law suggests that the network value increases in direct proportion to the size of the network (V = n ). While
+Metcalfe’s Law states the cost of the network grows linearly with the network size, the network value grows in proportion
+to the square of the number of users on the network (V = n 2)A small change results in a larger difference. Reed’s Law
+emphasizes the concept of ‘group’ and increate in value a rate of 2n, where
+
+n
+
+is the total number of participants in
+
+the network. All the three laws conclude that the growth of a network increases may exponentially increase its value.
+By applying these laws, ASTA Platform aims to continuously increase its value by collaborating with various business
+models.
+The actual value of the platform is determined by the size of the platform, its emergence and the participation of the
+rd
+
+3 party. The platform size depends on the number of participants in the ASTA ecosystem. Emergence is a concept
+of formation of collective behaviors. For example, it is difficult for an individual alone to build a house while a selforganizing group of people can easily build a large house. Platforms such as Facebook and Google have successfully
+secured 3rd parties and created values beyond expectations through emergence and self-organization. The value of
+the ASTA Platform is also expected to expand based on these three factors.
+When ASTA can be used and applied on more platforms, the same-side network effect can occur. For example,
+the more friends you have in your network, the more likely you are to attract additional friends through your friends’
+connection. Cross-side effect occurs when more developers join ASTA Platform, the higher is users’ benefit. Value
+creation and value capture can be both possible on ASTA Platform by the network effect. As the number of users
+increases, the diversity of content also increases and attracts more users. Therefore, ASTA Platform is designed to
+achieve strong network effect.
+
+Platform
+
+18
+
+The Global Practical Payment Platform
+
+3.5 Business Model of ASTA Platform
+Most of platform businesses show the phenomenon of winner-takes-all, due to the network effect, a small number
+of platform companies to receives most of the market revenue. Network effect is also referred as Snowball effect, a
+phenomenon describing the multiplication effect, which is metaphorically rolling of a snowball down a snow-covered
+hillside and gaining more mass as it rolls along. The attractiveness and strength of the platform increases as the
+number of participants increases, which effectively explains the characteristics of the rapid expansion of the platform by
+attracting other participants.
+The ecosystem of ASTA Platform is constructed to provide various benefit based on the token economy to the
+participants who pay with ASTA on different affiliate platforms such as travel, music, resort affiliate partnership,
+healthcare, payment and global advertising platform and to earn and build customer loyalty to ASTA Platform.
+ASTA Platform is designed to be a platform which can be benefited from both the direct network effect and indirect
+network effect. Direct network effect refers to a phenomenon in which the value of the platform increases exponentially
+with the number of the participants, regardless of producers or consumers. It means the strength of one side has an
+impact on its growth. For example, when the number of users and the benefit of ASTA ecosystem increases, it is easier
+for the people outside the system to know about ASTA by their connection’s recommendation. Therefore, the possibility
+of ASTA Platform gaining more users increases. While indirect network effect occurs between members of two or more
+user groups. The platform value increases when there is an increase of one side, either suppliers or consumers, there
+will be impact on the other side. For example, if ASTA Platform collaborates with large companies with good reputation,
+then more users are willing to join our platform, which will attract more business partners to join us as well.
+
+Platform
+
+19
+
+The Global Practical Payment Platform
+
+4. ASTA Platform Expansion
+
+[Figure 12] ASTA Platform Expansion
+
+| Building travel platform and establishing partnership
+We are going to build an online travel platform where users can purchase a wide variety of travel products with ASTA.
+The platform will provide benefits to our affiliate partners and attractive discounts and rewards to local and foreign
+users for using ASTA payment. By using blockchain technology, we would like to establish a platform with high-quality
+to enhance the convenience, improve the management transparency, provide customer infrastructure for affiliates and
+provide a payment system without central authority.
+
+| Partnership with Music streaming platform
+ASTA can be used within the music platform and for purchasing music which can offset part of the transaction fee
+produced within the process and causes deflation in ASTA. Users have to pay with ASTA for obtaining the copyright
+license. It would further stabilize the ASTA Platform in the long term.
+
+Platform
+
+20
+
+The Global Practical Payment Platform
+
+| Partnership with resorts
+We have signed partnership with local and overseas hotel/resort to ensure the ASTA holders can enjoy the same
+benefits and discount as having the membership of condominium, golf course, hotel and resort.
+
+| Application of payment platform
+Through the offline wallet payment system, payments can be made offline immediately in hair salons, cafes, fast
+food restaurant and laundromat. Furthermore, it will provide more benefit and discount to the users than the existing
+payment system.
+
+| Partnership with healthcare platform
+Cooperated with the advanced Korean healthcare management platforms and to attract more global users, ASTA can
+be used to pay for medical treatment, plastic surgery or medical travel to reduce the high exchange fee for the users.
+
+| As a global advertising platform
+The advertisers will pay with ASTA for advertising on major channels or social media. ASTA will be the role of a
+middleman and discloses the amount received from the advertisers and that paid to the media. The automatic process
+greatly minimizes the handling fee. In addition, ASTA providing its own browser or content platform where both
+advertiser and user can charge and collect handling fee through ASTA system, aims to become a global advertising
+platform in the future.
+By developing more service in different business areas, the value of ASTA can be greatly increased and a new
+platform can be implemented. ASTA strives to lead the blockchain-based payment service.
+
+[Figure 13] ASTA Platform Reward
+
+Platform
+
+21
+
+The Global Practical Payment Platform
+
+5. ASTA Distribution
+The final goal of ASTA Platform is to implement an ecosystem based on ASTA and to become a borderless payment
+service available for people around the world and can be used anytime and anywhere without inconvenience. To this
+end, ASTA Platform aims to ensure that all network participants including platform users and strategic alliance partners
+to share more benefits.
+ASTA Platform will also expand the ecosystem so that participants can gain benefit from just participating in the
+network. We strive to establish a global payment method to be used anywhere in the world without currency exchange.
+
+Sort
+
+Content
+
+Project Name
+
+ASTA
+
+Symbol
+
+ASTA
+
+Volume
+
+3,000,000,000 ASTA
+
+[Table 1] ASTA Information
+
+ASTA Platform has issued a total of 3,000,000,000 ASTA to be used in the platform, and it is unlocked in sequence
+according to the ASTA Platform’s roadmap.
+
+Items
+
+Percentage
+
+1
+
+Private Sale
+
+15.00%
+
+2
+
+Managed by Foundation
+
+20.00%
+
+3
+
+Marketing & User Incentive
+
+30.00%
+
+4
+
+Team & Advisor
+
+5.00%
+
+5
+
+Strategic Partnership
+
+20.00%
+
+6
+
+Reserve Fund
+
+10.00%
+
+[Table 2] ASTA Token Distribution
+
+Platform
+
+22
+
+The Global Practical Payment Platform
+
+For the scalability of ASTA Platform, the appropriate quantity and duration must be unlocked. In addition, ASTA will
+be controlled timely depending on market situation to prevent from being distributed beyond necessity in the market
+and losing its value as the payment method. The following is the plan for unlocking the quantity of ASTA that has been
+locked up for the purpose.
+
+| Managed by Foundation : 2 years Lock up
+For the operation of ASTA Foundation with a compulsory lock-up period of 2 years.
+It will be unlocked sequentially every month for 24 months after the lock-up period (2 years).
+
+| Team & Advisor : 2 year Lock up
+For distribution to the ASTA Team, Founder and Advisor, etc. with a compulsory lock-up period of 2 year.
+It will be unlocked sequentially every month for 12 months after the lock-up period (2 year).
+
+| Strategic Partnership : 2 year Lock up
+For distribution to the current ASTA affiliate partners or those joined in the future with a compulsory lock-up
+period of 2 year.
+It will be unlocked sequentially every month for 12 months after the lock-up period (2 year).
+※ The lock-up period and time schedule for unlocking may be changed or extended due to the market.
+
+Platform
+
+23
+
+The Global Practical Payment Platform
+
+6. Team & Advisor
+The developers of ASTA Platform include talented people with various nationality from prestigious universities in
+Korea and abroad, as well as blockchain and artificial intelligence developers and professors of computer engineering.
+Moreover, ASTA has grown with the help of many others and is still growing. The advisors who participated in the
+project are as follows, and the company still expects to serve many advisors in the future.
+
+Classification
+
+Position
+
+Name
+
+CTO
+
+Project Managing Director
+
+Ok Sun Ho
+
+Developer
+
+Technical Development Director
+
+Kim Seong Kyun
+
+Developer
+
+Blockchain / Mining
+
+Batbayar Khandish
+
+Developer
+
+Blockchain / Wallet
+
+Jin Seong Jae
+
+Developer
+
+Back-End / Data Architect / Big Data
+
+Yoo Hyo Sang
+
+Developer
+
+Back-End / api Service
+
+Javkhlan Gansukh
+
+Developer
+
+Front-End / Payment and Wallet Service L
+
+Lee Tae Kwang
+
+Developer
+
+Front-End
+
+Oh Eui Seob
+
+Developer
+
+iOS Application
+
+Park Hee Won
+
+Developer
+
+Android Application
+
+Lee Won Seok
+
+Developer
+
+Design / UI / UX
+
+Zolzaya
+Lkhagvasuren
+
+Developer
+
+System and Service Security
+
+Ulziitamir Davaadorj
+
+Developer
+
+System Operation / Blockchain Node
+
+Jeong Ji Yong
+
+Developer
+
+System Operation / Service Infrastructure
+
+Kim Tae Kyun
+
+[Table 3] ASTA Team & Advisor
+
+Platform
+
+24
+
+The Global Practical Payment Platform
+
+7. Road Map
+2017 3Q
+- Initiate developing the project for real-life virtual asset platform
+
+2018 2Q
+- Establish a prototype
+
+2019 1Q
+- Strategic alliance with KDAX exchange
+- Establish Mainnet and Alpha type
+- Complete developing Wallet 1.0v and Distribute
+- The first official release
+
+2019 4Q
+- Change CI as ASTA
+- Implement Stable Coin Inter-working System
+
+2020 1Q
+- Expand the linked business affiliation
+- Complete developing Wallet 2.0v and Distribute
+
+2020 2Q
+- Launch business affiliation of ASTA Platform
+- Develop affiliated business App and Payment Solution
+
+2020 3Q
+- Interconnect the Wallet and Ecosystem through collaboration with exchanges
+
+2020 4Q
+- Construct cryptocurrency payment system
+- Opening of travel/ accommodation platform, ASTA TOUR
+
+2021 1Q
+- Finalize ASTA Wallet 3.0 and start distribution
+- Launch THE ASTA (mobile E-commerce platform)
+
+2021 2Q
+- Develop the multi-swap function of ASTA Wallet
+
+2021 3Q
+- Expansion of THE ASTA Affiliates (car rental, flight ticket)
+- Establish ASTA ALLIANCE 1st group
+
+2021 4Q
+- Launch the payment system of ASTA Wallet
+- Establish ASTA ALLIANCE 2nd group
+
+[Figure 14] ASTA Platform Road Map
+
+Platform
+
+25
+
+The Global Practical Payment Platform
+
+8. Conclusion
+ASTA Platform is a new virtual asset-based payment platform designed as a differentiated strategy to overcome various
+limitations that virtual assets face in real life and secure reliability by applying blockchain technology to existing payment
+methods such as cash, credit card companies, PG companies and Pay.
+ASTA also pursue to implement a multiplexed ecosystem by expanding its business areas through ASTA Platform.
+In order to implement the ecosystem, the company is moving forward to form a platform that links industries, joining
+hands with partners in various fields such as shopping, accommodation, medical care and tourism. It also forms various
+marketing platforms that can be linked to ASTA ecosystem and captures convenience and application together in the
+business model for the gradual and infinite increase of platform participants.
+The goal of ASTA Platform is to provide an opportunity as offering payment system for affiliates to gain market
+competitiveness by significantly lowering the fees of existing credit card issuers and PG companies. In addition, the
+platform has a purpose to create an ecosystem that benefits users by providing virtual assets available at all merchants
+around the world as well as eliminating inconvenience in exchange rates.
+For the optimization of ASTA Platform, our professional project team are contemplating and researching the strategy to
+establish ASTA ecosystem in various fields and to maximize platform’s optimization. When the number of users and use
+of ASTA Platform increases, more and more users will join our platform. ASTA Platform endeavors to lead the digital
+asset payment service development and aims at accelerating the exponential expansion of the platform by applying the
+theory of network effect.
+
+Platform
+
+26
+
+The Global Practical Payment Platform
+
+9. Legal Disclaimer
+The ASTA Platform is planning and implementing improved services that can directly and indirectly affect people's lives.
+Therefore, this white paper purposes reference for those who would express their interest and sympathy in these social
+issues.
+The reason of writing this white paper is to share the purpose and technical orientation of ASTA Platform at the time
+of writing, and it is NOT TO ENCOURAGE INVESTMENT in ASTA team or ASTA Platform Therefore, the information
+including the business operation and financial status of Korfin Holdings Co., Ltd. (hereinafter “the Company") may be
+changed, and this white paper or website may be changed or deleted frequently.
+The content of this white paper DOES NOT RESTRICT the Company operating ASTA Platform and is subject to change
+in accordance with the ongoing research and development of ASTA Platform. This white paper DOES NOT TO INTEND
+TO PROVIDE ADVICE ON INVESTMENT, LEGAL REGULATION OR FINANCE OR ACCOUNTING, nor does it imply
+an intention to provide criteria for assessing virtual assets. It is also clear that NO PART OF THIS WHITE PAPER IS
+NOT AIMED TO CONTAIN THE INTENTION OF RECOMMENDATION.
+This white paper contains forward-looking information about projects or future business prospects. These statements
+are not historical facts and can be identified by words "will", "forecast", "expect", "plan", "predict", or similar. These
+forward-looking statements are also included in presentations, interviews, videos and other publicly available materials.
+This white paper includes the future, expected achievements, or achievements of the Company and its Affiliates. The
+statement of future expectations includes a variety of risks and uncertainties. This statement does not guarantee future
+performance and it SHOULD NOT BE OVER-DEPENDENT. The actual performance and progress of the Company or
+its Affiliates may differ from the expectations set by the forward-looking statement.
+CUSTOMER SHALL BE SOLELY RESPONSIBLE FOR ANY INVESTMENT THAT ARISES AMID THE ABSENCE OF
+A FORWARD-LOOKING STATEMENT BASED ON FORWARD-LOOKING INFORMATION OBTAINED FROM THE
+Company's or its Affiliates' websites or other materials produced by its affiliates.
+Loss or damage of information related to a customer's wallet and platform ID may affect access to and storage of virtual
+assets.
+
+Platform
+
+27
+
+The Global Practical Payment Platform
+
+There is a risk of permanent loss of access to and ownership of virtual assets if the identity information, such as
+unique personal ID and biometric information generated on the platform, or the essential private keys related with the
+purchaser's wallet or storage space is lost by the mistake of purchaser.
+ASTA DOES NOT QUARANTEE BACK following statements,
+1) Whether the white paper is written on the basis of legitimate rights and does not infringe on the rights of third parties;
+2) Whether the white paper is commercially valuable or useful;
+3) Whether the white paper is suitable for investors to achieve a specific purpose;
+4) Whether there is any error in the contents of the white paper;
+5) Whether ASTA was duly prepared and distributed under the laws of the countries of the world,
+and whether the contents violated the laws of the countries of the world.
+In addition, the scope of exemption from liability is not limited to the above examples.
+The regulatory framework applied to the blockchain technology, to the provision of virtual assets and to the platform is
+uncertain, and any change to regulations or policies can have a significant impact on platform development and the
+utility of virtual assets.
+Any transaction of a virtual asset or failure of a company, affiliate or platform user to comply with laws, rules and
+regulations (some do not yet exist, may be subject to interpretation and may be subject to change) may result in various
+disadvantages to the Company and its Affiliates, including civil penalties and fines.
+Furthermore, the tax treatment of the acquisition or disposal of virtual assets and stablecoins may depend on what the
+virtual assets and stablecoins are classified as in the classification criteria of securities, assets, currencies, or other
+items. Currently, the tax characterization of virtual assets is uncertain, and customers should seek tax advice regarding
+the purchase, acquisition or disposal of the assets. (In particular, in Korea, it should be noted that income tax will be
+imposed on gains from the transfer of virtual assets from the second half of 2021 due to the revision of the Korean
+tax law in 2020, and various reporting obligations will be imposed in the future). In this regard, the customer may be
+required to pay taxes or report.
+The business model using the blockchain faces uncertain regulatory environments in many countries. In the near future,
+various jurisdictions may adopt laws, regulations, or guidance that affect the platform, which may change the value of
+virtual assets.
+
+Platform
+
+28
+
+The Global Practical Payment Platform
+
+In such cases, laws, regulations, or guidance may directly and negatively affect the operation of the Company and
+its Affiliates. The effects of future regulatory changes are unpredictable, but they can be significant and have a real
+adverse effect on the development and growth of the platform, and the adoption and utility of virtual assets.
+The Company and its Affiliates may need to obtain licenses, permits and/or approvals (collectively "regulatory approval")
+to carry out the creation, development and operation of virtual assets. Failure to obtain such permission with respect to
+the platform or failure by the relevant authorities to renew or revoke regulatory approval for any reason may adversely
+affect the business of the Company and its Affiliates.
+There is NO GUARANTEE in the future that the authorities will not impose stricter requirements on the Company and
+its Affiliates or that the Company and its Affiliates will be able to adapt in timely to changing regulatory requirements.
+These strict regulations may limit the ability of companies and their affiliates to operate their businesses, and if they do
+not comply with those requirements, they may be subject to nonconformity measures.
+Furthermore, if the costs (financial or other) to comply with the newly implemented regulations exceed certain criteria,
+platform maintenance can no longer be carried out commercially and the Company and its Affiliates can discontinue
+the platform and/or virtual assets. It is alsounpredictable how governments or regulators will implement accounts
+distribution technologies, including platforms and virtual assets, and laws and regulations that affect the applications.
+The Company and its Affiliates may be required to discontinue operations in the jurisdictions that make it commercially
+impossible or undesirable to obtain the regulatory approval. Virtual assets may hold little, or no value under the
+circumstances described above.
+There may be risks associated with natural disasters, natural disasters, wars, terrorist attacks, riots, widespread
+epidemics and other events beyond the control of the Company and its Affiliates. Sales of virtual assets and activities
+of the Company, its affiliates and/or platforms may be suspended or delayed due to natural disasters, wars, terrorist
+attacks, riots, civil disturbances, widespread epidemics and other reasons beyond the control of the Company and its
+Affiliates. These events can also create uncertainty in the economic prospects of the global market, and there is no
+guarantee that such markets will not be affected or that recovery from the global financial crisis will continue.
+
+Platform
+
+29
+
+The Global Practical Payment Platform
+
+In such cases, it can have a significant impact on the business strategy, operational results and prospects of the
+Company and its Affiliates, and it can have a significant impact on the demand and use of virtual assets and platforms.
+In addition, such infectious diseases or epidemics in the country where the Company, its Affiliates and platform
+participants operate in the future may be adversely affected by market sentiment, which may adversely affect platforms
+and communities.
+There may be other risks related with the purchase, possession and use of virtual assets, including those that
+cannot be expected other than those foreseen. These risks suggest that unexpected fluctuations or risks discussed
+in the text may appear in complex.
+No agency has officially reviewed or approved the information in this white paper, and no such action has yet been
+taken under any jurisdiction.
+If any of the people who read this white paper use it to make their own decisions and actions, it is based on the
+judgment of the person, and THE RESULT OF IT IS ENTIRELY ATTRIBUTED TO THE PERSON, REGARDLESS OF
+PROFIT OF LOSS, and the Company DO NOT BEAR ANY RESPONSIBILITY.
+Platforms and related services provided by the Company and its Affiliates are provided in a usable state, but the
+Company and its Affiliates do not guarantee the accessibility, quality, suitability or completeness of the platform or
+related services provided by the Company.
+Executives and employees of the Company and its Affiliates that operate the ASTA Platform shall not claim or make any
+form of statements, warranties, or promises to the entity or individuals of the integrity, accuracy and completeness of all
+information presented in this white paper, including relevant statements, warranties, or promises.
+To the maximum extent permitted by applicable laws and regulations, the Company and its Affiliates shall not be liable
+for unlawful acts, contracts, or other kinds of indirect, special, accidental, consequential or other losses (loss of revenue,
+use, or loss of data). Therefore, even if damages, losses, liabilities and other damages are caused by the use of the
+white paper, ASTA shall not bear any liability, compensation or other liability.
+This white paper can be translated into other languages. The official source for ASTA-related information is a Korean
+white paper. The Company is not responsible for the transmission of incorrect information such as omissions,
+transformations, or errors in some information that occurs during the translation process that has not been approved in
+advance. Also, in such cases, the Korean white paper is applied first.
+The white paper may be updated in the future. Please check the latest white paper on the official website. This white
+paper cannot be copied, used or leaked without the consent of the author of this white paper and the ASTA team.
+
+Platform
+
+30
+
+

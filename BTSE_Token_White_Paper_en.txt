@@ -1,0 +1,1108 @@
+BTSE Token
+For use on BTSE Trading Platforms
+2020.03.06
+
+Note:
+BTSE TOKENS WILL NOT BE OFFERED OR SOLD TO PROHIBITED
+PERSONS OR THOSE OPERATING IN PROHIBITED JURISDICTIONS, AS
+OUTLINED IN THE IMPORTANT CONSIDERATIONS SECTION BEGINNING
+ON PAGE 1 OF THIS DOCUMENT. THIS DOCUMENT IS PROVIDED FOR
+INFORMATIONAL PURPOSES ONLY AND IS QUALIFIED IN ITS ENTIRETY
+BY THE TERMS INCLUDED IN A SEPARATE TOKEN PURCHASE
+AGREEMENT PROVIDED BY BTSE.
+
+IMPORTANT CONSIDERATIONS:
+This document is for informational purposes only and is not intended to be legally
+binding. You shall consult your professional advisers and carefully review and
+consider your decision on the purchase of BTSE tokens in light of, amongst others,
+the disclaimer section provided in this document. Information contained within this
+document is confidential, and by accepting delivery of this document you agree to
+keep confidential all information contained herein. Nothing contained within this
+document shall be deemed to constitute a solicitation for investment, nor does any
+information represented in any way an offering or a solicitation to purchase any
+securities in any jurisdiction.
+The information contained within this document does not in any way constitute a
+recommendation by any persons to purchase BTSE tokens or any other cryptographic
+token, currency, or other digital asset. BTSE is not authorized to provide financial
+recommendations, and has not authorized any persons to make any recommendations
+on their behalf.
+This document is not directed to, or intended for distribution to or use by, any person
+or entity who is a citizen or resident of or located in the United States of America,
+Belarus, Cuba, Eritrea, Iran, North Korea, Syria and Venezuela (each a “Prohibited
+Jurisdiction”) or any member of the Sanctions List (collectively, the “Prohibited
+Persons”).
+It is the purchaser's responsibility to assess whether they are able to purchase BTSE
+tokens, pursuant to laws applicable to such purchaser, and to confirm whether such
+purchaser is not a Prohibited Person. No registration or other action has been or will
+be taken in any jurisdiction that would, or is intended to, permit the sale of BTSE
+tokens in any country or jurisdiction where registration or other action for that
+purpose is required. Accordingly, purchasers expressly indemnify BTSE from any
+legal consequences and/or claims for damages whatsoever, arising from the
+purchaser’s inability to accurately assess their ability to participate in the purchase
+BTSE tokens.
+BTSE makes no claims or representation as to the legality of a purchase of BTSE
+tokens by such purchaser under the laws applicable to such purchaser.
+BTSE tokens are a speculative financial opportunity and involve a high degree of risk
+and uncertainty, which are described in more detail in the Disclaimer portion of this
+white paper. It is possible that due to external factors outside the control of the BTSE
+that the BTSE Tokens may hold little worth or value. As such, the sale of BTSE
+tokens is aimed solely at persons who have sufficient knowledge and understanding
+of cryptographic tokens, cryptocurrency, and other digital assets, smart contracts,
+secure storage mechanisms and digital asset wallet technology, blockchain-based
+software systems and blockchain or distributed ledger technology, in order to be able
+
+to evaluate the risks and merits of a purchase of BTSE tokens. Purchasers with
+sufficient knowledge should be able to assess and bear the risks of a purchase of
+BTSE tokens, including a potential loss of all amounts paid and loss of BTSE tokens
+purchased.
+Potential purchasers must make their own independent assessment as to whether
+BTSE tokens are a suitable opportunity for their risk profile, and should consult with
+their relevant advisor[s] in order to evaluate the economic, legal and tax
+consequences of purchase BTSE tokens.
+Statements in this document may be considered forward-looking in nature or speak to
+future plans, events or projects. Such forward-looking statements or information
+outlined within this document involve both known and unknown risks and
+uncertainties, which may cause actual events to differ substantially. Potential
+purchasers should not rely on any forward-looking statements or information in
+assessing the potential purchase or future performance of BTSE tokens.
+This document is provided only to select persons, and not through any general public
+solicitation or general public advertising. If you have received this document, you
+may not, and are not authorized to, deliver or disclose the information contained
+herein. No person is authorized to provide any information or to make any
+representation not contained in this document. No person or entity other than BTSE
+Holdings Limited is authorized to sell, resell, or distribute BTSE tokens. Purchasers
+of BTSE tokens from any entity or person other than the Issuer are not entitled to rely
+statements or information contained within this document.
+The purchase of BTSE tokens entails risks and purchasers may lose their entire
+purchase amount. BTSE makes no claims as to the future performance of these
+tokens or any potential return on investment. Token purchasers should evaluate this
+opportunity with relevant trusted advisor[s] to determine whether this opportunity fits
+within their risk profile.
+
+Abstract
+BTSE operates virtual currency trading platforms. This white paper introduces the
+BTSE utility token, for use on the BTSE trading platforms. The BTSE utility token
+provides a unique opportunity for existing BTSE users and those who wish to use
+BTSE’s platforms and services.
+This document seeks to explain the details of the BTSE utility token offering.
+
+Introduction
+BTSE is a multi-currency spot and futures trading platform custom-built and is
+designed to bring efficiency and stability to the cryptocurrency trading landscape
+today.
+Through a number of technical key innovations, BTSE tackles some of the areas
+traders value the most: BTSE’s next-generation matching engine runs purely in
+memory without the need for a database, enabling sub-millisecond transactions and
+significantly reducing the risk for system overloads. Horizontal scaling allows BTSE
+to upgrade with near-zero downtime. And the entire exchange is self-hosted – an
+impactful security and performance advantage.
+BTSE’s team is filled with elite institutional experience in finance, technology,
+ventures building, and the development of high-volume trading systems. BTSE’s
+founding members come from backgrounds including Goldman Sachs, Cisco and
+IBM.
+
+Why BTSE?
+Our Vision
+BTSE has developed what we call Futures 2.0, an upgrade from crypto futures
+trading as we know it today.
+Cryptocurrency futures trading is becoming increasingly popular, with the largest
+trading platforms reporting 30% quarterly user growth - yet compared to the global
+futures market, it’s still tiny with lots of room to grow. But there is a gap between the
+needs of retail users and what current exchange platforms offer:
+- Inefficient UI
+- Forcing users to trade in crypto only
+- Platforms are often unreliable (downtime & overload)
+As a trader, you can post margin and settle in any combination of fiat and
+cryptocurrencies; this aggregates the liquidity of several assets and markets; it also
+builds a bridge between the crypto and non-crypto futures market - you can trade
+cryptocurrency futures without having to hold any cryptocurrencies.
+There is a lot of institutional money out there that’s not flowing into the crypto
+industry right now due to inefficiencies and lack of on-boarding convenience. By
+helping institutional investors and traders get involved, we wish to contribute to the
+growth of the Bitcoin and crypto space.
+
+Founding Team
+Jonathan Leong, Chief Executive Officer, has more than 20 years of experience
+developing high performance, mission-critical systems. Over the past 6 years, he has
+built many successful ventures fusing his deep knowledge of technology with
+business opportunities. Jonathan believes cryptocurrency will transform the way we
+do business, live, work and play. He also runs a venture fund that invests in Fintech
+and compelling innovation drivers.
+Brian Wong, Co-Founder, has more than 10 years experience in trading and
+financial technology. Prior to joining BTSE, he worked at Goldman Sachs and has
+built a successful high-speed trading venture that captures inefficiencies in the Asia
+financial markets.
+Joshua Soh, Chief Operating Officer, brings a wealth of organizational and
+operational dexterity gleaned from 24 years in the Infocomm-Media industry. He was
+previously General Manager for IBM Global Technology Services before taking the
+helm as Managing Director for Singapore & Brunei at Cisco Systems. Before joining
+BTSE, Joshua was CEO of a medtech company where he transformed their business
+into a managed service model culminating in a private sale.
+Yew Chong Quak, Chief Technology Officer, has spent over 10 years in multiple
+engineering roles, acquiring a wide breadth of technology experience from building
+robust systems infrastructure and networks to agile software development. His
+fervour for new technologies and its early adoption brings the best of breed into
+BTSE. YC previously held various engineering positions at SingTel and Macquarie
+Securities and successfully launched several trading applications.
+
+Platform
+BTSE operates a multi-currency fiat-to-cryptocurrency
+cryptocurrency spot and derivatives markets.
+
+exchange,
+
+with
+
+Support for Multiple Collateral as Margin
+A defining characteristic of the new BTSE Futures platform is its support of fiat and
+cryptocurrency as margin collateral. Traders can post margin using a combination of
+both fiat and crypto when they trade USD-settled Bitcoin or Tether futures, without
+the need to make currency conversions. BTSE supports 8 major fiat currencies,
+including USD, EUR, JPY, and GBP, and 6 major cryptocurrencies, including BTC,
+ETH, LTC, and USDT.
+
+Linear US Dollar Settled Futures
+Although commonplace in the cryptocurrency space, inverse futures contracts, nonlinear in nature, result in a complex mechanism of deriving profit and loss.
+Conversely, traditional futures contracts embrace a linear design. Every price
+movement of a contract translates directly into profit-and-loss proportionally. BTSE
+Futures platform embraces a simple linear design, where profit and loss are settled in
+US Dollars. Users can convert profits into native currencies of choice with one click
+through platform’s multi-currency spot wallet or purchase USDT using the all in one
+order book.
+Multiple Currency Futures Settlement
+In addition to posting multiple currencies as margin collateral, traders have the option
+to settle their trades in the currency of their choice. BTSE currently supports
+settlement in BTC, USD, and USDT, regardless of the currency used as collateral.
+The Future of Cryptocurrency Derivatives
+Cryptocurrency investors can benefit from BTSE’s derivative products for hedging
+and speculation. BTSE multi-collateral futures platform bridges the gap between
+traditional fiat-based traders and coin holders. Additionally, the multi-currency order
+book enables global users to trade in an aggregated order book with thick liquidity.
+State of The Art Cyber Security
+BTSE regularly engages with penetration and cyber security testers as part of an
+ongoing system-wide security audit. Unlike other exchanges that operate on cloud
+services, BTSE uses single tenant servers collocated in our own cage with 24/7 DDoS
+protection and a state of the art firewall.
+Since BTSE is fully self-hosted, we have the flexibility to customize our hardware
+and define our internal network architecture for better cyber security and
+performance. Data is distributed across multiple data centers, adding redundancy,
+additional protection and site reliability.
+BTSE uses a combination of cold storage and hot wallet techniques to ensure funds
+are held securely, while also providing fast withdrawals to users. Transactions are
+made with coin selection algorithms that favor UTXO consolidation and privacy
+when possible.
+Liquid Network Partnership
+
+BTSE is proud to be a member of Blockstream’s Liquid Network, an inter-exchange
+settlement network, and will be one of the first exchanges to integrate Liquid USDT
+for deposits and withdrawals.
+Liquid allows traders on BTSE to move their funds between different exchanges
+without requiring the crypto assets to use their corresponding “base-layer”
+blockchain, which allows for quicker confirmation times when moving funds.
+High-frequency and algorithmic traders have been limited by long block confirmation
+times when attempting cross-exchange trading strategies, but the increased exchange
+interoperability offered by Liquid will create deeper liquidity and more efficient price
+discovery by allowing traders to exploit arbitrage strategies across different
+marketplaces quickly, thereby stabilizing price inefficiencies. Additionally, faster
+confirmation times mean that users can store their funds outside of the exchange in a
+personal wallet that they control, thereby reducing custodial risk, while still being
+able to move funds onto an exchange quickly if and when a trading opportunity
+arises.
+Additional Blockstream Liquid Network members include Altonomy, Bitbank,
+Bitfinex, Bitmax, BitMEX, Bitso, Blue Fire Capital, BTCBOX, Cobo, Coinone,
+Coinut, Crypto Garage, DGroup, DMM Japan, FRNT Financial, Gate.io, GOPAX
+(operated by Streami), Huobi, L2B Global, OKCoin, OpenNode, Poolin, Prycto,
+Sideshift AI, The Rock Trading, SIX Digital Exchange, TaoTao, Tilde, Unocoin,
+Xapo, XBTO, and Zaif.
+For Retail Crypto Traders
+As a trader, you want to know that you’re trading on a platform that’s reliable and
+fast and provides sufficient liquidity. You don’t want system overloads, downtime, or
+cyber security breaches - which is exactly what major platforms have had to deal with
+in recent years, compromising the confidence of traders.
+BitMEX customers are familiar with the “Order Submission Error”, which prevents
+them from entering or exiting a trade when their systems are overloaded. However,
+BTSE’s high-speed matching engine processes up to two million orders per second,
+making system overloads a thing of the past.
+Bitfinex and Ethfinex require 8+ hours of downtime when maintenance or system
+upgrades are being completed, but through horizontal scaling technologies,
+BTSE.com runs 24/7 and can do hot upgrades with no performance impact - that
+means no more downtimes.
+
+Our multiple data center capacity prevents cyber-attacks effectively. BTSE is fully
+self-hosted which gives us the flexibility to customize our hardware and define our
+internal network architecture for better cyber security and performance. Multiple data
+center redundancy adds additional data protection and site reliability, and close ties
+with network partners give us the ability to efficiently manage network routing,
+improving the user experience.
+On BTSE, you can trade cryptocurrency spot and futures with up to 100x leverage
+and freely pick and combine your favorite trading pairs from a variety of fiat and top
+cryptocurrencies. You can start trading without limits as soon as you sign up; your ID
+verification will give you additional access to BTSE’s multiple fiat on- and offramps.
+For Institutional Traders
+BTSE is the result of two years of development work on a multi-currency
+cryptocurrency spot and derivatives exchange that brings stability and efficiency to
+the crypto trading landscape.
+Most exchanges are built by utilizing out-of-the-box or open source community
+software that is built for general purposes, but exchanges have their own specific
+requirements to ensure data consistency, performance, scaling, risk management and
+continuous uptime.
+BTSE built everything from the ground up, including:
+-
+
+Cluster management
+Message queuing
+Network communication protocol
+Replication mechanism
+Scalable matching engine
+- Highly customizable with support for user bot scripting
+- High throughput
+- Real-time risk management calculation
+
+Our pursuit at BTSE has always been to introduce the standards of institutional
+trading platforms to the cryptocurrency space. Built from scratch by a team with
+extensive experience in developing high volume trading systems, BTSE adds some
+crucial yet currently missing cyber security and scalability features to the young and
+steadily growing cryptocurrency industry.
+BTSE offers cryptocurrency spot and futures trading with up to 100x leverage, multiasset collateralization, and allows you to trade cryptocurrency futures with both
+crypto and fiat settlement options. Our multi-asset orderbook system provides deeper
+liquidity and more efficient price discovery, allowing traders from all parts of the
+
+world, holding different fiat and crypto assets to speculate within a common
+orderbook and receive payouts in the asset of their choice.
+BTSE has powerful banking relations; as a result, BTSE is able to offer multiple fiat
+on- and off-ramps and support for numerous fiat currencies.
+
+For Non-Crypto / Beginner Traders
+At BTSE, our ultimate goal is to make the entrance into the crypto trading space
+easier and more enjoyable for everyone. We spent two years observing the market
+and building a platform that not only fixes the issues of current exchanges, but offers
+additional features to set you up for a successful trading experience.
+BTSE currently supports the trading of 6 cryptocurrencies in 8 different fiat
+currencies, which you can freely combine in your trades. If you want to start trading
+without having to hold cryptocurrencies yourself, you can trade Bitcoin and the other
+assets available on BTSE with your local currency. Our spot markets provide a
+“normal” exchange environment where traders can buy and sell cryptocurrency assets
+on BTSE, realizing profits in their local fiat currency and participating in trades
+without the full exposure to the asset’s volatility, such as is the experience in
+derivative markets.
+BTSE also offers you a number of ways to deposit and withdraw funds via unlimited
+SWIFT bank transfers and a global P2P marketplace with verified merchants in your
+country. This is possible through BTSE’s strong banking relations.
+And if you’d rather get started without using real money, you can get acquainted with
+the interface and mechanisms on BTSE’s free testnet.
+
+The BTSE Token
+The summary below describes the terms, benefits, and utility of BTSE tokens.
+
+Token Specifications
+The following text highlights details of the BTSE token, use cases, benefits, and
+issuance terms.
+Issuance Terms
+
+BTSE tokens will be issued on Blockstream’s Liquid Network using the ticker
+symbol “BTSE”. Prospective purchasers should review the issuance terms, as well as
+the benefits and use cases.
+ISSUER
+
+BTSE Holdings Limited
+
+TOKEN
+
+BTSE, a utility token with the ticker symbol
+“BTSE”
+
+PURCHASER ELIGIBILITY
+
+Subject to completion of relevant KYC,
+whitelisting and/or restrictions imposed by
+BTSE.
+
+PURCHASE PRICE
+
+BTSE tokens will be sold at a rate of $1 or
+equivalent, per token. The Issuer accepts
+USD and USDT, and other payment
+methods at its discretion.
+
+LISTING
+
+BTSE will open a BTSE/USD spot market
+for peer-to-peer, open market trading
+following the conclusion of the sale of
+tokens.
+
+USE OF PROCEEDS
+
+Proceeds may be used for working capital
+and general business purposes, including
+capital expenditures, operating expenses and
+
+other capitalization activities.
+SALES DOCUMENTATION
+
+The purchase and sale of BTSE Tokens shall
+be on the Terms and Conditions set forth in
+a separate Token Purchase Agreement,
+provided by the Issuer.
+
+PRIVATE SALE
+
+The initial private sale is for 50 million
+BTSE Tokens will be offered as part of a
+private placement only. Any unsold tokens
+from this allocation will be burned.
+
+TOKEN DISTRIBUTION
+
+The Issuer will issue up to one hundred
+million BTSE tokens. The remaining tokens
+after the initial private sale will be vested
+over 5.5 years (gradual unlocking begins
+after 18 months)..
+
+COMMERCIAL USES
+
+Reductions of fees on the BTSE trading
+platform, described more fully herein, as
+well as similar fee reductions and benefits
+for future BTSE trading platforms, products,
+and services.
+
+TAX CONSEQUENCES
+
+Prospective purchasers should consult with
+their tax advisors as to the tax consequences
+of participating in the distribution and
+owning, using, and transacting in BTSE
+tokens. We make no claims to the tax
+implications of participating in this private
+token offering.
+
+Token Utility
+BTSE tokens will be the utility token used across BTSE’s trading platforms and
+services. Token holders will receive various benefits within BTSE’s trading platform,
+products, and services.
+
+Purchase of Colocation Services
+Premium colocation services will be made available for high frequency traders. This
+allows traders participating in certain strategies to benefit from reduced latency and
+stable connectivity.
+The purchase of such colocation services will be done exclusively with BTSE
+Tokens.
+Purchase of Advanced Trading Services
+Advanced trading services such as premium data feeds, backtesting platforms,
+algorithmic trading systems and a scripting platform will be available for purchase
+exclusively with BTSE Tokens.
+Purchase of White Label Service
+There has been interest in white label services for clients interested in partnering with
+BTSE. Any such transaction relating to white label services will be done exclusively
+with BTSE Tokens.
+Debit Card Benefits
+Traders that utilize BTSE virtual banking services can increase their transaction
+limits, ATM withdrawal and deposit thresholds based on the value of their BTSE
+token holdings.
+Token Listings
+Companies or projects that list their token on BTSE will be required to pay a token
+listing fee. These token listing fees will be paid for exclusively with BTSE Tokens.
+Traders on BTSE that are interested in purchasing tokens through an offering can use
+their BTSE Tokens to purchase the token being offered.
+
+Token listings will trade using our multi-currency orderbook system, allowing
+potential investors to purchase tokens using any combination of fiat and crypto asset,
+producing deeper liquidity that will attract more token listings.
+Use as Collateral
+BTSE tokens can be used as margin collateral when trading futures and other
+derivative products. Traders can choose to settle their trades in BTSE tokens or any of
+the other settlement currencies available.
+Pay for Trading Fees
+Users can optionally elect to pay their trading fees, without limits, using BTSE
+tokens, so long as the user is holding BTSE tokens.
+Increased API Limits
+Users can increase their API rate limits based on the amount of BTSE tokens that are
+held in their account.
+Reduction in Trading Fees
+All users holding BTSE tokens in their account will have their taker fees reduced
+across all spot and futures markets.
+Spot market taker fees will be reduced by an additional amount for traders with a
+daily average balance of specified USD in BTSE tokens held in their account during
+the previous trading month.
+Derivative market taker fees may also be reduced by an additional amount for
+dependent on their USD value of BTSE tokens held in their account during the
+previous trading month.
+Traders also have the option to purchase a VIP fee-tier for 30 days using their BTSE
+tokens. Traders will pay an amount of BTSE tokens equal to 75% of the average fees
+that would be generated in one month by that tier, in USD equivalent. Once 30 days
+have passed, the normal fee schedule will be applied unless the trader chooses to
+purchase another fee-tier.
+The longer a trader holds their BTSE tokens, the longer they will be able to realize
+reduced trading fees. Fee reductions are subject to change in BTSE’s discretion due
+to changes in fee schedules or otherwise.
+To view BTSE’s current fee table, please visit this website URL:
+
+https://support.btse.com/en/support/solutions/articles/43000064283-what-are-thebtse-trading-feesVIP Tiered Discounts
+Traders holding certain amounts of BTSE tokens will automatically be placed into a
+corresponding VIP fee-tier.
+To view the existing VIP fee-tiers (“levels”), please visit this website URL:
+https://support.btse.com/en/support/solutions/articles/43000064283-what-are-thebtse-trading-feesVIP fee-tier placement is based on the USD ($) value of the traders BTSE token
+holdings, as outlined in the table below.
+BTSE Token Holdings (USD)
+
+VIP Fee-Tier
+
+>= $5,000
+
+VIP I
+
+>= $10,000
+
+VIP II
+
+>= $20,000
+
+VIP III
+
+>= $30,000
+
+VIP IV
+
+>= $50,000
+
+VIP V
+
+>= $75,000
+
+VIP VI
+
+>= $100,000
+
+VIP VII
+
+Account balances to qualify for VIP fee-tier placement are calculated daily at 00:00
+(UTC +0) using the average of the prior days holdings.
+Traders placed into VIP tiers will continue to receive reduced trading discounts, as
+outlined within the “Reduction in Trading Fees” section of this document.
+VIP tiers and associated reductions in fees are subject to change in BTSE’s discretion
+due to changes in fee schedules or otherwise.
+Lockup Period
+
+BTSE Token purchasers will not experience a lockup period on their BTSE token
+holdings bought at full price. However, in order to realize the benefits and discounts
+associated with the purchase of BTSE Tokens, users must hold the tokens in their
+BTSE account.
+
+BTSE tokens retained by BTSE, including any tokens unsold during the private sale
+periods, will unlock in increments over a multi year period, as described below.
+18 months after the conclusion of the private sale period, 15% of the total number of
+BTSE tokens retained by BTSE will unlock linearly over the next 12 months.
+30 months after the conclusion of the private sale period, a further 25% of the total
+number of BTSE tokens retained by BTSE will unlock linearly over the next 12
+months.
+42 months after the conclusion of the private sale period, a further 25% of the total
+number of BTSE tokens retained by BTSE will unlock linearly over the next 12
+months.
+54 months after the conclusion of the private sale period, the remaining number of
+BTSE tokens retained by BTSE will unlock linearly over the next 12 months.
+When the lockup period[s] are complete, BTSE will retain the right to use these
+tokens for additional funding through the sale of tokens on the open market.
+BTSE Token Market
+
+BTSE will open a BTSE/USD spot market for peer-to-peer, open market trading
+following the conclusion of the sale of tokens.
+
+Disclaimer
+Please read this entire section carefully. If you are in any doubt as to the action you
+should take, please consult your legal, financial, tax or other professional advisor(s).
+1.1
+
+Legal Statement
+(a)
+
+This document (the “Whitepaper”), in its current form, is circulated for
+general information purposes only in relation to the BTSE trading
+platforms and applications described in the Whitepaper (the “Platform”)
+as presently conceived and is subject to review and revision. Please note
+that this Whitepaper is a work in progress and the information in this
+Whitepaper is current only as of the date on the cover hereof. Thereafter,
+the information, including information concerning BTSE (the
+“Company” or “We”) business operations and financial condition may
+have changed. We reserve the right to change, modify, add or delete
+parts of this Whitepaper or website without notice for any reason or at
+any time.
+
+(b)
+
+No person is bound to enter into any contract or binding legal
+commitment in relation to the sale and purchase of BTSE tokens (the
+“BTSE Token(s)” or “Token(s)”) and no payment is to be accepted on
+the basis of this Whitepaper. Any sale and purchase of the Tokens will be
+governed by a legally binding agreement, the details of which will be
+made available separately from this Whitepaper. In the event of any
+inconsistencies between the abovementioned agreement and this
+Whitepaper, the former shall prevail.
+
+(c)
+
+This Whitepaper does not constitute or form part of any opinion on any
+advice to sell, or any solicitation of any offer by the
+issuer/distributor/vendor of the Tokens to purchase any Token nor shall it
+or any part of it nor the fact of its presentation form the basis of, or be
+relied upon in connection with, any contract or investment decision.
+
+(d)
+
+The Tokens are not intended to constitute securities, units in a business
+trust, or units in a collective investment scheme, each as defined under
+
+the applicable laws in each jurisdiction. Accordingly, this Whitepaper
+therefore, does not, and is not intended to, constitute a prospectus,
+profile statement, or offer document of any sort, and should not be
+construed as an offer of securities of any form, units in a business trust,
+units in a collective investment scheme or any other form of investment,
+or a solicitation for any form of investment in any jurisdiction.
+
+1.2
+
+(e)
+
+No Token should be construed, interpreted, classified or treated as
+enabling, or according any opportunity to, purchasers to participate in or
+receive profits, income, or other payments or returns arising from or in
+connection with the Platform, the Tokens, or products, or to receive
+sums paid out of such profits, income, or other payments or returns.
+
+(f)
+
+This Whitepaper or any part hereof may not be reproduced, distributed
+or otherwise disseminated in any jurisdiction where offering
+coins/tokens in the manner set out this Whitepaper is regulated or
+prohibited.
+
+(g)
+
+No regulatory authority has reviewed, examined or approved of any of
+the information set out in this Whitepaper. No such action has been or
+will be taken in any jurisdiction.
+
+(h)
+
+Where you wish to purchase any Token, the Tokens are not to be
+construed, interpreted, classified or treated as: (a) any kind of currency
+other than cryptocurrency; (b) debentures, stocks or shares issued by any
+entity; (c) rights, options or derivatives in respect of such debentures,
+stocks or shares; (d) rights under a contract for differences or under any
+other contract with the purpose or pretended purpose to secure a profit or
+avoid a loss; or (e) units or derivatives in a collective investment scheme
+or business trust, or any other type of securities.
+
+Restrictions on Distribution and Dissemination
+(a)
+
+The distribution or dissemination of this Whitepaper or any part thereof
+may be prohibited or restricted by the laws or regulatory requirements of
+any jurisdiction. In the case where any restriction applies, you are to
+inform yourself about, to obtain legal and other relevant advice on, and
+to observe, any restrictions which are applicable to your possession of
+this Whitepaper or such part thereof (as the case may be) at your own
+
+expense and without liability to the Company or its representatives,
+agents, and related companies (the “Affiliates”).
+(b)
+
+1.3
+
+1.4
+
+Persons to whom a copy of this Whitepaper has been distributed or
+disseminated, provided access to or who otherwise have the Whitepaper
+in their possession shall not circulate it to any other persons, reproduce
+or otherwise distribute this Whitepaper or any information contained
+herein for any purpose whatsoever nor permit or cause the same to
+occur.
+
+Disclaimer of Liability
+(a)
+
+The Token, the Platform and related services provided by the Company
+and its affiliates are provided on an “as is” and “as available” basis. The
+Company and its Affiliates do not grant any warranties or make any
+representation, express or implied or otherwise, as to the accessibility,
+quality, suitability, accuracy, adequacy, or completeness of the Token,
+the Platform or any related services provided by the Company and its
+Affiliates, and expressly disclaim any liability for errors, delays, or
+omissions in, or for any action taken in reliance on, the Token, the
+Platform and related services provided by the Company and its
+Affiliates.
+
+(b)
+
+The Company, its Affiliates and its directors, officials and employees do
+not make or purport to make, and hereby disclaim, any representation,
+warranty or undertaking in any form whatsoever to any entity or person,
+including any representation, warranty or undertaking in relation to the
+truth, accuracy and completeness of any of the information set out in this
+Whitepaper.
+
+(c)
+
+To the maximum extent permitted by the applicable laws and
+regulations, the Company and its Affiliates shall not be liable for any
+indirect, special, incidental, consequential or other losses of any kind, in
+tort, contract or otherwise (including but not limited to loss of revenue,
+income or profits, and loss of use or data), arising out of or in connection
+with any acceptance of or reliance on this Whitepaper or any part thereof
+by you.
+
+Cautionary Note on Forward-Looking Statements
+
+1.5
+
+(a)
+
+Certain information set forth in this Whitepaper includes forwardlooking information regarding the future of the project, future events and
+projections. These statements are not statements of historical fact and
+may be identified by but not limited to words and phrases such as “will”,
+“estimate”, “believe”, “expect”, project”, “anticipate”, or words of
+similar meaning. Such forward-looking statements are also included in
+other publicly available materials such as presentations, interviews,
+videos etc., information contained in this Whitepaper constitutes
+forward-looking statements including but not limited to future results,
+performance, or achievements of the Company or its Affiliates.
+
+(b)
+
+The forward-looking statements involve a variety of risks and
+uncertainties. These statements are not guarantees of future performance
+and no undue reliance should be placed on them. Should any of these
+risks or uncertainties materialize, the actual performance and progress of
+the Company or its Affiliates might differ from expectations set by the
+forward-looking statements. The Company or its Affiliates undertake no
+obligation to update forward-looking statements should there be any
+change in circumstances. By acting upon forward-looking information
+received from this Whitepaper, the Company or its Affiliates’ website
+and other materials produced by the Company or its Affiliates, you
+personally bear full responsibility in the event where the forwardlooking statements do not materialize.
+
+Potential Risks
+By purchasing, holding and using the Tokens, you expressly acknowledge and
+assume the risks set out in this section if any of these risks and uncertainties
+develops into actual events, the business, financial condition, results of
+operations and prospects of the Company or its Affiliates may be materially
+and adversely affected. In such cases, you may lose all or part of the value of
+the Token. Such risks include but are not limited to the following:
+Risks Relating to the Tokens
+(a)
+
+There may not be a public or secondary market available for
+the Tokens
+I.
+
+The Tokens are intended to be native tokens to be used on the
+Platform, and the Company and its Affiliates have not and may
+
+not actively facilitate any secondary trading or external trading of
+Tokens. In addition, there is and has been no public market for the
+Tokens and the Tokens are not traded, whether on any
+cryptocurrency exchange or otherwise. In the event that the
+Tokens are traded on a cryptocurrency exchange, there is no
+assurance that an active or liquid trading market for the Tokens
+will develop or if developed, be sustained. There is also no
+assurance that the market price of the Tokens will not decline
+below the purchase amount paid for the Tokens, which is not
+indicative of such market price.
+II. Token is not a currency issued by any central bank or national,
+supra-national or quasi-national organisation, nor is it backed by
+any hard assets or other credit. The Company and its Affiliates are
+not responsible for nor do they pursue the circulation and trading
+of the Tokens on the market. Trading of the Tokens merely
+depends on the consensus on its value between the relevant
+market participants, and no one is obliged to acquire any Token
+from any holder of the Token, including the purchasers of the
+Tokens, nor does anyone guarantee the liquidity or market price of
+the Tokens to any extent at any time. Accordingly, the Company
+and its Affiliates cannot ensure that there will be any demand or
+market for the Tokens, or that the price upon which the Tokens
+were purchased is indicative of the market price of the Tokens if
+they are made available for trading on a cryptocurrency exchange.
+Risks Relating to the Company, its Affiliates and the Platform
+(a)
+
+Limited availability of sufficient information
+
+The governance structure, purpose, consensus mechanism, algorithm,
+code, infrastructure design and other technical specifications and
+parameters of the Platform may be updated and changed frequently
+without notice. While this Whitepaper contains the key information
+currently available in relation to the Platform, it is subject to
+adjustments and updates from time to time, as announced on the
+Company’s website. Purchasers will not have full access to all the
+information relevant to the Tokens and/or the Platform. Nevertheless, it
+is anticipated that significant milestones and progress reports will be
+announced on the Company’s website.
+
+(b)
+
+The digital assets raised in the sale of the Tokens are exposed
+to the risks of theft.
+
+Whilst the Company and its Affiliates will make every effort to ensure
+that any cryptocurrencies received from the sale of Tokens are securely
+held through the implementation of security measures, there is no
+assurance that there will be no theft of the cryptocurrencies as a result of
+hacks, mining attacks, sophisticated cyber-attacks, distributed denials of
+service or errors, vulnerabilities or defects on such blockchain addresses,
+or any other blockchain, or otherwise. Such events may include, for
+example, flaws in programming or source code leading to exploitation or
+abuse thereof. In such event, even if the sale of Tokens is completed, the
+Company and its Affiliates may not be able to receive the funds raised
+and the Company and its Affiliates may not be able to utilize such funds
+for the development of the Platform, and the operation of the Platform
+might be temporarily or permanently curtailed. As such, the issued
+Tokens may hold little worth or value. The Tokens are uninsured, unless
+you specifically obtain private insurance to insure them. In the event of
+any loss or loss of value of the Tokens, you may have no recourse.
+(c)
+
+The blockchain address(es) may be compromised and the
+digital assets may not be able to be retrieved.
+
+The blockchain address(es) are designed to be secured. However, in the
+event that the blockchain address(es) for the receipt of purchase amounts
+or otherwise are, for any reason, compromised (including but not limited
+to scenarios of the loss of keys to such blockchain address(es), the funds
+held at such blockchain address(es) may not be able to be retrieved and
+disbursed, and may be permanently unrecoverable. In such event, even if
+the sale of the Tokens is successful, the Company and its Affiliates will
+not be able to receive the funds raised and the Company and its
+Affiliates will not be able to utilize such funds for the development of
+the Platform, and the implementation of the Platform might be
+temporarily or permanently curtailed. As such, distributed Tokens may
+hold little worth or value.
+(d)
+
+There is no assurance of any success of the Platform and the
+Company and its Affiliates may cease the development and
+operation of the Platform.
+
+I.
+
+The value of, and demand for, the Tokens hinges heavily on the
+performance of the Platform. There is no assurance that the
+Platform will gain traction and achieve any commercial success.
+The Platform may be subject to further changes, updates and
+adjustments. Such changes may result in unexpected and
+unforeseen effects on its projected appeal to users, and hence
+impact its success. There are no guarantees that the process for
+creating the Tokens will be uninterrupted or error-free.
+
+II. While the Company has made every effort to provide a realistic
+estimate, there is also no assurance that the cryptocurrencies
+raised in the sale of Tokens will be sufficient for the development
+and integration of the Platform. For the foregoing or any other
+reason, the development and integration of the Platform may not
+be completed. As such, distributed Tokens may hold little or no
+worth or value.
+III. Additional reasons which may result in the termination of the
+development or operation of the Platform includes, but is not
+limited to, (aa) an unfavorable fluctuation in the value of
+cryptographic and fiat currencies, (bb) the inability of the
+Company and its Affiliates to maintain the Platform or the Tokens’
+utility or to resolve technical problems and issues faced in relation
+to the development or operation of the Platform or the Token, the
+failure of commercial relationships, (cc) intellectual property
+disputes during development or operation, and (dd) changes in the
+future capital needs of the Company or its Affiliates and the
+availability of financing and capital to fund such needs. For the
+aforesaid and other reasons, the Platform may no longer be a
+viable project and may be dissolved, negatively impacting the
+Platform and the potential utility and value of issued Tokens.
+(e)
+
+There may be lack of demand for the Platform and the
+services provided, which would impact the value of the
+Tokens.
+I.
+
+There is a risk that there is a lack of interest from consumers,
+merchants, advertisers, and other key participants for the Platform
+and the services, and that there may be limited interest and
+therefore use of the Platform and the Tokens. Such a lack of
+
+interest could impact the operation of the Platform and the uses or
+potential value of the Tokens.
+II. There is a risk of competition from alternative platforms that may
+have been established, or even from existing businesses which
+would target any segment of the potential users of the Platform
+fulfilling similar demands, e.g. corporations targeting advertisers
+seeking purchase consumer data and market analysis. Therefore,
+in the event that the competition results in a lack of interest and
+demand for the Platform, the services and the Tokens, the
+operation of the Platform and Token value may be negatively
+impacted.
+(f)
+
+The Company and its Affiliates may experience system
+failures, unplanned interruptions in its network or services,
+hardware or software defects, security breaches or other
+causes that could adversely affect the Company or its
+Affiliates’ infrastructure network, or the Platform.
+I. The Company and its Affiliates are unable to anticipate or detect
+when there would be occurrences of hacks, cyber-attacks, mining
+attacks (including but not limited to double-spend attacks,
+majority mining power attacks and “selfish-mining” attacks),
+distributed denials of service or errors, vulnerabilities or defects in
+the Platform, the Tokens, or any technology (including but not
+limited to smart contract technology) on which the Company, its
+Affiliates, the Platform, the Tokens, rely on or any blockchain.
+Such events may include, for example, flaws in programming or
+source code leading to exploitation or abuse thereof. The
+Company and its Affiliates may not be able to detect such issues
+in a timely manner, and may not have sufficient resources to
+efficiently cope with multiple service incidents happening
+simultaneously or in rapid succession.
+II. Although the Company and its Affiliates will be taking steps
+against malicious attacks on its appliances or its infrastructure,
+which are critical for the maintenance of the Platform and its other
+services, there can be no assurance that cyber-attacks, such as
+distributed denials of service, will not be attempted in the future,
+and that any of such security measures will be effective. Any
+significant breach of security measures or other disruptions
+
+resulting in a compromise of the usability, stability and security of
+the Company and its Affiliates’ network or services, including the
+Platform.
+Risks Relating to the Participation in the Sale of Tokens
+(a)
+
+You may not be able to recover the purchase amount paid for
+the Tokens.
+
+Except as provided under any applicable terms of sale or prescribed by
+applicable laws and regulations, the Company is not obliged to provide
+you with a refund of the purchase amount. No promises of future
+performance or price are or will be made in respect to the Tokens,
+including promises of inherent value or continuing payments, and there
+is no guarantee that the Tokens will hold any particular value. Therefore,
+the recovery of the purchase amount may be impossible or may be
+subject to applicable laws and regulations.
+(b)
+
+You may be subject to adverse legal and/or tax implications as
+a result of the purchase, distribution and use of the Tokens.
+I.
+
+The legal character of cryptocurrency and cryptographic assets
+remain uncertain. There is a risk that the Tokens may be
+considered securities in certain jurisdictions, or may be considered
+to be securities in certain jurisdictions in the future. The Company
+and its Affiliates does not provide any warranty or guarantee as to
+how the Tokens will be classified, and each purchaser will bear all
+consequences of the Tokens being considered securities in their
+respective jurisdictions, and bear the responsibility of the legality,
+use and transfer of the Tokens in the relevant jurisdictions.
+
+II. Further, the tax treatment of the acquisition or disposal of such
+cryptocurrency or cryptographic assets might depend on whether
+they are classified as securities, assets, currency or otherwise. As
+the tax characterization of the Tokens remains indeterminate, you
+must seek your own tax advice in connection with the purchase,
+acquisition or disposal of the Tokens, which may result in adverse
+tax consequences or tax reporting requirements for you.
+
+(c)
+
+The loss or compromise of information relating to the
+purchaser wallet and your method of accessing the Platform
+may affect your access to and possession of the Tokens.
+
+There is a risk that you may lose access to and possession of the Tokens
+permanently due to loss of unique personal ID created on the Platform,
+and other identification information, loss of requisite private key(s)
+associated with the purchaser wallet or vault storing the Tokens or any
+other kind of custodial or purchaser errors.
+(d)
+
+Blockchains may face congestion and transactions may be
+delayed or lost.
+
+Most blockchains used for cryptocurrency transactions (e.g. Ethereum)
+are prone to periodic congestion during which transactions can be
+delayed or lost. Individuals may also intentionally spam the network in
+an attempt to gain an advantage in purchasing cryptographic tokens.
+This may result in a situation where block producers may not include
+your purchase of the Tokens when you intends to transact, or your
+transaction may not be included at all.
+Privacy and data retention issues.
+As part of the Token sales, the verification processes and the subsequent
+operation of the Platform, the Company may collect personal information from
+you. The collection of such information is subject to applicable laws and
+regulations. All information collected will be used for purposes of the Token
+sales and operations of the Platform, thus it may be transferred to contractors,
+service providers and consultants worldwide as appointed by the Company.
+Apart from external compromises, the Company and its appointed entities may
+also suffer from internal security breaches whereby their employees may
+misappropriate, misplace or lose personal information of purchasers. The
+Company may be required to expend significant financial resources to alleviate
+problems caused by any breaches or losses, settle fines and resolve inquiries
+from regulatory or government authorities. Any information breaches or losses
+will also damage the Company’s reputations, thereby harming its long-term
+prospects.
+Macro Risks
+
+(a)
+
+General global market and economic conditions may have an
+adverse impact on the Company and its Affiliates’ operations
+and the use of the Platform.
+
+I.
+
+The Company and its Affiliates could be affected by general global
+economic and market conditions. Challenging economic conditions
+worldwide have from time to time, contributed, and may continue to
+contribute, to slowdowns in the information technology industry at
+large. Weakness in the economy may have a negative effect on the
+Company and its Affiliates’ business strategies, results of operations
+and prospects.
+
+II.
+
+Suppliers on which the Platform relies for servers, bandwidth,
+location and other services could also be negatively impacted by
+economic conditions that, in turn, could have a negative impact on
+the Company and its Affiliates’ operations or expenses.
+
+III. There can be no assurance, therefore, that current economic
+conditions or worsening economic conditions or a prolonged or
+recurring recession will not have a significant adverse impact on the
+Company and its Affiliates’ business strategies, results of operations
+and prospects and hence the Platform, which may in turn impact the
+value of the Tokens.
+(b)
+
+The regulatory regime governing blockchain technologies,
+cryptocurrencies, Tokens, offering of Tokens, and the Platform
+remain uncertain, and any changes, regulations or policies
+may materially adversely affect the development of the
+Platform and the utility of the Tokens
+I.
+
+Regulation of the Tokens, the offer and sale of Tokens,
+cryptocurrencies, blockchain technologies, and cryptocurrency
+exchanges is currently undeveloped or underdeveloped and likely
+to rapidly evolve. Such regulation also varies significantly among
+different jurisdictions, and is hence subject to significant
+uncertainty. The various legislative and executive bodies in
+different jurisdictions may in the future adopt laws, regulations,
+guidance, or other actions, which may severely impact the
+development and growth of the Platform, the adoption and utility
+of the Tokens or the issue, offer, and sale of the Tokens by the
+
+Company. Failure by the Company and its Affiliates or users of
+the Platform to comply with any laws, rules and regulations, some
+of which may not exist yet or are subject to interpretation and may
+be subject to change, could result in a variety of adverse
+consequences against the Company and its Affiliates, including
+civil penalties and fines.
+II. Blockchain networks also face an uncertain regulatory landscape
+in many foreign jurisdictions. Various jurisdictions may, in the
+near future, adopt laws, regulations or directives that affect the
+Platform, and therefore, the value of the Tokens. Such laws,
+regulations or directives may directly and negatively impact the
+operations of the Company and its Affiliates. The effect of any
+future regulatory change is impossible to predict, but such change
+could be substantial and could materially adverse to the
+development and growth of the Platform and the adoption and
+utility of the Tokens.
+III. To the extent that the Company and its Affiliates may be required
+to obtain licenses, permits and/or approvals (collectively, the
+“Regulatory Approvals”) to carry out its business, including that
+of the creation of the Tokens and the development and operation
+of the Platform, but are unable to obtain such Regulatory
+Approvals or if such Regulatory Approvals are not renewed or
+revoked for whatever reason by the relevant authorities, the
+business of the Company and its Affiliates may be adversely
+affected.
+IV. There is no assurance that more stringent requirements will not be
+imposed upon the Company and its Affiliates by the relevant
+authorities in the future, or that the Company and its Affiliates will
+be able to adapt in a timely manner to changing regulatory
+requirements. These additional or more stringent regulations may
+restrict the Company and its Affiliates’ ability to operate its
+business and the Company and its Affiliates may face actions for
+non-compliance if it fails to comply with any of such
+requirements.
+V. Further, should the costs (financial or otherwise) of complying
+with such newly implemented regulations exceed a certain
+threshold, maintaining the Platform may no longer be
+
+commercially viable and the Company and its Affiliates may opt
+to discontinue the Platform and/or the Tokens. Further, it is
+difficult to predict how or whether governments or regulatory
+authorities may implement any changes to laws and regulations
+affecting distributed ledger technology and its applications,
+including the Platform and the Tokens. The Company and its
+Affiliates may also have to cease operations in a jurisdiction that
+makes it illegal to operate in such jurisdiction, or make it
+commercially unviable or undesirable to obtain the necessary
+regulatory approval(s) to operate in such jurisdiction. In scenarios
+such as the foregoing, the distributed Tokens may hold little or no
+worth or value.
+(c)
+
+There may be risks relating to acts of God, natural disasters,
+wars, terrorist attacks, riots, civil commotions widespread
+communicable diseases and other events beyond the control of
+the Company and its Affiliates
+
+The sale of the Tokens and the performance of the Company, its
+Affiliates and/or the Platform’s activities may be interrupted, suspended
+or delayed due to acts of God, natural disasters, wars, terrorist attacks,
+riots, civil commotions, widespread communicable diseases and other
+events beyond the control of the Company and its Affiliates. Such events
+could also lead to uncertainty in the economic outlook of global markets
+and there is no assurance that such markets will not be affected, or that
+recovery from the global financial crisis would continue. In such events,
+the Company and its Affiliates’ business strategies, results of operations
+and outlook may be materially and adversely affected, and the demand
+for and use of the Tokens and the Platform may be materially affected.
+Further, if an outbreak of such infectious or communicable diseases
+occurs in any of the countries in which the Company, its Affiliates, and
+the participants of the Platform have operations in the future, market
+sentiment could be adversely affected and this may have a negative
+impact on the Platform and its community.
+(d)
+
+Blockchain and cryptocurrencies, including the Tokens are a
+relatively new and dynamic technology. In addition to the
+risks highlighted herein, there are other risks associated with
+your purchase of, holding and use of the Tokens, including
+those that We cannot anticipate. Such risks may further
+materialize as unanticipated variations or combinations of the
+risks discussed herein.
+
+1.6
+
+No Further Information or Update
+No person has been or is authorized to give any information or representation
+not contained in this Whitepaper in connection with the Tokens, the Platform,
+the Company or its Affiliates and their respective businesses and operations,
+and, if given, such information or representation must not be relied upon as
+having been authorized by or on behalf of the Company or its Affiliates.
+
+1.7
+
+Language
+This Whitepaper may be translated into other languages. If any disagreement
+should arise due to different language translations, the version in English will
+prevail.
+
+1.8 Advice
+No information in this Whitepaper should be considered to be business, legal,
+financial or tax advice regarding the Token, the Platform, the Company or its
+Affiliates. You should consult your own legal, financial, tax or other
+professional advisor(s) regarding the Token, the Company or its Affiliates and
+their respective businesses and operations. You should be aware that you may
+be required to bear the financial risk of any purchase of the Tokens for an
+indefinite period of time.
+
+

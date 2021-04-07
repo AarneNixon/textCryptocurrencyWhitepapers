@@ -1,0 +1,460 @@
+DeXe DAO
+MEMORANDUM
+
+Contents
+What’s a DAO?
+
+2
+
+Why DAO for DeXe.network?
+
+3
+
+Decentralization
+Self-sovereignty
+Accessibility
+
+3
+3
+3
+
+Transparency
+Trust & Confidentiality
+
+4
+4
+
+DeXe.network Token
+
+5
+
+DEXE within DeXe DAO
+Members’ accession and exit
+Voting and Proposals
+Proposals
+Implementation
+Veto
+DeXe Representatives
+Management of Funds
+Allocation of Funds
+Interruption of Protocol Functioning
+
+5
+5
+6
+7
+7
+8
+9
+11
+13
+14
+
+Closing Remarks
+
+15
+
+What’s a DAO?
+DAO or ​decentralized autonomous organization is an permissionless alternative to the centralized
+management of legal entities, which has been a cause of long-lasting troubles found under the key words of
+“minority shareholders”, “lack of control”, “unethical management”, “corruption” etc.
+
+Decentralized basically means that there is no central management, board of directors, CEO, COO, CTO and
+other similar acronyms typical for traditional entities. The organization is governed by the code or protocol
+which is designed specifically to facilitate governance of the organization. The typical dilemma of power
+concentration and ignorance of general interest is by nature impossible in DAO, since each and every
+stakeholder (usually token holder) in DAO has equal voting rights. All the decisions about economical,
+ideological, social development of the project and community behind DAO are made by voting by all
+stakeholders of DAO and all the transactions are irreversible thanks to blockchain.
+
+Autonomous ​feature of the organization is secured also by the protocol – smart contract, since the daily
+operations of the organization are automatically enforced when meeting a specific condition (e.g. majority of
+votes in favor) by the protocol.
+
+Organization ​implies creation of community with certain rules, or if voted so by the community members –
+with no rules at all. Thus, the rules of the DAO, which are usually strictly defined in the traditional entity’s
+by-laws, are voted on by the members of DAO. Since there is no management in the DAO, each member has to
+contribute to the organization by voting and providing proposals for flourishing organization. Members of DAO
+are not tied by any formal contracts or obligations and are driven by the mutual goal and network incentives
+which circle around the transparent consensus rules.
+
+DAO promotes the integrity of all members of the community, elimination of power concentration, access to
+trusted business and ecosystem for everyone and optimization of collaboration by autonomy and contribution.
+
+Inspired by Ethereum’s vision, we have long committed to the ideals of permissionless access, security, and
+immutability, all indespensable components for a future where anyone in the world can access financial
+services without fear of discrimination or counterparty risk.
+
+​Dexe.Network​
+
+2
+
+Why DAO for DeXe.network?
+Decentralization
+Ownership and power concentration become a “thing”, when the company grows.
+Statistics that within ​50% of 50 000 listed companies worldwide with a combined market
+value of USD 80 trillion, the ​3 largest shareholders held ​50% of the capital​1​. ​
+These
+shareholders have the power to directly influence the development vector of the company,
+as well as influence and elect the executive board.
+In DAO the power is decentralized and even though an executive body in DeXe DAO is
+offered to be elected in order to perform the tasks which currently remain outside of the
+smart contract functionality, their powers are limited exclusively by the results of the
+voting.
+Besides, token holder may submit a proposal on every matter and the proposal may only be
+accepted or declined upon the voting procedure.
+
+Self-sovereignty
+Members of DAO can easily access and exit DAO. No invitation from existing members is
+required to enter DeXe DAO. You share the values and mission of the community, you are
+interested in joining it by purchasing tokens? You are a member of DeXe DAO.
+In order to exit DAO no tiring selling procedures, shareholder resolutions or other
+time-consuming bureaucratic stuff is involved. You receive the payment for your tokens
+depending on their listing value and quit the DAO. Thus, whenever you dislike the
+movement of the organization you may try to remedy the situation by your proposals or
+quit DeXe DAO effortlessly and with no financial risks involved.
+
+Accessibility
+DAO exists within no specific national legal field, thus there are no legislative limitations as
+to the nationality of members, local directors or secretaries, proves of addresses and other
+time-wasting requirements which any of you, who have ever tried to enter a foreign entity
+must have encountered.
+
+1
+
+http://www.oecd.org/corporate/Corporate-Governance-Factbook.pdf​page 17
+​
+
+​Dexe.Network​
+
+3
+
+DeXe.network values its versatile community and the contribution of its members from all
+over the world and DAO perfectly satisfies the conditions for the development of such
+inclusive community.
+
+Transparency
+Protocols that constitute DeXe DAO are open-sourced. This contributes to the community,
+since the code can be reused by anyone wishing to start another DAO and extend the
+ecosystem. Besides, the code may be reviewed by anyone to ensure how the processes in
+the DAO work, as well as review all the transactions made within DAO, which are
+immutably recorded on Blockchain.
+Whereas the system is decentralized, the choices by the members may only be made freely
+without any pressure or coercion.
+
+Trust & Confidentiality
+Whereas the system is decentralized, the choices by the members may only be made freely
+without any pressure or coercion, and the confidentiality ensures that the location, name
+and appearance of the members is protected by privacy of cryptography. In DeXe DAO each
+member is identified exclusively by their crypto-wallet number. This also eliminates the risk
+of “teaming up” intentionally for or against an idea, person or proposal, since voting
+remains anonymous.
+Besides, the autonomous smart contracts of DeXe.network eliminate the risks of
+transferring digital wallet details such as private keys and API, any virtual currency data or
+other personal data to a third party.
+
+DeXe DAO will become an open, globally accessible community based on
+contribution from all the members.
+The network participants – token holders are an invaluable resource for the
+development of DeXe.network, and your participation in the governance of
+DeXe DAO proportionally provides for the network growth.
+
+​Dexe.Network​
+
+4
+
+DeXe.network Token
+The DeXe token (DEXE) enables the open and permissionless system. Following protocol rules and contributing
+resources facilitates consensus between participants.
+The token has two vital functions:
+(1) Automatic buyback and distribution among insurance vault, farming rewards among token holders and
+burning of tokens for a % of traders’ rewards. Refer to ​DeXe Light Paper​for more details.
+(2) Participation in DeXe DAO.
+It is not required to be a DEXE token holder to participate in DeXe.network and benefit from the several of its
+social trading functions. Moreover, DeXe is uploading DEXE smart contract into the open-source community
+which is free speech and is the fundamental tenants of our Memorandum. However, in order to be able to fully
+participate in the community, receive the voting right, contribute through proposals and benefit from the
+incentives inside the network, basically, to become the member of DAO, you are required to acquire DEXE.
+
+DEXE within DeXe DAO
+
+Members’ accession and exit
+
+Both entrance and exit of new members to DeXe DAO are permissionless.
+Everyone may become a member by acquiring DeXe token (DEXE) during the token sale or further on, which is
+further described in details in ​DeXe Light Paper​.Upon purchasing DEXE token holders becomes the member of
+DAO token and receives all of the economic rights implied under DEXE, as well as the right to (a) vote; (b)
+submit proposals; and (c) become DeXe Representative. Each DEXE provides the member with one vote, thus
+the system similar to usual shareholding is created.
+Each member may quit DeXe DAO at any time for any reason and without involving any reputational or
+financial risks.
+Members shall be also entitled to kick the member of the DAO out, however, exclusively in the case when the
+member has maliciously (a) continuously paused the properly functioning protocol or caused the network
+​Dexe.Network​
+
+5
+
+shutdown without any objective reasons (see Section “Interruption of Protocol Functioning”); (b) has
+implemented the changes into the protocol without taking the proposal through the proper voting procedure
+if the decision has been vetoed and the change has caused damage to the network; or (c) by any other means
+has intruded into the smooth and proper functioning of the protocol. The kick-out shall be performed through
+the general voting procedure. Kick-out will result in the automatic black-listing of the member’s account
+(wallet), which will disable them from participating in the voting, as well as review voting proposals.
+
+Voting and Proposals
+
+Every change in the structure of DeXe DAO, its daily operations and plans, as well as any business and
+functionality decisions regarding DeXe.network may only be implemented upon the proper on-chain voting by
+the token holders.
+For instance, regarding DeXe.network the vote may be on, but not limited to:
+(1) the period of time and regulating the percentage of burned tokens;
+(2) amount of farming rewards received (increase or decrease the % of accrual);
+(3) amount of burning of tokens for a % of traders’ rewards;
+(4) amount of burning of the insurance vault;
+(5) the insurance event and to deploy assets (likely a stablecoin like USDC) from the insurance vault;
+(6) ability to vote for the date of burning tokens and the accrual of farming rewards.
+Refer to ​DeXe Light Paper​for more details.
+As to the DeXe DAO token holders may vote on, but not limited to:
+(1) financial incentives within the DAO;
+(2) change of DeXe DAO memo;
+(3) grants of DAO funds for the development of ecosystem;
+(4) addition of new features to the DAO protocol.
+Etc.
+
+​Dexe.Network​
+
+6
+
+Proposals
+The list of actions brought to voting is unlimited, since so is the creativity of the DeXe DAO network. Each and
+every change may be introduced and implemented exclusively via the proposals process. The proposal may be
+submitted by DeXe DAO member and may include any offer, preferably beneficial to the community.
+The process shall go on as follows:
+(1) DeXe DAO member submits the proposal. Thereupon the 7 day consideration period begins.
+(2) 4% of DeXe DAO members should vote on the proposal via exclusively on-chain voting to reach
+quorum.
+(3) One DEXE = one vote.
+(4) The voting is anonymous, the count of votes is permanently visible.
+(5) The proposal is regarded approved by network upon the end of the consideration period, if the
+majority of the token holders of DeXe DAO went for “in favor”.
+(6) The decision upheld by the majority is thus similar to the usual voting in traditional entities, however
+the approval of the proposal constitutes a binding demand for DeXe DAO protocol.
+
+Initial governance parameters at DeXe DAO are:
+- 1% of DEXE total supply (delegated) to submit a governance
+proposal;
+- 4% of DEXE supply required to vote ’yes’ to reach quorum;
+- 7 day voting period;
+- 2 day timelock delay on execution.
+
+Implementation
+In case of the proposal’s approval, there are two possible ways of its implementation into protocol:
+(1) On-chain implementation​.
+Vast majority of the possible changes may be implemented automatically by the protocol and require
+no action from the token holders. Upon the approval of the proposal and end of the consideration
+period the system will automatically implement new changes. One example for such a change is a
+contract DEXE holders can use to vote on portfolios for which they will collect fees or the amount of
+fees DeXe.network can collect. The community is encouraged to consult knowledgeable legal and
+regulatory professionals before implementing any specific proposal.
+(2) Off​-​chain implementation.
+There may appear voted proposals, which require additional actions which may not be automatically
+performed by the protocol. For instance, change in the interface of the DeXe.network platform or
+change to the text of the DeXe DAO memo and respective changes to the protocol. For these needs
+the DeXe Representatives will be elected (see section “DeXe Representatives” for further details). They
+​Dexe.Network​
+
+7
+
+will be in charge of facilitating all and any off-chain changes, which have been voted by the token
+holders.
+
+Veto
+In case the member of DeXe DAO implements or initiates the implementation of any change to DeXe DAO
+protocol, DeXe.network or any other change, which has not been properly voted on and thus without the
+consensus of the community, the token holders have the veto right. If the token holders use their veto right
+upon the unagreed change, the system will automatically stop the implementation of the change.
+This right is of paramount importance for the community, since every transaction in DeXe DAO shall adhere to
+the consensus principle.
+
+Each decision which influences DeXe.network and DeXe DAO may be
+exclusively taken via voting procedure.
+Thus, the network achieves (a) transparency and total engagement of its
+members; (b) premediated decisions taken by those, interested in the
+network growth; (c) ideas and incentives for the upgrade of the protocols
+and system from the whole community rather than managing part of the
+organization.
+
+​Dexe.Network​
+
+8
+
+DeXe Representatives
+
+As it was slightly mentioned before, there are certain changes that the network decides to implement, which
+are out of the scope of on-chain automatic implementation. We as a community encourage all of us to
+contribute to the protocol in order to increase its autonomous functionality and the core-team of the
+developers are currently working on possible ways of total transition to on-chain changes enabling. We,
+however, simultaneously realize the need for immediate reasonable decision for the current state of the
+project’s development.
+
+Whereas complete decentralization is our ultimate goal, the risk of the
+project blockage for the sake of its immediate achievement will actually be a
+disservice to the decentralized community and DeXe.network in particular.
+
+In the traditional organizations the founders and core team of the project are usually the management board
+of the company. This is however alien to DAO as a concept and our striving for decentralization. The DeXe
+Representatives shall be elected by the token holders on the basis of representative democracy. Each and
+every member will have the possibility to submit their candidacy for the DeXe Representative and the other
+members shall vote on the exact candidate. In view of the initial token allocation, it is suggested that the
+community shall elect 5 DeXe Representatives for primary functioning. Upon the network’s growth the number
+and election procedure of the Representatives shall become the subject of voting.
+If the elected DeXe Representative(s) continuously fails to perform their main and only obligation of off-chain
+facilitation of the approved proposals, token holders may vote for the removal of the representative and
+reelection of the new one.
+DeXe Representatives shall remain unbiased and thus in order to eliminate the highly doubtful, though existing
+possibility of external influence on them, DeXe Representatives will receive remuneration for their functions in
+DEXE. The amount of remuneration, mode of payment and calculation shall become the issue to be voted on
+by the DeXe DAO members, so that the consensus representing the balance between the incentive for the
+Representatives’ work and impartiality is established.
+
+​Dexe.Network​
+
+9
+
+It is important to keep in mind that the core team of DeXe.Network will not
+automatically become DeXe Representatives and their status will be equal to
+the status of all token holders.
+
+However, the core team will remain in the process of the protocol development, auditing, and other matters in
+order to extend the decentralization functions of DAO protocol. At the same time, any changes to the protocol
+by the core team members will be put on vote in a regular manner. Core team will not participate directly in
+governance for the foreseeable future, although they may delegate votes to protocol delegates without
+seeking to influence their voting decisions. The core team should also be a first “go-to” for the DeXe
+representatives if the voted change requires the upgrade of the protocol, since it will only be beneficial for the
+network. However, the core team does not claim to be the “all-mighty” and if there are tasks that need to be
+performed by external experts the DeXe Representatives are invited to introduce them to the community.
+Finally, the core team may be required to implement some emergency changes in case the protocol fails. Upon
+such changes’ implementation and restoration of the system’s proper functioning, shall the changes negatively
+influence the previous functionality of the DAO protocol – the members may use their veto right on them.
+
+DeXe.network governance will be live from day one, although full protocol
+functionality and control over the treasury will be delayed until the end of
+2020. Control over the DeXe.network fee switch is subject to a delay as well
+
+​Dexe.Network​
+
+10
+
+Management of Funds
+
+Token Holders Incentives
+One of the DEXE functionality includes automatic buyback and distribution among insurance vault, farming
+rewards among token holders and burning of tokens for a % of traders’ rewards, proportionally within
+DeXe.network. DeXe.network processes automatic buyback from its social trading activity. By default 1\3 of
+automatic buyback shall be distributed in the sake of the development of DeXe.network. The distribution is
+monthly made automatically by the protocol (more detailed in the DeXe WP). However, the members of DAO
+shall take initiative to further vote on the amount of buyback automatically processed for DeXe.network, as
+well as directed to other needs of the platform, its development, community and ecosystem enhancement etc.
+Members of DeXe DAO will remain in full custody of the funds and their streaming to the most important, as
+decided by consensus, goals.
+Besides, the token holders are well invited to create other initiatives and incentives which may be rewarded by
+DEXE, for instance if any of the members personally upgrades the protocol, introduces drastic positive changes
+or otherwise significantly contributes to the community. DeXe Representatives shall also be rewarded via the
+token holders incentives mechanism, as the community shall decide.
+
+Grant of Funds and other
+DeXe network is committed to contributing and enhancing the decentralized ecosystem within the DeXe DAO
+community and far behind its membership. Thus, DeXe is committed to allocate DEXE tokens for the purposes
+of conduction of meetups, grants to the community, learning and spread of knowledge, partnership. As
+described in further details in ​DeXe Light Paper​, 33% of DEXE tokens are intended to be used for these
+purposes.
+DeXe network is also committed to contributing to a strategic ecosystem partnerships that facilitates
+consensus between participants and includes, among other features, protocol participation, community
+building and research.
+However, the exact decision as to the management of funds and their direction for the ecosystem needs shall
+be taken exclusively by the token holders via the usual voting procedure. Members of DeXe DAO are welcomed
+to introduce any possibilities of ecosystem growth by the proposals brought to voting and thus allow the
+community to choose the most decent ways of funds’ contributions.
+
+​Dexe.Network​
+
+11
+
+Investment
+With the growth of DeXe.network there may appear investors who, being encouraged by the ideas of DeXe
+network, will be interested in the investment of the network as such, outside of the usual token acquiring
+procedure. Where this investment may be beneficial to the network, the members are invited to come up with
+the idea of how to accept this investment. For instance, the incentive to issue additional tokens for the
+investor or to create the pool of tokens of those members, ready to sell their tokens to the investors.
+
+In any case, any proposal as to the acceptance of investment, mode and
+terms of such investment shall be voted on by the members of DeXe DAO.
+Same, any other decision that will result in any funds transaction will require
+a proper voting procedure, transferring the decentralised control of funds to
+the DeXe DAO community.
+
+​Dexe.Network​
+
+12
+
+Allocation of Funds
+
+Whereas DeXe.network aims to complete decentralization and grant of complete funds, including treasury,
+management to the community, the functioning of the DeXe.network already inherently requires several
+expenditure items to be constantly paid for. These include expenses for market-making, smart contracts
+development, marketing etc.
+Such expenses will be carefully considered by the core team and presented to the public annually. By their
+nature seem to be possible to be changed exclusively if the partners of DeXe.network (exchanges,
+marketmakers, marketing agency, developers are changed) are also altered. These expenses shall be currently
+accepted by the token holders as necessary for the maintenance of the platform and the members shall also
+realise that they may proportionally grow with the growth of the network.
+
+At the same time, DeXe DAO community will be extremely grateful to and
+supportive of any member or initiative that will find a way to decrease
+annually presented expenses without any losses of productivity and smooth
+functioning and development of the network.
+
+​Dexe.Network​
+
+13
+
+Interruption of Protocol Functioning
+
+Pause by Member
+In case of the incident, malfunction or disruption of the protocol functioning every member may
+pause their oracle or the whole system by initiating the temporary pause procedure. If the
+malfunction appears to be actually hurting the functioning of DeXe.network the protocol will either
+solve the issue or the core team of developers will be involved in order to solve the bug ASAP.
+However, in order to prevent abuse of the pause procedure, the community has the following
+prevention mechanisms:
+(1) The pause period shall be limited to the primarily decided by the token holders time period;
+and
+(2) In case there is no malfunctioning happening but the member or several of them continues
+to disrupt the function of the protocol, the remaining members may by virtue of voting
+unpause the protocol.
+
+Shutdown of Protocol
+In case the protocol automatically detects malicious phenomena in the network, the protocol will
+automatically shut itself down and restore upon the solution of the problem autonomously or by the core
+development team. At the same time, if the token holders obtain control over the system by any possible
+means and are assured of the protocol’s functioning safety, they, by virtue of general voting procedure, may
+reenable the functioning of the protocol.
+
+​Dexe.Network​
+
+14
+
+Closing Remarks
+DeXe DAO contributes to the decentralised ecosystem by putting their efforts into complete decentralization
+of platforms. It also creates a safe ​environment for the operation and development of DeXe.network, where all
+funds, governance and essential elements of the system are decentralized and autonomous.
+Every member of DeXe DAO may and is invited to contribute to the network through the proposals. Every
+member of DeXe DAO has the ability to influence the strategy and development of the network and the
+project. Every member of DeXe DAO is entitled to transparent observance of all transactions and protocols,
+and every member has the equal ability to impact the development of the whole ecosystem.
+
+​Dexe.Network​
+
+15
+
+

@@ -1,0 +1,476 @@
+AITRA
+LITEPAPER
+AITRA TRADING PLATFORM
+
+09/20
+
+AITRA TRADING PLATFORM
+
+CONTENTS
+
+03
+WHAT IS AITRA
+
+05
+AITRA ANALYST TOOLS
+
+08
+AITRA COIN
+
+10
+MASTERNODE REWARDS
+
+11
+PROJECT ROADMAP
+
+AITRA TRADING PLATFORM
+
+WHAT IS AITRA?
+
+AI enabled Trading or AITRA is a platform
+developed for automated and accurate
+trading signals for the top and trending
+cryptocurrencies. Aitra’s machine learning
+algorithms are developed and trained
+to provide you the best buy and sell
+signals for maximum short and long term
+profits.
+
+All data points or technical analysis that
+are popular to determine the future of a
+coin like the EMA, SMA, Price Resistence
+and Supports and many more are used
+collectively with inputs from the top
+exchanges like Binance, Huobi, Bitmex,
+Coinbase Pro, Kraken, Bitfinex, etc. to
+determine the best possible uptrend or
+downtrend for a crypto asset.
+
+Trained and equipped with state-of-theart algorithms and machine learning
+capabilities, Aitra tools helps you view past
+performances and possible outcomes of
+the digital assets and equips you with the
+best possible pump or dump signals to
+maximize your ROI.
+
+The machine learning adds another layer
+to these algorithms and help in the best
+possible buy and sell scenarios to
+maximize your trading performance.
+
+10+
+Top Exchanges
+
+03
+
+20+
+Technical Tools
+
+AITRA TRADING PLATFORM
+
+AITRA ANALYST TOOLS
+SMA - A simple moving average (SMA) is
+calculated on the average of a selected
+day range of prices, usually closing prices
+for the day divided by the number of days
+in that range. SMA is a technical indication
+to derive if a coin price will continue or
+reverse or whether the coin is headed
+towards a bull/bear market. SMA is
+customizable by trader as it can be
+calculated for various time periods and
+helps in deriving the average price of the
+coin over the time period specified. An uptrend in SMA indicates the coin’s price is
+on the rise and a down-trend means that
+price of the asset is decreasing. The longer
+the time period selected for SMA the less
+volatility is revealed and vice versa.
+
+Aitra data points are derived from the top
+most algorithms, tools and technique
+used in Crypto trading and each result is
+analysed and updated based on the
+trends in the top most crypto exchanges
+of the world.
+Here are a few most popular tools and
+instruments used in Aitra technical
+analysis for trading,
+EMA – The exponential moving average
+(EMA) is a moving average (MA) which is
+calculated based on recent data. The
+exponentially weighted moving average
+(EMA) algorithm is trained to react to
+recent price changes than the simple
+moving average (SMA) which calculates
+based on an average over a long period. A
+15 and 30 day exponential moving
+averages (EMAs) can be used and
+analyzed for short-term trading whereas
+60, 90 or 150 day EMAs are used to
+indicate a long-term trend for the trading
+coin.
+
+04
+
+AITRA TRADING PLATFORM
+
+AITRA ANALYST TOOLS
+
+RSI – The RSI (relative strength index) is a
+movement indicator used for analysis
+calculating the magnitude of recent price
+changes to determine overbought or
+oversold conditions in the price of a coin.
+It is represented as an oscillating line and
+show the range between 0 to 100. This
+indicator was developed by J. Welles
+Wilder Jr. and introduced in his seminal
+1978 book, "New Concepts in Technical
+Trading Systems." If the RSI indicates a
+value of 70 and above it means that the
+coin is becoming overbought or
+overvalued and may have a reversal
+or slump in price. Similarly, RSI reading of
+30 or below indicates a coin may be
+oversold or undervalued in the current
+market.
+
+BB - Bollinger Bands are a technical
+analysis tool developed by and registered
+to John Bollinger for generating oversold
+or overbought price signals. There are
+three lines that compose Bollinger Bands:
+A simple moving average (middle band)
+and an upper and lower band. The upper
+and lower bands are typically 2 standard
+deviations +/- from a 20-day simple
+moving average, but can be modified.
+Bollinger Bands® are a highly
+popular technique used by traders
+worldwide. If the middle band is closer to
+the prices of the upper band, it indicates
+that the coin is getting overbought
+the market, and the closer the prices
+move to the lower band, the more
+oversold and undervalued in the market.
+John Bollinger set 22 rules to adhere to
+when using the bands as a trading system.
+
+05
+
+AITRA TRADING PLATFORM
+
+AITRA ANALYST TOOLS
+
+Volume Profile - Traditional volume of
+trade is represented by the X-axis whereas
+Volume profile is shown on the Y-axis.
+Traditionally the regular volume of trade is
+the volume by time, i.e. regular volume
+(on the X-axis) shows how many
+transactions happened in that period.
+Volume profile on the other hand is based
+on price point and tells you how many
+transactions happened at each price
+point. The longer the bar is, the more
+transactions happened at that price.
+Hence regular volume is trading volume
+by time but volume profile is trading
+volume by price.
+
+VPVR – Volume Profile Visible Range
+(VPVR) is a basic volume profile tool that
+traders use and it is represented as a
+histogram. VPVR shows the volume traded
+in a particular price level from the candles
+shown on the screen.
+VPFR - Volume Profile Fixed Ranged
+(VPFR) is same as VPVR and the only
+difference is that you can define the start
+and end time range and see the volume
+profile only for that period.
+VPSV - Volume Profile Session Volume
+(VPSV) is the representation of the volume
+profile for all the sessions shown on a
+trading chart. Each session is usually
+represented by a day and it remains the
+same (1 day trend) with the change of
+time period of the trading chart.
+
+06
+
+AITRA TRADING PLATFORM
+
+AITRA ANALYST TOOLS
+
+Price Resistance and Supports –
+Financial trading analysts use price
+support and resistance levels to identify
+the price points on a chart where the
+probabilities favor a pause or reversal of a
+trend. The support is applicable where a
+downtrend is expected to stop due to a
+concentration of demand and resistance
+applies where an uptrend is expected to
+stop due to a concentration of supply.
+The market psychology plays a major role
+as traders and investors remember the
+past and react to changing conditions to
+anticipate future market movement.
+Support and resistance areas are
+represented in the trading charts using
+trend-lines and moving averages (MA).
+
+FIB – The Fibonacci ratios are a popular
+tool in the stock market and crypto
+trading is not different. The technical
+traders use them to determine critical
+price points where a coin’s current price
+trend is likely to reverse. The Fibonacci
+retracements are the most commonly
+used formula from all Fibonacci tools
+because it is relatively simple, and can be
+applied over any trading instrument. They
+are used to draw support lines, identify
+resistance levels, place stop-loss
+orders, and set target prices for buy/sell.
+Fibonacci retracement levels are
+represented by horizontal lines that
+indicate the possible locations of support
+and resistance levels and it can indicate
+how much of a prior move the coin price
+has retraced.
+
+07
+
+AITRA TRADING PLATFORM
+
+AITRA COIN
+Aitra is a masternode/PoS powered
+platform with benefits of pump/dump
+signals for the top and trending coins.
+Enjoy additional benefits of the Aitra
+network by not only hosting an AITRA
+node but also by making the best use of
+the trading signals derived from top most
+exchanges across the world, all under one
+platform and in one click of the mouse.
+The Aitra reward structure is developed for
+for fair sustainability of it’s Investors and
+stakers.
+The Aitra platform uses a Proof-of-Stake
+protocol, allowing a cryptocurrency
+blockchain network to achieve
+distributed consensus. In PoS-based
+cryptocurrencies, the creator of the next
+block is chosen via various combinations
+of random selection of wealth and age.
+In contrast, the algorithm of Proof-of-Work
+(PoW) based cryptocurrencies where
+rewards are given to participants who
+solve complicated cryptographical puzzles
+in order to validate transactions and
+create new blocks (i.e. mining).
+
+Aitra Wallets
+Aitra for Desktop and APP -Aitra
+Desktop will be the main GUI wallet. This
+wallet will be integrated with all features
+like storing, monitoring and staking and is
+intended to be the centerpiece and
+default wallet of the Aitra platform.
+AITRA-qt wallet - AITRA-qt will
+include features like coin control, and
+filtering, masternodes but will not
+include platform-related features such as
+the marketplace or the signal feeds
+which are designed to be implemented
+on the Aitra desktop or APP only.
+AITRA Mobile and Web Wallet - Aitra
+mobile wallet will include simple public
+coin transfer functions and will be
+available on Google Play. Web wallet on
+the other hand can be accessed on the
+go from any browser with same
+functionalities without having to
+download.
+
+08
+
+AITRA TRADING PLATFORM
+
+COIN SPECIFICATIONS
+Coin Name: AITRA
+
+Privacy Coin - Aitra is enabled with
+different privacy states, each with
+their own degree of privacy and cost. The
+highest privacy in transaction will
+be with the most transaction fee and so
+on.
+Lightning Network - The Lightning
+Network allows an instant, near-zero fee
+payments across a network of participants
+thus enabling all users to trade or host or
+transact in the platform almost instantly
+without any delay.
+Instant Payments - Lightning-fast
+payments without having to wait for block
+confirmation time wherein payment
+speed measured between milliseconds to
+seconds.
+Scalability - Capable of millions to billions
+of transactions per second across the
+network.
+Low Cost - By transacting and settling offblockchain, Aitra network allows
+exceptionally low or near zero transaction
+fee on transfers thus allowing
+micropayments.
+
+Ticker: AITRA
+Masternode Collateral: 20,000
+Block Distribution: 100% MN
+Total Supply: 360 000 000
+Premine (0.1%): 3 600 000
+Block Time: 60 Sec
+Maturity: 61 Block
+
+09
+
+AITRA TRADING PLATFORM
+
+MN REWARD TABLE
+
+Block Distribution
+1 - 200
+
+Block Reward
+
+MN Reward
+
+18000
+
+N/A
+
+201 - 10000
+
+3.00
+
+3.00
+
+10001 - 20000
+
+4.00
+
+4.00
+
+20001 - 30000
+
+5.00
+
+5.00
+
+30001 - 40000
+
+5.50
+
+5.50
+
+40001 - 70000
+
+6.00
+
+6.00
+
+70001 - 80000
+
+7.00
+
+7.00
+
+80001 - 90000
+
+7.30
+
+7.30
+
+90001 - 100000
+
+7.50
+
+7.50
+
+100001 - 110000
+
+7.80
+
+7.80
+
+110001 - 200000
+
+8.00
+
+8.00
+
+200001 - 71205920
+
+5.00
+
+5.00
+
+10
+
+AITRA TRADING PLATFORM
+
+PROJECT ROADMAP
+
+Q3 2020
+Blockchain Launch
+Platform Launch
+Community Introduction
+Marketing Campaign Release
+Desktop wallet Release
+Public PreSale
+Whitepaper Release
+Bitcointalk Announcements
+Bounty & Airdrop Campaigns
+
+Q4 2020
+First Exchange Listing
+Marketing Expansion
+Team hiring and new roles beyond
+core team
+Publicity and media campaigns to
+popularize the platform
+Web Wallet Release
+New technical analysis introduced
+in platform
+New coins added in Pump Signals
+
+Q1 2021
+·
+Community Engagement
+New partnerships with exchanges
+and crypto service providers
+Second Exchange listing
+Masternodes.online Listing
+CMC listing
+Sponsorship of key crypto
+Influencers
+Increased Marketing
+
+Q2 2021
+Aitra Platform enhancements in
+user Interface, integration, engine
+customization, rewards, sponsor
+platform
+Branding activities for Platform
+Establish Consensus Model
+Community Engagement
+Wallet Launch for Android and Mac
+Aitra App launch for regular
+notifications and trading signals
+
+10
+
+

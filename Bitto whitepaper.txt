@@ -1,0 +1,1251 @@
+ALL IN ONE
+CRYPTOCURRENCY
+EXCHANGE
+PLATFORM
+FULL-FEATURED SYNERGY
+
+Whitepaper v 1.3
+
+CONTENTS
+
+3
+
+Abstract
+
+3
+
+Vision
+
+4
+
+Introduction
+
+6
+
+Bitto Exchange Comparison
+
+7
+
+Why Choose Bitto
+
+7
+
+What is Bitto
+
+8
+
+What is Proof of Stake?
+
+9
+
+Bitto TGE Details
+
+15
+
+a. Security
+b. Market Competition
+16
+
+Roadmap
+
+17
+
+Future Development
+of Bitto
+a. Global Offices
+b. ATM Machine
+c. E
+ xchange Platform on
+a Secured Bitto Wallet
+Future Implementation
+
+a. Token and Funds allocation
+b. Bitto TGE Timeline
+10
+
+Benefits of Bitto
+a. User-centric Exchange
+b. Global services
+c. Bitto Buyback
+d. Bitto Estimate Value
+
+11
+
+What Does Bitto Offer
+a. L
+ ending and Borrowing
+• For Lenders
+• For Borrowers
+b. Staking
+c. Signal Trading
+d. Referral Program
+e. Smart Trading
+
+Risks
+
+18
+
+Future Implementation
+
+18
+
+FAQ
+
+20
+
+Team
+
+21
+
+Terms & Conditions
+
+21
+
+Conclusion
+
+01
+
+Abstract
+Since the introduction of the Bitcoin, the world of cryptocurrency has
+drastically expanded. Cryptocurrency exchanges began to feel estranged
+from a sudden boost in demand and have difficulties keeping up with the
+sudden market growth.
+As a result, many of them turned to maintaining and supporting their system
+rather than development. Some even closed down the registration being
+afraid to handle new users, as the number of the current ones started to
+become unbearable. However, in order for the market to grow brand-new
+exchange platforms should be developed.
+That is why we would like to introduce you to Bitto - a reliable and easy-touse exchange platform where anyone can quickly trade, buy, and sell any
+cryptocurrencies through a single convenient interface. Our goal is to help
+people that believe in the power of cryptocurrency maximize their profits
+on-the-go without any effort.
+Here users can utilize multiple sources to get income from passive earning
+to lending. Also, we have raised a team of professional traders to help users
+without any trading experience by providing trading insights and give head
+ups on building their own Investor Portfolio.
+No matter what user role a person decides to take while interacting with
+Bitto, be it a contributor, a trader, a lender, borrower, or a referrer - our
+primary concern is making sure they are guaranteed to enjoy the Bitto
+experience and make the most out of it (in monetary terms, of course).
+This whitepaper describes the essence of the Bitto Platform, how it works,
+and how it will be developed.
+
+02
+
+Vision
+Our goal is providing users a synergetic platform for all their cryptocurrency
+operations.
+Our mission is to further develop the Bitto Platform following the user-centric
+approach and therefore play a part in the raising the world’s awareness
+about the benefits of cryptocurrency. We strive to inspire the mass adoption
+of the Bitto tokens resulting in its everyday usage in society.
+
+3
+
+We plan to extend the reach of Bitto by using our global offices to help build
+physical servers that would provide faster and smoother trading. Currently,
+we are working on gathering a dedicated support team, and because we
+believe in decentralized, our whole team are internationally based and
+committed by a one believe that Bitto will be the next top Exchange.
+
+03
+
+Introduction
+Exchanges are one of the first and the most popular services that have
+emerged in the cryptocurrency industry and remain the largest one
+regarding the number of companies and hired employees.
+Exchange entities provide users with services to buy and sell their
+cryptocurrencies or any other digital assets for the first currency of their
+choice or other cryptocurrencies. They play an essential role in the economy
+of the cryptocurrency as an available marketplace for trading, liquidity, and
+price monitoring.
+While the potential of the cryptocurrency market has been long ago
+recognized, only in 2017, it has finally made a hit. However, even with the huge
+capitalization and increased interest in this sector, the number of market
+players remains low, forming an opening for new all-encompassing and
+innovative solutions.
+Now the world has only 51 cryptocurrency exchange platforms in 27 countries.
+According to the Global Cryptocurrency Benchmarking Study by Cambridge
+Center for Alternative Finance, 52% of small exchanges have a license issued
+by the government, while this percentage is only 35% among the large ones.
+85% of exchanges in Asia-Pacific have no license whatsoever when the North
+American exchanges are licensed.
+Exchanges fall into three categories according to offered services:
+• Order-book exchanges
+• Brokerage services
+• Trading platforms
+72% of small exchanges specialize in one type of exchange activity (where
+brokerage services lead), while the same percentage of large exchanges
+provide multiple exchange activities like an order-book exchange, trading,
+and brokerage. However, there is a shortage of platforms that cover all of the
+services at the same time.
+
+4
+
+Most of the exchanges follow a traditional architecture, carrying out a
+centralized approach to handling user’s funds. Meaning that users have to
+trust their money to the third parties, which can be very dangerous and
+lead to the risk of possible security breaches and loss of hundreds if not
+thousands of millions of dollars.
+Peer-to-peer (P2P) transaction system helps mitigate the risks. However,
+platforms that utilize such services usually deal only with trading. As even if
+P2P does bring users together, it cannot solve other fundamental security
+issues. Therefore, the best way to avoid the risks is by putting up high
+commissions and increase currency rates. And that is where we follow a
+stringent guideline of working with BitGO to hand.
+We offer users to try the Bitto Platform that utilizes smart contracts that help
+both parties of any transaction securely pass their cryptocurrency assets.
+We will also be implementing.
+• Websocket API and high frequency trading support
+• OAuth - KYC - 2FA
+• Cloudflare to prevent DDOS attacks
+• Multiple Offline and online Backup to files to prevent hacking
+• Cloud servers and multi tier security implementation
+• Cold Wallet integration with multi-signature protocol
+
+ ecure. BitGo pioneered
+S
+multi-signature technology,
+key recovery solutions,
+zero confirm transaction
+services and other safety
+and usability protocols that
+have enabled businesses to
+use digital currencies
+
+5
+
+ itGo provides a platform
+B
+and services for payments,
+processing, treasury
+management, risk,
+compliance, logistics, B2B
+and B2C applications
+
+BitGo makes digital
+currency usable in a
+regulated economy,
+empowering businesses to
+work with digital currency
+easily at scale alongside its
+other currencies
+
+04
+
+BITTO Exchange
+Comparison
+Bitto
+
+Binance
+
+Salt Lending
+
+Coin Price
+
+Ico Price $ 1
+
+$9.7
+
+$15.3
+
+$9
+
+Total Circulating
+Supply
+
+12 Mil
+Coins
+
+91 Mil
+Coins
+
+99 Mil Coins
+
+54 Mil
+Coins
+
+Total
+Supply
+
+23 Mil
+Coins
+
+181 Mil
+Coins
+
+199 Mil
+Coins
+
+120 Mil
+Coins
+
+24 Hour Volume
+
+Est.
+$ 20 Mil
+
+$ 12 Mil
+
+$ 2 Bil
+
+Margin Trading
+
+Trading
+
+Lending
+
+Staking
+
+Referral
+
+Signal Trading
+
+Borrowing
+
+Buyback
+
+6
+
+Kucoin
+
+Bittrex
+
+$ 624 Mil
+
+05
+
+Why Choose BITTO
+Our team ensures that trades seamless and secure. Users will have access to six
+core service models:
+• P
+ eer-to-peer lending and
+borrowing
+• I ncreasing liquidity and
+encouraged financial progress
+
+• Referral program
+• Signals from professional traders
+• Multiple sources of revenue
+
+Therefore, the amount of potential profits for users of Bitto is infinite. Even having
+close to zero experience in trades doesn’t affect their trading opportunities. They can
+be sure to have successful trades with Bitto’s team of professional trading experts.
+Users can watch their trades and copy their success.
+Moreover, the income from referral commissions is also a significant financial benefit.
+Users may gain up to 35% in commissions depending on whether the user is
+a contributor or a non-contributor.
+We also offer support for local businesses through the peer-to-peer lending service.
+It helps users provide financial support for one another without jeopardizing the
+growth of their cryptocurrencies.
+We understand the volatility of local currencies, so we do not encourage to keep
+money in the fiat currency for too long. Instead, we invite them to contribute to the
+Bitto growth by acquiring Proof-of-Stake (POS) based Bitto tokens.
+In a case our users are concerned about the rising challenges of energy and the
+blockchain, the Bitto team has also thought about that. Instead of the proof of work
+mechanism that consumes lots of energy resources and, therefore, raises the cost of
+running blockchain transactions, Bitto token utilizes the POS to stabilize their income
+with passive Bitto earning in an environmentally-friendly way.
+
+06
+
+What is BITTO
+Bitto token is the official digital asset of Bitto. The Bitto token will serve as the primary
+value transfer medium for users in the Bitto community.
+Bitto is a Proof of Stake token based on the Ethereum token ERC20. It is backed by
+the Ethereum blockchain to provide for lower transaction costs and benefits from
+the rise in prices on both ETH and BTC. Contributors can purchase Bitto tokens at the
+time of TGE, мand later enjoy special privileges at the launch of the Bitto exchange.
+Bitto plans to distribute a total of 12 million Bitto tokens (depending on the number of
+tokens sold, it may be less). Afterward, no more Bitto tokens will be produced beyond
+the total supply of 23 million Bitto to protect the value of the token.
+
+7
+
+The price for Bitto token is $1 with further incentives and tier benefits.
+
+07
+
+What is Proof
+of Stake?
+Proof of Stake (PoS) is a category of consensus algorithms for public
+blockchains that depends on a validator’s economic stake in the network.
+The Proof-of-Work-based public blockchains have the algorithm rewards
+participants who solve cryptographic puzzles to validate transactions and
+create new blocks (i.e., mining). On the contrary, the PoS-based public
+blockchains allow a set of validators to take turns proposing and voting on
+the next block, and the weight of each validator’s vote depends on the size of
+their deposit (i.e., stake).
+Significant advantages of PoS include security, reduced risk of centralization,
+and energy efficiency. In general, proof of stake algorithm looks as follows.
+The blockchain keeps track of a set of validators. Therefore, anyone, who
+holds the blockchain’s base cryptocurrency can become a validator by
+sending a special type of transaction that locks up their currency into a
+deposit. The process of creating and agreeing to new blocks is then done
+through a consensus algorithm that all current validators can participate in.
+As a result, PoS currencies can be several thousand times more effective than
+Proof of Work in costs, which relies on energy usage. It also ensures that the
+holders of Bitto tokens will support the value of Bitto by reducing the tokens
+circulating in market supply.
+
+8
+
+08
+
+BITTO TGE Details
+Token Distribution
+Token
+Generation
+
+34.9%
+
+Reserved
+
+17.3%
+
+Bounty
+
+8.7%
+
+Team
+POS
+
+21.7%
+
+8.7%
+Referral
+
+8.7%
+
+Volume of token
+issuance:
+23,000,000 Millions Coins
+Number of token to be
+distributed:
+12,000,000 Millions Coins
+(excluding 5,000,000 BITTO
+for POS & 6,000,000 BITTO
+for Team Reserve)
+Project protocol: ERC 20
+Hard cap:
+USD 12,000,000 Millions
+Soft cap:
+USD 1,000,000 Million
+Price 1 BITTO: USD 1
+Token symbol​: BITTO
+
+Token Allocation
+Marketing 10%
+Operating
+Cost
+
+Development
+of Exchange
+
+40%
+
+20%
+
+HR
+& PR
+
+5%
+
+Legal
+
+15%
+
+Research
+and Future
+Development
+of Wallet and
+Exchange
+
+10%
+
+9
+
+10
+
+Benefits of BITTO
+a. User-centric Exchange
+Seamless exchange based on an environmentally-friendly proof of stake,
+containing a lending platform, a dedicated support team, and a progressive
+organization in one platform.
+To appreciate the help of our investors, the Bitto team gives back up to
+3 million Bitto tokens to our future platform users and our contributors.
+
+b. Global Services
+We are an exchange agency that wants to shape the landscape of the
+current crypto-exchanges to provide dedicated servers around the globe
+and ensure precision timing of trades.
+We aim to deliver the impeccable customer support and security against
+the DDOS attacks to all our users.
+Realistic rewards and profits for our platform users and contributors offer
+them a one-stop solution for all their needs.
+We aim to integrate live usages of Bitto tokens by proactively partnering
+with local merchants, and raising the value of Bitto tokens.
+
+c. Bitto Buyback
+A certain percentage of profits will be allocated for Buybacks and Burn
+programs. It will be verified and audited using Blockchain as a form of an
+accounting system. All the transactions committed for buybacks will be
+published to ensure public’s confidence in Bitto Prices.
+These buybacks and burns will slowly reduce market supply, increasing
+staking and the value of contributors’ Bitto tokens over time.
+
+d. Bitto Estimate
+Value In a year we expect the growth of user base up to 1 mission. It is
+considered a very conservative amount as it is less than 0.02% of the current
+top exchanges. We believe that by integrating an all-in-one platform, our
+growth rate is going to exceed our expectations to ensure rapid growth and
+competitive edge for the next few years.
+
+10
+
+What Does BITTO
+Offer
+
+11
+
+Bitto is a convenient user-centric platform for comfortable and secure
+cryptocurrency exchange and trading. We offer our users a set of features
+developed to make the most out of each crypto-experience:
+• Staking
+
+• Referral Program
+
+• Lending and Borrowing
+
+• Smart Trading
+
+• Signal Trading
+
+Staking
+John Smith
+Bitto team invites users to stake their coins
+into Bitto Exchange Platform and begin
+passively earning Bitto Tokens 15 days
+after the contribution has been made. This
+makes Bitto Exchange the first exchange
+to implement an ERC20 Proof of Stake
+token that can be implemented and
+rewarded even on private wallets such as
+Myetherwallet.
+It is an environmentally friendly option
+that allows the members to earn
+while saving energy resources. It only
+requires them to have a computer and
+a wallet in a staking mode instead of
+computationally intense hashing that
+consumes enormous power capacities.
+
+11
+
+interest on the balance
+
+
+
+FOLLOW
+
+Lending and Borrowing
+a. For Lenders
+
+b. For Borrowers
+
+Every user has an opportunity
+to make additional income
+by temporarily lending their
+cryptocurrency assets to other
+members of the platform. To become
+a Lender, the user has to fill in a form
+with an appropriate set of terms
+under which they are willing to lend
+out and then wait for a member to
+select their offer.
+
+Users that want to take part in trades
+without selling their cryptocurrencies
+have an opportunity to borrow using
+cryptocurrency assets as collateral
+to receive loans. They can browse
+among the offers placed by potential
+Lenders to choose the one with the
+most suitable terms and interest
+rates.
+
+Cryptocurrency assets of each
+member are protected by a smart
+contract that confirms the terms
+of the loan, foresees for the timely
+monthly repayments and guarantees
+the Lender a return on their
+investment.
+
+As the Borrower makes each payment
+on time, the Bitto team tracks
+their credit behavior and awards
+points that can be used for credit
+advantages in the future.
+
+Automated investing
+
+Available to lend
+
+$668,048
+
+INVEST
+
+12
+
+Once they have selected and agreed
+to the Lender’s terms, they sign a
+smart contract that is going to put
+the Borrower’s cryptocurrency assets
+as collateral. In return, the Borrower
+receives a loan in their local fiat
+currency directly into their bank
+account.
+
+
+
+Signal Trading
+Bitto Exchange Platform offers new
+members with no experience in
+trading to rely on the signals of the
+carefully selected and approved
+professional trade managers. Their
+trades, analytic skills, and trade
+predictions are going to help users
+set up their Investor Portfolio from
+scratch. Future implementation of
+further customized Signal Following
+will be an option to allow users to
+decide themselves on occasion
+via mobile app notification on
+whether to follow the signal or not.
+We will be recruiting top Telegram
+Signal providers to provide the next
+alternative V2 Bitto Signal Trading
+option.
+
+Bitto Signal platform
+To provide a safe and secure Signal
+environment for our users, we have
+come up with solutions for several
+common concerns. They are going
+to be continuously improved and
+altered to secure user's confidence
+in our Bitto Signal platform
+
+Tier Classification For
+Signal Traders
+Signal Pool fund size depends
+on Period, Volume, % Profit and
+%Losses of the Signal Provider.
+Therefore, it is going to minimize
+the risks and mitigate unforeseen
+circumstances.
+
+Bitto Monitoring System
+We monitor traders that are not
+performing consistently, and alert
+and provide their followers with
+
+this information. We understand
+followers may not be actively
+tracking their Signal’s Performance
+all the time, and there is always a
+chance for ups and downs. That is
+why our Bitto monitoring system
+looks out and protects user's
+investments.
+
+Copy Trades Easily
+Signals are auto-traded, user's input
+would be the amount one would
+like to invest, and the amount of
+commission they are willing to share.
+The default percentage is 18%.
+
+Limited Amount
+Of Followers
+Each Signal is given an X number of
+followers to avoid a massive spike
+in price and a massive dump on the
+exchange.
+
+Systematic Buy-Ins
+To control volatility and to ensure
+fair copy trading, a bot will be
+implemented to guarantee fair
+price entry for all followers.
+
+Signal Traders
+BB Bollinger bands
+Total Days Trade 180 D
+
+T2 Highest Crypto
+Total Days Trade 50 D
+
+FOLLOW
+13
+
+
+
+
+Referral Program
+The referral program is based on a
+highly beneficial three-tier referral
+system to give incentive for platform
+users to encourage others to use
+Bitto platform.
+
+John Doe
+
+James Doe
+
+Users can earn up to 35% in commissions for referring the Bitto Exchange
+Platform to their friends, colleagues,
+acquaintances, and so attracting
+new users. To take part in Bitto Referral Program the user has to:
+
+
+
+20% of 0.25%
+
+• B
+ ecome a member of the
+Bitto Platform
+
+TAKE FEE
+
+• Receive unique referral link
+• P
+ ost it on their site, social
+network feed, etc.
+●• W
+ ait to receive the
+% in commission fort-weekly
+
+Smart Trading
+Bitto is a global exchange platform
+that assists users to trade any
+cryptocurrency with one simple
+interface. It presents all necessary
+information on one screen that helps
+users raise profits through trading
+within a Peer-to-Peer environment.
+Currently, the Bitto team works
+on attracting and establishing
+connections with merchants to
+develop all mentioned above
+platform's features. We put a lot of
+efforts to make sure users can have
+multiple sources of income by merely
+using Bitto.
+Users that decide to contribute
+to the development of the Bitto
+14
+
+get to use offline cryptocurrency
+wallet storage, direct access to
+high liquidity trade and portfolio
+management and receive a No
+Trading Fee privilege that can last
+up to 12 months.
+
+Trading fees *
+
+0%
+
+Support
+
+24/7
+
+Trade Anywhere On The Go
+
+BITTO Token Usage
+
+12
+
+Lending
+
+Signal Trading
+
+The amount the user can lend
+depends on the amount and value of
+Bitto Tokens they hold. (For example,
+$1000 worth of Bitto allows borrowing
+up to $1000 in fiat currency)
+
+Proof of Stake
+
+Bitto Tokens will be used to pay
+commission to Signal Providers as
+well as a membership method to
+prioritize fill orders for Signal Followers.
+In case users want to follow Bitto
+Signal Providers they have to use Bitto
+Tokens.
+
+Bitto Tokens can be staked to earn
+more Bitto tokens. It is planned to
+reward 5 Million Bitto Tokens in 2 years.
+
+Bitto Tokens can also be used to
+reduce trading fee commission for
+non-TGE contributors.
+
+Risks
+a. Security
+
+• C
+ omplete Hosting Security
+strengthened by Biometrics
+
+As with any business, running a
+cryptocurrency exchange has risks.
+Bitto team understands this, but our
+expertise and experience are going to
+help us avoid and overcome them.
+
+• D
+ edicated Cloud-Based Solution
+& Physical Servers located in Key
+Geolocations in U.S, Europe & Asia
+
+Lots of exchanges had difficulties
+troubleshooting the security
+breaches that came as a result of
+poor precaution measures. We have
+developed Bitto putting security above
+all. We have incorporated the industry’s
+best practices to build a genuinely
+secure infrastructure,
+including ISO/IEC 27001:2013 and the
+CryptoCurrency Security Standard
+(CCSS):
+
+15
+
+• R
+ obust real-time error checking
+KYC, AML & 2FA
+• DDOS attack prevention
+• B
+ oth Hot & Cold Wallet
+Implementation, providing the
+highest level of security for staking
+& medium to long-term funds.
+• P
+ roviding a decentralized exchange
+service using peer to peer system to
+allow participants to take loans and
+borrow directly using the platform
+without any third party involvement
+in the process.
+
+b. Market Competition
+The market of exchanges is currently
+the largest and the most competitive
+sector in the economy of the
+cryptocurrency. We understand
+that, and we are ready to face the
+extreme competition the process of
+shaping our exchange platform.
+
+13
+Q3
+2017
+
+Q1
+2018
+
+Q2
+2018
+
+16
+
+However, it is an ordinary risk that
+any growing company or a startup
+goes through. It always takes a little
+risk to do something bigger.
+If you believe in our experience and
+our platform, please join our Token
+Generation Event.
+
+Roadmap
+• Pre-sale: 22nd Dec 2017
+• TGE Start: 16th Jan 2018
+
+• Eidoo Wallet implementation
+• Bitto ERC20 Token upgrade
+to version 2 PoS by the end of
+March, 2018
+• Website UI and landing page
+redesign and development
+with clean PHP by the end of
+March 2018
+• A
+ dd Bitto tokens to at least
+External Exchanges
+• Get listed on Coinmarketcap
+• Acquire a support team for
+exchange
+• Test servers and offer bounty
+reward for bugs
+• Add to exchange the request
+and registration of intent of
+Tokens
+• Launch MVP 2.0
+• Announce Dev Team and
+update Bitto Team Members
+
+Q3
+2018
+
+Q4
+2018
+
+Q1
+2019
+
+• L
+ aunch exchange
+• Add TOP-10 cryptocurrencies
+& Additional 15 Alt + TGE token/
+coins
+• Start the 2nd stage of the
+Referral Program
+Implement Cold Wallet
+• T
+ est signal interface
+• Launch lending program
+• Set up local offices with
+Support and Private Servers
+• P
+ roactive approach to
+marketing and promotion
+of the Bitto usage to local
+merchants
+• Implement Signal Trading with
+Auto Shield
+• Start phase 1 of Buyback Burn
+
+Q2
+2019
+
+• S
+ tart the 2nd stage of Signal
+Trading
+• Provide Corporate and SME
+Business Loan into Bitto P2P
+Network
+
+Q3
+2019
+
+• F
+ ocus the Development team
+on App, Wallet and Platform
+integration.
+
+14
+
+Future
+Development
+of BITTO
+We are focused on providing services
+online and offline as well. While the
+current trend today is to bring all
+services and support online, we believe
+in having a traditional approach to
+customer interaction. By bringing a
+Brick & Mortar solution service to our
+clients, we believe we can raise the
+interest in the cryptocurrency market.
+
+a. Global Offices
+Local support teams shall help users
+and minimize backlogs of any issues
+users might face on the platform.
+We are going to hire Global Business
+Development Managers to promote
+and increase acceptance and usage
+of Bitto as a cashless currency among
+local merchants where it is legally
+permitted.
+We know that the acceptance of
+the Bitcoin and cryptocurrency in
+real-world is already happening.
+So Bitto aims to be at the forefront,
+contributing to a rapid and positive
+growth of the way crypto will be
+viewed and accepted in the future.
+
+17
+
+We plan to launch of Bitto, ETH
+And BTC blockchain physical ATMs
+in countries where it is legally
+acceptable, increasing further
+awareness of the exchange and the
+Bitto Cryptocurrency.
+it is also going to increase merchant’s
+acceptance of using Bitto, with
+low transaction fees as its major
+attractions.
+
+c. Launch secured Bitto
+Wallet Application
+We plan to launch the First ever
+Token exchange App where users can
+trade Major Cryptocurrencies on our
+Exchange and keep it safe and secure
+in their Bitto Cold Wallet.
+Using the 2-step verification services
+that implement the Time-based
+One-time Password Algorithm
+by Google is another way we are
+improving our security measures.
+
+b. ATMs
+
+d. Blockchain
+technology that has
+the benefit of both
+ETH & BTC
+
+Physical offices with Bitto ATMs
+nearby will provide borrowers with fiat
+currency, and also give an opportunity
+to keep their tokens in the form of a
+loan at the same time.
+
+Using the ERC20 Ethereum network as
+our backbone, we hope to ensure low
+and quick fee transactions. (Approx.
+$0.30 compared to Bitcoin $10
+at peak levels).
+
+15
+
+Future
+Implementation
+There are several initiatives we plan to implement in the future:
+• Voting for Signal Providers to show appreciation and raise their rate.
+• B
+ itto tokens will be used as an intermediary currency to buy and sell
+Merchant products on Bitto Exchange.
+• T
+ here will be a mobile wallet Bitto exchange app with online and offline
+access. (Currently, we are still testing a backup wallet in case if user's
+mobile phone goes missing, so their tokens are safe.)
+• A
+ TMs and local offices are going to be established to provide further
+exposure and ease of accessibility to users and Merchants.
+
+16
+
+F.A.Q.
+1.0 How are lenders given priority queue?
+The precedence is given to the Premium Lenders on a ‘first come; first serve’
+basis via system arrangement. The system queues premium Lenders through
+FIFO.
+
+2.0 Will there be a limit to the number of Stakers?
+The main factor in deciding a limited amount of stakers is going to be the
+profitability ratio.
+
+3.0 When will there be ATMs?
+ATMs will only be made available in countries that accept cryptocurrency
+due to regulations, thus prioritizing our offices in countries that recognize
+cryptocurrency.
+
+18
+
+4.0 A
+ re you sure the price of Bitto tokens
+is going to increase?
+With our low circulating supply, staking and a fruitful one-stop platform
+exchange, we are confident that the price of Bitto tokens is going to increase.
+We are also going to provide the users of Bitto exchange with a benefit
+of a lower trading fee by paying in Bitto tokens. Buyback Funds are also
+arranged to buy and burn Bitto tokens, so reducing the circulation amount
+in the market gradually. We are also confident that our exchange platform
+supported by our referral system and the community will attract enough
+users to appreciate the value.
+
+5.0 When will Bitto exchange be implemented?
+While we understand that many of our investors are eager to see the launch
+of our exchange, we want to reassure you that we are already in the midst of
+setting up servers, platform, and implementation of what we promised. The
+platform is being upgraded and tested to ensure that when we go LIVE in the
+third quarter of 2018, we will be the best option to go to for a safe, secure, fast
+and rewarding experience. Your patience will be rewarded with a highly valued
+Bitto token when we finish the proper groundwork and launch our exchange
+platform. Thank you for seeing this through with us.
+
+6.0 Who are the developers of Bitto?
+We are a team of young and experienced entrepreneurs and developers that
+have come together to create an exchange platform that is done for the
+community and by the community.
+
+19
+
+17
+
+Team
+NIC CHIN
+
+STEPH SIM
+
+​Co-Founder
+(Cryptocurrency Trader,
+Blockchain Developer,
+and Mining Enthusiast)
+
+​Co-Founder,
+Investment
+and Operation
+Development
+
+ADAM
+RADIVOJEVIC
+Marketing and
+Social Media
+Manager
+
+STEVEN
+
+AKSHAY RAVI
+
+Exchange Trade Manager
+(5 Years Retail Private Forex
+Trader with a Portfolio of over
+$1 Million in management)
+
+Business
+Development
+Executive (U.S.A)
+
+BITTO EXCHANGE ADVISOR
+ISMAIL MALIK
+Blockchain R&D + TGE Strategist
+Editor In Chief for TGE Crowd
+TOP 100 Most Influential Blockchain People
+
+A.J LLOYD
+Business development
+Manager ( E.U )
+
+Development team
+
+RUSDY MASYKURI SRDJAN ARAMBASIC
+Programmer and
+Security Specialist
+
+RULLY
+ABDILLAH
+Network and
+Security Engineer
+
+Web and Frontend
+Developer
+
+MARKO RAJEVIĆ
+
+TEDDY ZUGANA
+
+AJI SAPUTRO
+
+Frontend
+Developer
+
+Senior
+Web Developer
+
+Web Application
+Developer
+
+DANIEL
+Bitto Backend Exchange
+Lead Developer (Previous
+Binary.com Senior Developer)
+
+Marketing Support Team
+
+20
+
+VIKTOR
+KONOVALOV
+
+ANDREW
+KOVALCHUK
+
+EUGENE
+MEDVEDIEV
+
+Marketing Advisor
+
+Web Developer
+
+Web and Print
+Designer
+
+18
+
+Terms & Conditions
+This paper serves purely informational purposes and does not stand as a
+statement of future intent. Bitto makes no warranties or representations to
+the successful development or implementation of mentioned innovations or
+technologies noted in this paper. We disclaim any warranties implied by law or
+otherwise, to the extent permitted by law.
+All of the information presented in this document is based on the data obtained
+from the sources Bitto team believed to be reliable. However, Bitto makes
+no guarantees or warranties regarding the accuracy or completeness of the
+presented information.
+All opinions given in the paper are the author's’ personal judgments and
+predictions and can vary from the actual opinion of the Bitto. Therefore, the
+opinions mentioned may change without prior notice.
+Bitto is not obligated to update this document or notify the reader if any
+matter, forecast, or estimate changes or becomes imprecise.
+Use of Bitto Exchange Platform may have financial risks. Bitto does not carry
+responsibility for any damages, claims, expenses, delays or the costs of business
+interruption or any other losses. Therefore, at this moment the Bitto is released
+by you from any liability for any damage.
+
+19
+
+Conclusion
+The Bitto team has already established a solid basis for sustainable mediumterm growth based on the existing products and infrastructure.
+We have a long-term business plan for further product development. The
+current market situation demands a new synergic exchange solution, and Bitto
+is going to fulfill the role a secure trading provider and offer the much-needed
+infrastructure to become a market leader with the help of services and reliable
+network.
+We believe that blockchain and cryptocurrencies are the payment method of
+the future. To make such payments possible for all consumers with maximum
+convenience, we aim to connect the blockchains in the background and offer
+an easy-to-use interface to our users.
+Our goal is to ensure users enjoy the best the blockchain technology has to
+provide today.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ www.bitto.tech
+
+

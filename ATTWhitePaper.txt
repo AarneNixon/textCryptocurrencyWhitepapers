@@ -1,0 +1,2736 @@
+ATT White Paper
+
+ATT Foundation
+September 25, 2019
+
+https://www.attnetwork.org
+
+Contents
+0 Summary........................................................................................................................ - 1 1 Background....................................................................................................................- 2 1.1 Basic communication software and typical products.................................- 2 1.2 The rise of social networks.................................................................................- 2 1.3 Basic communication protocol......................................................................... - 6 1.4 Disadvantages of basic communication protocols..................................... - 8 1.5 Problems with social networks......................................................................... - 9 1.6 The origin and development of blockchain technology........................... - 9 1.7 Anonymity and decentralization...................................................................... - 9 1.8 Industry pain points........................................................................................... - 11 1.9 Use blockchain technology to implement cross-product communication
+protocols......................................................................................................................- 12 2 Design Principles.......................................................................................................- 18 2.1 System overview................................................................................................. - 18 2.2 Product architecture.......................................................................................... - 18 2.3 Deployment framework....................................................................................- 20 2.4 System goals........................................................................................................ - 20 2.4.1 Availability..................................................................................................... - 20 2.4.2 Throughput................................................................................................... - 20 2.4.3 Fault tolerance............................................................................................. - 21 2.4.4 Scalability.......................................................................................................- 21 2.4.5 Low cohesion................................................................................................- 21 2.4.6 Coupling........................................................................................................ - 21 2.4.7 Self-healing................................................................................................... - 21 3 Basic Agreement (ATT)............................................................................................. - 21 3.1 Previous achievements......................................................................................- 21 3.1.1 HTTP/HTTPS protocol................................................................................ - 22 I
+
+https://www.attnetwork.org
+
+3.1.2 RDP protocol................................................................................................ - 24 3.1.3 PcoIP protocol..............................................................................................- 24 3.1.4 HDX / ICA protocol..................................................................................... - 25 3.1.5 SPICE protocol..............................................................................................- 25 3.1.6 RFB protocol................................................................................................. - 29 3.1.7 X protocol......................................................................................................- 30 3.2 ATT protocol........................................................................................................ - 30 3.2.1 What is ATT................................................................................................... - 30 3.2.2 ATT Protocol head..................................................................................... - 31 3.2.3 ATT Message format................................................................................. - 31 3.2.4 ATT protocol data compression..............................................................- 31 3.2.5 ATT protocol scalability............................................................................. - 32 4 Public chain construction........................................................................................ - 33 4.1 Node Logic........................................................................................................... - 33 4.1.1 Agency contributions................................................................................. - 33 4.1.2 Node selection............................................................................................. - 34 4.1.3 Node responsibility.....................................................................................- 35 4.1.4 Node Disaster Recovery............................................................................ - 35 4.2 Consensus Foundation......................................................................................- 36 4.2.1 Consensus by contribution.......................................................................- 36 4.2.2 Consensus reward....................................................................................... - 37 4.2.3 Consensus Algorithm................................................................................. - 37 4.2.4 Complete Consensus Logic...................................................................... - 37 4.3 Mining rewards................................................................................................... - 39 4.3.1 Definition of mining in this system........................................................ - 39 4.3.2 The value of mining to the entire network.......................................... - 40 4.3.3 Resources Consumed by Mining............................................................ - 40 4.3.4 Rewards for miners..................................................................................... - 41 II
+
+https://www.attnetwork.org
+
+4.4 Penalty mechanism............................................................................................ - 42 4.4.1 Definition of evil in this system............................................................... - 42 4.4.2 Risk control................................................................................................... - 42 4.4.3 Malicious information................................................................................ - 43 4.4.4 Compliance Extension (PoR).................................................................... - 43 4.4.5 Evil punishment........................................................................................... - 45 5 Cross-Product Transport Protocol (TPTP)........................................................... - 46 5.1 Previous achievements......................................................................................- 46 5.1.1 Text Transfer Protocol................................................................................- 46 5.1.2 Picture transfer.............................................................................................- 47 5.1.3 File transfer................................................................................................... - 47 5.1.4 Voice Message............................................................................................. - 48 5.1.5 Audio and Video Calls................................................................................- 49 5.2 Improved transport protocol.......................................................................... - 50 5.2.1 Short connection message....................................................................... - 50 5.2.2 Long Connection Message....................................................................... - 50 5.2.3 Audio and video messages...................................................................... - 51 5.3 Cross-platform Transport Protocol (TPTP).................................................. - 51 5.3.1 What is TPTP.................................................................................................- 51 5.3.2 TPTP protocol header................................................................................ - 52 5.3.3 TPTP Message Format............................................................................... - 52 5.3.4 TPTP data compression............................................................................. - 54 5.3.5 TPTP scalability.............................................................................................- 55 6 Economic model.........................................................................................................- 56 6.1 PoC..........................................................................................................................- 56 6.1.1 What is contribution...................................................................................- 56 6.1.2 Contribution sources..................................................................................- 56 6.1.3 Contribution distribution.......................................................................... - 57 III
+
+https://www.attnetwork.org
+
+6.1.4 How the contribution distribution method promotes the entire
+network forward cycle..........................................................................................- 57 6.1.5 Optimal Energy Efficiency Theory of the Whole Network...............- 57 6.2 PoR..........................................................................................................................- 58 6.2.1 What are rules.............................................................................................. - 58 6.2.2 Rule use..........................................................................................................- 59 6.2.3 Rule recovery................................................................................................ - 60 6.2.4 How the Rule Recovery Method Promotes the Forward Cycle of the
+Whole Network...................................................................................................... - 60 6.2.5 Network-wide minimum limit theory.................................................... - 61 -
+
+IV
+
+https://www.attnetwork.org
+
+0 Summary
+The full name of ATT is AGREEMENT OF TELECOM TECHNOSPHERE,
+which is a decentralized information communication protocol based on
+blockchain technology. It is committed to providing an autonomous
+cross-platform communication solution for global social networks.
+Different SNS (Social Network Services) can establish an information
+network through this protocol, allowing users to conduct crossplatform social behavior.
+For all social network platforms using the ATT protocol, the information
+circulation will support end-to-end encryption, which can create a
+better timely communication experience for users, and the process of
+message transmission will be simpler, faster, reliable and private.
+As a decentralized instant messaging protocol, ATT combines the four
+major technologies of blockchain, DNS, smart contracts and instant
+messaging protocols. By uniformly identifying cross-chain account
+addresses, cross-platform communication becomes possible. Each user
+on the chain includes one or more server / service providers and
+applications. Each user on the chain can communicate with other users
+and modify the service provider at any time. With the open source and
+open ATT protocol, developers can focus on how to develop attractive
+applications without having to maintain the server.
+Ecology and users of ATT:
+BiYong, a one-stop blockchain social platform serving the world, will
+become one of the first SNSs to support the ATT protocol. BiYong has
+tens of millions of blockchain users and hundreds of thousands of
+blockchain project groups around the world. It is a social network
+platform that has received much attention and recognition in the
+blockchain industry. ATT will enable unprecedented cross-platform
+interaction and communication for our users.
+
+-1-
+
+https://www.attnetwork.org
+
+1 Background
+1.1 Basic communication software and typical
+products
+In today's extremely developed network, both the PC-side software and
+the mobile-side app have almost networking capabilities. Mobile
+terminals such as WeChat, Alipay, Meituan, JD.com and various mobile
+games, PC terminals such as various relational databases (MySQL,
+MSSQL, Oracle), caches (Redis, Memcached), websites and Web
+browsers, QQ and various Online games are based on network
+communication. Even remote desktops, network neighbors, shared
+folders under Windows, and Linux login using SSH are essentially
+carried out through Sockets, but they have only designed their own
+communication protocols. Another example is the web browser (such as
+IE, 360, Sogou, etc.) that we usually use to access the Internet. It just
+uses Socket to perform a "request / response" operation with the Web
+server through the HTTP protocol. The browser sends the request to the
+server. A request for a URL, and then the server sends back a response
+in the form of HTML. The browser then parses and renders the HTML,
+which is in the end some socket operations.
+What exactly is Socket? To put it plainly, it is just an interface provided
+by the operating system for developers to perform network operations.
+Through Socket, we can interact with the TCP/IP protocol stack in the
+operating system kernel to realize the transmission and reception of
+network information.
+
+1.2 The rise of social networks
+In 1971, the first email was born. The reason is to facilitate the scientists
+of the ARPANET project to share research results with each other.
+In 1991, after many years of practice and improvement, Berners Lee
+established the World Wide Web (WWW), which is characterized by
+"hyperlinks".
+-2-
+
+https://www.attnetwork.org
+
+In 1994, Justin Hall, a student at Swarthmore College, established his
+own site, "Justin ’ s Links from the Underground" to connect with
+external networks. Justin Hall has updated this site for 11 years, and is
+therefore known as the "founding father".
+Classmates.com was established in 1995 to help former kindergarten
+classmates, elementary school classmates, junior high school classmates,
+high school classmates, and college classmates get back in touch.
+Classmates. com had 50 million members in 2008, only to fall out of the
+top 10 social networking site in 2010. Here is a lively example of
+Romantic:
+
+Ray
+
+Sears
+
+found
+
+his
+
+seventh-grade
+
+girlfriend
+
+on
+
+Classmates.com. He asked her through the station's information tool if
+she remembered him, and she answered "how can I forget my first
+love". So they entered the palace of marriage and gave birth to two
+sons.
+In 1996, the early search engine Ask.com went online, which allowed
+people to ask questions in natural language rather than keywords (for
+example: "what movie is released today" instead of "movie release on
+October 23").
+In 1997, AIM, a real-time communication tool, was launched; this year, a
+pioneer blogger named Jorn Barger coined the term "weblog".
+In 1998, the online diary community Open Diary was launched, allowing
+people to post public or private diaries, even if they don’t know HTML.
+More importantly, for the first time, it enables people to respond to
+comments in other people's logs.
+In 1999, the blogging tools Blogger and LiveJournal appeared. Later,
+blogger was acquired by Google in 2003, but the product still exists FOSS patent, which is popular among global technology companies, is a
+website built by blogger.
+In 2000, Jimmy Wales and Larry Sanger co-founded Wikipedia, the
+world's first open source, online, collaborative encyclopedia, which is
+completely different from the way the British Encyclopedia was
+compiled. Wiki users contributed 20,000 online entries in their first year.
+At present, Wikipedia still insists on fundraising to raise operating funds.
+-3-
+
+https://www.attnetwork.org
+
+At the end of 2011, they raised 20 million US dollars to maintain 2012
+operations.
+In 2001, Meetup.com was established to focus on offline dating. This
+website should be relatively unfamiliar to everyone, but if you tell this
+12-year-old website that there are still 340,000 groups holding offline
+events every month, you should be surprised. The site was created by
+Scott Heiferman. After the September 11 incident in 2001, he founded
+Meetup.com to help people connect with each other-and not just
+online. Meetup.com is an interest dating site, he encourages people to
+go out of their isolated homes to make friends and chat with likeminded people. It now has 340,000 groups in monthly meetings in local
+communities, eating, drinking, chatting, socializing and even studying.
+In 2002, Friendster went online, the first social network with 1 million
+users. Friendster set a precedent for making friends through a personal
+homepage. Two years later, Facebook officially launched in the
+bedroom of Harvard University. Currently under Facebook's offensive,
+Friendster is basically declining globally, but it is still popular in
+Indonesia and the Philippines-interestingly, Facebook is also extremely
+popular in these two countries. It seems that Southeast Asian people
+have a strong social desire.
+In 2003, MySpace was launched for youth and youth groups, and it
+once again refreshed the growth rate of social networks: one million
+registrations in a month. The development of MySpace has gradually
+increased, and the useless verbal abuse has gradually increased.
+Managers have not regulated it, making it difficult to expand users and
+eventually being sold. If the 580 million sold to News Corp in 2005
+symbolizes that it is the new star of the future, the sale of $ 35 million
+to advertisers in 2011 means that the meteor has fallen.
+WordPress was also launched in 2003, which was created by hundreds
+of netizens around the world through online collaboration, and
+currently has tens of millions of users worldwide-as of December 2011,
+WordPress 3.0, which was released for a year, received 65 million times.
+download. There are countless stories related to WordPress, and the
+infographic tells the story of helping an autistic girl get out of her illness.
+-4-
+
+https://www.attnetwork.org
+
+This is called Carly Fleishmann, who got rid of autism by typing on a
+computer; she founded Carly's Voice's WordPress personal blog helps
+others get rid of autism.
+In 2004, Facebook was established. According to Facebook's first
+financial report after listing in July, Facebook currently has 955 million
+monthly user active users (MAU) and 543 million monthly mobile
+platform active users.
+Flickr was founded in the same year of 2004, and it is still a very active
+picture community, but the owner has become Yahoo.
+In 2005, YouTube was founded, and it was quickly adopted by Google
+after its establishment. The acquisition price from Google in 2006 was $
+1.65 billion.
+In 2006, Twitter was founded. Because its content is limited to 140
+words, it quickly became a convenient communication tool and a
+powerful self-media platform.
+Spotify was also founded in 2006, which is now typical of social music
+sharing apps, with 15 million MAU and 4 million paying users.
+In 2007, the light blogging platform Tumblr was established and
+currently has 77 million blogs on the platform; according to data from
+July 2011, the website has 13.4 million unique monthly visitors. As an
+example in the infographic, a female carpenter named Ana White
+started a blog on Tumblr to share her love for the carpenter's work.
+Now her blog is visited 3 million times a month, and her advertising
+income is enough to support her family.
+In 2008, Groupon went online, the largest group buying website in the
+world, but its share price has fallen by more than 80% in the past year
+and has been declining.
+In 2009, Foursquare went online to form a check-in-based social
+network based on location. Foursquare was founded in New York City
+and has a unique "4SQ Day" in New York on April 16 every year. As of
+April this year, Foursquare has 20 million registered users.
+
+-5-
+
+https://www.attnetwork.org
+
+In 2010,
+
+Google launched Google Buzz,
+
+a microblogging and
+
+communication tool around the most successful product, Gmail, but it
+was a failed product and was completely terminated by Google on
+December 15, 2011.
+In 2011, Google+ ’ s successor, Google+ went live. According to data
+from September this year, Google+ currently has 400 million registered
+users and 100 million active users per month.
+Pinterest experienced explosive growth in 2012 , in large part because it
+was named the "Best Startup of the Year" by TechCrunch at the end of
+2011, and it is currently the fastest website in the history of websites to
+reach 10 million unique visitors.
+
+1.3 Basic communication protocol
+The implementation of any network application is inseparable from
+Socket programming. Of course, we can use higher levels of abstraction
+and packaging, such as TcpListener, TcpClient, UdpClient, and more
+abstract WCF, WebService, Remoting and other technologies. However,
+in
+
+order
+
+to
+
+understand
+
+the
+
+underlying
+
+principles
+
+of
+
+network
+
+communication in a deeper way, it is ultimately impossible to bypass
+sockets.
+As long as you have a little understanding of Socket programming, you
+will know operations such as Bind, Listen, Accept, Connect, Send,
+Receive, etc. Indeed, all network applications are a reasonable use of
+these basic operations. For TCP, because it is a connection-oriented
+protocol, generally one party needs to act as the server to listen, and
+the other party acts as a client to initiate an active connection to the
+server. The general usage of TCP programming using sockets is as
+follows.
+Server-side code:
+Socket tcpListenSock = new Socket(AddressFamily.InterNetwork, SocketType.Stream,
+ProtocolType.Tcp);
+var tcpLocalEnd = new IPEndPoint(IPAddress.Any, listenPort);
+tcpListenSock.Bind(tcpLocalEnd);tcpListenSock.Listen(10);
+while(true)
+-6-
+
+https://www.attnetwork.org
+
+{
+var workerSock = tcpListenSock.Accept();
+byte[] buf = new byte[1000];workerSock.Receive(buf);
+}
+
+Client code:
+Socket serverSock = new Socket(AddressFamily.InterNetwork, SocketType.Stream,
+ProtocolType.Tcp);
+serverSock.Connect(serverEndPoint);
+byte[] buf = new byte[1000];serverSock.Send(buf);
+
+The general flow of the above code is: the server listens to the
+connection, when there is a client connection, the server receives the
+connection and starts to receive the data sent by the client and
+processes it; the client initiates a connection request to the server, and
+after the connection is successful, Send data to the server.
+Many online tutorials on Socket programming mostly introduce the
+above operations as soon as they come up, leading many beginners to
+think that Socket programming should be like this. Even many
+beginners will think that the server can only receive data and the client
+can only send data. To receive data sent by the server, the client must
+first listen to the connection from the server on a certain port of the
+client. They only know that TCP is a full-duplex protocol, but they just
+stay on knowing this concept and have nothing to do with practical
+applications.
+The above code just illustrates the most basic Socket programming
+method, which is "interactive synchronous blocking I / O" in term. In
+this way, the server listens to the local port. When there is no
+connection request, the user process will block in the Accept function
+until a client requests a connection. In addition, when a client
+connection comes in, the server user process will Busy with receiving
+client data, if a new client connects at this time, the server cannot
+respond. This method is called "interactive" because it is similar to "a
+client asks a question and a server answers a sentence".
+Connection-oriented TCP
+
+-7-
+
+https://www.attnetwork.org
+
+As the server needs to save various states of client logins, sessions, and
+activities, the communication between the client and server uses the
+connection-oriented TCP protocol. In addition, unlike traditional HTTP
+servers and browsers that use short connections (now the HTTP
+protocol uses long connections by default), we use long connections
+here, that is, once the client and server establish a TCP connection, The
+connection is automatically disconnected, but the connection is used to
+transmit data until the client actively disconnects.
+
+1.4 Disadvantages of basic communication
+protocols
+WebSocket uses a source-based security model. When initiating a
+WebSocket handshake request, the browser will add an HTTP header
+named Origin to the request. The Oringin field indicates the origin of
+the request to prevent unauthorized cross-site access requests. . The
+client of WebSocket is not limited to the browser, so the WebSocket
+specification does not mandate that the Origin header in the handshake
+phase is required, and WebSocket is not restricted by the browser same
+origin policy. If the server does not authenticate against the Origin
+header, it may lead to a cross-site WebSocket hijacking attack. The
+vulnerability was discovered and made public by Christian Schneider as
+early as 2013, and Christian named it Cross Site WebSocket Hijacking
+(CSWSH). Cross-site WebSocket hijacking is very harmful, but it is easy
+to be ignored by developers. Related cases can refer to: IPython
+Notebook (CVE-2014-3429), OpenStack Compute (CVE-2015-0259),
+Zeppelin WebSocket server and other cross-site WebSocket hijacking.
+Man-in-the-middle attack
+WebSocket uses HTTP or HTTPS protocol for handshake request. In the
+case of HTTP protocol, if there is a middleman who can sniff HTTP
+traffic, then the middleman can obtain and tamper with the WebSocket
+handshake request, and establish a WebSocket connection with the
+server by faking client information, as shown in the figure below As
+shown. To prevent such attacks, you need to establish a WebSocket
+-8-
+
+https://www.attnetwork.org
+
+connection on an encrypted channel and use the HTTPS protocol to
+initiate a handshake request.
+
+1.5 Problems with social networks
+
+
+Vulnerability in itself.
+
+
+
+Mobile phones and computer clients have security threats.
+
+
+
+Enterprise system security risks.
+
+
+
+Information leakage.
+
+
+
+Brand crisis.
+
+1.6 The origin and development of blockchain
+technology
+The blockchain originated from Bitcoin.On November 1, 2008, a person
+who claimed to be Satoshi Nakamoto published a paper entitled
+“ Bitcoin: A Peer-to-Peer Electronic Cash System ” . The architecture
+concept of electronic cash systems such as stamp technology and
+blockchain technology marks the birth of Bitcoin. Two months later, the
+theory entered into practice. On January 3, 2009, the first genesis block
+with a serial number of 0 was born. A few days later, on January 9, 2009,
+the block with the serial number 1 appeared, and connected with the
+genesis block with the serial number 0 to form a chain, which marked
+the birth of the blockchain.
+
+1.7 Anonymity and decentralization
+Decentralization is a very distinctive feature of the blockchain. Using the
+decentralization of the blockchain, we can open up some new business
+applications, such as the application of returning user data income to
+the user itself today. What is it? What do you mean? Luojia Mountain
+God still wants to use some examples to illustrate.
+First of all, let's talk about user data. User data refers to some data that
+can reflect the user's personal preferences and consumption propensity.
+This is like when we want to sell a product to a person, then we need to
+-9-
+
+https://www.attnetwork.org
+
+act on his needs and psychology. An effective analysis is that if more
+user data can be obtained, the merchant can sell goods more effectively.
+However, in the current Internet industry, these user data are generally
+participated by third-party platforms. This platform integrates user data
+Sell to merchants to gain benefits, but the users themselves do not
+receive any benefits. This is like someone else holding your information
+to gain benefits, and you may somehow receive some push ads.
+So how to change the above situation? Generally, the traditional
+Internet has a third-party platform to participate in obtaining user
+information. This is a kind of centralization. We need to eliminate this
+situation. At this time, we can think about this problem in conjunction
+with the decentralization of the blockchain. Decentralization refers to
+the fact that users do not need a third-party platform to obtain user
+data. Instead, users themselves provide data actively, so that we can
+enable users to obtain the benefits of their own data.
+How does it work? The first is that the user actively provides data, and
+then
+
+the
+
+intermediate
+
+data
+
+platform
+
+purchases
+
+the
+
+data.
+
+The
+
+intermediate data platform can encourage users to provide data
+through some benefits and benefits. Finally, the merchant purchases
+data from the data platform. The data platform can conduct
+transactions through smart contracts. Smart contracts The purpose is to
+ensure that the transaction is carried out reliably. The final revenue is
+distributed by the user and the intermediate data platform. This allows
+the user's data to be returned to the user. This is similar to the usual
+questionnaires that are paid for. After filling in, we will get a red
+envelope or some small gifts, which is equivalent to returning the data
+income to the user itself.
+Therefore, we can imagine that if the decentralized characteristics of the
+blockchain can be used to eliminate the involvement of third-party
+platforms, users can obtain their own data benefits, which will further
+promote the development of the big data market.
+
+- 10 -
+
+https://www.attnetwork.org
+
+1.8 Industry pain points
+Today, social networks are like glue, and anyone can get in touch with
+anyone else in the world through many social tools. However, with the
+rise of various social tools, the following issues will gradually become
+vital to bother users the elements of:
+Who owns user data. With more than 50 million user information on
+Facebook being captured and used by the political data company
+Cambridge Analytica, accurate advertising content is delivered to users,
+helping the Donald Trump team run for the United States in 2016
+president. After the incident came to light, it attracted widespread
+attention from the international community. Facebook and its founder
+and CEO Mark Zuckerberg fell into an unprecedented crisis and began
+to apologize to users!
+At present, global technology giants, as well as traditional companies,
+are doing everything they can to get more user data. Internet giants at
+home and abroad, such as Google, Facebook, Amazon, Tencent, Baidu,
+Ali, and Huawei, have huge amounts of user data, and these data will be
+collected as much as possible and used for user login experience.
+Take Amazon as an example. Its big data analysis system is second to
+none in the field of e-commerce. All the behaviors of users on its ecommerce website and APP will be collected as much as possible and
+used for the next login experience of users. When logging in again,
+users will find a personalized shopping experience on their homepage,
+"wish list", "recommended for you", "browsing history", "relevant
+products you have browsed", "users who bought this product" I also
+bought "and wait to show them one by one.
+Right now, the networking and transparency of personal data has
+become an irresistible megatrend. For the word privacy, the generally
+accepted definition in scientific research is "some attributes of a single
+user", as long as it meets this definition, it can be regarded as It's
+privacy. For a single user of online shopping, "purchase preference" and
+"residential address" are privacy.
+
+- 11 -
+
+https://www.attnetwork.org
+
+At present, human beings have enjoyed the convenience brought by
+artificial intelligence technologies such as recommendation algorithms,
+speech recognition, image recognition, and driverless cars at multiple
+levels. At the same time, in the process of scientific research and
+product development, algorithms need to be collected Using user data,
+user data privacy is more or less exposed during this process.
+Voices defending privacy have stated that while some people enjoy the
+convenience and efficiency brought by big data AI, they also scold the
+platform for reading their online privacy. Everything is your choice after
+weighing the pros and cons. If you want to protect your absolute
+privacy, don't use the Internet.
+The independence of each social product. As major social products
+divide up global users, users are compelled to register their accounts on
+each social product separately, and there is no possibility for each social
+product to communicate with each other.
+
+1.9 Use blockchain technology to implement crossproduct communication protocols
+Blockchain technology is a distributed ledger technology.It has the
+characteristics of decentralization and information cannot be tampered
+with, and is increasingly favored by all walks of life. In the blockchain
+system, all information is sent to the broadcast participating nodes of
+the blockchain, but the data of some business scenarios do not need to
+be recorded on the blockchain for broadcasting, these scenarios are
+only suitable for point-to-point communication.
+In the current blockchain system, as all parties remain anonymous and
+cannot directly establish a point-to-point data connection, how can a
+point-to-point data transmission connection be established in the
+anonymous system of the blockchain, while maintaining the point-topoint parties Anonymity has become an urgent technical issue.
+Technical realization elements:
+In order to make up for the shortcomings of the existing technology, a
+point-to-point communication protocol for the blockchain network is
+- 12 -
+
+https://www.attnetwork.org
+
+provided. , Solves the problem that because the parties remain
+anonymous, can not directly establish a point-to-point data connection.
+In order to solve the above technical problems, the following technical
+solution
+
+is
+
+provided:
+
+a
+
+blockchain
+
+network
+
+point-to-point
+
+communication protocol, including node A, smart contract, and node B.
+When one of the nodes A needs to establish a connection with another
+node B, The contract will broadcast the request to each node of the
+blockchain. The contract records the blockchain account address, time,
+and description of the reason for establishing the connection that the
+node needs to communicate with. When the node B receives the new
+block, it finds that A record of a smart contract, knowing that another
+node A wants to establish a private connection with this node, the node
+B may choose not to establish such a connection, that is, no subsequent
+operations are required, and if the node B chooses to establish a
+connection with it The information agreed to communicate with the
+node A is broadcasted through a smart contract. The node A uses the
+public key PubKeyB of the node B to encrypt the information such as
+the IP address port of the node A, and broadcasts to the entire network
+through the smart contract. The node B receives the encrypted
+information and decrypts the encrypted information through the
+private key PrivKeyB to obtain the IP and port of node A And send a
+signature by the private key PrivKeyB Hello message.
+Further, the node A receives the signature message sent by the node B,
+and verifies the signature by using the public key PubKeyB of the node
+B.
+By adopting the above technical scheme, the signature message of the
+Node B can be effectively verified.
+Further, if the node A passes the verification, the node A obtains the IP
+address and port of the node B, and sends a Hello message signed by
+the private key PrivKeyA.
+By adopting the above technical scheme, the node B can be made to
+verify the preparation of the node A.
+
+- 13 -
+
+https://www.attnetwork.org
+
+Further, the node B receives the signature message sent by the node A,
+and verifies the signature by using the public key PubKeyA of the node
+A.
+By adopting the above technical scheme, the signature message of the
+node A can be effectively verified.
+Further, if the node B passes the verification, a SUCCESS message is
+returned. The connection between the node A and the node B has been
+established at this time, and a point-to-point message can be directly
+sent through the connection.
+By adopting the above technical scheme, it is possible to prompt that
+the node A and the node B can establish a connection, and the node A
+and the node B can effectively perform a point-to-point occurrence
+message.
+Compared with the prior art, the blockchain network point-to-point
+communication protocol has the following beneficial effects:
+1) Through
+
+the
+
+point-to-point
+
+communication
+
+protocol
+
+of
+
+the
+
+blockchain network, a point-to-point data transmission connection can
+be established in the anonymous system of the blockchain, and the
+anonymity of the point-to-point parties is still maintained. The two
+parties establishing the connection can transmit private data through
+the connection, The establishment of a connection requires the consent
+of both parties. There is no risk of abuse. Other nodes on the network
+only know that such a connection exists, but cannot obtain private
+messages transmitted in the connection.
+2) Through
+
+the
+
+point-to-point
+
+communication
+
+protocol
+
+of
+
+the
+
+blockchain network, while maintaining anonymity, all parties can
+directly establish a point-to-point data connection, and can establish a
+point-to-point data transmission connection in the anonymous system
+of the blockchain, and still maintain Anonymity of peer-to-peer parties.
+BRIEF DESCRIPTION OF THE DRAWINGS
+The figure below is a flowchart of a blockchain point-to-point
+communication protocol.
+- 14 -
+
+https://www.attnetwork.org
+
+Detailed ways
+The technical solutions in the embodiments will be clearly and
+completely described below with reference to the accompanying
+drawings in the embodiments. Obviously, the described embodiments
+
+- 15 -
+
+https://www.attnetwork.org
+
+are only a part of the embodiments of the present invention, but not all
+the embodiments.
+Provide a technical solution: a point-to-point communication protocol
+for a blockchain network, including node A, smart contract, and node B.
+When a node A needs to establish a connection with another node B,
+the request is broadcast to the block through a smart contract On each
+node of the chain, the contract records the blockchain account address,
+time, and description of the connection establishment reason that the
+node needs to communicate with each other. When Node B receives
+the new block, it finds a record of such a smart contract. Another node
+A wants to establish a private connection with this node. Node B can
+choose not to establish such a connection, that is, no subsequent
+operations are required. If node B chooses to establish a connection
+with it, the information that is agreed to communicate with node A will
+be passed through a smart contract. Node A uses the public key
+PubKeyB of Node B to encrypt the information such as the IP address
+and port of Node A, and broadcasts it to the entire network through
+smart contracts. Node B receives the encrypted information and
+decrypts the encrypted information through the private key PrivKeyB.
+Obtain the IP and port of node A and send a Hello message signed with
+the private key PrivKeyB.
+Further, the node A receives the signature message sent by the node B,
+and verifies the signature through the public key PubKeyB of the node
+B, which can effectively verify the signature message of the node B.
+Further, if node A passes the verification, node A obtains the IP address
+and port of node B, and sends a Hello message signed by the private
+key PrivKeyA, so that node B can prepare to verify node A.
+Further, the node B receives the signature message sent by the node A,
+and verifies the signature through the public key PubKeyA of the node
+A, which can effectively verify the signature message of the node A.
+Further, if node B passes the verification, a SUCCESS message is
+returned, which can prompt node A and node B to establish a
+connection.
+- 16 -
+
+https://www.attnetwork.org
+
+Further, the connection between the node A and the node B has been
+established at this time, and the point-to-point message can be directly
+sent through the connection, and the point-to-point occurrence
+message can be effectively performed by the node A and the node B.
+Through
+
+the
+
+blockchain
+
+network
+
+point-to-point
+
+communication
+
+protocol, a point-to-point data transmission connection can be
+established in the anonymous system of the blockchain, and the
+anonymity of the point-to-point parties is still maintained. The two
+parties establishing the connection can transmit private data through
+the connection, and the connected The establishment requires the
+consent of both parties, and there is no risk of abuse. Other nodes on
+the network only know that such a connection exists, but cannot obtain
+the private message transmitted in the connection. Through the
+blockchain network point-to-point communication protocol, all parties
+can be While maintaining anonymity, it can directly establish a point-topoint data connection, can establish a point-to-point data transmission
+connection in the anonymous system of the blockchain, and still
+maintain the anonymity of the point-to-point parties.
+Although examples have been shown and described, it will be
+understood
+
+by those
+
+skilled in the
+
+art
+
+that various changes,
+
+modifications, substitutions, and alterations can be made to these
+embodiments without departing from the principles and spirit.
+
+- 17 -
+
+https://www.attnetwork.org
+
+2 Design Principles
+2.1 System overview
+
+2.2 Product architecture
+
+- 18 -
+
+https://www.attnetwork.org
+
+- 19 -
+
+https://www.attnetwork.org
+
+2.3 Deployment framework
+
+2.4 System goals
+2.4.1 Availability
+Maximize the impossible triangle
+
+2.4.2 Throughput
+
+- 20 -
+
+https://www.attnetwork.org
+
+Combining layering and sharding technology, the on-chain transaction
+TPS can reach 20,000.
+
+2.4.3 Fault tolerance
+Under the premise of not exceeding 51% attacks, the fault tolerance of
+the entire system can reach 99.99%.
+
+2.4.4 Scalability
+Adjust the scalability of the system through a scalable second-tier
+network.
+
+2.4.5 Low cohesion
+Through the necessary node logic, the maximum aggregate transaction
+capacity.
+
+2.4.6 Coupling
+Through the plug-in and TPTP protocol, reduce the coupling of the
+system.
+
+2.4.7 Self-healing
+Through PoC and PoR, the on-chain accidents are restored as quickly as
+possible.
+
+3 Basic Agreement (ATT)
+3.1 Previous achievements
+In order to clarify the basic communication protocol of ATT, let's first
+look at the Internet's seven-layer protocol model.
+
+- 21 -
+
+https://www.attnetwork.org
+
+OSI seven-layer network
+
+TCP/IP four-layer
+
+model
+
+conceptual model
+
+Corresponding network protocol
+
+Application layer
+Presentation layer
+
+HTTP, TFTP, FTP, NFS, WAIS, SMTP
+Application layer
+
+Telnet, Rlogin, SNMP, Gopher
+
+Session layer
+
+SMTP, DNS
+
+Transport layer
+
+Transport layer
+
+TCP, UDP
+
+Network layer
+
+Network layer
+
+IP, ICMP, ARP, PARP, AKP, UUCP
+
+Data link layer
+
+FDDI, Ethernet, Arpanet, PDN, SLIP,
+PPP
+
+Data link layer
+
+Physical layer
+
+IEEE 802.1A, IEEE 802.2 ~ IEEE 802.11
+
+3.1.1 HTTP/HTTPS protocol
+HTTP (Hypertext Transfer Protocol) is an application layer protocol and
+is a stateless protocol. The protocol itself does not save any information
+of the user, and each request is independent.
+Independent requests can reduce the pressure on the server and
+support larger concurrent requests.
+HTTP/1.0
+Disadvantages: non-persistent connection (short connection), each
+request requires 2 RTT overhead (three handshake each time).
+
+- 22 -
+
+https://www.attnetwork.org
+
+The server burden is heavy, but the browser can have multiple
+concurrent TCP connections at the same time, and each connection
+processes a request, which can reduce the response time.
+HTTP/1.1
+Persistent connection (long connection). After the request is sent, a
+continuous connection is obtained for a period of time. Later requests
+can be continuously sent through this link, and it is not limited to the
+same page, as long as it is a request to the same server.
+
+- 23 -
+
+https://www.attnetwork.org
+
+3.1.2 RDP protocol
+RDP, Remote Desktop Protocol, is a multi-channel (mutil-channel)
+protocol that allows users (clients or "local computers") to connect to a
+computer (server or "remote") that provides Microsoft terminal services.
+computer").
+
+Most
+
+Windows,
+
+Linux,
+
+FreeBSD,
+
+Mac
+
+OS
+
+X
+
+have
+
+corresponding clients. The server listens to the data sent to TCP 3389
+port.
+Windows has provided terminal services from NT. It is a network
+protocol technology (Citrix) bought by Microsoft. The server needs to
+be installed and configured, and the client needs to connect to the
+program. Terminal service allows any terminal with permissions to log
+in to the server with a known account, and can use the resources in the
+account, including software and hardware resources. At the same time,
+after the protocol is upgraded, the client can use local resources after
+connecting. Including local printer, local sound playback, local disk
+resources and local hardware interface. All calculations are performed
+on the server side, and the client only needs to handle network
+connection, receive data, interface display and device data output. At
+present, the linux client programs for RDP services include winconnect,
+linrdp, and rdesktop. The first two have no source code, but redsktop
+has been developed by the original individual and the public code has
+evolved into the current project team.
+
+3.1.3 PcoIP protocol
+PCoIP (PC over IP) provides a wide range of users on a LAN or WAN
+with the best desktop experience for delivered remote applications or
+the entire remote desktop environment, including applications, images,
+audio, and video content. PCoIP compensates for inconveniences
+caused by increased latency or reduced bandwidth, ensuring end users
+remain productive under any network conditions.
+The PCoIP display protocol can be used for remote applications and
+remote desktops that use virtual machines, physical machines with
+Teradici host cards, or shared session desktops on RDS hosts.
+
+- 24 -
+
+https://www.attnetwork.org
+
+3.1.4 HDX / ICA protocol
+HDX is inspired by the ICA protocol. HDX uses advanced "Adaptive
+Active Coordination" technology, which can sense the basic capabilities
+of data centers, networks, and equipment, and dynamically optimize the
+performance of end-to-end delivery systems to adapt to a variety of
+unique User scene. This open, adaptive design also enables HDX
+technology-enabled products such as Citrix XenDesktop and Citrix
+XenApp to use a variety of innovative technologies from third-party
+software, servers, devices, and processor partners to improve the enduser experience.
+HDX technology provides a set of features that provide a "HD"
+experience for users of Windows applications and desktops, any device,
+on any network. HDX is a Citrix ICA remote protocol based on ICA
+technology. The ICA protocol is based on TCP / IP and RTP / UDP, and
+has uniquely designed mobile network with high network network
+variability and low bandwidth and high latency.
+Supports three technical principles of HDX: redirection technology,
+adaptive
+
+compression,
+
+and
+
+data
+
+deduplication-collaboratively
+
+optimizing the user experience, reducing bandwidth consumption and
+increasing the scalability of the hosting server.
+
+3.1.5 SPICE protocol
+SPICE, the Simple Protocol for Independent Computing Environment
+(Simple Protocol for Independent Computing Environment) is one of
+the main technical components of Red Hat Enterprise Virtual Desktop
+Edition. It has an adaptive remote submission protocol and can provide
+the same end users as the physical desktop. Experience. With a client
+that supports the SPICE protocol (such as remote-viewer) or through a
+browser, users can access their virtual desktops.
+Spice consists of four parts: protocol, client side, server side, and virtual
+machine side. among them,
+1) Protocol: It is the criterion that the client side, server side and
+virtual machine side interact when interacting with each other;
+- 25 -
+
+https://www.attnetwork.org
+
+2) Client: Responsible for receiving and converting virtual machine
+data, and sending user input data to the virtual machine, so that users
+can interact with the virtual machine;
+3) Server: It is a user layer component integrated in Hypervisor, so that
+Hypervisor (such as QEMU) supports Spice protocol;
+Virtual machine side: refers to all necessary components deployed
+inside the virtual machine, such as QXL driver, Spice Agent,
+etc.
+
+The figure above shows the basic framework of Spice and how the
+graphic command flow reaches the Spice terminal from inside the
+virtual machine (the platform environment is QEMU + libSpice). The
+graphics command starts when a graphics application inside the virtual
+machine requests a drawing operation (such as a GDI command) from
+the OS. Afterwards, Spice will use the QXL driver installed inside the
+virtual machine to capture the drawing operations of the application,
+which will be converted into Spice QXL commands and passed to the
+QEMU virtual QXL device backend. Next, LibSpice will read the above
+QXL command, reorganize and optimize it, encapsulate it into the Spice
+protocol message format, and send it to the terminal. Finally, the
+terminal parses the corresponding graphic operation message
+according to the Spice protocol, and then completes the screen update
+
+- 26 -
+
+https://www.attnetwork.org
+
+operation.
+
+Spice graphics command flow
+The command interaction process for the Spice Agent is located inside
+the virtual machine. Spice Server and client use Agent to perform a
+series of actions inside the virtual machine, such as setting the virtual
+machine display configuration. Spice Agent interacts with VDIPort
+devices (devices virtualized by QEMU) through VDIPort device drivers
+located inside the virtual machine, and VDIPort virtual devices interact
+with Spice Server through QEMU's VDI Interface, so that Spice Agent,
+Spice Server, and Spice Client can be implemented. The interaction
+between the participants, in which the message format complies with
+the Spice protocol.
+
+Spice Agent graphical command flow
+Spice clients handle different events by establishing different channels.
+The client implements each Channel as a separate thread, specifically by
+defining a RedChannel base class that runs in a separate thread, and
+then derives the specific functional classes needed from this base class.
+
+- 27 -
+
+https://www.attnetwork.org
+
+The
+
+client
+
+Channel
+
+class
+
+includes:
+
+RedClient,
+
+DisplayChannel,
+
+CursorChannel, InputsChannel, PlaybackChannel, RecordChannel, etc.
+RedClient is responsible for establishing the main channel, and then the
+main channel creates the following channels through channel_type:
+1) DisplayChannel: responsible for processing graphics commands,
+pictures, and video stream display;
+2) InputsChannel: responsible for processing keyboard and mouse
+input;
+3) CursorChannel: responsible for the display of the pointing device
+position, visibility and shape;
+4) PlaybackChannel: Responsible for receiving voice data from the
+server and playing it on the client;
+5) RecordChannel: Responsible for capturing sound from the client's
+sound device and passing it to the virtual machine.
+
+- 28 -
+
+https://www.attnetwork.org
+
+Spice Server implementation
+The Spice protocol is the core of the entire virtual desktop. With the
+help of the Spice protocol, the various components of a virtual desktop
+can interact smoothly.
+
+Spice agreement
+
+3.1.6 RFB protocol
+RFB (Remote Frame Buffer) is a simple protocol for remote graphics
+users. Because it works at the frame buffer level, it can be applied to all
+window systems, such as X11, Windows and Mac systems.
+
+- 29 -
+
+https://www.attnetwork.org
+
+Remote end users using machines (such as monitors, keyboards, and
+mice) are called RFB clients, and those providing frame buffer changes
+are called RFB servers.
+RFB is an application layer protocol based on TCP.
+
+RFB is a true "thin airliner" protocol. The focus of the RFB protocol
+design is to reduce the hardware requirements for the client. In this way,
+the client can run on many different hardware, and the task of the client
+will be as simple as possible.
+The RFB protocol is stateless to the client. That is: if the client is
+disconnected from the server, then if it reconnects to the same server,
+the state of the client is saved. Furthermore, a different client can be
+used to connect to the same RFB server. The new client has been able
+to obtain the same user status as the previous client. Therefore, the
+user's application interface becomes very convenient.
+
+3.1.7 X protocol
+The X protocol consists of X server and X client:
+The X server manages the display-related hardware settings on the host
+(such as graphics card, hard disk, mouse, etc.). It is responsible for
+drawing and displaying screen images, and notifying X clients of input
+settings (such as keyboard and mouse).
+X client (ie X application) is mainly responsible for event processing (ie
+program logic).
+
+3.2 ATT protocol
+3.2.1 What is ATT
+- 30 -
+
+https://www.attnetwork.org
+
+ATT includes two layers of duplex protocols. The first layer is used as
+the basic communication protocol to carry the basic connection
+functions; the second layer is used as the extended protocol to carry the
+cross-product communication functions. ATT integrates the four major
+technologies
+messaging
+
+of
+
+blockchain,
+
+protocols,
+
+and
+
+DNS,
+makes
+
+smart
+
+contracts
+
+cross-platform
+
+and
+
+instant
+
+communication
+
+possible by uniformly identifying cross-chain account addresses.
+
+3.2.2 ATT Protocol head
+Content
+
+Protocol version
+
+Reserved
+
+Logical package length
+
+Bytes
+
+1
+
+1
+
+2
+
+Value
+
+The current
+
+Logical length, from version number
+
+0
+
+versions are all 3
+
+to the end of this package
+
+3.2.3 ATT Message format
+Virtual
+
+Virtual channels
+
+channels count
+
+number
+
+1
+
+2
+
+2
+
+1
+
+0x64/0x68
+
+0x001
+
+0x03eb~0x03ee
+
+0x70/0xf0
+
+Content
+
+Type
+
+Bytes
+Value
+
+Flag
+
+Type description
+0x64: Client sends data
+0x68: Client receives data
+
+3.2.4 ATT protocol data compression
+Content
+
+Bytes
+
+Value
+
+Data length in layer
+
+2
+
+XX
+
+First level type mark
+
+2
+
+17 00 stands for specific data, and the
+last 4 bytes are skipped when 0000
+
+- 31 -
+
+https://www.attnetwork.org
+
+Content
+
+Bytes
+
+Value
+
+Basic channel number
+
+2
+
+ea 03，fixed
+
+Basic channel number
+
+2
+
+ea 03，fixed(share？)
+
+Unknown data1
+
+2
+
+01 00
+
+2
+
+XX
+
+Data length after
+
+2
+
+XX
+
+Specific data type
+
+1
+
+D
+
+Data compression type
+
+1
+
+00 Uncompressed
+
+Data compression length
+
+2
+
+00
+
+Network package
+sequence number
+
+3.2.5 ATT protocol scalability
+The ATT protocol can be extended in the following ways:
+New encoding
+A new protocol can be added for compatibility with existing clients and
+servers. Because existing servers will ignore new encodings they don't
+support. Therefore, the client makes a request through the new
+encoding method, and no result is returned.
+Pseudo-encoding
+In addition to the actual encoding method, the client can also request a
+"pseudo-encoding" notification server, which supports the extension of
+a certain protocol. If the server does not support this extension, it will
+ignore it. It's worth noting: The client must first assume that the server
+does not support this extension until it is confirmed that the server
+supports it.
+
+- 32 -
+
+https://www.attnetwork.org
+
+4 Public chain construction
+4.1 Node Logic
+4.1.1 Agency contributions
+In a P2P network, every computer participating in the network can
+receive the name of the node. In the network, all nodes are responsible
+for providing network services. This is because the interconnectivity of
+the network nodes allows for interoperability.
+Blockchain network refers to the set of nodes that execute a given
+blockchain
+
+P2P
+
+protocol.
+
+The
+
+entire
+
+network
+
+orchestrates
+
+and
+
+coordinates each user's actions in the network in a fully federated,
+decentralized, and distributed manner. This means that computer
+networks around the world can constantly transmit new transactions to
+each other. Every computer in this network is a node and it has
+downloaded the complete blockchain. In this way, the network becomes
+redundant, and working together makes it scalable in scalability.
+Due to the decentralization of the blockchain, anyone can participate in
+it. Just download the node software from and execute it. Generally, this
+feature is supported in the main wallet of each item. Initially, the
+network started from the origin of the blockchain until it was
+synchronized with the network. At this point, the nodes started to run in
+full, not only allowing verification transactions, but also supporting the
+overall image of the blockchain. Usually nodes can perform the
+following functions: routing, blockchain database, mining and wallet
+services.
+These nodes are a single part of the largest data structure of a
+blockchain. When node owners voluntarily contribute their own
+computing resources to store and verify transactions, they have the
+opportunity to charge transaction fees and receive rewards in potential
+cryptocurrencies.
+Processing these transactions can require a lot of computing and
+processing power, which means that the average computer power is
+- 33 -
+
+https://www.attnetwork.org
+
+not enough. Generally speaking, professional miners tend to invest in
+very powerful computing equipment called CPU (Central Processing
+Unit) or GPU (Graphics Processing Unit) to meet the demand for the
+processing power required to verify transactions, and to obtain s return.
+A node can be a communication endpoint or a redistribution point of
+communication, linked to other nodes. Every node in the network is
+considered equal, however, some nodes play different roles in the way
+they support the network. For example, not all nodes will store a
+complete copy of the blockchain.
+A complete node downloads a complete copy of the blockchain and
+checks for new transactions that occur based on the consensus protocol
+used by that particular cryptocurrency or utility token. All nodes use the
+same consensus protocol to maintain mutual compatibility. The nodes
+in
+
+the
+
+network
+
+are
+
+responsible
+
+for
+
+confirming
+
+and
+
+validating
+
+transactions and putting them into blocks. Regarding whether a
+transaction is valid and should be added to a block with other
+transactions, no matter how other nodes act, nodes can always draw
+their own conclusions.
+
+4.1.2 Node selection
+In a blockchain network, there are traditionally three types of nodes
+that provide different functions in the network. These node types are:
+Broadcast nodes: They only issue transactions and receive blockchain
+information from third parties. They follow the most powerful mining
+power, known as light wallets, which are widely used on mobile devices
+or are only used by people who don't want to download the entire
+blockchain.
+Complete nodes: Install complete node software, such as Bitcoin Core,
+in addition to having the most secure wallet, and download a copy of
+the blockchain to become a node in the Bitcoin network. As a result,
+you will issue transactions, propagate the rest of the network, and verify
+that consistent rules are met.
+Mining nodes: In addition to operating their favorite software miners
+(BTCMiner, CGMiner), the miners must have a copy of the blockchain. In
+- 34 -
+
+https://www.attnetwork.org
+
+addition to mining Bitcoin to help create new blocks, these nodes will
+also publish and disseminate transactions.
+
+4.1.3 Node responsibility
+When a miner or user tries to add a new transaction block to the
+blockchain through some mechanism of the protocol, it transmits the
+block to all nodes of the network. Depending on the legitimacy of the
+block (signature and validity of the transaction), the node can accept or
+reject the block. When a node accepts a new transaction block, it saves
+it and stores it on other blocks it has already stored. In summary, the
+role of nodes is:
+They can check if a transaction block is valid and accept or reject it.
+Store and store transaction blocks (store blockchain transaction history).
+Transfer and extend this transaction history to other nodes that may
+need to be synchronized with the blockchain (they must be updated in
+the transaction history).
+
+4.1.4 Node Disaster Recovery
+Nodes can be online or offline. Online nodes receive, save, and transmit
+all the last blocks of a transaction from other nodes, while nodes that
+are not connected do not. When an offline node comes back online, it
+must first catch up with the rest of the blockchain by downloading all
+blocks added to the blockchain since the node was disconnected. This
+process is often called blockchain synchronization.
+In theory, a complete blockchain can be executed on a single node, but
+because it is stored in a single device, it is very vulnerable to power
+outages, hacking or system failure. The more complete nodes running
+in the blockchain, the more resilient they will be in the face of such a
+disaster. When blockchain data is distributed across so many devices, it
+is very difficult for a corrupted entity to delete all of this data at once.
+Due to the global crisis, a large number of nodes have suddenly
+dropped and become inaccessible. In theory, a single node can keep
+the entire blockchain running. Even if all nodes are disconnected, it only
+
+- 35 -
+
+https://www.attnetwork.org
+
+takes a single node with a complete blockchain history to get back
+online and make all data accessible again.
+These nodes are also vulnerable to computer attacks, which may
+change their function. For example, a pirate can violate the software's
+security, and without changing the blockchain data, it can redirect the
+node's profits to a different address written by its owner. Address theft
+attacks are the most common type of attack for this type of software,
+which is why developers recommend using an updated version of their
+blockchain software.
+These security flaws are easy to resolve, and you can use some
+computer security common sense, or use software tools to create
+security mechanisms to isolate the blockchain software from the rest of
+the computer system. These measures include:
+Use official or developer software and have a long and proven track
+record. Protect the private keys, mnemonic keys and any other
+privileged information of our activities in the blockchain. Use computers
+or electronic equipment only for our mining activities. Use sandbox
+software to isolate software applications from the rest of the system.
+Use MAC (mandatory access control) system privileges that allow us to
+run our blockchain software with minimal access to the operating
+system and other system APIs (this isolation is larger than the sandbox).
+
+4.2 Consensus Foundation
+4.2.1 Consensus by contribution
+The Contribution Authorization Proof Mechanism (PoC) is a modified
+version of the Delegated Proof of Stake. It is a scalable and governance
+alternative used by many smart contract platforms such as EOS and
+Tron. It was built with enterprise adoption in mind and aims to reward
+participation in the network By. Compared with other PoS and PoW
+mechanisms, PoC aims to provide:
+1) clear governance structure;
+2) better throughput;
+3) higher efficiency.
+- 36 -
+
+https://www.attnetwork.org
+
+4.2.2 Consensus reward
+Rewards will be generated after each block is accepted and then sent to
+the library. For each new block reward, all ATters who participate in the
+network as authorized or authorized recipients will receive a certain
+number of ATTG to reflect their respective contributions. This ATTG can
+be exchanged for ATT at any time.
+The ATT model is unique in that ATTers can not only receive bet
+rewards because they are P-Rep or authorized to P-Rep, but also
+receive bet rewards for voting on DApps and EEPs and / or running
+DApps or EEPs. In short, this provides an opportunity for all ATters to
+contribute; no matter how technically inclined you are. In other DPoS
+systems, bet rewards are usually only obtained by group producers. PoC
+is an organization that implements a model that is beneficial not only to
+elected P-Reps, but also to those P-Reps that contribute to the network
+in other ways.
+
+4.2.3 Consensus Algorithm
+For reference, there is no economic motivation to vote for EOS BP. The
+only benefit is governance. So far, about 25% of EOS community
+members have voted, and 47% of EOS outstanding users have
+participated in the voting. For Tron, based on the total supply, the
+number of votes for Super Delegates is even less, only about 7%.
+However, the 27 super-representative nodes that voted the most will
+create new blocks and share rewards with their voters. It is estimated
+Dapp and EEP will be rewarded accordingly. This is an essential
+difference from any other platform. Rather than the foundation
+providing funding for whatever they see fit (such as how Ethereum
+currently works), the community itself can decide who receives the
+grant (rewarded in the form of a block) or who delegates the ATT
+project or improvement suggestions they feel is best The internet.
+
+4.2.4 Complete Consensus Logic
+
+- 37 -
+
+https://www.attnetwork.org
+
+In PoC, incentives work as P-Rep, DApp, or EEP. A key difference
+between ATT's solution and other platforms is that it provides economic
+incentives and economic expansion proposals (EEPs) for dapps.
+The dapp will receive rewards based on: 1) the authorization of ATters;
+2) the ability to implement DAU and/or Tx level thresholds (to be
+determined). Currently, ATT is building its virtual step function to limit
+friction from the user's perspective. Once implemented, the DApp will
+be able to bet on the ATT, thereby generating a virtual step that will be
+used to pay the ATT transaction fees associated with the use of the
+DApp.
+As discussed in the previous article, these rewards may be meaningful
+compared to traditional business models. Recall that even a modest 5%
+network license can reach $ 20,000 per month (under previously stated
+conditions).
+The other in the PoC framework is the concept of EEP. ATTers can
+propose EEPs, accept commissions from their peers, and receive
+funding for their respective programs through group rewards. The use
+and scope of EEP is wide. At one end of this range, imagine a group of
+developers who want to improve the core code of ATT to run as an EEP,
+provide monthly updates on their progress, and take turns to get
+funding.
+
+Note
+
+that
+
+this
+
+is
+
+similar
+
+to
+
+Zcash.
+
+In
+
+Zcash,
+
+core
+
+developers/foundations will receive 20% of all block rewards for further
+development. On the other hand, EEP can be as simple as a community
+manager looking for funding to host a local party on a specific date.
+
+- 38 -
+
+https://www.attnetwork.org
+
+4.3 Mining rewards
+4.3.1 Definition of mining in this system
+Bitcoin is a distributed peer-to-peer network system. So there is no
+"central" server and no central issuing authority. Bitcoin is produced
+through "mining". Mining is to verify a Bitcoin transaction and
+participate in competition to solve a mathematical problem. Any
+participant (such as a person running a complete protocol stack) can be
+a miner and use their computing power to verify and record
+transactions. On average, every 10 minutes someone can verify the
+transactions that happened in the past 10 minutes, and he will get new
+coins in return for his work. In essence, mining distributes the currency
+issuance and settlement functions of the central bank, and replaces the
+needs of central issuers with global computing power competition.
+Mining is a figurative metaphor, because in the Bitcoin network,
+competitive computing gets newly issued Bitcoin rewards, much like the
+process of mining minerals buried in the ground. Mining is the process
+of new issuance of bitcoin by the bitcoin system. It is also the process of
+miners competing for bookkeeping rights and obtaining newly issued
+bitcoin rewards. A miner is a person or organization that competes for
+mining.
+The actual mining is proof of proof of work (POW) in the Bitcoin system.
+The Bitcoin system is a large ledger, and a page of ledger is issued
+every 10 minutes (this page of ledger is also called a block). The miner
+records the transaction in a page of ledger and synchronizes to other
+people. If this miner can calculate this first, The correct answer in a
+round shows that he has paid a certain amount of work and is a person
+who has the right to keep books. This problem can be understood as a
+probability problem, which is very difficult to calculate, but it is very
+simple to verify.
+Mining is a continuous problem-solving process. It is a relay race, once
+every 10 minutes. After the results of this time, everyone starts a new
+round of competition.
+- 39 -
+
+https://www.attnetwork.org
+
+4.3.2 The value of mining to the entire network
+The so-called mining, for Bitcoin, is actually mining = creating value =
+fair distribution of value, which is logically connected. Equivalent to a
+chemical, with this characteristic, it can naturally react with human
+nature.
+In essence, mining is the most important step in the token economy,
+but most of the imitations of Bitcoin mining have failed. If a currency
+does not improve for six months and a year, it must be a mistake in the
+design of the token economic model. You can only leave a bunch of
+numbers in your hands.
+EOS, in fact, is well designed when it comes to mining (general
+certification economic model) design alone. More in line with this idea.
+Its value goal is an ultra-high-performance DAPP operating platform.
+Then let the super nodes go to mine and the super nodes provide super
+performance. The value created is in line with the needs of the eos
+application and the corresponding value distribution. Of course,
+whether the 1% issuance as a miner's fee is within a reasonable range is
+another issue. It is not the same application as Bitcoin, so don't make a
+sharp comparison. Being a base currency is a trillion-dollar business
+that requires extremely high security barriers and different value
+propositions. Most Internet apps, in fact, actually Not so much business
+volume, just the pursuit of performance, does not require a very high
+safety factor.
+
+4.3.3 Resources Consumed by Mining
+Computing power (also known as hash rate) is a measure of the
+processing power of the Bitcoin network. The speed at which the
+computer (CPU) calculates the output of the hash function.
+Computing power is the ability to mine. The probability that you will be
+able to mine Bitcoin depends on the proportion of your computing
+power in the world. The speed of problem solving is related to strong
+computing power.
+
+- 40 -
+
+https://www.attnetwork.org
+
+How many hash collisions a miner can do per second is a representative
+of its computing power, and the unit is written as hash/s.
+Bitcoin's entire network computing power has fully entered the P
+computing power era (1P = 1024T, 1T = 1024G, 1G = 1024M, 1M =
+1024k)
+1 kH/s = 1,000 hashes per second.
+1 MH/s = 1,000,000 hashes per second.
+1 GH/s = 1,000,000,000 hashes per second.
+1 TH/s = 1,000,000,000,000 hashes per second.
+1 PH/s = 1,000,000,000,000,000 hashes per second.
+1 EH/s = 1,000,000,000,000,000,000,000 hashes per second.
+As of August 9, 2018, Bitcoin's entire network computing power was
+46.08 EH / s. Then calculate it, 46.08 * 1,000,000,000,000,000,000,000 =
+46,080,000,000,000,000,000,000 operations per second. Computing
+power is growing very fast.
+
+4.3.4 Rewards for miners
+Passive dividend
+For passive dividends, profits are collected during each transaction
+within an interchangeable token. Therefore, if the manager of a
+homogeneous token decides to set a passive bonus for it, in each
+transaction, not only will the EVT be charged as fuel, but also the
+additional cost of the homogeneous token.
+We correct these deviations by recording two fields on the chain,
+with_amount indicates that the fee will be included in the amount, so
+the payee will receive (amount-fee). outside_amount Instead, the payee
+will receive the amount, but the payer will spend (amount + fee).
+Active dividend
+Active dividends are much simpler than passive dividends. Dividends
+can be realized only by meeting certain conditions. This model is very
+important for the demanding project party, and it is also a very mature
+model in real scenarios.
+- 41 -
+
+https://www.attnetwork.org
+
+We formulate active dividends through the rules declared on the official
+website at the beginning of the project, so that miners can get the
+corresponding reward tokens.
+
+4.4 Penalty mechanism
+4.4.1 Definition of evil in this system
+If and only if, in this system, many miners have decided to join a new
+mine group and mine on its new block. The problem is that the
+blockchain network is a huge and widely distributed network, and
+communication and collaboration within it is almost impossible. Most
+miners will only choose the path that maximizes their returns, which is
+why the Nash equilibrium of the main chain has been achieved.
+
+4.4.2 Risk control
+To build a falsifiable credit network model, what is needed first is a
+large set of data of various dimensions such as behavior data,
+consumption data, property data, and then processed to obtain a
+simplified credit evaluation. The problem is not that there is no such
+data, but that these data are held by different institutions and
+companies, and the data of these institutions are not interoperable.
+Because the ability of small companies to realize data is obviously much
+lower than that of large companies. As a means of production, data
+cannot be effectively protected. In addition, it involves data sharing
+such as personal privacy, and cannot directly transmit plain text. The
+major Internet companies have a lot of user data and make money from
+it, and users don't get these additional benefits. Based on the design of
+the blockchain, the data processing is made into a Mapreduce method.
+The calculations concentrated in one center are divided into multiple
+small parallel calculations. The results of the parallel calculations are
+collectively returned to obtain a summary result. For example,
+consumption data is in Alibaba, travel data is in Ctrip, financial data is in
+ICBC, and education data is in the Ministry of Education. The data in
+these four dimensions are stored as 4 nodes. The Ministry of Public
+Security calculates the citizen's credit data and initiates a data use
+- 42 -
+
+https://www.attnetwork.org
+
+request. However, the data is not passed directly to these institutions,
+but the result of the calculation is passed. Each request is paid for 1
+token. In this way, the owner of the data can benefit by contributing to
+the data. A new connection was established between multiple
+encouraged domains that were not interoperable through algorithms
+and an economic cooperation system between computers.
+
+4.4.3 Malicious information
+P + Epsilon attack
+However, a proof-of-work system is vulnerable to a special type of
+attack called a "P + Epsilon attack." To understand the principle of this
+attack, we must define the following terms in advance.
+Non-collaborative selection model: In a non-coordinated selection
+model, all participants have no incentive to cooperate with others.
+Participants may form groups, but at any time, this group will not be
+large enough to occupy a majority.
+Collaborative selection model: In this model, all participants collaborate
+for a common incentive. Now, suppose the blockchain is a noncoordinated choice model, but what if there is an incentive for miners
+to take action to damage the integrity of the blockchain? What if a
+particular action could be taken by a miner to take a bribe? The bribery
+attacker model is now referenced.
+Now, suppose the blockchain is a non-coordinated choice model, but
+what if there is an incentive for miners to take action to damage the
+integrity of the blockchain? What if a particular action could be taken
+by a miner to take a bribe? The bribery attacker model is now
+referenced.
+
+4.4.4 Compliance Extension (PoR)
+Now, suppose an attacker enters the system and bribes miners to
+cooperate with each other. What should we do? This new model is the
+bribery attacker model. To successfully bribe the system, an attacker
+must have two resources:
+
+- 43 -
+
+https://www.attnetwork.org
+
+Budget: The total amount of cash the attacker is willing to pay miners
+to perform a particular operation
+Cost: The amount actually paid to the miners at the end.
+However, if an attacker decides to launch an attack on the blockchain,
+we will get an interesting puzzle .... At this point, a "P + Epsilon attack"
+will occur. We can refer to the following figure:
+
+Imagine a simple game, such as elections. If people vote for someone
+and vote for the same person as everyone else, then there is a gain,
+otherwise there is no gain. So imagine that a bribe accesses the system
+and makes this rule for an individual. If no one else voted when you
+voted, you would get a "P + ε " gain. In addition to the normal gain P,
+there is an additional bribe gain ε.
+So now, the return matrix looks like this:
+
+Now imagine this scenario. Everyone in the game knows that if they
+vote, they will probably get a profit, but if they don't vote, there is only
+a 50% probability that they will get a profit.
+What do you think participants will do? Of course, they will vote to
+ensure returns. This is where the fun lies. As shown in the matrix, the
+bribe pays only the fee "ε" when someone voted while others did not.
+However, in this case, because everyone voted, the Nash equilibrium
+point turns into:
+
+- 44 -
+
+https://www.attnetwork.org
+
+Yes, no bribe pays bribes!
+So let's look at this from a briber's perspective:
+Convince the group to vote in some way.
+Achieve your goals without paying bribes.
+This is a huge win-win situation for bribers, and at the same time, it has
+a significant impact on the blockchain, especially in systems based on
+proof of work. Let's check out the previous virtual blockchain again:
+
+Assume that the bribers really want to make the blockchain hard fork,
+and at the same time announce the bribe fee ε for those miners who
+choose to join the new chain, which will stimulate the entire miner
+community to collaborate and join the new chain. Obviously, this
+requires a very high bribe fee to achieve the above situation, but as we
+saw in the bribery attack model above, the attacker does not even need
+to give this amount. According to Vitalik Buterin, this is one of the
+biggest problems with proof-of-work systems, which is vulnerability to
+"P + Epsilon attacks".
+
+4.4.5 Evil punishment
+Before each transaction, the two parties request the credit history of the
+other party. Use a credit history provided by a third party to pay 1 token.
+After the transaction is completed, the credit of the counterparty is
+updated, data is contributed, and 2 tokens are rewarded. Data is
+- 45 -
+
+https://www.attnetwork.org
+
+constantly being produced. You generated a bad default record on the
+online loan platform last minute. This risk signal will be broadcast to the
+entire network. Didi requested the driver's credit history before
+dispatching the order. When the risk signal was found, Didi would not
+order it.
+A credit model based on such a blockchain technology system allows
+good people to benefit everywhere and bad people to be limited
+everywhere. We are also about to achieve the first credit symmetry in
+human history to build a society in which the cost of social operation is
+no longer determined by bad people.
+
+5 Cross-Product Transport Protocol
+(TPTP)
+5.1 Previous achievements
+5.1.1 Text Transfer Protocol
+The TFTP protocol is based on the transfer protocol between the server
+and the client. At the beginning, the client sends a connection request
+to the server, and after the server answers, the two connections are
+established. The client then sends a file transfer request to the server.
+The server divides the file required by the client into multiple small
+blocks and passes them to the client in turn. The client sends a
+response to the server after receiving each small block. Send the next
+small block. When all file blocks have been transferred, the two
+connections are disconnected.
+The TFTP server program usually listens for client requests on port 69. It
+is worth noting that when the server and the client are transmitting
+data blocks, the server will use a random port instead of port 69, which
+is used to listen for requests. This is so that the server can respond to
+multiple client connections at the same time. The server and different
+clients use different ports for data communication, so that the data
+blocks required by different clients will not be confused.
+- 46 -
+
+https://www.attnetwork.org
+
+When the server and the client send file data, data is transmitted in a
+manner called a "locking step". That is, the server sends a data block to
+the client, and then does nothing until it receives the response data
+packet sent back by the client. It does not send the next data block until
+it receives a response from the client that the data block has been
+received. This method makes data transmission inefficient, but ensures
+that the data transmission process is simple enough. At the same time,
+it ensures that data transmission is convenient when transmission errors
+occur. At the same time, the client does not need to consider how to
+block data blocks when they arrive out of order. Proper assembly.
+
+5.1.2 Picture transfer
+The English name of picture transfer protocol is picture transfer
+protocol, abbreviated as ptp. PTP is a standard developed by Kodak in
+consultation with Microsoft. This section describes a terminal picture
+transfer protocol file synchronization method and terminal. The method
+includes: receiving a PTP start instruction; and determining at least one
+first directory from the terminal according to a multimedia file type,
+where the first directory contains multimedia Directory of files;
+synchronizing multimedia files corresponding to the at least one first
+directory. According to the PTP startup instruction, dynamically obtain
+all eligible directories containing multimedia files in the terminal, and
+synchronize the multimedia files in these eligible directories to the PC
+side. Thus, the terminal can automatically synchronize all eligible
+multimedia files.
+
+5.1.3 File transfer
+File Transfer Protocol (FTP) is a set of standard protocols used for file
+transfer on the network. It works on the seventh layer of the OSI model
+and the fourth layer of the TCP model, the application layer. It is not
+UDP. Before the client establishes a connection with the server, it must
+go through a "three-way handshake" process to ensure that the
+connection between the client and the server is reliable, and it is
+connection-oriented,
+
+providing
+
+a
+
+reliable
+
+guarantee
+
+for
+
+data
+
+transmission.
+- 47 -
+
+https://www.attnetwork.org
+
+FTP allows users to communicate with another host through file
+operations (such as adding, deleting, modifying, checking, and
+transmitting files). However, users do not actually log in to the
+computer they want to access and become full users. FTP programs can
+be used to access remote resources, enabling users to transfer files back
+and forth, directory management, and access e-mail, even if the two
+computers may be equipped with different Operating system and file
+storage.
+
+5.1.4 Voice Message
+Network Voice Protocol (English: NetworkVoiceProtocol, abbreviation:
+NVP) is a pioneer in computer network protocols that sends human
+speech through packetized communication networks. Therefore, the
+VoIP protocol can be regarded as the ancestor of today's VoIP
+technology.
+The network voice protocol was first implemented in 1973 by Danny
+Cohen, a network researcher at the University of Southern California's
+Institute of Informatics, whose research funding came from the US
+Advanced
+
+Research
+
+Projects
+
+Agency's
+
+(ARPA)
+
+Network
+
+Secure
+
+Communications program. The goal of the project is to develop and
+demonstrate the feasibility of secure, high-quality, low-bandwidth, realtime, full-duplex digital voice communications through packet-switched
+computer communication networks, and to protect their content by
+means of existing encryption equipment. The main goal of this research
+is to demonstrate the digital encrypted high-quality, low-bandwidth,
+and encrypted voice processing capabilities to meet the global
+encrypted voice communications part of general military needs.
+The previous use of the network voice protocol was to use a variety of
+different speech coding techniques on the ARPANET to send voice
+messages to each other from different nodes. These codes include
+linear predictive coding and continuous variable slope incremental
+modulation (Continuously variable slope delta modulation). Its coresearchers include Steve Casner, Randy Cole, Paul Raveling, Paul
+Raveling (Institute of Informatics), Jim Forgie (Lincoln Labs), Mike
+- 48 -
+
+https://www.attnetwork.org
+
+McCammon (Culler-Harrison), John Markel (Speech Communications
+Research Laboratory), and John Makhoul (Bolt, Beranek and Newman
+BBN).
+
+5.1.5 Audio and Video Calls
+RTSP reference in the development of many of the HTTP / 1.1 protocol,
+even many description and HTTP / 1.1 are identical. RTSP reason
+deliberately using similar syntax and operations with HTTP / 1.1, largely
+for compatibility with existing Web infrastructure, and as such, the
+extension mechanism of HTTP / 1.1, most can be introduced directly
+into the RTSP. The collection of media streams controlled by RTSP can
+be defined with a Presentation Description. The so-called presentation
+refers to the collection of one or more media streams provided by the
+streaming server to the client, and the presentation description contains
+the media information flow, such as data encoding / decoding
+algorithms, network addresses, and other media content stream.
+Although RTSP server also use the identifier to distinguish each flow
+connection session (the Session), but RTSP connection and is not bound
+to the transport layer connection (e.g., TCP, etc.), that is to say during
+the whole RTSP connection, the user can open or RTSP Close multiple
+reliable transport connections to the RTSP server to make RTSP
+requests. In addition, RTSP connections can also be based on
+connectionless transmission protocols (such as UDP, etc.). RTSP
+protocol supports the following operations: retrieve media: allows users
+to submit a presentation description to the media server via HTTP or
+other methods. If the presentation is multicast, the presentation
+description contains the multicast address and port number used for
+the media stream; if the presentation is unicast, only the destination
+address should be provided in the presentation description for security.
+Invite to join: The media server can be invited to participate in an
+ongoing meeting, or play back the media in the presentation, or record
+the entire media or its subset in the presentation, which is very suitable
+for distributed teaching. Add media: Notify users of newly available
+media streams, which is especially useful for live lectures. Similar to
+
+- 49 -
+
+https://www.attnetwork.org
+
+HTTP / 1.1, RTSP requests can also be handled by a proxy, channel or
+cache.
+
+5.2 Improved transport protocol
+5.2.1 Short connection message
+The client initiates a connection request to the server, the server
+receives the request, and then the two parties establish a connection.
+The client sends a message to the server, the server responds to the
+client, and then reads and writes are completed. At this time, either of
+the two parties can initiate the close operation, but generally the client
+initiates the close operation first. Why, the general server will not close
+the connection immediately after replying to the client, of course, there
+are no special circumstances. From the description above, short
+connections generally only pass a read and write operation between the
+client / server.
+The advantage of a short connection is that it is relatively simple to
+manage, and the existing connections are all useful connections and do
+not require additional control measures.
+
+5.2.2 Long Connection Message
+The client initiates a connection to the server, the server accepts the
+client connection, and the two parties establish a connection. After the
+client and server finish reading and writing once, the connection
+between them is not actively closed, and subsequent reading and
+writing operations will continue to use this connection.
+First, let's talk about the TCP keep-alive function mentioned in the
+detailed explanation of TCP / IP. The keep-alive function is mainly
+provided for server applications. The server application wants to know
+whether the client host crashes, so that it can use resources on behalf of
+the client. If the client has disappeared, leaving a semi-open connection
+on the server, and the server is waiting for data from the client, the
+server should wait for the client's data. The keep-alive function is trying
+to detect this semi-open connection on the server. connection.
+- 50 -
+
+https://www.attnetwork.org
+
+If a given connection does not perform any action within two hours, the
+server sends a probe segment to the client. The client host must be in
+one of the following four states:
+The client host is still running and reachable from the server. The
+client's TCP response is normal, and the server also knows that the
+other party is normal. The server resets the keepalive timer after two
+hours.
+The client host has crashed and is shutting down or restarting. In either
+case, the client's TCP is not responding. The server will not receive a
+response to the probe and will time out after 75 seconds. The server
+sends a total of 10 such probes at 75-second intervals. If the server
+does not receive a response, it considers the client host to be closed
+and terminates the connection.
+The client host crashed and has restarted. The server will receive a
+response to its keep-alive probe. This response is a reset, causing the
+server to terminate the connection.
+The client is running normally, but the server is unreachable. This
+situation is similar to 2. TCP can find that it has not received the
+response from the probe.
+
+5.2.3 Audio and video messages
+The full name of RTP is Real-time Transport Protocol (Real-time
+Transport Protocol). RTP protocol is often used in streaming media
+systems (with RTCP protocol or RTSP protocol). Because RTP itself has a
+time stamp, it is used as a formate in ffmpeg.
+Each RTP datagram is composed of a header and a payload. The
+meaning of the first 12 bytes of the header is fixed, and the payload can
+be audio or video data.
+
+5.3 Cross-platform Transport Protocol (TPTP)
+5.3.1 What is TPTP
+TPTP (Trans-Platform Transfer Protocal), a cross-platform transfer
+protocol, was initiated by the ATT Foundation for the first time. It does
+- 51 -
+
+https://www.attnetwork.org
+
+not rely on specific social products as a transmission protocol. This
+protocol aims to open the silo barriers of various social products and
+make information available in the whole Products of the whole platform
+are freely distributed.
+
+5.3.2 TPTP protocol header
+Content
+
+Single layer data length
+
+Packet type
+
+Flag
+
+Bytes
+
+1
+
+1
+
+1
+
+Value
+
+2，From next byte
+
+0xf0，Presentation data
+
+0x80
+
+5.3.3 TPTP Message Format
+Content
+
+Fitness value
+
+minimum value
+
+Maximum value
+
+0x22=34
+
+0x01
+
+0xffff
+
+User number
+
+0x22
+
+0x01
+
+0xfc17=64535
+
+Token value
+
+0x00
+
+0x01
+
+0xffff
+
+Proorities
+
+0x01
+
+0x01
+
+0x01
+
+Throughput
+
+0x00
+
+0x00
+
+0x00
+
+Height
+
+0x01
+
+0x01
+
+0x01
+
+0xffff
+
+0x0420=1056
+
+0xffff=65535
+
+0x02
+
+0x02
+
+0x02
+
+Number of virtual
+channels
+
+Network logical packet
+length
+Version number
+
+After all parts of the channel application are passed, the initial system
+connection is started. Starting from this data packet, network data
+- 52 -
+
+https://www.attnetwork.org
+
+above the virtual channel layer needs to be encrypted. For details about
+the implementation of the encryption function, see the encryption
+module. The login network information structure is as follows:
+Content
+
+Bytes
+
+Value（Byte inversion）
+
+XX
+
+XX
+
+Idle Bytes
+
+4
+
+0x00000000
+
+Auto login flag
+
+4
+
+Normal，0x33，auto：0x28
+
+2
+
+If NULL is 0, multiply by 2 if there is value
+
+Username length
+
+2
+
+If NULL is 0, multiply by 2 if there is value
+
+Password length
+
+2
+
+If NULL is 0, multiply by 2 if there is value
+
+2
+
+If NULL is 0, multiply by 2 if there is value
+
+Login path length
+
+2
+
+If NULL is 0, multiply by 2 if there is value
+
+Domain name
+
+Domain name
+
+2 bytes save 1 character, and the last 2
+
+value
+
+length+2
+
+bytes are 0x0000
+
+Username
+
+2 bytes save 1 character, and the last 2
+
+length+2
+
+bytes are 0x0000
+
+Password
+
+Password
+
+2 bytes save 1 character, and the last 2
+
+character value
+
+length+2
+
+bytes are 0x0000
+
+Encryption layer
+and below
+
+Domain name
+length
+
+Login program
+length
+
+Username value
+
+Login program
+name
+
+Login
+program
+length+2
+
+2 bytes save 1 character, and the last 2
+bytes are 0x0000
+
+- 53 -
+
+https://www.attnetwork.org
+
+Content
+
+Bytes
+
+Value（Byte inversion）
+
+Login path
+
+2 bytes save 1 character, and the last 2
+
+length+2
+
+bytes are 0x0000
+
+Encryption layer
+
+4
+
+80 00 00 00
+
+Licence flag
+
+1
+
+Version
+
+1
+
+4.0->02，5.x->03
+
+2
+
+3a 00
+
+Flag
+
+2
+
+01 00
+
+Token length
+
+2
+
+0a 00
+
+Tokenvalue
+
+0x0a
+
+XX，10 bytes
+
+Hwid length
+
+2
+
+14 00
+
+Hwid value
+
+0x14
+
+XX，20 bytes
+
+Signature value
+
+0x10
+
+XX，16 bytes
+
+Login path value
+
+Length of this
+layer
+
+15，represents authreq, license
+authentication key
+
+5.3.4 TPTP data compression
+The
+
+encrypted
+
+information
+
+set
+
+in
+
+the
+
+network
+
+communication
+
+connection in the initial module is submitted to the server. The
+encryption form implemented by the protocol is RSA / RC4.
+When the initial encryption and decryption keys are obtained (obtained
+after sending the initial connection information), after the initial
+connection ends, the client needs to send the initial information of the
+- 54 -
+
+https://www.attnetwork.org
+
+system login to verify the correctness of the client's encryption and
+decryption. Since then, it has been authenticated by the license. After
+passing the authentication, all encrypted data is processed by the
+encryption and decryption layer. At the same time, the key needs to be
+saved, because encrypted data packets need to be continuously
+encrypted or decrypted correctly to get the correct data.
+Content
+
+Bytes
+
+Value
+
+Encryption layer
+
+4
+
+80 02 10 00
+
+Licence flag
+
+1
+
+ff，indicates result, license authentication key
+
+Version
+
+1
+
+4.0->02，5.x->03
+
+Length of this layer
+
+2
+
+10 00
+
+Unknown data 1
+
+4
+
+07 00 00 00
+
+Unknown data 2
+
+4
+
+02 00 00 00
+
+Unknown data 3
+
+4
+
+04 00 00 00
+
+5.3.5 TPTP scalability
+New security approach
+Adding a new type of security method will bring unlimited flexibility. It
+modifies some behaviors of the protocol without sacrificing existing
+client-server compatibility. The client and server can communicate with
+each other through a secure protocol. Of course, it is not necessarily
+similar to the original protocol.
+Protocol message
+Protocols can be reliably transmitted, such as byte streams or messagebased. Like most protocols, it is connected via the TCP / IP protocol
+suite. The protocol is connected in three steps. The first is a handshake
+- 55 -
+
+https://www.attnetwork.org
+
+message, the purpose of which is to negotiate the protocol version and
+encryption method. The second step is the initialization message, which
+is mainly used for client and server initialization messages. The last is
+the normal protocol interaction. The client can send messages on
+demand, and then get a response from the server.
+All messages start with a message type, followed by specific message
+data.
+The basic types of protocol message descriptions are: U8, U16, U32, S8,
+S16, S32.
+U represents an unsigned integer, and S represents a signed integer.
+All byte integers (except the pixel value itself) follow the big endian
+order.
+Big endian or little endian is related to cpu, which affects the order of
+integers in memory.
+Endian is high byte first, little endian is low byte first, and network
+endianness is generally big-endian.
+PIXEL represents a pixel value bytesPerPixel bytes, 8XbytesPerPixel =
+bits-per-pixel.
+
+6 Economic model
+6.1 PoC
+6.1.1 What is contribution
+The contribution definition in this system is as follows: POC is built on
+the blockchain based on the cumulative contributions of user nodes,
+using the node contribution degree as the access, utilizing the
+uniqueness and accuracy of the distributed ledger of the blockchain to
+coordinate system nodes Confirm the data broadcasting authority and
+can verify the system.
+
+6.1.2 Contribution sources
+
+- 56 -
+
+https://www.attnetwork.org
+
+The entry criteria for the POC is to reach the contribution value
+specified by the system. The POC starts consensus at each round, and
+by contributing to the consensus vote, the working nodes are selected
+to complete the block generation and accounting work, and incentives
+are given, and the nodes that do not follow the rules are punished.
+
+6.1.3 Contribution distribution
+The system contribution value consists of two parts: the user node's
+contribution to holding coins and the user node's work contribution.
+Among them, the contribution of holding money is related to the
+amount and length of holding money, and the contribution of work is
+related to the effective work of participating systems.
+
+6.1.4 How the contribution distribution method
+promotes the entire network forward cycle
+On-chain consensus rules, mobile democracy, predictive markets,
+secondary
+
+voting,
+
+adaptive
+
+arbitration
+
+bias,
+
+experiments
+
+with
+
+decentralized dispute resolution, and other new technologies that have
+not yet emerged can lead the era of positive transformation of social
+governance more widely.
+On the one hand, the overall premise of these networks is-decentralized,
+open, license-free, difficult to review, and programmable. They are
+fundamentally different from past organizational models. As a result,
+they are often touted as a preferred alternative to existing models.
+On the other hand, as I pointed out earlier, the social and political
+dynamics in a decentralized network are very similar to any other
+human system. The uneven distribution of network-specific resources
+inevitably leads to a power structure. At the same time, maintaining and
+challenging structures becomes a decisive function of network
+governance.
+
+6.1.5 Optimal Energy Efficiency Theory of the
+Whole Network
+
+- 57 -
+
+https://www.attnetwork.org
+
+PoS has many notable variants, and similar models that do not
+necessarily use stubs as a form of verification. For example, Trusted
+Proof of Interest (DPoS) and Delegated Byzantine Fault Tolerance (DBFT)
+conduct
+
+community
+
+elections
+
+and
+
+grant
+
+verification
+
+rights
+
+to
+
+stakeholder nodes. Proof of Importance (PoI) models (such as the NEM
+blockchain model) mainly reward nodes for their positive contributions
+to their networks (such as special payment protocols).
+Although both PoW and PoS have reached the common goal of
+network integrity through some form of collective verification, their
+consensus methods differ significantly in concept and function, which
+often have different impacts on the entire blockchain community. The
+main difference between the two protocols is that PoW is temporarily
+committed to computing power to help protect its network, while PoS
+is temporarily committed to using existing wealth (or fairness) as a
+verification tool.
+PoC, as an upgrade variant of PoS, guarantees block efficiency through
+node contribution while ensuring the highest possible efficiency, so that
+the total energy efficiency is minimized. The potential in many different
+industries (including financial technology and other industries) is so
+great So that it cannot be ignored. From banking to media and
+communications, certain aspects of the technology provide systems
+with transparency and anonymity. The inherent immutability of the
+blockchain makes it accountable to the public. In addition, distributed
+applications (DApps) highlight the future of blockchain technology as a
+highly democratic software development, distribution, and integration
+platform.
+
+6.2 PoR
+6.2.1 What are rules
+In traditional business organizations, corporate culture and company
+systems, one soft and one hard, push the wheels of the organization
+forward, and these cultures and systems are more or less the dominant
+genes of the founder's personal genes. This kind of centralized three- 58 -
+
+https://www.attnetwork.org
+
+view mechanism determines the ceiling height of the company to a
+certain extent. Regulating the behavior of community members is the
+consensus reached by everyone's compromise. Approval takes effect,
+opposition is out, support is rewarded, and violations are punished.
+
+6.2.2 Rule use
+Infrastructure management refers to embedded references to hardcoded rules to technology platforms. It usually focuses on the process
+of rule execution rather than rule specification (at least with regard to
+the initial rule).
+For example, in the case of Ethereum, internal regulations refer to
+blockchain protocols and consistent algorithms (second layer). From a
+DAPP perspective, internal rules include decision-making procedures
+and technical rules embedded in the relevant smart treaties (Tier 3 and
+Tier 4)-given the potential exogenous nature of the Ethereum protocol.
+A variety of other exogenous treaties exist, such as TCP / IP and other
+Internet protocols, making it possible for people to discover and
+connect with the blockchain-based Internet.
+To allow these regulations to survive inside the blockchain-based
+network, we will refer to the management by the infrastructure as the
+management above the blockchain. These rules are programmed
+directly onto the blockchain-based network, which guarantees that they
+will be implemented with secure and decentralized management.
+Sometimes, the management rules on the blockchain will clearly point
+out and modify their own procedures: just like we can specify how to
+specify laws, modify or repeal laws, we can design agreement rules and
+regulations to define that can be formulated, modified or Procedures
+for rescinding agreement rules.
+Take Tezos as an example: a self-modifying blockchain, where people
+have the ability to modify the rules of the agreement-including the
+rules that modify the rules!
+Infrastructure management refers to all forces that exist outside a
+technology platform, but still affect its own development and operation.
+These rules operate at the social and institutional level, not at the
+- 59 -
+
+https://www.attnetwork.org
+
+technical level. Endogenous treaties include rules, social norms, customs,
+and other management structures developed and recognized by a
+specific community that promotes harmony.
+
+6.2.3 Rule recovery
+Most blockchain-based decentralized applications are divided into
+different layers in their management:
+1) Internet protocol layer: for example, TCP/IP protocol;
+2) Blockchain technology layer: for example, the Ethereum protocol;
+3) Decentralized Application (DAPP) Framework: such as DAOstack;
+4) DAPP layer: for example, Sapien.
+Each level implements its own management structure, which may affect
+or be affected by other levels. These different levels of design and
+implementation involve multiple individuals, but they come from
+different communities and may or may not communicate with each
+other.
+Collectively, lower-level communities often implement their own
+management structures and rarely consider the implementation of
+upper-level management systems. However, in doing this, they
+ultimately dominate how applications from the upper layers will run.
+
+6.2.4 How the Rule Recovery Method Promotes the
+Forward Cycle of the Whole Network
+Developers in the open source community are more than writing rules
+and procedures to decide to develop and start an open source software
+project. Peer review often enforces these rules, although communities
+may also implement formal enforcement and regulatory mechanisms.
+Failure to comply with these rules may be excluded by community or
+other forms of social punishment.
+In
+
+a
+
+blockchain-based
+
+management
+
+as
+
+network,
+
+management
+
+we
+
+outside
+
+often
+the
+
+treat
+
+infrastructure
+
+blockchain,
+
+because
+
+management rules exist and are implemented outside the blockchain
+infrastructure. In contrast to the management rules on the blockchain,
+- 60 -
+
+https://www.attnetwork.org
+
+these rules are not enforced automatically: they need a third party right
+to enforce and supervise.
+For most blockchain communities, internal rules include all rules and
+procedures that are used to decide what changes to implement in the
+protocol, including decisions for the general public. In Bitcoin, these are
+done through the Bitcoin Improvement Proposal (BIP)-this is an
+informal mechanism where people can propose new features and
+improvements to the Bitcoin protocol.
+Ethereum implements a similar system that provides people to submit
+Ethereum improvement plans (EIP). This is an informal procedure where
+people can suggest and request changes to the Ethereum protocol or
+code. However, these procedures are not binding. The developer
+community evaluates these proposals and decides whether (and how)
+they should be implemented in the code base —and the various issues
+that may occur.
+To the extent that these proposals are accepted and implemented in
+code,
+
+infrastructure
+
+management
+
+has
+
+the
+
+ability
+
+to
+
+influence
+
+infrastructure management. In other words, because management
+outside the blockchain is usually to change the rules of a potential
+blockchain protocol, it has the ability to change the management
+structure above the blockchain.
+Exogenous rules are neither derived from the community nor their
+choice, but they have the ability to influence their activities.
+
+6.2.5 Network-wide minimum limit theory
+According to Bitcoin's internal rules, the blockchain is immutable: nodes
+cannot arbitrarily delete or modify content that has been recorded on
+the blockchain.
+There is also such a tension between the immutable nature of the
+blockchain and the forgotten powers of Europe, which gives people the
+right to ask for the removal and deletion of certain specific information
+about them, as long as such information is deemed not to be Relevant,
+outdated, or inappropriate.
+
+- 61 -
+
+https://www.attnetwork.org
+
+The government or other relevant regulatory agencies impose these
+external rules to ensure public order and morality. Their goal is to
+promote specific communities or the public interest—sometimes at the
+expense of the interests and norms of other communities.
+
+- 62 -
+
+

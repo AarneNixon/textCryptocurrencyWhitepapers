@@ -1,0 +1,772 @@
+Seascape
+
+Lightpaper
+
+1—
+
+The Ultimate Game
+Platform Designed
+Around the DeFi & NFT
+Economy.
+Powered by the Crowns Token
+Based on Substrate
+Game Across the Chains
+
+Seascape. Lightpaper
+
+info@seascape.network
+
+January 2021
+
+2—
+
+TABLE OF CONTENTS
+
+Seascape. Lightpaper
+
+Background
+
+3
+
+Motivation
+
+4
+
+VISION
+
+5
+
+The Seascape Ecosystem
+
+6
+
+DeFi Gamified
+
+6
+
+NFT Economics
+
+7
+
+Crowns
+
+8
+
+Paywave
+
+9
+
+Scape Store
+
+10
+
+Scape SDK
+
+11
+
+Blocklords
+
+12
+
+Mobile Version
+
+12
+
+METHOD
+
+13
+
+Architecture
+
+14
+
+Seascape Platform Chain
+
+14
+
+Binance Smart Chain
+
+15
+
+Ice Viaduct
+
+15
+
+Slot Bid
+
+16
+
+Game Chains
+
+16
+
+FUTURE
+
+17
+
+Looking Ahead
+
+18
+
+Road Maps
+
+19
+
+Partners, Friends & Advisors
+
+20
+
+Get Involved
+
+21
+
+info@seascape.network
+
+January 2021
+
+BACKGROUND
+
+3—
+
+Gamification is all around us.
+Each aspect of the world, from the mundane to the grand, is
+being turned into a game of some sort. Uber drivers are chasing
+high scores, food delivery runs are ranked with stars, and fintech
+app developers are working out ways to get the same user
+retention rates as Candy Crush.
+Likewise, we see more of the real world being implemented into
+gaming. AR games reward players for walking around the city,
+CS:GO skins are fetching thousands in the steam marketplace,
+and influencers design entire careers around one game.
+But a lot is still missing to create a true user-driven economy
+for all gamers, especially those who spend thousands of hours in
+one environment and own nothing at the end of the day.
+Crowns, a tokenized asset designed with the aim of rewarding
+players for their time spent playing, and the Seacape Platform,
+an innovative protocol designed for game developers, aims to
+change all of this.
+Are you ready to explore the future of incentivized gaming?
+
+Seascape. Lightpaper
+
+info@seascape.network
+
+January 2021
+
+MOTIVATION
+
+4—
+
+A dedicated team of game developers and smart contract programmers, the Seascape team
+joined the crypto community with great ambition several years ago. Filled with excitement,
+development began but quickly many complications were faced. These issues tend to be faced
+by most DAPP developers, which is the reason so many projects overdeliver and underperform.
+These are the main problems:
+LACK OF USER INCENTIVES
+With the rising popularity of excellent free-to-play titles, the gaming ecosystem is full of
+amazing products that anybody can play for free. The idea that any user would be willing to
+educate himself about blockchain, figure out how to work a wallet, and buy cryptocurrency
+before even playing a game is laughable. In order to motivate players to join a new platform,
+great incentives are needed that make the gamer feel like he is really being rewarded for spent
+time.
+SCALABLE DEFI & NFT SOLUTIONS ARE NEEDED
+The DeFi market is an untapped source of growth for the crypto industry as a whole. Powered
+with the appeal of gaming, it will be unstoppable to the up and coming generation of adopters.
+With less than 10 billion dollars currently locked DeFi markets, and the traditional gaming
+industry grossing over 150 billion dollars on a yearly basis, the potential for growth is enormous.
+Current DeFi & NFT models however cannot sustain much more than the current load, and new
+solutions need to be found in order to provide an appealing platform where users can profit.
+TRADITIONAL GAME PLATFORMS CHARGE TOO MUCH
+With the average platform taking between 10% and 30% of all gross revenue, profits can be
+seriously hurt for the majority of developers, especially as the indie game scene continues to
+grow in strength. There is a real need for a game platform that allows developers to easily
+publish their games with the least amount of effort possible and without charging enormous
+fees. If this platform succeeds in attracting developers and also gives them the tools to deploy
+their very own game chain and in turn incentivize their users, it could be quite powerful.
+
+In this paper, we will take you through the Seascape ecosystem, which aims to solve these
+issues.
+
+Seascape. Lightpaper
+
+info@seascape.network
+
+January 2021
+
+VISION.
+
+5—
+
+An Incentivized
+Ecosystem Consisting
+of Gamers, Developers,
+and Influencers.
+Driven by the Power of Great Games
+Earning and Spending Crowns
+Trade, Stake, and Collateralize All Game Assets
+
+Seascape. Lightpaper
+
+info@seascape.network
+
+January 2021
+
+VISION
+
+6—
+
+The Seascape
+Ecosystem
+Games are going to play an increasing role in
+defining the economics of the digital future,
+but a game isn’t enough to create a vibrant
+digital world.
+In order to thrive, the Seascape ecosystem
+will aim to provide a home to all game
+developers and users, incentivizing them
+to develop, play, and trade their assets in a
+vibrant marketplace that rewards all of its
+users, both with entertainment and economic
+benefits.
+To explain this in more detail, let’s take a
+look at each moving part of the ecosystem.
+
+DeFi Gamified
+Concepts such as staking, CDPs, and yield
+farming are now becoming mainstream
+(at least within the crypto community).
+Inherently, they are gamified aspects of
+traditional finance.
+
+Airdrops, Crowns Staking, Item CDPs, as well
+as a brand-new concept: the Player Created
+Coin (PCC) that clever players will be able
+to implement when they want to create their
+own in-game currency.
+
+Due to their fun nature, they can easily be
+implemented into games as part of core
+gameplay features.
+
+These are all ways for the players to not
+only increase their in-game power, but also
+earn real profits while they have fun with the
+game.
+
+BLOCKLORDS, Seascape’s flagship game,
+is serving as the proof of concept for all of
+these features, with examples being Title
+
+Seascape. Lightpaper
+
+Once this concept is perfected, it will be
+scaled out to the gaming industry!
+
+info@seascape.network
+
+January 2021
+
+7—
+
+VISION
+
+NFT Economics
+While many realize the potential of NonFungible Tokens, they still haven’t reached
+their full impact on the Ethereum network.
+This is partly due to high gas fees and a few
+technical limitations that prevent them from
+reaching their true potential.
+The first step in making NFTs a truly vital
+part of the DeFi economy is to ensure that
+
+they can generate earnings for their holders,
+which is still only dependent on market value.
+With the possibility of collateralizing NFTs to
+take out debt, renting them out for set or
+variable rates, and trading them on an open
+exchange, the potential use cases within
+BLOCKLORDS and future and future games
+are endless.
+
+Lend
+
+Drop
+
+BLOCKLORDS CDP
+
+CROWNS DROP
+
+NFT
+
+Other Players
+
+NFT MARKET
+Seascape. Lightpaper
+
+IMPORT to
+info@seascape.network
+
+January 2021
+
+8—
+
+VISION
+
+Crowns
+After a lot of careful consideration, Seascape
+Games has unveiled a way to truly incentivize
+gamers and platform users for their time
+spent playing.
+This method is Crowns, a token designed to
+reward all key stakeholders of the gaming
+ecosystem.
+
+to experience the true power of DeFi gaming
+in a fun and user-friendly way.
+Various ways to stake, borrow, and utilize
+Crowns will be released periodically to
+players as the ecosystem grows.
+
+Crowns will be introduced via BLOCKLORDS,
+as a way to reward all players who prove
+themselves worthy.
+This token will be the way for most players
+
+BLOCKLORDS
+
+GAME A
+
+GAME B
+
+CROWNS
+
+Exchange
+
+Seascape DeFi
+Seascape. Lightpaper
+
+info@seascape.network
+
+January 2021
+
+9—
+
+VISION
+
+Paywave
+Every player who owns Crowns will receive a
+periodic paywave drop.
+The paywave supply is taken entirely from
+the spent amounts of tokens spent by users
+on games hosted on the Seascape Network,
+thus guaranteeing a fixed supply cap of
+Crowns at 10,000,000 tokens as no inflation
+takes place during this process.
+
+This paywave function makes it easy to
+create a passive way to increase amount for
+all Crowns holders, and will also make the
+owners stakeholders in the entire ecosystem,
+further pushing the growth of its community.
+
+HOLDER A
+
+HOLDER C
+
+Seascape. Lightpaper
+
+info@seascape.network
+
+HOLDER D
+
+HOLDER B
+
+HOLDER E
+
+January 2021
+
+VISION
+
+10 —
+
+Scape Store
+The Scape Game Store is a user-facing
+game platform based on Substrate.
+Connected to the Polkadot ecosystem, the
+main focus is on allowing users to own and
+trade cross-chain assets while playing their
+favorite games, with an option to anyone
+who downloads the client to help validate
+transactions and earn the Crowns token
+while they play their favorite games.
+
+Seascape. Lightpaper
+
+By helping to keep the chain secure, users
+will also be able to play an active role
+in governing the game store for matters
+regarding developer fees, minimum game
+requirements, esports tournaments, and
+much more.
+
+info@seascape.network
+
+January 2021
+
+VISION
+
+11 —
+
+Scape SDK
+The Scape SDK will standardize all the moving
+parts involved with releasing a game on the
+Scape Store, offering clear documentation
+and rules to make onboarding for users and
+devs as smooth as possible.
+The SDK will include native wallets that
+support all major cryptocurrencies, starter
+game chain kits, payment solutions,
+leaderboards, and much more.
+
+Seascape. Lightpaper
+
+By creating an environment that attracts
+gamers and developers alike, the plan is
+to build a platform that will grow a strong
+community and thrive over the long term.
+The Scape SDK will be developed in
+collaboration with established game industry
+partners.
+
+info@seascape.network
+
+January 2021
+
+VISION
+
+12 —
+
+BLOCKLORDS
+Arctic Seascape Studio’s first flagship
+game, BLOCKLORDS has been deployed on
+no less than 6 different blockchains since its
+inception (ETH, TRON, NEO, LOOM, ICON,
+and MATIC).
+
+a smoother user experience that didn’t
+require a wallet to get started, but could
+be connected at a later date to earn crypto
+incentives, was released in June 2020 and
+has brought in thousands of users since its
+launch.
+
+With each iteration, the quality and scope of
+the game improved as the community kept
+playing and coming in with suggestions.
+Throughout this process, the team learned a
+lot about the pressure points game developers
+faced on all these different protocols, and
+this led to a number of drastic game design
+decisions constantly being made.
+The 2.0 version, which aimed at creating
+
+Mobile Version
+While the first version of BLOCKLORDS was
+created as a web browser-based game, the
+scope has now increased to include a release
+on mobile platforms by early 2021.
+
+BLOCKLORDS Mobile is currently in
+development and more details will soon be
+unveiled, but we can already say that it will
+be packed with DeFi inspired features and
+extended gameplay right at launch!
+
+This initiative will allow us to launch a polished
+game, available in a variety of languages and
+with user-friendly new player tutorials right
+at the get-go.
+
+Seascape. Lightpaper
+
+info@seascape.network
+
+January 2021
+
+METHOD.
+
+13 —
+
+Using the Latest in
+Blockchain Technology
+to Offer Scalability,
+Affordability, and Speed.
+Connected to Major Chains via Substrate & Polkadot
+Each User Protects the Protocol
+Your Game, Your Rules
+
+Seascape. Lightpaper
+
+info@seascape.network
+
+January 2021
+
+METHOD
+
+14 —
+
+Architecture
+
+Seascape Platform Chain
+The Seascape Chain will be the native protocol
+of the Scape Game Store.
+Through an innovative consensus algorithm
+to maximize block confirmation and TPS
+speeds, local consensus will be achieved via
+Crowns staking and the fact that each user
+who downloads the Scape Game Store will
+have the option to become a validator/collator
+of the network and earn Crowns rewards while
+Seascape. Lightpaper
+
+they have their computer running.
+This achieves consensus and the stability of
+the platform while keeping things frictionless
+for the average user who doesn’t care about all
+this. By incentivizing community participants
+directly, we create an environment where
+everybody can monetize their time playing
+games.
+
+info@seascape.network
+
+January 2021
+
+METHOD
+
+15 —
+
+Binance Smart Chain
+Seascape will build games on the Binance
+Smart Chain (BSC), which makes use of
+dual-chain architecture technology, allowing
+users to access hyper fast trading, while also
+making use of the smart chain’s flexibility.
+Seascape will develop an SDK which will
+standardize all the moving parts involved
+with releasing a game on its platform, with
+clear documentation and rules to make
+onboarding for users and devs as smooth as
+possible.
+
+Furthermore, Seascape will offer developers
+an easy way to publish their games without
+the enormous fees associated with traditional
+gaming platforms. The Binance Smart Chain
+offers scalability in games that is unmatched,
+while also remaining connected to the value
+and liquidity of Ethereum, which in turn will
+empower the users to decide where and how
+they want to buy or sell their gamified DeFi
+assets.
+
+ICE Viaduct
+The viaduct serves as the Seascape
+platform’s connection to the outside world.
+It will be able to connect to a variety of
+Polkadot parachains, as well other established
+protocols such as Ethereum, Algorand, and
+more.
+
+Seascape. Lightpaper
+
+By letting our games and the store platform
+work as a hub connected to the entire
+decentralized economy, we do not lock users
+in and allow them to migrate their assets
+however they wish.
+
+info@seascape.network
+
+January 2021
+
+METHOD
+
+16 —
+
+Slot Bid
+Scape users who lock DOTS in their platform
+wallet will receive increased Crowns rewards,
+subsidized on-chain transactions, share of
+profit from the games, and access to all
+Scape games for free or discounted prices.
+
+If Parachain bid requirements cannot be met,
+the Seascape Chain will be built on Kusama,
+as well as an independently functioning chain
+with its own bridges, to ensure connection
+with the entire decentralized economy
+regardless of outside conditions.
+
+This will allow Seascape to stay competitive
+in the Parachain bids, thus ensuring the
+stability and scalability of the ecosystem.
+
+Platform Fees
+A new kind of fee model will let users and
+developer choose between paying fees
+monthly (partial validation) or for each
+transaction (full validation).
+These fees can be paid entirely in Crowns
+and will be much lower than existing
+solutions.
+This will also enable game developers
+
+to join a monthly subscription program
+where their games are offered as part
+of the monthly subscription plan, thus
+guaranteeing a stable recurring revenue
+for developers.
+This system also allows the Scape developer
+share of the revenue to be much lower than
+existing game client platforms such as the
+Steam and Apple stores.
+
+Game Chains
+Any game released on the Seascape
+Platform will have the option to create their
+own blockchain with its own set of rules.
+These chains can either run on Crowns
+economics or create their token backed
+by Crowns or any other established
+cryptocurrency.
+Seascape. Lightpaper
+
+Running their own chain will enable game
+developers to set their own rules depending
+on their exact needs, keeping them free to
+experiment with decentralized economics
+and game features as they wish.
+
+info@seascape.network
+
+January 2021
+
+FUTURE.
+
+17 —
+
+A Steadfast Approach
+with Focus on Efficiency,
+Quality and Scope.
+Great Games Available On An Innovative Platform
+Each Step Pushes the Ecosystem Forward
+Use Crowns to Boost User Engagement
+
+Seascape. Lightpaper
+
+info@seascape.network
+
+January 2021
+
+FUTURE
+
+18 —
+
+Looking Ahead
+The intent with BLOCKLORDS, Crowns,
+and the Seascape Platform Chain are
+one and the same; to reward players and
+developers for their contributions to any
+given game.
+
+on improving our game titles, releasing
+new ones, and forging partnerships with
+other studios, meanwhile developing
+and improving our client and launcher
+solutions.
+
+By continuing our focus and dedicating
+ourselves to the task of making games
+and their economies more accessible to
+everyone, we will stick to our core values
+and continue development at a steady
+pace.
+
+This steady pace of development, along
+with our excellent track record is the key
+to delivering a high-quality product in a
+limited amount of time. We haven’t, and
+will not, let our fans down!
+
+We believe firmly that before a game
+store can be commercially viable, it needs
+to be based around an excellent library of
+games, so we take the short term to work
+
+Seascape. Lightpaper
+
+info@seascape.network
+
+January 2021
+
+19 —
+
+Seascape. Lightpaper
+
+info@seascape.network
+
+January 2021
+
+20 —
+
+Expanding Collaboration
+Across the Space.
+
+INVESTORS
+
+Seascape. Lightpaper
+
+info@seascape.network
+
+January 2021
+
+21 —
+
+Join a Growing
+Movement.
+
+Learn more about
+BLOCKLORDS
+
+Play games to
+
+Website
+
+earn
+
+Become a
+core
+
+Crowns
+
+Help us build
+
+Community Builder
+
+the
+
+Scape Game Store
+
+Subscribe to
+the
+
+Seascape. Lightpaper
+
+Newsletter
+
+info@seascape.network
+
+January 2021
+
+

@@ -1,0 +1,737 @@
+CRYPTO BANK
+C-BANK is an integrated virtual asset management
+platform where various assets of different exchanges can
+be managed in one platform. CBANK also enables easy
+transfer and real-time payment in af liated stores.
+
+fi
+
+white pa per Ve r 1.0
+
+Whi t e p ap e r
+
+Contents
+
+1. Summary
+
+3
+
+2. Changes and Opportunities
+
+4
+
+3. Issues to Address
+
+6
+
+4. Crypto Bank Solution
+
+7
+
+1) Integrated Asset Management
+2) Easy Transfer
+3) Smart QR Payment System
+
+5. Three Advantages of Crypto Bank
+
+12
+
+1) Convenience
+2) Security
+3) Scalability
+
+6. C-BANK TOKEN
+
+15
+
+7. Team and Advisors
+
+16
+
+8. Partners
+
+17
+
+hi teep
+Whi t eW
+p ap
+r a p er
+
+Summary
+Virtual asset is one of the most innovative technologies existing today, but there are some analog inconveniences
+that hinder practical usage. Some of the difficulties are: 1. cumbersome asset management due to different virtual
+assets listed on various exchanges, and 2. the complicated transfer process in which a complex and long wallet
+address must be entered each time. Another issue is that because the virtual assets are only traded on the
+exchange, and they do not have a daily usage. To address such porblems, Crypto Bank presents an optimized
+platform for smart virtual asset management and usage.
+In a way, Crypto Bank is the virtual asset version of the popular app Toss in Korea. Toss integrates several accounts
+different banks and financial institutions. Using the exchange's API key, users can manage various virtual assets with
+one application. By registering friends, transfers and remittances can be made in few easy steps. Also, the user can
+deposit their virtual assets in the Crypto Bank custodial (trusted) account to make real-time payments with virtual
+assets any time at the affiliated stores.
+Crypto Bank enables virtual payments with a single QR through a patented technology called the Smart QR system,
+which is compatible with various existing payments such as Kakao Pay and Zero Pay in Korea. With the recent
+outbreak of Covid-19, the global society has been plunged into a non-contact culture. In such environment, QR
+payment is rapidly emerging as an ideal non-contact payment system. Keeping pace with such changing times,
+Crypto Bank offers a convenient integrated solution that enables the real-time payment and settlement using
+virtual assets.
+
+3
+
+Whi t e p ap e r
+
+Changes and Opportunities
+
+We are moving towards a cashless society. Since 2018, Starbucks has been piloting cashless store campaign,
+successfully expanding the system nationwide in Korea. As more stores are adopting cashless payment system,
+most of franchise stores and even small businesses are implementing digital payment devices such as POS and
+kiosks. Thus, cash payment is becoming more and more obsolete.
+Such a phenomenon suggests more than the diversification of payment systems or advancement of
+technology. We need to pay attention to a more fundamental change taking place in our world. While the
+movement towards a cashless society is an external phenomenon, the cause of such change is due to the
+digitalization of money and the transition to a non-contact society.
+
+With the internet taking over the everyday life, people have become accustomed to the digitalization of values.
+We know that the numbers on the bank account are not just numbers, they are values. People know that
+sending and receiving numbers mean an exchange of value. This is a digitalized trust system. We no longer need
+to carry money in their wallets, because digital payments are possible anytime, anywhere with a smartphone
+that can perform complex functions in simple steps.
+
+4
+
+Whi t e p ap e r
+
+Changes and Opportunities
+
+Moreover, the outbreak of Covid-19 pandemic forced the implementation of non-contact daily life for the global
+population. It has become the norm to wear a mask outside. In addition to wearing masks, many aspects of our
+society are already transformed to adapt to a non-contact society. It is no coincidence that cash payments are
+disappearing and while digital payments are taking over. We must be ready to face to such a huge flow of
+change.
+
+Virtual Asset’s Every Possibility
+In One Service
+
+Changes are often perceived as crisis.
+Change is a process of going through pain to discard familiarity in
+everyday life with unfamiliarity.
+However, one can accept the change as an opportunity for improvement or innovation. Whether to accept
+change as a crisis or an opportunity depends on one's choice. People who see change as a crisis stay stagnant.
+Those who see change as an opportunity will continue to move forward. Eventually, the world will adapt to
+change over time. In the end, people will realize that the Covid-19 pandemic was the catalyst for further
+progress. The digitalization of money and the transition to a non-contact society foretell the emergence of a
+new market. Such changes are also a golden opportunity to for those who seek to venture into unfamiliar
+territory.
+
+5
+
+Whi t e p ap e r
+
+Issues to Address
+
+Virtual asset holders suffer from the inconvenience of using multiple exchanges at the same time because each
+exchange handles different types of virtual assets. Another issue is that the each exchange implements different
+security policies, making it difficult to systematically manage assets. While the user ID, password, and OTP are
+basic requirement for security, in some cases, additional requests such as email approval, text authentication,
+and security number are necessary. Such complex security measures cause the user to forget or lose the log-in
+security authentication information. Once the information is lost, it is nearly impossible to remit or withdraw
+the assets. This is why an integrated asset management platform is desperately needed.
+The virtual asset settlement platform poses another issue. There have been attempts to use virtual assets for
+payment. However, there has been constantly criticized that virtual assets are not suitable for real-time
+payments because of their slow transfer and high volatility. Nevertheless, attempts to link virtual assets with
+daily consumer life are gradually gaining more meaningful results.
+Still, many challenges remain to be solved. Most virtual asset payment platforms fail to attract offline affiliates
+because they only support limited payments on online channels. However, the platforms end up focusing on
+online stores because it is practically impossible to recognize virtual assets with the conventional Point of Sales
+terminal devices. While there are places that accept payment with virtual assets through paper QR codes, most
+stores do not welcome the use of QR codes since it creates clutter on the payment counters and the settlement
+process is not intuitive. For a payment system to be widely accepted, both the users and stores should not
+experience any inconvenience during the payment and settlement process. Unfortunately, there is a wide gap
+between the digitalized virtual assets and still analogous payment and settlement systems.
+
+6
+
+Whi t e p ap e r
+
+Cryptobank Solution
+
+“
+
+Crypto Bank provides an integrated asset management platform.
+
+Integrated
+Asset Management
+
+”
+
+“
+
+Easy Transfer
+
+”
+
+Using the Application Programming Interface (API) key provided by the exchange, the
+functions of various exchanges can be used in one application. On the Crypto Bank
+platform, users can check the overall asset status at a glance, and check the market price of
+assets on different exchanges. In addition, arbitrage trading is possible by using the asset
+transfer function.
+
+Crypto Bank provides an easy transfer service with a single
+registration.
+Once a friend is registered on the user's account, the user can send virtual assets to the
+friend by selecting an exchange the user's choice. On Crypto Bank, the user can enter the
+transfer amount in KRW to remit virtual assets for easier usage. The existing method for
+virtual asset transfer from one exchange to another requires entering the quantity. For
+example, to transfer Bitcoin, the user needs to enter the quantity to the decimal point.
+However, Crypto Bank makes the remittance process much easier because the amount of
+the token is automatically calculated according to the market price when the user enters
+
+“
+
+the transfer amount in KRW.
+
+Smart QR Payment
+System
+
+”
+
+Easy payment at a liate stores with an integrated QR.
+Crypto Bank's unique Smart QR Payment system is a patented technology that enables two
+QR code reading devices to process a QR code twice to mutually confirm the information
+and proceed with the correct payment process. This method enhances security and makes
+the payment process as simple as using a credit card since the whole process is made
+through the POS machine of an affiliate store where QR code is generated. Crypto Bank's
+Smart QR Payment system can recognize the information of various payment systems with
+only one QR, so it has excellent scalability to support wide range of payments. Therefore,
+Crypto Bank provides the convenience for both the users and store managers.
+
+The following describes the Crypto Bank's payment process: The user selects a virtual asset for payment on the
+Crypto Bank mobile app and scans the QR code displayed on POS. Payment is made by subtracting the quantity of
+the virtual asset equivalent to the price of the product. At this point, the quantity of the token is determined by the
+market price at the time of payment.
+The deducted virtual asset is immediately sold at the current market price and deposited as cash. The affiliated store
+receives settlement in KRW through a settlement company (payment gateway) designated by Crypto Bank after the
+third business day. This process is similar to the existing credit card payment settlement. As customers do not have
+to worry about the volatility of virtual assets when making payment, they become more comfortable with using
+virtual asset settlement.
+
+ffi
+
+7
+
+Whi t e p ap e r
+
+Crypto Bank Solution
+
+Immediate deduction of the user’s virtual asset at the time of payment at
+the real-time exchange rate. The sold token is settled with the store in at
+currency.
+While Crypto Bank is a virtual asset management and payment platform, it emphasizes the fintech integrated
+payment model. The platform must be able to integrate with the existing payment system to attract offline
+franchises, rather than introduce a totally new system. To expedite the integration, Crypto Bank is taking the
+lead in distributing POS to affiliates of top POS service providers, Daewon POS, Chanyul, and Paycrux. Also,
+the platform is cooperating with T-Payment, a taxi payment company, to supply virtual asset payment devices
+to private taxis in Gyeonggi, Incheon, and Daegu.
+
+User Payment Process
+
+① Payment
+
+Crypto Bank
+
+User
+
+Af liates
+
+② Virtual asset
+deducted according to
+the exchange rate
+
+④ settlement in at
+③ Deducted virtual asset
+Immediately sold and deposited
+
+fi
+
+fi
+
+fi
+
+8
+
+Whi t e p ap e r
+
+Three Advantages of Crypto Bank
+
+Convenience
+
+Crypto Bank allows the users to easily manage virtual assets that have been stored
+across multiple exchanges in one app. Virtual asset transfer and remittance can be
+processed easily with just few taps. In addition, real-time payments can be made
+with virtual assets without any technological barrier, with similar interface with the
+rapidly rising QR Pay trend.
+
+Convenience
+
+Security
+
+Extensibility
+
+Management of virtual assets,
+
+2-Tiered encrypted
+
+Applicable to various payment
+
+security system
+
+and transfer system
+
+convenient on-and-o ine payment
+
+ffl
+
+9
+
+Whi t e p ap e r
+
+Three Advantages of Crypto Bank
+
+Security
+
+Crypto Bank implements a three-tier security system to protect the user's personal
+information. Step 1 is mobile phone identification; Step 2 is convenient password; and
+Step 3 is biometric authentication.
+
+Also, Crypto Bank fundamentally prevents the user's
+virtual assets from being leaked or hacked from external
+attacks by storing user's lock and key separately with
+double encryption.
+
+User
+User’s lock and key separately stored with double encryption
+External hacking prevented with separate storage
+
+10
+
+Whi t e p ap e r
+
+Three Advantages of Crypto Bank
+
+Scalability
+
+The fintech technology embodied in Crypto Bank's Smart QR Payment system has
+excellent scalability that can be applied to various services, platforms, and
+systems. Virtual asset payment and various point payment system can be
+converged with the existing payment methods with simple software update. The
+technology can be applied to online and offline affiliates as well as remittance
+services.
+
+Such scalability enables Crypto Bank to become a comprehensive and integrated platform that
+provides various services without competing for users with the existing companies. In addition,
+users can also donate their virtual assets on World Vision to help children in need globally.
+
+Easy
+
+Service
+
+Existing payment system
+
+Applicable to payment,
+
+used with simple
+
+transfer service and on-and-
+
+software update
+
+offline store services
+
+Platform
+
+Global
+
+Integrated platform to
+
+A global service that caters
+
+provide service without
+
+to international users and
+
+completing with the existing
+
+service providers
+
+service providers
+
+11
+
+Whi t e p ap e r
+
+TOKEN ECONOMY
+Crypto Bank, in simple terms, is an integrated virtual asset management platform, but on a deeper level, it is not a
+project aims to serve only the virtual asset users. Crypto Bank pursues the naturally induced popularization of the
+blockchain by adding the payment function to connect the blockchain ecosystem and the daily life to expand the
+boundaries of virtual assets. In other words, Crypto Bank is a blockchain project for everyone. C-BANK is a utility
+token that implements Crypto Bank 's blockchain philosophy.
+
+The following explains the C-BANK token design.
+
+1. On and offline real-time payment
+Crypto Bank fully supports the online payment system using virtual assets, as such service has already been realized
+in many projects. One differentiation of Crypto Bank is its offline payment service. Thanks to Crypto Bank k's
+patented Smart QR Payment system, it is possible to pay with virtual assets with a simple software update on
+various POS of the affiliates. The users of virtual assets and the store managers with little or no understanding of the
+blockchain can use the payment system as it implements an intuitive real-time payment process. C-BANK token is
+used as a form of payment on Crypto Bank applications. Once a payment is made, the C-BANK deposited in the
+Crypto Bank custody account is sold in real-time through the exchange's API linkage, and the affiliated store quickly
+receives settlement in fiat within three business days.
+
+2. User Benefits
+Crypto Bank plans to support payment of various virtual assets, starting with the C-BANK token. Users who make
+payment with virtual assets will be eligible for various rewards, such as promotional discounts with partnerships
+with the affiliates. In particular, users can enjoy the following benefits when making payments with C-BANK tokens.
+Crypto Bank shares a portion of its revenue generated from the platform with C-BANK holders. Revenues generate
+from: payment fees, profits from registering various virtual assets as a form of payment, and acquisition of affiliate
+stores and investment products. C-BANK holders enjoy discount on fee with making payment with C-BANK.
+Depending on amount held, the holders can also be exempt from paying fees. They can also receive a certain
+amount of payback based on their holding and usage amount. Details on these policies will be updated later.
+Also, Crypto Bank users outside of Korea can enjoy the benefit of making payments without the high exchange fees
+by using C-BANK. Likewise, Korean Crypto Bank users can make easy payments with C-BANK with overseas affiliates.
+Crypto Bank is exerting efforts to attract global affiliates in China and Southeast Asian region through its global
+partners and advisors (I5 Global Networks Co., Ltd).
+
+12
+
+Whi t e p ap e r
+
+TOKEN ECONOMY
+
+3. CRYPTO BANK FINANCE
+Crypto Bank plans to launch its financial product services after stabilizing the platform by securing the number of
+users.
+First, Crypto Bank supports applications to virtual asset investment products through API interworking within
+Crypto Bank application by entering partnerships with various exchanges and blockchain projects. Users can check
+various investment products provided by numerous partners, while each exchange and blockchain project can
+attract investors through the Crypto Bank app. Partners who wish to promote their investment products on the
+Crypto Bank platform must hold a certain amount of C-BANK.
+Second, Crypto Bank plans to launch a collateral loan service by selecting staking products operated by different
+exchanges through partnerships. Users can borrow virtual assets up to 70% of the staked collateral value depending
+on the amount of C-BANK held in Crypto Bank. The service users can also receive an interest rate discount when they
+decide to repay interest with C-BANK.
+
+15%
+Ecosystem
+Reserve
+Team and Advisors
+Strategic Partners
+Marketing
+
+5%
+
+30%
+
+10%
+
+TOKEN DISTRIBUTION
+Ecosystem
+
+30% (3,000,000,000 C-BANK)
+
+Reserve
+
+40% (4,000,000,000 C-BANK)
+
+Team and Advisors
+
+10% (1,000,000,000 C-BANK)
+
+Strategic Partners
+
+5% (500,000,000 C-BANK)
+
+Marketing
+
+15% (1,500,000,000 C-BANK)
+
+13
+
+40%
+
+Whi t e p ap e r
+
+Team
+
+Scott Seo
+
+Je ry Kim
+
+Manager of BCN
+
+Head of Sales at Paradise Co., Ltd.
+
+CEO
+
+CTO
+
+Head of Grand Korea Leisure Co., Ltd.
+
+Team Leader of BSA (Blockchain
+
+Manager of Grand Korea Leisure Co. Ltd.,
+
+Startup Accelarating) lab
+
+Incheon Airport
+
+Marketing Manager of Hotbit Korea
+B.A. in Economics, Korea University
+
+JINI KIM
+
+Jinuk Lee
+
+CMO
+
+Senior Engineer
+
+Manager of Digital Marketing for CBANK
+
+Director of Altplus Korea
+
+Consultant for Gravity Digital Marketing for
+Middle East Market
+
+Programmer at Gameloft
+Programmer at Golfzon
+
+Investment Marketing Team Leader of Wadiz
+Conducted digital marketing for eBay, VISA, KT,
+Match Group and other global companies
+B.A. in Fine Arts, Choongang University
+
+Ilhoe Kim
+
+Liam Kim
+
+Senior Engineer
+
+Marketing Manager
+
+Consultant for Guro-gu Smart City Policy
+
+Digital Marketing for CBANK
+
+Director of Z-Storm
+
+Customer Support at Tertiary
+
+Director of XZO_Game
+
+Hospital in Korea
+
+14
+
+ff
+
+Reviewer at Health Insurance
+Review & Assessment Service
+
+Director of LKConvergence
+
+Whi t e p ap e r
+
+Advisers
+
+Ren Yi 任毅
+
+Berine 熊丹
+
+China Guangcai International Group
+Co.,Ltd Vice-President
+
+Huobi Indonesia Exchange
+Founding Partners
+
+Guangcai International Investment
+
+A graduate of Computer Engineering
+School, Beijing University of
+
+Group focuses on investment, asset
+
+Aeronautics and Astronautics
+
+management, convergence and
+
+Head database Engineer of Beijing
+
+new city construction, modern
+
+Airport Terminal 3 Operation Center
+
+ecological farming, mining energy,
+
+Handled crucial database of cargo
+
+and premium production.
+
+system of Beijing Airport and other
+international airports
+
+Alexander Wan 尹锥兴
+
+Shi Yanqiang
+
+Huobi Indonesia Exchange
+Founding Partners
+
+BLOCK GLOBAL Founder & Chairman
+M.A. in Law, Tsinghua University
+
+Executive Director and CIO of Ping An
+
+Founder of BLOCK GLOBAL
+
+Securities Ltd.
+Over 30 years of business experience in
+asset management, investment bank,
+advanced technology, natural resources,
+and biotechnology in the U.S. and Asian
+region. Served as Vice President of
+
+President of Global Blockchain Alliance
+11th Asia-America Multi-Technology
+Association Cradle Plan
+Deputy Director, Blockchain Expert
+Committee of International Clean Energy
+Forum
+
+International Private Bank of Citibank,
+Vice President and Head of Asia Business
+Region 1 of Commercial Bank of BNP
+Paribas
+
+Allen Liu
+BLOCK GLOBAL CEO / Coinin CEO
+Liu co-founded BlockTech Media in March
+2018, and has enjoyed rapid growth of the
+business ever since. He expanded his
+media business globally to establish
+CoinIn in Korea, BlockTimes in Taiwan,
+and Beecast in Southeast Asia. His
+accumulated investment reaches over
+10M RMB.
+
+15
+
+Professor at Fuli Business School
+
+Whi t e p ap e r
+
+Local Partners
+Doobitnarae Soft
+Doobitnarae Soft is the developer of technologies and products in line with the
+4th Industrial Revolution and ntech. The company has developed various
+product lines such as algorithmic trading technology and Tidic solution. Tidic
+solution is a patent-pending QR-based information transmission and reception
+technology service.
+
+Tpayment
+Tpayment is the payment device and mobility solution supplier for private and
+corporate taxi operating in Korea. The company supplies card reading devices to
+over 2,000 taxis in Gyeonggi-do, Incheon, and Gangwon-do. Tpayment is also
+collaborating with a 40,000 taxi-call solution provider with a goal of securing
+20,000 a liated stores in 2020.
+
+DGBupay
+DGBupay is establishing a settlement system that replaces cash transaction in
+transportation sectors such as buses, urban railroads, taxis, and highway tolls.
+The company also supports payment systems for parking lots, stationery stores,
+and supermarkets. Since 2017, DGBupay has expanded into large convenience
+stores GS25 and E-Mart 24.
+
+XMD
+XMD provides ASP-type web-based fashion ERP to franchise companies and soho
+stores that handle miscellaneous goods. It o ers Play Shop for small businesses
+and Play MD for franchise stores, as well as an online order collection service
+Play Link. From early 2020, the company has merged its o ine fashion ERP
+technology and online mall solution to link online store solution Shop Buy and
+PlayShop with NHN.
+
+Paycrux
+Paycrux provides a service platform that links the on and o ine marketing
+platforms with POS data to bene t all a liates, partner media, and users.
+
+ffl
+
+ffl
+
+ff
+
+ffi
+
+fi
+
+fi
+
+ffi
+
+16
+
+Whi t e p ap e r
+
+Local Partners
+Daewon POS
+Daewon POS focuses on coupon printer business along with electronic menu
+board solutions, POS systems, credit & debit IC card terminal devices. It is
+commissioned by Korea Financial Telecommunications and Clearings Institute
+(KFTC) to manufacture and supply computer-related POS.
+
+Chanyul
+Chanyul provides the most optimal digital marketing solutions for clients'
+businesses to succeed. The company provides integrated digital signage
+solutions from display products based on di erentiated technology to
+convenient software for optimal display marketing. In addition, it provides a
+smart tap order solution and electronic menu board.
+
+Delion
+Delion has built an extensive expertise and know-how in delivery app market,
+food delivery, and payment system. With this background, Delion aims to
+establish a food delivery platform business that bene ts small businesses and
+platform participants with automated delivery service.
+
+Doi Chaang Co ee
+Doi Chaang Co ee is a premium co ee shop franchise that serves the nest
+co ee from beans produced at the Doi Chaang Co ee Farm in Thailand. Doi
+Chaang Mongyudowon, located in Jongro-gu, Seoul, is currently registered as an
+a liate vendor of Crypto Bank's real-time virtual asset payment.
+
+fi
+
+fi
+
+ff
+
+ff
+
+ff
+
+ff
+
+ff
+
+ff
+
+ffi
+
+17
+
+Whi t e p ap e r
+
+Global Partners
+
+18
+
+

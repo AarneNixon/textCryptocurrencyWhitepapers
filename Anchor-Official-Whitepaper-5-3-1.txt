@@ -1,0 +1,1474 @@
+1
+
+ANCHOR WHITEPAPER
+ANCHORED BY THE GLOBAL ECONOMY
+Edition 5.3
+Updated October 2019
+
+www.theanchor.io
+
+2
+
+Table of Contents
+Table of contents
+
+3
+
+I. INTRODUCTION
+
+5
+
+II. THE PROBLEM STATEMENT AND MARKET ANALYSIS
+
+6
+
+Traditional ​Fiat Currencies
+
+6
+
+Cryptocurrencies
+
+8
+
+Stablecoins
+
+9
+
+Conclusive Issue
+
+III. ANCHOR AS A SOLUTION
+
+1​2
+
+1​3
+
+Anchor’s Tokenomics: Three Pillars of Stabilizing Architecture
+
+1​4
+
+Pillar #1: Monetary Measurement Unit (MMU)
+
+1​5
+
+Pillar #2: Two-Token Model
+
+1​6
+
+Pillar #3: Decentralized Governing Body of Validators
+
+22
+
+IV. APPLICATIONS AND BENEFITS
+
+2​4
+
+V. PROJECT MILESTONES
+
+2​6
+
+Milestones Accomplished to Date as of July 2019
+
+2​6
+
+Forward-looking Developments and Objectives for the Next 24 Months
+
+2​7
+
+VI. ANCHOR TOKEN ALLOCATION
+
+2​8
+
+VII. TEAM
+
+2​9
+
+Leadership Team
+
+2​9
+
+Monetary Measurement Unit (MMU) Team
+
+30
+
+Blockchain, Software, and IT Team
+
+31
+
+Business Development and Sales Team
+
+3​2
+
+www.theanchor.io
+
+3
+
+Legal Team
+
+3​3
+
+​Partner Network
+
+3​3
+
+VIII​. CONCLUSION
+
+3​4
+
+In Summary
+
+3​4
+
+How To Get Involved
+
+3​4
+
+Risk Factors and Disclaimers
+
+3​5
+
+www.theanchor.io
+
+4
+
+I. INTRODUCTION
+Anchor is a two-token, algorithmic stablecoin pegged to the sustainable and predictable
+growth trend of the global economy. Anchor offers token users long-term price stability,
+protection against inflation, and preservation of purchasing power, while hedging against daily
+market volatility.
+Providing an alternative to fiat-pegged stablecoins, Anchor aims to remain stable regardless of
+any fiat currency’s strength, market fluctuations, or economic recessions.
+By leveraging the sustainable growth trend of the global economy, Anchor offers stable
+financial solutions to individuals, businesses, organizations, and governments.
+Our vision is to create a stable platform for any crypto or traditional currency to peg their
+value to, and to be a cornerstone for price stability as a global currency and financial standard.
+Anchor’s core mission is to be a driver of global economic stability.
+
+www.theanchor.io
+
+5
+
+II. THE PROBLEM STATEMENT AND
+MARKET ANALYSIS
+The global financial industry faces a number of serious challenges in the 21st century.
+Currently, both traditional monetary systems and cryptocurrencies have yet to conquer the
+issues of economic instability, inflation, currency manipulation, and price fluctuations.
+
+Traditional Fiat Currencies
+Fiat currencies are consistently depreciating in value due to inflation, market fluctuations,
+political biases, and other dynamic economic scenarios. According to ​recent research
+conducted by the Bank of International Settlements​, the top 10 most traded currencies by
+value are:
+1. US dollar (USD)
+2. Euro (EUR)
+3. Japanese yen (JPY)
+4. Pound sterling (GBP)
+5. Australian dollar (AUD)
+6. Canadian dollar (CAD)
+7. Swiss franc (CHF)
+8. Chinese renminbi (CNH)
+9. Swedish krona (SEK)
+10. New Zealand dollar (NZD)
+Below are statistics demonstrating how each of the top 10 most traded currencies have
+depreciated in value over the last 25 years (beginning in 1994). The following data is based on
+end-of-year annual inflation rates for the period 1994 through 2018:
+1.
+2.
+3.
+4.
+5.
+
+US dollar (USD) has lost more than 55% of its purchasing power.
+Euro (EUR) has lost approximately 44% of its purchasing power.
+Japanese yen (JPY) has lost more than 5% of its purchasing power.
+Pound sterling (GBP) has lost nearly 51% of its purchasing power.
+Australian dollar (AUD) has lost more than 63% of its purchasing power.
+
+www.theanchor.io
+
+6
+
+6. Canadian dollar (CAD) has lost approximately 45% of its purchasing power.
+7. Swiss franc (CHF) has lost approximately 14% of its purchasing power.
+8. Chinese renminbi (CNH) has lost nearly 86% of its purchasing power.
+9. Swedish krona (SEK) has lost more than 38% of its purchasing power.
+10. New Zealand dollar (NZD) has lost about 50% of its purchasing power.
+Due to fiat price fluctuations, a majority of the currencies we use on a daily basis have
+significantly decreased in purchasing power and are a mere fraction of what they were in value
+a quarter century ago.
+US DOLLAR PURCHASING POWER, 1800-PRESENT
+The value of the US dollar across time measured against the $100 USD benchmark in 1800.
+
+www.theanchor.io
+
+7
+
+Cryptocurrencies
+Cryptocurrencies are inherently speculative, volatile, and not a reliable option for use as a
+daily currency, for conservative portfolio diversification, or as a dependable store of value,
+thus discouraging usage of cryptocurrencies as a medium of exchange.
+There are many obstacles facing mainstream adoption of cryptocurrencies with the main
+culprit being high volatility and fluctuation in token value. For instance,​ b​itcoin is liable to
+show volatility with 10x more changes in price versus the U.S. dollar​ in a relatively short period
+of time.
+At the time of this writing (July 2019)​, bitcoin continues to lead in market capitalization, user
+base, and popularity surpassing the $12,500 USD mark once again after a year and a half, and
+then taking a drop below it again. The unpredictable price swings remain, and the inherent
+volatility and speculative nature of the majority of cryptocurrencies on the market have
+carved out an increasingly popular niche for stablecoins.
+Bitcoin (BTC) Price Changes from 2009 to 2019.
+
+One of the most common critiques of bitcoin​ from central bankers and economists, is that
+bitcoin is not a currency because it lacks price stability. Typically, the mandate of central
+bankers is to optimize for relatively stable purchasing power (although currency depreciation
+at roughly 2.5% per year is considered tolerable). Lacking any mechanism to manage exchange
+rates, bitcoin is considered ​a priori​ not a currency. Implicit in the conventional view of what
+constitutes a sovereign currency is some notion of management.
+
+www.theanchor.io
+
+8
+
+However, decentralized currency systems are gaining significant traction. There were
+approximately 2,129 cryptocurrencies being traded with a total market capitalization of
+$164.88bn as of April 2nd 2019​. At the time of this writing as of July 2nd 2019, there are
+2,308​ cryptocurrencies with a total market cap of ​$313,235,923,106​, nearly doubling in
+market cap in just three months.
+The market is undeniably growing, expanding, and maturing, demonstrating a promising future
+for digital currencies and decentralized blockchain applications. The ​top 10 cryptocurrencies
+(as of July 2nd 2019)​ include BTC, ETH, XRP, BCH, LTC, EOS, BNB, BSV, ADA, TRX, and
+represent roughly 85% of the total market value.
+
+Stablecoins
+As a response to the volatility of traditional cryptocurrencies, stablecoins have carved out a
+market niche with high-demand due to their promise of price stability, practical usage, and
+secure, convenient transactions.
+Stablecoins are cryptocurrencies that aim to maintain a stable value, and prevent fluctuations
+dependant on market changes. Emerging stablecoins generally fall into one of ​four categories​.
+1.
+
+Fiat-collateralized stablecoins ​are the most common type of stablecoins and are
+collateralized, or backed by fiat currency like USD, EUR, or GBP, and in theory are
+supposed to be backed at a 1:1 ratio.
+As of July 2nd 2019, USD-backed stablecoins are currently dominating the market
+exceeding ​$4.5 billion​ ​with Tether retaining its first place, despite its transparency
+concerns and even after revealing that it is only backed 74% by USD and not 1:1 as its
+original claim.
+Following Tether in the top 10 stablecoins are USD Coin, TrueUSD, Paxos Standard
+Token, Dai, Stasis Eurs, Gemini Dollar, bitCNY, Reserve Rights, and StableUSD.
+As cryptocurrency research firm Diar notes​, there has been a major surge in USD
+stablecoin trading vo​lumes, with​ ​Circle​ ​and ​Coinbase​-backed USD Coin (USDC)
+posting a 130% uptick in volume between April and May 2019, hitting $3.6 billion in
+May compared with $1.6 billion in April.
+
+www.theanchor.io
+
+9
+
+2. Commodity-collateralized stablecoins ​are backed by other kinds of exchangeable
+assets, such as precious metals. The most common commodity to be collateralized is
+gold — however, there are also stablecoins backed by oil, real estate, and baskets of
+various precious metals.
+Currently, ​Digix Gold token​ (DGX) is among the most popular gold tokenization
+projects in the cryptocurrency industry. ​Tiberius Coin (TCX)​ i​s backed by not one
+commodity, but by a combination of seven precious metals commonly used in
+technology hardware. ​PROPY has created a unified property store​ for the global real
+estate industry allowing home buyers to purchase property internationally without
+worrying about jurisdictions or title deeds.
+However, even the most popular commodity-collateralized stablecoin, Digix has a
+relatively low daily ​trading volume of $25,128 USD with a $4,830,842 USD market cap
+in comparison with the most popular fiat-backed stablecoin, Tether with a ​t​rading
+volume of ​$27,352,398,423 USD with a $3,653,582,874 USD market cap​, a
+​ s of July
+3rd 2019.
+3. Crypto-collateralized stablecoins ​are backed by other cryptocurrencies and are much
+more decentralized than the former two categories. ​Crypto-collateralized stablecoins
+allow processes to be even more trustless, secure, and transparent. There is no single
+entity controlling funds, and they enjoy ease of liquidity, but being the most complex
+form of stablecoin they ​have not gained much traction yet​.
+The most popular and promising example of a crypto-collateralized stablecoin at the
+moment is​ Dai​. Created by MakerDAO, Dai is a stablecoin that has a face-value pegged
+to USD, but is actually backed by Ethereum (ETH) that is locked up in smart contracts.
+MakerDAO limits the effects of market volatility through a 1:1 soft peg to the U.S.
+dollar, maintained with an underlying basket of crypto assets, collateralized debt
+positions, and automated stability mechanisms.
+Although in practice this concept has not worked out as planned when it comes to price
+stability. ​DAI has been below $1 for much of 2019​ and has even dropped under $0.95
+on a couple of occasions. MakerDAO users have therefore voted to increase the
+stability fee on six separate occasions this year, with the most recent vote, at the time
+of this writing, on June 27th 2019 deciding that the fee will rise from 11.5% (as
+decided​ on April 11​) to a high of ​17.5% per year​. Even with this hike, the MakerDAO
+community is ​not confident that the value of DAI won't keep fluctuating​.
+4. Non-collateralized stablecoins.​ An ​a​lgorithmically governed approach​ to expanding
+and contracting the currency supply that is modeled after central banks’ management
+
+www.theanchor.io
+
+10
+
+over their nations’ monetary supplies. Utilizing algorithms to automatically increase or
+decrease the amount of stablecoins in circulation for a low-volatility digital currency.
+Among the first models proposed was the Seigniorage Shares Model named after
+Robert Sams' ​article​ from October 2014, ​which describes stablecoins with
+flexible/elastic money supply governed by algorithms that programmatically buy and
+sell a stablecoin’s tokens in order to maintain the token price near the intended peg.
+Non-collateralized coins are scalable, the most decentralized type of stablecoin that is
+not reliant on any asset’s strength. Meaning, even when another global recession
+occurs, or the entire crypto market crashes, an algorithmic stablecoin would be able to
+survive and maintain its stability. These are next-generation stablecoins that are
+disrupting the monetary paradigm, creating the utmost scrutiny by regulatory bodies
+while also arousing considerable interest.
+Attempts from ​SagaCoin​, ​Basis​, ​Kowala​, and others were unsuccessful due to being
+shut down by US regulatory bodies before even given a chance; others have pivoted
+towards different business models such as ​Havven into Syntheti​x,​ which transitioned
+into a crypto-backed synthetic asset platform​; while others that looked promising
+during the ICO boom of 2017 have not been heard from since the bear market of
+2018.
+Currently, the most well known elastic coin is ​Ampleforth, which rebranded and was
+formerly known as Fragments​, t​ rading at $1.46 USD at a volume of $165,437 USD​, ​as
+of July 3rd 2019​. ​However, ​Amples are in fact not stablecoins​, and actually thrive off
+volatility, also known as Smart Commodity Money.
+Anchor belongs to the next-generation, non-collateralized category of stablecoins.
+
+www.theanchor.io
+
+11
+
+Conclusive Issue
+Most major fiat currencies are declining in value and losing purchasing power year after year.
+Cryptocurrencies are highly volatile with daily fluctuations that do not offer practical use as a
+daily payment currency.
+Stablecoins offer the greatest potential to drive widespread adoption for digital currencies as
+a stable and global medium of exchange.
+Currently, the top 10 stablecoins ​are fiat-backed, centralized coins representing digitized
+versions of real world assets. Tokenizing fiats, such as the USD, makes fiat-pegged stablecoins
+susceptible to the same vulnerabilities, market fluctuations, inflation, and depreciation in
+value as their traditional counterparts.
+The recent surge in the market and large trading volume of stablecoins, as well as entry into
+the stablecoin market by giants like Facebook and JP Morgan, among others, demonstrates
+that there is considerable appetite for a token that offers long-term price stability, liquidity,
+and scalability, while hedging against volatility and inflation.
+With failed attempts from previous algorithmic stablecoins aiming to be the next global
+currency, what will it take for a next-generation stablecoin to succeed and evolve the global
+monetary system?
+The core missing element is a non-flationary baseline, a stable financial standard that is based
+on real value and maintains stability over time. In order to be stable, a currency must be
+pegged to a non-volatile unit of value with a predictable growth trend, which can also act as a
+buffer against inflation and maintain purchasing power over time.
+
+www.theanchor.io
+
+12
+
+III. ANCHOR AS A SOLUTION
+Anchor is a two-token, algorithmic stablecoin pegged to the sustainable and predictable
+growth trend of the global economy. Anchor offers token users long-term price stability,
+protection against inflation, and preservation of purchasing power, all while hedging against
+market volatility.
+Stablecoins backed by fiat and real world assets are susceptible to the same market
+fluctuations, depreciation, and loss of purchasing power as their traditional counterparts to
+which they are pegged.
+The global economy, on the other hand, has a sustainable and predictable growth trend with
+global GDP steadily increasing over time. World economic growth has increased at an average
+rate of 2.5% annually for the past 25 years despite market fluctuations within each country,
+thus providing a more reliable measure of value than any single fiat. Data from the World Bank
+shows that since 1960, ​global GDP has expanded from $1.3trn to $80.7trn​, with ​2019
+projections approximating $88.08 trillion​.
+By leveraging the sustainable growth trend of the global economy, Anchor offers stable
+financial solutions to individuals, businesses, organizations, and governments.
+Fiat-pegged stablecoins are a natural progression in the evolution of stablecoins. As with any
+disruptive technology or emerging market there is a transition process starting with we are
+most familiar.
+Anchor is the next generation stablecoin leveraging the power of technology and algorithms to
+create a scalable and objective measure of value resilient to currency manipulation, recessions
+and other market fluctuations.
+Providing a much needed alternative to fiat-pegged stablecoins, Anchor’s aims to remain
+stable regardless of any fiat currency’s strength, market fluctuations, or economic recessions
+relying on three pillars of stabilizing architecture upon which Anchor’s tokenomics is built.
+
+www.theanchor.io
+
+13
+
+Anchor’s Tokenomics:
+Three Pillars of Stabilizing Architecture
+With the intent to be inherently stable, Anchor has designed a stabilizing architecture resting
+on three pillars that work together to prevent volatility and fluctuation within the Anchor
+System. The three pillars include the following:
+Pillar #1 — Monetary Measurement Unit (MMU)
+Anchor is pegged to global economic growth via a non-flationary financial index known as the
+Monetary Measurement Unit (MMU). The price of Anchor (ANCT) is determined by various
+algorithms that create this index taking into account numerous macroeconomic indicators
+from more than 190 countries to create the most accurate measure of value that exists in the
+world today.
+Pillar #2 — Two-Token Model
+Anchor’s next-generation tokenomics incorporates an elastic supply rule that adjusts the
+quantity of coin supply proportionately to changes in Anchor’s market value with a two-token,
+burn-mint model that adhere to naturally occurring Contraction and Expansion Phases.
+Pillar #3 — Decentralized Governing Body of Validators
+The Anchor System will be governed by up to 21 established institutions, enterprises, and
+organizations across multiple industries and geographies with competing priorities to
+minimize risk of collusion, with one slot reserved for parent company Anchor, AG. Anchor’s
+governance model protects its token holders by guaranteeing the integrity of Anchor’s price
+and its stability in maintaining equilibrium with the MMU, as well as ensuring the value of the
+MMU accurately reflects the growth trend of the global economy.
+
+www.theanchor.io
+
+14
+
+Pillar #1: Monetary Measurement Unit (MMU)
+Pegging Anchor to Global Economic Growth
+The MMU is a financial index created by an algorithm that takes into account the GDP of more
+than 190 countries from the last 25 years, further stabilized with forex indicators from a
+basket of currencies and premium sovereign bond yields from 10 of the world's strongest
+economies.
+By developin​g an algorithmically calculated fin​ancial ​index​ based on global GDP, Anchor has
+created what is intended to be the first reliable financial standard and measure of value since
+the International Monetary Fund’s (IMF) ​Special Drawing Rights​ (SDR), circa 1969. The SDR is
+exclusive only to ​IMF​ member countries and based on a basket of five currencies, whereas the
+MMU is decentralized, inclusive, and based on a dynamic currency basket of 10 of the
+strongest economies, based on their GDP and participation in the global economy each year.
+Anchor’s MMU basket is dynamic in that each year it will contain currencies from 10 of the
+strongest national economies based on annual GDP and participation in the global economy.
+At the beginning of each fiscal year, the system will re-evaluate and update the basket to
+ensure that the 10 strongest and most reliable national currencies are consistently
+represented to bring stability and real value to the system. The basket is designed to ensure
+the strongest currencies are consistently represented. The evaluation is completely objective
+and based on each country’s performance and participation each year, not related to a political
+agenda or affiliation.
+Factoring in daily fluctuating macroeconomic data from more than 190 countries, the MMU’s
+calculations also include the FX Indicator and the MMU Premium.
+The ​FX Indicator​ indexes currencies from 10 of the world’s strongest economies based on
+their participation in the world economy (> 1%). The FX indicator uses international market
+exchange rates for the most relevant currencies in the global economy and enables the daily
+nominal expression of the MMU.
+The ​MMU Premium​ calculates the amount of growth that can be expected based on sovereign
+bond yields of AAA-rated countries, as well as the average inflation rates. This Premium has
+been approximately 0.4% annually for the last 25 years.
+The MMU is calculated via the application of a proprietary algorithm conceived by Anchor
+Founder and CEO Daniel Popa and further developed by Anchor’s team of PhD economists,
+
+www.theanchor.io
+
+15
+
+including macroeconomics researcher and Professor Dr. Zoran Grubisić, and quantitative
+finance expert Aleksandar Manić.
+Price stability​ is not only about stabilizing the unit-of-account, but also stabilizing the
+currency’s store-of-value. The MMU’s algorithm is constantly growing in sophistication,
+accumulating more data and macroeconomic indicators over time to reflect the real growth of
+the global economy with even more accuracy. As a result, Anchor will be aligned with an ever
+more precise index with the goal of creating the most stable and predictable value peg in the
+world.
+
+Pillar #2: Two-Token Model
+Anchor’s Tokenomics is Governed by an Elastic Supply and Demand Principle
+Anchor consists of a two-token model composed of Anchor Tokens (ANCT), that serve as the
+main currency/payment tokens; and Dock Tokens (DOCT), the utility tokens that stabilize the
+currency ensuring ANCT remains pegged to the MMU regardless of external fluctuations.
+DOCT cannot be used as a means of payment or transferred from one token holder to another.
+Anchor’s flexible currency supply is regulated by its Contraction and Expansion stabilizing
+mechanisms through which Anchor’s system programmatically contracts or expands ANCT
+and DOCT. The system also mints / burns ANCT tokens in response to ANCT’s price
+deviations relative to the MMU. DOCT is used as a utility token to incentivize participants to
+facilitate Expansion and Contractions Phases by exchanging one token for the other.
+A ​Contraction Phase​ is triggered when ANCT’s price falls below the Contraction Threshold
+(currently -1% below the value of the MMU) due to a decrease in demand. When this occurs,
+an open auction with a reward system will be initiated to incentivize token holders to trade
+their ANCT for DOCT for favorable exchange rates in order to stabilize the currency and
+maintain equilibrium between ANCT’s price and the value of the MMU.
+ANCT holders choosing to participate in ​Contraction Phase Auctions (CPAs) ​will benefit from
+DOCT incentives in the form of preferential exchange rates with bonuses for exchanged
+volume and speed of reaction.
+
+www.theanchor.io
+
+16
+
+An​ Expansion Phase​ is triggered when the exchange rate for ANCT rises above the Expansion
+Threshold in relation to the MMU due to an increase in demand causing a decrease in supply.
+At this time, the system will incentivize DOCT owners to convert their tokens into ANCT at a
+1:1 ratio, so then users can trade and sell on exchanges and transfer ANCT between Anchor
+Wallets. If equilibrium is still not met, ANCT will be airdropped to holders until its price comes
+back down and returns to the value of the MMU.
+The sole function of DOCT is to grant the holder access to participate in the Anchor System,
+and to be converted into ANCT during Expansion Phases. DOCT can only be exchanged during
+Contraction and Expansion phases on the Anchor platform for ANCT, not traded on
+exchanges.
+
+Breakdown of Contraction Phase
+If the reported exchange rate for ANCT (​ATRP​current​) is below the current value of the MMU by
+
+a margin greater than or equal to the Contraction Phase Threshold (​∆ATcontraction
+​
+),
+​ with a value
+
+that has been agreed upon by the system validators (i.e. ​∆AT​contraction ​≤ ​MMU - ​ATRPcurrent
+​
+),
+​ the
+system will initiate an open auction for purchasing ANCT from holders in exchange for new
+DOCT at preferential rates for holders, which will be redeemable for ANCT at a 1:1 ratio if and
+when certain conditions are met in the future.
+The number of ANCT that will be burned to reduce the market cap (​∆Acirc
+​ )​ will be calculated
+according to the following formula:
+
+∆Acirc
+​ ​ = ((​MMU​ - ​ATRP​current)​ * ​A​circ)/​
+​ MMU​, where
+∆AT​contraction ​≤ ​MMU​ - ​ATRPcurrent
+​
+Acirc
+​ ​ — circulating supply of Anchor Tokens that has to be reduced by ​∆Acirc
+​ ​ to keep the peg
+∆AT​contraction — Contraction Phase Threshold, typically expressed as an agreed upon
+percentage of the official value of the MMU (e.g. 0.01 * MMU, or 1% of the MMU value)
+
+During the Contraction Phase Auction (CPA) all ANCT owners will have an opportunity to sell
+any number of the coins they own worth more than or equal to $1,000 at the time of sale that
+is less than or equal to the number of coins that still have to be reclaimed from the users and
+
+www.theanchor.io
+
+17
+
+burned to keep the peg. In return, they will get more DOCT (​N​DOCTi​ )​ than the amount of ANCT
+they are selling (​N​ANCT​i),
+​ according to the following formula:
+NDOCT
+​
+​
+​ ​i​), where
+​i​ = ​NANCT
+i​ ​/(​k​V​i​ * ​kR
+
+k​Vi​ ​ is the Volume Discount approved to the i-th responder
+
+k​R​i​ is the Quickness of Response Discount approved to the i-th responder
+Token holders can agree to sell any amount of ANCT that still need to be burned at their turn
+(based on the sale terms and conditions), and obtain more DOCT in return due to a discount
+belonging to the corresponding range (as outlined in the table below).
+
+Terms and Conditions During the Contraction Phase Auction
+Volume Discount: Terms and Conditions During the CPA
+ANCT to burn [USD worth at the time of sale]
+
+Volume Discount, ​kV​ ​ = ​NANCT
+​
+/​​ NDOCT
+​
+​ [%]
+
+$1,000 - $99,999
+
+0.99 or 1%
+
+$100,000 - $249,999
+
+0.98 or 2%
+
+$250,000 - $499,999
+
+0.97 or 3%
+
+$500,000 - $999,999
+
+0.96 or 4%
+
+$1,000,000 - $1,999,999
+
+0.95 or 5%
+
+$2,000,000 - $4,999,999
+
+0.94 or 6%
+
+$5,000,000 or more
+
+0.93 or 7%
+
+This discount is greater if the buyer is among the first five responders to the sale:
+
+Discounts for Buyer Response Sequence During CPA
+
+Order of Response to CPA (i-th responder)
+
+Quickness of Response Discount, ​kR​ ​ [%]
+
+www.theanchor.io
+
+18
+
+1st Responder
+
+0.9 or 10%
+
+2nd Responder
+
+0.92 or 8%
+
+3rd Responder
+
+0.95 or 5%
+
+4th Responder
+
+0.98 or 2%
+
+5th Responder
+
+0.99 or 1%
+
+Other Responders
+
+1.00 or 0%
+
+DOCT purchased during the auction will be placed in the Contraction Phase Queue (CPQ).
+They will be converted to ANCT either after their respective waiting periods, shown in the list
+below, or earlier, provided that a sufficient number of ANCT is generated during the
+Expansion Phases that occur after the auction:
+
+● The first $1,000 to $99,999 of each buyer's purchased worth of Dock Tokens will be
+●
+●
+●
+●
+●
+●
+
+converted to ANCT after 2 (two) months.
+The next $1 to $150,000 (if applicable) of each buyer's purchased worth of DOCT will
+be converted to Anchor Tokens after 4 (four) months.
+The next $1 to $250,000 (if applicable) of each buyer's purchased worth of DOCT will
+be converted to ANCT after 6 (six) months.
+The next $1 to $500,000 (if applicable) of each buyer's purchased worth of DOCT will
+be converted to Anchor Tokens after 10 (ten) months.
+The next $1 to $1,000,000 (if applicable) of each buyer's purchased worth of DOCT
+will be converted to ANCT after 15 (fifteen) months.
+The next $1 to $3,000,000 (if applicable) of each buyer's purchased worth of DOCT
+will be converted to Anchor Tokens after 20 (twenty) months.
+The remaining amount (if applicable) of each buyer's purchased worth of DOCT will be
+converted to ANCT after 25 (twenty-five) months.
+
+The Contraction Phase Queue
+All the issued DOCT are tallied and ordered based on their release dates. This ordered
+sequence of DOCT belonging to their respective holders is referred to as the Contraction
+Phase Queue (CPQ). DOCT with shorter waiting periods will be exchanged for Anchor Tokens
+earlier than those with longer waiting periods.
+
+www.theanchor.io
+
+19
+
+Consequently, the initial ordered sequence in the Contraction Phase Queue (​QCP0
+​ )​ is formed
+as an array:
+
+Q​CP0​ = ​Q​CP​(​t​0)​ = (​t​EXPd1,​ ​tEXPd2
+​
+​
+​, …, ​t​EXPk​, …, ​tEXPDcpq0
+​)
+where
+t​0​ represents the time of the creation of the CPQ after the first response to the first Dock
+Tokens auction,
+
+t​EXPdk​ represents the k-th (k = 1, 2, …, ​D​CPQ0​) Dock’s release date, where
+t​EXPd1​ ≤ ​t​EXPd2​ ≤ … ​tEXPdk
+​
+​ ≤ … ≤ ​t​EXPDcpq0
+The order of DOCT in the Contraction Phase Queue is redone after each new auction, as all
+the newly issued DOCTare added to the CPQ.
+
+Breakdown of Expansion Phase
+When the reported exchange rate for ANCT (​ATRPcurrent
+​
+)​ is above the current value of 1 MMU
+
+by a margin greater or equal than the Expansion Phase Threshold (​∆AT​expansion​), with a value
+that has been agreed upon by the system validators (i.e. ​∆AT​expansion ​≤ ​ATRP​current - ​MMU)​ , new
+ANCT (​AEP
+​ )​ will be issued:
+
+AEP
+​ ​ = ​∆Acirc
+​ ​ = ((​ATRP​current​ - ​MMU)​ * ​A​circ)/​
+​ MMU,​ where
+∆AT​expansion ​≤ ​ATRP​current​ - ​MMU
+Acirc
+​ ​ — circulating supply of ANCT that has to be increased by ​∆A​circ​ to keep the peg
+∆AT​expansion — Expansion Phase threshold, typically expressed as an agreed upon percentage of
+the official value of the MMU (e.g. 0.01 * MMU, or 1% of the MMU value)
+
+After the creation of AEP amount of new ANCT, they are used to redeem the first DEP = AEP
+amount of DOCT from the CPQ. The required number of new ANCTis then minted and
+distributed to DOCT owners by converting DOCT into ANCT 1:1 according to their order in
+the CPQ. After conversion, all the redeemed DOCT are burned.
+If there are no more outstanding DOCT, any remaining new ANCT are distributed by
+airdropping them to users or system-reserved allocations by means of random selection with
+
+www.theanchor.io
+
+20
+
+pre-specified statistical probabilities. Fifty percent of the airdropped ANCT will be distributed
+among the system-reserved allocations (see Table 1 below), whereas the remaining 50% of the
+airdropped ANCT will be distributed among the non-system allocations (see Table 1 below)
+belonging to various ANCT holders.
+Table 1 - Expansion Phase Airdrop Allocations
+SYSTEM-RESERVED ALLOCATIONS [50%]
+
+NON-SYSTEM ALLOCATIONS [50%]
+
+VALIDATORS
+
+INDIVIDUAL ANCT HOLDERS
+
+TREASURY
+
+COUNTRIES
+
+OPERATIONS & MANAGEMENT
+
+PARTNERS
+
+SALES & MARKETING
+
+CONSULTANTS
+
+RESEARCH & DEVELOPMENT
+
+ADVISORS
+
+GENERAL & ADMINISTRATIVE
+LEGAL & REGULATORY
+ANCHOR AG
+CONTINGENCY
+
+All current holders of ANCT (i.e. those holding ANCT at the beginning of the initiated
+Expansion Phase), non-system allocations and system-reserved allocations participate in the
+process, and the probabilities are determined by the following criteria:
+●
+●
+
+Users who purchased more DOCT overall have better chances of getting new ANCT
+airdropped to their account;
+Users with more ANCT at the beginning of the Expansion Phase have better chances of
+getting new ANCT airdropped to their account.
+
+Each system-reserved allocation’s probability ​PSRi
+​ of being picked as the recipient of an
+airdropped ANCT is calculated according to the following formula:
+PSRi
+​ ​ = (​D​SRi​ ​+​ ​ASRi
+​ ​)/( ​DSRi
+​ ​ ​+​ ​A​SRi​)
+D​SRi​ - number of all historically-owned DOCT by the ​i-​ th system-reserved allocation;
+
+www.theanchor.io
+
+21
+
+A​SRi - number of ANCT belonging to the ​i-​ th system-reserved allocation at the beginning of the
+Expansion Phase in progress;
+​D​SRi​ - number of all historically-owned DOCT by all system-reserved allocations;
+​ ​SRi - number of all ANCT belonging to all system-reserved allocations at the beginning of the
+A
+Expansion Phase in progress.
+
+Each token user’s/non-system allocation’s probability ​P​UNSj of being picked as the recipient of
+an airdropped ANCT is calculated according to the following formula:
+PUNSj
+​ ​ = (​D​UNSj​ ​+​ ​AUNSj
+​ ​)/(​ D​all​ - ​D​SRi ​+​ ​ A​circ​ - ​ ​ASRi
+​ ​)
+D​UNSj​ - number of all historically-owned DOCT by the ​j​-th user or a non-system allocation;
+A​UNSj - number of ANCT belonging to the ​j​-th user or a non-system allocation at the beginning of the
+Expansion Phase in progress;
+D​all​ - number of all historically-issued DOCT;
+​D​SRi​ - number of all historically-owned DOCTby all system-reserved allocations;
+A​circ​ - total circulating supply of ANCT at the beginning of the Expansion Phase in progress;
+​A​SRi - number of all ANCT belonging to all system-reserved allocations at the beginning of the
+Expansion Phase in progress.
+*Neither ANCT nor DOCT represent a debt, derivative or equity claim against Anchor AG, or any legal entity. ANCT
+are the main currency and means of payment for the purchase of goods and services and do not represent equity in
+Anchor AG or endow the holder with voting rights, dividend rights, or any other rights against the token issuer.
+
+Pillar #3: Decentralized Governing Body of
+Validators
+Validating the Integrity of the MMU’s Value and Anchor’s Price Stability
+Validators
+In Q1 2020, Anchor will commence a phased roll out of its governing body of up to 21
+validators over the next 24 months. These Validators will be responsible for the decentralized
+consensus of the value of the MMU, token price, token volume, and other processes.
+
+www.theanchor.io
+
+22
+
+Validators will have access to economic input from more than 190 countries starting from
+1994. Anchor’s data takes into account the last 25 years to project the global economic growth
+trend factoring in dynamic economic scenarios to offer Token holders stability and
+predictability. We can observe and compare data from each country over the last quarter
+century, and will continue to accumulate data year after year, strengthening Anchor’s platform
+and the MMU algorithm.
+Validators will monitor official macroeconomic data feeds and offer regular price updates to
+the blockchain. The Anchor system’s oracle will collate price data from Validators and update
+the system. Validators offer suggestions to update the MMU based on official data from more
+than 190 countries and further stabilized with FX indicators of a basket of currencies, as well
+as premium sovereign bond yields from 10 of the world’s strongest economies.
+All Validators will have access to view updates their counterparts have suggested, and upvote
+or downvote the recommendation. When the majority of votes are fulfilled, the Anchor system
+takes action accordingly. Validators go through each suggestion and based on the data upvote
+or downvote. If the vote signals a majority win, the system actions the update maintaining
+stability and transparency in the Anchor ecosystem.
+Validators can upvote or downvote system’s suggestions regarding issuing new tokens when
+the demand is high to ensure Anchor’s price does not rise above the value of the global GDP by
+converting Dock Tokens to Anchor Tokens, and Anchor airdrops. This is the Expansion Phase
+and is part of Anchor’s Three Pillars of Stabilizing Architecture.
+
+Representatives From Up to 195 Countries
+As part of our longer term strategy, over the next 24 months following our August launch, our
+decentralized governance model will also include partnerships with representatives from up
+to 195 countries that will act as Anchor’s Advisory Body. These representatives will facilitate
+the development of Anchor as a global currency recognized by each country. They will also be
+responsible for presenting quarterly, semi-annually, and annual reports to ensure all data is
+current and increasingly granular in detail to advance the MMU’s algorithm in precision and
+accuracy.
+
+www.theanchor.io
+
+23
+
+IV. APPLICATIONS AND BENEFITS
+●
+
+Affordable and efficient global remittances.​ Anchor has the potential to change
+millions of families’ lives in developing countries. Currently, migrant workers have little
+options other than to send remittances through costly and slow centralized
+institutions, such as Western Union. Anchor offers a solution to this problem, with fast
+transactions and low fees, without the anxiety that a cryptocurrency like Bitcoin could
+drop in value by 20% in just one day.
+
+●
+
+Inefficient and costly international payments for businesses and organizations. ​With
+Anchor companies will be able to settle their international obligations quickly and
+easily in a wealth transfer context that features dramatically mitigated FOREX and/or
+inflationary risk. When it comes to Spot transactions, utilization of Anchor will enable
+counterparties to swiftly move from their national unit of account through any of
+approximately 20 intermediate currencies, and from there in to Anchor with
+advantages of liquidity and transitivity of the underlying value maximizing flexibility.
+When it comes to Term transactions, utilization of Anchor provides a dual-benefit.
+Term counterparties are provided with a much greater range of choice in transferring
+the value of the settlement into a currency of their choice. Anchor will also provide
+greater safety for counterparties in the sense that it has built-in Capital Protection
+capabilities should there be a sudden divergence in the exchange rate(s) or interest
+rate(s) between the native jurisdiction(s) of the counterparties in question. Another
+advantage of denominating Term transactions with Anchor is capital appreciation in
+line with global GDP growth, should the counterparties choose to stay in Anchor over
+extended periods of time.
+
+●
+
+A day-to-day currency.​ Anchor can be utilized like any other currency for mainstream
+commerce with the added benefits of price-stability and preservation of purchasing
+power.
+
+●
+
+Protection from local currency crashes.​ In the event of a fiat currency crashing in
+value, local citizens could exchange their crashing currency for ANCTs quickly before
+they lose even more of their savings, thus protecting them from further drops in value.
+Take, for example, the hyperinflation that is currently occurring in Venezuela. On
+average, prices of goods have been doubling every few weeks.​ ​The IMF predicts​ ​that
+the inflation rate will increase by 10, 000, 000% by the end of 2019. Most Venezuelans
+can no longer afford food because their savings have become increasingly worthless
+and continue to drop in value by the day.
+
+www.theanchor.io
+
+24
+
+●
+
+Pensioners who are negatively impacted by inflation. ​Anchor aims to provide retirees
+with an easily convertible store of value that not only maintains value, but is also
+designed to appreciate in value over time in concert with global GDP growth. With
+access to enter and exit a wide range of value expression vehicles, including fiat and
+crypto-currencies will provide retirees with the maximum flexibility to meet daily
+payment needs, and long-term savings objectives globally while preserving purchasing
+power.
+
+●
+
+College savings plans vulnerable to erosion of value due to inflation. ​Anchor resolves
+erosion by inflation over which savers have no control. Anchor is designed to deliver
+capital appreciation through its peg to the MMU, which is indexed to global economic
+growth. A savings plan that is denominated in Anchor could be easily converted into
+and out of a wide range of fiat currencies to pay for education in a less expensive G20
+country, which would have the net effect of enhancing the purchasing power of
+Anchor.
+
+●
+
+Employer salary distribution.​ ​We believe that whatever you have earned in your life
+should not lose value. ​An employer can set up a smart contract that automatically
+transfers Anchors to their employees each month, for example. This is especially
+beneficial for businesses that have employees all over the world, as it reduces the
+exorbitant fees and days long process of transferring and exchanging fiat currency
+from, say, a bank account in New York to a Chinese bank account. Using Anchors, this
+process could take mere minutes and require just a small fraction of the usual
+transaction fees.
+
+●
+
+Monthly mortgage, rent, or lease installations.​ A smart contract could be set up
+between a bank/landlord and tenant to automatically transfer payment for
+mortgage/rent on the first of each month, without worrying about high fluctuations in
+price like you would with non-stable cryptocurrencies​.
+
+● Automatic monthly expenses.​ Similarly, automatic payments of loans (ie. with
+decentralized lending), monthly subscriptions such as gym memberships, or even
+recurring donations to nonprofit organizations.
+
+www.theanchor.io
+
+25
+
+V. PROJECT MILESTONES
+Milestones Accomplished to Date
+(as of October 2019)
+●
+
+●
+
+●
+●
+
+●
+
+●
+
+●
+●
+●
+●
+●
+
+July 2014, Anchor stablecoin and the MMU were conceived by serial
+telecommunications and software entrepreneur, CEO Daniel Popa, with the writings of
+the original whitepaper and business plan
+March 2018, Popa partnered with Co-founder and COO, Cristian Bronescu, investing
+more than $1 million USD into developing the project, and hired a team of PhD
+economists and blockchain developers to work on the algorithm and technology. This
+project is fully boot-strapped with no outside investments taken
+September 2018, the official ​whitepaper​ was published and has since had several
+updated editions
+January 2019, Anchor commenced its global roadshow engaging with the crypto
+community and generating brand awareness with events hosted on the sidelines of
+major conferences in Miami, Istanbul, Hong Kong, Singapore, Los Angeles, London,
+New York, and Zug
+April 2019, the project launched​ its testnet​ allowing users to trial its interface and
+trade pseudo Anchor tokens. Anchor also partnered with Ambisafe as its security
+provider, and to further develop its blockchain infrastructure, as well as build the
+Anchor Wallet
+May 2019, Anchor launched its ​MMU Simulator​, enabling users to select a start-date
+and an end-date to graph the MMU's value over the course of the selected time period
+and observe the trendline in daily and weekly increments, comparing the MMU value
+to other fiat currencies
+June 2019, Anchor launched its bounty campaign and partnered with KYC Spider to
+ensure all bounty airdrops and future token-users are compliant
+June 2019, Anchor hosted a meetup with community members and a panel discussion
+on Driving Mainstream Adoption mediated by Michael Nye for his Evolvement Podcast
+July 2019, initiated external audit of Anchor system, re-branded, and redesigned its
+website.
+August 2019, Anchor launched a beta test of the Anchor Wallet
+August 2019, Anchor had its token generation event (TGE) and its first token listing on
+the Liquid exchange
+
+www.theanchor.io
+
+26
+
+●
+
+●
+
+September 2019, Anchor celebrated its official launch in Singapore alongside the
+Invest: Asia conference, and co-hosted a panel discussion on Crypto Beyond Trading
+co-hosted with Michael Nye for his Evolvement Podcast
+October 2019, developing financial model and obtaining evaluation appraisal in
+preparation for traditional Series A fundraising round seeking up to 10% equity for $12
+million
+
+Forward-looking Developments and Objectives for
+the Next 24 Months
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+November 2019, planning to list on second global exchange, IDEX
+Q4 2019, commence building out partnerships with major global vendors and develop
+use cases for Anchor as a payment token
+Q4 2019, commence Series A fundraising round
+Q1 2020, continue integrating and being listed on additional global exchanges with the
+goal of one new exchange each quarter
+Q1 2020, commence phased onboarding of Validators and implement governance
+models
+Q2 2020, commence phased roll-out of pairing with up to 19 fiat currencies, as well as
+other stablecoins, such as Tether, to increase ease of liquidity
+Q3 2020, develop and implement a safe investment strategy and fund, separate from
+Anchor, that will purchase a range of stable and secure capital assets
+Q4 2020, purchase sovereign debt and develop agreements with select nations with
+the aim of Anchor being accepted and recognized as an official foreign currency
+Q1 2021, surpass Tether in market cap and trading volume
+Q4 2021, commence phased onboarding of Representatives from up to 195 countries
+and further expand and decentralized governance model
+
+VI. ANCHOR TOKEN ALLOCATION
+
+www.theanchor.io
+
+27
+
+With our planned launch on exchanges in August 2019, the below table represents Anchor’s
+initial token allocation and the amount of tokens we will reserve for upcoming project
+developments over the next 24 months.
+ENTITY
+
+AMOUNT ALLOCATED
+[DOCT]
+
+PERCENTAGE [%]
+
+202,531,646 DOCT
+
+26.67%
+
+21 Validators
+
+79,746,835 DOCT
+
+10.50%
+
+195 Countries
+
+246,835,443 DOCT
+
+32.50%
+
+Treasury
+
+26,582,278 DOCT
+
+3.50%
+
+Anchor AG
+
+37,974,684 DOCT
+
+5.00%
+
+Operations & Management
+
+37,974,684 DOCT
+
+5.00%
+
+Sales & Marketing
+
+37,974,684 DOCT
+
+5.00%
+
+Research & Development
+
+7,594,937 DOCT
+
+1.00%
+
+General & Administrative
+
+7,594,937 DOCT
+
+1.00%
+
+Legal & Regulatory
+
+6,303,797 DOCT
+
+0.83%
+
+Contingency
+
+37,974,684 DOCT
+
+5.00%
+
+Partnerships
+
+11,392,405 DOCT
+
+1.50%
+
+Consultants
+
+11,392,405 DOCT
+
+1.50%
+
+Advisors
+
+7,594,937 DOCT
+
+1.00%
+
+For Sales & Trading
+
+www.theanchor.io
+
+28
+
+VII. TEAM
+Leadership Team
+Founder and CEO, Daniel Popa
+Daniel Popa is a serial entrepreneur with over 20 years of experience successfully launching numerous
+telecommunications and software companies, including NECC Telecom, Pulse Telecom, ECS Soft, CCI,
+TimeWalk, and others. Companies founded by Daniel have generated over $1 billion in revenue over
+the past 20 years and currently operate in 5 different countries - USA, Canada, Australia, Romania, and
+Ukraine. NECC Telecom employed more than 600 people and several thousand contractors around the
+world and earned revenues in excess of $54 million annually. Daniel and his team of PhD-level
+academics have been developing the algorithm behind the MMU since 2017.
+
+Co-founder and Chief Operations Officer, Cristian Bronescu
+Cristian is a full stack developer with over a decade of programmer experience and technical
+competencies in a wide range of programming languages. He is also a successful entrepreneur,
+co-founding 3 companies in the past 5 years, including a virtual reality company called vrplay and a
+software auditing company called BugsAudit. Cristian also brings strong project management skills
+acquired from his role at American telecommunications firm SRVR.
+
+Chief Product Officer, Tijana Damjanovic Gertner
+Tijana brings her expertise in company operations and background in content creation to lead Anchor’s
+product development, design, and marketing as CPO. Given Tijana’s organizational skill set, she is also
+responsible for project management and coordinating efforts between Anchor’s various
+sub-departments to ensure Anchor’s vision is expressed cohesively. Tijana has worn many hats at
+Anchor as its previous Chief Marketing Officer and bridges marketing and product development needs
+leading the project’s ongoing innovation.
+
+Chief Marketing Officer, Miloš Milosavljević
+Miloš Milosavljević is a seasoned communications professional, focused on producing and delivering
+end-to-end digital marketing strategies for a wide range of industries. On the Anchor project, he is the
+lead marketing strategist.
+
+Chief Communications Officer, Olya Moskalenko
+Olya brings over a decade of experience in communications and business development spanning the
+globe working with multinational corporations, iconic brands, and innovative startups. As CCO of
+Anchor, Olya develops strategy and oversees the implementation of all media activities, public relations,
+communications, strategic partnerships, events, and business development. Prior to Anchor, Olya was
+the Director of Strategic Partnerships at Wachsman leading global business development and public
+relations. Before joining Wachsman, Olya worked across a diverse portfolio of industries and clients at
+
+www.theanchor.io
+
+29
+
+Rubenstein PR, Edelman, Porter Novelli, as well as led the PR and Events at Virgin Megastore in Dubai,
+the largest entertainment and multimedia brand in the Middle East region.
+
+Monetary Measurement Unit (MMU) Team
+Lead MMU Developer and Macroeconomist, Zoran Grubišić, PhD
+Zoran is a university professor and internationally recognized expert in open macroeconomics,
+international finance and financial valuation, with many scientific research papers presented at
+prestigious conferences. He has considerable experience with the workings of financial markets,
+including valuations of all kinds of financial assets. Zoran’s attention is particularly focused on the
+methodology of finding the intrinsic value of an asset and the adequate efficiency of a market. Zoran’s
+drive to attain market stability is reflected in his practice of discovering the necessary instruments for
+minimizing variability, a basic tenet of market uncertainty.
+
+Quantitative Finance Expert, Aleksandar Manić
+Aleksandar has a background in quantitative finance and his experience with project valuation has to a
+great extent prepared him for the wonders of Cryptoland. Aleksandar is highly enthusiastic and
+passionate about the Anchor mission and vision, and has undertaken a research quest to discover the
+proper balance between micro- and macroeconomics, anticipating the market's majestic demands, and
+applying his findings to the success of the Anchor System.
+
+Blockchain, Software, and IT Team
+Token Economy Creator, Ivan Marković, PhD
+Ivan is Anchor’s tokenomics creator providing consultation throughout the project. Ivan created ANCT
+as a unit of value that interacts with the underlying business model (and DOCT as the system's utility
+token), while being a part of the system's crypto-economics that has been designed to facilitate the
+distribution and sharing of benefits to the system users.
+
+VP of Engineering, Artem Labunko
+As Chief Technology Officer and VP of Engineering Artem has been involved in the development of
+coherent platforms backed up with up-to-date technology stack to deliver products for a variety of
+channels. His main field of expertise is business intuitive and cost-efficiency oriented solution delivery.
+His core competencies are Ethereum based Blockchain and custom solutions for it, full SDLC
+management and Technical Architecture.
+
+Ethereum Architect, Oleksii Matiiasevych
+Oleksii is known in the blockchain industry for saving millions of dollars during the Parity Wallet hack
+and for identifying vulnerabilities in 12+ top-rated cryptocurrency exchanges. He has worked with
+several blockchain projects including Tether, Bitso, Propy and TaaS. Having developed hundreds of
+smart-contracts and Ethereum applications, Oleksii is currently the lead Solidity architect at Ambisafe.
+
+www.theanchor.io
+
+30
+
+Project Manager, Anna Medkova
+With a degree in psychology, Anna is passionate about people management and client communication.
+She has successfully planned, coordinated and delivered projects for more than 4 years in both product
+and outsource companies and is currently managing blockchain projects.
+
+Solutions Architect and Full-stack Developer, Michael Khimich
+Michael has a specialist’s degree in Political Science. He is a full-stack engineer with 4 years of
+experience writing front- and back-end applications with Python, JavaScript, Black Magic and other
+technologies.
+
+Frontend Engineer, Yurii Kabai
+Yurii has a master’s degree in Computer Science. He is a full-stack engineer with 6 years of experience
+writing front- and back-end applications with React, Angular, Node and other technologies. Yurii has
+solid background in projects on wealth management, economic models, blockchain and digital
+advertising.
+
+Frontend Engineer, Olia Nistratova
+Olia has more than three years of commercial experience, providing front-end development, producing
+high-quality responsive websites, exceptional user experience and building single page applications with
+React. Olia has solid background in projects on education management, e-commerce and blockchain.
+
+Python Developer, Anton Simernya
+Anton has nine years of experience in Software Development and 4 years in building, deploying and
+maintaining blockchain-based applications. He is proficient in backend development architecture and
+cloud infrastructure solutions.
+
+Business Development and Sales Team
+Vice President of Government Relations, Andrew Sarega
+Andrew Sarega is currently an acting Councilman for the city of La Mirada in California and has over six
+years of experience serving on the boards of various municipal and state-level governmental
+organizations. Prior to becoming an elected official in the United States, Andrew ran for United States
+Congress during the 2018 midterm elections.
+
+Sales Manager, Brana Rakic
+Brana enjoys connecting with people and finding solutions for their pain points. She has helped several
+successful startups to grow rapidly and gain a devoted and satisfied audience. She has joined the crypto
+space to help Anchor do the same.
+
+Sales Manager, Cosmin Gheara
+
+www.theanchor.io
+
+31
+
+Self-starter with an entrepreneurial mindset, able to build relationships quickly, with solid background
+of sales, business management and channel development, experienced in leading technical and sales
+teams.
+
+Irinel Marcu, Market Research Analyst
+Experienced leader with a demonstrated history of working and interacting with people. Skilled in
+Research, Customer Service, Management, and Strategic planning. Strong business development
+professional with a Bachelor and Masters of Science in Criminal Justice Administration from University
+of Phoenix.
+
+Marketing Team
+Content and Community Developer Lana Dobric
+Lana is a digital marketing enthusiast, focused on content creation, social media marketing, and
+community management. She loves bringing ideas into reality, especially those that make a difference.
+
+Content and Community Developer Dragan Sakotic
+Dragan is a passionate content developer who fell in love with blockchain technology and became a
+crypto enthusiast, with a great interest in trading.
+
+Legal Team
+Partner at Greenspoon Marder LLP, Katya Fisher, Esq.
+Katya Fisher is a Partner and Practice Group Leader of the Blockchain, Digital Assets, and Technology
+Transactions practice group at Greenspoon Marder LLP. Ms. Fisher represents clients in a broad range
+of corporate matters and technology transactions and advises clients with respect to legal matters in
+the blockchain and digital assets industries.
+
+Of Counsel at Greenspoon Marder LLP, Rose Schindler, Esq.
+Ms. Schindler focuses on securities compliance and regulatory defense. She has experience with state of
+Florida, FINRA, CFTC and CFP investigations, and a heavy regulatory background, including eight years
+with SEC and 14 years with Finra. Ms. Schindler spent three years in house with a broker/dealer. She is
+experienced with regulations for investment advisers and broker/dealers.
+
+Partner Network
+●
+●
+●
+●
+
+Ambisafe, Global Capital Markets and Blockchain Infrastructure Provider
+KYC Spider AG, Digital Identity Verification
+Liquid, global cryptocurrency exchange based in Japan
+IDEX, world’s leading decentralized cryptocurrency exchange
+
+www.theanchor.io
+
+32
+
+●
+●
+
+Melrose PR, Blockchain and Cryptocurrency Public Relations
+CW8, Strategic Communications and Finance Advisors
+
+www.theanchor.io
+
+33
+
+VIII. CONCLUSION
+In Summary
+Whether you are an individual, business, organization, or government, Anchor offers token
+users long-term price stability, preservation of purchasing power, and protection against
+inflation by leveraging the sustainable growth trend of the global economy.
+●
+●
+●
+
+●
+●
+
+●
+
+Anchor's tokenomics ensures that the Anchor Token (ANCT) is pegged to the stable
+and predictable growth trend of the global economy via the MMU.
+A reflection of global economic growth, the MMU is expected to appreciate over time,
+as opposed to fiat currencies, which are prone to inflation.
+In the event of a global recession, or other highly volatile economic scenario, Anchor’s
+tokenomics infrastructure and stabilizing mechanisms are designed to remain stable,
+consistent, and predictable.
+Anchor’s two-token model and its stabilizing mechanisms, including the six pillar safety
+net, ensure the value of ANCT remains pegged to the MMU.
+During both Expansion and Contraction Phases, whether demand goes up or down,
+token holders will be highly incentivized to participate and contribute to the Anchor
+ecosystem’s overall growth and development.
+Anchor is scalable allowing for a steady expansion of token supply with the growth of
+the Anchor economy through trading and partnerships, without destabilizing the
+ecosystem, the peg, or the value of the token.
+
+How To Get Involved
+Follow Anchor and join our community to keep up to date with our latest news.
+
+www.theanchor.io
+
+34
+
+Risk Factors and Disclaimers
+PLEASE READ THE FOLLOWING RISK FACTORS AND DISCLAIMERS CAREFULLY BEFORE PARTICIPATING IN THE
+ANCHOR ECONOMY.
+This Whitepaper is issued by Anchor AG, a Swiss corporation located at Bahnhofstrasse 21, 6300 Zug, Switzerland (the
+“Company”). All information and material contained in this document has been provided for informational purposes only and is
+subject to change, including addition, removal, amendment or update of information and/or material by the Company at any time
+without notice.
+The Company’s Board of Directors has taken all reasonable care to ensure that, as of the publishing date, the information
+contained in this Whitepaper is correct and authentic, complete and exhaustive to its knowledge, and that there are no other facts
+which, if omitted, would make any part of this Whitepaper ambiguous or misleading.
+However, the Company’s Board of Directors makes no representation on the accuracy or completeness of the information. There
+is also no assurance that the information contained therein will be continuously accurate after the date of first publishing and
+consequently after possible modifications.
+The version of this Whitepaper is written in English and is the primary official source of information about the ANCHOR project.
+The information contained in this Whitepaper may eventually be translated into other languages or used in communication
+(written or verbal) in other languages.
+During the process of translation, some of the information may get corrupted, lost, or misinterpreted. The accuracy of translation
+cannot be guaranteed and the accuracy of representation in communication cannot be guaranteed likewise.
+If there are any contradictions, inconsistencies or conflicts between communications or translated versions and this version of the
+Whitepaper (written in English) the original document and the information in it will prevail.
+This Whitepaper is not a prospectus within the sense of Art. 1156 and Art. 652a of the Swiss Code of Obligations (CO) or the
+European Prospectus Regulation or any other applicable laws and regulations. This Whitepaper has not been and will not be
+reviewed, verified or approved by any regulatory or supervisory authority.
+The legal status of digital tokens is still under development in most jurisdictions. New laws and regulations may change the way
+that digital tokens are classified. Therefore, the Company cannot guarantee that it will be able to implement some features of the
+Anchor platform as such, and it expressly reserves the right to amend the terms of the token sale and/or conversion accordingly.
+The Dock Tokens are utility tokens designed to stabilize the Anchor system. Dock Tokens provide digital access to the Anchor
+platform and can be converted under specific terms into Anchor Tokens. The Company does not recommend buying Dock Tokens
+for speculative investment purposes. The Dock Tokens give neither equity in any company, nor voting rights, nor dividend rights.
+The sale of Dock Tokens will be final and non-refundable. The Dock Tokens will be issued through an open-source IT blockchain
+protocol called ERC20. Anchor AG has no control over the operational network of ERC20. Anchor AG may not be liable in any way
+for any feature that might affect the token ownership.
+The Anchor Tokens are stable coins to be used as a means of payment for the purchase of goods and services. With the stability
+that the Anchor Tokens provide, being pegged to the Monetary Measurement Unit, the Anchor Tokens are unsuitable for
+speculation. No ICO or STO has or will be carried out for the Anchor Tokens.
+The Anchor Tokens give neither equity in any company, nor voting rights, nor dividend or any other rights against the issuer.
+Consequently, for the avoidance of doubt, Anchor Tokens also do not give a claim to any stable capital assets that the Company
+may acquire under the Investment or Reinvestment Mechanism of the Anchor system. The Anchor Tokens will mainly be issued
+through an open-source IT protocol called ERC20. Anchor AG has no control over the operational networks of ERC20. Anchor AG
+may not be liable in any way for any feature that might affect the token ownership.
+
+www.theanchor.io
+
+35
+
+All statements regarding the Company’s financial position, business strategies, plans, and prospects, as well as the prospects of the
+industry in which the Company operates, are forward-looking statements. Neither Anchor AG, its founders, team members, or any
+third party involved in the Company’s project nor any other person represents, warrants and undertakes that the actual future
+results, performance or achievements of the Company will be as discussed in these forward-looking statements.
+The Whitepaper includes market and industry information and forecasts which the Company has obtained from internal and
+external surveys, reports and studies, as well as market research, publicly available information and industry publications. These
+surveys, reports, studies, market research, publicly available information and publications state that the information that they
+contain has come from sources believed to be reliable, but there can be no assurance as to the accuracy or completeness of such
+information.
+No information in this Whitepaper should be considered as business, legal, financial or tax advice regarding the Anchor project.
+Prospective participants should consult their own business, legal, financial, tax or other professional advisors regarding the
+Anchor project and the legal requirements and consequences of purchasing, holding and disposing of Dock Tokens and/or Anchor
+Tokens and any applicable exchange control regulations and taxes in the countries of their respective citizenship, residence
+and/or domicile.
+The tax characterization of the tokens is uncertain, and each buyer needs to consult with and must rely on the advice of his own
+professional tax advisors with respect to the tax treatment of an acquisition of the tokens.
+The Anchor system is a technology under development and any changes that can occur during the development of the technology
+can have a negative impact on the Anchor system for at least 24 months. The purchaser of the tokens undertakes that s/he has
+significant experience in cryptocurrencies and blockchain systems as well as related services and that s/he fully understands all
+risks associated with the purchase as well as the mechanism related to the use of cryptocurrency (incl. storage).
+The information contained in this Whitepaper, and any opinion expressed therein, does not constitute an offer, or an invitation to
+make an offer, to buy or sell securities or financial instruments or derivatives relating thereto. The information is not intended to
+provide personal recommendation or investment advice, and it does not consider the specific investment objectives, financial
+situation, or particular needs of any specific person.
+The purchase of the Dock Tokens will be subject to terms and conditions which are not set out in this Whitepaper but are defined
+in a separate agreement. Each potential buyer will have to undergo a due diligence review performed by a third-party provider in
+accordance with the Swiss Anti-Money Laundering Act, as well as other applicable rules and regulations. Only eligible buyers will
+be permitted to acquire tokens. Further restrictions may be applied to the token sale and are expressly reserved by the Company.
+To the maximum extent permitted by the applicable laws, regulations, and rules, the Company, its founders, team members and
+any third party involved in the Anchor project shall not be liable for any indirect, special, incidental, consequential, or other losses
+of any kind, in tort, contract or otherwise (including, but not limited to loss of revenue, income or profits, and loss of use or data),
+arising out of or in connection with any acceptance of or reliance on this Whitepaper.
+The distribution or dissemination of this Whitepaper or any part thereof may be prohibited or restricted by the laws, regulatory
+requirements and rules of certain jurisdictions. Anchor is currently not available to US persons. It is the responsibility of the
+prospective participant to perform the necessary due diligence regarding possible restrictions in his jurisdiction, and it is also the
+sole responsibility of the prospective participant to inform himself about, and to observe and respect any and all laws and
+regulations that may be applicable to him from time to time.
+In any countries or regions, where the content of this Whitepaper is prohibited or restricted, it should not be reproduced or
+distributed in whole or in part. Further, if a potential participant recognizes that s/he is from a country or region where this
+Whitepaper is prohibited and still chooses to make a token purchase, then this participant is deemed to acknowledge the risks
+associated with such action and Anchor AG shall not be liable or have any legal responsibilities with respect to such action by the
+participant.
+This Whitepaper shall be governed by and construed in accordance with the laws of Switzerland, without regard to conflict of law
+rules or principles (whether of Switzerland or any other jurisdiction) which would cause the application of the laws of any other
+
+www.theanchor.io
+
+36
+
+jurisdiction. Any dispute, controversy or claim arising out of, or relating to, this Whitepaper shall be finally resolved by arbitration
+in accordance with the Swiss Rules of International Arbitration of the Swiss Chambers’ Arbitration Institute in force on the date
+on which the Notice of Arbitration is submitted in accordance with these Rules. The arbitration penal shall consist of one
+arbitrator. The seat of the arbitration shall be Zug, Switzerland. The arbitral proceedings shall be conducted in English.
+
+www.theanchor.io
+
+37
+
+www.theanchor.io
+
+38
+
+

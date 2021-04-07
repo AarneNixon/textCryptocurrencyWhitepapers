@@ -1,0 +1,889 @@
+PLATFORM WHITEPAPER
+Version : 2.1
+
+This whitepaper is a working document that is subject to review and change
+
+2
+
+Content
+1. Legal Disclaimer
+
+3
+
+2. Executive Summary
+
+6
+
+3. Vision and Mission
+
+7
+
+4. Problem
+
+8
+
+4.1 Banks & Financial Institutions
+
+8
+
+4.2 Businesses and Individuals
+
+9
+
+5. Solution
+
+10
+
+6. Banking products
+
+11
+
+6.1 Hybrid account
+
+12
+
+6.2 Debit Cards
+
+13
+
+6.3 Card Processing
+
+14
+
+6.4 Crypto payment gateway
+
+16
+17
+
+7. About Cashaa
+
+19
+
+7.1 Team
+
+20
+
+7.2 Awards & Recognitions
+
+21
+
+7.3 Media Appreciations
+
+21
+
+8. Roadmap
+
+22
+
+9. Token
+
+24
+
+9.1 What is CAS?
+
+25
+
+9.2 Token Utility
+
+25
+
+10. Further Information
+
+26
+
+3
+
+1.
+
+Legal Disclaimer
+
+The CAS Token Sale was completed in Jan 2018. This updated white paper is for
+informational purposes only and does not constitute any legal relations between you and
+Cashaa Holding OU and its aﬃliates (collectively referred to as “Cashaa”). This
+whitepaper is a working document that is subject to review and changes.
+
+Translations
+This whitepaper and related materials are issued in English. Any translation is for
+reference purposes only and is not certiﬁed by any person. If there is any inconsistency
+between a translation and the English version of this whitepaper, the English version
+prevails.
+
+Eligible participants
+Eligibility for participation in the initiatives described in this whitepaper (if and when
+completed) is not guaranteed and is likely to be subject to legal and regulatory
+restrictions. Citizens or residents of countries where crypto is illegal or regulated entities
+are ineligible to participate in Cashaa.com initiatives.
+
+No representations
+No representations or warranties have been made to the recipient or its advisers as to
+the accuracy or completeness of the information, statements, opinions or matters
+(express or implied) arising out of, contained in or derived from this whitepaper or any
+omission from this document or of any other written or oral information or opinions
+provided now or in the future to any interested party or their advisers. No representation
+or warranty is given as to the achievement or reasonableness of any plans, future
+projections or prospects and nothing in this document is or should be relied upon as a
+promise or representation as to the future. To the fullest extent possible, all liability for
+any loss or damage of whatsoever kind (whether foreseeable or not) which may arise
+from any person acting on any information and opinions contained in this whitepaper or
+any information which is made available in connection with any further enquiries,
+notwithstanding any negligence, default or lack of care, is disclaimed.
+
+Restricted transmission
+This whitepaper must not be taken or transmitted to any jurisdiction where distribution
+or dissemination of this whitepaper is prohibited or restricted.
+
+4
+No review by any regulatory authority
+This whitepaper has not been reviewed by any regulatory authority.
+
+Third party references
+References in this whitepaper to speciﬁc companies, networks and/ or potential use
+cases are for illustrative purposes only. The use of any company and/or platform names
+and trademarks does not imply any aﬃliation with, or endorsement by, any of those
+parties.
+All references to ‘dollars’, USD or ‘$’ are references to United States dollars unless
+otherwise stated.
+
+Graphics
+All graphics included in this whitepaper are for illustrative purpose only. In particular,
+graphics with price reference do not translate into actual pricing information.
+
+Risk statements
+Cryptographic tokens may be subject to expropriation and/or theft; hackers or other
+malicious groups or organizations may attempt to interfere with our system/network in
+various ways, including malware attacks, denial of service attacks, consensus-based
+attacks, Sybil attacks, smurﬁng, and spooﬁng which may result in the loss of your
+cryptographic tokens, the loss of your ability to access or control your cryptographic
+tokens. In such event, there may be no remedy, and holders of cryptographic tokens are
+not guaranteed any remedy, refund, or compensation.
+The regulatory status of cryptographic tokens and digital assets is currently unsettled,
+varies among jurisdictions and subject to signiﬁcant uncertainty. It is possible that in the
+future, certain laws, regulations, policies or rules relating to cryptographic tokens, digital
+assets, blockchain technology, or blockchain applications may be implemented which
+directly or indirectly affect or restrict cryptographic token holders’ right to acquire, own,
+hold, sell, convert, trade, or use cryptographic tokens.
+The uncertainty in tax legislation relating to cryptographic tokens and digital assets may
+expose cryptographic token holders to tax consequences associated with the use or
+trading of cryptographic token.
+
+5
+Digital assets and ﬁnancial products and services carry signiﬁcant risks. Potential
+purchasers should assess the nature of, and their own appetite for, relevant risks
+independently and consult their advisers before making any decisions.
+
+Caution regarding Forward-Looking Statements
+This whitepaper contains certain statements that are forward-looking, by their nature,
+subject to signiﬁcant risks and uncertainties. Our forward-looking statements are based
+on information currently available to us about the business that we operate.
+Forward-looking statements may involve estimates and assumptions and are subject to
+risks, uncertainties and other factors beyond our control and prediction. Accordingly,
+these factors could cause actual results or outcomes that differ materially from those
+expressed in the forward-looking statements.
+Any forward-looking statement speaks only as of the date of which such statement is
+made, we undertake no obligation to update any forward-looking statements to reﬂect
+events or circumstances after the date on which such statement is made or to reﬂect
+the occurrence of unanticipated events.
+
+Licenses and approvals are not assured in all jurisdictions
+The Company and its subsidiaries intend to operate in full compliance with applicable
+laws and regulations and obtain the necessary licenses and approvals. This means that
+the development and roll-out of all the initiatives described in this whitepaper are not
+guaranteed. Regulatory licenses and/or approvals are likely to be required in a number of
+relevant jurisdictions in which relevant activities may take place.
+It is not possible to guarantee, and no person makes any assurances, that any such
+licenses or approvals will be obtained within a particular timeframe or at all. This means
+that the initiatives described in this whitepaper may not be available in certain markets,
+or at all. This could require restructuring of these initiatives and/or its unavailability in all
+or certain respects. In addition, the development of any initiatives is intended to be
+implemented in stages. During certain stages of development, the project may rely on
+relationships with certain licensed third party entities. If these entities are no longer
+properly licensed in the relevant jurisdiction, this will impact the ability of the Company
+to rely on the services of that party.
+
+No advice
+This whitepaper does not constitute advice to purchase CAS Tokens nor should it be
+relied upon in connection with any other contract or purchasing decision.
+
+6
+
+2. Executive Summary
+The global ﬁnancial crisis revealed signiﬁcant weaknesses in the existing ﬁnancial
+system and some of the vulnerabilities already have shown their impact on the
+interconnected global market. The world economy is still struggling with absolute slow
+growth rates today. Transferring money for remittance, money lending across
+international borders is still very complicated, time consuming and expensive. Existing
+systems running on traditional banking channels are slow and complex with full of
+intermediaries, higher exchange rates, counterparty risks, bureaucracy and extensive
+paperwork. More than 3.5 billion people are still unbanked or underbanked and have few
+opportunities to have a safe and secure way to participate in the global economy.
+On-boarding this missing population to the beneﬁts of the global ﬁnancial system is key
+in order to provide a sustainable solution for their future economic outlook.
+The recent emergence of cryptocurrency tokens has shown a silver lining to evolve the
+legacy systems. However, it turns out that consumers and businesses are struggling to
+leverage the beneﬁts of the blockchain infrastructure due to poor usability, non customer
+centric approach and improper legal implementation.
+
+The Gap: Banking the Unbanked is primarily due to
+Traditional, expensive and complicated banking infrastructure
+
+Money has evolved over time during several civilizations and this change is happening again
+
+User’s perspective towards the centralized systems and way to use them is changing
+
+Poor and incomplete crypto solutions in terms of usability and legal framework
+
+This whitepaper ﬁlls the gap between the existing ﬁnancial system and emerging
+non-user friendly technologies by presenting a secure and simple way to use payments
+and banking architecture that aims to lower the ﬁnancial inclusion barriers and provide
+ﬁnancial services to the banked and unbanked.
+Cashaa Holding completed a token sale in Jan 2018. This is not a fundraising document;
+the project will be funded by Cashaa Holding. The objective of the Cashaa Whitepaper
+2.1 is to present our vision, product and strategy.
+
+7
+
+3. Vision & Mission
+For the Next Billion users
+Cashaa is about empowering the banked and unbanked business and individuals to
+enable them to participate in the global economy and develop the new outlook for this
+community by using open architecture. It is a great irony that the blockchain or crypto
+community has continuously been denied access from existing ﬁnancial institutions due
+to some inherent AML and compliance problems.
+We ﬁrmly believe that there should be an eﬃcient alternative to the existing payments
+and banking system and are thereby working over some fundamental principles
+dedicated to bank the unbanked by providing better support for easy adoption of future
+money. Furthermore, we are committed to accelerate the growth of digital innovation by
+bringing Cashaa SDK and Open API into the ecosystem. Thus, embracing the
+decentralisation.
+
+In the next 2 year
+
+In the next 5 years
+
+Launch the world ﬁrst
+crypto friendly banking
+for Individuals and
+Business.
+
+2023
+
+YEAR
+
+YEAR
+
+2020
+
+To become the world’s
+predominant and ﬁrst
+choice Bank for
+businesses and
+individuals involved in
+emerging technologies
+
+8
+
+4. Vision & Mission
+The primary role of blockchain technology was to solve coordination and
+synchronization problems amongst multilateral agreements between a network of
+participants, but it seems that these multiple blockchains are now giving a hard time to
+“real users” and have become a bottleneck for mainstream adoption. The current
+attempts to provide blockchain-based solutions lack the workﬂow needs of small and
+medium sized enterprises.
+
+4.1 For Banks & Financial Institutions
+
+1
+
+Operating on a traditional rail infrastructure, where moving
+money requires huge processing efforts. One of the main
+reasons for friction is that information is siloed between the
+players in the industry.
+
+2
+
+Lack of knowledge and functional understanding of digital
+assets; the existing banking industry stayed in denial mode for
+a long time to accept the revolution coming due to technologies
+like Bitcoin etc.
+
+3
+
+Lack of infrastructure to support crypto transactions: The
+existing centralized banking system running on mainframe is
+now facing the challenge to adopt to the sudden growth of
+decentralised assets.
+
+4
+
+Lack of AML and Compliance API for crypto transactions; the
+existing banking system was made for monitoring only national
+currency transactions which are not enough to ensure crypto
+transactions are compliant.
+
+9
+4.1 For Business and Personal Users
+
+1
+
+No crypto friendly banking system:
+
+2
+
+Accounting and auditing issues:
+
+3
+
+Security of digital assets:
+
+4
+
+Due to uncertainty in framework, infrastructure and denial from
+high street banks.
+
+Use of multiple unidentiﬁed addresses and accounts are
+becoming a nightmare for legit businesses and individuals.
+
+Cryptographic tokens pose an irreversible threat if not managed
+properly, which has been the thickest hindrance to its adoption.
+
+Convertibility of digital assets:
+We can not ignore the fact that we still need a bridge to move
+back and forth until we fully adopt the cryptographic money
+system.
+
+10
+
+5. Solutions
+The world needs one account for the old and new emerging money system. A banking
+platform which addresses the complexity and challenges of regulators, central banks,
+individuals and businesses (banked or unbanked) to successfully help mankind to move
+into a new era of trust.
+
+The world needs Cashaa’s solution!!
+A global multi currency crypto-friendly banking platform
+
+11
+
+6. Products
+As a product-driven ﬁntech company, our focus is to solve the problems using disruptive
+technologies to create products and services for simple and easy use. Cashaa’s single
+sign-on website & mobile application will allow users to access international bank
+account, crypto assets with linked cards. In the ﬁrst version, a hosted web service will
+be released, followed by Android and iOS applications.
+
+One account for
+old and new money
+JOIN THE MONEY REVOLUTION
+
+12
+6.1 Hybrid accounts “Better than Bank account”
+Get an account which is better than any existing bank account in the world, for all your
+local and international banking. Whatever your need, we make it easy by providing you
+with an exceptional online banking experience.
+Fully integrated with local payment networks such as FPS, SEPA, ACH, NEFT, Wire, RTGS,
+SWIFT and many more for the transfer of existing central bank issued currencies.
+Cashaa account will also handle the new generation of asset class such like Bitcoin,
+Ethereum, Ripple, Litecoin, Tether and Cashaa native coin.
+Licensed and regulated.
+
+Business Account
+
+Personal Account
+
+15
+AML and Fraud detections on address
+Cashaa Multisig wallets comes with inbuilt AML and Compliance system, which analyze
+transaction patterns on the Blockchain address. It uses multiple risk indicators,
+behavioral analysis and data science techniques, to prepare a report which warns you
+before you start transacting with any address involve in any crime, or suspicious activity.
+For Business users this feature will help them to save from suffering from business
+discontinuity loss, lawsuits etc. due to involvement with a criminal or suspected
+address.
+
+Grade
+
+Reason
+
+Action
+
+A
+
+Not related in any suspicious activity
+
+Allowed
+
+B
+
+Not directly related in any suspicious activity
+
+Allowed but remained ﬂagged
+
+F
+
+Involved in suspicious activity
+
+Not allowed
+
+(C Score)
+
+*We recommend our users to verify the address before receiving payment from it.
+
+Buy and Sell Cryptocurrencies
+Digital convertibility is one of the major challenges which the crypto industry is facing.
+Digital exchanges require a lot of intermediaries and thereby a very cumbersome
+process. Cashaa CMC Wallet integrated with world most high volume exchanges to get
+the best price and availability.
+
+Competitive Advantages
+1.
+
+One account for store, convert digital assets and transfer across the globe
+
+2.
+
+Our technology will make all cryptocurrencies ultra-safe and secure
+
+3.
+
+Easy to use without worrying of losing keys with full control of crypto
+
+4.
+
+One account to access your cryptocurrencies and IBAN funds
+
+5.
+
+Check on each transaction to protect you to transact with risky address
+
+6.
+
+Crypto wallet integration with banking Removes accounting & auditing issues
+
+7.
+
+No Fee for Cashaa community members on buying or selling digital assets
+
+8.
+
+High liquidity due to integration with multiple exchanges
+
+9.
+
+Multiple payment options including IBAN accounts, Bank transfer or
+Credit/debit cards
+
+13
+6.2 Cards
+Card will complement the cashaa account which will allow to connect virtual assets with
+global payment networks. Currently Cards will be accepted by more than 39 Million
+merchants as well as POS terminals, the adoption of which is growing exponentially with
+3 Million existing ATMs which enable to withdraw cash worldwide.
+
+Free transfer to other account holders
+Immediately block your card in case it is lost or stolen
+Worldwide access with higher withdrawal limits
+
+* Cards linked to UK current account can only be issued to companies or users based in Europe & UK
+
+16
+6.4 Card Processing
+6.4.1 Sell Crypto with Credit and Debit Card
+Enable your customers to pay using credit and debit card to have a familiar e-commerce
+experience.
+
+Settling 14 currencies, including:
+
+Enjoy a seamless onboarding experience.
+
+Online application portal
+
+Compliance and risk checks
+
+Multilingual support available
+
+Completed in 72 hours
+
+Transparency at every stage
+
+Training for partners
+
+Partners informed of every stage of the
+on-boarding process
+
+So you receive the full beneﬁt of our
+services
+
+6.4.2 Turn key crypto sale solution
+Cashaa solution offers end-to-end process management that enables your users to buy
+crypto via debit or credit card. Through seamless integration with Cashaa solution, you
+can easily expand your business with zero risk involved. Tailored to match your
+company’s look and feel, the checkout process allows users to buy crypto easily. With
+Cashaa integrated solution, you gain new users and improve user retention immediately,
+without the need to handle ﬁat money or go through bank onboarding.
+
+* Some or part of services given by third party provider
+
+17
+6.5 Crypto payment gateway
+
+Keep more of your Money
+Credit cards take up to 3% in processing fees on every transaction.
+Accept Bitcoin and CAS with Cashaa and get direct bank deposits in your
+own currency for a simple, ﬂat 1% settlement charge.
+
+End chargeback fraud and identity theft
+Other payment methods force customers and businesses to shoulder the
+risks and costs of payment fraud. With Bitcoin and CAS, customers can
+pay without handing over sensitive personal information, and refunds are
+made through the merchant — no chargebacks.
+
+Sell to anyone, anywhere
+Connect to truly borderless payment networks with Bitcoin and CAS.
+Receive payments in any amount, from anywhere in the world, from any
+computer or mobile device.
+
+18
+Billing
+
+E-commerce
+
+Donation
+
+Retail
+
+Accept bill
+payments across
+borders.
+
+Accept payments
+from online
+customers at
+checkout.
+
+Accept donations
+from patrons with
+Bitcoin and CAS.
+
+Accept payments in
+your retail shop or
+restaurant.
+
+Accept Bitcoin payments anywhere
+
+On your Website
+
+By Email
+
+In Person
+
+Accept Bitcoin payments
+and donations from your
+online customers.
+
+Send invoices to vendors
+as quickly and easily as
+sending an email.
+
+Accept Bitcoin in your
+retail store or restaurant
+on your smartphone or
+tablet.
+
+Accept Bitcoin & Get Paid
+Receive funds into your bank
+account
+Expand your payment options by
+accepting instant BTC and ETH
+payments without risk or price
+ﬂuctuations.
+
+Bank deposits enabled in 200
+countries
+Receive funds directly to your bank
+account in 200+ local currencies.
+
+19
+
+7. About Cashaa
+Cashaa, founded in 2016, has built a Blockchain-powered ﬁntech platform to bank the
+underbanked.
+
+Started in
+2016
+
+Based in Europe top ﬁntech
+accelerator in London, UK
+
+Oﬃces
+
+Level 39,
+One Canada Square,
+Canary Wharf,
+London E14 5AB
+
+Cashaa Holding OÜ,
+Tina 9, 10126
+Tallinn,
+Estonia
+
+ATL CORPORATE PARK,
+614, 6TH FLOOR,
+Mumbai,
+Maharashtra 400076
+
+Community
+
+6,017
+
+16.5 K
+
+12.8 K
+
+Members
+
+Members
+
+Members
+
+20
+7.1 Team
+
+Our team is comprised of the
+best, brightest and most
+passionate people in the
+industry sharing the same
+vision of making blockchain
+applications simple and
+accessible for the masses.
+Our team has more than
+200+ years of payments and
+banking experience
+combined, which includes
+executives from Fortune 100
+technology companies, a
+central bank and top
+academic institutions.
+
+Team of 22 experienced
+engineers & bankers from
+
+Lead by Kumar Gaurav, Founder & CEO
+Kumar is an Indian serial entrepreneur who was awarded an extraordinary status by the
+United States government for excelling his work on Blockchain technology. He is
+currently the CEO of Cashaa and the Chairman of Auxesis Group.
+Kumar is a popular international speaker and innovator who has grown his own suﬃx of
+technology and was felicitated by IIT, IIM, ISB, YPO, Money2020, TechCrunch, EU
+Parliament and many conferences and universities across the globe. He was recently
+nominated among the World's Top 50 Innovators from the Industries of the future market
+and tech era.
+To know more about his life and work visit www.kumargaurav.com
+
+21
+7.2 Awards & Recognitions
+
+Open Innovation
+Ranked Top 20th
+Most Inﬂuential
+Blockchain Company
+
+Top 3
+Finalist of BBVA Open
+Talent for “Fintech for People”
+
+Top 50
+Emerging Fintech
+business in 2018
+
+Europe Hottesh
+Crypto Finance
+Project in 2018
+
+Featured
+as upcoming Fintech
+Startup from Europe in 2018
+
+Awarded Technology
+Provider of
+the Year for SME in 2018
+
+7.3 Media
+
+22
+
+8. Roadmap
+Licensing and regulatory
+affairs started
+
+Jan - Mar
+Registration of Business for
+Beta use
+Non custodial crypto wallet
+
+Apr - Jun
+
+Crypto Trade desk in UK and
+Europe
+CAS migration to Binance Chain
+
+Staking for Quarterly Bonus
+
+Issued UK current account,
+Powered by Enumis
+
+Jul - Sep
+
+Formation of Pre-compliance
+team
+
+Launch of Crypto Trading
+Platform for India
+
+Oct - Dec
+
+Enabling EURO IBAN Banking,
+Powered by ZIPP
+Card processing,
+Powered by Paysafe
+
+Note
+
+This roadmap is indicative of our future plan. The implementation of our initiatives may be subject to factors that
+are beyond our control; in such case, there may be changes or delay to the delivery timeline.
+
+23
+Roadmap
+Integration of Cashaa wallet
+with Binance Chain
+Addition of Stable Coin in our
+services
+
+Jan - Mar (2020)
+
+CAS Exchange Listing
+
+Apr - Jun (2020)
+
+Regulatory approval for Cashaa
+Banking Platform (Delayed)
+Cashaa Banking Platform (India)
+Moved to 2021
+
+US Banking services
+(Business)
+Cashaa
+Banking
+Platform
+Cashaa
+Banking
+Platform
+(Business)
+(Business)
+
+July - Sep (2020)
+
+Cashaa Banking Platform
+(Personal)
+
+VISA card Issuance
+
+Instant International
+Transfers and FX services
+
+Oct - Dec (2020)
+CAS utility in the Banking
+Platform
+
+Note
+
+This roadmap is indicative of our future plan. The implementation of our initiatives may be subject to factors that
+are beyond our control; in such case, there may be changes or delay to the delivery timeline.
+
+24
+
+9. Token
+
+Token Symbol
+
+CAS
+
+Token Contract Address
+
+bnb1xkw2sagpx6t0cmwzapxpv94tupvqk7tpgy72ku
+
+Token Total Supply
+
+1,000,000,000 CAS
+
+Total Circulating Supply
+
+880,000,000 CAS
+
+Total Locked
+
+120,000,000 CAS
+
+All ERC 20- CAS has Swapped with BEP-2 CAS
+
+25
+9.1 What is CAS?
+CAS, or Cashaa coin is a cryptocurrency created by Cashaa.
+Cashaa (CAS) powers the Cashaa banking ecosystem. As the
+native coin of the Cashaa platform, CAS has multiple utilities
+such as application processing fees, discounted international
+wire, exchange fees, transaction fees
+CAS - 167
+
+9.2 Token Utility
+
+Banking (Business)
+
+Account Limit (Business)
+
+Crypto Exchange Fee
+
+Fees to activate the
+crypto friendly banking.
+
+Account limits,is decided
+based on CAS holding
+
+Get 25 % discount by
+paying in CAS.
+
+Transaction fees
+
+Int. transfer fees and FX
+
+Get 25 % discount by
+paying in CAS.
+
+Huge discount on
+International transfers
+
+Banking (Personal)
+Staking to activate the
+personal banking accounts.
+
+27
+
+10. Information
+Cashaa and CAS token information available at:
+
+www.cashaa.com
+
+/cashaa
+
+/yourCashaa
+
+/cashaaLTD
+
+/yourcashaa
+
+/company/cashaaLTD
+
+/cashaanews
+
+/cashaaLTD
+(Community Managed, not oﬃcial )
+
+

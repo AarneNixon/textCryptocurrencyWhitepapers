@@ -1,0 +1,1321 @@
+CENNZnet Whitepaper
+
+A world
+corporated
+
+1
+
+Contents
+IMPORTANT INFORMATION ....................................................................................................3
+Purpose Meets Opportunity ....................................................................................................7
+Mission Impossible for Traditional Start-ups ............................................................................8
+Barriers to Mainstream Adoption of Blockchain ..................................................................... 10
+The Solution: A New Start-up Life Cycle ................................................................................. 11
+How the CENNZnet Platform works ....................................................................................... 12
+A Proven Business Model ...................................................................................................... 14
+App Boosting ......................................................................................................................... 16
+The Centrality Platform Modules ........................................................................................... 17
+The Economic Model ............................................................................................................. 21
+CENNZnet Tokens .................................................................................................................. 23
+Centrality Platform Pte. Limited............................................................................................. 36
+Conclusion............................................................................................................................. 37
+Centrality Team ..................................................................................................................... 38
+The Tech Team ...................................................................................................................... 40
+Sources ................................................................................................................................. 41
+
+2
+
+Important Information
+General
+This White Paper provides a general technical overview of the proposed smart contract-based token generating
+event described in the CENNZ Tokens section of this White Paper (the "TGE") and, more generally, the Centrality
+Platform. This White Paper is for information purposes only.
+None of Centrality Platform Pte. Limited, Centrality Investments Limited, any of their associated entities, nor any
+of their employees, agents or assigns (together, the "Centrality Entities", each a "Centrality Entity") make any
+warranty or representation (to the extent permitted by law) as to the utility or value of CENNZ tokens (described
+in the CENNZ Tokens section of this White Paper) or the operation of the Centrality Platform.
+
+Not a regulated offer of financial products
+This White Paper, and the information contained in it and any information accompanying it, are not, and are
+under no circumstances to be construed as, an offer of financial products to any person who requires disclosure
+under Part 3 of the Financial Markets Conduct Act 2013 (the "FMC Act"). This White Paper is not a product
+disclosure statement under the FMC Act and does not contain all the information that a product disclosure
+statement is required to contain under New Zealand law. Neither this White Paper, nor any other document,
+have been registered, filed with or reviewed or approved by any New Zealand regulatory authority or under or in
+accordance with the FMC Act.
+The CENNZ tokens referred to in this White Paper are not being issued with a view to being offered for sale in
+New Zealand to any person who requires disclosure under Part 3 of the FMC Act. Any offer or sale of any CENNZ
+token described in this White Paper and the information contained in or accompanying this White Paper in New
+Zealand will be made only in accordance with the FMC Act to a person who:
+(a) is an investment business as specified in clause 37 of Schedule 1 of the FMC Act;
+(b) meets the investment activity criteria specified in clause 38 of Schedule 1 of the FMC Act;
+(c) is large as defined in clause 39 of Schedule 1 of the FMC Act;
+(d) is a government agency as defined in clause 40 of Schedule 1 of the FMC Act; or
+(e) is an eligible investor as defined in clause 41 of Schedule 1 of the FMC Act, provided that an eligible
+investor certificate has been provided in compliance with clause 41 of Schedule 1 of the FMC Act.
+
+In addition, this White Paper, and the information contained in it and any information accompanying it, are not,
+and are under no circumstances to be construed as an offer to sell or issue, or a solicitation of an offer to
+purchase or subscribe for, all or any of the following financial products or instruments:
+
+3
+
+•
+
+"securities" as defined under Sections 2(1) and/or 239(1) of the Securities and Futures Act (Chapter 289
+of Singapore (the "SFA");
+
+•
+
+"futures contract" as defined under paragraph (b) of the definition of "futures contract" under Section
+2(1) of the SFA;
+
+•
+
+contracts or arrangements for the purposes of "leveraged foreign exchange trading" as defined under
+the Section 2(1) of the SFA;
+
+•
+
+"commodity contract" as defined under Section 2 of the Commodity Trading Act (Chapter 48A of
+Singapore) (the "CTA");
+
+•
+
+contracts for the purchase or sale of any "commodity" (as defined under Section 2 of the CTA) by way of
+"spot commodity trading" (as defined under Section 2 of the CTA),
+
+(collectively, the "Singapore Regulated Products").
+
+Not a retail securities offer
+Without limiting the generality of the preceding paragraph, this White Paper (including the information
+contained in it and any information accompanying it) is not, and is under no circumstances to be construed as an
+offer to sell or issue, or a solicitation of an offer to purchase or subscribe for, any securities to any retail investor
+in any jurisdiction.
+
+Wholesale investor warranties and selling restrictions
+Any person who applies to buy CENNZ tokens in the TGE irrevocably and unconditionally represents and agrees
+(among other matters that are set out in the subscription agreement) that:
+(a) the person is not a citizen or a resident of the United States of America or of the People’s Republic of
+China, nor a citizen or a resident of any country or jurisdiction in which the sale, purchase, disposal,
+acquisition, holding and/or trading of tokens issued pursuant to a TGE is not permitted by law, nor is the
+person located in a geographic area that is subject to the laws of any such country;
+(b) the person is not a citizen or a resident of, or is physically located in, the Republic of Singapore;
+(c) if the person is in New Zealand, the person meets at least one of the criteria set out in paragraphs (a) to
+(e) above;
+(d) if the person is not in New Zealand, the person is a “wholesale investor” (or the equivalent term) for the
+purposes of the securities laws in all applicable jurisdictions;
+(e) the person is not purchasing the CENNZ tokens as agent or otherwise for or on behalf of any other
+person or entity; and
+(f) the person has not:
+(i)
+
+offered or sold, and will not offer or sell, directly or indirectly, any CENNZ token prior to
+4
+
+the date on which Centrality Platform Pte. Limited, which will sell and issue the CENNZ
+tokens, notifies purchasers that the Centrality Platform has been released which will not
+occur until at least 3 months after the end of the TGE (the "Release Date"); and
+(ii)
+
+distributed and will not distribute, directly or indirectly prior to the Release Date, the White
+Paper, Centrality Platform Pte. Limited’s constitution, or any other offering materials or
+advertisements in relation to the TGE or the CENNZ tokens,
+
+other than to persons who meet all of the criteria set out in paragraphs (a) to (d) above, and where
+doing so will not result in (i) the sale of the CENNZ tokens in the TGE being, or being viewed as, a
+regulated offer of financial products or securities in any country or jurisdiction, (ii) any contravention by
+any Centrality Entity or any other persons of the FMC Act, the SFA, the Financial Advisers Act (Chapter
+110 of Singapore), the CTA or any other applicable laws or regulations in any country or jurisdiction or
+(iii)
+
+the seller and issuer of the CENNZ tokens, Centrality Platform Pte. Limited, or other Centrality
+Entities, or any of their respective directors and officers, incurring any liability in any country or
+jurisdiction.
+
+Anti-money laundering procedures
+Any person who applies to purchase CENNZ tokens in the TGE will be subject to strict anti-money laundering and
+countering the financing of terrorism checks. These are detailed in the subscription agreement.
+
+Limited role of Centrality Investments Limited
+Centrality Investments Limited is acting solely as an arms’ length third party organizer of the TGE and not in the
+capacity as the financial adviser or fiduciary of any person with regard to the sale of CENNZ tokens.
+
+No guarantee
+Neither Centrality Investments Limited nor any other person guarantees the performance of the Centrality
+Platform, the obligations of Centrality Platform Pte. Limited, nor the functionality of the CENNZ tokens.
+
+No other material authorised
+Save for persons who are expressly authorised by Centrality Platform Pte. Limited in writing, no person is
+authorised to give any information or to make any representation relating to the CENNZ tokens outside of this
+White Paper and the subscription agreement.
+
+5
+
+No offer or contract
+This White Paper is not an offer or invitation to any person to purchase or otherwise deal in any CENNZ tokens. It
+does not create a contract between the Centrality Platform Pte. Limited and/or Centrality Investments Limited
+with any person.
+
+No recommendation or financial advice
+This White Paper has been prepared solely for general information purposes and not as specific advice to any
+particular prospective purchaser of CENNZ tokens. It is not an express or implied recommendation to any person
+to purchase CENNZ tokens.
+In addition, any information or documentation (including this White Paper and the subscription agreement)
+provided to you by Centrality Platform Pte. Limited and/or Centrality Investments Limited (or any of their
+affiliates), or anyone acting on their behalf, does not purport to be, and shall not in any way be construed as
+constituting, the provision of any advice or recommendation relating to any Singapore Regulated Product nor
+constitute any financial, business, accounting, legal or tax advice or recommendation.
+
+Limitation of liability
+Centrality Platform Pte. Limited had no involvement with the ‘Early Contribution Round’ for CENNZ Round A
+tokens arranged by Centrality Investments Limited. Centrality Platform Pte. Limited and its directors will bear no
+responsibility or liability whatsoever for any loss or liability incurred by any person relating to the CENNZ Round A
+tokens. Centrality Platform Pte. Limited shall not have any liability in respect of any claim by any person (whether
+under law or otherwise) for any loss of business or profits, or in connection with any indirect or consequential
+loss or any punitive or aggravated damages, arising out of any matter or circumstances giving rise to a claim
+(whether under law or otherwise).
+
+Risk summary
+The purchase of CENNZ Tokens involves considerable risk. These risks are described in the ‘Risks Summary’, set
+out in the CENNZ Tokens section of this White Paper.
+
+Tax
+Holders that acquire CENNZ tokens are wholly responsible for understanding and meeting all their tax obligations
+whether of Singapore or elsewhere in relation to their acquisition, holding or disposal of CENNZ tokens.
+Any payments (whether in Scene Tokens (as defined in the CENNZ Tokens section of this White Paper below) or
+otherwise) that are made by Centrality Platform Pte. Limited to any holder of CENNZ tokens will be made after
+the deduction of any withholding taxes, if so applicable, whether of Singapore or elsewhere. If any Singapore
+goods and services tax at the rate of 7% is chargeable on the issuance of any CENNZ tokens by Centrality Platform
+Pte. Limited, holders that acquire such CENNZ tokens shall bear such Singapore goods and services tax.
+6
+
+Reliance
+No person is entitled to rely on the contents of this White Paper or any inferences drawn from it. This White
+Paper is not intended to substitute or replace the due diligence that a purchaser should undertake before
+deciding whether or not to buy CENNZ tokens. The information in this White Paper is not intended to be relied
+upon in relation to, and must not be taken as basis for, any decision to subscribe for CENNZ tokens. Each
+recipient of this White Paper is to rely solely on their own knowledge, investigation judgment and assessment of
+the matters which are the subject of this White Paper and any information made available in connection with
+further enquiries. A person must satisfy itself as to the accuracy and completeness of the information contained
+within this White Paper before entering into a subscription agreement for the subscription of CENNZ tokens.
+
+While the Centrality Entities have acted in good faith and have made every effort to ensure that the statements
+made in this White Paper are reliable and accurate, and that all estimates, forecasts, expressions of opinion and
+other subjective judgments contained in this White Paper are based on assumptions considered to be reasonable
+as of the date of this White Paper, no warranty or guarantee, or representation (whether written, oral or
+otherwise) is made by the Centrality Entities with regard to the accuracy, completeness or suitability of the
+information presented in this White Paper (to the extent permitted by law). This White Paper should not be
+relied upon, and shall not confer rights or remedies upon you or any other person. To the maximum extent
+permitted by law, the Centrality Entities have no obligation to amend, modify or update this White Paper should
+any of the information presented herein change or subsequently become inaccurate, incomplete or unsuitable.
+
+White paper may be updated from time to time
+This version of the white paper may be updated from time to time. You should ensure you read the current
+version available here
+
+By accessing this white paper, you irrevocably and unconditionally agree to be bound by all of the above terms.
+
+Purpose Meets Opportunity
+7
+
+Despite market growth and increased prosperity, the vast majority of traditional tech startups fail, even if they
+2
+are well executed. Adam Smith’s invisible hand is powerless against the tech giants. Their significant head-start
+on data gives an application of artificial intelligence (AI) the potential to increase the scale of inequality and
+reduce basic human rights to a free and democratic society.
+The PC internet has consumed consumers and businesses for years. As we try to escape the gravitational pull of
+its data-mining-for-advertising model, there is a glimpse of the revolution with a new kind of technology on the
+horizon. Distributed networks on blockchain have the ability to transform the world of traditional apps,
+technology models, business models, and economic models across the globe.
+While there is great promise, there is also a universal challenge with blockchain that is not commonly
+acknowledged; there are hurdles that make the technology elusive for early stage companies and hard to adopt
+for regular users. Most blockchain use cases are still in development and unproven. Furthermore, many of these
+use cases are in areas an average user would be hard pressed to engage with.
+
+Mission Impossible for Traditional Start-ups
+Despite the challenges, the number of new online startups continues to grow, and the low barrier-to-entry
+creates a huge fragmentation of effort. Consequently, very few start-ups achieve scale. In addition, today’s users
+are interacting with fewer applications and their expectations are high. It is almost impossible for a new start-up
+to achieve the capability required to meet these expectations.
+Compared to incumbents, digital business models are often highly reliant on data mining for advertising, so
+newcomers are starting from a disadvantaged position. Ubiquitous platforms are rapidly consuming new niches
+with their bigger, multi-disciplined, agile teams and access to data so that they can anticipate market
+movements.
+
+The average app loses 77% of its daily active users within the first 3 days
+of the install. Within 30 days, it’s lost 90% of DAUs. Within 90 days, it’s over 95%
+Quettra Mobil e intelligenc e repor t 201 6
+
+8
+
+Blockchain applications fair even worse. To date, billions of dollars have been invested and yet major market cap
+networks still cannot break past 5 figures for daily active users.
+
+Two key factors are working against market entrants achieving scale. Firstly, the number of digital start-ups out
+there is rapidly expanding, fragmenting user attention, capital and technical resources. Secondly, bigger platforms
+have a huge lead in user data, attention, capital and resource, which enables them to either predict what’s coming,
+or copy very fast.
+On average, good plans, people, and businesses succeed only 1 in 10 times. This is due to the volume of components
+that are critical for success. The best companies might have an 80% probability of succeeding at each of them. Even
+with these odds, the probability of eventual success will be less than 20%, because failing to execute on any one
+component can torpedo the entire company.3
+
+Individual Event
+
+Company has sufficient capital
+
+Management is capable and focused
+Production development goes as planned
+Production and component sourcing goes
+as planned
+Competitors behave as expected
+Customers want product
+Pricing is forecasted correctly
+Patents are issued and enforceable
+Combine probability of success
+
+Probability
+
+80%
+80%
+80%
+80%
+80%
+80%
+80%
+80%
+80%
+
+If just one of the variables drops to a 50% probability, the combined chance of success falls to 10.5%.
+
+9
+
+Based on this model, a very small percentage of corporations own and/or control all the assets and the system, in
+which the other 99% are effectively chained to these corporations. Therefore, guiding purpose for Centrality
+Investments Limited (Centrality or Centrality Investments) is to provide a platform that will create a decentralised
+community of digital startups, who can become successful in a world where the odds are otherwise stacked
+against them.
+In graph theory and network analysis, indicators of Centrality identify the most important vertices within a
+network of decentralised points. Applications include identifying the most influential person(s) in a social
+network, key infrastructure nodes in the internet or urban networks 5.
+The CENNZnet ecosystem described in this white paper allows developers and entrepreneurs to find and create
+these connections between their applications and to create actions that join them together in new degrees of
+closeness.
+Centrality currently has 30+ ventures in its ecosystem, many are generating revenue and have a rapidly
+increasing user base. CENNZnet has more than 10 times the monthly active DApp users of major networks like
+Ethereum. The majority of these users are not simply trading tokens or gambling, they’re using real, everyday
+DApps - like the confidential communications DApp from Sylo. Many of these ventures have partnerships with
+listed companies and major corporations to help accelerate growth. The Centrality ecosystem is already proving
+the benefits of sharing of data, users, merchants and insights to these ventures. This is creating lower acquisition
+costs and faster scaling.
+
+Barriers to Mainstream Adoption of Blockchain
+Blockchain technology has the power to transform the way industries operate around the world. Many
+blockchain companies are very technology-driven, or trading and fintech-centric. There is virtually no mainstream
+consumer adoption, as the concepts are not familiar, and the user experience and interface are quite technical.
+10
+
+Even if a company decides to develop on the blockchain, the talent pool is limited and very few start-ups can
+access the talent required to create robust solutions.
+Many projects to-date have been very theoretical and overtly ambitious, with little real-world proof of their
+value. The high failure rates are hardly a surprise and likely to continue considering the limited practical use cases
+and user engagement strategies. This in itself represents a substantial risk to the ecosystem and consumer
+adoption.
+While they are often determined to change the system and create a more distributed and decentralised world,
+blockchain companies typically follow the same economic model as their PC internet era start-up companies. For
+example, they tend to:
+1.
+
+Reproduce the boiler plate for each application over and over
+
+2.
+
+Require the user to onboard over and over again
+
+3.
+
+Follow similar isolated value creation models and customer information silos as their incumbent
+competitors
+
+4.
+
+Result in fragmented capital, human resources and user attention
+
+The Solution: A New Start-up Life Cycle
+
+CENNZnet is an ecosystem that supports each stage of the startup life cycle. It takes a human-centric approach
+that allows users to interact with a range of different applications, 1 with very low friction. It allows developers to
+create applications that leverage the combined scale of the ecosystem in order to beat the incumbent startup
+hurdles that exist today.
+The CENNZnet ecosystem was also designed with users at heart. It’s focused on mass consumer use cases and
+increasing the general population’s access to the blockchain, beyond simple currency use cases, like Bitcoin.
+Technology alone does not have the power to overcome the momentum that the incumbent technology
+companies have, and with the advent of machine learning, these incumbent companies are extending their
+advantage at exponential rates. The start-up landscape is unlikely to change without a radical shift in both the
+economic model and execution of the idea.
+CENNZnet developers are smart entrepreneurs who are trying to disrupt traditional value chains and concepts by
+implementing blockchain technology.
+The major advances in application development have been driven by platforms such as AWS and AZURE;
+providing developers with tools, services, APIs and applications that enable them to focus on the
+valuecreating parts of the technology stack and user experience.
+11
+
+However, this has further concentrated power to the platform owners. Imagine a world where the developers and
+customers can harness the benefits from the services provided by a platform (like AWS) and the value the
+applications create, instead of that benefit being concentrated in a single central entity.
+
+The blockchain with users at its core
+The CENNZnet blockchain is capable of linking applications together and providing a better user experience.
+Rather than being on top of the network, this tech is built into the runtime of the network. This provides
+developers with deeper APIs to create much better consumer experiences than traditional smart contract
+networks. Our library of open source protocols that can be used as building blocks to create a decentralised
+application (DApp) business. This component-based design gives startups flexibility over their product, while
+ensuring a standardised look and feel across all DApps. It also provides users with a uniformed experience across
+the ecosystem.
+This component library allows start-ups to access all of the open source tools from the CENNZnet toolkit,
+including single sign on, smart wallet, payments rails, data APIs, in-chain gas station, messaging protocol and
+permissions protocol to name a few.
+In addition to these tools, users can seamlessly move between applications without being subjected to traditional
+approaches to customer application onboarding. This creates a network of interconnected DApps that users can
+transition between in a human-centric way.
+Being part of the CENNZnet ecosystem allows start-ups to create commercial connections using smart contracts
+with other DApps who will help them grow. This avoids the cost and speed implications of traditional commercial
+integrations and partnerships.
+
+CENNZnet helps blockchain developers circumvent the start-up model by:
+1.
+
+Providing access to existing users so they can build their customer base faster.
+
+2.
+
+Providing the core components of any DApp inside the blockchain runtime to get their applications up
+and running fast, with minimal effort.
+
+3.
+
+Providing an ecosystem for different applications to share in the user pool, the data pool, the merchant
+pool, and the content pool across the platform to overcome traditional ‘chicken and egg’ scale issues.
+
+How the CENNZnet Platform works
+
+12
+
+The CENNZnet blockchain is optimised for
+great user experience on consumer DApps. It
+has all of the core services a DApp would
+need into the blockchain runtime, so they
+can just focus on the value-added part.
+CENNZnet has embedded its patented
+‘Doughnut protocol’ into the chain, enabling
+developers to create easy onboarding and
+simple UX.
+
+Various DApps plug into CENNZnet. They can
+use the existing modules like messaging,
+identity, exchange, inventory and payments.
+CENNZnet even lets DApps pay for network
+fees in their own tokens with our inchain
+GAS station, so users can be onboarded
+seamlessly.
+
+DApps across different use cases work
+together to acquire users, data, merchants
+and content. The use of smart contracts
+across CENNZnet ensures different
+companies can trust each-other.
+
+Each DApp is 100% focused on creating its
+own businesses, partnering and on-boarding users, whilst CENNZnet
+focuses on powering the core technology and design.
+13
+
+A Proven Business Model
+CENNZnet has already proven the business model and technology. CENNZnet already has more than 30
+applications in its portfolio; one of the applications, Sylo has onboarded more than 250,000 active users in its first
+6 months, with more daily active users than all the top 10 Ethereum DApps combined. Centrality companies are
+all generating real revenue and have partnered with fortune 500 and listed companies around the world to
+
+implement their technology into their business.
+
+*Partnerships as at August 2020
+
+14
+
+15
+
+App Boosting
+
+Different applications in the CENNZnet ecosystem can help each other grow by connecting users to relevant
+services across the ecosystem. Applications can lower their costs of scaling by sharing from the marketplace of
+services, merchants, content and user.
+
+We have created a network optimised for user experience. Instead of common services (like identity) being built
+as an application on top of the chain like in Ethereum, we’ve built core modules into our blockchain runtime. This
+provides a much better developer and user experience. CENNZnet has been built using the PLUG framework and
+has adopted many of the PLUG blockchain modules.
+PLUG is a fork of Substrate. The Plug team have made several key modifications, which enhance the usability of the
+chain for developers and application users, while still maintaining the great Substrate features, such as reliable POS
+based consensus safe programming language (RUST) and Web Assembly support.
+
+16
+
+The Centrality Platform Modules
+CENNZnet - public chain
+CENNZnet is a public blockchain based on the PLUG framework.
+
+Doughnut – decentralised cookies
+Doughnut is the secret sauce of the CENNZnet blockchain. They are Proofs of Delegation between two or more
+cryptographic keypairs. Doughnuts let us prove that one address delegates something to another address.
+17
+
+For example, if Alice wants to let Bob use her account, but only to send tokens to Charlie. This could be achieved
+using a doughnut by doing the following:
+
+•
+
+Alice writes a "Pact" which permissions Charlie as the recipient of tokens.
+
+•
+
+Alice creates a "CENNZnut" which sets:
+o
+"generic-asset" as a permissioned module o
+as a permissioned method for "generic-asset" o
+
+"transfer"
+the "Pact" for
+
+Charlie as the constraints for "transfer"
+•
+
+Alice creates a doughnut which sets:
+o
+
+Alice as the issuer o Bob as the holder o A "cennznet"
+
+permission domain with the "CENNZnut" as the payload of that domain
+•
+
+Alice signs the doughnut and gives it to Bob
+
+•
+
+When Bob wants to send funds to Charlie with Alice's account, Bob should attach the doughnut when
+signing and sending an extrinsic.
+
+In CENNZnet the Doughnut protocol requires a ‘cennznet’ permission domain with a ‘CENNZnut’ embedded. We
+optionally embed ‘Pact’ constraints within the ‘CENNZnut’ to further limit the actions which can be taken with
+delegated permissions.
+Details of the Doughnut and CENNZnut are captured in the Doughnut Paper.
+Details of Pact is available in the Pact Documentation
+
+An example of how to send a Doughnut to CENNZnet using the API
+1. Create a signed and encoded Doughnut
+2. Add the encoded Doughnut to an extrinsic
+We will do a genericAsset.transfer and add the encoded doughnut in the option parameter.
+
+// Create the API and wait until ready
+const api = await Api.create({ provider: "ws://localhost:9944" });
+
+// Send transfer extrinsic with doughnut const
+options = { doughnut: doughnut.encode() };
+const txHash = await api.tx.genericAsset
+.transfer(assetId, keyring.charlie.address, 1500000000)
+.signAndSend(keyring.bob, options);
+
+18
+
+SingleSource - login with blockchain
+A single user profile is required for users to move seamlessly between DApps in the ecosystem and to carry their
+profile data to new interactions.
+Users will always own their own personal information. When a user signs up, their profile will be created and
+stored on the chain via a smart contract. This smart contract address will be given to the user. When a user wants
+to access a new DApp they simply click the ‘onboard’ button and the platform will supply the profile address to
+the new DApp.
+DApps always have the latest user information. When a user updates their profile, they only need to update the
+information inside the existing smart contract, rather than updating each app individually.
+The SingleSource Extension is an on-device private key and account management. This is can easily be
+incorporated to web applications or to sign transactions on CENNZnet.
+The SingleSource API and SDK allow developers to perform eKYC and identity verification inside their
+applications, using a unique privacy preserving stateless eKYC engine. This allows developers to create fintech
+applications that can abide by international standards for compliance.
+
+SYLO messaging protocol
+The SYLO messaging protocol is an in-chain decentralised messaging protocol that enables developers to create
+secure decentralised messaging applications or embed messaging in their DApp experience. The protocol allows
+users to set up e2e messaging, group messaging and storage of content and contacts.
+
+Centrapay
+Centrapay is the portal between the decentralised world and traditional payment rails. Centrapay has developed
+a smart wallet and APIs bridges both as a traditional fiat currency payment experiences and a cryptocurrency
+wallet. This wallet can work inside a DApp or traditional platform application, enabling businesses to connect to
+existing payments infrastructure such as point of sales systems, vending machines and EFTPOS terminals.
+Centrapay has already onboarded 10’s of thousands of merchant acceptance points. Documentation
+
+XPay
+XPay is an on-chain integrated payments and inventory management module that allows developers to create
+shopping and check out experiences and manage inventory on chain. Different DApps can share the same
+shopping cart and payment rails.
+
+19
+
+CENNZX
+The CENNZX Spot enables seamless fee payment experience on CENNZnet and makes token exchange instant and
+easy. The CENNZX Spot eliminates rent extraction and centralised services, while prioritising decentralisation,
+usability and security. Documentation
+
+CENNZnet UI library
+A UI component library which allows developers to rapidly develop familiar user experiences across their
+different applications. Documentation
+
+Sylo storage
+Sylo has created modules to allow the creation, management and storage of content in decentralised content
+networks. Documentation
+
+Uncover
+The UNcover explorer allows developers and users to access the data on chain to imbed in their applications.
+
+Sylo mini DApp - application marketplace
+Applications in the CENNZnet ecosystem will be more successful when they work together. Sylo has created Sylo
+Experiences for developers who want to leverage their established DApp and users as a launchpad - enabling
+developers to access existing users easily, just like you would in mainstream super apps, like WeChat. A user can
+transition between, and transact with, different applications or services seamlessly without needing to download
+or install another application from the app store, sign-in, or create a profile.
+It will also allow the creators of different applications to create connections between each other where there is
+mutual benefit. For example, a ride hail application may work with a food ordering application to reach more
+customers or reduce the cost of delivery. Documentation
+
+Sylo experience case study – Centrality swag app
+Centrality needed an app for token holders to be able to spend their new CPAY reward tokens on Centrality
+merchandise.
+Centrality briefed the Sylo team to create an online store in the Sylo app. We also wanted to show integration
+between CENNZnet and traditional applications, so Shopify was the selected to manage inventory, orders,
+customers and products from the Shopify dashboard.
+Using the Shopify Rest Admin API and the Sylo Experience SDK, they were able to create a Shopify-powered Sylo
+Experience that accepts Bitcoins, Ethereum and any other ERC-20 tokens instead of fiat for merchandise.
+
+20
+
+The React Native developer assigned to the project could only use the docs provided and any problems or
+questions would need to be communicated via Github. Centrality’s design team supplied the images and design
+for the store (as a typical start-up would).
+
+Release
+The whole project took four weeks to complete — that’s including planning, design, implementation, testing, and
+release. It then took only 10 minutes for the first order to be received.
+You can check out the final result for yourself by scanning the QR below with your Sylo Smart Wallet.
+
+The Economic Model
+
+Centrality has partnered with a number of use cases that will prompt consumers and brands to transact with and
+through CENNZnet.
+
+21
+
+CENNZnet turns the traditional funding method on its head. Traditionally, when somebody invests money into a
+business, that money is used to build technology from scratch. This often results in duplication of components
+that already exist elsewhere, making it hard to scale efficiently without a huge investment.
+
+DApps will have access to CENNZnet and its open source library of tools and services: messaging via Sylo, single
+sign on via SingleSource, smart wallet via Centrapay and spot exchange via CENNZX and our patent pending
+permissions and delegations protocol, Doughnut. Developers will use these core services to build applications
+with ease. The core services work differently to traditional on-chain DApps, because they will have access to
+special permissions and APIs. This will make it easier to create exciting user experiences for those services that
+are common to most applications.
+
+The DApp ecosystem that builds on top of those four services and uses the network underneath. This structure is
+unique to Centrality and it’s been purposely designed this way to make it easy for users to adopt. We think this
+approach will catch on because it will ultimately make the user experience easier.
+
+The CENNZnet token economy has been designed for both developers and users in mind. It will be cost-efficient
+to run applications on CENNZnet and good applications will be incentivised to grow. Those who use the network
+and help it grow will be rewarded. We’ve also aimed to reduce friction for onboarding for DApps and consumers.
+The network will be governed by people who have a stake in CENNZnet and as we have more people using the
+network, the higher the demand for CENNZ will be.
+
+22
+
+CENNZnet Tokens
+CENNZnet operates on a dual-token economy. CENNZ for staking and governance, and CPAY for network
+transactions and block rewards. Anyone with CENNZ can stake their tokens to earn block rewards.
+
+CENNZ
+CENNZ is a staking token; it can increase in value without impacting the cost of using the network. This is
+important to ensure developers can predict the costs of running their application. In popular blockchain systems
+today, the costs of development are variable and subject to external factors, which makes it hard to plan ahead.
+For example, if the network gets congested for reasons outside the developer’s control, the cost of running my
+
+23
+
+app goes up. At the same time, it’s important to optimise usage of the network and prevent attacks. CENNZnet
+has been designed to deliver predictable cost and optimal usage.
+
+The demand for CENNZ will increase as more users join the CENNZnet network and generate more activity in the
+form of transactions. CENNZ tokens will be required to join CENNZnet as a validator.
+Staking your CENNZ enables you to participate in the network consensus by securing and governing the network.
+It also provides you with block rewards in the form of our fee token, CPAY.
+
+CPAY
+CPAY works like gas in the network and will be used for transaction fees and block reward payments for stakers.
+It’s designed to be algorithmically stable, so developers can easily predict the cost of their application, and
+stakers can easily predict the value of their stake. CPAY will initially be tradable on the CENNZX exchange or can
+be transferred directly between wallets.
+
+The demand for CENNZ will be driven by DApps. Developers will have to buy CPAY off CENNZ holders and use
+them in order to make their applications work. The more apps in the ecosystem, the more CPAY in circulation,
+the better off CENNZ holders are.
+Our token economy has been designed to encourage developers to buy CENNZ also. Developers will need CPAY
+to use the network, but they’ll also be incentivised to buy CENNZ to participate in the network. CENNZ will be
+required to perform a number of tasks, such as reserving a name space if developers want a domain inside of the
+network. But generally, we want to maintain as low a cost as possible, to encourage as many applications to be
+built.
+
+24
+
+Reserve tokens
+Not every protocol or DApp requires a token to operate. In fact, many tokens produced to date have no genuine
+utility. However, we believe some core functions in the platform do justify the need for a separate utility token.
+These tokens often provide a discrete function, with its own economic needs separate to that of general-purpose
+computing. Apps like Sylo and SingleSource have special permissions in our ecosystem and sit within the
+blockchain runtime.
+Reserve tokens have special access to the network and APIs to allow them to perform their special function in a
+much more tightly coupled way. Anyone can propose a new reserve token function and economy and CENNZ
+holders will be able to use their tokens to help in this curation process for applications.
+
+Generic Assets
+Transaction fees can be paid in any asset, provided there’s liquidity in the CENNZX in-chain GAS exchange.
+CENNZX will then seamlessly convert the asset into CPAY for fees. This will streamline both onboarding and inapp
+
+25
+
+experience by eliminating the need for new users to learn about CENNZ or CPAY when they use their favorite
+DApp.
+
+Running a validator node
+CENNZ demand will increase as the network activity and users increase. As a CENNZ holder, there’s every reason
+to help secure the network and support the growth of the network in two ways: by running a validator node and
+staking tokens.
+Anyone with a PC, MacBook, Linux desktop, or their own server can join the CENNZnet network by running a
+node. Unlike the Bitcoin network, which requires high spec computing power and energy consumption,
+CENNZnet runs a Proof of Stake consensus that allows standard PCs to join the network, as long as they meet
+certain availability requirement to ensure network efficiency.
+The more nodes there are, the more secure and successful the network is.
+CENNZ token holders can stake and run a validator node. Staking tokens enables CENNZ holders to actively
+participate in CENNZnet and earning validation rewards. Users without CENNZ can also run a full node and have
+access to APIs and data on incoming blocks and transactions, but they will not be able to stake.
+Everyone who runs a validator node receives a reward in the form of our CPAY gas token, which can be used to
+transact on CENNZnet. Validators benefit from access to the APIs blockchain data and support for new features in
+CENNZnet. They can also stake or verify transactions in their wallet, without relying on another validator.
+
+Native CENNZnet tokens
+We have now launched our mainnet blockchain, so token holders will need to swap their ERC20 tokens onto
+CENNZnet. CENNZnet is transitioning from the Ethereum blockchain to its own network, and its tokens are
+transitioning from an ERC20 standard coin to brand new CENNZnet coins. The transition contract exists to allow
+CENNZ and CPAY holders to swap their ERC20 tokens to receive official CENNZnet mainnet tokens and earn more
+CPAY rewards before anyone else.
+
+Please note:
+(a) CENNZ token holders will have no legal or beneficial ownership of the intellectual property comprising the
+Centrality Platform, nor in the shares or other assets of the Issuer. CENNZ tokens are not designed to be
+securities and do not constitute, nor are they characterised as, any of the Singapore Regulated Products.
+(b) For the avoidance of doubt, this White Paper, and the information contained in it and any information
+accompanying it, are not, and are under no circumstances to be construed as an offer to sell or issue, or a
+solicitation of an offer to purchase or subscribe for, any CENNZ tokens.
+26
+
+CENNZ Token Allocations in the 2018 TGE
+In addition to the CENNZ tokens issued to wholesale purchasers, described in this section of this white paper, a
+further approximately 240 million CENNZ will be issued to Centrality Investments as consideration for the
+arrangement with Centrality Platform Pte. Limited in respect of the intellectual property comprised in the
+Centrality Platform made on an arm’s length basis. Centrality Investments will not be able to sell or otherwise
+deal with its CENNZ tokens until after the second anniversary date of the Release Date.
+
+Token All
+Centrality
+
+Developers
+
+Centrality Platform
+
+20%
+
+240,000,000
+
+5%
+
+60,000,000
+
+5%
+
+60,000,000
+
+Total Tokens
+
+1,200,000,000
+
+An additional circa 60 million CENNZ has been allocated to developers to ensure that they have a personal
+incentive to grow the platform moving forward.
+
+The remaining circa 60 million CENNZ will be retained by the Issuer (Centrality Platform Pte. Limited) and
+released slowly to fund growth of the Centrality ecosystem strategically by supporting the following four broad
+purposes:
+1.
+
+Operational costs, infrastructure, developers
+
+2.
+
+Sourcing and funding revolutionary start-ups and participants that will enhance the Centrality Platform
+and ecosystem for all participants. (Note that holders of CENNZ tokens will not have any ownership
+stake in the businesses acquired.)
+
+3.
+
+Supporting and growing the blockchain and Centrality developer community
+
+4.
+
+Marketing and PR for the Centrality platform
+
+27
+
+Risks summary
+The key risks summarised in this section are not intended to be an exhaustive list of the risks that may apply to
+you as a purchaser or holder of CENNZ tokens. You should read these key risks and consider whether you are
+willing to assume such risks before you agree to subscribe for CENNZ tokens.
+
+No assurance of returns or benefits: There can be no assurance that CENNZ tokens holders will be able to
+receive a return of their capital or any returns or benefits. Any purchase of CENNZ tokens should therefore only
+be considered by persons who can afford a loss of their entire investment or holdings in the CENNZ tokens.
+
+Market risk: The value of cryptocurrencies, can go down as well as up. The emergence of a new business model
+can create opportunities for users and investors, but any young market carries significant risks for all of its
+participants. Past performance is not a reliable indicator of future performance, and investors may not recover
+the full amount invested.
+
+Regulatory risk: Regulation of digital tokens (including the CENNZ tokens) and token offerings such as this,
+cryptocurrencies (including Ether), blockchain technologies, and cryptocurrency exchanges are relatively
+
+28
+
+undeveloped and likely to rapidly evolve and vary significantly among various jurisdictions and are subject to
+significant uncertainty.
+
+New or changing laws and regulations or interpretations of existing laws and regulations may adversely impact
+the liquidity and market price of CENNZ tokens, your ability to access marketplaces on which to trade CENNZ
+tokens, the Issuer’s or the Centrality Entities’ ability to operate as an ongoing concern and the structure, rights
+and transferability of CENNZ tokens. The ability of a holder to access, use, transfer and exchange its (or his or
+her) CENNZ tokens may be affected by changes to legislation, regulatory guidance or actions, and judicial
+decisions in Singapore and in other countries. Therefore, there can be no assurance that any new or continuing
+regulatory scrutiny or initiatives will not have an adverse impact on the value of CENNZ tokens and otherwise
+impede the Issuer’s or the Centrality Entities’ activities.
+
+No regulatory protection: The Issuer is not licensed or approved by the Monetary Authority of Singapore nor the
+International Enterprise Singapore, and currently there is no intention for the Issuer to apply for any financial
+services license or regulatory approval under the laws and regulations of Singapore. In addition, the CENNZ
+tokens do not constitute, and are not characterised as, any of the Singapore Regulated Products. Therefore,
+CENNZ tokens holders will not be able to invoke or avail themselves of any regulatory protection or remedies
+applicable in respect of such Singapore Regulated Products under the laws and regulations of Singapore, in
+relation to their purchase, holding or trading of CENNZ tokens.
+
+Legal risk: There is little or no precedent on how existing law might treat the issue, fungibility, settlement finality,
+transfer, collateralization, sequestration, loan, hypothecation, redemption or other disposition of CENNZ tokens.
+There is also little or no precedent on how existing law might treat the rights and obligations between and
+among the Issuer and the CENNZ token subscribers or holders. The occurrence of any related issue or dispute
+could have a material adverse effect on the Centrality Platform, the Centrality Entities, the Issuer’s business
+and/or the CENNZ tokens. New developments in the law and regulations may also adversely affect the legal or
+regulatory treatment of the CENNZ tokens or the Centrality Platform and/or the Issuer’s or the Centrality Entities’
+businesses.
+
+Tax risk: The tax characterization of CENNZ tokens is uncertain and a subscriber should consult its own tax
+advisor regarding the tax consequences of their acquisition, holding or disposal of CENNZ tokens. An investment
+in CENNZ tokens may result in adverse tax consequences to subscribers. Each potential subscriber should consult
+with and must rely upon the advice of its own tax advisor with respect to the tax consequences whether of
+Singapore or elsewhere of an investment in CENNZ tokens.
+
+29
+
+Issuer risk: The Issuer was incorporated on 4 January 2018 and has not commenced operations. The Issuer is
+subject to all of the business risks and uncertainties associated with any new business.
+
+Lack of voting and liquidation rights: CENNZ tokens do not carry any voting, management or control rights or
+other management or control rights in the Issuer. Accordingly, the shareholder of the Issuer will control decisions
+of the Issuer, including any significant corporate transactions, or the election to liquidate or dissolve the Issuer. In
+addition, upon a liquidation, bankruptcy or other dissolution of the Issuer, CENNZ token holders will highly likely
+not be entitled to liquidation rights or other claims.
+
+Key Person risk: Whilst Centrality Investments Limited and Centrality Platform Pte. Limited takes an active role to
+managing key man risk through training, systemization, and succession planning there is still a risk that loss of a
+key team member could cause delays to CENNZ platform development and thus having a detrimental effect on
+price of CENNZ tokens.
+
+Technology and Coding risk: Blockchain and smart contract technology is still in an early development stage and
+its application of experimental nature which carries significant operational and technological risks. It is possible
+that the TGE smart contract system or the early contribution smart contract system, or elements of the Centrality
+Platform, could contain weaknesses, vulnerabilities or bugs which could cause, inter alia, the complete loss of the
+holder’s utility and/or the value of the CENNZ tokens by impacting the operation and functionality of the
+Centrality Platform. Outside actors may exploit such errors or vulnerabilities for personal gain or the Centrality
+Platform may be affected in any event without such action.
+
+Platform risk: While the Issuer and Centrality Investments are procuring the development of the Centrality
+Platform, there is no assurance that the Centrality Platform will be designed or completed in the manner
+described in this Whitepaper and if Centrality Platform is completed, there is no assurance as to the continued
+operation and functioning of the Centrality Platform. The Platform is subject to change and no representation is
+given that the any function or aspect of the Centrality Platform will continue to be provided or made available at
+any time
+
+Trading/Valuation risk: As a utility token, the inherent value of CENNZ tokens is derived from the successful
+operation of the Centrality Platform. CENNZ tokens are not pegged to any fiat currency (legal tender backed by a
+sovereign government) nor any cryptocurrency, and the exchange value from time-to-time given to CENNZ
+tokens on third-party exchanges may not always reflect your intrinsic valuation of the CENNZ tokens. The risk of
+loss when purchasing or disposing of CENNZ tokens could be substantial and losses may compound quickly
+(including up to total loss). As a token built on top of the Ethereum network, the value of CENNZ tokens may be
+affected by the valuation from time-to-time of Ether against fiat currencies and other cryptocurrencies.
+
+30
+
+Illiquidity risk: No CENNZ tokens will be issued after the TGE, although the reserves held by the Issuer and the
+CENNZ tokens held by Centrality Investments will be released over time to the market. Should you wish to
+temporarily, permanently or partially exit the Centrality Platform ecosystem, you may be unable to liquidate your
+position by exchanging CENNZ tokens for fiat currency or cryptocurrency as there may not be a willing buyer for
+your CENNZ tokens both in terms of price and volume. Holders have no right to redeem or sell their CENNZ
+tokens. Although Centrality intend to list the CENNZ tokens on several cryptocurrency exchanges, there can be
+no assurance that such exchanges will accept the listing of CENNZ tokens or maintain the listing if it is accepted.
+There can be no assurance that a secondary market will develop or, if a secondary market does develop, that it
+will provide the holders with liquidity of investment or that it will continue for the life of the CENNZ tokens.
+There is also no guarantee from any central bank or centralized authority for CENNZ tokens that ensures you will
+be able to redeem your CENNZ tokens for fiat currency or cryptocurrency. Furthermore, the digital token market
+is a new and rapidly developing market which may be subject to substantial and unpredictable disruptions that
+cause significant volatility in the prices of digital tokens. There is no assurance that the market, if any, for the
+CENNZ tokens will be free from such disruptions or that any such disruptions may not adversely affect a CENNZ
+tokenholder’s ability to sell its CENNZ tokens.
+
+Network risk: CENNZ tokens are ERC20 compliant tokens built on top of the Ethereum network, a decentralized
+network containing, among other things, both cryptocurrency and smart contract protocols. Neither Centrality
+Investments, the Issuer nor any their associated entities have control over the Ethereum network, including
+confirmations of transactions and execution of smart contracts on the network. Should the Ethereum network
+experience temporary or permanent issues, including network slowdowns or transaction confirmation delays,
+this is likely to affect the ability of CENNZ holders to freely use CENNZ tokens within the Centrality ecosystem and
+could impair the usability of the Centrality Platform generally.
+
+Cyber security risk: The nature of CENNZ tokens and the Ethereum network may lead to an increased risk of
+fraud or cyber attack and may mean that technological difficulties experienced by the developers and users of
+the Centrality Platform ecosystem could prevent access to or use of your CENNZ tokens. For example, it is
+possible that an unauthorised third party could exploit a coding vulnerability in the Centrality Platform code and
+damage, interrupt or otherwise attack it.
+
+Private Key risk: Extreme caution must be taken whenever selecting, storing or transmitting private keys for
+CENNZ tokens. You are responsible for the storage of your CENNZ tokens. If another person obtains access to
+your private keys, they can steal your CENNZ tokens or other cryptocurrency you use to purchase CENNZ tokens.
+Furthermore, if you lose access to your private keys, neither Centrality Investments, the Issuer, nor any other
+entity, will be able to recover your lost CENNZ tokens or cryptocurrency. If you hold CENNZ tokens on a
+cryptocurrency exchange, the private keys to those CENNZ tokens is held by that exchange. Should that exchange
+31
+
+be hacked or otherwise compromised, your CENNZ tokens may be stolen or otherwise become inaccessible. We
+strongly recommend that you store your CENNZ tokens privately (and not via exchanges) and use cold storage
+techniques to better secure your CENNZ tokens.
+
+Wallet risk: In addition to the private key risk described above, you should store your CENNZ tokens in an ERC20
+compliant hardware or software wallet. Should you attempt to send CENNZ tokens to a wallet type that does not
+support CENNZ tokens, your CENNZ tokens may be lost forever.
+
+Broker, dealer or exchange insolvency risk: There is risk that brokers, dealers, exchanges or wallets could
+become insolvent or otherwise become insecure. There may be practical, or timing problems associated with
+enforcing the rights to assets in the case of an insolvency or security disruption of any such party.
+
+Financial risk: If the solvency of the Issuer and/or any of the Centrality Entities is impaired, the ongoing viability
+of the Centrality Platform and the utility and value of the CENNZ tokens may be impaired.
+
+General risks:
+The growth of the blockchain industry in general, as well as the blockchain networks on which the Issuer rely, is
+subject to a high degree of uncertainty. The performance of the Centrality Platform is subject to the following
+uncertainties, among others:
+(i)
+
+worldwide growth in the adoption and use of BTC, ETH and other blockchain technologies;
+
+(ii)
+
+government and quasi-government regulation of BTC, ETH and other blockchain assets and their
+use,
+or restrictions on or regulation of access to and operation of blockchain networks or similar
+systems;
+
+(iii)
+
+the maintenance and development of the open-source software protocol of the BTC or ETH
+networks;
+
+(iv)
+
+changes in consumer demographics and public tastes and preferences;
+
+(v)
+
+the availability and popularity of other forms or methods of buying and selling goods and services,
+or
+trading assets including new means of using fiat currencies or existing networks;
+
+(vi)
+
+general economic conditions and the regulatory environment relating to cryptocurrencies and
+digital
+tokens;
+
+32
+
+(vii)
+
+hacking and theft of cryptocurrencies and digital tokens; and
+
+(viii)
+
+popularity or acceptance of the BTC or ETH networks and the emergence of new cryptocurrencies,
+digital tokens and blockchain networks.
+
+The price of Bitcoin, Ether, digital tokens and other blockchain assets are subject to dramatic fluctuations. Several
+factors may affect price, including, but not limited to:
+(i)
+
+global blockchain asset supply;
+
+(ii)
+
+global blockchain asset demand, which can be influenced by the growth of retail merchants’ and
+commercial businesses’ acceptance of blockchain assets like cryptocurrencies as payment for goods
+and services, the security of online blockchain asset exchanges and digital wallets that hold blockchain
+assets, the perception that the use and holding of blockchain assets is safe and secure, and the
+regulatory restrictions or prohibitions on their use;
+
+(iii)
+
+investors expectations with respect to the rate of inflation;
+
+(iv)
+
+changes in the software, software requirements or hardware requirements underlying a blockchain
+network;
+
+(v)
+
+changes in the rights, obligations, incentives, or rewards for the various participants in a blockchain
+network;
+
+(vi)
+
+currency exchange rates, including the rates at which Ether and Bitcoin and other cryptocurrencies
+or
+digital tokens may be exchanged for fiat currencies;
+
+(vii)
+
+fiat currency withdrawal and deposit policies of blockchain asset exchanges and liquidity on such
+exchanges;
+
+(viii)
+
+interruptions in service from or failures of major blockchain asset exchanges;
+
+(ix)
+
+investment and trading activities of large investors, including private and registered funds, that may
+directly or indirectly invest in blockchain assets;
+
+(x)
+
+monetary policies of governments, trade restrictions, currency devaluations and revaluations;
+
+(xi)
+
+regulatory measures, if any, that affect the use of blockchain assets;
+
+(xii)
+
+the maintenance and development of the open-source software protocol of the Bitcoin or
+Ethereum
+networks;
+
+(xiii)
+
+global or regional political, economic or financial events and situations; and
+
+(xiv)
+
+expectations among blockchain participants that the value of blockchain assets will soon change.
+
+33
+
+Blockchain networks are based on software protocols that govern the peer-to-peer interactions between
+computers connected to these networks. The suitability of the networks for the Issuer’s or other Centrality Entities’
+business or the functionality of the CENNZ token depends upon a variety of factors, including:
+(i)
+
+the effectiveness of the informal groups of (often uncompensated) developers contributing to the
+protocols that underlie the networks;
+
+(ii)
+
+effectiveness of the network validators and the network’s consensus mechanisms to effectively
+secure the networks against confirmation of invalid transactions;
+
+(iii)
+
+disputes among the developers or validators of the networks;
+
+(iv)
+
+changes in the consensus or validation schemes that underlie the networks, including shifts
+between
+so-called “proof of work” and “proof of stake” schemes;
+
+(v)
+
+the failure of cyber security controls or security breaches of the networks whether on the Centrality
+Platform or technological assets, or your / third party network or devices, and the associated risks of
+legal action or actions of regulators relating to loss of data, damage to data / devices, threat or
+compromise to privacy and data protection, and the occurrence of fraud or harm;
+
+(vi)
+
+the existence of other competing and operational versions of the networks, including without
+limitation so-called “forked” networks;
+
+(vii)
+
+the existence of undiscovered technical flaws in the networks;
+
+(viii)
+
+the development of new or existing hardware or software tools or mechanisms that could
+negatively
+impact the functionality of the systems;
+
+(ix)
+
+the price of blockchain assets associated with the networks;
+
+(x)
+
+intellectual property rights-based or other claims against the networks’ participants and risks
+associated with such legal claims (including but not limited to the risk that the operation of the
+Centrality Platform is disrupted by such claims including claims for remedies such as injunctions);
+and
+
+(xi)
+
+the maturity of the computer software programming languages used in connection with the
+networks.
+
+Unfavorable developments or characteristics of any of the above circumstances could adversely affect the Issuer’s
+or other Centrality Entities’ business, the Centrality Platform or the proper functioning of the CENNZ tokens.
+
+34
+
+The foregoing risks do not purport to be a complete list and explanation of all the risks involved in acquiring a
+CENNZ token. Potential subscribers are urged to consult their advisors before making a determination whether to
+invest in CENNZ tokens.
+
+35
+
+Centrality Platform Pte. Limited
+
+Overview
+Centrality Platform Pte. Limited is a private limited company incorporated in Singapore on 4 January 2018. It is a
+wholly owned subsidiary of Centrality Investments Limited. It will enter into an arrangement in respect of the
+intellectual property comprising the Centrality Platform (copyright in the algorithms/software/protocols,
+trademarks, and domain names) on arm’s length terms with Centrality Investments Limited, own the digital
+wallet, which contains the sale proceeds of the TGE in Ether and the reserved CENNZ tokens, and procure
+operational support services from Centrality Limited on arms’-length terms to support the Centrality ecosystem.
+It is not anticipated that Centrality Platform Pte. Limited will have any employees nor own any other assets.
+The directors of Centrality Platform Pte. Limited have a legal duty to administer the company strictly in
+accordance with the terms of the company’s constitution (which can be accessed here), which sets out its
+purpose and permitted activities.
+
+Please note that CENNZ token holders will not have any right to receive or participate in any financial benefits or
+other financial distributions. CENNZ tokens are not designed to be securities and do not constitute, nor are they
+characterized as, any of the Singapore Regulated Products.
+
+Centrality Platform Pte. Limited will dedicate resources to establish a fair and transparent governance model that
+will take into account the multi-stakeholder voices and needs of all participants within the ecosystem. This open
+governance model will oversee decisions related to the membership process, participation rules, legal matters,
+and content and compliance guidelines.
+
+Key Documents
+In addition to Centrality Platform Pte. Limited constitution, there are a number of other key documents that
+Centrality Platform Pte. Limited is party to in connection with the TGE, including:
+IP Agreement – Under this agreement, Centrality Investments Limited will enter into an arrangement with
+Centrality Platform Pte. Limited in respect of all relevant intellectual property in the Centrality Platform either by
+way of a license or an outright transfer of such intellectual property to Centrality Platform Pte. Limited. In return
+Centrality Investments will receive 20% of the issued CENNZ tokens upon the TGE.
+
+Operational Services Agreement – Under this agreement, Centrality Limited will provide operational support to
+
+36
+
+Centrality Platform Pte. Limited to operate the Centrality Platform in exchange for payment in CENNZ tokens,
+Ether, or fiat currency. Such operational support to Centrality Platform Pte. Limited includes the provision of
+employees from Centrality Limited and through the use of Centrality Limited’s premises.
+
+Centrality Platform Access Agreement – Under this template agreement, in consideration for receiving access to
+the Centrality Platform and associated services, each Scene Company agrees to (a) pay a specified monthly
+access fee of CENNZ tokens to Centrality Platform Pte. Limited and (b) to use all reasonable commercial
+endeavours to have its own token-generating event and to allocate an agreed percentage of tokens issued to
+Centrality Platform Pte. Limited.
+
+Development goals
+Our vision is to grow an open ecosystem of digital services where developers co-create products and services. We
+support our developer ecosystem in reaching consumers that explore this exciting new economy. Together we
+strengthen CENNZnet as a sustainable platform.
+
+To kickstart this vision, CENNZnet will direct and fund the development of tools that give ecosystem partners the
+ability to build, grow, and create value faster. CENNZnet’s codebase will be made fully open-sourced so
+stakeholders can leverage it freely and empower communities by adding capabilities to existing technologies to
+suit their needs. CENNZnet will be pro-actively engaging the developer community to continue improving the
+technologies supporting the ecosystem.
+
+We believe in the power and promise of a decentralisation as a continuous strategy with shared governance, the
+potential DAO governance models have is to transition the world from a competitive model to a co-operative
+one, where all participants benefit from their collective success. This is the world we want to live in.
+
+Conclusion
+
+The CENNZnet ecosystem is already a fully functional and integrated native DApp ecosystem supporting real
+operating businesses. CENNZnet Platform will help repair the current startup economy and create a more equal
+world for all participants.
+37
+
+CENNZnet has already achieved outstanding user adoption and boasts one of the biggest DApps in the blockchain
+space globally.
+With the CENNZnet Platform model, the blockchain development ecosystem can grow quickly to support
+everyday use cases. Entrepreneurs can get to market quicker, with a higher chance of success. Applications can
+work together to gain scale which will challenge incumbent platforms.
+Users, investors and developers can all share in the value the ecosystem creates, defining a new kind of shared
+value economy that can overcome the extreme centralisation happening in the broader technology ecosystem.
+
+Centrality Team
+
+Centrality has built a world class team of experienced business entrepreneurs, operations experts,
+design specialists and a world class technology team to deliver the outcomes proposed in this White
+Paper.
+
+Centrality Executive Team
+Roger Smith, Chairman
+Shareholder and the key executive in driving the global growth of a unicorn
+(Independent Liquor). Global M&A advisory board of Euronet
+(NASDAQ:EEFT). Currently CEO of ePay NZ a billion-dollar payments
+technology business. Roger is a successful active angel investor including
+
+38
+
+Society One, My HR, Cin7 and Fingermark. Roger has the domain expertise,
+
+the business experience
+
+and the track record to drive Centrality to become a
+multi-billion-dollar company.
+
+Aaron McDonald, Co-Founder and CEO
+Aaron is a 20 year tech industry veteran
+with experience leading teams across
+all aspects of a technology company managing portfolios over $1b in value.
+Aaron Founded Centrality a leading $100m global venture studio supports a
+venture portfolio leveraging decentralised technology to create new market
+innovation and customer experiences. Aaron is a Board member or advisor to
+more than a dozen venture companies around the world
+
+In 2018 Aaron was awarded EY Entrepreneur of the Year for the technology
+and emerging industries category. In 2019 he was also named one of the top
+50 technology leaders in IDG’s CIO50.
+Aaron and his team are involved with regulatory, industry and
+
+enterprise blockchain initiatives
+
+across the globe. Aaron regularly speaks on
+the international stage at events as a subject matter expert in the future of
+decentralised ecosystems.
+
+Jerry Yuan, Co-Founder and COO.
+Jerry has 15 years’ experience across the Telco and ICT industry. Jerry is
+highly experienced in developing partnerships with high value enterprise
+companies. He was previously the Account/Sales Director for HUAWEI
+Technologies. Jerry has global connections within the industry, especially in
+the South Pacific Region. These connections will help Centrality achieve
+global growth and adoption.
+
+39
+
+Daniel Gillespie, CSO
+Daniel is an investment banking veteran
+providing a broad knowledge of
+fiduciary and corporate legal responsibilities through various markets. He
+brings with him over 15 years of international banking and private equity
+experience . His skill set covers strategic value creation, restructuring,
+fund
+
+raising, deal origination, investment and portfolio management and asset
+
+realisations.
+
+Nicole Upchurch, Chief Marketing Officer
+Nicole brings her fierce passion for smart and effective marketing
+communication to the role of GM Brand Experience. Combining a history of
+working across a broad range of technology disciplines, Nicole is on a crusade
+to ensure that Centrality is recognised globally as an edgy, market leading and
+highly successful blockchain business.
+
+Andy Higgs, GM Strategic Partnerships
+Andy has a 20 year track record delivering growth, new business and performance
+improvement in commercial leadership roles across public and private sector
+organisations. Andy’s international experience includes Deloitte Consulting, MTV
+Networks Europe and co-founding Accelerate Sport (now CSM), developing global
+sport and entertainment rights based in London.
+
+The Tech Team
+Centrality has a large team of software engineers, testers, dev-ops specialists and designers working on the
+development of the CENNZnet platform modules and use cases. This world class team provides the horsepower
+to realise the vision in this whitepaper.
+
+Wilfred Godfrey, Chief Technology
+Officer
+Wilfred has worked in technology both as an engineer and architect for 15 years and
+is a world expert in the next wave of disruptive technologies. He’s the mastermind
+behind the ‘Doughnut protocol’, which powers Centrality’s decentralised app
+ecosystem and the next generation of decentralised technologies, including
+decentralised storage, consortium chains, and
+
+40
+
+decentralised access control. Wilfred is active in the fields of AGI research and
+complex systems design.
+
+Jordan Maddison, Chief Design Officer
+Jordan has been the lead designer for branding, UX and UI across more
+than 10 successful start-ups to date. With a unique flair for bringing
+
+design
+
+and new technology together, she ensures users get the most out
+
+of the
+
+experience that will lead Centrality into the future.
+
+Important: The team described above have developed the Centrality Platform. Centrality Platform Pte. Limited will
+enter into an arrangement in relation to the intellectual property comprising the Centrality Platform on arm’slength
+terms with Centrality Investments Limited. However, Centrality Platform Pte. Limited will not itself employ any of
+the people described below. For more information about Centrality Platform Pte. Limited, please see the Centrality
+Platform Pte. Limited section above.
+
+Sources
+1. Capitalism, Socialism and Democracy, Joseph Schumpeter 1942
+2. The Wealth of Nations, Adam Smith 1776
+3. How Venture Capital Works, Bob Zider, HBR Nov-Dec 1998 Issue
+4. The Politically Incorrect Guide to Western Civilization, Anthony Esolen, 2008
+5. Identification of Influencers - Measuring Influence in Customer Networks, C.Kiss 2008
+
+41
+
+

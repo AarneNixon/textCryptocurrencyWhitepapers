@@ -1,0 +1,139 @@
+Whitepaper
+
+From the depths of the Binance Smart Chain,
+for the sake of privacy, Ebirah rises
+
+ebirah.io
+
+ABSTRACT
+
+Every transaction history or balance is public by
+design. It’s always possible to track them via block
+explorers e.g. Etherscan or BscScan. With a specific
+address, anyone can view your history of payments
+from the very first source and throughout the whole
+process. Everything from your holdings to your onchain actions is transparent.
+However, privacy can be necessary to achieve
+financial freedom, and there are cases when you
+might not want to share your data with the public.
+Anonymity is very possible and to make it a part of
+your work doesn’t have to mean imitating the
+
+centralized system.
+
+ABSTRACT
+
+Transparency along with an honest approach are the
+pillars of this project. We believe that most privacy
+oriented solutions could benefit from a helpful tool
+that allows restricted data sharing. While users get to
+protect their privacy and financial freedom, they still
+avoid becoming a part of the centralized system.
+Ebirah is a compliance-related tool. If you ever have
+to reveal the origins or sources of your assets, you
+can provide a cryptographically verified proof of
+every transaction ever made.
+At the same time, Ebirah is a non-custodial privacy
+
+solution, this means that you are the one to decide
+whether to reveal your transactions to a third party
+or keep your data private.
+
+METHODOLOGY
+
+With Ebirah, you can send cryptocurrency or tokens
+anonymously via a non-custodial technology, that is
+based on strong cryptography.
+Ebirah breaks the on-chain link between the recipient
+and the destination addresses. By using a smart
+contract it improves privacy of your transactions. The
+contract accepts token deposits that can later be
+withdrawn by another address. When a new address
+is used to withdraw a token, there is no direct link
+between said withdrawal and the deposit. So all
+transaction data stays private.
+
+Ebirah is an equivalent of a proxy, ensuring that the
+transaction is anonymous with zk-Snarks proofs.
+
+METHODOLOGY
+
+Sweet? That’s not all under the hood.
+What we are using:
+● zk-Snarks
+● Multitransfers and transaction clouds
+● Cross-chain brides to eliminate any tracks
+● Partnership with miners to get fresh avocado coins
+● Cosmos Network integration
+
+TOKENOMICS
+
+500k EBRH maximum supply
+
+15% | 75k
+
+Private sale 0.031 BNB per token
+
+45% | 225k
+
+Public sale 0.034 BNB per token
+
+25% | 125k
+
+PancakeSwap listing 0.04 BNB per token
+
+10% | 50k
+
+Team tokens locked for additional features development
+
+5% | 25k
+
+Marketing and listings
+
+FEES
+
+Up to 5% depending on the complexity of the mixing
+method.
+50% of fees go to a dedicated price floor increasing
+model.
+25% buys EBRH on PancakeSwap,
+25% matches the EBRH and adds it on to the
+liquidity pool via contract, where it is locked
+forever.
+Remaining 50% of fees go towards covering
+architecture costs and maintaining cross-chain pool
+reserves.
+
+ROADMAP
+
+Beta app release Q1 2021
+MVP release with smart contract audit Q2 2021
+Cross chain mixing Q2-Q3 2021
+Cosmos Network Integration Q4 2021
+
+TEAM
+
+Eugeni Koinoff
+Blockchain developer,
+TON and MakerDao contest multiple winner,
+co-founder Seculab (http://seculab.eu/en)
+and Delerex
+
+Gena Koveshnikov
+Blockchain and backend developer,
+CTO Delerex
+
+Konstantin Alekseev
+Full Stack Developer
+
+Stanislav Lopatiev
+Full Stack Developer
+
+CONTACTS
+
+ebirah.io
+twitter.com/ebirahOfficial
+t.me/ebirahAnnouncements
+t.me/ebirahСhat
+
+

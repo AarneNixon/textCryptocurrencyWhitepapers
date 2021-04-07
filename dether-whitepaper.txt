@@ -1,0 +1,812 @@
+Version 7.0
+August 2020
+
+WHAT IS DETHER?
+____
+Dether is an international peer-to-peer network of individuals willing to buy and sell
+cryptocurrency with cash and spend it at physical stores nearby.
+We created the Dether ecosystem to be a bridge between crypto and fiat all over the
+globe. I​ nspired by Satoshi Nakamoto's vision to create a peer-to-peer electronic cash
+system for Bitcoin, coupled with the state of the current, unfair remittance market,
+we decided to create ​an easier solution for financial inclusion that incorporated the
+vast potential of blockchain, available to users across the globe using cash, and
+without the need for a bank account.
+
+WHAT IS THE DETHER APP?
+____
+The Dether App is your cash to crypto on/off ramp. It is a decentralized mobile
+application (dApp) that enables individuals in over 140 countries to buy and sell
+crypto locally with cash — no bank account needed, and no fees taken by us.
+First launched on testnet in 2017, then on mainnet in August 2018, the Dether app
+creates a direct bridge between cash and cryptocurrency. With the Dether App, we
+have built a frictionless solution for individuals willing to trade crypto with others.
+
+WHAT IS THE DETHER PROTOCOL?
+___
+Built on Ethereum blockchain, the Dether protocol provides developers a set of
+decentralized tools to create a bridge between cash and cryptocurrency.
+
+DETHER.IO​ l ​1
+
+1. INTRODUCTION
+
+4
+
+2. CHALLENGES TO CRYPTO MASS ADOPTION AND OBSERVATIONS
+
+5
+
+3. SAY HELLO TO DETHER
+
+6
+
+3.1 A CASH-IN CASH-OUT CRYPTO SOLUTION
+
+6
+
+3.2 THE DETHER PROTOCOL
+
+7
+
+3.3 THE DETHER APP
+
+8
+
+3.4 DETHER FOR SHOPS
+
+10
+
+4. THE DETHER TOKEN
+
+11
+
+4.1 REDUCING NETWORK CONGESTION AND IMPROVING MARKET SAFETY
+
+11
+
+4.2 PROTECTING AGAINST NETWORK TAKEOVERS
+
+11
+
+4.3 STAKING DTH
+
+11
+
+4.4 DETHER ZONING SYSTEM
+
+11
+
+5. THE ROAD TO DECENTRALIZATION
+
+12
+
+5.1 PROGRESSIVE WEB APP WITH REACT
+
+13
+
+5.2 IN-APP WALLET
+
+13
+
+5.3 PEER-TO-PEER MESSAGING
+
+14
+
+5.4 ETHEREUM SMART CONTRACT AND PROTOCOL
+
+14
+
+5.5 REPUTATION SYSTEM
+
+15
+
+6. PROJECT DEVELOPMENT ROADMAP
+6.1 COMPLETED
+
+16
+16
+
+6.1.1 ALPHA LAUNCH
+
+16
+
+6.1.2 DETHER TOUR IN ASIA
+
+16
+
+6.1.3 NEW WEBSITE AND DETHER REBRAND
+
+16
+
+6.1.4 DETHER FOR SHOPS
+
+16
+
+6.1.5 DETHER APP: PROGRESSIVE WEB APP LAUNCH
+
+16
+
+6.1.6 REGISTER A POINT OF SALE ON THE DETHER MAP
+
+17
+
+6.1.7 SELL ETHER FOR CASH
+
+17
+
+6.1.8 BUY ETHER WITH CASH
+
+17
+
+6.1.9 REPUTATION-RELATED INFORMATION
+
+17
+
+6.1.10 INTEGRATION OF ERC20 TOKENS
+
+17
+
+6.1.11 ETH TO ERC20 TOKENS EXCHANGE FEATURE
+
+17
+
+6.1.12 DETHER DESKTOP WEB APP
+
+17
+
+6.1.13 WEB3 VERSION OF DETHER
+
+18
+
+6.1.14 NATIVE APPS FOR iOS AND ANDROID
+
+18
+
+6.1.15 DETHER TOUR IN SOUTH AMERICA
+
+18
+
+6.1.16 SELL ERC20 TOKENS
+
+18
+
+6.1.17 MANUEL TOKEN LISTING
+
+18
+
+6.1.18 INTEGRATION OF NEW CURRENCIES
+
+18
+
+6.1.19 BETA APP TRANSLATIONS
+
+18
+
+6.1.20 ZONING SYSTEM
+
+19
+DETHER.IO​ l ​2
+
+6.1.21 IN-APP CHAT
+
+19
+
+6.1.22 AUTOMATED TOKEN LISTING
+
+20
+
+6.1.23 ADD TOKENS MANUALLY
+
+20
+
+6.1.24 DETHER FOR SHOPS INTEGRATION IN THE DETHER APP
+
+20
+
+6.1.25 REPUTATION SYSTEM
+
+20
+
+6.1.26 ​ENS INTEGRATION
+
+20
+
+6.1.28 ​DETHER NEW APP TRANSLATION
+
+2​1
+
+6.1.30 ​BUY AND SELL BITCOIN AROUND YOUR
+
+2​1
+
+6.1.32 ​DETHER PROTOCOL
+
+2​1
+
+6.2.1 ​POLKADOT CROSS-BLOCKCHAIN INTEROPERABILITY
+
+2​1
+
+6.1.27 ​IN-APP ORGANIC REFERRAL PROGRAM
+
+20
+
+6.1.29 ​BITCOIN INTEGRATION IN THE DETHER WALLET
+
+2​1
+
+6.1.31 ​AFFILIATE PROGRAM
+
+2​1
+
+6.2 IN PROGRESS
+7. JOIN US
+
+21
+2​2
+
+____
+
+DETHER.IO​ l ​3
+
+1. INTRODUCTION
+____
+With the 2007 financial crisis still leering over the economy, the need for a
+decentralized banking solution has come to the forefront of ingenuity. Against the
+backdrop of raising awareness and the need for more trusted global solutions,
+blockchain technology opened doors for new opportunities by using cutting-edge
+technology to serve societies all over the world. The technology initially underlying
+the Bitcoin protocol has the power to have a great impact on our society by
+transforming our industries. Financial services, healthcare services, even
+governance: a wide range of fields could be disrupted using blockchain technology.
+And by disrupting those multiple fields, it could also allow for better inclusion of
+populations left behind by globalization.
+The creation of the first blockchain with Bitcoin has highlighted the fact that
+decentralization is the core value of blockchain. Going through a centralized
+organization or institution has a systemic risk, being that this central entity is in fact
+a single point of failure that can destroy everything that’s below it.
+Blockchains are powerful because they generate decentralization. Decentralization
+has the unique ability to give people control back over their rights, their digital assets,
+their data, their vote and more.
+More than a simple digital currency, cryptocurrencies offer promising opportunities.
+Blockchains enable anyone to access and interact with decentralized applications
+(dApps) and smart contracts. It gives the disruptive ability to build trustless digital
+societies and organizations in which its applications don’t have any kind of
+censorship, fraud or third party interference; societies where you can participate in a
+democratic and autonomous organization with trust, and without previously knowing
+any participants. The power of Blockchain technology and its extremely active
+community opens up a world of possibilities for the future of our society.
+Blockchain technology is flexible and ready for scaling in the near future, with
+prospects for off-chain systems.
+
+DETHER.IO​ l ​4
+
+2. CHALLENGES TO CRYPTO MASS ADOPTION AND
+OBSERVATIONS
+____
+Decentralization is at the heart of blockchain; it is even viewed, in the words of Vitalik
+1
+Buterin, as “blockchain’s entire ​raison d’être .”
+As an example, Ethereum enables anyone to build unstoppable applications: a
+trustless digital world where its applications don’t have any kind of censorship, fraud
+or third party interference. A world where you can participate in a democratic and
+autonomous organizations without previously knowing any participants.
+In fact, when one buys crypto, it then becomes possible to access and interact with
+blockchain. While we’re living in an important time in history, where blockchain
+technology, and especially Bitcoin and Ethereum, are changing the world, one of its
+greatest challenges remains mass adoption.
+At Dether, our goal is to break barriers to crypto mass adoption. We are driven by our
+mission of making it easy for individuals across the globe to buy and sell ether,
+Bitcoin and ERC20 tokens.
+Yet, buying and selling crypto remains a centralized process that’s long, difficult and
+unnecessarily excludes over 2 billion people:
+❖ It takes time and costs money. Registering online, depositing money and
+getting verified takes days or weeks. And time is money.
+❖ Decentralization is at the core of blockchain’s value proposition; yet, central
+entities still play a major role in the process of buying cryptocurrencies.
+❖ The overly complex buying process creates barriers to mass adoption, as
+more than 2 billion adults are unbanked and don’t have the necessary bank
+account or personal identification to buy cryptocurrency.
+
+1
+
+​https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
+
+DETHER.IO​ l ​5
+
+3. SAY HELLO TO DETHER
+____
+
+3.1 A CASH-IN CASH-OUT CRYPTO SOLUTION
+____
+Dether is a network of individuals and businesses willing to buy and sell crypto,
+Bitcoin and ERC20 tokens without a middleman. ​Dether enables individuals to buy
+and sell crypto using cash and spend it at physical stores listed on the Dether map.
+
+DETHER.IO​ l ​6
+
+3.2 THE DETHER PROTOCOL
+____
+Today, many projects and teams are building decentralized applications in various
+industries on top of Ethereum reaching, in most cases, the current crypto
+community. In the very near future, these applications could easily reach across the
+globe, to anyone that has internet access.
+In order to make that happen, we believe that having an easy way to cash-in cash-out
+ether and ERC20 tokens is already needed, and will become more and more
+necessary--not only for the Dether community of users — but by dApps willing to
+target individuals and businesses located in areas where having an access to
+financial services, and thus cryptocurrency, is limited. In order to build an
+increasingly stronger network, we need to facilitate access to it. That’s where the
+Dether protocol comes in.
+The protocol enables dApps to easily build crypto cash-in and cash-out services in
+their dApp. They are able to register new crypto sellers by themselves (and also refer
+them to earn money on their trade), or simply load the list of sellers/shops around
+the users.
+Built on Ethereum blockchain, the Dether protocol provides a set of decentralized
+tools to create a bridge between cash and cryptocurrency.
+It is an open protocol built on top of Ethereum for dApps and crypto projects that
+share a crypto cash-in and cash-out issue.
+Using the Dether protocol, dApps can:
+
+❖ Register​ ​new points of sale in the Dether protocol.​ Similar to 0x’s protocol
+model, dApps have the ability to register new crypto sellers into the Dether.
+This gives dApps the ability to offer users a way to make extra revenue by
+becoming a crypto point of exchange​.
+❖ Get sellers from the Dether protocol​. Similar to an API, dApps can load the list
+of crypto sellers and shops registered in the Dether protocol. Users are able to
+locate the closest crypto sellers around them and shops accepting
+cryptocurrency displayed on the Dether map in order to get in touch with them
+and transact. DApps are able to freely build their own front-end on top of the
+Dether protocol to easily add cash-in and cash-out services to their dApp.
+
+DETHER.IO​ l ​7
+
+❖ List their token on the Dether protocol​. By staking DTH and by providing
+enough liquidity, Dether sellers are able to sell a particular dApp’s token for
+fiat currency across the globe (using a third party liquidity provider).
+
+Dether.js is a javascript library available on GitHub. It’s all a developer needs to build
+an app interacting with the Dether contract, without ever needing to instantiate
+contracts.
+The protocol is promise-based, which allows developers to use the async/await
+syntax.
+
+DISCOVER THE DETHER PROTOCOL
+DOCUMENTATION PORTAL
+
+3.3 THE DETHER APP
+____
+The Dether app enables individuals to buy and sell crypto for cash and spent it at
+physical stores located on the Dether map.
+The Dether app is a decentralized cash to crypto on/off ramp. It’s a peer-to-peer
+marketplace that allows individuals to buy crypto directly from other people.
+Dether offers the unique opportunity to have access to crypto within minutes by
+using a phone and spending cash. Users are able to discover crypto sellers near
+them on the Dether map and chat with them. They can see their crypto/fiat rate and
+the fees that they take when clicking on their profile. Buyers are free to engage a
+conversation with the seller they want to trade with in order to agree on the trading
+conditions and the meeting point to exchange crypto for cash.
+Users can sell crypto, with the freedom to set their own fees. Users can currently buy
+and sell ​crypto​ for cash, and exchange ​crypto​ for a variety of ERC20 tokens (​(by
+using a third-party liquidity provider, ​and exchange those ERC20 tokens for ether).
+The Dether app is available for Android​ and​ iOS as a ​PWA​ (progressive web app).
+
+DETHER.IO​ l ​8
+
+https://get.dether.io
+
+DETHER.IO​ l ​9
+
+3.4 DETHER FOR SHOPS
+____
+By building a decentralized and peer-to-peer ecosystem of cryptocurrency buyers
+and sellers, physical shops are naturally interested in targeting them.
+Dether for Shops offers retailers a simple way to add their shop into the Dether Map​.
+It comes at a moment in history where major online advertisement actors are
+banning any crypto related ads, making it almost impossible for legitimate retailers
+to advertise it online and welcome cryptocurrency holders into their physical store.
+By proposing Dether for shops to retailers​, we hope to fight the censorship of crypto
+ads and allow legitimate businesses to freely target the crypto-community.
+
+DETHER.IO​ l ​10
+
+4. THE DETHER TOKEN
+____
+Just like taxi drivers who must hold medallions to do business in many parts of the
+world, users wishing to operate as sellers or shops must stake a minimum amount
+of DTH tokens for entry. This requirement helps Dether attract only real users willing
+to engage in authentic transactions on the marketplace and Dether map.
+
+4.1 REDUCING NETWORK CONGESTION AND IMPROVING MARKET
+SAFETY
+____
+By allowing any party to easily register and vend on the Dether network, it would be
+reasonable to expect significant counts of low-quality or fraudulent listings. To
+prevent this, a staking mechanism requires that participants have “skin in the game”
+by locking in a minimum amount of DTH prior to transacting.
+
+4.2 PROTECTING AGAINST NETWORK TAKEOVERS
+____
+Network attackers may raise capital and attempt a network takeover by staking large
+amounts to create many fraudulent accounts, increasing network congestion and
+undermining the overall legitimacy of the network. With the DTH token, any attempts
+to aggressively purchase en masse will be met with sharp price increases, which
+would make the attack far more expensive and likely unprofitable.
+
+4.3 STAKING DTH
+____
+In order to have their point of sale registered on the Dether protocol, Dether sellers
+must own a zone. A zone is defined as an area of 1kmx600m. Each zone can be
+owned by staking a sufficient amount of DTH on it. Each zone can be claimed by
+anyone willing to stake more on said zone, thanks to an open auction system running
+on top of the protocol, inspired by the Harberger taxes system.
+
+DETHER.IO​ l ​11
+
+Similar to Dether sellers, shop owners must also currently stake a certain amount of
+DTH (42 DTH or an amount decided by the zone owner) to list their shop on the
+Dether map.
+DApps are also be able to list their ERC20 token in the Dether protocol by staking
+DTH and by providing enough liquidity (by using a third-party liquidity provider).
+Dether sellers are then be able to sell their token for fiat currency.
+
+4.4 DETHER ZONING SYSTEM
+____
+Zones are pieces of land that Dether sellers can “own.” Zones must be “owned” for a
+particular purpose and are won through an auction.
+The auction system takes place like this:
+The user selects the zone they want to own in order to benefit from being more
+visible. For example, the seller would have to own the zone where he or she wants to
+operate.
+Each zone may be empty or possessed by another user. The challenging user can
+outbid the previous owner with more DTH.
+The auction winner “owns the zone” and enjoy the specific benefit for at least 24
+hours. Zone owners lose a percentage of their staked DTH every 24 hours to prevent
+the concentration of power. As we make more progress, community members are
+encouraged to take advantage of our open protocol to create new benefits for zone
+owners.
+
+5. THE ROAD TO DECENTRALIZATION
+____
+Dether’s strategy is to build an accessible network and make buying ether easy for
+individuals who have a smartphone and internet access.
+We strongly believe that having a trustless solution is the key to Dether’s
+development. Users must be able to exchange and trade with one another with trust,
+despite not knowing each other beforehand. In other words, we’ve decided to align
+
+DETHER.IO​ l ​12
+
+our strategy with blockchain’s core principles, where the power of its users, and not a
+central entity, determines its success.
+That’s why we’re following a roadmap that integrates different key elements of
+decentralization on each feature we integrate, in order to propel Dether towards an
+open protocol.
+
+5.1 PROGRESSIVE WEB APP WITH REACT
+____
+In a world full of uncertainty, proposing an application that relies on a decentralized
+infrastructure, while being dependent on a centralized body (like app stores) is no
+longer a viable option.
+That’s why from its outset, we envisioned and built Dether to be compatible with the
+PWA format. The progressive web app is a new format based solely on web
+technologies, allowing a user experience close to native applications, while relying
+only on a web browser. Progressive web apps can be installed with a simple click of
+your smartphone browser, and thus do not pass through the app stores.
+
+5.2 IN-APP WALLET
+____
+Dether uses a standard light wallet with an encrypted private key on the device,
+enabling the user to safely send and receive ether. The user’s private key is created
+on his local device and never sent to any central entity or servers.
+A 12-word seed phrase is generated and associated with the user’s wallet. The
+backup phrase is a combination of 12 random words set in a particular order and
+acting as a tool to recover or back up his wallet. The user, and the user only, is able
+to regenerate their backup phrase on their device in order to back up their wallet.
+We use the standard derivation path “m/44’/60’/0’/0” so our generated seed phrase
+is fully compatible with wallets like Myetherwallet or metamask.
+In order to enforce security, the user is invited to set up a password when creating
+his wallet to secure his or her wallet access. For example, securing Dether Wallet
+with a password enables the user to prevent fraud if their phone is lost.
+
+DETHER.IO​ l ​13
+
+5.3 PEER-TO-PEER MESSAGING
+____
+Globally, every smartphone user has a three out of four chance of having a chat
+application already installed on his or her mobile phone. In addition, each user has a
+one in three chance of using two or more chat applications.
+But there are two major problems with these applications today.
+There are serious concerns in the protection of personal data. Protection is not
+guaranteed, and data is often exploited to the detriment of users. However, some
+messaging applications, such as Telegram, do better than others by encrypting
+end-to-end communications.
+There are also hurdles related to the centralization. Here, the solution has yet to be
+found. That’s why we are working on a peer-to-peer client chat enabling users to
+directly communicate together within the Dether app.
+
+5.4 ETHEREUM SMART CONTRACT AND PROTOCOL
+____
+Ethereum is a protocol based on blockchain technology. This technology allows for
+the exchange of value, like Bitcoin, but also to deploy programs on this protocol.
+These so-called intelligent programs are called “smart contracts.”
+​A JavaScript library is available with all the functions needed to interact directly with
+the smart contract. DApps are able to either add a seller, or get all the sellers
+available on the Dether map. For each seller that registers through a dApp, they’ll
+have the possibility to earn 0.X% of fee on each of their trade. This happens directly
+through the smart contract.
+Main functions dApps are able to call:
+❖ RegisterSeller: add a new seller on the Dether map
+❖ GetSeller: get all the sellers located in a given area
+The protocol is fully open. As a consequence, any dApp are able to register sellers
+and shops into the Dether protocol. As a dApp that’s using the Dether protocol, they
+have the ability to choose:
+DETHER.IO​ l ​14
+
+❖ The countries and/or regions where the dApp is operating their services
+to/from
+❖ Whether their users can see all the sellers displayed on the map or only those
+registered by selected dApps or users that passes a KYC process (if the dApp
+chooses to implement one to register new sellers into the Dether protocol).
+More information about here: ​https://dether.io/en/protocol
+
+5.5 REPUTATION SYSTEM
+____
+The reputation system is based comments and ratings left by users on a seller’s
+point of sale on the Dether map. This information assists buyers in decision-making,
+allowing them to distinguish between all of the sellers displayed on Dether Map.
+
+DETHER.IO​ l ​15
+
+6. PROJECT DEVELOPMENT ROADMAP
+____
+This information reflects the state of the Dether roadmap in August, 2020. For more
+details, please refer to the ​roadmap page​ on the Dether website.
+
+6.1 COMPLETED
+6.1.1 ALPHA LAUNCH
+
+____
+The alpha version of the Dether app was launched on Kovan testnet in October,
+2017. We not only launched the alpha app during this time, but we also collected
+important feedback from early Dether users that we were then able to implement
+into the app.
+
+6.1.2 DETHER TOUR IN ASIA
+
+____
+Participated in local meetups and Dether project promotion throughout Asia.
+
+6.1.3 NEW WEBSITE AND DETHER REBRAND
+
+____
+Released Dether’s new website and rebranded our image to better capture our
+mission of mass adoption for all.
+6.1.4 DETHER FOR SHOPS
+
+____
+We launched Dether for Shops, in March 2018, allowing retailers to register
+themselves on the Dether map and let shoppers know that they accept
+cryptocurrency. Merchants around the world in places like Australia, Japan, and
+Croatia listed their shops on the Dether map.
+6.1.5 DETHER APP: PROGRESSIVE WEB APP LAUNCH
+
+____
+The PWA version of the Dether app was launched on Ethereum mainnet in August
+2018. It functions as the first version of the Dether app, and was originally released
+in 120 countries, with 20 new countries added in September 2018. With the Dether
+progressive web app, users can transact with individuals and shops that accept
+
+DETHER.IO​ l ​16
+
+crypto, exchange ETH for ERC20 tokens and vice versa, find crypto buyers and
+sellers nearby via the Dether map, discuss trade conditions through Telegram and
+schedule an appointment in order to make a transaction, and make a successful
+transaction secured by the Dether smart contract.
+
+6.1.6 REGISTER A POINT OF SALE ON THE DETHER MAP
+
+____
+Smart contract enabling a Person Teller Machine (PTM) to register, edit, and delete a
+point of sale was added.
+6.1.7 SELL ETHER FOR CASH
+
+____
+Enable Dether's PTMs to sell ether for fiat currency.
+6.1.8 BUY ETHER WITH CASH
+
+____
+Enable Dether's PTMs to buy ether with fiat currency.
+6.1.9 REPUTATION-RELATED INFORMATION
+
+____
+Reputation-related information based on the number of transactions and volume of
+ether bought/sold by the user.
+6.1.10 INTEGRATION OF ERC20 TOKENS
+
+____
+Fund and withdraw selected ERC20 tokens available on the Dether wallet.
+
+6.1.11 ETH TO ERC20 TOKENS EXCHANGE FEATURE
+
+____
+Decentralized exchange feature to swap ETH for ERC20 tokens and vice versa ​(
+using a third-party liquidity provider)​.
+
+6.1.12 DETHER DESKTOP WEB APP
+
+____
+The D
+​ ether desktop web app​ was released in October 2018, allowing users to access
+and use Dether right from their desktop or laptop computer.
+
+DETHER.IO​ l ​17
+
+6.1.13 WEB3 VERSION OF DETHER
+
+____
+A web3 version of the app has been completed, enabling dApp stores and
+decentralized browsers to list the Dether app and make it available to their users, as
+well as a manual token listing feature, which allows the team to manually list desired
+ERC20 tokens in the app.
+6.1.14 NATIVE APPS FOR iOS AND ANDROID OF THE BETA VERSION
+
+____
+An iOS version and an Android version of the Dether Beta app have been added to
+the App Store and Play Store respectively. The process was done using Cordova.
+6.1.15 DETHER TOUR IN SOUTH AMERICA
+
+____
+Participation in local meetups, Dether app project promotion, and live demos.
+
+6.1.16 SELL ERC20 TOKENS
+
+____
+Enable Dether People Teller Machines (PTM) to sell ERC20 tokens to buyers (​by
+using a third-party liquidity provider)​.
+
+6.1.17 MANUEL TOKEN LISTING
+
+____
+Manually list ERC20 tokens requested by the Dether community in the Dether wallet.
+
+6.1.18 INTEGRATION OF NEW CURRENCIES
+
+____
+Add selected currencies to the Dether wallet, enabling more individuals to buy and
+sell ether in their local currency.
+
+6.1.19 BETA APP TRANSLATIONS
+
+____
+We wanted to make Dether content easy to access around the globe, especially in
+areas where the Dether community is growing the fastest. With nearly 500 million
+Spanish speakers in the world, over 200 million Portuguese speakers, and 200
+DETHER.IO​ l ​18
+
+million Russian speakers , we hope to reach many new Dether users. The Dether Beta
+app and website have been translated into Spanish, Brazilian Portuguese, and
+Russian. The Dether Beta app has also been translated into French.
+6.1.20 ZONING SYSTEM
+
+____
+We are also refining the Dether map to create a zoning system for premium places
+on the Dether Map for sellers. A ​geohash system​ is used to zone Dether seller
+regions, while a modified ​Harberger tax system​ allows for continuous auction of said
+zones by Dether sellers. Zone owners hold a variety of benefits, and are even able to
+“rent” out their zone to local businesses.
+We use a geohash of size 6 to define users zones, as it correlates to about 1.22km ×
+0.61km, or about a 10-minute walk. With the geohash location data, it’s easy for a
+seller to share the first four characters of his or her country code to verify it on-chain.
+The GeoRegistry.sol smart contract (where the country zone is registered) is as open
+as possible. Other users are able to add other smaller areas (like cities,
+topographical areas, etc.) to the query to see if smaller areas are included in these
+same root zones.
+To own a free zone, users need to stake the licensing fees (the minimum being 100
+DTH) or add more to discourage other people from entering in an auction for the
+zone. To own a zone that’s already occupied, they need first to pay a one time bid fee
+to start an auction (this mechanism is in place to discourage ill-intentioned people).
+Then user A, (or anyone willing to enter the auction), can bid more than user B to get
+the zone over a period of twenty-four hours.
+If user A loses his zone, the user gets their staked DTH minus the taxes he’ll need to
+pay in pro rata of time he gets the ownership.The taxes go to the tax collector
+contracts.
+
+6.1.21 IN-APP CHAT
+
+____
+Peer-to-peer client chat enabling users to directly communicate together within the
+Dether app.
+
+DETHER.IO​ l ​19
+
+6.1.22 AUTOMATED TOKEN LISTING FEATURE
+
+____
+On the horizon is an automated token listing feature, where dApps can automatically
+list their ERC20 tokens on the Dether wallet ​by using a third-party liquidity provider​.
+6.1.23 ADD TOKENS MANUALLY
+
+____
+Enable users to manually add ERC20 tokens in their Dether wallet by using the
+token’s Ethereum smart contract address
+
+6.1.24 DETHER FOR SHOPS INTEGRATION IN THE DETHER APP
+
+____
+Combine Dether for Shops solution with the Dether app: enabling shop owners to
+add their business on the Dether map by staking DTH tokens using the Dether App.
+
+6.1.25 REPUTATION SYSTEM
+
+____
+Allow users to leave comments after they have carried out a transaction together.
+
+6.1.26 ENS INTEGRATION
+
+____
+Implementation of the Ethereum Name Service (ENS) into the Dether app enabling
+Dether users to use their correspondent's ENS domain name when sending and
+selling cryptocurrency. Link the ENS name of an existing ETH address on the user’s
+receiving interface.
+6.1.27 IN-APP ORGANIC REFERRAL PROGRAM
+
+____
+In-app organic and decentralized referral program enabling existing Dether users to
+share the app with others and both get rewarded for that.
+
+DETHER.IO​ l ​20
+
+6.1.28 DETHER NEW APP TRANSLATION
+
+____
+Translate the new Dether app in various languages.
+
+6.1.29 BITCOIN INTEGRATION IN THE DETHER WALLET
+
+____
+Enabling users to fund, store and send Bitcoin (BTC) with their Dether Wallet while
+maintaining the non-custodial aspect of it.
+
+6.1.30 B
+​ UY AND SELL BITCOIN AROUND YOU
+
+____
+Enabling sellers to buy and sell BTC with their Dether app and make money from it.
+
+6.1.31 AFFILIATE PROGRAM
+
+____
+We are creating a decentralized affiliate program based on the Dether Protocol.
+DApps built on top of the Dether protocol have the choice to take a fee on trades
+made by the users the dApp onboarded.
+6.1.32 DETHER PROTOCOL
+
+____
+Enable decentralized applications (dApps) that share crypto cash-in and cash-out
+issues to interact with Dether’s decentralized cash-to-crypto OTC protocol.
+Discover the Dether Protocol documentation here: h
+​ ttps://dether.io/en/protocol
+
+6.2 IN PROGRESS
+6.2.1 ​POLKADOT CROSS-BLOCKCHAIN INTEROPERABILITY
+
+____
+Connecting the Dether App with Polkadot to give users the ability to interoperate with
+a wide variety of blockchains in the Polkadot network​.
+
+DETHER.IO​ l ​21
+
+7. JOIN US
+____
+Find us on:
+Medium
+Twitter
+Facebook
+
+DISCOVER THE DETHER PROTOCOL DOCUMENTATION PORTAL
+
+DETHER.IO​ l ​22
+
+DETHER.IO​ l ​23
+
+

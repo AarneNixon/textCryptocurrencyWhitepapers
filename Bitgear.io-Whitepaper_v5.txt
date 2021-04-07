@@ -1,0 +1,997 @@
+BITGEAR
+
+Bitgear Ecosystem
+Gear Engine
+Gear Portal
+Gear Market
+Gear Defi
+
+www.bitgear.io
+
+Whitepaper
+
+Augustus 2020
+
+Contents
+1
+
+Intro
+
+2
+
+Bitgear Ecosystem
+2.1 Gear Engine
+2.2 Gear Market
+2.3 Gear Portal
+2.4 Gear Defi
+
+3
+
+Why create a token?
+
+4
+
+Token economics and utility
+4.1 Fee reduction
+4.2 Bonus/Staking
+4.3 Burning
+
+5
+
+ICO Economy
+5.1 ICO details
+5.2 Use of funding
+
+6
+
+Roadmap
+
+7
+
+Vision and development
+
+8
+
+Important and legal
+
+9
+
+Data
+
+PAGE 2
+
+Bitgear.io provides professional and simplified tools for
+trading, defi and digital assets, which are wrapped in an
+easy to use ecosystem.
+
+We enable you to invest using a simple automated arbitration
+engine that will create optimal trading opportunities while
+passively investing and use different decentralized financial
+products.
+
+Trading manually should be easy. Our simple to use 1-clickexchange can buy/sell cryptocurrencies at the best prices
+possible. Do you want to use professional tools while
+trading? Bitgear has a professional exchange with logics
+and algorithmic equations at your disposal.
+
+Every part of Bitgear will be connected via a multi-purpose
+wallet that enables trading on an array of exchanges
+without having to register to any of them. Users do not
+need a technical background or know the ins and outs of
+arbitrational trading. Traders are also protected by Bitgears'
+very own privacy layer “Cloak”. We are aiming to become
+the largest, most inclusive, digital asset ecosystem for
+everyday users and professionals alike.
+
+Welcome to Bitgear.io
+
+PAGE 3
+
+Bitgear Ecosystem
+
+Bitgear - Gear Engine
+
+We are building the “Bitgear Ecosystem” to offer a one-stop-
+
+One of the focal points and main components of the
+
+shop for everything cryptocurrency and trading. You will be
+
+ecosystem is “Gear Engine”. Here the everyday user can
+
+able to trade coins directly to other coins of your choice
+
+invest their funds and partake in our arbitrational trading
+
+with one click of a button locking in the best price, derived
+
+engine, thus creating passive income for all users with just
+
+from over twenty different exchanges. Start arbitrage
+
+a few clicks.
+
+trading with almost no effort at all and in just a few simple
+clicks your personal Gear Engine is ready to go.
+
+Backed by an array of arbitration trading algorithms, the
+GearEngine will do all the work for our users. You will not
+
+The Bitgear Ecosystem is derived using four components,
+
+have to choose a method or style of trading, instead, our
+
+two of which will be ready for our initial launch. These
+
+algorithm will take over and choose what it deems the most
+
+components are the “Gear Market” and “Gear Engine”. Both
+
+profitable strategy. Sometimes it will use all the methods
+
+components are currently in an early alpha state and are
+
+available, or sometimes just a few. The most important part
+
+being used and tested to ensure we are ready to go the
+
+is that the users will not have to manage the complicated
+
+instant we fire up the servers and unlock the GEAR token.
+
+part of setting up an arbitration bot, choosing the exchange
+or even direct what it should do. We also only use methods
+
+The ecosystem will be expanded as funding and the
+
+that have a high chance of success, thus reducing both
+
+expansion of the Bitgear team goes forward but we are very
+
+the chance of risk or failure. If the engine does however
+
+proud to already have two great and very efficient tools for
+
+fail on a single arbitration or trading algorithm, Bitgear.io
+
+everyday use practically ready to go.
+
+will bankroll the loss or arbitrage out of our own volume to
+make good on the trade, thus turning a failed attempt into
+
+By using Bitgear.io there will be no need to register or go
+
+a successful one, using one of our many options to market
+
+through the hassle of using other exchanges for buying/
+
+make or internal arbitrage.
+
+selling most tokens and coins.
+
+We aim to create a welcoming and inclusive ecosystem
+that will resonate with all users because of its simplicity
+and feature-rich capabilities that are not currently offered
+by other digital asset trading platforms.
+
+Bitgear is built with the DeFi ecosystem and its users in
+mind. We love the DeFi approach and are creating Gear
+Funds to take DeFi to the next level.
+
+PAGE 4
+
+Our users will not see any of this internal trading, and will
+
+We have a lot of algorithms and market-making tools that
+
+never see a red number on their personal Gear Engine
+
+underpin the Gear Engine and working their magic in the
+
+screen. They will see trade volume, profitability, as well as
+
+background. Our more complicated and advanced options,
+
+what the current Bitrate / win-rate median is at.
+
+of which there are eight at this time, give us an edge over
+the competition.
+
+We have so many fail-safes set up that a chance of a loss
+on a trade is near 0%. Gear Engine allows the user to take
+
+The Gear Engine is in early alpha, with several months of
+
+advantage of every trade regardless of the circumstance.
+
+both data gathering and testing currently being done.
+
+Here is a quick overview of some of our current marketmaking tools, logic, and algorithms. For data on our
+percentage earnings and success rates etc. be sure to
+check out the data part of the whitepaper.
+
+• Volume-weighted average price (VWAP)
+
+Volume-weighted average price (VWAP) – volume changes
+throughout the day/week almost with peaks and valleys at
+predictable ranges each time. VWAP: To execute a large
+order, the algorithm we deploy depends on the time of day
+(minimize the impact on moving market).
+
+• Percentage of Volume (PoV)
+
+Percentage of Volume (PoV) – addresses the problem
+of VWAP by using the live trading volume of the day as
+a benchmark. The idea is to have a constant percentage
+participation in the market to maximize order fill efficiency.
+If the quantity remains to be traded is Q, participation ratio
+is Y, the algorithm computes the volume V traded in the
+period (t-/_\T, t) and executes a quantity q=min(Q,V*Y)
+
+PAGE 5
+
+Bitgear - Gear Market
+
+Bitgear - Gear Portal
+
+The Gear Market is a 1-click-exchange that enables our
+
+For our more advanced traders that want full control of their
+
+users to buy or sell the most popular coins with the click of
+
+trading pairs and want the possibility of the different types
+
+a button, all while getting the best market price.
+
+of buying/selling mechanisms, Gear Portal is the perfect
+
+This is done by scanning prices of the chosen currency
+
+tool. A professional traders playground with an array of
+
+on up to twenty different exchanges and buying/selling
+
+tools at your disposal.
+
+via the cheapest market prices available until the order is
+filled. This creates a cheaper average price than you could
+
+The Gear Portal is not only a multi-purpose wallet. It enables
+
+achieve without our system.
+
+our users to trade on any exchange without going through
+the hassle of registration, and is packed with a wide array
+
+To ensure liquidity at all times we may also use our own
+
+of
+
+automatic trading logic and algorithms. Instead of
+
+liquidity and arbitraging engine to take a favorable trade for
+
+switching exchanges the user simply uses the Gear Portal,
+
+our user if it makes the trade cheaper than what the user
+
+this will give them access to all the top exchanges and
+
+could have done on their own. A single buy/sell order will
+
+trading pairs, and all the common trading mechanisms
+
+trigger a series of events in the background which leads to
+
+needed to trade at an advanced level. Here you will have
+
+our user getting the cheapest price the market has to offer
+
+charts and the needed tools for technical analyses all
+
+at that exact moment.
+
+embedded within our ecosystem.
+
+We put out multiple orders on multiple exchanges almost
+
+The logic system and trading algorithms are very advanced
+
+instantaneously as our own liquidity is used as a buffer to
+
+and easy to use and can be managed without the need
+
+enable instant 1-click exchanging of assets to our users.
+
+of a technical background. Easy to use, professional, and
+
+The Gear Market is in early alpha and the private demo is
+
+highly effective is what we are going for. In our Gear Portal
+
+ready the moment the whitepaper is released.
+
+ecosystem you are able to set everything from cost average
+buying, automatic accumulation, price triggered buying/
+selling, to more complicated logic like percentile activated
+partial buying/selling or price tracing percentile buying/
+selling.
+
+Algorithm and logic creation will be subject to a community
+bounty program where we will honor the best and brightest
+ideas with certain bounties depending on popularity. This
+will be an ongoing effort over the whole lifespan of the
+company to insure involvement of the community for future
+development.
+
+All of this is achieved without ever leaving the comfort and
+safety of the Bitgear Ecosystem. We will in turn ensure
+highest security standards and take on the complete risk of
+fund loss away from our users.
+PAGE 6
+
+Bitgear - Gear DeFi
+Due to current demand from our customers, we are also
+
+We envision this as an easy way for all of our users to be able
+
+creating Gear DeFi. Anyone that would like to have some
+
+to get exposure to a diversified portfolio of various funds,
+
+part of their assets invested in this new and exciting asset
+
+and hedging mechanisms all within a legally regulated
+
+class for the longer term will be able to use Gear DeFi and
+
+environment where your equity is secured at all times.
+
+its wide range of available products.
+
+Bitgear.io is currently looking into the possibilities of
+acquiring a full ﬂedged banking license within the EU.
+
+Gear DeFi will be a feature-filled ecosystem with special
+tools ranging from classic funds to full DeFi aggregators
+
+GEAR Economy
+
+enabling yield farming to the average user.
+
+Total Supply: 91,000,000 GEAR
+Initial Circulating Supply: 69,975,000 GEAR
+
+This will include a DeFi lending and staking platform as well
+
+Presale Rounds: 49,500,000 GEAR 1
+
+as the Bitgear.io private Defi network. Our multi-purpose
+
+Marketing: 16,500,000 GEAR 2
+
+wallet will revolutionize passive investing and adoption of
+
+Team: 19,000,000 GEAR 3
+
+DeFi products from different providers without the risk of
+
+Liquidity: 6,000,000 GEAR
+
+revealing your identity or having to go through the hassle
+of lengthy KYC procedures. Our DeFi aggregator will allow
+very simple to use, 1-click yield farming options, and a wide
+variety of decentralized finance tools for both the technical
+trader and everyday investor.
+
+PAGE 7
+
+Use of funding
+The total supply of GEAR is 91,000,000, which will
+
+The funds will be used to ensure further development of the
+
+be represented as an ERC20 token on the Ethereum
+
+platform and website as well as guarantee our project team
+
+blockchain. If we move to create our own chain we will
+
+can stay 100% focused on continuing to develop the tools
+
+enable a swapping mechanism at that time.
+
+within the Bitgear ecosystem.
+
+Some of the tokens will be subject to a regulated lock-up
+
+Up until now this was accomplished by using our own
+
+and will vary depending on contractual agreements. GEAR
+
+funds and bootstrapping the project without any outside
+
+tokens are subject to B2B practices and will only be given
+
+source of funding or investment. New partnerships and the
+
+to seed investors and strategic partners.
+
+hiring of new members of our team will ensure a steady
+
+10% of the tokens, namely the development token
+
+and continuous rise in quality and the development to a full
+
+allocation, will be subject to a timed lockup. The liquidity
+
+decentralization of our platform.
+
+tokens represent 5% of the total circulating supply and will
+be used to provide liquidity. 65% of all tokens will be sold
+
+The formation of a large support team will be one of our
+
+to supporters of the project that believe in the long term
+
+main goals coming out of the funding. This is to ensure
+
+growth.
+
+maximum customer satisfaction and minimal reaction
+time to any support questions our community might have.
+
+We will be able to re-acquire tokens in the form of a buyback for a token burn in any way we deem necessary. This
+
+A part of the funding will be used to hire marketing
+
+includes acting as a normal buying entity on the secondary
+
+managers and launch a marketing campaign which will aim
+
+market or our own exchange.
+
+to spread our new exciting website and its unique approach
+and possibilities to the masses. Our goal is to appeal to the
+casual user and score in the area of simplicity.
+
+Lastly, we will be using the largest portion of our liquidity on
+our trading engine as this will require the largest investment
+in both time and resources. Finishing the Gear Engine will
+greatly improve our ability to capitalize on arbitration and
+market making opportunities.
+
+PAGE 8
+
+Bitgear - Roadmap
+
+PAGE 9
+
+Where are we currently and what have we already achieved?
+
+Why create a token at all?
+
+Our arbitrage engine is up and running, and we are already
+
+One of the important questions we asked ourselves when
+
+seeing (with limited funds) the capabilities of the platform.
+
+we started this project was “why create a token?”. We
+
+A lot of components are already tested and are in the MVP
+
+aim to create a completely decentralized ecosystem. One
+
+stage with most of the technical development having
+
+which will not be subject to the wrongdoing of a centralized
+
+already been completed.
+
+economic system, where small businesses and individuals
+are not hindered by the political and financial motivations
+
+We are currently looking at potential partnerships that can
+
+present in centralized entities.
+
+help with decentralization. This project has been years in
+the making and we are already using the engine on our
+
+To be able to scale at a later date and go the immutable
+
+personal portfolios while using this opportunity to continue
+
+way of decentralization, we created a token that would
+
+to gather data from real-time trading and simulations. We
+
+open up many possibilities and enable us to get closer to
+
+will continue to work to get our liquidity pool up and running.
+
+our goal of being a company that is acting on behalf of our
+
+This will enable us to put all of our work into a full ﬂedged
+
+users and partners. One of the possibilities is horizontal
+
+business and maximize our possibilities.
+
+scaling where we could still interact with the Ethereum
+mainchain via ERC20 token but run on a sidechain of
+Ethereum or another chain with bridging capabilities using
+a lightweight consensus mechanism. We also aim to use
+decentralized computing power to run our algorithms and
+straight logic engines.
+
+With these reasons in mind, we decided to create a token
+that will be integral to our ecosystem in both scale and
+utility. As you will see in the utility of our token we are also
+going for an approach where we engage and incentivize
+within our ecosystem in a way that is beneficial for token
+holders.
+
+PAGE 10
+
+TOKEN economics and utility
+The GEAR token acts as fuel for the Bitgear ecosystem. To
+
+Overall GEAR will comprise four underlying utilitarian
+
+use our Gear Engine arbitrage tool you will have to hold a
+
+components. Burning, bonus, fee reduction, and fueling.
+
+certain amount of GEAR (to be announced), which will be
+
+This gives the token utility, while also not acting as a
+
+used as a “fuel” component that makes the engine run,
+
+security. Our goal is to not be classified as security since
+
+allow token transfers to and from the Bitgear.io wallet as
+
+this would come with a lot of regulations, we will gladly
+
+part of an investment pool.
+
+change this. As regulations and laws change going forward
+we will continue to evaluate and will consider making
+
+GEAR acts not only as the wheel that moves your
+
+changes that benefit our token holders.
+
+investments and makes them participate in the Bitgear
+ecosystem, but also gives you a bonus payout on top of your
+
+This is why we opted to go with a utility token instead of a
+
+payout depending on the current ratio of earnings made by
+
+security token. We want everyone to be equally rewarded
+
+the Gear Engine.
+
+for being an investor with us. We will go more in-depth
+to the different utilitarian components of our token in the
+
+While GEAR is being used for the use cases shown above,
+
+following;
+
+there will also be a burning component. Depending on the
+revenue the Gear Engine generates we will burn a certain
+amount of tokens. These burn events will not have a fixed
+time but a fixed logic behind it. The timing of the burn will
+be spontaneous while still using the formula that applies to
+
+1. GEAR - Fuel
+
+our burning mechanism. Essentially we do not want traders
+
+2. GEAR - Fee reduction
+
+to speculate on the burning mechanism and timing that is
+
+3. GEAR - Bonus (staking)
+
+meant to reward holders of GEAR.
+
+4. GEAR - Burn
+
+Since we want to give our investors the best experience
+possible while participating in our ecosystem we feel that
+this is a good approach to the burn mechanism.
+
+PAGE 11
+
+GEAR - Fuel
+The token is needed to fuel the engine that enables the
+
+The burn rate of GEAR as fuel will be set to 0.01% per 24h
+
+arbitraging (aka Gear Engine) component of the system. It
+
+for the initial start of the platform but will change due
+
+will be used to enable various tasks and fuel the system
+
+to adoption changes and improvements the site will be
+
+as a whole. How much GEAR is needed will depend on the
+
+constantly undergoing. Do keep in mind that we will also
+
+general usage of the platform itself and will vary depending
+
+have a random token burning event depending on the total
+
+on the trading volume as a whole, as well as the number
+
+revenue of the site.
+
+of users that are running their engines simultaneously.
+You will always be shown how much Gear Engine time the
+
+Work in progress so to speak and is definitely subject to
+
+amount of GEAR provided will be able to achieve and how
+
+change to a fair and modest rate. We will always disclose
+
+high the bonus for the given amount will be.
+
+the new burn rates on our social media ahead of time.
+though the timing will vary so speculative trading based on
+
+A minimal burning process of the GEAR that is used will
+
+the burn can be avoided..
+
+get triggered and will depend on various factors such
+
+The burn rate may be subject to community voting at
+
+as the total network load of the Ethereum network, GAS
+
+some point so everyone will get to enjoy holding GEAR and
+
+needed and fee structure of the different exchanges that
+
+participating as a community on decisions that can impact
+
+are currently used for arbitraging the different investments.
+
+the platform as a whole.
+
+For the period of the trading process, your GEAR will be
+locked in place but can be removed anytime by simply
+pausing the Gear Engine process. Your unused GEAR + your
+investment will be returned to your personal wallet after
+a short unlocking period. The burn and the bonus will be
+calculated on the next usage of the Bitgear.io Gear Engine
+platform.
+
+PAGE 12
+
+GEAR - Fee reduction
+When using our Bitgear ecosystem there will be trading
+
+Both the lockup and bonus will be communicated with you
+
+fees which are paid in GEAR or in ETHEREUM if no GEAR
+
+ahead of time in a clear and simple manner.
+
+is used in the process. Using GEAR for trading fee payment
+is rewarded by a 50% reduction of the fees overall. This
+
+Our bonus tier system will reward GEAR holders based on
+
+greatly benefits our users and our Bitgear ecosystem by
+
+the amount they are holding. This tier system will grant
+
+rewarding GEAR holders while also creating a way for the
+
+bonuses in the form of fee reductions of up to ~33% for the
+
+Bitgear team to incrementally buyback GEAR ensuring a
+
+Gear Engine. So at the maximum tier we would be deducting
+
+smooth burning process when the time has come.
+
+10% from the earnings instead of 15%. The exact number of
+fee reduction of the different components of the ecosystem
+
+As we will be introducing new and exciting expansions
+
+will be determined as we continue to test the system on a
+
+to our ecosystem the fee utility will rise with every new
+
+larger scale. Increased liquidity will enable us to fine-tune
+
+introduction and will benefit the holders and users of the
+
+the settings and create a structure that best benefits our
+
+token more with every step forward. We intend to use GEAR
+
+users. We are currently looking at implementing a three-
+
+as a fee reduction mechanism but it will also have other
+
+tier-system with every tier requiring 100% more tokens than
+
+utility within the entire ecosystem.
+
+the previous one.
+
+*A special use case (due for further testing) the Gear Fund
+will be closed and private, at first will be a management
+
+GEAR - Burning
+
+fee reduction of 0.5% when using GEAR to pay said fees.
+
+As the engine runs and generates revenue for our customers
+
+So depending on the form we can legally go forward with
+
+and for Bitgear.io itself the GEAR token will be equipped with
+
+our Gear Fund, will also use GEAR in face to face financial
+
+a burning feature that will be performed at random intervals
+
+advising.
+
+dependent upon the revenue generated during that time
+period. This means that we will burn tokens equivalent to a
+
+GEAR - Bonus/Staking
+
+certain percentage of the profit of Bitgear.io. Unlike what is
+
+When using GEAR to fuel the different components on
+
+commonly done by other exchanges these burns will not be
+
+Bitgear.io you will also be rewarded with a bonus depending
+
+at fixed dates or at a fixed sum but rather at random times
+
+on the amount of GEAR you stake. So not only will it fuel
+
+at fixed rates to counteract speculative trading of the GEAR
+
+your engine with a minimal amount of GEAR but it will also
+
+token.
+
+provide you with a bonus (for example on the amount of
+arbitrational earnings that are made).
+
+GEAR burning will be completely based on income and
+will burn a 20% equivalent of our profits in token value and
+
+Over time we will lower our earnings as a thank you to
+
+reduce the total supply of the GEAR token this way.
+
+the community for using and locking your tokens. Staked
+tokens will be locked up for a fixed timeframe and fixed
+amount with a rising tier system depending on the total
+amount staked.
+
+PAGE 13
+
+Vision and future development
+We have a lot of different goals for the future of our
+
+Full decentralization of the platform by using the power
+
+platform. One of the goals is to become a very large
+
+of decentralized computation to run the Gear Ecosystem
+
+liquidity provider for current centralized and decentralized
+
+without the need for servers. The engine is very lightweight
+
+exchanges. We also aim to act as a tool to smooth out
+
+and already optimized for maximum efficiency and speed.
+
+arbitrational spikes between exchanges by introducing a
+
+This greatly benefits the steps that are needed to make the
+
+large amount of volume by market making. This can lead to
+
+platform truly decentralized. The speed (tps) is sufficient
+
+a more homogenous market overall and eliminate the need
+
+to sustain the speed we need for our arbitrational trading
+
+to be “on the right exchange” when it comes to trading.
+
+engine and service we provide to our customers. While this
+is our ultimate goal we will always put user experience as
+
+Listings and new cryptocurrencies that have just been
+
+our priority and will move to a decentralized system only
+
+added for trading can suffer from a huge arbitrational gap
+
+when we are happy with the speed and overall experience it
+
+which we can both take advantage of and help reduce.
+
+will provide our users.
+
+The larger our personal investment assets are the more
+we can act in this fashion. This also lowers our fees since
+
+Our biggest goal is to make Bitgear.io an ecosystem
+
+exchanges profit from the liquidity and smoothing out of
+
+that can provide a multitude of services that any person
+
+market movements considerably. We aim to get most of
+
+interested in cryptocurrency can benefit from. This includes
+
+the exchanges to a similar price as quickly as possible and
+
+the inclusion of a FIAT gateway and the usage of our
+
+eliminate huge gaps in price in the process.
+
+ecosystem with said FIAT without the need to exchange
+it beforehand (thus reducing the need for high fees). For
+
+Scaling in terms of speed and maximum arbitrational
+
+this we plan to set up our company at a crypto-friendly
+
+yield is currently the goal and will be our top priority in the
+
+environment within the European Union. This move has
+
+development of GEAR. We aim to be able to arbitrage even
+
+already been done by some of the biggest exchanges and
+
+the smallest of spatial arbitrages by reducing the fees to
+
+will make the implementation of FIAT a realistic goal. Our
+
+an absolute minimum, making even small trades profitable.
+
+idea is that everything crypto should be able to be done
+
+This will be achieved by providing the exchanges with a
+
+in a few clicks. This includes trading arbitration like a pro
+
+high amount of liquidity and trade volume for which an
+
+or exchanging your currency into another, all while feeling
+
+honorarium in form of fee reduction is usually granted as
+
+confident it will be bought or sold at the best price possible.
+
+written previously. Exchanges love liquidity and we intend
+to provide exactly that. In terms of speed we will be building
+our physical servers very close to the largest exchanges
+that are currently operating and will spread servers across
+the globe when speed becomes the only last competitive
+point, which it currently isn’t. Our testing indicates that we
+are already faster than most of the competition due to our
+streamlined logic and algorithms.
+
+PAGE 14
+
+Important and legal
+We as a company do not intend to stay still at any given
+
+Depending on your current residency our token might be
+
+moment or let this whitepaper hinder us in any way but act
+
+deemed a security in your country. If you are unsure if this is
+
+more as a guideline on things we want to achieve and goals
+
+the case please check with our local authorities or contact
+
+we have set for Bitgear.io. This is why we want to distance
+
+a lawyer that is familiar with cryptocurrency and securities
+
+ourselves legally and state that this whitepaper is not to
+
+investment.
+
+be seen as fixed regulations or even “the law” but rather a
+roadmap that is at heart an encouragement to adaptation
+
+As of this moment we see our token as a utility tool for the
+
+and ﬂexibility.
+
+usage of our platform, and will serve in the near future as
+a catalyst in our focus in becoming a fully decentralized
+
+We believe you need to adapt whenever change is needed
+
+exchange. We can not guarantee anything in the nature of
+
+or an opportunity presents itself ready to be seized to be
+
+economical market value, or even tradability of the token
+
+a winner in the end. Only by keeping possibilities in mind
+
+outside of our ecosystem, but will always work towards
+
+and taking chances we can truly ﬂourish. And we definitely
+
+providing the best basis for maximum success.
+
+intend to do so while keeping our users best interest in the
+focus of our decision making.
+
+Data:
+Data on 30 day straight logic arbitrage with only guaranteed
+
+Although we have a licensed financial advisor in our ranks
+
+earnings: Coins/Tokens: ETH VEN NEO GAS
+
+we can not deem this financial advice since we are not
+
+due to the very limited liquidity only these are currently
+
+able to analyze your personal financial situation and offer
+
+possible in real world application use on only 2 exchanges
+
+tailored advice afterwards.
+Average earnings in percent = 0.96% per day
+Investing in the token we provide, is solely to partake in the
+Bitgear.io economic system that runs on a token, which
+
+Trades that might appear as duplicate entries are not
+
+provides integrated utilities and is controlled by smart
+
+duplicates but in fact they represent multiple trades that
+
+contracts that run on the Ethereum blockchain. We do not
+
+we compiled out of 100s of the exact same trade to slim
+
+condone trading of the GEAR token on a secondary market.
+
+it down a bit.
+
+PAGE 15
+
+Appendix
+
+PAGE 16
+
+

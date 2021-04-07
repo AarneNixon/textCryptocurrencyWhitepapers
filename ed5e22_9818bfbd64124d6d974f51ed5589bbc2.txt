@@ -1,0 +1,529 @@
+White Paper
+
+Table Of Contents
+2
+
+Abstract
+
+3
+
+Introduction
+
+4
+
+Potential of crypto and DeFi
+
+6
+
+Yield Farming - A note
+
+8
+
+Verox Explained
+
+9
+
+Token distribution
+
+19
+
+Disclaimer
+
+24
+
+ABSTRACT
+OVERVIEW
+The perfect use of
+Technology
+
+Are you thinking of trading or investing in
+cryptocurrencies? You may be worried that it is nothing
+but ‘risk’, which may be stopping you. Making a profit is
+the basic goal of investment or trading but the
+inconsistent nature of cryptocurrencies raises huge risks.
+Usually, investors seek the advice of analysts and not every
+decision ends up in success.
+Here is how you can make excellent returns with your
+crypto. With Verox you can analyze any chosen token and
+find the best up-to-date DeFi and crypto investments
+available on the market. Whether it’s a recommended
+swap on Uniswap, a leveraged long/ short position on ftx,
+or a spot btc/altcoin buy, Verox uses artificial intelligence
+to scan thousands of cryptocurrencies and massive sets of
+databases in search of the optimal investments.
+
+Artificial intelligence can do wonders with data forecasting. Based on past and present data, the
+future can be predicted. As the predictive analytics of AI is based purely on data, decision
+making becomes easier.
+Verox offers you the clever strategies that will help you earn more cryptocurrencies by putting
+your crypto at the disposal of the best liquidity pools in the market. Verox investors can make
+use of the Verox platform to maximize their gains by holding VRX tokens and earn high interest
+on their holdings. The Decentralized Finance is the Wild West of the current investment market
+and Verox will help you to land in the best platforms to put your crypto tokens to work.
+Verox has built a multidisciplinary, extremely ambitious and passionist team, combining experts
+from the fields of data science, machine learning, software engineering and experienced
+professional crypto investors and traders with many years in the sector.
+
+3
+
+Introduction
+The total crypto market cap has passed the $1 trillion for the first time ever in January 2021.
+Considering the recent uptick in the market value of bitcoin and cryptocurrencies, the
+cryptocurrency space has attracted significant attention, where some people consider them
+as actual currencies and others as investment opportunities. Analyzing and researching
+currencies on a daily basis in a bit to find the best investment opportunities, has always been
+a tough mission, which consumes a lot of time and requires a lot of knowledge and
+experience in the field.
+That’s where Verox steps in. With its unique investment solution and the first of its kind
+backed by AI, Verox aims to bring the benefits of investing in the crypto space to everyday
+people and crypto enthusiasts alike.
+“Artificial intelligence is to trading what fire was to the cavemen.” That’s how a key industry
+player described the impact of a disruptive technology on said industry. In other words, AI is
+a game changer for the crypto market.
+While humans remain a big part of the trading equation, AI plays an increasingly significant
+role. According to a recent study by U.K. research firm Coalition, electronic trades account
+for almost 45 percent of revenues in cash equities trading. And while hedge funds are more
+reluctant when it comes to automation, many of them use AI-powered analysis to get investment ideas and build portfolios.
+
+4
+
+Our Mission
+
+Verox was created out of a clear need to guide beginners
+and professionals alike on the hottest investments in
+the crypto field. Verox will save investors’ time and effort
+searching and analyzing a lot of cryptocurrencies in the
+hopes of finding the next ‘moonshot’.
+We aim to help people get excellent returns by putting
+their money in a trustworthy AI investment management
+that supports faster, more confident decisions to achieve
+better performance.
+
+Our Vision
+
+Verox envisions the huge growth of crypto and
+decentralized finance in the current market and in the
+near future. The goal is to serve people by outdating the
+drawbacks of centralized traditional finance ecosystems,
+and to become most used digital platform for all of one
+crypto and defi financial needs.
+
+Our Background
+
+Verox CEO is a seasoned expert with more than seven
+years of experience trading and investing in crypto
+professionally. He’s equally a prominent figure in the
+crypto community, popular for his largely pinpoint
+accuracy with trading recommendations. He’s joined by
+other pro crypto traders and investors with several years of
+experience to form a multidisciplinary team of extremely
+ambitious and passionate people.
+The amazing team behind Verox consists of a group of
+dedicated experts across various fields like data science,
+AI, software engineering among other domains. The team
+has previously worked on several projects to success.
+
+5
+
+The potential of Crypto and DeFi
+
+Decentralized Finance or DeFi is an open and permissionless finance system, which is way
+better than the existing systems in the market today. As it is open and permissionless, there
+is no centralized authority governing it and literally, anyone can join the community without
+any restrictions. Verox takes the fruit of DeFi to everyone including people who are
+unbanked or who are from underdeveloped nations. There is no requirement for you to
+indulge yourself in DeFi based financial systems. All you need to have is a smartphone and
+an internet supply. Out of the total world’s population, only 0.6% are aware of
+cryptocurrencies and they enjoy the perks of crypto wallets as well. And still, 1.6% of the
+world’s population do not even have banking access. Verox needs to somehow change this
+and is successful so far with its efforts. Having unbanked people clearly depicts the failure of
+traditional finance systems in the market.
+Since DeFi applications are deployed on top of the blockchain networks, they inherit the
+characteristics of blockchain, most notably transparency, and security. With DeFi, the
+governance of the financial systems is no tedious with the help of smart contracts. There is
+no chance for dispute since there is legal evidence of data. The use of DeFi also enhances
+transparency, and data ownership, thereby offering advantages over the conventional
+systems.
+
+6
+
+What is so special about DeFi?
+Cryptocurrency has been the best use case of blockchain technology so far. But the advent
+of DeFi over the course of time has changed this. DeFi has a lot of potential day-to-day use
+cases that made revolutions in the finance and investment sectors. DeFi leads the market
+when it comes to the provision of liquidity. DeFi applications involve no custodians and are
+permissionless. Yield farming is one of the notable DeFi applications that makes a relentless
+way for passive income. using permissionless liquidity protocols. Verox allows people to earn
+passive income with their crypto assets through a decentralized ecosystem built on the
+ethereum blockchain.
+
+“Don’t make your assets sit idle,
+instead put them to work with Verox”
+
+7
+
+A note on Yield Farming
+Though there are a lot of ways to earn passive income in the market, nothing can head on to
+compete with the genuineness and transparency of cryptocurrencies. This is why
+cryptocurrencies are always at the trend though they are volatile. Though crypto is new and
+is been in existence only for a decade, people keep their complete trust in it, because it is
+easier and safer than the existing ways. The traditional investment schemes had broken the
+promise of 40% monthly returns. So, people started adopting new strategies, especially yield
+farming that offers 3 digit returns. The crypto players either big or small get a chance to win.
+Yield farming by definition is getting rewarded for holding your crypto assets. Yield farming
+functions almost like staking but they actually are not similar. Staking involves holding your
+crypto assets in a web wallet and getting paid for it. But the vision of yield farming is much
+wider. The user adds liquidity to the pool. The person who adds liquidity is called Liquidity
+Providers (LPs) and the collection of funds is called Liquidity pool. The collected liquidity is
+used for market-making and the liquidity providers ger rewards for providing liquidity.
+
+8
+
+What is Verox?
+
+Verox is the first-ever digital platform for all in one crypto and defi financial needs. It’s a
+personalized advisor, product analyzer, and financial content provider. Verox uses AI to create
+a personalized match between the user’s financial needs and the best-suited, most
+cost-effective financial products. It analyzes any chosen token and finds the best investments
+in real-time in crypto, defi, and other markets, by scanning markets and processing massive
+sets of data to locate the optimal trading/investing opportunities.
+
+9
+
+The power and growth of AI
+Bank interest rates are negative or close to zero within the EU. And with alternative
+tech-driven investment solutions taking centre-stage, AI is increasingly changing the
+financial landscape. AI is being used to improve and enhance the investment model for
+investment firms, becoming the preferred tool to gain a competitive edge. It’s the new
+frontier for investment management and finance companies – but what is AI and what does
+it entail?
+
+What is Artificial Intelligence?
+While there’s no universally accepted definition, AI refers in general to the ability of machines
+to exhibit human-like intelligence and a degree of autonomous learning.
+
+10
+
+Verox and AI, How it works?
+Verox is a platform that processes massive diverse sets of data By gathering and processing
+data gleaned from various sources (news articles, social media postings, financial statements,
+charts) and runs a variety of predictive models to come up with defi-ranking rating. With the
+help of AI, the company recommends the daily top defi tokens using pattern recognition
+technology and a price forecasting engine.
+Verox find the optimal and best investment in real time in defi and yield farming, by
+scanning markets to locate optimal trading/investing opportunities. It uses AI to allow its
+users to “mitigate risk while knowing in real-time the potential for returns.
+It can provide up-to-date information on product movement throughout the supply chain,
+analysis of weather forecasts and outline search engine topics, then use this information to
+determine a profitable investing strategy
+If the system identifies a trend that is not followed by the market, our software applies a
+counterstrategy to solve the situation on a real‐time basis, adapting to the new scenario.
+During this non‐stop analysis, research and optimization process, all new movements and
+patterns are stored to be used in up‐coming scenarios, helping solve future market
+situations.
+The A.I system is constantly monitored, updated and overseen by a team of experienced
+traders and coders. This ensures that human intuition and foresight are not removed from
+the product offering, rather only the inherent emotional risk with discretionary trading.
+The Verox Digital Wealth Management application will rationalize the entire defi investment
+process. The parameter-driven customization features deliver a solution with a unique level
+of flexibility to meet your needs.
+
+11
+
+The resulting information on each cryptocurrency is then deeply analysed using diversified
+parameters. First, technical analysis using a combination of technical indicators and methods
+such as moving averages, pivot points, Fibonacci levels, momentum indicators, chart
+patterns recognition, etc. Further fundamental analysis is conducted using development
+news, overall team strength, social media postings, and a numeric price prediction engine
+based on historical price data.
+As an AI-powered DeFi and crypto portfolio manager, the potential for adoption is clearly
+massive for Verox
+
+12
+
+How far is AI in trading/investing forecasting
+reliable?
+Talking about the reliability factor, machines alone cannot make the best choice or here, the
+decision! Human intelligence and artificial intelligence can together make wonders. The
+forecasting can help potential investors and traders to make smart decisions based on
+intelligent insights.
+
+The combined efforts of the human
+brain and AI is known as hybrid
+intelligence!
+
+Human expertise is fused with AI for extra-human abilities in speed, data-crunching power,
+accuracy, and broadened overall market understanding. This hybridization creates powers of
+insight never before possible in crypto investment, allowing our investors to enjoy
+heightened access, performance, confidence, and transparency.
+Machine learning follows an algorithm and similarly, our human brains also follow one. The
+skillset of these two varies, computers can beat the world’s best chess player but the
+emotions or perception cannot be achieved as humans do. So, the complementary abilities
+of human intelligence and AI can make a hybrid model.
+Verox is using hybrid intelligence to help or advise traders to make smart trading. These
+forecasting techniques are presently used in different industries. The advanced models of
+hybrid intelligence will be the next big thing to witness in the future.
+
+13
+
+Why choose Verox?
+Investing your hard-earned money is important than saving it. Saving your assets will not let
+them grow, rather their value decreases over the time horizon. Verox helps you find proper
+liquidity pools in the market that offer great returns through the use of bespoken technologies. Though there are some genuine investment systems that help the traders with the right
+trading signals, the process does not seem to be fair. They act as intermediaries between the
+traders and the assets. With Verox, the investors can enjoy complete control over their assets
+as there are no third-party involved in the entire process.
+
+14
+
+High Accuracy
+We aim for absolute accuracy and constant transparency. Verox processes massive diverse
+sets of data by gathering and processing data gleaned from various sources (crypto data
+sites, news articles, social media postings, financial statements, charts,...) and runs a variety
+of predictive models and deep learning algorithms to come up with crypto & defi-ranking
+rating.
+
+Verox is innovative
+Using AI and developed machine learning models, The platform recommends the daily top
+crypto & defi tokens and provide deep analysis to any chosen cryptocurrency using
+diversified parameters combining technical analysis such as charts patterns recognition,
+fundamental analysis (development news, team rating, social media posts,...) and a
+history-based price forecasting engine.
+
+High-interest rates
+Earn VRX while you sleep. Staking puts your assets to work, with high annual interest rates.
+Verox offers the best interest rates in the market when compared to the leading
+cryptocurrency exchanges and staking pools. Verox offers high degree of transparency and
+anonymity. You can enjoy complete control over your assets. Stake them and take them
+whenever you like as there is no threshold period for holding.
+
+15
+
+A revolution in investment
+
+The traditional investment systems depend on third-party payment processors or other
+financial institutions for their operation. Verox requires no arbitration from third parties and
+is independently operable. In the case of traditional financial systems, the resolution for
+controversial issues has to be taken by the judicial bodies. This increases the complexity of
+the process. Since Verox is decentralized, everything is automated by smart contracts and
+there is no room for controversies. A smart contract is nothing but a magical piece of code
+deployed on the ethereum virtual machine to automate a particular task and the task here is
+the collection of liquidity and distribution of rewards. The process is so genuine and
+error-free as there is no human intervention.
+With Verox comes the next big thing in crypto. Verox lets human expertise meet artificial
+intelligence. The A.I system is constantly monitored, updated, and overseen by a team of
+experienced crypto traders and coders. Human expertise is fused with AI for above human
+abilities in speed, data-crunching power, accuracy, and broadened overall market
+understanding. This hybridization creates powers of insight never before possible in crypto
+and defi investment, allowing our investors to enjoy heightened access, performance,
+confidence, and transparency.
+
+16
+
+What happens in the liquidity pool?
+You all know that adding liquidity to the pool will get you rewards. But do you know what
+exactly happens behind the scene? What do the pools do with the liquidity you offer? In
+layman’s terms, the funds in the liquidity pool are used for lending. Also, there will be
+borrowers who use these funds for market making. Here the funds are transferred from a
+person without any use case to the person who is in desperate need of it. This is the wise use
+of assets rather than making them sit idle in the wallets. The amount of work done by your
+crypto assets in the market increases.
+In earlier days, there were only a couple of ways to earn from the crypto assets. Either trading
+or mining. Mining cryptocurrencies is no easy task. You need a lot of computational power to
+mine. Mining is nothing but the validation of blocks in the blockchain. Whenever a
+transaction occurs, it has to be validated before appending it in the blockchain. This
+validation is done by the miners and for which they are rewarded with native
+cryptocurrencies of the blockchain. This is what we call a Proof of Work consensus. Mining
+also escalates the electricity costs. Trading crypto assets also requires proper analysis of the
+market trends. When you do not buy the right assets at the right time, your crypto journey
+might come to an end. Verox provides an opportunity for the crypto players to earn from
+crypto assets other than mining and trading.
+
+17
+
+Liquidity locking Explained
+Verox offers locked liquidity to please the investors and gain their trust. Here is what liquidity
+locking in simple terms. When a liquidity provider adds liquidity to the pool, he receives pool
+tokens in return to represent their stake in the pool. This pool token can be redeemed for the
+locked tokens at any time. This means that liquidity providers can remove liquidity anytime.
+After the liquidity is removed, if that particular token is not listed in any other exchanges, the
+buyers cannot sell the tokens anywhere, meaning they are scammed. The scammers could
+create a new token, promote them, and provide huge liquidity to the pool. This large
+liquidity makes the buyers believe that the token has a healthy market and tract them to
+buy. Once they bought a good number of tokens, the scammers might remove liquidity all of
+a sudden and take away all the ETH in the pool.
+To avoid this, the concept of liquidity locking was introduced. When the liquidity is locked,
+the tokens in the pool are bounded by time restrictions. Until the threshold time, the tokens
+cannot be redeemed, i.e. the market is available for the next few months. Verox uses a similar
+concept in the liquidity pools. This boosts the confidence of the investors and portrays Verox
+as a genuine and trustworthy platform in the market.
+
+18
+
+Use of Proceeds
+
+Token Distribution
+
+19
+
+Tokenomics
+
+Contract Address
+0x87DE305311D5788e8da38D19bb427645b09CB4e5
+
+20
+
+Roadmap
+
+November 2020
+
+21
+
+•
+
+Vision & Comprehensive Project Research — How to create a solid qualityfocused and friendly-user product and to apply the token’s best economic
+factors
+
+•
+
+Recruitment of team —We built a multidisciplinary, extremely ambitious
+and passionist team combining experts from diverse fields, with a proven
+track record.
+
+•
+
+Planning: BRD, SRF, FSD
+
+•
+
+Legalization and regulation
+
+•
+
+Creation of smart contract
+
+•
+
+Deployment of token
+
+•
+
+Smart contract audit
+
+December 2020
+
+22
+
+•
+
+Website Launch + whitepaper
+
+•
+
+Beginning of pre-sale stage
+
+•
+
+Smart Marketing — using unconventional marketing & promoting methods
+and strategies to create awareness, trust and community growth
+
+•
+
+Airdrop and giveaways for the community
+
+•
+
+Partnering with the top agency for crypto marketing & PR — flexe.io
+
+•
+
+Listed on more than 20 Presales trackers. Marked as “hot” and ranked
+second place on the 2nd most searched ICOs/Presales website on
+google icohotlist
+
+•
+
+Reached out by the legendary Business Consultant & Strategist, top digital
+Marketer and angel Investor Brian D. Evans — Inc.500 Entrepeuner
+
+•
+
+Exponential growth on social media (25k twitter followers + 2800 telegram
+group members)
+
+•
+
+Creating promotional and instructional videos in different languages
+Mentioned by the top crypto influencers (Such as @VEGETACRYPTO1 ,
+@ CryptoNekoZ , @JoshRoomsburg ,… )
+
+•
+
+Start of Designing Verox app
+
+•
+
+Developing AI and machine learning algos
+
+•
+
+Partnership with Hotbit for immediate exchange listing after presale stage
+
+January 2021
+•
+•
+•
+•
+
+Hybrid Intelligence: Complementing AI Systems with Human Intelligence
+Cointelegraph Press Release and increasing marketing
+Development & Testing — React Native, NODE.JS
+Staking Dapp
+
+February 2021
+•
+•
+•
+•
+
+DEX & CEX Exchanges listing + Providing & Locking liquidity for minimum
+one year
+Feature on coinmarketcap, coingecko, coinpare,…
+Strategic partnerships (including partnerships with oracle analytics
+applications)
+Deployment of Verox app
+
+March - April 2021
+•
+•
+•
+•
+•
+
+23
+
+Launch of Verox app Android & IOS
+Verox web application
+Massive app digital marketing
+Integrating VRX payments in Verox app
+Planning Future developments
+
+Presale Details
+•
+•
+
+1 ETH = 60 VRX
+The presale will continue until the 35000th token is sold.
+
+Disclaimer
+This material should not be taken as the basis for making investment
+decisions, nor be construed as a recommendation to engage in
+investment transactions. Trading digital assets involves significant risk and
+can result in the loss of your invested capital. You should ensure that you
+fully understand the risk involved and take into consideration your level of
+experience, investment objectives and seek independent financial advice
+if necessary.
+
+24
+
+

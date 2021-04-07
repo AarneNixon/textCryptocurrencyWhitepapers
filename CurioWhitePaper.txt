@@ -1,0 +1,795 @@
+curioinvest.com
+Supercars just got affordable
+
+WHITEPAPER
+Version 1 - June 2019
+
+`
+
+Curio AG, Werdenbergerweg 11, 9490 Vaduz, Liechtenstein
+info@curioinvest.com
+Version 1 Draft for illustration purposes & open review. Subject to change.
+
+WHITEPAPER Version 1 - June 2019
+
+“
+
+Collectible cars as an
+asset class have
+significantly
+outperformed many
+traditional indices such
+as the S&P 500 and the
+Dow Jones over the
+past 15 years.
+
+01
+
+02
+
+WHITEPAPER Version 1 - June 2019
+
+Table
+of Contents
+Executive Summary
+
+03
+
+Problem Statement
+
+04
+
+Vision
+
+06
+
+Asset Tokenization
+
+06
+
+Why CurioInvest?
+
+07
+
+How and when is a vehicle resold?
+
+09
+
+Procurement, provenance and storage
+
+10
+
+Sources of revenue
+
+11
+
+Market Overview
+
+12
+
+Main markets and competitive landscape
+
+13
+
+Compliance
+
+13
+
+CurioInvest Roadmap
+
+14
+
+Team and Partners
+
+15
+
+Core team
+
+15
+
+CurioInvest’s Advisory Board
+
+16
+
+CurioInvest’s Partners
+
+16
+
+Disclaimer
+
+17
+
+WHITEPAPER Version 1 - June 2019
+
+03
+
+Executive Summary
+Collectible cars as an asset class have significantly outperformed many traditional indices
+such as the S&P 500 and the Dow Jones over the past 15 years. However, this investment
+opportunity has only been available to a small group of elite investors due to the following
+barriers of entry to the market:
+truly rare cars are sold through narrow, elite networks
+such vehicles often cost hundreds of thousands of dollars, which means that the
+minimum stake is very high
+expertise is required to store and maintain the vehicles
+specialist knowledge is needed to verify the provenance of the vehicles
+the purchase, insurance and sale of the vehicles involves a lot of administration and
+paperwork
+In combination, these factors have made this asset class even more exclusive than hedge
+funds, venture capital or private equity funds.
+CurioInvest’s mission is to make it possible for everyone to invest in rare collectable vehicles.
+Based in Switzerland and Lichtenstein, CurioInvest is launching an online platform powered
+by blockchain technology which enables investors to purchase security tokens directly
+backed by limited edition collectable cars. These tokens allow investors to share in the profit
+if the value of the underlying vehicle increases.
+In this way, CurioInvest is eliminating the barriers to entry to the collectable car market. As a
+fractional stake in a vehicle can be purchased online for as little as $500, the minimum
+investment required to enter the market is dramatically lowered, enabling investors to
+diversify by purchasing stakes in multiple vehicles.
+In addition, the CurioInvest platform will greatly simplify the investment process – investors
+can register and purchase tokens online, while CurioInvest Invest manages the purchase,
+maintenance, insurance and sale of the vehicle, as well as all related administration and
+paperwork.
+The CurioInvest team has a proven track record of profitably trading investment-grade cars
+at Mercuria Helvetica AG and has access to a pipeline of over 500 rare, collectable vehicles.
+In addition, CurioInvest has partnered with Mechatronik GmbH to store and maintain the
+vehicles.
+The CurioInvest Invest platform will bring unprecedented transparency, security and
+liquidity to a market that was previously only accessible to elites. Ultimately, CurioInvest
+aims to become the Nasdaq of collectable vehicles, hosting an exchange where automotive
+security tokens can be traded in near real time.
+
+04
+
+WHITEPAPER Version 1 - June 2019
+
+Problem Statement
+According to the Knight Frank Luxury Investment Index, over the 10-year period up to Q2
+2018, collectable vehicles offered a return on investment of 289%. The asset class
+outperformed all other alternative investments under review over this period, including
+coins (182%), wine (147%), jewelry (125%), and watches (73%).
+
+Despite the size and attractiveness of this asset class, only a small group of elite investors
+have had the resources necessary to overcome the barriers to entry to the market:
+
+Restricted Access
+
+01
+
+Many collectable cars are not sold on the open market. Limited edition
+collectable vehicles are manufactured in such small numbers that
+limitations are placed on who can purchase them. To be eligible to purchase
+such a vehicle, prospective buyers usually need to demonstrate that they
+have owned multiple other vehicles of the same brand. In addition,
+membership of an owner’s club or vintage fan group may be a prerequisite
+for purchase.
+
+High Capital Requirement
+
+02
+
+The most valuable and lucrative collectable cars have high initial purchase
+prices. Once purchased, the vehicle needs to be insured, stored and
+maintained, incurring additional costs before a profit can be realized. While
+economies of scale could play a role in reducing such costs, they are rarely
+leveraged in the industry at present.
+
+WHITEPAPER Version 1 - June 2019
+
+05
+
+Expertise
+
+03
+
+Assessing the provenance and value of a car requires specialist knowledge.
+This is particularly important when a car is bought on the secondary market,
+as the vehicle needs to be inspected by an expert mechanic and all
+documentation needs to be verified.
+
+Despite the size and attractiveness of this asset class, only a small group of elite investors
+have had the resources necessary to overcome the barriers to entry to the market:
+
+High Transaction Costs
+
+04
+
+Transaction costs are driven by two main factors - non-transparency and
+illiquidity. For each vehicle, prospective buyers need to conduct a costly due
+diligence process in order to verify the provenance of the car. The lack of
+transparency in the existing market erodes trust, meaning that
+documentation needs to be independently verified. In addition, collectable
+cars are often sold at auctions or through private sales, which makes it
+difficult to accurately ascertain the current market value of a vehicle.
+Ultimately, this leads to an opaque, illiquid market, hurting both buyer and
+seller.
+
+Limited Diversification
+
+05
+
+A collectable car has to be purchased outright, which is in stark contrast to
+most other asset classes where fractional ownership is possible. Even
+relatively affluent investors cannot afford to own many collectable vehicles,
+and are thus exposed to greater risk due to the low degree of diversification.
+
+06
+
+WHITEPAPER Version 1 - June 2019
+
+Vision
+CurioInvest Invest’s vision is to enable everyone to invest in and profit from collectable cars.
+By tokenizing investment-grade vehicles, CurioInvest will open up the collectable car
+market to thousands of new investors.
+The CurioInvest team has a proven track record of profitably trading investment-grade
+vehicles at Mercuria Helvetica AG and has partnered with Mechatronik GmbH to provide
+the expertise necessary to store and maintain the vehicles. Such partnerships will enable
+CurioInvest to manage the entire life cycle of the investment in a cost-effective manner and
+to leverage economies of scale.
+CurioInvest’s goal is to become the world’s leading platform for the purchase and trade of
+collectable security tokens.
+
+Asset Tokenization
+Asset tokenization refers to a process
+whereby a digital asset is created which is
+directly backed by a physical asset such as a
+car. The main benefits of asset tokenization
+are as follows:
+Liquidity/Divisibility: Tokenization enables
+clients to invest in an expensive asset like a
+supercar, without the need to purchase the
+vehicle outright. While this is theoretically
+possible using conventional financial
+mechanisms, investors typically have to pay
+a so-called “illiquidity discount” of up to 2030%. By using tokenization, these costs can
+be avoided.
+Diversification: Tokenization enables
+investors to diversify risk by buying tokens in
+multiple cars. This means that if one car
+does not perform well, the loss can be offset
+by profit on other cars.
+Lower Cost: As fewer middlemen are
+involved, fees are much lower.
+Less bureaucracy: Compared to a
+conventional investment, there is very little
+bureaucracy because everything can be
+controlled and monitored online.
+Faster Settlements: The higher liquidity
+and automated nature of the system mean
+that transactions are much quicker.
+
+WHITEPAPER Version 1 - June 2019
+
+07
+
+Why CurioInvest?
+CurioInvest is well positioned for the following reasons:
+CurioInvest is not starting from scratch. CurioInvest’s sister company Mercuria Helvetica AG
+has developed lasting relationships with many top-tier automotive companies including
+Pagani, Ferrari and Mercedes-Benz. Thus, CurioInvest has access to a pipeline of over 500
+rare, collectable vehicles, ensuring exclusive investment opportunities from day one.
+CurioInvest has developed a tried-and-tested operational model to manage the entire life
+cycle of an automotive investment. CurioInvest has established contacts with car
+maintenance companies, insurance companies and tax-free physical storage providers.
+CurioInvest has established legal entities in Switzerland and Lichtenstein. Switzerland offers
+a stable regulatory environment and investor-friendly laws, while the base in Lichtenstein
+allows CurioInvest to legally sell security tokens throughout the European Economic Area,
+which comprises all 28 member states of the EU and the three EEA EFTA states Norway,
+Iceland and Lichtenstein. Switzerland has become a global hub of blockchain innovation,
+ensuring that CurioInvest will have direct access to the right technical talent to scale the
+business.
+The CurioInvest team and its partners consist of experts with a proven track record in the
+automotive, IT, financial and investment industries.
+
+08
+
+WHITEPAPER Version 1 - June 2019
+
+Business Model
+CurioInvest Invest aims to use modern technologies such as crowdfunding and asset
+tokenization to bring many new small- and mid-level investors to the market. This is
+achieved in a 5-step process for each vehicle:
+
+CurioInvest Invest identifies a rare classic or modern collectable car that is
+priced competitively and likely to increase in value over time. (CurioInvest
+Invest is a spin-off of Mercuria Helvetica AG, which has a proven track
+record of trading supercars profitably for 4 years. CurioInvest’s founders
+and advisory board have combined industry experience of over 50 years.)
+
+To finance the car, CurioInvest Invest launches a crowdfunding campaign.
+Investors and car enthusiasts can now invest in the vehicle. The funds are
+stored in an escrow (smart contract). If the crowdfunding campaign is
+successful, CurioInvest Invest will acquire the vehicle and place it in
+storage with its maintenance partner, Mechatronik Fahrzeug- Und
+Motorentechnik GmbH. If the crowdfunding campaign cannot be
+completed within three months, investors will be refunded everything
+except third-party payment processing fees.
+
+Once the vehicle is purchased, CurioInvest Invest issues security tokens
+representing the value of the car. These tokens are then distributed to the
+investors, proportional to the size of their investment. The security token
+confers the right on the tokenholder to share in the profit if the value of
+the vehicle increases.
+
+The token is distributed to a wallet which is automatically generated
+when the user signs up on the CurioInvest Invest platform. The token can
+be traded peer to peer. The token also has an associated ISIN
+(International Securities Identification Number) and thus, it can
+potentially be traded on forthcoming digital exchanges like a
+conventional security.
+
+If the conditions for disposal are met, the vehicle is resold (see: Section 3.1,
+below). All tokenholders receive a share of the proceeds of the sale
+proportional to their token holdings minus costs (storage, maintenance
+and insurance, for example) and the CurioInvest performance fee of 20%
+(which will be waived for the Ferrari F12tdf).Tokenholders who have
+acquired the token OTC or on a secondary market are obliged to sign up
+on the CurioInvest Invest platform and become a verified user in order to
+cash out. A KYC check is required for all investments.
+
+WHITEPAPER Version 1 - June 2019
+
+09
+
+The following example is intended to represent a model case:
+
+Cost base value (890'000 tokens)
+Gross sales price
+
+EUR 890,000.00
+EUR 1'100'000.00
+
+Gross profit
+
+EUR 210'000.00
+
+Deduction of running costs (insurance, storage, maintenance etc)
+
+- EUR 25,000.00
+
+Net sales profit
+Deduction of performance fee for CurioInvest Invest (25%)
+- not applicable to the first car on the platform (Ferrari F12tdf)
+Net appreciation
+Distribution revenue
+
+How And When Is A
+Vehicle Resold?
+For all of the cars listed on the platform,
+CurioInvest is targeting a 20% IRR before the
+payment of fees. To achieve this, the vehicle
+will be offered for sale to selected collectors,
+on online platforms and on the CurioInvest
+Invest website.
+A sale is subject to the following conditions:
+In the first two years, a sale can only take
+place if the gross sales price is 25% above
+the purchase price.
+In the three subsequent years, a sale can
+only take place if the gross sales price is
+20% above the purchase price.
+After five years, there is no minimum sale
+price.
+
+The proceeds from the sale of the vehicle
+(gross sales proceeds) are used to cover
+ongoing costs such as insurance,
+maintenance and storage. This results in the
+net sales proceeds.
+Afterwards, a 20% performance is deducted
+from the net profit. This will not be levied on
+the first car on the platform (Ferrari F12tdf).
+
+EUR 185 ' 000.00
+- EUR 46 250
+EUR 138.750
+EUR 1'028'750
+
+10
+
+WHITEPAPER Version 1 - June 2019
+
+Procurement, Provenance & Storage
+Investing in collectable cars requires expertise, including knowledge of how to procure and
+value a vehicle. Once a car is procured, it must be stored and maintained in ideal conditions
+to retain its value. Thus, specialized facilities and technical talent are required in order to
+invest in this asset class.
+
+Provenance
+Particularly in the case of classic cars, the provenance of a vehicle plays a key role in
+determining its value. For this reason, authentic documentation and a verifiable history are
+crucial. Assessing the provenance of a vehicle requires specialist knowledge and years of
+training. Over 4 years of successfully trading collectable vehicles, CurioInvest’s sister
+company Mercuria Helvetica AG has built up the knowledge and expertise necessary to
+make these judgements.
+
+Safeguarding the Assets
+CurioInvest will store vehicles at a highly secure and climate-controlled storage
+facility near Stuttgart, Germany managed by our partner, Mechatronik GmbH.
+The site has 24-hour security and investors will be able to monitor the vehicle via
+webcam.
+
+WHITEPAPER Version 1 - June 2019
+
+11
+
+Sources Of Revenue
+CurioInvest Invest has three main sources of revenue:
+1.
+
+5% finder’s fee: when a car seller lists a vehicle on the CurioInvest platform, we charge
+the car seller a 5% fee if 100% of the car tokens are successfully sold.
+
+2. 20% performance fee: in the case of a successful exit scenario when the vehicle is
+resold, CurioInvest takes a 20% performance fee after covering costs
+3. Subscription fees when the platform achieves sufficient scale:
+We are planning to implement a tiered “freemium” subscription model, outlined below.
+Everybody will be able to sign-up and invest for free. For $10 a month, users will get early
+access to new cars on the platform and additional digital content and privileges. For €70 a
+month, users get personal one-on-one service and physical access to the cars at events.
+CurioInvest will waive all subscription fees for the first 12-18 months after deployment or
+until a critical mass of 10k-20k users has been reached.
+
+Basic
+
+Premium
+
+VIP
+
+FREE
+
+€9.99
+
+€70.00
+
+monthly
+subscription or for
+free if invested 10k+
+
+(monthly subscription
+or for free if invested
+100k+
+
+Basic features &:
+
+Plus features and:
+
+Early access: invest in cars
+before they are open to
+everyone
+
+Personal account
+manager
+
+Basic (For Free)
+
+Personal account with
+portfolio management
+interface
+Access to premium cars:
+pipeline of over 500 cars
+Multi-currency: Invest in
+traditional currencies.
+No return, no fee: you
+don’t pay any fees unless
+you investment succeeds.
+Full service investment:
+Curio manages every
+aspect of the investment
+such as transport, storage
+and insurance
+Invest securely: highest
+possible security,
+decentralized and
+encrypted through DLT &
+FMA compliant
+
+Documentation required
+for taxation
+Content about cars
+(magazine)
+Livestream events where
+members can “ask the
+expert” about features of
+the supercars at the
+storage facility in
+Germany
+
+Invitation to events where
+members can see the
+vehicle in person
+Invitation to events where
+members can test drive a
+selection of supercars
+
+12
+
+WHITEPAPER Version 1 - June 2019
+
+Market Overview
+The collectible car market has been one of the strongest performing alternative asset
+classes of the last decade, with values increasing 289% in the 10-year period up to Q2 2018.
+To some extent, this is being driven by the globalization of the collectible car market, which
+has meant that there are now more international bids for the most sought-after collectible
+vehicles. In addition, the market has expanded from the core strongholds of the US and
+Europe to other regions such as China and the Middle East, which provides some degree of
+insulation from local economic fluctuations.
+The sector is by no means limited to classic cars – exclusive limited edition supercars have
+also exhibited strong growth in value in relatively short periods of time. For example, while
+the Ferrari F12tdf initially sold for a price believed to be in the region of $500,000 in October
+2015 (to a select group of buyers), an example was sold for $1.5 million at private auction in
+June 2016.
+
+The collectible car market is ultimately driven by scarcity. McKinsey predicts that by 2030,
+80% of the car industry’s profits will stem from ACES (automated, electric, connected and
+shared) vehicles and services. We believe that the impending reorganisation of the car
+industry towards alternative drivetrains such as electric and hydrogen will serve to increase
+the cachet and value of the petrol supercars of today.
+Thus, while the growth in value of blue-chip vehicles slowed in 2018, we believe the
+fundamentals remain strong for targeted investments in highly exclusive classic and limited
+edition supercars. Indeed, according to Hagerty, three of the eleven most expensive cars
+ever sold exchanged hands in August 2018.
+
+WHITEPAPER Version 1 - June 2019
+
+13
+
+Main Markets &
+Competitive Landscape
+CurioInvest operates in the EEA, EU and Switzerland. CurioInvest is in competition with a
+small number of other companies which offer similar types of crowdfunded profit
+participation. While similar companies such as Bitcar.io and Rallyrd.com have attracted
+investment in Australia and the US respectively, no competitor of similar size currently
+exists in the EU/EEA region.
+
+Compliance
+CurioInvest will take advantage of recent developments on the regulatory front in
+Lichtenstein, which provide the blockchain sector with a stable legal foundation. For each
+vehicle listed on the platform, CurioInvest will register the associated asset-backed STO
+directly with Lichtenstein’s financial regulator, the FMA. Each security asset will be issued an
+ISIN which is compliant across the EU.
+
+14
+
+WHITEPAPER Version 1 - June 2019
+
+CurioInvest Roadmap
+Jul 18
+CurioInvest Capital AG
+incorporated in Zug,
+Switzerland
+
+June 19
+CurioInvest Launch Pad Game
+Offering
+The public Sale of CurioInvest
+Tokens is planned for 2Q 2019. After
+CurioInvest Game becomes
+available, global users would be able
+to register in waiting list to be the
+first to participate when security
+token platform is available
+
+July 19
+Prospectus draft ready
+compatible with DLT
+
+Aug 21
+New Financial Products
+Issuance
+Explore potential benefits
+of Ferrari Index, Porsche
+Index.
+
+Oct 18
+CurioInvest AG
+incorporated in
+Liechtenstein, Vaduz
+
+Nov 18
+Platform tech ready,
+regulatory draft
+confirmation
+https://github.com/CurioInv
+estTeam
+
+Aug 19
+Inaugural Issuance STO
+Ferrari F12tdf Sale
+
+Feb 2020
+CurioInvest may collaborate
+with other entities by
+launching a DAICO to offer all
+or some services in a fully
+tested and decentralized
+environment
+https://github.com/CurioInves
+tTeam/daico-contracts
+
+WHITEPAPER Version 1 - June 2019
+
+15
+
+Team & Partners
+Fernando Verboonen
+Founder & CEO
+
+Before CurioInvest Capital, Fernando served as the CEO at Mercuria
+Helvetica, a fintech investment firm specializing in exotic cars.
+Fernando’s extensive experience includes participating in the exit of
+Swiss portfolio firm CVC. He has also worked at Sunrise and an ETH
+spin-off, kooaba. Additionally, Fernando was involved in venture
+capital projects in software at Siemens VC. He started his career at
+Mercedes Benz. Fernando holds an MSc from ETH Zürich with
+training at Oxford and is an ESKAS Fellow.
+https://www.linkedin.com/in/rverboonen/
+
+Valerie Halter
+
+Co-Founder & CEO
+Add Image
+here
+
+International Business Developer with +8 years experience in the
+financial industry supporting Vontobel and Mercuria Helvetica, with
+a focus on highly exclusive cars. Valerie is a car enthusiast, with
+gasoline in her veins. After working in the banking sector, she
+decided to pursue her passion for cars and shifted her focus to the
+fintech sector.
+https://www.linkedin.com/in/valeriefhalter/
+
+Jan Van den Broeck MA
+Legal & Compliance
+Add Image
+here
+
+Jan provides CurioInvest with independent legal advice to ensure
+regulatory compliance and a smooth onboarding process for
+investors. He works as an external consultant at Google in San
+Francisco, specializing in automotive search features. Prior to
+moving to Silicon Valley, Jan gained experience as an in-house
+lawyer at an investment firm in Belgium. He holds a master’s degree
+in financial law.
+https://www.linkedin.com/in/jan-van-den-broeck-38304055/
+
+Vladimir Kislinkskii MSc
+Chief Technology Officer
+Add Image
+here
+
+Prior to joining CurioInvest, Vladimir led tech development for
+numerous DLT projects. He is an expert in Solidity, and is currently
+focused on the DAICO concept for the CurioInvest environment.
+https://www.linkedin.com/in/vladimir-kislinskii-468a15153/
+
+16
+
+WHITEPAPER Version 1 - June 2019
+
+CurioInvest’s Advisory Board
+CurioInvest assembled an advisory board consisting of highly successful entrepreneurs and
+industry experts.
+
+Tom Frey
+
+Dr. Tom Frey has been working for Baumgartner Mächler since 2009 in the area of civil law
+and civil procedural law. His work has a main focus on litigation proceedings in the banking
+sector as well as in other corporate law matters and disputes. In addition, he advises and
+represents clients in contract, employment and tenancy law matters as well as in the area
+of data protection and legal matters relating to the blockchain technology. Admitted to the
+Swiss Bar
+
+Matthias Niedermüller PhD
+
+Securities Law DLT Advisor to Liechtenstein Crypto Exchange together with Jimmy Wales.
+https://www.linkedin.com/in/matthias-niederm%C3%BCller-393871aa/
+
+Harald Steiger
+
+Board member and advisor of several Swiss startups. Car collector.
+
+Frank Rickert
+
+Mechatronik CEO, among Europe’s biggest private collection car garages.
+https://www.linkedin.com/in/frank-rickert-12195097/
+
+Boris Paskalev, MIT
+
+CEO Deep Code
+Project Manager & Strategist
+https://www.linkedin.com/in/bpaskalev/
+
+CurioInvest’s Partners
+Mechatronik Fahrzeug AG
+
+Mechatronik are experts when it comes to the maintenance, storage and restoration of
+collectable vehicles.
+
+Mercuria Helvetica
+
+Mercuria Helvetica advises clients on how to strategically invest in vehicles. The firm also
+provides a wide range of services in the premium vehicle sector.
+
+RABAG
+
+RABAG is a company specialized in the storage of collectable vehicles.
+
+18
+
+WHITEPAPER Version 1 - June 2019
+
+Disclaimer
+This document does not constitute an offer or sale of the CurioInvest Tokens or any other
+mechanism for purchasing CurioInvest Tokens (such as, without limitation, a “Simple
+Agreement for Future Tokens” related to the CurioInvest Tokens). Any offer or sale of the
+CurioInvest Tokens or any related instrument will occur only based on definitive offering
+documents for the CurioInvest Tokens or the applicable instrument.
+The Whitepaper does not purport to be all-inclusive or necessarily contain all the
+information that a prospective investor may desire in investigating the Company, and may
+be subject to updating, withdrawal, revision or amendment. No representation or warranty,
+express or im-plied, is or will be given by CurioInvest ("The Company"), their advisers or any
+of their respective direc-tors, shareholders, partners or employees as to the accuracy or
+completeness of the Whitepaper or the information or opinions contained therein.
+
+Any projections given are illustrative only and none of the projections or assumptions
+should be taken as promises on the part of the Company nor should they be taken as
+implying any indication, assurance or guarantee that those assumptions are correct or
+exhaustive. The Whitepaper contains forward-looking statements. These statements relate
+to, amongst other things, the Company's future prospects, developments and business
+strategies. Forward-looking sta-tements are identified by their use of terms and phrases
+such as "believe", "could", "envisage", estimate", "intend", "may", "plan", "will" or the negative
+of those, variations or comparable expressions, including references to assumptions.
+
+The forward-looking statements in this Whitepaper are based on current expectations and
+are subject to risks and uncertainties that could cause actual results to differ materially
+from those expressed or implied by those statements. If one or more of these risks or
+uncertainties mate-rializes, or if underlying assumptions prove incorrect, the Company's
+actual results may vary materially from those expected, estimated or projected.
+Given these risks and uncertainties, potential investors should not place any reliance on
+forward looking statements. These forward-looking statements are made only as at the
+date of the Whitepaper. Each recipient of the Whitepaper must make their own
+independent as-sessment of the information provided by the Company and is
+recommended to seek inde-pendent advice on the contents here of from an authorized
+person specializing in advising on investments of the kind in question.
+Neither the Company, nor any of their advisers, nor their respective directors, partners,
+repre-sentatives, agents, consultants or employees shall be liable for any direct, indirect or
+conse-quential loss or damage suffered by any person relying on statements or omissions
+from the Whitepaper and to the maximum extent permitted by law, all conditions,
+warranties and other terms which might be implied by statute, common law or the law of
+equity and any such liabi-lity are expressly excluded. The Whitepaper should not be
+construed as a recommendation to prospective investors by the Company or any of their
+respective officers to invest in the Company or its token.
+
+WHITEPAPER Version 1 - June 2019
+
+19
+
+No other rights are associated with the CurioInvest token, in particular no share in the
+future company earnings or future capital flows, nor is there any right for repayment.
+Nothing herein constitutes an offer to sell, or the solicitation of an offer to buy, any tokens,
+nor shall there be any offer, solicitation or sale of tokens in any jurisdiction in which such
+offer, solicitation or sale would be unlawful. You should carefully read and fully understand
+this business plan and any updates. Every potential token purchaser will be required to
+undergo an on-boarding process that includes identity verification and certain other
+documentation, which you should read carefully and understand fully because you will be
+legally bound. Please make sure to consult with appropriate advisors and others. This
+business plan describes our current vision for the CurioInvest Platform. While we attempt to
+realize this vision, please recognize that it is dependent on quite a number of factors and
+subject to quite a number of risks. It is entirely possible that the CurioInvest Platform will
+never be implemented or adopted, or that only a portion of our vision will be realized. We
+do not guarantee, represent or warrant any of the statements in this business plan, because
+they are based on our current beliefs, expectations and assumptions, about which there can
+be no assurance due to various anticipated and unanticipated events that may occur.
+Please know that we plan to work hard in seeking to achieve the vision laid out in this
+business plan, but that you cannot rely on any of it coming true. Blockchain,
+cryptocurrencies and other aspects of our technology and these markets are in their infancy
+and will be subject to many challenges, competition and a changing environment. We will
+try to update our community as things grow and change, but undertake no obligation to do
+so.
+
+Supercars just got affordable
+
+curioinvest.com
+
+

@@ -1,0 +1,1543 @@
+Table of Contents
+1 Executive summary
+
+4
+
+2 The DApp gaming market
+
+5
+
+2.1 Market overview
+2.1.1 Games market
+2.1.2 DApps
+2.1.3 Crypto games
+
+2.2 Challenges
+2.2.1 Blockchain entry barrier
+2.2.2 Ownership and centralization
+
+3 Mineral solution
+
+11
+
+3.1 Mineral overview
+3.2 Accessibility
+3.3 Ownership and decentralization
+3.4 Next generation blockchain gaming
+3.5 Scaling the game item trading market
+3.6 Security
+
+4 Five Stars
+
+16
+
+4.1 Overview
+4.2 Setup
+4.3 Gameplay
+4.3.1 Preparation stage
+4.3.2 Fighting stage
+
+4.4 Heroes and equipment
+4.5 Item trade
+4.6 In-game currencies
+
+5 Token
+5.1 Token overview
+5.2 Token functions
+5.3 Token value capture
+
+23
+
+5.3.1 Expansion of the NFT market
+5.3.2 Staking
+5.3.3 Token burns
+
+5.4 Token advantages
+
+6 Token sale
+
+26
+
+6.1 Token allocation
+6.2 Use of funds
+
+7 Business development
+
+28
+
+8 Competitor analysis
+
+29
+
+9 Roadmap
+
+30
+
+10 Company background
+
+31
+
+11 Partners
+
+32
+
+12 Closing statement
+
+39
+
+13 Glossary
+
+40
+
+14 Disclaimer
+
+41
+
+Appendix I - Game contents summary
+
+43
+
+Appendix II - Game contents flow
+
+44
+
+1 Executive summary
+Creating a blockchain game that can go viral calls for driving down the technical barriers to entry
+while ramping up the quality. Gameplay, storyline, characters, graphics, and originality must all
+be excellent, coupled with configuration that enables anyone to play. However, blockchain games
+guarantee access and facilitate a thriving secondary market for trading ingame items. Moreover,
+they provide a means for these assets to effectively leave the confines of the game in which they
+originated, and to be represented in new virtual worlds, where items can be bought, sold, bartered,
+collateralized and borrowed against. Finally, because gaming DApps bypass traditional app distribution
+stores, they can be accessed virtually anywhere in the world, giving players the confidence to invest
+time in building up characters and crafting items, in the knowledge that they will always be able
+to retrieve and exchange them at a future date wherever they are.
+Unfortunately, a series of issues have so far hindered this segment of the cryptosphere from
+reaching its full potential. This includes the various logistical, financial and technical barriers to
+entry associated with the blockchain, issues with scaling, and concerns over ownership and the
+security of in-game digital assets that have significant real-world value. Without a solution to
+these fundamental problems, blockchain gaming would likely be doomed to remain stuck in its
+present form, unable to progress.
+Seeing this problem, a team comprising some of the most respected game developers in the
+industry came together to form Mineral Hub with the aim of enabling ordinary gamers to engage
+with and enjoy blockchain games. The team"s solution is to develop a series of games that can
+generate and assign keys and wallets to players automatically, can be played without any cryptocurrency, have no initial transaction fees, are not limited by transaction speeds, and are of a
+quality that is equal to or exceeds that of commercial games.
+To catalyze the blockchain gaming industry and allow it to bloom, Mineral Hub is launching an
+eponymous token that has an array of applications. A KCT built on the Klaytn blockchain, MNR
+will serve as the primary currency within the Mineral ecosystem. In time, adoption will grow as
+MNR comes to power a suite of immersive, and highly playable blockchain games. To kickstart
+this process, Five Stars, a new blockchain game from Mineral Hub, will serve as the proof-ofconcept
+for MNR.
+Five Stars is a turn-based RPG DApp game produced by Mineral Hub that will run on theKlaytn
+blockchain. Players can use the MNR to make purchases within the game"s built-in marketplace.
+To further drive adoption of MNR, this flagship game will show the strengths of blockchain gaming,
+with superior graphics and gameplay complemented by a tokenized ecosystem and trading, spawning a thriving economy all built around MNR.
+
+4
+
+2 The DApp gaming market
+2.1 Market overview
+Blockchain and gaming have a long history born from shared synergies. Both industries tap into
+a demographic comprising a young and tech-savvy audience that is receptive to new ideas and
+innovation. It is no coincidence that many of cryptocurrency"s staunchest adopters have been
+gamers. Nor is it coincidental that one of the first industries to be tokenized and to have its assets
+placed on-chain should prove to be gaming.
+Blockchain games can be traced all the way back to Bitcoin"s earliest days when sites like Satoshi
+Dice provided a means to wager on-chain. This was one of the first use cases for bitcoin, and
+while the industry has long since transcended hi-low dice games, it remains deeply enmeshed
+with gaming in all its forms. From simple puzzles to elaborate fantasy titles, RPGs, and battle games,
+blockchain gaming has developed to assume many forms.
+Placing data on-chain is computationally expensive, obliging developers to make economic
+compromises, constraining what could otherwise be achieved. Furthermore, while the interface
+that came with retro consoles was easy for even beginners to master, blockchain games are more
+complex, requiring a degree of technical sophistication. Players who can wield an Xbox or PS4
+controller effortlessly have to start afresh with blockchain technology, which calls for learning the
+basics of private-public key pairs, mnemonic phrases, and adjusting to the latency of transactions
+being recorded on-chain.
+Technical barriers serve as a deterrent to broader adoption of blockchain games, but they are not
+the only reason why no crypto-based games have yet to achieve critical mass: lack of quality has
+also been a contributing factor. To date, developers have devised an array of quirky and entertaining
+blockchain games, but the wait for a “killer” release goes on.
+Given the high bar to creating a highly accessible and enduring blockchain game, whose appeal
+is not merely limited to crypto converts, it is necessary to consider why this vertical exists in the
+first place. Blockchain games are not the product of a technology in search of a use case. Their
+initial implementations may have arisen as a means of experimenting with the tech, but it quickly
+became apparent that blockchain provides some unique capabilities that solve problems inherent
+to traditional online and console-based games.
+The same censorship-resistance that makes Bitcoin so powerful can equally be applied to games,
+not so as to combat overt censorship, but to indelibly store assets. As a result, ingame items,
+characters, and unique content that players have spent countless hours nurturing can be permanently stored, eliminating the problem of virtual worlds, customizations and content being
+
+5
+
+removed without warning on the whim of game developers, or being restricted through arbitrary
+geographical constraints. In the past, software houses have gone bust, taking entire franchises
+down with them, and leaving players high and dry. Blockchain enables games and the ecosystem
+they have spawned to live on, in perpetuity.
+
+2.1.1 Games market
+The global gaming market is experiencing a period of sustained growth that is showing no signs
+of slowing down. There are now over 2.5 billion gamers around the world, spending $152 billion
+on games and driving year on year growth of around 10%.¹ Whether playing on console, PC, tablet
+or smartphone, gamers are finding more ways than ever before to engage with the gaming industry.
+This has helped to drive a sustained boost to gaming revenues that will see the industry hit $196
+billion in sales over the next three years.²
+
+PC
+
+$ 35.7Bn
+
+MOBILE
+
+$ 68.5Bn
+
++4.0% YoY
+
++10.2% YoY
+
+9%
+
+23%
+
+2%
+
+BROWSER
+PC GAMES
+
+$ 3.5Bn
+
+21%
+TABLEY GAMES
+
+$ 13.6Bn
++5.0% YoY
+
+45%
+
++15.1% YoY
+
+2019 TOTAL
+
+36%
+
+$ 152.1Bn
+
+BOXED
+DOWNLOADED
+PC GAMES
+
++9.6%YoY
+
+$ 32.2Bn
+
+32%
+
+(SMART)PHONE GAMES
+
+$ 54.9Bn
++11.6% YoY
+
++6.6% YoY
+
+32%
+CONSOLE
+
+$ 47.9Bn
++13.4% YoY
+
+The 2019 global games market, per device and segment with year-on-year growth rates³
+
+Of the various gaming verticals, the fastest growth is for mobile and tablet devices which are
+integral to the consumption of decentralized applications (DApps) and specifically DApp gaming.
+The mobile sector of the total gaming market alone is currently worth $68.5 billion, or 45% of the
+global market share.⁴ By 2022, mobile gaming (smartphone and tablet combined) will produce
+revenues of $95.4 billion, accounting for 49% of the entire games market.
+
+1 https://newzoo.com/insights/articles/the-global-games-market-will-generate-152-1-billion-in-2019-as-the-u-s-overtakes-china-as-the-biggest-market/
+2 https://www.gamesindustry.biz/articles/2018-12-17-gamesindustry-biz-presents-the-year-in-numbers-2018
+3 https://newzoo.com/insights/articles/the-global-games-market-will-generate-152-1-billion-in-2019-as-the-u-s-overtakes-china-as-the-biggest-market/
+4 https://newzoo.com/insights/articles/the-global-games-market-will-generate-152-1-billion-in-2019-as-the-u-s-overtakes-china-as-the-biggest-market/
+5 https://resources.newzoo.com/hubfs/2019_Free_Global_Game_Market_Report.pdf?utm_campaign=Games%20Market%20Report&utm_source=hs_automation&utm
+_medium=email&utm_content=76474808&_hsenc=p2ANqtz-8TelI0a1lBn5yE3qoUvTFNUVP5qkYacPdZK3-DNbJJ9rNcFy-2PoEjoOyWwREgVbdcaNPEw-QTEkOyY6_9M
+P8FvPtp62hjhi74f1X4unI6_4SDdq8&_hsmi=76474808
+
+6
+
+Gaming has been transformed from a pastime that was enjoyed in the home by a subset of
+devotees to one which is conducted everywhere by all kinds of people. A recent study showed
+that 70% of Americans play some kind of video games, with 90% of those playing on tablet,
+smartphone or both.¹
+The growth of mobile gaming does not, however, signal the demise of console and PC gaming.
+By 2022, the console segment will generate revenues of $61.1 billion in 2022, (CAGR of +9.7%),
+while PC gaming will rise to $39.5 billion (CAGR of +3.5%).
+
+2.1.2 DApps
+Since 2015, when the total number of decentralized applications (DApps) was barely into double
+figures, the number of DApps has exploded into the thousands. One DApp tracking site alone
+lists 3,070 DApps across nine blockchains, with the most popular networks comprising Tron, EOS,
+and Ethereum. In 2015, the average number of new DApps per month was just over 11, in 2018
+that figure reached an average of 130 per month, with December of that year seeing an all-time
+high of 172 DApps. In 2019, the market is in good health.
+New DApps
+
+New DApps per Month
+
+Total DApps
+
+APR 2015 ~ SEP 2019
+
+New DApps per month.²
+
+As of Q1 in 2019, the four major DApp blockchains, Ethereum, EOS, Steem, and Tron, have hit
+a total transaction volume of $3.2 billion.³ EOS and Tron alone have accrued $1 billion. EOS
+and TRON also boasted the most active users on their respective blockchains with 262,000
+and 303,000 in Q1 respectively.
+1 https://variety.com/2018/gaming/news/how-many-people-play-games-in-the-u-s-1202936332/
+2 https://www.stateoftheDApps.com/stats; The purple bars shows new DApps this month. The black line shows the total number of DApps.
+3 https://www.DApp.com/article/DApp-com-q1-2019-DApp-market-report
+
+7
+
+2.1.3 Crypto games
+In terms of utility, gambling and gaming are the two most popular uses for DApps, with gambling
+still retaining a slight edge. For sheer user retention, however, gaming, especially on the Ethereum
+blockchain, has the advantage. Today, there are over 400 DApp games built on Ethereum alone.¹
+Among all DApp users, gamers are the most active vertical, with the most stable and loyal communities. More than 40% of daily active DApp users are gamers, from a total audience share of
+only 30%.² Research conducted by DApp.com shows that the number of gaming DApps has
+skyrocketed in 2019 across the four main DApp chains (Ethereum, EOS, Steem, and Tron).³ As
+of Q1, 2019, DApp games represent around 1% of the overall DApp industry with a value of $35
+million⁴
+
+New DApps
+
+New DApps per Month - Games
+
+TOTAL DApps
+
+APR 2015 - SEP 2019
+
+New DApps per month - games.
+
+2.2 Challenges
+As noted in section 2.1 of this document, a series of logistical and technical challenges have
+hindered the evolution of the DApp games market and prevented the emergence of an exceptional game that integrates blockchain technology in a functional way.
+
+1 https://DAppradar.com/rankings/protocol/ethereum/
+2 https://hackernoon.com/q1-2019-DApp-market-report-7aca7cbbccad
+3 https://www.DApp.com/article/DApp-com-q1-2019-DApp-market-report
+4 https://www.DApp.com/article/DApp-com-q1-2019-DApp-market-report
+5 https://www.stateoftheDApps.com/stats/category/games#new
+
+8
+
+2.2.1 Blockchain entry barrier
+A large number of games have been created across the main DApp blockchains, and a few have
+gained significant traction and a loyal user base. Nevertheless, the blockchain dimension raises
+the barrier to entry on a number of fronts.
+Most of the existing DApp games require players to generate a private key and to set up a wallet
+directly outside of the main game and its functions. Some platforms even require the ownership
+of cryptocurrency assets before functional play can begin. At present, approximately 81% of the
+global population has never purchased cryptocurrencies in any form.¹ This being the case, the
+requirement to engage in the relatively technical processes of setting up crypto storage, purchasing
+crypto assets (which typically mandates undergoing KYC), ensuring the security of the crypto assets
+owned, and implementing various other necessary procedures deter a large portion of the existing
+gaming community from participating.
+Some existing DApp games emphasize the blockchain element as the defining feature of the
+product. This can result in games that are extremely generic, relying on the inclusion of blockchain
+as their unique selling point. An example of this game type is collector games, where the user
+purchases “rare” images tied to a tradable non-fungible token (NFT). These titles are unlikely to
+appeal to ordinary gamers who do not have any special interest in cryptocurrencies and fail to see
+the attraction in a blockchain game that is devoid of any recognizable gameplay.
+
+2.2.2 Ownership and centralization
+Many games allow players to collect in-game assets, be that a native currency (Minecraft Coins,
+New California Republic dollars or Atoms in the Fallout series, Riot Point coins in League of Legends),
+items, skins, texture packs, playable characters, or vehicles. Such items often become highly sought
+after within the gaming community and can attain a significant “realworld” market value.²
+Many games also allow for the collection of data that translates into some form of advantage for
+the player. This could be some form of multiplier bonus, “lvl” or “exp,” a high-score, or skill status.
+For many players, it is the acquisition of these achievements which is the most fulfilling element
+of gaming. The struggle to overcome adversity and the subsequent claim of some form of trophy
+provides a fundamental thrill in gameplay.
+
+1 https://www.kaspersky.com/blog/cryptocurrency-report-2019/
+2 https://www.telegraph.co.uk/news/2018/07/16/meet-gamers-willing-spend-hundreds-thousands-living-video-game/
+
+9
+
+Unfortunately, such in-game assets and player data are usually owned by the entity governing
+the game, typically the software house, rather than the players themselves. Should the game close
+down for some reason, the company collapse or the people running the game simply choose to
+remove the player"s hard-earned assets and delete their data, everything will be irredeemably lost.
+This threat looms large over the online gaming community today.
+Another troubling aspect of centralized games that involve the purchase and sale of in-game
+assets is that the value of items and general market prices are usually determined by the company
+rather than players. A famous case of pricing exploitation came with the release of Fallout 76 where
+Bethesda (the company behind the Fallout series) was accused of price gouging and creating fake
+“original” prices and discounts to inflate demand.¹ Some games also charge exorbitant transaction
+fees and wildly disproportionate buy/sell prices on items. Such market conditions have been
+cultivated to maximize the profits of games companies by burning the players who support them.
+
+1 https://www.eurogamer.net/articles/2018-12-17-fallout-76-players-say-the-atom-shop-prices-are-getting-out-of-hand
+
+10
+
+3 Mineral solution
+3.1 Mineral overview
+To solve the issues that currently beset blockchain games, Mineral Hub, a team of developers
+behind some of the biggest blockchain games of the last few years, will launch and govern the
+Mineral token (MNR). MNR is the primary currency of the Mineral Hub ecosystem. It will act as a
+primary currency across multiple games, allowing players to buy and sell in-game items as nonfungible tokens.
+As the Mineral ecosystem expands with the development of new games and the creation of new
+NFT items, demand for these items will increase commensurate with the number of transactions
+made using MNR. The resulting increase in token demand, coupled with the transaction fees collected
+by Mineral, will facilitate the further expansion and improvement of the Mineral Hub ecosystem.
+
+3.2 Accessibility
+With Mineral, there is no need for players to endure the laborious processes associated with
+interacting with the blockchain. Mineral abstracts away the blockchain component to provide
+DApp game onboarding that will feel familiar to ordinary gamers.
+As mentioned in section 2 of this whitepaper, one of the key barriers to entry for non-cryptosavvy
+gamers is the technical and logistical issue of setting up the various components necessary to
+deal with the blockchain. Mineral automates the setup process, allowing gamers to bypass these
+arduous procedures. Mineral's game automatically generates the wallet address when players
+create an in-game account. As a result, players can create their account in a couple of clicks and
+begin playing their favorite games.
+Existing DApp Games
+
+Mineral DApp Game
+
+Enter the games
+Separate account and wallet
+generation outside of games
+
+No extra steps to create an account
+
+11
+
+Another common roadblock that dissuades many from participating in blockchain gaming is the
+necessity to pre-own crypto assets in order to “buy-in.” This is only possible after overcoming the
+technical and logistical initialization hurdles described earlier. Following setup, these players must
+traverse another technical challenge in visiting an exchange, acquiring an accepted cryptocurrency,
+and transferring it into the game. This challenge is also financial since some amount of funding
+is required. Although the amount required may be small, firsttime users may still be reluctant to
+hand over their money to have it converted into a digital currency that they do not understand
+to play a game that they do not yet know if they will even enjoy playing.
+With Mineral, players have no need to pre-own any crypto assets due to Mineral"s entrusting
+function. Klaytn allows developers to subsidize the network fees required to onboard users so
+that players can begin playing games instantly and without payment, thus removing another
+potential barrier to entry. Players need only to pay transaction fees when buying or selling items.
+Users can acquire MNR by playing Mineral games, winning items and selling those items for MNR
+either via item auctions or through Mineral"s NFT marketplace (see section 4.4 of this whitepaper for
+more information on this). In this way, players are rewarded for playing Mineral Hub games and supporting the ecosystem without having to perform an initial “buy-in.”
+Players will be able to purchase extra MNR on exchanges with a range of cryptocurrencies. In the
+future, players will also be able to purchase MNR with fiat in-game through direct card payments
+(see section 7 of this whitepaper for more information).
+
+Game Play
+
+Growth Needs
+
+Sell Item
+
+Obtain C.C.
+
+Growth Re-investment
+
+Buy Item
+
+Need C.C.
+
+Use Exchanges
+
+Use Auction
+
+12
+
+3.3 Ownership and decentralization
+As discussed in section 2.2.2, ownership of in-game assets is a major concern for today"s gamers.
+Mineral Hub solves this problem by leveraging the immutability of the blockchain. A player can
+turn their items into NFT on the blockchain network.
+Mineral Hub is creating a diverse series of games, all of which will utilize MNR and across which
+all in-game items will be usable. Due to this interoperability, players are not limited to a single
+game in which all of their items and tokens are stored. Should a player wish to transfer their ingame assets from Five Stars into another game within the Mineral ecosystem, they can with only
+a few clicks.
+Finally, unlike other games and platforms that manipulate item prices, players within the Mineral
+ecosystem can use MNR to trade freely with each other in real-time. Items will find their true market
+value in accordance with the laws of supply and demand.
+
+3.4 Next-generation blockchain gaming
+The Mineral will revolutionize blockchain gaming by producing truly high-quality games with
+superior graphics and engaging gameplay which integrate the blockchain as a productive tool
+that provides genuine utility rather than as a functionless marketing ploy.
+As a cross-game token, Mineral incentivizes engagement with all games in the Mineral Hub ecosystem,
+allowing players to transfer items between games or sell items in one game to gain MNR that can
+be used instantly to purchase items in another. This allows players to seamlessly transition between
+games rather than trapping their acquired assets within a single game and disincentivizing them
+from playing other games.
+Such a combination of high-quality gameplay and thoughtful token economics and value creation
+will attract a hybrid user-base of both gamers and cryptocurrency enthusiasts.
+
+Ordinary Gamers
+
+Cryptocurrency Users
+
+Secure diverse user-base through differentiated feature
+
+13
+
+3.5 Scaling the game item trading market
+The Mineral will facilitate peer-to-peer item trading and in-game auctions through a dedicated
+marketplace. Users can sell items acquired through gameplay for MNR. Once a player has gained
+sufficient stores of MNR, either through these sales or through purchase on exchanges, they can
+purchase items from the open market to help them progress in the game or simply to serve as
+trophies and collectibles.
+For example, a player may have reached a level of a Mineral Hub game that they simply cannot
+overcome. The enemies that appear at that level are too powerful for the player to beat with their
+current playable characters and items. The player has, however, accumulated significant stores of
+items from gameplay up to this point. The player sells all of their items to acquire a large quantity
+of MNR and goes to the Mineral open market to find an item that will allow them to overcome the
+wave of enemies stalling their progress.
+Alternatively, the player may not wish to sell their items as they are useful for other parts of the
+game. If the player holds crypto assets, they can alternatively go to an exchange and sell some
+of these for MNR. In the future, that player will be able to purchase MNR at the current market
+rate via direct card payment (see section 7 of this whitepaper). For a detailed overview of how MNR is
+can be acquired and spent within the Mineral Hub ecosystem, please see Appendix II.
+It is also anticipated that certain Mineral NFTs will become desirable collector"s items. It is well
+documented that gamers are willing to spend significant amounts to acquire such items.¹ Particularly
+rare NFTs have the potential to become highly sought objects of desire which players are driven
+to purchase for pure possession and status rather than for use in-game.²
+Acquiring particularly rare items organically through gameplay is often impractical. Where, for
+instance, there is a 1:10,000 chance of a defeated enemy dropping the particular rare item and
+that enemy takes a significant number of hits to defeat, it is probable that the player would need
+to expend thousands of hours playing the game to attain the item. It is often far easier for those
+collectors to simply browse the Mineral NFT market or check for the item at auction, and purchase
+it that way.
+The Mineral will also support item-to-NFT conversions and will facilitate the trade of such NFTs
+in Mineral"s external NFT marketplace powered by OpenSea.io. (see section 4.4)
+
+1 https://www.telegraph.co.uk/news/2018/07/16/meet-gamers-willing-spend-hundreds-thousands-living-video-game/
+2 https://nationalpsychologist.com/2007/01/the-psychology-of-collecting/10904.html; http://nationalpsychologist.com/2007/01/the-psychology-ofcollecting/10904
+.html;
+
+14
+
+Opensea NFT Market
+
+3.6 Security
+Whenever dealing with crypto assets and in-game virtual assets with significant real-world value,
+there are concerns over the safety and security of those assets. Mineral will follow all best practices
+in terms of security and will take measures to ensure that players" data and virtual assets are
+safeguarded.
+Mineral Hub will also take measures to ensure security on the player side and mitigate the risk of
+fraud or hacking attempts. To combat this, Mineral Hub will allow users to enable Touch ID and
+Face ID, thus reinforcing accessibility and security.
+
+15
+
+4 Five Stars
+4.1 Overview
+Five Stars will be the first game to
+launch that makes use of MNR.
+Five Stars is a turn-based side scroller
+collective roleplaying game(RPG)
+for mobile (Android, iOS).
+
+4.2 Setup
+A key goal of Mineral is to remove one of the most common barriers to entry associated with
+blockchain games, namely the setup of the various components required to acquire and securely
+store crypto assets. To solve this issue, The wallet will automatically be generated and supplied to
+each player that creates a Five Stars account. This means that the player will be able to begin
+playing and earning from the outset and will not be deterred by the complexities of set-up that
+have held back the adoption of blockchain games in the past.
+During setup, the player will be shown a screen (see image below) where they will be asked to
+choose their main character. After choosing their main character, each player will be assigned a
+group of other heroes through the “luck box,” a random character assignment function. The style
+and progression of the game following this point will vary depending on the character chosen.
+As an example, the main “lobby” or home screen will reflect the character choice. The character"s
+appearance, aspect, and gait will also change depending on the character"s experience level.
+
+The main character selection screen
+
+16
+
+4.3 Gameplay
+Five Stars will feature graphics and in-game features that far outstrip those encountered in the
+blockchain games market today. The gameplay of Five Stars can be separated into two distinct
+stages: the preparation stage and the fighting stage.
+
+4.3.1 Preparation stage
+In the preparation stage, players can select their team of heroes, assign equipment to each hero
+(weapons, armor, potions, and a range of other items) and arrange their battle formation. Players
+are able to choose up to a maximum of five heroes. New players will be able to choose from a wide
+range of base playable characters. As players progress through the game, they will unlock new
+playable characters with more advanced abilities/traits which they can then add to their team
+(see section 4.4 for more information on this). Depending on the abilities/traits of the heroes selected,
+the items assigned to each and their formation, certain synergies can be created. When the player
+has chosen their formation, it is time for battle in the fighting stage.
+
+Battle formation screen
+
+4.3.2 Fighting stage
+In the fighting stage, each of the player"s team of heroes will take turns to attack or defend in a
+sequence of battles against waves of unique enemies. Upon each turn, the player can target a
+particular enemy and choose either an attack or a skill for their hero to execute upon that enemy.
+Each enemy is distinct and has its own special characteristics. For instance, a particular enemy may
+have elevated defenses against certain types of attacks and thus is able to take minimal damage
+from a certain hero.
+17
+
+The enemy may also have a form of attack that is particularly damaging to one or more of the
+player"s heroes. This being the case, the player must act strategically to take out particularly
+dangerous enemies early before their team is decimated, to protect particularly vulnerable heroes
+against attack, and to choose the forms of attack that will be most damaging to the enemy forces
+upon every turn. If the heroes eliminate all on-screen enemies, the next wave will appear. There
+will typically be between two and three waves in a standard stage.
+
+Battle screen
+
+4.4 Heroes and equipment
+As players progress through the game, overcoming waves of increasingly treacherous enemies
+and gaining battle experience, they can unlock new playable heroes with different skills and
+characteristics. Some heroes have attacks that are particularly damaging to certain types of enemies,
+some have defenses that make them particularly resilient to enemy attacks, some have special
+abilities that allow them to increase the overall attack capabilities of the team, and others have
+the capacity to heal other team members.
+There are a total of 80 playable heroes in the game that fall into nine hero classes. Each time a
+hero advances to a new experience level they attain new skills and greater powers.
+
+18
+
+Post-battle items acquired screen
+
+Players can also acquire a wide variety of items that can be used in-game. Each item holds some
+kind of special property. Just as certain characters have increased attack capabilities, enhanced
+resilience to attacks and other special characteristics, so too do items. These items can be assigned
+to each hero during the preparation stage (see section 4.3.1). Players can assign seven types of items
+to each hero. The categories are Weapon, Helmet, Armor, Gloves, Pants, Shoes, and Accessory.
+As with the heroes, it will be possible to increase the power of each item through “reinforcement”.
+This will result in a stronger effect in the use of that item. Each item can be reinforced a maximum
+of 15 times. At the time of launch, there will be over 100 distinct items available in Five Stars. Items
+come in Five levels of rarity ranging from Common to Legendary.
+Players can strategically combine heroes with certain items to give themselves a competitive
+advantage. For instance, should a player know that the next wave of enemies will be particularly
+dangerous to a certain hero on their team, they may assign a piece of armor to that hero to allow
+them to withstand the danger.
+As a second example, a particularly damaging weapon could be assigned to a particularly damaging
+hero thus allowing that hero to defeat every enemy in a single blow. There are any number of
+combinations that can be made to create a range of effects.
+
+19
+
+4.5 Item trade
+
+In the future, Five Stars' NFT items will be traded via in-game auctions and external NFT marketplace (such as Opensea). Where a player puts an item up for public auction, the item will be
+advertised for a limited period before being won by the highest bidder. In the NFT marketplace,
+players can exchange equipment directly, sell owned equipment for MNR, or purchase equipment
+with MNR.
+
+i.e OpenSea.io
+
+As Mineral Hub releases more games, players will be able to trade assets between different games
+within the Mineral Hub ecosystem and Klaytn partner games via the integrated DEX exchange.
+Players can also use the DEX exchange to trade MNR and KLAY.
+Mineral will take a transaction fee of 5% on all trades made within the Mineral Hub ecosystem.
+This fee will be paid in MNR. Funds obtained via this fee will be automatically locked up for a
+period of six months. This is to secure the value of MNR. Following this lock-up period, the funds
+will be added to the reserve amount and utilized in accordance with the plans detailed in section
+6.2.
+20
+
+Five Stars Auction screen
+
+4.6 In-game currencies
+Five Stars will contain multiple in-game currencies, each of which will have a slightly different
+function.
+Gold : Gold is used as a standard in-game currency for the purchase of reinforcements, the
+purchase of skills and other in-game acquisitions.
+Star : Star is a Premium currency that can be used to purchase in-app cash items within the Five
+Stars app. Like Gold, Star can only be used within the Five Stars game. In the future, players will
+be able to purchase Star within the game via credit card(see section 7 of this whitepaper). The inclusion
+of Star will ease the initial payment barrier of ordinary gamers who may not be familiar with cryptocurrencies.
+Mineral : Mineral is a crypto asset that can be used across all games in the Mineral Hub ecosystem.
+It can be used as a means of payment in the trade of items both via auctions and in the MNR NFT
+marketplace. MNR is the only currency that can be used to trade the unique items available through
+the MNR ecosystem. It is also used to pay transaction fees.
+
+21
+
+Mineral Token
+
+Item Trade
+
+(Cryptocurrency)
+
+In-app products &
+
+Star
+
+Random Character
+
+(Premium Currency)
+
+Summon
+
+Contents Fee
+
+Gold
+
+(Reinforcement,
+
+(Basic Currency)
+
+Skills, Etc)
+
+Buy Items
+
+Buy Items
+
+Sell Items
+
+STAR
+
+MARKET
+(Auction)
+
+Obtain MNR,STAR
+
+he
+
+t
+R in
+
+STA
+Use
+Buy
+
+STAR
+
+mic
+
+rot
+
+Pur
+cha
+
+se S
+
+tar
+(
+
+act
+
+via
+
+ion
+
+Mineral
+
+List items
+
+re
+Sto
+
+ran
+s
+
+Sell Items
+
+Ob
+
+tain
+
+Go
+
+lds
+
+e/
+t Fe s
+n
+e
+t
+m
+duc
+rce
+nfo ld Pro
+i
+e
+R
+Go
+Buy
+
+item
+
+s
+
+cas
+
+h)
+
+GOLD
+
+STORE
+
+Mineral Hub"s collection of usable currencies has been thoroughly checked for inflation bugs that
+might allow hackers to increase the supply of tokens and fraudulently cash them out, crashing
+their value and impacting all players.
+
+22
+
+5 Token
+5.1 Token overview
+MNR is a KCT built on the Klaytn blockchain. Klaytn is a hybrid blockchain which combines the
+best features of public blockchains (decentralized data & control, distributed governance) and
+private blockchains (low latency, high scalability).¹ The Mineral Hub team chose the Klaytnblockchain over other crypto networks due to its high transaction throughput and the capabilities of
+its token standard.
+Klaytn"s KCT standard is based on Ethereum"s ERC-20 token standard. However, Klaytn can
+implement 3,000-4,000 TPS per second while Ethereum can only handle a maximum of around
+25 TPS.² This also greatly exceeds the TPS of Tron and EOS which can handle 2,000 and 1,200
+TPS respectively.³
+
+5.2 Token functions
+MNR"s primary use is for the purchase and sale of NFTs. Where a player wishes to purchase a
+particular item, they must acquire the necessary amount of MNR by selling some of their items
+for MNR, purchasing MNR on exchanges or, in the future by purchasing MNR in-game via card
+payment (see section 7 of this whitepaper for more on this).
+Additionally, MNR is used to pay transaction fees. Since the acquisition of particular items is often
+required to progress in Mineral Hub games, and since some items are incredibly rare and will elicit
+a desire to collect them, it is anticipated that demand for MNR will remain high.
+
+5.3 Token value capture
+The Mineral Hub team has set out a number of strategies aimed at ensuring that MNR not only
+maintains its value but actually increases in value over time.
+
+5.3.1 Expansion of the NFT market
+Mineral Hub is committed to continuously expanding the range of heroes and items available
+as NFTs, creating new and novel aspects for its games while simultaneously increasing rarity and
+the value of some of the early-era items. As new games are developed and added to the Mineral
+Hub ecosystem, a greater number of players will be onboarded. Such additions will increase overall
+activity in the NFT markets and item auction.
+
+1 https://www.klaytn.com/Klaytn_Token_Economics_and_Governance_Paper_V1.01.pdf
+2 http://www.koreaherald.com/view.php?ud=20190709000768
+3 https://cointelegraph.com/news/buterin-needs-bitcoin-cash-scaling-ethereum-before-sharding-casper
+
+23
+
+5.3.2 Staking
+Many medium-of-exchange tokens encounter the velocity problem. To summarise the velocity
+problem, where a token"s only use is payment for a service on the platform, there"s no incentive
+to hold tokens rather than converting them to FIAT.
+Those purchasing the token to access its utility within the platform (in Mineral"s case, the purchase
+of items/NFTs) will simply purchase tokens for a specific transaction. Equally, those receiving the
+token in exchange for platform utility (in Mineral"s case, MNR received for the sale of an item/NFT)
+will instantly sell the tokens they receive for FIAT to avoid the risk of price fluctuations.
+This situation results in high velocity for the token, as the increase in demand driven by buyers
+acquiring tokens will always be quickly matched by a corresponding increase in supply from sellers
+converting these tokens to FIAT. Effectively, high velocity acts as an increase in circulating supply
+and is, therefore, inversely proportional to the value of the token.
+To counter this, the Mineral Hub team
+will implement a staking mechanism
+called Fairy (VIP system). Under this staking
+mechanism, Mineral Hub will offer a range of
+in-game benefits that can be acquired by staking
+MNR. The more MNR a player stakes, the greater
+the benefits they will receive. Within the game, this
+staking mechanism will be visualized with the Mineral
+Fairy, a small character that will level-up as the player"s
+staked MNR increases.
+* The Staking system could be modified to comply with the crypto
+regulation/law of each country
+* The Staking system could be different from the whitepaper when it is
+applied in the game.
+
+The Mineral Fairy
+
+24
+
+5.3.3 Token burns
+Mineral Hub will also introduce token burns to further increase the value of the MNR token over
+time. As discussed in section 4.6, a 5% fee is charged on every transaction within the Mineral
+ecosystem. The funds generated via this fee will be locked-up for a period of six months before
+being added to the reserve. To increase the overall value of the circulating token supply, 20% of
+this MNR will be burned every month. The burning amount will always be set below 5% of the
+total minted token amount. This burning range will be also be applied to follow-up games created
+by Mineral Hub (i.e Game A token burn + Game B token burn < 5% of total)
+
+5.4 Token advantages
+MNR offers a range of benefits for gamers and developers alike. Gamers can enjoy the stable
+token valuation afforded by MNR"s value capture mechanisms (see section 5.3), the multiple functions of the token (see section 5.2) and the low entry barrier resulting from the automation of the
+set-up process and the subsidization of fees (see section 3.2). Equally, developers will benefit from
+MNR"s capacity to improve user onboarding through increased accessibility, a sign ficant reduction
+in development costs due to the existence of MNR as a readymade in-game currency solution
+and exposure to a body of gamers that play other games within the Mineral Hub ecosystem.
+
+25
+
+6 Token sale
+6.1 Token allocation
+
+Reserve
+
+Sales
+
+7.84%
+
+15.0%
+
+Marketing
+
+MNR Ecosystem
+
+15.0%
+
+30.0%
+
+Patners
+R&D
+
+DC Swap
+
+10.0%
+Foundation/Company
+
+10.0%
+
+0.16%
+
+10.0%
+Tron SR
+Supporters
+
+2.0%
+
+In Mineral"s Token Generation Event, 10,000,000,000 (ten billion) MNR will be minted. No more
+MNR tokens will ever be created. These tokens will be allocated as follows:
+Token Sales : 1,500,000,000 (15%)
+
+MNR Ecosystem : 3,000,000,000 (30%)
+
+Marketing : 1,500,000,000 (15%)
+
+TRON SR Supporters : 200,000,000 (2%)
+
+Partners : 1,000,000,000 (10%)
+
+Reserve : 784,000,000 (7.84%)
+
+Foundation/Company : 1,000,000,000 (10%)
+
+DC Swap : 16,000,000 (0.16%)
+
+R&D : 1,000,000,000 (10%)
+The Mineral Hub team is committed to ensuring the continued and healthy growth of the Mineral
+ecosystem beyond the initial token sale. This is why the team will allocate the bulk of all tokens
+generated to initiatives that will contribute to this end. Tokens allocated to marketing, the MNR
+ecosystem, the Mineral Foundation, research and development, and the reserve will all contribute
+to the expansion of the Mineral ecosystem in different ways. Combined, these allocations make
+up 73% of all tokens generated.
+* The actual amounts for DC Swap is 15,816,864 and Reserve 784,183,136. The numbers above are rounded up to
+make calculation easy.
+
+26
+
+6.2 Use of funds
+Funds obtained via transaction fees paid to Mineral Hub will be locked up for a period of six months
+after which they will be added to the reserve amount. These funds will be used to maintain the
+MNR token supply and to expand the MNR ecosystem.
+
+10%
+5%
+
+15%
+
+20%
+
+10%
+
+40%
+
+Marketing
+
+(20%)
+
+Reserve
+
+(10%)
+
+R&D/In-game operations
+
+(40%)
+
+Business operations
+
+(15%)
+
+Legal
+
+(5%)
+
+Partners
+
+(10%)
+
+27
+
+7 Business development
+From the launch of Five Stars onwards, Mineral Hub will sustain itself financially through income
+from fees paid to the network by players of games within the Mineral ecosystem. Players will be
+charged a 5% fee on every transaction made in Mineral"s NFT marketplace. Players will pay this
+fee in MNR, thus providing another use case for the token and increasing demand. Funds raised
+via transaction fees will automatically be locked up for a six-month period in order to ensure the
+stability of the token. Following the lock-up phase, these funds will be added to the reserve.
+Since Mineral Hub intends to create a range of high-quality games for the international market,
+it is anticipated that the platform will quickly acquire and sustain a large number of users making
+daily transactions. For this reason, it is expected that the revenue generated from transaction fees
+will be sufficient to cover staffing costs, maintenance, research and development, advertising,
+geographical expansion, growing the team and developing new games.
+The Mineral Hub team is committed to breaking down barriers to entry for gamers who may not
+have extensive knowledge of cryptoassets and improving accessibility. To this end, the team is
+currently developing a strategy to facilitate the purchase of MNR via direct card payments within
+Mineral games. This will negate any need for players to go through exchanges when they require
+extra MNR and will further abstract away the blockchain element.
+Though Mineral Hub is headquartered in Singapore, putting it in an excellent position to access
+the Asia-Pacific games market which is due to generate $72.2 billion in 2019, accounting for 47%
+of total global game revenues,1 the team is focused on global expansion. In 2019, the U.S. gaming
+industry is due to generate $36.9 billion, making it the largest gaming market by revenues globally.
+The Europe, Middle East, and Africa regions are due to reach $34.7 billion, while Latin America is
+set to reach $5.6 billion. Mineral Hub will place a particular focus on breaking into these growing
+markets.¹
+
+1 https://resources.newzoo.com/hubfs/2019_Free_Global_Game_Market_Report.pdf?utm_campaign=Games%20Market%20Report&utm_source=hs_automation&utm
+_medium=email&utm_content=76474808&_hsenc=p2ANqtz-8TelI0a1lBn5yE3qoUvTFNUVP5qkYacPdZK3-DNbJJ9rNcFy-%202PoEjoOyWwREgVbdcaNPEw-QTEkOyY6
+_9MP8FvPtp62hjhi74f1X4unI6_4SDdq8&_hsmi=76474808
+
+28
+
+8 Competitor analysis
+An analysis of the features and user experience of a typical blockchain game on each of the leading
+DApp networks shows that Five Stars/Klaytn is optimized on multiple fronts. Each of the leading
+second and third-generation blockchains (Ethereum, EOS, Tron) has certain attributes that make
+them suited to particular use cases and audiences. For the purposes of gaming, however, Klaytn"s
+architecture makes it the ideal network for developers seeking to onboard new users in as seamless
+and intuitive a manner as possible.
+
+One-click
+setup
+
+TPS
+
+Five Stars
+(Klaytn)
+
+3.000+
+
+CryptoKitties
+(Ethereum)
+
+20
+
+Prospectors
+(EOS)
+
+50
+
+FragGoo
+(TRON)
+
+2.000
+
+Auto-wallet
+creation
+
+key
+generation Third-party Integrated
+abstracted gas payment NFT market
+
+In-game
+Currencies
+
+29
+
+9 Roadmap
+
+2019
+
+2020
+
+2019.09.01
+
+2020.04.07
+
+2020.04.13
+
+Partnership with
+Klaytn
+
+Listing of MNR on
+exchanges
+
+"FiveStars" CBT
+Launch
+
+2020.09
+
+2020.09
+
+2020.06
+
+"Five Stars"
+Offical Launch
+
+"Five Stars"
+Final CBT
+
+"Five Stars"
+2nd CBT
+
+(KOREA)
+
+2021
+
+2020.4Q
+
+2021.1Q
+
+2021.2Q
+
+2021~
+
+"Five Stars"
+Taiwan, Hong Kong,
+Macau Launch
+
+"Five Stars"
+Global Launch
+
+"Five Stars"
+Japan Launch
+
+Launch of
+follow-up game
+
+30
+
+10 Company background
+Mineral Hub was established in late 2019 to build and govern the Mineral ecosystem. The Mineral
+Hub team brings together industry-leading experts from the fields of blockchain and game design.
+A number of Mineral Hub"s core team members are also members of the SkyPeople team, one of
+the most respected and innovative games design teams operating today. SkyPeople is maintaining
+the Tron Super Representatives (Tron SR) from its Mainnet and generating the most number of
+blocks of Tron so far.
+In February 2017, the team released Final Blade, a mobile collective action RPG with a unique
+oriental 2D design and dynamic real-time battle gameplay. Final Blade went on to become the
+second most popular game in the Google Play store and the third in Apple"s app store. Almost
+three years later, Final Blade can still be played in more than 140 countries and maintains high
+sales.
+In early 2019, the team developed and operated the highly successful DApp game Dragon Castle
+built on the Tron protocol. This included the creation and management of DC token, a TRC20
+token that players can mine.
+
+31
+
+11 Partners
+Tron
+
+Tron is a decentralized content protocol. Tron strives to construct a global free content entertainment
+system, utilizing blockchain technology. This protocol allows each user to freely publish, store,
+and own data. Tron is one of the largest blockchain operating systems in the world. It is specialized
+in 3-High features: High-Throughput, High-Scalability, and High- Availability. users, making Tron
+a blockchain protocol with the most DApp users in the world.
+The app partners of Tron protocol include Peiwo, Obike, Gifto, Uplive, BTT with a total of 4 million
+users, making Tron a blockchain protocol with the most DAPP users in the world.
+
+Klaytn
+
+Kakao"s global public blockchain project Klaytn is an enterprise-grade, service-centric platform
+that brings user-friendly blockchain experience to millions. It combines the best features of both
+public blockchains (decentralized data & control, distributed governance) and private blockchains
+(low latency, high scalability) via an efficient hybrid design. Klaytn is secured by participation from
+numerous highly-reputable brands around the globe, working together to create a reliable business
+platform atop a robust system of decentralized trust. Klaytn enables businesses and entrepreneurs
+today to capture value using blockchain technology, and designed by Ground X.
+
+32
+
+Hedera Hashgraph
+
+Hedera is an enterprise-grade, decentralized public network that uses hashgraph consensus – a
+faster, more secure alternative to blockchain consensus mechanisms. Hashgraph works efficiently
+to verify transactions and transaction ordering, ensuring fairness on the network and, is built to
+deliver the highest standard of security available to safeguard the integrity of the network and
+prevent malicious attacks. Hashgraph achieves high-throughput with 10,000+ cryptocurrency
+transactions per second and low-latency finality in seconds from its innovative gossip about gossip
+protocol and virtual voting. Once consensus is reached, it is available on the public ledger for
+everyone to transparently see. Developers can build secure, fair, blazing-fast decentralized applications on top of the Hedera platform.
+
+GBIC
+
+GBIC is a crypto fund that has invested in more than 50 popular blockchain projects such as ICON,
+THETA, aelf, and has offices in Korea, China, and the United States. This fund is recognized for its
+outstanding market insight and analytical skills that are selected as one of the top 10 crypto funds
+that are most influential in China's tech media.
+
+33
+
+RocketFuel
+
+RocketFuel consists of top minds from cutting-edge companies such as Snapchat, Uber, Airbnb,
+Accenture, McKinsey and more. Our talent, graduates from MIT, Columbia, and UC Berkeley, have
+years of industry leadership in their respective fields. In a landscape where people throw money
+at problems, we like to provide strategic, value-add opportunities in business strategy, product,
+marketing, blockchain implementation, recruiting, and more in order to help our investments succeed.
+Our value to the cryptocurrency space is extensive and we can help your brand with more than
+just capital.
+
+BCSolution
+
+BCS is specialized in the field of cryptocurrency consulting and marketing. The company will give
+priority to customers based on credibility, accountability, transparency, and strive to become the
+current market leader through consistent effort and development. BCS will be the leader establishing
+a more systematic and stable system in the cryptocurrency market.
+BCS is made up of elite professionals in each field with a global business mindset as background.
+As a member of “Enterprise Ethereum Alliance (EEA)”, BCS is actively working on positive lines
+globally.
+
+34
+
+AmaZix
+
+AmaZix is the premier provider of full-service advisory to blockchain businesses, providing expertise
+for both pre- and post-STO, as well as Token Generation Events. Beginning operations in mid-2017,
+the company is now a global enterprise, managing a portfolio of over 120 clients. AmaZix services
+span the entire process, from digital advisory, to community & marketing, to worldwide legal, and
+corporate finance. For more information visit https://amazix.com.
+
+CertiK
+
+CertiK is a blockchain and smart contract verification platform founded by top formal verification
+experts from Yale and Columbia University. Incubated by Binance Labs, Certik has strategic partnerships with the world"s top crypto exchanges such as Binance, Coinone, and Huobi, as well as
+public chains such as Ethereum, Terra, and Tron. Different from the traditional testing approaches,
+CertiK"s formal verification method mathematically proves blockchain ecosystem and smart contracts are hacker-resistant and bug-free.
+
+35
+
+Haechi Labs
+
+Haechi Labs aims to remove technological barriers for clients to explore the potential of blockchain.
+Haechi Labs provides two key services, "blockchain security auditing" and "blockchain as a service".
+The company provides top-notch smart contract security auditing for enterprises to securely
+develop and deploy the smart contract. Moreover, Henesis (“Blockchain as a Service”) is for enterprises to develop the most securely and easily integrate blockchain with their services. So far, based
+on the HAECHI AUDIT's security audit report, clients have successfully listed on the global cryptocurrency exchanges such as Huobi, Upbit, OKEX, and others. Trusted by the industry leaders, Haechi
+Labs have been incubated by the Samsung Electronics and awarded the Ethereum Foundation
+Grants and Ethereum Community Fund.
+
+OpenSea
+
+OpenSea is the first peer-to-peer marketplace for blockchain-based assets, which include collectibles, gaming items, and other assets backed by a blockchain. OpenSea team members have
+backgrounds from Stanford, Palantir, and Google. OpenSea is funded by YCombinator, Founders
+Fund, Coinbase Ventures, 1Confirmation, and Blockchain Capital.
+OpenSea is currently the largest general marketplace for user-owned digital items, with the
+broadest set of categories (200 and growing), the most items (over 4 million), and the best prices
+for new categories of items. OpenSea partners with game developers to build customized marketplaces for their in-game items, and is currently the primary marketplace for several top blockchain
+games.
+
+36
+
+Xangle
+
+Xangle is a public disclosure platform developed by CrossAngle for the global crypto market.
+Building reputation as the "EDGAR for crypto", it holds the most accurate and complete information
+of crypto financed projects. Xangle provides due diligence reports of token projects to exchanges,
+crypto funds, and traditional corporates. It is currently onboarding more than 150 projects and
+more than 360 projects are involved. Partnership with the Mineral Project is for the transparent
+exposure of the information rather than business relationship. Mineral and Xangle are closely
+working together to create a healthy environment of blockchain industry.
+
+The Sandbox
+
+The Sandbox is a virtual world where players can build, own and monetize their own voxel gaming
+experiences on the Ethereum blockchain.. The team’s vision is to offer a deeply immersive metaverse
+in which virtual worlds and games will be created collaboratively and without central authority.
+The Sandbox features three main components: a VoxEdit NFT builder for building voxel game
+ASSETS, a Marketplace for buying and selling ASSETS, and the Game Maker tool where complete
+interactive games can be constructed and shared. Together, these components offer rich, easy-to
+-create voxel worlds and game experiences and the ability to safely store, trade, and monetize
+creations through blockchain, allowing creators to benefit from their creations.
+
+37
+
+Bananatok
+
+BananaTok focuses on our benefits, "BiYong” which hit 6 million users in less than one year and
+‘Cafe union’ of ZOO HOLDINGS GROUP which is a Hong Kong-based F&B company met and
+combined their advantages. With ‘BananaTok’ (Social Network Services&Smart Pay), we are now
+starting a cross-border blockchain SNS&PAY Service.
+
+38
+
+12 Closing statement
+Blockchain gaming is an industry with massive potential but which has yet to fully bloom. A lack
+of experience with blockchain among the gaming community at large has restricted the adoption
+of those games that have attempted to experiment with blockchain integrations so far. Equally
+problematic is the scaling limitations of most of the major blockchains. Any blockchain game
+that is too successful and gains a great number of players may fold under the financial weight of
+storing gaming data on-chain.
+Mineral Hub aims to bring about the next generation of blockchain gaming by combining a truly
+high-quality gaming experience with a blockchain solution that abstracts away the difficulties
+associated with this technology while maintaining the value that it offers. Our team combines
+industry leaders in game design and blockchain with the aim of creating sophisticated games
+with equally sophisticated token mechanics.
+With the launch of Five Stars, we will show that blockchain technology can support a truly immersive,
+high-quality gaming experience rather than limiting it. With high-end graphics, game mechanics,
+an immersive storyline, massive customizability and the capacity to create and claim real value,
+this game will mark the first release in a brave new era of blockchain gaming.
+Through the Mineral project, we hope to allow gamers to enjoy the full advantages that blockchain
+can bring, empowering them with ownership of their in-game assets by fostering a thriving economy
+for the exchange of in-game tokenized assets and rewarding them for playing.
+
+39
+
+13 Glossary
+E-sport : “A multiplayer electronic or video game competition organized as a spectator sport,
+typically involving professional contestants and watched by viewers online (frequently in plural).
+Also: such games or competitions collectively.¹
+Free-to-play (F2P) games : Games that can legally be downloaded and played without charge.
+Fungible : “Of a good that has been contracted for: that can be replaced by another identical
+item without breaking the terms of the contract. More generally: interchangeable, replaceable.”²
+Non-Fungible Token (NFT) : A token that is unique and non-interchangeable.
+Loot box : An in-game asset that can be “cashed-in” for a randomized selection of in-game
+assets (the loot).
+Pay-to-play (P2P) games : Games that must be purchased. This encompasses both upfront
+payment and paid subscriptions.
+Role-Playing Game (RPG) : “A game in which participants act out roles; (now usually) spec.
+a game in which players take on the roles of imaginary characters who engage in adventures,
+typically in a particular fantasy setting overseen by a referee; (also in later use) a computer game
+of this kind.”³
+Token swap : The direct exchange of one set of tokens for a different set of tokens usually
+equivalent value.
+KCT : Klaytn Compatible Token
+
+1 https://www.oed.com/view/Entry/62195340?redirectedFrom=e-sport#eid
+2 https://www.oed.com/view/Entry/75537?redirectedFrom=fungible#eid
+3 https://www.oed.com/view/Entry/246441?redirectedFrom=role-playing+game#eid12237477
+
+40
+
+14 Disclaimer
+This Whitepaper, published by MINERAL HUB PTE. LTD., has been prepared for reference to provide
+information on the Mineral project (hereinafter referred to as “MNR Project”) and Mineral Token
+based on Klaytn platform (hereinafter referred to as “MNR Token”) being planned and developed
+at the time of publication of this Whitepaper. Accordingly, nothing in this Whitepaper provides
+any legally binding promise on the contents described herein, nor provides any refer to investment
+description, subscription of investment or security sales, invitation of offer, commitment of any
+performance, statement or guaranty. Every content in this Whitepaper is a plan of the MNR Project.
+Therefore, if any recent content and past announcement conflict with each other, the recent
+information shall prevail.
+No reader is obligated to execute a contract or legally binding commitment for the MNR Token
+sales based on this Whitepaper. In any case, this Whitepaper shall not constitute nor form any
+part of, and should not be interpreted as, any offer for the sale nor the subscription of, or any
+invitation to offer to buy or subscribe for, any securities nor should it or any part of it form the
+basis of, or be relied on in any connection with, any contract or commitment whatsoever. Any
+contract to sell or buy MNR Token may be executed under a separate agreement, but this Whitepaper
+shall not be the basis nor should be relied upon for deciding whether to enter an agreement or
+make an investment. In the case of an inconsistency between the Whitepaper and the aforementioned sales agreement, the contents of the sales agreement shall take priority.
+This Whitepaper is not provided as a prospectus nor a project proposal, etc., and shall not be
+interpreted as an offer or proposal of investment under any jurisdiction. MNR Token shall not be
+understood or interpreted as an opportunity of buyers of MNR Token to receive all or part of
+investment returns, income, or profit for participating with or buying goods or services in the
+MNR Project.
+Information described in this Whitepaper has been prepared based on the best knowledge of
+MINERAL HUB PTE. LTD. at the time of publication, but its reliability, accuracy, completeness or
+suitability is not represented or guaranteed. Contents of this Whitepaper may be modified in the
+future, but MINERAL HUB PTE. LTD. shall not be obliged to amend, modify or revise this Whitepaper.
+MNR Project and MNR Token are not completed in development and their structure and contents
+may be changed before their launching. Structures of MNR Project and MNR Token are complex,
+and require improvements to the functions and services over time. The required time to make
+improvements to the functions and services may take longer than planned schedule, and this
+Whitepaper provides NO guaranty on whether or not to complete them.
+
+41
+
+This Whitepaper does not aim at those citizens or residents in any state, country, or other jurisdictional
+region where the purchase of MNR Token or similar cryptocurrencies and tokens is prohibited.
+None of this Whitepaper, in full or in part, shall be reproduced, distributed, or published in a
+jurisdiction where issuing the type of tokens specified herein is regulated or prohibited. In addition,
+none this Whitepaper, in full or in part, shall be reproduced, distributed or published without
+obtaining the prior written consent of MINERAL HUB PTE. LTD..
+The publication, distribution, or dissemination of this Whitepaper does not imply that the Whitepaper or its contents comply with the laws, regulatory requirements, or rules of the applicable
+jurisdiction. Furthermore, MNR Token is non-refundable, and does not guarantee any redemption.
+There is a further risk that the value of MNR Token can, at any time, hold a value of zero. Moreover,
+MNR Token is a utility token that is classified as a cryptocurrency or digital asset, and is not a legal
+currency, statutory currency, bond, stock, security, nor derivatives and the like, thus should not
+be treated or regarded as such.
+MINERAL HUB PTE. LTD. does not guarantee the value of MNR Token with this Whitepaper nor
+the principal of the amounts paid to buy the MNR Token. MINERAL HUB PTE. LTD. shall not assume
+any legal responsibility for any loss or damage arising from information on the MNR Project and
+MNR Token included in this Whitepaper. In addition, MINERAL HUB PTE. LTD. and its respective
+past, present and future employees, contractors, consultants, equity holders, suppliers, vendors,
+service providers, parent companies, subsidiaries or affiliates, if any, shall not be liable for any
+kind of damage or loss of whatsoever nature that purchasers of MNR Token may encounter.
+The aforementioned damage or loss includes, but is not limited to, financial or nonfinancial losses
+as well as comprehensive and intangible losses, such as loss of data, whether or not it is anticipatable.
+Therefore, readers should consult their professional financial, purchase, and tax advisers before
+making any purchase of MNR Token.
+This Whitepaper and related documents may be translated into other languages, but the Whitepaper in English shall be given priority in the event of conflicting its interpretation.
+
+42
+
+Appendix I - Game contents summary
+
+Hero
+Hero Random Pick-up
+Hero Reinforcement
+Hero Level
+
+Adventure
+Main Story
+Sub Story
+Random Quests
+
+Rank System
+Personal Ranking
+PVP Ranking
+Guild Ranking
+
+Equipment
+Equipment Reinforcement
+Equipment Creation
+Equipment Trade
+
+Dungeon
+
+Skills
+Skill Reinforcement
+Learn more Skills
+
+Raid
+
+Infinite Dungeon
+Daily Dungeon
+
+PVP
+Asynchronous PVP
+Real-time PVP
+
+Guild
+Guild Benefit
+Guild Raid
+Guild Battle
+Siege/Capture Fight
+
+43
+
+Appendix II - Game contents flow
+(1)
+(2)
+(3)
+
+Players can obtain ingredients based on the Story Adventure / Growth
+PVE for obtaining ingredients for hero promotion
+PVP, RVR for both hero competition and cooperation
+
+Players can obtain MNR via market trading / Shorten the growth time
+
+Induce the continuous groth and
+competition through the ranking
+
+Player
+
+Reinvestment
+
+rewards, market profits, etc
+
+Choose Character
+
+- Obtain MNR through the
+
+Profits
+
+market trade
+- Shorten the growth time
+
+Market
+
+Equipment
+
+Basic Battle
+
+Asynchronous
+
+Obtain growth-necessary
+ingredients/Create Equipment
+
+❶
+
+❸ Arena [PVP]
+Give growth
+motivation Through
+
+Adventure
+
+thecompetition
+
+Obtain the higher-ranked
+ingredents for the growth
+
+❷ [PVE]
+
+Obtain various currencites
+depending on the level of
+contents
+
+Infinity Dungeon
+Promotions / Obtain
+Promotion Ingredients
+
+Guild Battle
+
+Real-time
+
+[PVP]
+Induce
+
+❹ Guild [RVR]
+
+Guild expansion
+through the
+
+Community
+
+competition
+
+Inviigoration /
+Obatin Long PLC
+
+Daily Dungeon
+Induce Daily Participation
+
+Raid
+Obtain higher-graded ingredients
+
+New content will be added
+
+End Contents
+
+Guild
+Raid
+
+Trigger of
+Induce
+ooperation
+
+nurturing and
+
+Guild
+Siege Fight
+
+competition
+
+44
+
+
